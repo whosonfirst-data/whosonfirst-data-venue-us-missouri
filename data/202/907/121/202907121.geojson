@@ -1,0 +1,85 @@
+{
+  "id": 202907121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-93.28138,37.157749,-93.28138,37.157749",
+    "geom:latitude":37.157749,
+    "geom:longitude":-93.28138,
+    "iso:country":"US",
+    "sg:address":"1000 E Montclair St",
+    "sg:city":"Springfield",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        },
+        {
+            "category":"Social Services",
+            "subcategory":"Retirement Home",
+            "type":"Services"
+        },
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 886 2100",
+    "sg:postcode":"65807",
+    "sg:province":"MO",
+    "sg:tags":[
+        "living",
+        "assisted",
+        "homes-intermediate",
+        "community",
+        "elder"
+    ],
+    "sg:website":"http://www-themontclair-com.netsolads.com/CommunityHome.aspx?_nsag=36281",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971363,
+        102087523,
+        85881149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5a8X23FJePNQBhcVIz7qDu_37.157749_-93.281380@1303262939"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5f4928d0fa94e3633e2dabee3cce1168",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102087523,
+            "locality_id":85971363,
+            "neighbourhood_id":85881149,
+            "region_id":85688661,
+            "venue_id":202907121
+        }
+    ],
+    "wof:id":202907121,
+    "wof:lastmodified":1449062455,
+    "wof:name":"The Montclair",
+    "wof:parent_id":85881149,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "living",
+        "assisted",
+        "homes-intermediate",
+        "community",
+        "elder"
+    ]
+},
+  "bbox": [-93.28138,37.157749,-93.28138,37.157749],
+  "geometry": {"coordinates":[-93.28138,37.157749],"type":"Point"}
+}

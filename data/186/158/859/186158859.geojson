@@ -1,0 +1,80 @@
+{
+  "id": 186158859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-90.388124,38.76225,-90.388124,38.76225",
+    "geom:latitude":38.76225,
+    "geom:longitude":-90.388124,
+    "iso:country":"US",
+    "sg:address":"11774 Missouri Bottom Rd",
+    "sg:city":"Hazelwood",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        },
+        {
+            "category":"Airport",
+            "subcategory":"",
+            "type":"Transportation"
+        },
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 731 5151",
+    "sg:postcode":"63042",
+    "sg:province":"MO",
+    "sg:tags":[
+        "shuttle",
+        "limousine",
+        "public"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972341,
+        102086173,
+        85840903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6QZsEy8AoTeyevZ3yAYujG_38.762250_-90.388124@1303262926"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"239350242a926c86ae7b3f03f02b4d85",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086173,
+            "locality_id":85972341,
+            "neighbourhood_id":85840903,
+            "region_id":85688661,
+            "venue_id":186158859
+        }
+    ],
+    "wof:id":186158859,
+    "wof:lastmodified":1449052157,
+    "wof:name":"Carey Of St Louis",
+    "wof:parent_id":85840903,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shuttle",
+        "limousine",
+        "public"
+    ]
+},
+  "bbox": [-90.388124,38.76225,-90.388124,38.76225],
+  "geometry": {"coordinates":[-90.388124,38.76225],"type":"Point"}
+}

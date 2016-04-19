@@ -1,0 +1,73 @@
+{
+  "id": 202890539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-93.276339,37.143602,-93.276339,37.143602",
+    "geom:latitude":37.143602,
+    "geom:longitude":-93.276339,
+    "iso:country":"US",
+    "sg:address":"1255 E Independence St",
+    "sg:city":"Springfield",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 886 0777",
+    "sg:postcode":"65804",
+    "sg:province":"MO",
+    "sg:tags":[
+        "clinic",
+        "hospital",
+        "veterinarian",
+        "specialty"
+    ],
+    "sg:website":"http://bpvh.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971363,
+        102087523,
+        85881149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6n9sCqLLUMqlYYAuQwL3WD_37.143602_-93.276339@1303262938"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"35b93503fa9f02607fc3cf2aab3c5d72",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102087523,
+            "locality_id":85971363,
+            "neighbourhood_id":85881149,
+            "region_id":85688661,
+            "venue_id":202890539
+        }
+    ],
+    "wof:id":202890539,
+    "wof:lastmodified":1449060684,
+    "wof:name":"Bradford Park Veterinary Hospital",
+    "wof:parent_id":85881149,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic",
+        "hospital",
+        "veterinarian",
+        "specialty"
+    ]
+},
+  "bbox": [-93.276339,37.143602,-93.276339,37.143602],
+  "geometry": {"coordinates":[-93.276339,37.143602],"type":"Point"}
+}

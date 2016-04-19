@@ -1,0 +1,79 @@
+{
+  "id": 202387727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-94.389454,39.201307,-94.389454,39.201307",
+    "geom:latitude":39.201307,
+    "geom:longitude":-94.389454,
+    "iso:country":"US",
+    "sg:address":"1700 E Old State Route 210",
+    "sg:city":"Liberty",
+    "sg:classifiers":[
+        {
+            "category":"Transit Center",
+            "subcategory":"Freight",
+            "type":"Transportation"
+        },
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 781 9600",
+    "sg:postcode":"64068",
+    "sg:province":"MO",
+    "sg:tags":[
+        "trucking-light",
+        "trucking",
+        "local",
+        "trucking-motor",
+        "hauling"
+    ],
+    "sg:website":"http://www.americancentral.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972461,
+        102086177
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_49JeRcMIQb1eb1QXXWVvDi_39.201307_-94.389454@1303262932"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"97eaff86a7dc6e78ea7f792c270c98e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086177,
+            "locality_id":85972461,
+            "neighbourhood_id":-1,
+            "region_id":85688661,
+            "venue_id":202387727
+        }
+    ],
+    "wof:id":202387727,
+    "wof:lastmodified":1449062312,
+    "wof:name":"American Central Transport",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking-light",
+        "trucking",
+        "local",
+        "trucking-motor",
+        "hauling"
+    ]
+},
+  "bbox": [-94.389454,39.201307,-94.389454,39.201307],
+  "geometry": {"coordinates":[-94.389454,39.201307],"type":"Point"}
+}

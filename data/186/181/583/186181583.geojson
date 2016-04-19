@@ -1,0 +1,86 @@
+{
+  "id": 186181583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.393101,38.281466,-90.393101,38.281466",
+    "geom:latitude":38.281466,
+    "geom:longitude":-90.393101,
+    "iso:country":"US",
+    "sg:address":"326 5th St",
+    "sg:city":"Pevely",
+    "sg:classifiers":[
+        {
+            "category":"Fast Food",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 390 9374",
+    "sg:postcode":"63070",
+    "sg:province":"MO",
+    "sg:tags":[
+        "delivery",
+        "take",
+        "pizza"
+    ],
+    "sg:website":"http://www.dominospizza.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970973,
+        102080787
+    ],
+    "wof:brand_id":420573851,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_01iDC2BJ2oNcKs1EHkcouR_38.281466_-90.393101@1303262926"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"210b71c3bdce851f732f5d26c43d713b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102080787,
+            "locality_id":85970973,
+            "neighbourhood_id":-1,
+            "region_id":85688661,
+            "venue_id":186181583
+        }
+    ],
+    "wof:id":186181583,
+    "wof:lastmodified":1457207663,
+    "wof:name":"Domino's Pizza",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "delivery",
+        "take",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -90.393101,
+    38.281466,
+    -90.393101,
+    38.281466
+],
+  "geometry": {"coordinates":[-90.393101,38.281466],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 202593451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-92.326508,38.950481,-92.326508,38.950481",
+    "geom:latitude":38.950481,
+    "geom:longitude":-92.326508,
+    "iso:country":"US",
+    "sg:address":"1001 Cherry St Ste 204",
+    "sg:city":"Columbia",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Court House",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 442 8151",
+    "sg:postcode":"65201",
+    "sg:province":"MO",
+    "sg:tags":[
+        "legislator"
+    ],
+    "sg:website":"http://www.senate.gov",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970425,
+        102086187,
+        85835171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3cX6K3YfA8RX6IJ1lkG4Dp_38.950481_-92.326508@1303262935"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4774cd0a6d8a1a45d0c8e505e5afd69f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086187,
+            "locality_id":85970425,
+            "neighbourhood_id":85835171,
+            "region_id":85688661,
+            "venue_id":202593451
+        }
+    ],
+    "wof:id":202593451,
+    "wof:lastmodified":1449061768,
+    "wof:name":"Senator Kit Bond",
+    "wof:parent_id":85835171,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "legislator"
+    ]
+},
+  "bbox": [-92.326508,38.950481,-92.326508,38.950481],
+  "geometry": {"coordinates":[-92.326508,38.950481],"type":"Point"}
+}

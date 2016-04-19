@@ -1,0 +1,75 @@
+{
+  "id": 202602099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-92.400435,39.005255,-92.400435,39.005255",
+    "geom:latitude":39.005255,
+    "geom:longitude":-92.400435,
+    "iso:country":"US",
+    "sg:address":"5034 N Route E",
+    "sg:city":"Columbia",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 445 3589",
+    "sg:postcode":"65202",
+    "sg:province":"MO",
+    "sg:tags":[
+        "automobile",
+        "electrician",
+        "electric"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970425,
+        102086187,
+        85835171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1GftZ2zBpft9s8eftNAgHK_39.005255_-92.400435@1303262935"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"6ad1b9306e97610385bacd68104fb206",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086187,
+            "locality_id":85970425,
+            "neighbourhood_id":85835171,
+            "region_id":85688661,
+            "venue_id":202602099
+        }
+    ],
+    "wof:id":202602099,
+    "wof:lastmodified":1449061313,
+    "wof:name":"Mcmenamy Industries Inc",
+    "wof:parent_id":85835171,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "electrician",
+        "electric"
+    ]
+},
+  "bbox": [-92.400435,39.005255,-92.400435,39.005255],
+  "geometry": {"coordinates":[-92.400435,39.005255],"type":"Point"}
+}

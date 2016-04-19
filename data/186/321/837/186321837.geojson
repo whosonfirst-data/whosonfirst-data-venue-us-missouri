@@ -1,0 +1,72 @@
+{
+  "id": 186321837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-90.275101,38.6264,-90.275101,38.6264",
+    "geom:latitude":38.6264,
+    "geom:longitude":-90.275101,
+    "iso:country":"US",
+    "sg:address":"1201 Macklind Ave",
+    "sg:city":"Saint Louis",
+    "sg:classifiers":[
+        {
+            "category":"Animal Shelter",
+            "subcategory":"",
+            "type":"Public Place"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 951 1562",
+    "sg:postcode":"63110",
+    "sg:province":"MO",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "sg:website":"www.hsmo.org/m_aboutus/index.php",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971343,
+        102080791,
+        85873655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5fmgREoxLiXcObKuuzsKr6_38.626400_-90.275101@1303262928"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"01be9029b812189eb358a8208566815f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102080791,
+            "locality_id":85971343,
+            "neighbourhood_id":85873655,
+            "region_id":85688661,
+            "venue_id":186321837
+        }
+    ],
+    "wof:id":186321837,
+    "wof:lastmodified":1449050323,
+    "wof:name":"Humane Society of Missouri",
+    "wof:parent_id":85873655,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [-90.275101,38.6264,-90.275101,38.6264],
+  "geometry": {"coordinates":[-90.275101,38.6264],"type":"Point"}
+}

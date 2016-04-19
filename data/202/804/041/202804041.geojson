@@ -1,0 +1,70 @@
+{
+  "id": 202804041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-93.499873,36.932185,-93.499873,36.932185",
+    "geom:latitude":36.932185,
+    "geom:longitude":-93.499873,
+    "iso:country":"US",
+    "sg:address":"206 Main St",
+    "sg:city":"Crane",
+    "sg:classifiers":[
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 723 5313",
+    "sg:postcode":"65633",
+    "sg:province":"MO",
+    "sg:tags":[
+        "espresso"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972055,
+        102087529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4cJFTQ7fskFKMh58IPBCoj_36.932185_-93.499873@1303262937"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"8576fcd314794f9ba55ff5f8fab5ba16",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102087529,
+            "locality_id":85972055,
+            "neighbourhood_id":-1,
+            "region_id":85688661,
+            "venue_id":202804041
+        }
+    ],
+    "wof:id":202804041,
+    "wof:lastmodified":1449061859,
+    "wof:name":"Crane Cafe",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "espresso"
+    ]
+},
+  "bbox": [-93.499873,36.932185,-93.499873,36.932185],
+  "geometry": {"coordinates":[-93.499873,36.932185],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 186130715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-90.49967,38.510255,-90.49967,38.510255",
+    "geom:latitude":38.510255,
+    "geom:longitude":-90.49967,
+    "iso:country":"US",
+    "sg:address":"1404 Atlantic Crossing Dr",
+    "sg:city":"Fenton",
+    "sg:classifiers":[
+        {
+            "category":"Transit Center",
+            "subcategory":"Freight",
+            "type":"Transportation"
+        },
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 225 1762",
+    "sg:postcode":"63026",
+    "sg:province":"MO",
+    "sg:tags":[
+        "local",
+        "trucking-motor",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972241,
+        102086173,
+        85841473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5kKYLNsroYbgXhAfBm0we5_38.510255_-90.499670@1303262925"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f024892c38c4e67d998eb970d050ffa8",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086173,
+            "locality_id":85972241,
+            "neighbourhood_id":85841473,
+            "region_id":85688661,
+            "venue_id":186130715
+        }
+    ],
+    "wof:id":186130715,
+    "wof:lastmodified":1449051317,
+    "wof:name":"Bob Laurie Trucking",
+    "wof:parent_id":85841473,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "local",
+        "trucking-motor",
+        "trucking"
+    ]
+},
+  "bbox": [-90.49967,38.510255,-90.49967,38.510255],
+  "geometry": {"coordinates":[-90.49967,38.510255],"type":"Point"}
+}

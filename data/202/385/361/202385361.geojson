@@ -1,0 +1,80 @@
+{
+  "id": 202385361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-94.471863,39.219971,-94.471863,39.219971",
+    "geom:latitude":39.219971,
+    "geom:longitude":-94.471863,
+    "iso:country":"US",
+    "sg:address":"7101 Stewart Rd",
+    "sg:city":"Liberty",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Storage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 452 2481",
+    "sg:postcode":"64068",
+    "sg:province":"MO",
+    "sg:tags":[
+        "renting",
+        "truck",
+        "moving-self",
+        "leasing",
+        "trailer"
+    ],
+    "sg:website":"http://www.uhaul.com/Locations/Rentals-near-Liberty-MO-64068/030440",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970739,
+        102086177,
+        85858297
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0XIlqFXVILRZfuSiH0J46W_39.219971_-94.471863@1303262932"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"25058f22721713cf80e93d4f1caad424",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086177,
+            "locality_id":85970739,
+            "neighbourhood_id":85858297,
+            "region_id":85688661,
+            "venue_id":202385361
+        }
+    ],
+    "wof:id":202385361,
+    "wof:lastmodified":1449061621,
+    "wof:name":"U-Haul Neighborhood Dealer - Pleasant Valley Safety Storage",
+    "wof:parent_id":85858297,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "truck",
+        "moving-self",
+        "leasing",
+        "trailer"
+    ]
+},
+  "bbox": [-94.471863,39.219971,-94.471863,39.219971],
+  "geometry": {"coordinates":[-94.471863,39.219971],"type":"Point"}
+}

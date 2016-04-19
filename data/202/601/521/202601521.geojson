@@ -1,0 +1,73 @@
+{
+  "id": 202601521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-92.30873,38.978489,-92.30873,38.978489",
+    "geom:latitude":38.978489,
+    "geom:longitude":-92.30873,
+    "iso:country":"US",
+    "sg:address":"1904 Weatherwood St",
+    "sg:city":"Columbia",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 814 0747",
+    "sg:postcode":"65202",
+    "sg:province":"MO",
+    "sg:tags":[
+        "buyer",
+        "broker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970425,
+        102086187,
+        85835171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5s6C5u4hxBgpRHgFdaj9QA_38.978489_-92.308730@1303262935"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1aa798dc82321f651c4ba69a77bda234",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086187,
+            "locality_id":85970425,
+            "neighbourhood_id":85835171,
+            "region_id":85688661,
+            "venue_id":202601521
+        }
+    ],
+    "wof:id":202601521,
+    "wof:lastmodified":1449061261,
+    "wof:name":"Jacob's Realty",
+    "wof:parent_id":85835171,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "buyer",
+        "broker"
+    ]
+},
+  "bbox": [-92.30873,38.978489,-92.30873,38.978489],
+  "geometry": {"coordinates":[-92.30873,38.978489],"type":"Point"}
+}

@@ -1,0 +1,85 @@
+{
+  "id": 186148455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-90.315933,38.799792,-90.315933,38.799792",
+    "geom:latitude":38.799792,
+    "geom:longitude":-90.315933,
+    "iso:country":"US",
+    "sg:address":"1680 N New Florissant Rd",
+    "sg:city":"Florissant",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 830 1337",
+    "sg:postcode":"63033",
+    "sg:province":"MO",
+    "sg:tags":[
+        "tires-wholesale",
+        "tire",
+        "retread",
+        "recap",
+        "manufacturer"
+    ],
+    "sg:website":"http://www.coopertire.com/html/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972219,
+        102086173,
+        85813019
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_44JiWkEkbRPlm3xEaumWCN_38.799792_-90.315933@1303262925"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3af6293e4ce422c8b4b2371c0a073a75",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086173,
+            "locality_id":85972219,
+            "neighbourhood_id":85813019,
+            "region_id":85688661,
+            "venue_id":186148455
+        }
+    ],
+    "wof:id":186148455,
+    "wof:lastmodified":1449052586,
+    "wof:name":"Premiere Auto Service",
+    "wof:parent_id":85813019,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tires-wholesale",
+        "tire",
+        "retread",
+        "recap",
+        "manufacturer"
+    ]
+},
+  "bbox": [-90.315933,38.799792,-90.315933,38.799792],
+  "geometry": {"coordinates":[-90.315933,38.799792],"type":"Point"}
+}

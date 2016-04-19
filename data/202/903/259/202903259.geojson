@@ -1,0 +1,68 @@
+{
+  "id": 202903259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-93.314404,37.184586,-93.314404,37.184586",
+    "geom:latitude":37.184586,
+    "geom:longitude":-93.314404,
+    "iso:country":"US",
+    "sg:address":"1721 W Elfindale St # 205",
+    "sg:city":"Springfield",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 895 5986",
+    "sg:postcode":"65807",
+    "sg:province":"MO",
+    "sg:tags":[
+        "government-united",
+        "state"
+    ],
+    "sg:website":"http://www.kclinc.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        102087523,
+        85881165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0tbzaKRH4ArscDPhpPiio8_37.184586_-93.314404@1303262939"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"156a92563e8dfef9e833d922eb1210b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102087523,
+            "locality_id":-1,
+            "neighbourhood_id":85881165,
+            "region_id":85688661,
+            "venue_id":202903259
+        }
+    ],
+    "wof:id":202903259,
+    "wof:lastmodified":1449060262,
+    "wof:name":"Missouri Department Of Social Services",
+    "wof:parent_id":85881165,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "government-united",
+        "state"
+    ]
+},
+  "bbox": [-93.314404,37.184586,-93.314404,37.184586],
+  "geometry": {"coordinates":[-93.314404,37.184586],"type":"Point"}
+}

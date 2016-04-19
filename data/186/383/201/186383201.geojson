@@ -1,0 +1,71 @@
+{
+  "id": 186383201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-90.237801,38.597198,-90.237801,38.597198",
+    "geom:latitude":38.597198,
+    "geom:longitude":-90.237801,
+    "iso:country":"US",
+    "sg:address":"3301 Humphrey St",
+    "sg:city":"Saint Louis",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Fruits & Vegetables",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 771 0740",
+    "sg:postcode":"63118",
+    "sg:province":"MO",
+    "sg:tags":[
+        "veggie"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971343,
+        102080791,
+        85873677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0jhxTkkySTUeiGtJsQ6LZj_38.597198_-90.237801@1303262929"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"71b239baa2a610934725166f099b48c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102080791,
+            "locality_id":85971343,
+            "neighbourhood_id":85873677,
+            "region_id":85688661,
+            "venue_id":186383201
+        }
+    ],
+    "wof:id":186383201,
+    "wof:lastmodified":1449051515,
+    "wof:name":"Taj Market",
+    "wof:parent_id":85873677,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veggie"
+    ]
+},
+  "bbox": [-90.237801,38.597198,-90.237801,38.597198],
+  "geometry": {"coordinates":[-90.237801,38.597198],"type":"Point"}
+}

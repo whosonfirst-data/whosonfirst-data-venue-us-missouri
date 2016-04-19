@@ -1,0 +1,66 @@
+{
+  "id": 186303913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-90.255302,38.640301,-90.255302,38.640301",
+    "geom:latitude":38.640301,
+    "geom:longitude":-90.255302,
+    "iso:country":"US",
+    "sg:address":"4401 W Pine Blvd",
+    "sg:city":"Saint Louis",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 533 1081",
+    "sg:postcode":"63108",
+    "sg:province":"MO",
+    "sg:tags":[
+        "drugstore"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971343,
+        102080791,
+        85867031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2AI3rpBtl9flm2WmwMCPOf_38.640301_-90.255302@1303262928"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"477284100506480a029ef774f92c5ae6",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102080791,
+            "locality_id":85971343,
+            "neighbourhood_id":85867031,
+            "region_id":85688661,
+            "venue_id":186303913
+        }
+    ],
+    "wof:id":186303913,
+    "wof:lastmodified":1449050278,
+    "wof:name":"West Pine Pharmacy",
+    "wof:parent_id":85867031,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drugstore"
+    ]
+},
+  "bbox": [-90.255302,38.640301,-90.255302,38.640301],
+  "geometry": {"coordinates":[-90.255302,38.640301],"type":"Point"}
+}

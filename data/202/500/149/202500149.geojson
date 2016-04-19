@@ -1,0 +1,70 @@
+{
+  "id": 202500149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-93.776192,38.369431,-93.776192,38.369431",
+    "geom:latitude":38.369431,
+    "geom:longitude":-93.776192,
+    "iso:country":"US",
+    "sg:address":"200 S Main St",
+    "sg:city":"Clinton",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Employment Agencies",
+            "type":"Services"
+        },
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 660 885 2121",
+    "sg:postcode":"64735",
+    "sg:province":"MO",
+    "sg:tags":[
+        "employer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971651,
+        102080805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1dALRNkq8l6OX9LOVMJOh4_38.369431_-93.776192@1303262934"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"fa113378f9e01cb790e88d1ac6160916",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102080805,
+            "locality_id":85971651,
+            "neighbourhood_id":-1,
+            "region_id":85688661,
+            "venue_id":202500149
+        }
+    ],
+    "wof:id":202500149,
+    "wof:lastmodified":1449060752,
+    "wof:name":"Clinton Main Street Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "employer"
+    ]
+},
+  "bbox": [-93.776192,38.369431,-93.776192,38.369431],
+  "geometry": {"coordinates":[-93.776192,38.369431],"type":"Point"}
+}

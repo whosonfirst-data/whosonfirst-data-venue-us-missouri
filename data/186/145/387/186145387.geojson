@@ -1,0 +1,74 @@
+{
+  "id": 186145387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-90.345989,38.790386,-90.345989,38.790386",
+    "geom:latitude":38.790386,
+    "geom:longitude":-90.345989,
+    "iso:country":"US",
+    "sg:address":"8192 N Lindbergh Blvd",
+    "sg:city":"Florissant",
+    "sg:classifiers":[
+        {
+            "category":"Fast Food",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 972 7272",
+    "sg:postcode":"63031",
+    "sg:province":"MO",
+    "sg:tags":[
+        "take",
+        "pizza"
+    ],
+    "sg:website":"http://www.papamurphys.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972219,
+        102086173,
+        85813019
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1yEA25fNdZV9eiLOn83fJ8_38.790386_-90.345989@1303262925"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"bd3437fdef35902176a5bbcd046c2de9",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086173,
+            "locality_id":85972219,
+            "neighbourhood_id":85813019,
+            "region_id":85688661,
+            "venue_id":186145387
+        }
+    ],
+    "wof:id":186145387,
+    "wof:lastmodified":1449051196,
+    "wof:name":"Papa Murphy's Take 'N' Bake",
+    "wof:parent_id":85813019,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "take",
+        "pizza"
+    ]
+},
+  "bbox": [-90.345989,38.790386,-90.345989,38.790386],
+  "geometry": {"coordinates":[-90.345989,38.790386],"type":"Point"}
+}

@@ -1,0 +1,86 @@
+{
+  "id": 202417241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-94.463539,39.005951,-94.463539,39.005951",
+    "geom:latitude":39.005951,
+    "geom:longitude":-94.463539,
+    "iso:country":"US",
+    "sg:address":"5885 Raytown Rd",
+    "sg:city":"Raytown",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Non-durable Goods",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Hardware",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 358 2424",
+    "sg:postcode":"64133",
+    "sg:province":"MO",
+    "sg:tags":[
+        "supply",
+        "supplies-wholesale",
+        "equipment",
+        "chemicals-wholesale",
+        "janitor",
+        "manufacturer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971471,
+        102081227,
+        85871965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_42vcO4Mptspa9TAMmZFB5e_39.005951_-94.463539@1303262933"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f0c4d4c68aa5b2294d614a17a495ddc1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102081227,
+            "locality_id":85971471,
+            "neighbourhood_id":85871965,
+            "region_id":85688661,
+            "venue_id":202417241
+        }
+    ],
+    "wof:id":202417241,
+    "wof:lastmodified":1449061149,
+    "wof:name":"F 4 Industrial",
+    "wof:parent_id":85871965,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply",
+        "supplies-wholesale",
+        "equipment",
+        "chemicals-wholesale",
+        "janitor",
+        "manufacturer"
+    ]
+},
+  "bbox": [-94.463539,39.005951,-94.463539,39.005951],
+  "geometry": {"coordinates":[-94.463539,39.005951],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 202382967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-94.452293,39.244665,-94.452293,39.244665",
+    "geom:latitude":39.244665,
+    "geom:longitude":-94.452293,
+    "iso:country":"US",
+    "sg:address":"2001 W Kansas St",
+    "sg:city":"Liberty",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Household Appliances",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 407 4100",
+    "sg:postcode":"64068",
+    "sg:province":"MO",
+    "sg:tags":[
+        "major",
+        "clothing"
+    ],
+    "sg:website":"http://www.sears.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970739,
+        102086177,
+        85834529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5iKFRARbM7LqsFXHuz1B3Y_39.244665_-94.452293@1303262932"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a89c8392615c35fec11b6f970ad893f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086177,
+            "locality_id":85970739,
+            "neighbourhood_id":85834529,
+            "region_id":85688661,
+            "venue_id":202382967
+        }
+    ],
+    "wof:id":202382967,
+    "wof:lastmodified":1449060795,
+    "wof:name":"Sears",
+    "wof:parent_id":85834529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "major",
+        "clothing"
+    ]
+},
+  "bbox": [-94.452293,39.244665,-94.452293,39.244665],
+  "geometry": {"coordinates":[-94.452293,39.244665],"type":"Point"}
+}

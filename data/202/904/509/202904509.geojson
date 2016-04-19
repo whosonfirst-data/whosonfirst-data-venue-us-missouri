@@ -1,0 +1,80 @@
+{
+  "id": 202904509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-93.277657,37.152706,-93.277657,37.152706",
+    "geom:latitude":37.152706,
+    "geom:longitude":-93.277657,
+    "iso:country":"US",
+    "sg:address":"3424 S National Ave",
+    "sg:city":"Springfield",
+    "sg:classifiers":[
+        {
+            "category":"Railroad",
+            "subcategory":"",
+            "type":"Transportation"
+        },
+        {
+            "category":"Airline",
+            "subcategory":"",
+            "type":"Transportation"
+        },
+        {
+            "category":"Travel",
+            "subcategory":"Travel Agent",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 883 5244",
+    "sg:postcode":"65807",
+    "sg:province":"MO",
+    "sg:tags":[
+        "agency",
+        "services-commercial",
+        "railroads-ticket"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971363,
+        102087523,
+        85881149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6gn18pgAFWXVa2kKKgxanD_37.152706_-93.277657@1303262939"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1d49531fced1e4961b0e1f91eabf2410",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102087523,
+            "locality_id":85971363,
+            "neighbourhood_id":85881149,
+            "region_id":85688661,
+            "venue_id":202904509
+        }
+    ],
+    "wof:id":202904509,
+    "wof:lastmodified":1449062720,
+    "wof:name":"House Of Travel Inc",
+    "wof:parent_id":85881149,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agency",
+        "services-commercial",
+        "railroads-ticket"
+    ]
+},
+  "bbox": [-93.277657,37.152706,-93.277657,37.152706],
+  "geometry": {"coordinates":[-93.277657,37.152706],"type":"Point"}
+}

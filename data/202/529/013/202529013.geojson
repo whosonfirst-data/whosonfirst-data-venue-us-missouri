@@ -1,0 +1,71 @@
+{
+  "id": 202529013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-94.512787,37.07502,-94.512787,37.07502",
+    "geom:latitude":37.07502,
+    "geom:longitude":-94.512787,
+    "iso:country":"US",
+    "sg:address":"201 E 15th St",
+    "sg:city":"Joplin",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 781 8681",
+    "sg:postcode":"64804",
+    "sg:province":"MO",
+    "sg:tags":[
+        "hospital",
+        "veterinarian",
+        "clinic"
+    ],
+    "sg:website":"http://www.academyanimalhospital.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970893,
+        102087525,
+        85885363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0aQFhzcPdrPhjIGs02eljP_37.075020_-94.512787@1303262934"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3ed711538288b5474093f0a823768ced",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102087525,
+            "locality_id":85970893,
+            "neighbourhood_id":85885363,
+            "region_id":85688661,
+            "venue_id":202529013
+        }
+    ],
+    "wof:id":202529013,
+    "wof:lastmodified":1449061234,
+    "wof:name":"Academy Animal Hospital",
+    "wof:parent_id":85885363,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hospital",
+        "veterinarian",
+        "clinic"
+    ]
+},
+  "bbox": [-94.512787,37.07502,-94.512787,37.07502],
+  "geometry": {"coordinates":[-94.512787,37.07502],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 186370315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-90.304225,38.633686,-90.304225,38.633686",
+    "geom:latitude":38.633686,
+    "geom:longitude":-90.304225,
+    "iso:country":"US",
+    "sg:address":"981 S Skinker Blvd",
+    "sg:city":"Saint Louis",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Landmark",
+            "subcategory":"Historic",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"63117",
+    "sg:province":"MO",
+    "sg:tags":[
+        "building",
+        "historical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972187,
+        102086173,
+        85873647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3b2fcl0taCQykUefXpMhlP_38.633686_-90.304225@1303262929"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"fa153aeb1cb4431705afc2d4d888277b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086173,
+            "locality_id":85972187,
+            "neighbourhood_id":85873647,
+            "region_id":85688661,
+            "venue_id":186370315
+        }
+    ],
+    "wof:id":186370315,
+    "wof:lastmodified":1449051846,
+    "wof:name":"Giant Amoco Sign",
+    "wof:parent_id":85873647,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "historical"
+    ]
+},
+  "bbox": [-90.304225,38.633686,-90.304225,38.633686],
+  "geometry": {"coordinates":[-90.304225,38.633686],"type":"Point"}
+}

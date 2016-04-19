@@ -1,0 +1,79 @@
+{
+  "id": 186596285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-90.82679,36.62075,-90.82679,36.62075",
+    "geom:latitude":36.62075,
+    "geom:longitude":-90.82679,
+    "iso:country":"US",
+    "sg:address":"1 Hospital Dr",
+    "sg:city":"Doniphan",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 996 7148",
+    "sg:postcode":"63935",
+    "sg:province":"MO",
+    "sg:tags":[
+        "counseling",
+        "medical",
+        "outpatient"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971985,
+        102086911
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_46AMAdAQqqbt9cpYv7rIlU_36.620750_-90.826790@1303262932"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e19daf9ffde7229848df06e1be4839f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086911,
+            "locality_id":85971985,
+            "neighbourhood_id":-1,
+            "region_id":85688661,
+            "venue_id":186596285
+        }
+    ],
+    "wof:id":186596285,
+    "wof:lastmodified":1449051742,
+    "wof:name":"Samuel Medical Clinic",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "counseling",
+        "medical",
+        "outpatient"
+    ]
+},
+  "bbox": [-90.82679,36.62075,-90.82679,36.62075],
+  "geometry": {"coordinates":[-90.82679,36.62075],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 186145283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-90.347013,38.798187,-90.347013,38.798187",
+    "geom:latitude":38.798187,
+    "geom:longitude":-90.347013,
+    "iso:country":"US",
+    "sg:address":"955 Thompson Dr",
+    "sg:city":"Florissant",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 680 3154",
+    "sg:postcode":"63031",
+    "sg:province":"MO",
+    "sg:tags":[
+        "buyer",
+        "broker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972219,
+        102086173,
+        85813019
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1bG0pU149Wr44U0toT1eEk_38.798187_-90.347013@1303262925"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2517ed26d4b4e8c34cf9566f400cc928",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086173,
+            "locality_id":85972219,
+            "neighbourhood_id":85813019,
+            "region_id":85688661,
+            "venue_id":186145283
+        }
+    ],
+    "wof:id":186145283,
+    "wof:lastmodified":1449051194,
+    "wof:name":"Redwood One Properties",
+    "wof:parent_id":85813019,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "buyer",
+        "broker"
+    ]
+},
+  "bbox": [-90.347013,38.798187,-90.347013,38.798187],
+  "geometry": {"coordinates":[-90.347013,38.798187],"type":"Point"}
+}

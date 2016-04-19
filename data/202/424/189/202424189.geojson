@@ -1,0 +1,73 @@
+{
+  "id": 202424189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-94.662184,39.18128,-94.662184,39.18128",
+    "geom:latitude":39.18128,
+    "geom:longitude":-94.662184,
+    "iso:country":"US",
+    "sg:address":"7420 NW River Park Dr",
+    "sg:city":"Parkville",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Testing Lab",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 741 0071",
+    "sg:postcode":"64152",
+    "sg:province":"MO",
+    "sg:tags":[
+        "laboratory",
+        "dental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970739,
+        102085271,
+        85840629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5bnLNwrQthCY9DIYY29aOO_39.181280_-94.662184@1303262933"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"bb5d70730d9f282cf9e876b083398388",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085271,
+            "locality_id":85970739,
+            "neighbourhood_id":85840629,
+            "region_id":85688661,
+            "venue_id":202424189
+        }
+    ],
+    "wof:id":202424189,
+    "wof:lastmodified":1449062489,
+    "wof:name":"Tower Ortho Lab",
+    "wof:parent_id":85840629,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory",
+        "dental"
+    ]
+},
+  "bbox": [-94.662184,39.18128,-94.662184,39.18128],
+  "geometry": {"coordinates":[-94.662184,39.18128],"type":"Point"}
+}

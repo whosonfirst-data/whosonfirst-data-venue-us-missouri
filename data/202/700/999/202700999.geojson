@@ -1,0 +1,74 @@
+{
+  "id": 202700999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-92.657909,37.674527,-92.657909,37.674527",
+    "geom:latitude":37.674527,
+    "geom:longitude":-92.657909,
+    "iso:country":"US",
+    "sg:address":"732 S Madison Ave",
+    "sg:city":"Lebanon",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 532 9161",
+    "sg:postcode":"65536",
+    "sg:province":"MO",
+    "sg:tags":[
+        "physician",
+        "family",
+        "practice",
+        "surgeons",
+        "medicine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972115,
+        102085341,
+        85855845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2czu3gyN7lvcHLnHSCcaFA_37.674527_-92.657909@1303262936"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"04fc51a1de131a230c89c62006c74023",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085341,
+            "locality_id":85972115,
+            "neighbourhood_id":85855845,
+            "region_id":85688661,
+            "venue_id":202700999
+        }
+    ],
+    "wof:id":202700999,
+    "wof:lastmodified":1449062432,
+    "wof:name":"Bealer, Louis A Md",
+    "wof:parent_id":85855845,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "family",
+        "practice",
+        "surgeons",
+        "medicine"
+    ]
+},
+  "bbox": [-92.657909,37.674527,-92.657909,37.674527],
+  "geometry": {"coordinates":[-92.657909,37.674527],"type":"Point"}
+}

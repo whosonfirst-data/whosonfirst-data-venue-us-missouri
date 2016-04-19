@@ -1,0 +1,76 @@
+{
+  "id": 202380661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-94.441521,39.244499,-94.441521,39.244499",
+    "geom:latitude":39.244499,
+    "geom:longitude":-94.441521,
+    "iso:country":"US",
+    "sg:address":"1183 W Kansas St",
+    "sg:city":"Liberty",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Donuts",
+            "subcategory":"None",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 792 8630",
+    "sg:postcode":"64068",
+    "sg:province":"MO",
+    "sg:tags":[
+        "shop"
+    ],
+    "sg:website":"http://www.lamars.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972461,
+        102086177
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2331dTZHUMs34JKy8nThJo_39.244499_-94.441521@1303262932"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"8bc8f10f2b6fdf12a10f998e47dea6b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086177,
+            "locality_id":85972461,
+            "neighbourhood_id":-1,
+            "region_id":85688661,
+            "venue_id":202380661
+        }
+    ],
+    "wof:id":202380661,
+    "wof:lastmodified":1449061300,
+    "wof:name":"Lamar's Donuts",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [-94.441521,39.244499,-94.441521,39.244499],
+  "geometry": {"coordinates":[-94.441521,39.244499],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 202609469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-92.345445,38.965916,-92.345445,38.965916",
+    "geom:latitude":38.965916,
+    "geom:longitude":-92.345445,
+    "iso:country":"US",
+    "sg:address":"601 Business Loop 70 W",
+    "sg:city":"Columbia",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 884 1400",
+    "sg:postcode":"65203",
+    "sg:province":"MO",
+    "sg:tags":[
+        "medical",
+        "outpatient"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970425,
+        102086187,
+        85835171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Gprr5a6xuZyObtiFTxvSx_38.965916_-92.345445@1303262935"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1e99f8e42015af74f211333274a1b7a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086187,
+            "locality_id":85970425,
+            "neighbourhood_id":85835171,
+            "region_id":85688661,
+            "venue_id":202609469
+        }
+    ],
+    "wof:id":202609469,
+    "wof:lastmodified":1449061057,
+    "wof:name":"University Behavioral Health Services",
+    "wof:parent_id":85835171,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical",
+        "outpatient"
+    ]
+},
+  "bbox": [-92.345445,38.965916,-92.345445,38.965916],
+  "geometry": {"coordinates":[-92.345445,38.965916],"type":"Point"}
+}

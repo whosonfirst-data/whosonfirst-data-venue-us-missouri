@@ -1,0 +1,76 @@
+{
+  "id": 186375613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-90.223037,38.59885,-90.223037,38.59885",
+    "geom:latitude":38.59885,
+    "geom:longitude":-90.223037,
+    "iso:country":"US",
+    "sg:address":"2321 Arsenal St",
+    "sg:city":"Saint Louis",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 776 5889",
+    "sg:postcode":"63118",
+    "sg:province":"MO",
+    "sg:tags":[
+        "breakfast",
+        "sandwich",
+        "brunch"
+    ],
+    "sg:website":"www.luvyduvys.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971343,
+        102080791,
+        85873679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3iZrhXxVr5tX5FHbVnM8AW_38.598850_-90.223037@1303262929"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c0cc75c7e4a41e39ce0dd27c00f441bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102080791,
+            "locality_id":85971343,
+            "neighbourhood_id":85873679,
+            "region_id":85688661,
+            "venue_id":186375613
+        }
+    ],
+    "wof:id":186375613,
+    "wof:lastmodified":1449050365,
+    "wof:name":"Luvy Duvy's Cafe",
+    "wof:parent_id":85873679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "breakfast",
+        "sandwich",
+        "brunch"
+    ]
+},
+  "bbox": [-90.223037,38.59885,-90.223037,38.59885],
+  "geometry": {"coordinates":[-90.223037,38.59885],"type":"Point"}
+}

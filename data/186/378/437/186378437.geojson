@@ -1,0 +1,74 @@
+{
+  "id": 186378437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-90.233263,38.601583,-90.233263,38.601583",
+    "geom:latitude":38.601583,
+    "geom:longitude":-90.233263,
+    "iso:country":"US",
+    "sg:address":"3101 Arsenal St",
+    "sg:city":"St Louis",
+    "sg:classifiers":[
+        {
+            "category":"Juice Bar",
+            "subcategory":"None",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Insurance",
+            "subcategory":"Health Insurance",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 667 5248",
+    "sg:postcode":"63118",
+    "sg:province":"MO",
+    "sg:tags":[
+        "smoothy",
+        "market"
+    ],
+    "sg:website":"www.juiceproject.org/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971343,
+        102080791,
+        85873677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7mZamMfxx35iGy4Ch3AwQN_38.601583_-90.233263@1303262929"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c76d1d2db3be4057234fd206630ec846",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102080791,
+            "locality_id":85971343,
+            "neighbourhood_id":85873677,
+            "region_id":85688661,
+            "venue_id":186378437
+        }
+    ],
+    "wof:id":186378437,
+    "wof:lastmodified":1449052181,
+    "wof:name":"The Juice Box",
+    "wof:parent_id":85873677,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "smoothy",
+        "market"
+    ]
+},
+  "bbox": [-90.233263,38.601583,-90.233263,38.601583],
+  "geometry": {"coordinates":[-90.233263,38.601583],"type":"Point"}
+}

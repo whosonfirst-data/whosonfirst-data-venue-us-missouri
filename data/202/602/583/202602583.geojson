@@ -1,0 +1,76 @@
+{
+  "id": 202602583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-92.335034,38.969934,-92.335034,38.969934",
+    "geom:latitude":38.969934,
+    "geom:longitude":-92.335034,
+    "iso:country":"US",
+    "sg:address":"210 E Texas Ave",
+    "sg:city":"Columbia",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 442 0555",
+    "sg:postcode":"65202",
+    "sg:province":"MO",
+    "sg:tags":[
+        "truck",
+        "leasing",
+        "car"
+    ],
+    "sg:website":"http://www.enterprise.com/car_rental/deeplinkmap.do?gpbr=5194&bid=004&cnty=US&arc=YPTRL01&cm_mmc=Yellowpages.com-_-IYP-_-Tradelisting-_-branch",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970425,
+        102086187,
+        85835171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2785xMOziZnSXFLvplqwrU_38.969934_-92.335034@1303262935"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"6d7d9d59ff9886bd5976608b82a9ed95",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086187,
+            "locality_id":85970425,
+            "neighbourhood_id":85835171,
+            "region_id":85688661,
+            "venue_id":202602583
+        }
+    ],
+    "wof:id":202602583,
+    "wof:lastmodified":1449061315,
+    "wof:name":"Enterprise Rent-A-Car",
+    "wof:parent_id":85835171,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck",
+        "leasing",
+        "car"
+    ]
+},
+  "bbox": [-92.335034,38.969934,-92.335034,38.969934],
+  "geometry": {"coordinates":[-92.335034,38.969934],"type":"Point"}
+}

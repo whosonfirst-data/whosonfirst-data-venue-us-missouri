@@ -1,0 +1,75 @@
+{
+  "id": 186618913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-94.521258,38.886263,-94.521258,38.886263",
+    "geom:latitude":38.886263,
+    "geom:longitude":-94.521258,
+    "iso:country":"US",
+    "sg:address":"13116 Parker Ave",
+    "sg:city":"Grandview",
+    "sg:classifiers":[
+        {
+            "category":"Transit Center",
+            "subcategory":"Freight",
+            "type":"Transportation"
+        },
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 761 0491",
+    "sg:postcode":"64030",
+    "sg:province":"MO",
+    "sg:tags":[
+        "local",
+        "trucking-motor",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971459,
+        102081227,
+        85871945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1wsFR6CAYxBc2vFrFpRKvi_38.886263_-94.521258@1303262932"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a1493be5be714d8f0dde64eede78c561",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102081227,
+            "locality_id":85971459,
+            "neighbourhood_id":85871945,
+            "region_id":85688661,
+            "venue_id":186618913
+        }
+    ],
+    "wof:id":186618913,
+    "wof:lastmodified":1449052034,
+    "wof:name":"Ll Tripp Tree Serv Truck",
+    "wof:parent_id":85871945,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "local",
+        "trucking-motor",
+        "trucking"
+    ]
+},
+  "bbox": [-94.521258,38.886263,-94.521258,38.886263],
+  "geometry": {"coordinates":[-94.521258,38.886263],"type":"Point"}
+}

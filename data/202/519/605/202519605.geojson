@@ -1,0 +1,66 @@
+{
+  "id": 202519605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-94.525032,37.08186,-94.525032,37.08186",
+    "geom:latitude":37.08186,
+    "geom:longitude":-94.525032,
+    "iso:country":"US",
+    "sg:address":"1102 W 9th St",
+    "sg:city":"Joplin",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 529 9478",
+    "sg:postcode":"64801",
+    "sg:province":"MO",
+    "sg:tags":[
+        "outpatient"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970893,
+        102087525,
+        85885363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_21aqAd5InksH6IhGWRNQfW_37.081860_-94.525032@1303262934"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"18b25ebcd82e57870f68bebe2436eb52",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102087525,
+            "locality_id":85970893,
+            "neighbourhood_id":85885363,
+            "region_id":85688661,
+            "venue_id":202519605
+        }
+    ],
+    "wof:id":202519605,
+    "wof:lastmodified":1449062475,
+    "wof:name":"Tracy A Vorhees",
+    "wof:parent_id":85885363,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "outpatient"
+    ]
+},
+  "bbox": [-94.525032,37.08186,-94.525032,37.08186],
+  "geometry": {"coordinates":[-94.525032,37.08186],"type":"Point"}
+}

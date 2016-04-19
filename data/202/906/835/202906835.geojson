@@ -1,0 +1,77 @@
+{
+  "id": 202906835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-93.323429,37.147433,-93.323429,37.147433",
+    "geom:latitude":37.147433,
+    "geom:longitude":-93.323429,
+    "iso:country":"US",
+    "sg:address":"3660 S Cox Ave",
+    "sg:city":"Springfield",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 887 3737",
+    "sg:postcode":"65807",
+    "sg:province":"MO",
+    "sg:tags":[
+        "vacancy",
+        "apartment",
+        "rental",
+        "listing"
+    ],
+    "sg:website":"http://www.lakeshoreapthomes.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        102087523,
+        85881151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Y7i9JRu0VRL04ZdsNr4ka_37.147433_-93.323429@1303262939"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"960c9492427ad66f1e6c4553a6d3ef7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102087523,
+            "locality_id":-1,
+            "neighbourhood_id":85881151,
+            "region_id":85688661,
+            "venue_id":202906835
+        }
+    ],
+    "wof:id":202906835,
+    "wof:lastmodified":1449061074,
+    "wof:name":"Lake Shore Apartments",
+    "wof:parent_id":85881151,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "vacancy",
+        "apartment",
+        "rental",
+        "listing"
+    ]
+},
+  "bbox": [-93.323429,37.147433,-93.323429,37.147433],
+  "geometry": {"coordinates":[-93.323429,37.147433],"type":"Point"}
+}

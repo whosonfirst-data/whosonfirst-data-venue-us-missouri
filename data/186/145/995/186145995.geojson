@@ -1,0 +1,75 @@
+{
+  "id": 186145995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-90.319875,38.774265,-90.319875,38.774265",
+    "geom:latitude":38.774265,
+    "geom:longitude":-90.319875,
+    "iso:country":"US",
+    "sg:address":"1005 Dunn Rd",
+    "sg:city":"Florissant",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Chiropractor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 839 6520",
+    "sg:postcode":"63031",
+    "sg:province":"MO",
+    "sg:tags":[
+        "physician",
+        "surgeon",
+        "chiropractic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972219,
+        102086173,
+        85813019
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_28wXA7qKtQUfGPDj7MAWxR_38.774265_-90.319875@1303262925"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b9819bd32b62c40bd9cb6d3125ce0fa3",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086173,
+            "locality_id":85972219,
+            "neighbourhood_id":85813019,
+            "region_id":85688661,
+            "venue_id":186145995
+        }
+    ],
+    "wof:id":186145995,
+    "wof:lastmodified":1449051195,
+    "wof:name":"Dr. William Straughn",
+    "wof:parent_id":85813019,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon",
+        "chiropractic"
+    ]
+},
+  "bbox": [-90.319875,38.774265,-90.319875,38.774265],
+  "geometry": {"coordinates":[-90.319875,38.774265],"type":"Point"}
+}

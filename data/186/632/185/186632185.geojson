@@ -1,0 +1,75 @@
+{
+  "id": 186632185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-94.44924,39.087825,-94.44924,39.087825",
+    "geom:latitude":39.087825,
+    "geom:longitude":-94.44924,
+    "iso:country":"US",
+    "sg:address":"10912 E Winner Rd",
+    "sg:city":"Independence",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Chiropractor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 252 4313",
+    "sg:postcode":"64052",
+    "sg:province":"MO",
+    "sg:tags":[
+        "physician",
+        "surgeon",
+        "chiropractic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971449,
+        102081227,
+        85818127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3bOM5eRkaLRe0HSDO9tn5r_39.087825_-94.449240@1303262932"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"811edcb1baa54760efd1dfbad1f98e8c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102081227,
+            "locality_id":85971449,
+            "neighbourhood_id":85818127,
+            "region_id":85688661,
+            "venue_id":186632185
+        }
+    ],
+    "wof:id":186632185,
+    "wof:lastmodified":1449052089,
+    "wof:name":"Duncan Bruce",
+    "wof:parent_id":85818127,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon",
+        "chiropractic"
+    ]
+},
+  "bbox": [-94.44924,39.087825,-94.44924,39.087825],
+  "geometry": {"coordinates":[-94.44924,39.087825],"type":"Point"}
+}
