@@ -1,0 +1,71 @@
+{
+  "id": 789624943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.451976,39.693711,-91.451976,39.693711",
+    "geom:latitude":39.693711,
+    "geom:longitude":-91.451976,
+    "iso:country":"US",
+    "sg:address":"8420 Co Rd 420",
+    "sg:city":"Hannibal",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 406 1333",
+    "sg:postcode":"63401",
+    "sg:province":"MO",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688697,
+        85633793,
+        85938427,
+        102086213,
+        85867477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6S3dmEFsvFWMumbsxW2LKW_39.693711_-91.451976@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462589256,
+    "wof:geomhash":"69713980aa1c8d65f546072476d83e2d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086213,
+            "locality_id":85938427,
+            "neighbourhood_id":85867477,
+            "region_id":85688697,
+            "venue_id":789624943
+        }
+    ],
+    "wof:id":789624943,
+    "wof:lastmodified":1462589256,
+    "wof:name":"H & H Truck Repair",
+    "wof:parent_id":85867477,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -91.451976,
+    39.693711,
+    -91.451976,
+    39.693711
+],
+  "geometry": {"coordinates":[-91.451976,39.693711],"type":"Point"}
+}

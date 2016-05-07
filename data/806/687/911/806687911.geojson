@@ -1,0 +1,75 @@
+{
+  "id": 806687911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.554225,39.133034,-94.554225,39.133034",
+    "geom:latitude":39.133034,
+    "geom:longitude":-94.554225,
+    "iso:country":"US",
+    "sg:address":"1313 Vernon St",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Signs",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 842 8980",
+    "sg:postcode":"64116",
+    "sg:province":"MO",
+    "sg:tags":[
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85867025,
+        102191575,
+        404518075,
+        85633793,
+        85970739,
+        102081227,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_25A4wiorFH1U1csh9WJhaE_39.133034_-94.554225@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462600237,
+    "wof:geomhash":"12a617f802d36be1ec93a80c0a63b0fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081227,
+            "localadmin_id":404518075,
+            "locality_id":85970739,
+            "neighbourhood_id":85867025,
+            "region_id":85688661,
+            "venue_id":806687911
+        }
+    ],
+    "wof:id":806687911,
+    "wof:lastmodified":1462600237,
+    "wof:name":"Acme Sign",
+    "wof:parent_id":85867025,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mfg"
+    ]
+},
+  "bbox": [
+    -94.554225,
+    39.133034,
+    -94.554225,
+    39.133034
+],
+  "geometry": {"coordinates":[-94.554225,39.133034],"type":"Point"}
+}

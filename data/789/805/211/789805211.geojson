@@ -1,0 +1,73 @@
+{
+  "id": 789805211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.220242,37.190701,-93.220242,37.190701",
+    "geom:latitude":37.190701,
+    "geom:longitude":-93.220242,
+    "iso:country":"US",
+    "sg:address":"3635 E Sugar Hill St",
+    "sg:city":"Springfield",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 886 1937",
+    "sg:postcode":"65809",
+    "sg:province":"MO",
+    "sg:tags":[
+        "equipment",
+        "industrial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971363,
+        102087523,
+        85881121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2KldYz2TDoZgobPfqqnzYb_37.190701_-93.220242@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462590680,
+    "wof:geomhash":"b68b4c45d7478124601e9491ba8d9b69",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087523,
+            "locality_id":85971363,
+            "neighbourhood_id":85881121,
+            "region_id":85688661,
+            "venue_id":789805211
+        }
+    ],
+    "wof:id":789805211,
+    "wof:lastmodified":1462590680,
+    "wof:name":"Southwest Punch Press Service",
+    "wof:parent_id":85881121,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "industrial"
+    ]
+},
+  "bbox": [
+    -93.220242,
+    37.190701,
+    -93.220242,
+    37.190701
+],
+  "geometry": {"coordinates":[-93.220242,37.190701],"type":"Point"}
+}

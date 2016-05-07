@@ -1,0 +1,73 @@
+{
+  "id": 807117281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.408603,38.205112,-90.408603,38.205112",
+    "geom:latitude":38.205112,
+    "geom:longitude":-90.408603,
+    "iso:country":"US",
+    "sg:address":"1233 Denali Dr",
+    "sg:city":"Festus",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 937 9695",
+    "sg:postcode":"63028",
+    "sg:province":"MO",
+    "sg:tags":[
+        "plumber",
+        "industrial",
+        "contractors-commercial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85848677,
+        102080787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6UgQObhJYYUz0FEWfvruSw_38.205112_-90.408603@1303262925"
+    },
+    "wof:country":"US",
+    "wof:created":1462603911,
+    "wof:geomhash":"e8d6fe4b907afb3451c42be34c03e774",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080787,
+            "neighbourhood_id":85848677,
+            "region_id":85688661,
+            "venue_id":807117281
+        }
+    ],
+    "wof:id":807117281,
+    "wof:lastmodified":1462603911,
+    "wof:name":"Yankee Plumber",
+    "wof:parent_id":85848677,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumber",
+        "industrial",
+        "contractors-commercial"
+    ]
+},
+  "bbox": [
+    -90.408603,
+    38.205112,
+    -90.408603,
+    38.205112
+],
+  "geometry": {"coordinates":[-90.408603,38.205112],"type":"Point"}
+}

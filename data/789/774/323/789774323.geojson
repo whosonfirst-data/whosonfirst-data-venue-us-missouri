@@ -1,0 +1,84 @@
+{
+  "id": 789774323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.272025,38.577867,-90.272025,38.577867",
+    "geom:latitude":38.577867,
+    "geom:longitude":-90.272025,
+    "iso:country":"US",
+    "sg:address":"5450 Gravois Ave",
+    "sg:city":"St Louis",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 481 6555",
+    "sg:postcode":"63116",
+    "sg:province":"MO",
+    "sg:tags":[
+        "car",
+        "dealer",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873691,
+        102191575,
+        404518053,
+        85633793,
+        85971343,
+        102080791,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3lkzlmw0gz6HXXLR0gaGCL_38.577867_-90.272025@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462590435,
+    "wof:geomhash":"6cb2362c640f7c91aed1d296180019b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080791,
+            "localadmin_id":404518053,
+            "locality_id":85971343,
+            "neighbourhood_id":85873691,
+            "region_id":85688661,
+            "venue_id":789774323
+        }
+    ],
+    "wof:id":789774323,
+    "wof:lastmodified":1462590435,
+    "wof:name":"Merx Five Star Auto",
+    "wof:parent_id":85873691,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer",
+        "general"
+    ]
+},
+  "bbox": [
+    -90.272025,
+    38.577867,
+    -90.272025,
+    38.577867
+],
+  "geometry": {"coordinates":[-90.272025,38.577867],"type":"Point"}
+}

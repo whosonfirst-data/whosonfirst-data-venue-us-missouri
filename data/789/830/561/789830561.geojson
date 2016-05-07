@@ -1,0 +1,87 @@
+{
+  "id": 789830561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.5899,39.091384,-94.5899,39.091384",
+    "geom:latitude":39.091384,
+    "geom:longitude":-94.5899,
+    "iso:country":"US",
+    "sg:address":"1717 Washington St",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Medical Equipment & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Furniture",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 474 1555",
+    "sg:postcode":"64108",
+    "sg:province":"MO",
+    "sg:tags":[
+        "analytical",
+        "hospital",
+        "fixture",
+        "mfg"
+    ],
+    "sg:website":"www.medicalpositioning.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872011,
+        102191575,
+        404518075,
+        85633793,
+        85970739,
+        102081227,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1MrrkHmlNdySuNawq48qbA_39.091384_-94.589900@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462590875,
+    "wof:geomhash":"39587f8d161a7c2685794e9726621371",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081227,
+            "localadmin_id":404518075,
+            "locality_id":85970739,
+            "neighbourhood_id":85872011,
+            "region_id":85688661,
+            "venue_id":789830561
+        }
+    ],
+    "wof:id":789830561,
+    "wof:lastmodified":1462590875,
+    "wof:name":"Medical Positioning Inc",
+    "wof:parent_id":85872011,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "analytical",
+        "hospital",
+        "fixture",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -94.5899,
+    39.091384,
+    -94.5899,
+    39.091384
+],
+  "geometry": {"coordinates":[-94.5899,39.091384],"type":"Point"}
+}

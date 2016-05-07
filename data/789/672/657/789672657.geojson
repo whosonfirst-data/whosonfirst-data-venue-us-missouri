@@ -1,0 +1,73 @@
+{
+  "id": 789672657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.373951,38.480184,-90.373951,38.480184",
+    "geom:latitude":38.480184,
+    "geom:longitude":-90.373951,
+    "iso:country":"US",
+    "sg:address":"4729 Brookton Way",
+    "sg:city":"St Louis",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 894 9565",
+    "sg:postcode":"63128",
+    "sg:province":"MO",
+    "sg:tags":[
+        "advisory",
+        "financial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971021,
+        102080787,
+        85832925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_52f55aHqUNNsZFTGFEOYFX_38.480184_-90.373951@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462589646,
+    "wof:geomhash":"508999454dd9d79508567caf5854a04c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080787,
+            "locality_id":85971021,
+            "neighbourhood_id":85832925,
+            "region_id":85688661,
+            "venue_id":789672657
+        }
+    ],
+    "wof:id":789672657,
+    "wof:lastmodified":1462589646,
+    "wof:name":"CMA Financial Svc",
+    "wof:parent_id":85832925,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "advisory",
+        "financial"
+    ]
+},
+  "bbox": [
+    -90.373951,
+    38.480184,
+    -90.373951,
+    38.480184
+],
+  "geometry": {"coordinates":[-90.37395100000001,38.480184],"type":"Point"}
+}

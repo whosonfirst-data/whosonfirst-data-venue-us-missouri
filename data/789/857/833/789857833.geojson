@@ -1,0 +1,71 @@
+{
+  "id": 789857833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.454626,39.331817,-94.454626,39.331817",
+    "geom:latitude":39.331817,
+    "geom:longitude":-94.454626,
+    "iso:country":"US",
+    "sg:address":"13218 N Home Rd",
+    "sg:city":"Liberty",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 415 8500",
+    "sg:postcode":"64068",
+    "sg:province":"MO",
+    "sg:tags":[
+        "consulting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970739,
+        102086177,
+        85836329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4kwqforQYAHydqmyWlMCKZ_39.331817_-94.454626@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462591087,
+    "wof:geomhash":"a73718dd83e7063d12e5b289c9973985",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086177,
+            "locality_id":85970739,
+            "neighbourhood_id":85836329,
+            "region_id":85688661,
+            "venue_id":789857833
+        }
+    ],
+    "wof:id":789857833,
+    "wof:lastmodified":1462591087,
+    "wof:name":"Supply Chain Services LLC",
+    "wof:parent_id":85836329,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consulting"
+    ]
+},
+  "bbox": [
+    -94.454626,
+    39.331817,
+    -94.454626,
+    39.331817
+],
+  "geometry": {"coordinates":[-94.454626,39.331817],"type":"Point"}
+}

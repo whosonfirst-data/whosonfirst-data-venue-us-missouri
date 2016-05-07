@@ -1,0 +1,71 @@
+{
+  "id": 773308301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.567022,37.987753,-91.567022,37.987753",
+    "geom:latitude":37.987753,
+    "geom:longitude":-91.567022,
+    "iso:country":"US",
+    "sg:address":"19745 Co Rd 3620",
+    "sg:city":"Saint James",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 265 1081",
+    "sg:postcode":"65559",
+    "sg:province":"MO",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970819,
+        102086893,
+        85847353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_78cqOcyQqENraJJv3uWtVh_37.987753_-91.567022@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462584750,
+    "wof:geomhash":"06dbc24a9d50903aa2823c6a4b0038f3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086893,
+            "locality_id":85970819,
+            "neighbourhood_id":85847353,
+            "region_id":85688661,
+            "venue_id":773308301
+        }
+    ],
+    "wof:id":773308301,
+    "wof:lastmodified":1462584750,
+    "wof:name":"Smittys Garage",
+    "wof:parent_id":85847353,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -91.567022,
+    37.987753,
+    -91.567022,
+    37.987753
+],
+  "geometry": {"coordinates":[-91.56702199999999,37.987753],"type":"Point"}
+}

@@ -1,0 +1,84 @@
+{
+  "id": 807087845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.61116,36.844264,-94.61116,36.844264",
+    "geom:latitude":36.844264,
+    "geom:longitude":-94.61116,
+    "iso:country":"US",
+    "sg:address":"1044 Cherokee Ave",
+    "sg:city":"Seneca",
+    "sg:classifiers":[
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Donuts",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/seneca/230891-daylight-donuts/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 776 1110",
+    "sg:postcode":"64865",
+    "sg:province":"MO",
+    "sg:tags":[
+        "american",
+        "pastry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971289,
+        102087471,
+        85814333
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_60ZS8gEkM6wPe8SwOfjCqh_36.844264_-94.611160@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462603596,
+    "wof:geomhash":"776a12254f3276930ae819c7cf688632",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087471,
+            "locality_id":85971289,
+            "neighbourhood_id":85814333,
+            "region_id":85688661,
+            "venue_id":807087845
+        }
+    ],
+    "wof:id":807087845,
+    "wof:lastmodified":1462603596,
+    "wof:name":"Daylight Donuts",
+    "wof:parent_id":85814333,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pastry"
+    ]
+},
+  "bbox": [
+    -94.61116,
+    36.844264,
+    -94.61116,
+    36.844264
+],
+  "geometry": {"coordinates":[-94.61116,36.844264],"type":"Point"}
+}

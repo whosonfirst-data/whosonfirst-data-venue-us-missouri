@@ -1,0 +1,71 @@
+{
+  "id": 773471395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.856555,38.816148,-90.856555,38.816148",
+    "geom:latitude":38.816148,
+    "geom:longitude":-90.856555,
+    "iso:country":"US",
+    "sg:address":"612 Scotti Ct",
+    "sg:city":"Wentzville",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 327 4888",
+    "sg:postcode":"63385",
+    "sg:province":"MO",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3DpMguOVqonCJV0AV9SVWd_38.816148_-90.856555@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462585999,
+    "wof:geomhash":"5319785725c748efb5b91f15b3aa27b0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":773471395
+        }
+    ],
+    "wof:id":773471395,
+    "wof:lastmodified":1462585999,
+    "wof:name":"Scotti Apartments",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -90.856555,
+    38.816148,
+    -90.856555,
+    38.816148
+],
+  "geometry": {"coordinates":[-90.856555,38.816148],"type":"Point"}
+}

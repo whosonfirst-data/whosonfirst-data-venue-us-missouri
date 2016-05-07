@@ -1,0 +1,71 @@
+{
+  "id": 789648767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.747618,37.93514,-91.747618,37.93514",
+    "geom:latitude":37.93514,
+    "geom:longitude":-91.747618,
+    "iso:country":"US",
+    "sg:address":"1412 State Hwy 72",
+    "sg:city":"Rolla",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 341 3655",
+    "sg:postcode":"65401",
+    "sg:province":"MO",
+    "sg:tags":[
+        "attorney"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970821,
+        102086893,
+        85814531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_39SDHekpssUT74oKf2aQgk_37.935140_-91.747618@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462589442,
+    "wof:geomhash":"046bc365c8106b773b88757b5c0eb171",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086893,
+            "locality_id":85970821,
+            "neighbourhood_id":85814531,
+            "region_id":85688661,
+            "venue_id":789648767
+        }
+    ],
+    "wof:id":789648767,
+    "wof:lastmodified":1462589442,
+    "wof:name":"Legal Services Of Southern Mo",
+    "wof:parent_id":85814531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "attorney"
+    ]
+},
+  "bbox": [
+    -91.747618,
+    37.93514,
+    -91.747618,
+    37.93514
+],
+  "geometry": {"coordinates":[-91.747618,37.93514],"type":"Point"}
+}

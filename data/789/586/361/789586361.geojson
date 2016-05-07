@@ -1,0 +1,75 @@
+{
+  "id": 789586361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.497807,38.59347,-90.497807,38.59347",
+    "geom:latitude":38.59347,
+    "geom:longitude":-90.497807,
+    "iso:country":"US",
+    "sg:address":"14124 Manchester Rd",
+    "sg:city":"Ballwin",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 391 2700",
+    "sg:postcode":"63011",
+    "sg:province":"MO",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85802943,
+        102191575,
+        404517387,
+        85633793,
+        85972231,
+        102086173,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7icwMd7lRp88RZqTehUydE_38.593470_-90.497807@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462588958,
+    "wof:geomhash":"4152aed8383b311aae14b94d4b92343e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086173,
+            "localadmin_id":404517387,
+            "locality_id":85972231,
+            "neighbourhood_id":85802943,
+            "region_id":85688661,
+            "venue_id":789586361
+        }
+    ],
+    "wof:id":789586361,
+    "wof:lastmodified":1462588958,
+    "wof:name":"Burger King",
+    "wof:parent_id":85802943,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -90.497807,
+    38.59347,
+    -90.497807,
+    38.59347
+],
+  "geometry": {"coordinates":[-90.49780699999999,38.59347],"type":"Point"}
+}

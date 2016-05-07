@@ -1,0 +1,84 @@
+{
+  "id": 807190741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.417169,37.780344,-90.417169,37.780344",
+    "geom:latitude":37.780344,
+    "geom:longitude":-90.417169,
+    "iso:country":"US",
+    "sg:address":"313 Sainte Genevieve Ave",
+    "sg:city":"Farmington",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        },
+        {
+            "category":"Insurance",
+            "subcategory":"Hazard Insurance",
+            "type":"Services"
+        },
+        {
+            "category":"Insurance",
+            "subcategory":"Title Insurance",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 756 5100",
+    "sg:postcode":"63640",
+    "sg:province":"MO",
+    "sg:tags":[
+        "auto",
+        "homeowner"
+    ],
+    "sg:website":"http://apps.amfam.com/agentlocator/MPEASE?sourceid=yp3",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970665,
+        102085297,
+        85816309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5BbqZgbLG9aXjaAdwh2fYD_37.780344_-90.417169@1303262931"
+    },
+    "wof:country":"US",
+    "wof:created":1462604696,
+    "wof:geomhash":"5a5f24b7f8edba0cb31837669e39d03a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085297,
+            "locality_id":85970665,
+            "neighbourhood_id":85816309,
+            "region_id":85688661,
+            "venue_id":807190741
+        }
+    ],
+    "wof:id":807190741,
+    "wof:lastmodified":1462604696,
+    "wof:name":"American Family Insurance- Marcia Pease Agency Inc",
+    "wof:parent_id":85816309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "auto",
+        "homeowner"
+    ]
+},
+  "bbox": [
+    -90.417169,
+    37.780344,
+    -90.417169,
+    37.780344
+],
+  "geometry": {"coordinates":[-90.417169,37.780344],"type":"Point"}
+}

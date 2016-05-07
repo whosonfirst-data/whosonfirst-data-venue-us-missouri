@@ -1,0 +1,73 @@
+{
+  "id": 806837709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.30046,37.168229,-93.30046,37.168229",
+    "geom:latitude":37.168229,
+    "geom:longitude":-93.30046,
+    "iso:country":"US",
+    "sg:address":"2616 S Grant Ave",
+    "sg:city":"Springfield",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 886 3429",
+    "sg:postcode":"65807",
+    "sg:province":"MO",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85881151,
+        102087523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4FTh5wT7vYSAKrnBUD3W7e_37.168229_-93.300460@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462601488,
+    "wof:geomhash":"85d190150a61cb5a76c819ca87a48223",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087523,
+            "neighbourhood_id":85881151,
+            "region_id":85688661,
+            "venue_id":806837709
+        }
+    ],
+    "wof:id":806837709,
+    "wof:lastmodified":1462601488,
+    "wof:name":"McGinnis Trucking",
+    "wof:parent_id":85881151,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -93.30046,
+    37.168229,
+    -93.30046,
+    37.168229
+],
+  "geometry": {"coordinates":[-93.30046,37.168229],"type":"Point"}
+}

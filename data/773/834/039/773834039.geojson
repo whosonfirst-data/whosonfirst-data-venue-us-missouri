@@ -1,0 +1,90 @@
+{
+  "id": 773834039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.375998,38.688815,-90.375998,38.688815",
+    "geom:latitude":38.688815,
+    "geom:longitude":-90.375998,
+    "iso:country":"US",
+    "sg:address":"9970 Page Ave",
+    "sg:city":"St Louis",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Aerospace",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 222 4039",
+    "sg:postcode":"63132",
+    "sg:province":"MO",
+    "sg:tags":[
+        "mfg",
+        "component",
+        "metal",
+        "parts",
+        "fabricator",
+        "airplane"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85803699,
+        102191575,
+        404517323,
+        85633793,
+        85972315,
+        102086173,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5K4ZeO3akyuKitYpJ3UlYZ_38.688815_-90.375998@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462588755,
+    "wof:geomhash":"246cbd565cae187a787acec899aee0a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086173,
+            "localadmin_id":404517323,
+            "locality_id":85972315,
+            "neighbourhood_id":85803699,
+            "region_id":85688661,
+            "venue_id":773834039
+        }
+    ],
+    "wof:id":773834039,
+    "wof:lastmodified":1462588755,
+    "wof:name":"Missouri Metals",
+    "wof:parent_id":85803699,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mfg",
+        "component",
+        "metal",
+        "parts",
+        "fabricator",
+        "airplane"
+    ]
+},
+  "bbox": [
+    -90.375998,
+    38.688815,
+    -90.375998,
+    38.688815
+],
+  "geometry": {"coordinates":[-90.375998,38.688815],"type":"Point"}
+}

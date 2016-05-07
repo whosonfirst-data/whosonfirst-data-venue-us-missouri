@@ -1,0 +1,69 @@
+{
+  "id": 790305025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.58107,38.242529,-90.58107,38.242529",
+    "geom:latitude":38.242529,
+    "geom:longitude":-90.58107,
+    "iso:country":"US",
+    "sg:address":"10190 Hwy Bb",
+    "sg:city":"Hillsboro",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 789 4367",
+    "sg:postcode":"63050",
+    "sg:province":"MO",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85848677,
+        102080787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6b0Og76PguMboRgmK5A9Zp_38.242529_-90.581070@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462594804,
+    "wof:geomhash":"1ea7570e60564f87bd4d56c10178bfc3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080787,
+            "neighbourhood_id":85848677,
+            "region_id":85688661,
+            "venue_id":790305025
+        }
+    ],
+    "wof:id":790305025,
+    "wof:lastmodified":1462594804,
+    "wof:name":"Garage Door Specialist",
+    "wof:parent_id":85848677,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -90.58107,
+    38.242529,
+    -90.58107,
+    38.242529
+],
+  "geometry": {"coordinates":[-90.58107,38.242529],"type":"Point"}
+}

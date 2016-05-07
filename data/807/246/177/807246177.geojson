@@ -1,0 +1,83 @@
+{
+  "id": 807246177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.52863,36.533606,-94.52863,36.533606",
+    "geom:latitude":36.533606,
+    "geom:longitude":-94.52863,
+    "iso:country":"US",
+    "sg:address":"608 Autumn Rose Ln",
+    "sg:city":"Noel",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Farming",
+            "subcategory":"Livestock Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Farming",
+            "subcategory":"Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 475 6210",
+    "sg:postcode":"64854",
+    "sg:province":"MO",
+    "sg:tags":[
+        "product",
+        "corn"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972127,
+        102085305,
+        85850627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5YVVtMI41eyHD0Zmo0VKaV_36.533606_-94.528630@1303262934"
+    },
+    "wof:country":"US",
+    "wof:created":1462605287,
+    "wof:geomhash":"2c95f0418dee0661a7528a0df1ad6d01",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085305,
+            "locality_id":85972127,
+            "neighbourhood_id":85850627,
+            "region_id":85688661,
+            "venue_id":807246177
+        }
+    ],
+    "wof:id":807246177,
+    "wof:lastmodified":1462605287,
+    "wof:name":"Rosenbohm Farms",
+    "wof:parent_id":85850627,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product",
+        "corn"
+    ]
+},
+  "bbox": [
+    -94.52863,
+    36.533606,
+    -94.52863,
+    36.533606
+],
+  "geometry": {"coordinates":[-94.52863000000001,36.533606],"type":"Point"}
+}

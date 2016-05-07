@@ -1,0 +1,86 @@
+{
+  "id": 773298497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.235275,38.627612,-90.235275,38.627612",
+    "geom:latitude":38.627612,
+    "geom:longitude":-90.235275,
+    "iso:country":"US",
+    "sg:address":"3534 Gratiot St",
+    "sg:city":"St Louis",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        },
+        {
+            "category":"Mining & Drilling",
+            "subcategory":"",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 865 3008",
+    "sg:postcode":"63103",
+    "sg:province":"MO",
+    "sg:tags":[
+        "operator",
+        "contractor",
+        "rigger",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85867035,
+        102191575,
+        404518053,
+        85633793,
+        85971343,
+        102080791,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7AWiidFpXxh6TXjWvXL5PE_38.627612_-90.235275@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462584668,
+    "wof:geomhash":"55ed0b1fa9d844c1b8a36c047af73c11",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080791,
+            "localadmin_id":404518053,
+            "locality_id":85971343,
+            "neighbourhood_id":85867035,
+            "region_id":85688661,
+            "venue_id":773298497
+        }
+    ],
+    "wof:id":773298497,
+    "wof:lastmodified":1462584668,
+    "wof:name":"American Industrial Movers Inc",
+    "wof:parent_id":85867035,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "contractor",
+        "rigger",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -90.235275,
+    38.627612,
+    -90.235275,
+    38.627612
+],
+  "geometry": {"coordinates":[-90.235275,38.627612],"type":"Point"}
+}

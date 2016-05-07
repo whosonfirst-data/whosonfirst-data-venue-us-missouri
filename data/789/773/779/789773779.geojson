@@ -1,0 +1,71 @@
+{
+  "id": 789773779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.286777,37.116127,-93.286777,37.116127",
+    "geom:latitude":37.116127,
+    "geom:longitude":-93.286777,
+    "iso:country":"US",
+    "sg:address":"5407 S Clay Ave",
+    "sg:city":"Springfield",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 887 1330",
+    "sg:postcode":"65810",
+    "sg:province":"MO",
+    "sg:tags":[
+        "loan",
+        "real estate"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85881143,
+        102087523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1IN4N34AZScchSIhcgNoXb_37.116127_-93.286777@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462590431,
+    "wof:geomhash":"61adcd27e503c27616643a21bd93bb12",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087523,
+            "neighbourhood_id":85881143,
+            "region_id":85688661,
+            "venue_id":789773779
+        }
+    ],
+    "wof:id":789773779,
+    "wof:lastmodified":1462590431,
+    "wof:name":"PHH Mortgage",
+    "wof:parent_id":85881143,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "loan",
+        "real estate"
+    ]
+},
+  "bbox": [
+    -93.286777,
+    37.116127,
+    -93.286777,
+    37.116127
+],
+  "geometry": {"coordinates":[-93.286777,37.116127],"type":"Point"}
+}

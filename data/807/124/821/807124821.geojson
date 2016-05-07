@@ -1,0 +1,76 @@
+{
+  "id": 807124821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.381119,38.35635,-90.381119,38.35635",
+    "geom:latitude":38.35635,
+    "geom:longitude":-90.381119,
+    "iso:country":"US",
+    "sg:address":"6398 Casciaro Ln",
+    "sg:city":"Imperial",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 464 5953",
+    "sg:postcode":"63052",
+    "sg:province":"MO",
+    "sg:tags":[
+        "buyer",
+        "broker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85805175,
+        102080787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7JGUbeAcjWUya3AW43zp7S_38.356350_-90.381119@1303262926"
+    },
+    "wof:country":"US",
+    "wof:created":1462603999,
+    "wof:geomhash":"d9ac6c47ade2421a907d3d34ddbe649e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080787,
+            "neighbourhood_id":85805175,
+            "region_id":85688661,
+            "venue_id":807124821
+        }
+    ],
+    "wof:id":807124821,
+    "wof:lastmodified":1462603999,
+    "wof:name":"Casciaro Realty",
+    "wof:parent_id":85805175,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "buyer",
+        "broker"
+    ]
+},
+  "bbox": [
+    -90.381119,
+    38.35635,
+    -90.381119,
+    38.35635
+],
+  "geometry": {"coordinates":[-90.381119,38.35635],"type":"Point"}
+}

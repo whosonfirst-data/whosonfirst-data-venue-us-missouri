@@ -1,0 +1,77 @@
+{
+  "id": 790274167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.197538,38.62969,-90.197538,38.62969",
+    "geom:latitude":38.62969,
+    "geom:longitude":-90.197538,
+    "iso:country":"US",
+    "sg:address":"1140 Olive St",
+    "sg:city":"St Louis",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 621 0137",
+    "sg:postcode":"63101",
+    "sg:province":"MO",
+    "sg:tags":[
+        "postal",
+        "us"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873645,
+        102191575,
+        404518053,
+        85633793,
+        85971343,
+        102080791,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1i6MZFSHwCu1QMJnlwq7lP_38.629690_-90.197538@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462594538,
+    "wof:geomhash":"3602b895ba8f0aac77713a12d32fba0a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080791,
+            "localadmin_id":404518053,
+            "locality_id":85971343,
+            "neighbourhood_id":85873645,
+            "region_id":85688661,
+            "venue_id":790274167
+        }
+    ],
+    "wof:id":790274167,
+    "wof:lastmodified":1462594538,
+    "wof:name":"US Post Office",
+    "wof:parent_id":85873645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "postal",
+        "us"
+    ]
+},
+  "bbox": [
+    -90.197538,
+    38.62969,
+    -90.197538,
+    38.62969
+],
+  "geometry": {"coordinates":[-90.19753799999999,38.62969],"type":"Point"}
+}

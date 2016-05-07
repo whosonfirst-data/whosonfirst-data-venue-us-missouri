@@ -1,0 +1,71 @@
+{
+  "id": 807176599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.2873,38.6143,-90.2873,38.6143",
+    "geom:latitude":38.6143,
+    "geom:longitude":-90.2873,
+    "iso:country":"US",
+    "sg:address":"2340 Hampton Ave",
+    "sg:city":"Saint Louis",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 647 2200",
+    "sg:postcode":"63139",
+    "sg:province":"MO",
+    "sg:website":"www.southamptonhealthcare.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85811407,
+        102191575,
+        404518053,
+        85633793,
+        85971343,
+        102080791,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0aig6TYx9ifiZKMeYJuHuh_38.614300_-90.287300@1303262930"
+    },
+    "wof:country":"US",
+    "wof:created":1462604553,
+    "wof:geomhash":"f54a35a5b53ba0255b8c1dae10bab45f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080791,
+            "localadmin_id":404518053,
+            "locality_id":85971343,
+            "neighbourhood_id":85811407,
+            "region_id":85688661,
+            "venue_id":807176599
+        }
+    ],
+    "wof:id":807176599,
+    "wof:lastmodified":1462604553,
+    "wof:name":"Southampton Healthcare",
+    "wof:parent_id":85811407,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.2873,
+    38.6143,
+    -90.2873,
+    38.6143
+],
+  "geometry": {"coordinates":[-90.2873,38.6143],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 773623615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.517495,39.824356,-91.517495,39.824356",
+    "geom:latitude":39.824356,
+    "geom:longitude":-91.517495,
+    "iso:country":"US",
+    "sg:address":"3390 Co Rd 361",
+    "sg:city":"Palmyra",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 769 2968",
+    "sg:postcode":"63461",
+    "sg:province":"MO",
+    "sg:tags":[
+        "courier"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688697,
+        85633793,
+        85938427,
+        102086213,
+        85867477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_56UAQFyLh3nemTK2Yp1t0f_39.824356_-91.517495@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462587121,
+    "wof:geomhash":"c923ba823e6b4235129c0141e0d178e8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086213,
+            "locality_id":85938427,
+            "neighbourhood_id":85867477,
+            "region_id":85688697,
+            "venue_id":773623615
+        }
+    ],
+    "wof:id":773623615,
+    "wof:lastmodified":1462587121,
+    "wof:name":"UPS",
+    "wof:parent_id":85867477,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "courier"
+    ]
+},
+  "bbox": [
+    -91.517495,
+    39.824356,
+    -91.517495,
+    39.824356
+],
+  "geometry": {"coordinates":[-91.517495,39.824356],"type":"Point"}
+}

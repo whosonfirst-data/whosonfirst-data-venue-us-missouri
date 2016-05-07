@@ -1,0 +1,73 @@
+{
+  "id": 789934175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.179962,38.55903,-92.179962,38.55903",
+    "geom:latitude":38.55903,
+    "geom:longitude":-92.179962,
+    "iso:country":"US",
+    "sg:address":"502 Mesa Ave",
+    "sg:city":"Jefferson City",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 635 6637",
+    "sg:postcode":"65101",
+    "sg:province":"MO",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970647,
+        102087511,
+        85837745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3oMGerFhDrCqGHCYnFHV84_38.559030_-92.179962@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462591742,
+    "wof:geomhash":"3661caca6d4d771d361c5ee425f71396",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087511,
+            "locality_id":85970647,
+            "neighbourhood_id":85837745,
+            "region_id":85688661,
+            "venue_id":789934175
+        }
+    ],
+    "wof:id":789934175,
+    "wof:lastmodified":1462591742,
+    "wof:name":"Mike Howell & Sons Plumbing",
+    "wof:parent_id":85837745,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -92.179962,
+    38.55903,
+    -92.179962,
+    38.55903
+],
+  "geometry": {"coordinates":[-92.179962,38.55903],"type":"Point"}
+}

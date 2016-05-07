@@ -1,0 +1,73 @@
+{
+  "id": 773690039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.311041,37.149476,-93.311041,37.149476",
+    "geom:latitude":37.149476,
+    "geom:longitude":-93.311041,
+    "iso:country":"US",
+    "sg:address":"3416 S Newton Ave",
+    "sg:city":"Springfield",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 882 0505",
+    "sg:postcode":"65807",
+    "sg:province":"MO",
+    "sg:tags":[
+        "repairing",
+        "piano",
+        "refinishing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85881151,
+        102087523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0TokprovTYNL2SDdGotIAm_37.149476_-93.311041@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462587614,
+    "wof:geomhash":"1d1cd0407095aaffabd2e9f54e1b3036",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087523,
+            "neighbourhood_id":85881151,
+            "region_id":85688661,
+            "venue_id":773690039
+        }
+    ],
+    "wof:id":773690039,
+    "wof:lastmodified":1462587614,
+    "wof:name":"Dooley's Piano Tuning",
+    "wof:parent_id":85881151,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "piano",
+        "refinishing"
+    ]
+},
+  "bbox": [
+    -93.311041,
+    37.149476,
+    -93.311041,
+    37.149476
+],
+  "geometry": {"coordinates":[-93.311041,37.149476],"type":"Point"}
+}

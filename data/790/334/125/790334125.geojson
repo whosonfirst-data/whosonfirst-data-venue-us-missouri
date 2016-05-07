@@ -1,0 +1,71 @@
+{
+  "id": 790334125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.381714,38.485542,-90.381714,38.485542",
+    "geom:latitude":38.485542,
+    "geom:longitude":-90.381714,
+    "iso:country":"US",
+    "sg:address":"5000 Cedar Plaza Pkwy",
+    "sg:city":"St Louis",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 822 4008",
+    "sg:postcode":"63128",
+    "sg:province":"MO",
+    "sg:tags":[
+        "engineer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971021,
+        102080787,
+        85832925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_72exUoaUW1gBWFvFM080c8_38.485542_-90.381714@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462595020,
+    "wof:geomhash":"3a870de40a60939fba3cc3c73ab1f272",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080787,
+            "locality_id":85971021,
+            "neighbourhood_id":85832925,
+            "region_id":85688661,
+            "venue_id":790334125
+        }
+    ],
+    "wof:id":790334125,
+    "wof:lastmodified":1462595020,
+    "wof:name":"O'Brien & Gere Engineers Inc",
+    "wof:parent_id":85832925,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "engineer"
+    ]
+},
+  "bbox": [
+    -90.381714,
+    38.485542,
+    -90.381714,
+    38.485542
+],
+  "geometry": {"coordinates":[-90.381714,38.485542],"type":"Point"}
+}

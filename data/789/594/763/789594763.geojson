@@ -1,0 +1,71 @@
+{
+  "id": 789594763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.486174,39.09178,-94.486174,39.09178",
+    "geom:latitude":39.09178,
+    "geom:longitude":-94.486174,
+    "iso:country":"US",
+    "sg:address":"1512 Marsh Ave",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 254 5049",
+    "sg:postcode":"64126",
+    "sg:province":"MO",
+    "sg:tags":[
+        "taxicab"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970739,
+        102081227,
+        85810269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_186U951xpX1fzpXZ0tJGot_39.091780_-94.486174@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462589019,
+    "wof:geomhash":"faca875a51f61c77ed5734475205879f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081227,
+            "locality_id":85970739,
+            "neighbourhood_id":85810269,
+            "region_id":85688661,
+            "venue_id":789594763
+        }
+    ],
+    "wof:id":789594763,
+    "wof:lastmodified":1462589019,
+    "wof:name":"Independance Cabs",
+    "wof:parent_id":85810269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "taxicab"
+    ]
+},
+  "bbox": [
+    -94.486174,
+    39.09178,
+    -94.486174,
+    39.09178
+],
+  "geometry": {"coordinates":[-94.48617400000001,39.09178],"type":"Point"}
+}

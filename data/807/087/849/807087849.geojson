@@ -1,0 +1,74 @@
+{
+  "id": 807087849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.61116,36.844277,-94.61116,36.844277",
+    "geom:latitude":36.844277,
+    "geom:longitude":-94.61116,
+    "iso:country":"US",
+    "sg:address":"1042 Cherokee Ave",
+    "sg:city":"Seneca",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/seneca/148561-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 776 7827",
+    "sg:postcode":"64865",
+    "sg:province":"MO",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971289,
+        102087471,
+        85814333
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2gl20pLTcHHpQiT1N1Z6c1_36.844277_-94.611160@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462603596,
+    "wof:geomhash":"9ba08521d214e3898b0f4fe8d873ad7b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087471,
+            "locality_id":85971289,
+            "neighbourhood_id":85814333,
+            "region_id":85688661,
+            "venue_id":807087849
+        }
+    ],
+    "wof:id":807087849,
+    "wof:lastmodified":1462603596,
+    "wof:name":"Subway",
+    "wof:parent_id":85814333,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -94.61116,
+    36.844277,
+    -94.61116,
+    36.844277
+],
+  "geometry": {"coordinates":[-94.61116,36.844277],"type":"Point"}
+}

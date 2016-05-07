@@ -1,0 +1,82 @@
+{
+  "id": 807097751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.369369,38.561921,-90.369369,38.561921",
+    "geom:latitude":38.561921,
+    "geom:longitude":-90.369369,
+    "iso:country":"US",
+    "sg:address":"9031 Watson Rd",
+    "sg:city":"Saint Louis",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/gravois/56852-applebees/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 968 0800",
+    "sg:postcode":"63126",
+    "sg:province":"MO",
+    "sg:tags":[
+        "burger",
+        "american",
+        "sandwich",
+        "soup"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85858243,
+        102191575,
+        404517253,
+        85633793,
+        85972177,
+        102086173,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4bz6CsyByejwOOUNVRbb7T_38.561713_-90.369931@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462603695,
+    "wof:geomhash":"7e7e3c4b4fa1ecddae086372ac49e1b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086173,
+            "localadmin_id":404517253,
+            "locality_id":85972177,
+            "neighbourhood_id":85858243,
+            "region_id":85688661,
+            "venue_id":807097751
+        }
+    ],
+    "wof:id":807097751,
+    "wof:lastmodified":1462603695,
+    "wof:name":"Applebee's",
+    "wof:parent_id":85858243,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "sandwich",
+        "soup"
+    ]
+},
+  "bbox": [
+    -90.369369,
+    38.561921,
+    -90.369369,
+    38.561921
+],
+  "geometry": {"coordinates":[-90.36936900000001,38.561921],"type":"Point"}
+}

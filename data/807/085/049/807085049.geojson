@@ -1,0 +1,78 @@
+{
+  "id": 807085049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.460061,39.245995,-94.460061,39.245995",
+    "geom:latitude":39.245995,
+    "geom:longitude":-94.460061,
+    "iso:country":"US",
+    "sg:address":"8564 Church Rd",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/liberty/148509-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 792 5124",
+    "sg:postcode":"64157",
+    "sg:province":"MO",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85858297,
+        102191575,
+        404516717,
+        85633793,
+        85972443,
+        102086177,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4uKC5vP4Ry9Z4iQ6zYSqDb_39.245995_-94.460061@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462603574,
+    "wof:geomhash":"a7bd46f57bac530722c87d31c8c9e447",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086177,
+            "localadmin_id":404516717,
+            "locality_id":85972443,
+            "neighbourhood_id":85858297,
+            "region_id":85688661,
+            "venue_id":807085049
+        }
+    ],
+    "wof:id":807085049,
+    "wof:lastmodified":1462603574,
+    "wof:name":"Subway",
+    "wof:parent_id":85858297,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -94.460061,
+    39.245995,
+    -94.460061,
+    39.245995
+],
+  "geometry": {"coordinates":[-94.460061,39.245995],"type":"Point"}
+}

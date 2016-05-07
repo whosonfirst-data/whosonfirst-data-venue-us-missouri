@@ -1,0 +1,84 @@
+{
+  "id": 807245149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.399279,36.856029,-94.399279,36.856029",
+    "geom:latitude":36.856029,
+    "geom:longitude":-94.399279,
+    "iso:country":"US",
+    "sg:address":"1911 Sherry Lea Dr",
+    "sg:city":"Neosho",
+    "sg:classifiers":[
+        {
+            "category":"Transit Center",
+            "subcategory":"Freight",
+            "type":"Transportation"
+        },
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 455 9259",
+    "sg:postcode":"64850",
+    "sg:province":"MO",
+    "sg:tags":[
+        "trucking-motor",
+        "broker",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85821247,
+        102191575,
+        404517035,
+        85633793,
+        85971317,
+        102087471,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3DHES0cvu7PXkZ4ipsAkAV_36.856029_-94.399279@1303262934"
+    },
+    "wof:country":"US",
+    "wof:created":1462605278,
+    "wof:geomhash":"590db741ff91e9d5819d2fe21e41f376",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087471,
+            "localadmin_id":404517035,
+            "locality_id":85971317,
+            "neighbourhood_id":85821247,
+            "region_id":85688661,
+            "venue_id":807245149
+        }
+    ],
+    "wof:id":807245149,
+    "wof:lastmodified":1462605278,
+    "wof:name":"National Freight Industries",
+    "wof:parent_id":85821247,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking-motor",
+        "broker",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -94.399279,
+    36.856029,
+    -94.399279,
+    36.856029
+],
+  "geometry": {"coordinates":[-94.39927900000001,36.856029],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 806678977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.381196,38.557272,-90.381196,38.557272",
+    "geom:latitude":38.557272,
+    "geom:longitude":-90.381196,
+    "iso:country":"US",
+    "sg:address":"9540 Watson Rd",
+    "sg:city":"Sappington",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 284 3881",
+    "sg:postcode":"63126",
+    "sg:province":"MO",
+    "sg:tags":[
+        "grocer",
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85858243,
+        102191575,
+        404517253,
+        85633793,
+        85972177,
+        102086173,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6QhPoDkrxvBrSilZl6rXYi_38.557272_-90.381196@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462600163,
+    "wof:geomhash":"e19f227ac3fe33a315b6ec7629963079",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086173,
+            "localadmin_id":404517253,
+            "locality_id":85972177,
+            "neighbourhood_id":85858243,
+            "region_id":85688661,
+            "venue_id":806678977
+        }
+    ],
+    "wof:id":806678977,
+    "wof:lastmodified":1462600163,
+    "wof:name":"Schnucks",
+    "wof:parent_id":85858243,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer",
+        "eating"
+    ]
+},
+  "bbox": [
+    -90.381196,
+    38.557272,
+    -90.381196,
+    38.557272
+],
+  "geometry": {"coordinates":[-90.381196,38.557272],"type":"Point"}
+}

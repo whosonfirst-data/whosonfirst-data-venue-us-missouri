@@ -1,0 +1,75 @@
+{
+  "id": 790286777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.460601,39.338837,-94.460601,39.338837",
+    "geom:latitude":39.338837,
+    "geom:longitude":-94.460601,
+    "iso:country":"US",
+    "sg:address":"10220 NE 136th St",
+    "sg:city":"Liberty",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 781 7412",
+    "sg:postcode":"64068",
+    "sg:province":"MO",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970739,
+        102086177,
+        85836329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_26F4iKoyUtxFr5ACFf5PuO_39.338837_-94.460601@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462594660,
+    "wof:geomhash":"3a1fad42988928766d7cce3a3d608822",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086177,
+            "locality_id":85970739,
+            "neighbourhood_id":85836329,
+            "region_id":85688661,
+            "venue_id":790286777
+        }
+    ],
+    "wof:id":790286777,
+    "wof:lastmodified":1462594660,
+    "wof:name":"Reeves Trucking",
+    "wof:parent_id":85836329,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -94.460601,
+    39.338837,
+    -94.460601,
+    39.338837
+],
+  "geometry": {"coordinates":[-94.460601,39.338837],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 806977967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.486939,38.78114,-90.486939,38.78114",
+    "geom:latitude":38.78114,
+    "geom:longitude":-90.486939,
+    "iso:country":"US",
+    "sg:address":"400 First Capitol Dr",
+    "sg:city":"Saint Charles",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 896 0600",
+    "sg:postcode":"63301",
+    "sg:province":"MO",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3MTs483UPLApwXQdPw4fi1_38.781140_-90.486939@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462602673,
+    "wof:geomhash":"ded2b4866c99efb16480e53b99731786",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":806977967
+        }
+    ],
+    "wof:id":806977967,
+    "wof:lastmodified":1462602673,
+    "wof:name":"B Craig Stefan MD",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -90.486939,
+    38.78114,
+    -90.486939,
+    38.78114
+],
+  "geometry": {"coordinates":[-90.48693900000001,38.78114],"type":"Point"}
+}

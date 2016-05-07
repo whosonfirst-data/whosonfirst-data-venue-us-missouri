@@ -1,0 +1,71 @@
+{
+  "id": 790346081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.364634,37.212936,-93.364634,37.212936",
+    "geom:latitude":37.212936,
+    "geom:longitude":-93.364634,
+    "iso:country":"US",
+    "sg:address":"618 N Meteor Ave",
+    "sg:city":"Springfield",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 831 0109",
+    "sg:postcode":"65802",
+    "sg:province":"MO",
+    "sg:tags":[
+        "carwash"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971363,
+        102087523,
+        85836941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5hxiaCmLtduJREe86NGV1a_37.212936_-93.364634@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462595108,
+    "wof:geomhash":"456b8f4d10edfb61821bde1a8745fdff",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087523,
+            "locality_id":85971363,
+            "neighbourhood_id":85836941,
+            "region_id":85688661,
+            "venue_id":790346081
+        }
+    ],
+    "wof:id":790346081,
+    "wof:lastmodified":1462595108,
+    "wof:name":"Reflections Auto Detail",
+    "wof:parent_id":85836941,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carwash"
+    ]
+},
+  "bbox": [
+    -93.364634,
+    37.212936,
+    -93.364634,
+    37.212936
+],
+  "geometry": {"coordinates":[-93.364634,37.212936],"type":"Point"}
+}

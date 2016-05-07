@@ -1,0 +1,73 @@
+{
+  "id": 806615237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.583159,37.091835,-94.583159,37.091835",
+    "geom:latitude":37.091835,
+    "geom:longitude":-94.583159,
+    "iso:country":"US",
+    "sg:address":"187 S Central City Rd",
+    "sg:city":"Joplin",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 782 7931",
+    "sg:postcode":"64801",
+    "sg:province":"MO",
+    "sg:tags":[
+        "machine",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945139,
+        102082169,
+        85818073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4u9ZgfP8kzxPdvTthhlqCz_37.091835_-94.583159@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462599608,
+    "wof:geomhash":"c73036977b0ce03606c1f49ca64335a9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082169,
+            "locality_id":85945139,
+            "neighbourhood_id":85818073,
+            "region_id":85688555,
+            "venue_id":806615237
+        }
+    ],
+    "wof:id":806615237,
+    "wof:lastmodified":1462599608,
+    "wof:name":"L T Machine",
+    "wof:parent_id":85818073,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "shop"
+    ]
+},
+  "bbox": [
+    -94.583159,
+    37.091835,
+    -94.583159,
+    37.091835
+],
+  "geometry": {"coordinates":[-94.58315899999999,37.091835],"type":"Point"}
+}

@@ -1,0 +1,88 @@
+{
+  "id": 789792055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.142478,37.8157,-92.142478,37.8157",
+    "geom:latitude":37.8157,
+    "geom:longitude":-92.142478,
+    "iso:country":"US",
+    "sg:address":"301 Adams Ave",
+    "sg:city":"St Robert",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 336 4122",
+    "sg:postcode":"65584",
+    "sg:province":"MO",
+    "sg:tags":[
+        "glass",
+        "window",
+        "automotive",
+        "plate",
+        "replacement"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85822351,
+        102191575,
+        404517689,
+        85633793,
+        85971093,
+        102086161,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6vnuR0V79G9csUoqLmTKKM_37.815700_-92.142478@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462590580,
+    "wof:geomhash":"2fdbe0329fe28a9f0f88e6f5f66c135d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086161,
+            "localadmin_id":404517689,
+            "locality_id":85971093,
+            "neighbourhood_id":85822351,
+            "region_id":85688661,
+            "venue_id":789792055
+        }
+    ],
+    "wof:id":789792055,
+    "wof:lastmodified":1462590580,
+    "wof:name":"St Roberts Glass Co Inc",
+    "wof:parent_id":85822351,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "glass",
+        "window",
+        "automotive",
+        "plate",
+        "replacement"
+    ]
+},
+  "bbox": [
+    -92.142478,
+    37.8157,
+    -92.142478,
+    37.8157
+],
+  "geometry": {"coordinates":[-92.142478,37.8157],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 790050385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.366566,37.22563,-93.366566,37.22563",
+    "geom:latitude":37.22563,
+    "geom:longitude":-93.366566,
+    "iso:country":"US",
+    "sg:address":"1439 N Farm Rd 123",
+    "sg:city":"Springfield",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 831 0066",
+    "sg:postcode":"65802",
+    "sg:province":"MO",
+    "sg:tags":[
+        "trucking"
+    ],
+    "sg:website":"www.usexpress.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971363,
+        102087523,
+        85881139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4YmiwzktjCJqD4Z7hllHOF_37.225630_-93.366566@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462592726,
+    "wof:geomhash":"99b08eaba0f82cc89d9471f2017cf732",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087523,
+            "locality_id":85971363,
+            "neighbourhood_id":85881139,
+            "region_id":85688661,
+            "venue_id":790050385
+        }
+    ],
+    "wof:id":790050385,
+    "wof:lastmodified":1462592726,
+    "wof:name":"USE Transportation Svc",
+    "wof:parent_id":85881139,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -93.366566,
+    37.22563,
+    -93.366566,
+    37.22563
+],
+  "geometry": {"coordinates":[-93.36656600000001,37.22563],"type":"Point"}
+}

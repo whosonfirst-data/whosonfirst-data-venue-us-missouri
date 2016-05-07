@@ -1,0 +1,73 @@
+{
+  "id": 789996583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.799107,39.658348,-91.799107,39.658348",
+    "geom:latitude":39.658348,
+    "geom:longitude":-91.799107,
+    "iso:country":"US",
+    "sg:address":"1004 US Hwy 36",
+    "sg:city":"Monroe City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 735 4099",
+    "sg:postcode":"63456",
+    "sg:province":"MO",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688697,
+        85633793,
+        85938427,
+        102086213,
+        85867477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1pj3X6H3xBAV9DZzObELWG_39.658348_-91.799107@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462592300,
+    "wof:geomhash":"984f8fd9c2e44ed0ff1ff9bedd1070c7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086213,
+            "locality_id":85938427,
+            "neighbourhood_id":85867477,
+            "region_id":85688697,
+            "venue_id":789996583
+        }
+    ],
+    "wof:id":789996583,
+    "wof:lastmodified":1462592300,
+    "wof:name":"J C Towing & Automotive Svc",
+    "wof:parent_id":85867477,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -91.799107,
+    39.658348,
+    -91.799107,
+    39.658348
+],
+  "geometry": {"coordinates":[-91.79910700000001,39.658348],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 807074507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.44789,37.770809,-90.44789,37.770809",
+    "geom:latitude":37.770809,
+    "geom:longitude":-90.44789,
+    "iso:country":"US",
+    "sg:address":"1700 W Columbia St",
+    "sg:city":"Farmington",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/st-francois/194137-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"63640",
+    "sg:province":"MO",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970665,
+        102085297,
+        85816309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1YKnvDVoJv5wQuX10X3hGI_37.770809_-90.447890@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462603492,
+    "wof:geomhash":"488a02ba87b3c6fb135b4ec5f7c13f3e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085297,
+            "locality_id":85970665,
+            "neighbourhood_id":85816309,
+            "region_id":85688661,
+            "venue_id":807074507
+        }
+    ],
+    "wof:id":807074507,
+    "wof:lastmodified":1462603492,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85816309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -90.44789,
+    37.770809,
+    -90.44789,
+    37.770809
+],
+  "geometry": {"coordinates":[-90.44789,37.770809],"type":"Point"}
+}

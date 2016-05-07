@@ -1,0 +1,71 @@
+{
+  "id": 773596563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.538396,38.788,-90.538396,38.788",
+    "geom:latitude":38.788,
+    "geom:longitude":-90.538396,
+    "iso:country":"US",
+    "sg:address":"3128 W Clay St",
+    "sg:city":"St Charles",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 724 4522",
+    "sg:postcode":"63301",
+    "sg:province":"MO",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7PLOctX9JfPN4j8WvOFGrU_38.788000_-90.538396@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462586920,
+    "wof:geomhash":"dba56d1965896ff89da4c8ba754b7410",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":773596563
+        }
+    ],
+    "wof:id":773596563,
+    "wof:lastmodified":1462586920,
+    "wof:name":"Beauty Spot",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -90.538396,
+    38.788,
+    -90.538396,
+    38.788
+],
+  "geometry": {"coordinates":[-90.53839600000001,38.788],"type":"Point"}
+}

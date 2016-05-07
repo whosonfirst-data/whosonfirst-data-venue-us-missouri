@@ -1,0 +1,75 @@
+{
+  "id": 789963899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.574315,38.798886,-90.574315,38.798886",
+    "geom:latitude":38.798886,
+    "geom:longitude":-90.574315,
+    "iso:country":"US",
+    "sg:address":"4165 Industrial Dr",
+    "sg:city":"St Peters",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 939 9362",
+    "sg:postcode":"63376",
+    "sg:province":"MO",
+    "sg:tags":[
+        "commercial",
+        "printer",
+        "lithographic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1hFhegcaI85kEMShESzACE_38.798886_-90.574315@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462592029,
+    "wof:geomhash":"2396c3cf55f90591099b12f22565f42c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":789963899
+        }
+    ],
+    "wof:id":789963899,
+    "wof:lastmodified":1462592029,
+    "wof:name":"Allied Printing Co",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "printer",
+        "lithographic"
+    ]
+},
+  "bbox": [
+    -90.574315,
+    38.798886,
+    -90.574315,
+    38.798886
+],
+  "geometry": {"coordinates":[-90.574315,38.798886],"type":"Point"}
+}

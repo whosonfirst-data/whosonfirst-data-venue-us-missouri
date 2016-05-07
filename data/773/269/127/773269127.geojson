@@ -1,0 +1,71 @@
+{
+  "id": 773269127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.618147,37.997054,-91.618147,37.997054",
+    "geom:latitude":37.997054,
+    "geom:longitude":-91.618147,
+    "iso:country":"US",
+    "sg:address":"300 W Eldon St",
+    "sg:city":"St James",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 265 5112",
+    "sg:postcode":"65559",
+    "sg:province":"MO",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970819,
+        102086893,
+        85847353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2tibKRa7DUwIaAZte34yuy_37.997054_-91.618147@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462584436,
+    "wof:geomhash":"1bfe91cbebb7285f0025116c764559af",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086893,
+            "locality_id":85970819,
+            "neighbourhood_id":85847353,
+            "region_id":85688661,
+            "venue_id":773269127
+        }
+    ],
+    "wof:id":773269127,
+    "wof:lastmodified":1462584436,
+    "wof:name":"St James Fire Station",
+    "wof:parent_id":85847353,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -91.618147,
+    37.997054,
+    -91.618147,
+    37.997054
+],
+  "geometry": {"coordinates":[-91.61814699999999,37.997054],"type":"Point"}
+}

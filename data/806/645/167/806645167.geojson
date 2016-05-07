@@ -1,0 +1,73 @@
+{
+  "id": 806645167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.180788,38.580759,-92.180788,38.580759",
+    "geom:latitude":38.580759,
+    "geom:longitude":-92.180788,
+    "iso:country":"US",
+    "sg:address":"200 St Marys Plz",
+    "sg:city":"Jefferson City",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 636 9000",
+    "sg:postcode":"65101",
+    "sg:province":"MO",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970647,
+        102087511,
+        85837745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6De4KeuacDdi2NkRHg4BMB_38.580759_-92.180788@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462599860,
+    "wof:geomhash":"0fa3cb05af8ad6306288f1b57f6c7d39",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087511,
+            "locality_id":85970647,
+            "neighbourhood_id":85837745,
+            "region_id":85688661,
+            "venue_id":806645167
+        }
+    ],
+    "wof:id":806645167,
+    "wof:lastmodified":1462599860,
+    "wof:name":"Capital Region Medical Ctr",
+    "wof:parent_id":85837745,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -92.180788,
+    38.580759,
+    -92.180788,
+    38.580759
+],
+  "geometry": {"coordinates":[-92.18078800000001,38.580759],"type":"Point"}
+}

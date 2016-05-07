@@ -1,0 +1,79 @@
+{
+  "id": 773461579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.287199,38.98588,-92.287199,38.98588",
+    "geom:latitude":38.98588,
+    "geom:longitude":-92.287199,
+    "iso:country":"US",
+    "sg:address":"3609 Paris Rd",
+    "sg:city":"Columbia",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Auto Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 886 9400",
+    "sg:postcode":"65201",
+    "sg:province":"MO",
+    "sg:tags":[
+        "truck",
+        "general"
+    ],
+    "sg:website":"www.inlandtruck.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970425,
+        102086187,
+        85851713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3GSXuHHobmteLLrjSLTt29_38.985880_-92.287199@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462585927,
+    "wof:geomhash":"355c68c5c937f0df97177f153633b18f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086187,
+            "locality_id":85970425,
+            "neighbourhood_id":85851713,
+            "region_id":85688661,
+            "venue_id":773461579
+        }
+    ],
+    "wof:id":773461579,
+    "wof:lastmodified":1462585927,
+    "wof:name":"Inland Truck Parts & Service",
+    "wof:parent_id":85851713,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck",
+        "general"
+    ]
+},
+  "bbox": [
+    -92.287199,
+    38.98588,
+    -92.287199,
+    38.98588
+],
+  "geometry": {"coordinates":[-92.287199,38.98588],"type":"Point"}
+}

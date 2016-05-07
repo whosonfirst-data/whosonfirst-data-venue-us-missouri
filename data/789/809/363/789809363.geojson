@@ -1,0 +1,71 @@
+{
+  "id": 789809363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.510048,39.809239,-91.510048,39.809239",
+    "geom:latitude":39.809239,
+    "geom:longitude":-91.510048,
+    "iso:country":"US",
+    "sg:address":"7181 State Hwy 168",
+    "sg:city":"Palmyra",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 769 6002",
+    "sg:postcode":"63461",
+    "sg:province":"MO",
+    "sg:tags":[
+        "body"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688697,
+        85633793,
+        85938427,
+        102086213,
+        85867477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2kTokokwiYCYh6W17JsGk7_39.809239_-91.510048@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462590709,
+    "wof:geomhash":"425047220329b42cb026c97882c3ed4f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086213,
+            "locality_id":85938427,
+            "neighbourhood_id":85867477,
+            "region_id":85688697,
+            "venue_id":789809363
+        }
+    ],
+    "wof:id":789809363,
+    "wof:lastmodified":1462590709,
+    "wof:name":"Lackey Auto Salvage",
+    "wof:parent_id":85867477,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body"
+    ]
+},
+  "bbox": [
+    -91.510048,
+    39.809239,
+    -91.510048,
+    39.809239
+],
+  "geometry": {"coordinates":[-91.510048,39.809239],"type":"Point"}
+}

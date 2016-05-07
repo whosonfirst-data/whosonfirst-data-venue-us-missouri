@@ -1,0 +1,81 @@
+{
+  "id": 806639059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.391276,38.480109,-90.391276,38.480109",
+    "geom:latitude":38.480109,
+    "geom:longitude":-90.391276,
+    "iso:country":"US",
+    "sg:address":"13303 Tesson Ferry Rd",
+    "sg:city":"Sappington",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 843 5888",
+    "sg:postcode":"63128",
+    "sg:province":"MO",
+    "sg:tags":[
+        "resonance",
+        "magnetic",
+        "imaging"
+    ],
+    "sg:website":"www.metroimaging.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971021,
+        102080787,
+        85832925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_40jRxddQATm0qgDbipPxYj_38.480109_-90.391276@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462599807,
+    "wof:geomhash":"64161d472d7e6027957db6676a62cfb1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080787,
+            "locality_id":85971021,
+            "neighbourhood_id":85832925,
+            "region_id":85688661,
+            "venue_id":806639059
+        }
+    ],
+    "wof:id":806639059,
+    "wof:lastmodified":1462599807,
+    "wof:name":"Metro Imaging",
+    "wof:parent_id":85832925,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "resonance",
+        "magnetic",
+        "imaging"
+    ]
+},
+  "bbox": [
+    -90.391276,
+    38.480109,
+    -90.391276,
+    38.480109
+],
+  "geometry": {"coordinates":[-90.391276,38.480109],"type":"Point"}
+}

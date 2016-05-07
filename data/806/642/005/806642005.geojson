@@ -1,0 +1,71 @@
+{
+  "id": 806642005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.434357,37.780165,-90.434357,37.780165",
+    "geom:latitude":37.780165,
+    "geom:longitude":-90.434357,
+    "iso:country":"US",
+    "sg:address":"922 Ruby Dr",
+    "sg:city":"Farmington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 747 0550",
+    "sg:postcode":"63640",
+    "sg:province":"MO",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970665,
+        102085297,
+        85816309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0QlNIux5qU4BhCIhalLILP_37.780165_-90.434357@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462599830,
+    "wof:geomhash":"ba659b5ddd4284a8fb82b778b6f21ac9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085297,
+            "locality_id":85970665,
+            "neighbourhood_id":85816309,
+            "region_id":85688661,
+            "venue_id":806642005
+        }
+    ],
+    "wof:id":806642005,
+    "wof:lastmodified":1462599830,
+    "wof:name":"Smith & Sons Contracting",
+    "wof:parent_id":85816309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -90.434357,
+    37.780165,
+    -90.434357,
+    37.780165
+],
+  "geometry": {"coordinates":[-90.43435700000001,37.780165],"type":"Point"}
+}

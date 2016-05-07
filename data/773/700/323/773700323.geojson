@@ -1,0 +1,71 @@
+{
+  "id": 773700323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.110891,37.265185,-93.110891,37.265185",
+    "geom:latitude":37.265185,
+    "geom:longitude":-93.110891,
+    "iso:country":"US",
+    "sg:address":"609 Sunrise St",
+    "sg:city":"Strafford",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 736 3005",
+    "sg:postcode":"65757",
+    "sg:province":"MO",
+    "sg:tags":[
+        "truck"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971363,
+        102087523,
+        85881137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Gw15vZ8UomPwU68y3NkdX_37.265185_-93.110891@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462587728,
+    "wof:geomhash":"72e04c08d6b725475f05b6aa9b061307",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087523,
+            "locality_id":85971363,
+            "neighbourhood_id":85881137,
+            "region_id":85688661,
+            "venue_id":773700323
+        }
+    ],
+    "wof:id":773700323,
+    "wof:lastmodified":1462587728,
+    "wof:name":"L T's Mobile Truck Repair",
+    "wof:parent_id":85881137,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck"
+    ]
+},
+  "bbox": [
+    -93.110891,
+    37.265185,
+    -93.110891,
+    37.265185
+],
+  "geometry": {"coordinates":[-93.110891,37.265185],"type":"Point"}
+}

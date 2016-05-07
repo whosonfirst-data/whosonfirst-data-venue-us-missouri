@@ -1,0 +1,77 @@
+{
+  "id": 790004913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.311831,38.587668,-90.311831,38.587668",
+    "geom:latitude":38.587668,
+    "geom:longitude":-90.311831,
+    "iso:country":"US",
+    "sg:address":"6901 Chippewa St",
+    "sg:city":"St Louis",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 646 8205",
+    "sg:postcode":"63109",
+    "sg:province":"MO",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873685,
+        102191575,
+        404518053,
+        85633793,
+        85971343,
+        102080791,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7LnNJ7j20lyjDlYsZQ9hHT_38.587668_-90.311831@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462592369,
+    "wof:geomhash":"e6979400ebc46b3bf6e9822792951ed3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080791,
+            "localadmin_id":404518053,
+            "locality_id":85971343,
+            "neighbourhood_id":85873685,
+            "region_id":85688661,
+            "venue_id":790004913
+        }
+    ],
+    "wof:id":790004913,
+    "wof:lastmodified":1462592369,
+    "wof:name":"Robert Sindel MD",
+    "wof:parent_id":85873685,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -90.311831,
+    38.587668,
+    -90.311831,
+    38.587668
+],
+  "geometry": {"coordinates":[-90.311831,38.587668],"type":"Point"}
+}

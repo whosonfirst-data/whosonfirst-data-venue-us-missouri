@@ -1,0 +1,84 @@
+{
+  "id": 789840769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.326602,38.963685,-92.326602,38.963685",
+    "geom:latitude":38.963685,
+    "geom:longitude":-92.326602,
+    "iso:country":"US",
+    "sg:address":"808 North Blvd",
+    "sg:city":"Columbia",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 449 7828",
+    "sg:postcode":"65201",
+    "sg:province":"MO",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85835171,
+        102191575,
+        404516389,
+        85633793,
+        85970425,
+        102086187,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_39kqiFAYm4hhMQASeZYgPk_38.963685_-92.326602@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462590952,
+    "wof:geomhash":"4b4f51699134bda5a242eaf80d89ed31",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086187,
+            "localadmin_id":404516389,
+            "locality_id":85970425,
+            "neighbourhood_id":85835171,
+            "region_id":85688661,
+            "venue_id":789840769
+        }
+    ],
+    "wof:id":789840769,
+    "wof:lastmodified":1462590952,
+    "wof:name":"Brammer's Auto Repair",
+    "wof:parent_id":85835171,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ]
+},
+  "bbox": [
+    -92.326602,
+    38.963685,
+    -92.326602,
+    38.963685
+],
+  "geometry": {"coordinates":[-92.32660199999999,38.963685],"type":"Point"}
+}

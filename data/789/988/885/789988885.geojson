@@ -1,0 +1,75 @@
+{
+  "id": 789988885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.150208,39.379252,-91.150208,39.379252",
+    "geom:latitude":39.379252,
+    "geom:longitude":-91.150208,
+    "iso:country":"US",
+    "sg:address":"17952 US Hwy 54",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Livestock Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 324 2692",
+    "sg:postcode":"63334",
+    "sg:province":"MO",
+    "sg:tags":[
+        "hog",
+        "production",
+        "cattle"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971907,
+        102086151,
+        85817909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2e88ebcFe4iTHJMpTeU6VM_39.379252_-91.150208@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462592238,
+    "wof:geomhash":"e3c819362da2cb2ff77cf3046e9b35bf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086151,
+            "locality_id":85971907,
+            "neighbourhood_id":85817909,
+            "region_id":85688661,
+            "venue_id":789988885
+        }
+    ],
+    "wof:id":789988885,
+    "wof:lastmodified":1462592238,
+    "wof:name":"Becker Brothers",
+    "wof:parent_id":85817909,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hog",
+        "production",
+        "cattle"
+    ]
+},
+  "bbox": [
+    -91.150208,
+    39.379252,
+    -91.150208,
+    39.379252
+],
+  "geometry": {"coordinates":[-91.15020800000001,39.379252],"type":"Point"}
+}

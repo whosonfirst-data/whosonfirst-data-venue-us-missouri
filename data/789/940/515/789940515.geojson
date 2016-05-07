@@ -1,0 +1,73 @@
+{
+  "id": 789940515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.69944,38.829444,-90.69944,38.829444",
+    "geom:latitude":38.829444,
+    "geom:longitude":-90.69944,
+    "iso:country":"US",
+    "sg:address":"1322 N Main St",
+    "sg:city":"O Fallon",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 281 8860",
+    "sg:postcode":"63366",
+    "sg:province":"MO",
+    "sg:tags":[
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_616Rjd3qaCb1x5p7rxP0HW_38.829444_-90.699440@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462591790,
+    "wof:geomhash":"424b1a23eec77ad0600e411e3261cf72",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":789940515
+        }
+    ],
+    "wof:id":789940515,
+    "wof:lastmodified":1462591790,
+    "wof:name":"Texaco",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -90.69944,
+    38.829444,
+    -90.69944,
+    38.829444
+],
+  "geometry": {"coordinates":[-90.69944,38.829444],"type":"Point"}
+}

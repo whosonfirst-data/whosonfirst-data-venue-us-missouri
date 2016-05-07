@@ -1,0 +1,75 @@
+{
+  "id": 789785141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.762889,37.957961,-91.762889,37.957961",
+    "geom:latitude":37.957961,
+    "geom:longitude":-91.762889,
+    "iso:country":"US",
+    "sg:address":"801 E 18th St",
+    "sg:city":"Rolla",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 341 8588",
+    "sg:postcode":"65401",
+    "sg:province":"MO",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970821,
+        102086893,
+        85814531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7TR6NiNTcy6bQMkd8hNYgX_37.957961_-91.762889@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462590529,
+    "wof:geomhash":"4fcfebdf8ab9ca551a7d95140ff52cb2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086893,
+            "locality_id":85970821,
+            "neighbourhood_id":85814531,
+            "region_id":85688661,
+            "venue_id":789785141
+        }
+    ],
+    "wof:id":789785141,
+    "wof:lastmodified":1462590529,
+    "wof:name":"Yoakum Dump Trucking",
+    "wof:parent_id":85814531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -91.762889,
+    37.957961,
+    -91.762889,
+    37.957961
+],
+  "geometry": {"coordinates":[-91.762889,37.957961],"type":"Point"}
+}

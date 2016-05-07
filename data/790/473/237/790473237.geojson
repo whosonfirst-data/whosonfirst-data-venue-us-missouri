@@ -1,0 +1,71 @@
+{
+  "id": 790473237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.476761,38.801693,-90.476761,38.801693",
+    "geom:latitude":38.801693,
+    "geom:longitude":-90.476761,
+    "iso:country":"US",
+    "sg:address":"308 Barthel Ave",
+    "sg:city":"Saint Charles",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 916 3435",
+    "sg:postcode":"63301",
+    "sg:province":"MO",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4mmiWGMMEuMFieyRQAzQcA_38.801693_-90.476761@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462596137,
+    "wof:geomhash":"e479497fc64ae028138fea1c064da4cf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":790473237
+        }
+    ],
+    "wof:id":790473237,
+    "wof:lastmodified":1462596137,
+    "wof:name":"J Rs Automotive",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -90.476761,
+    38.801693,
+    -90.476761,
+    38.801693
+],
+  "geometry": {"coordinates":[-90.476761,38.801693],"type":"Point"}
+}

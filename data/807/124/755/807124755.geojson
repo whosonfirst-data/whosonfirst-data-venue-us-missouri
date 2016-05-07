@@ -1,0 +1,77 @@
+{
+  "id": 807124755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.38983,38.370343,-90.38983,38.370343",
+    "geom:latitude":38.370343,
+    "geom:longitude":-90.38983,
+    "iso:country":"US",
+    "sg:address":"1267 Main St",
+    "sg:city":"Imperial",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        },
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 464 6808",
+    "sg:postcode":"63052",
+    "sg:province":"MO",
+    "sg:tags":[
+        "loan",
+        "processing"
+    ],
+    "sg:website":"http://www.amcmort.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85805175,
+        102080787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1F75i0BsfYKg1ygbNYEiAV_38.370343_-90.389830@1303262926"
+    },
+    "wof:country":"US",
+    "wof:created":1462603998,
+    "wof:geomhash":"c658b85a6dd6e3797148e0a85efebf37",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080787,
+            "neighbourhood_id":85805175,
+            "region_id":85688661,
+            "venue_id":807124755
+        }
+    ],
+    "wof:id":807124755,
+    "wof:lastmodified":1462603998,
+    "wof:name":"American Mortgage",
+    "wof:parent_id":85805175,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "loan",
+        "processing"
+    ]
+},
+  "bbox": [
+    -90.38983,
+    38.370343,
+    -90.38983,
+    38.370343
+],
+  "geometry": {"coordinates":[-90.38983,38.370343],"type":"Point"}
+}

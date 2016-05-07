@@ -1,0 +1,73 @@
+{
+  "id": 806802159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.701725,38.81218,-90.701725,38.81218",
+    "geom:latitude":38.81218,
+    "geom:longitude":-90.701725,
+    "iso:country":"US",
+    "sg:address":"103 Lincoln St",
+    "sg:city":"O Fallon",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 978 6901",
+    "sg:postcode":"63366",
+    "sg:province":"MO",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0PzvsArwAyU84pLFi7dHhz_38.812180_-90.701725@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462601202,
+    "wof:geomhash":"9f916b18268305918be39a8dfd40e49a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":806802159
+        }
+    ],
+    "wof:id":806802159,
+    "wof:lastmodified":1462601202,
+    "wof:name":"Centers For Behavioral Health",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -90.701725,
+    38.81218,
+    -90.701725,
+    38.81218
+],
+  "geometry": {"coordinates":[-90.701725,38.81218],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 789754613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.57689,38.783119,-90.57689,38.783119",
+    "geom:latitude":38.783119,
+    "geom:longitude":-90.57689,
+    "iso:country":"US",
+    "sg:address":"517 Jungermann Rd",
+    "sg:city":"St Peters",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 928 2223",
+    "sg:postcode":"63376",
+    "sg:province":"MO",
+    "sg:tags":[
+        "lock",
+        "locksmith"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6NhDBUj5LNWf8Y4kovn5zS_38.783119_-90.576890@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462590288,
+    "wof:geomhash":"dd81ae7c601c98c9152e981fd1a0876d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":789754613
+        }
+    ],
+    "wof:id":789754613,
+    "wof:lastmodified":1462590288,
+    "wof:name":"A Better Locksmith",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lock",
+        "locksmith"
+    ]
+},
+  "bbox": [
+    -90.57689,
+    38.783119,
+    -90.57689,
+    38.783119
+],
+  "geometry": {"coordinates":[-90.57689000000001,38.783119],"type":"Point"}
+}

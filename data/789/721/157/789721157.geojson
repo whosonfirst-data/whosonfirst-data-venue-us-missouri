@@ -1,0 +1,73 @@
+{
+  "id": 789721157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.798922,39.658346,-91.798922,39.658346",
+    "geom:latitude":39.658346,
+    "geom:longitude":-91.798922,
+    "iso:country":"US",
+    "sg:address":"1010 US Hwy 36",
+    "sg:city":"Monroe City",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 735 4850",
+    "sg:postcode":"63456",
+    "sg:province":"MO",
+    "sg:tags":[
+        "home",
+        "convalescent"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688697,
+        85633793,
+        85938427,
+        102086213,
+        85867477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0WRc2Us0PRqVqCxmvmNWuk_39.658346_-91.798922@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462590032,
+    "wof:geomhash":"cde218dbfe193db1b8286bbaadf9772c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086213,
+            "locality_id":85938427,
+            "neighbourhood_id":85867477,
+            "region_id":85688697,
+            "venue_id":789721157
+        }
+    ],
+    "wof:id":789721157,
+    "wof:lastmodified":1462590032,
+    "wof:name":"Monroe City Manor Inc",
+    "wof:parent_id":85867477,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "convalescent"
+    ]
+},
+  "bbox": [
+    -91.798922,
+    39.658346,
+    -91.798922,
+    39.658346
+],
+  "geometry": {"coordinates":[-91.798922,39.658346],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 806571245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.46585,38.364621,-90.46585,38.364621",
+    "geom:latitude":38.364621,
+    "geom:longitude":-90.46585,
+    "iso:country":"US",
+    "sg:address":"6439 Old Lemay Ferry Rd",
+    "sg:city":"Antonia",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 948 2463",
+    "sg:postcode":"63052",
+    "sg:province":"MO",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85805175,
+        102080787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4xzr9r9YCJFITESD1kspli_38.364621_-90.465850@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462599240,
+    "wof:geomhash":"802117c92f834c9188db1d86f48f2ddd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080787,
+            "neighbourhood_id":85805175,
+            "region_id":85688661,
+            "venue_id":806571245
+        }
+    ],
+    "wof:id":806571245,
+    "wof:lastmodified":1462599240,
+    "wof:name":"Flash Guttering",
+    "wof:parent_id":85805175,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -90.46585,
+    38.364621,
+    -90.46585,
+    38.364621
+],
+  "geometry": {"coordinates":[-90.46585,38.364621],"type":"Point"}
+}

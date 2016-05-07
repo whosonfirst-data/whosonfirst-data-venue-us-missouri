@@ -1,0 +1,73 @@
+{
+  "id": 773554737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.457215,38.159219,-90.457215,38.159219",
+    "geom:latitude":38.159219,
+    "geom:longitude":-90.457215,
+    "iso:country":"US",
+    "sg:address":"18 High Hill Ln",
+    "sg:city":"Festus",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 937 6145",
+    "sg:postcode":"63028",
+    "sg:province":"MO",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85848677,
+        102080787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6L02ADPnnGNOf9W70aViHd_38.159219_-90.457215@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462586606,
+    "wof:geomhash":"beeb0a70e389516c339d5bc14cadb6ac",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080787,
+            "neighbourhood_id":85848677,
+            "region_id":85688661,
+            "venue_id":773554737
+        }
+    ],
+    "wof:id":773554737,
+    "wof:lastmodified":1462586606,
+    "wof:name":"Broeker Trucking Inc",
+    "wof:parent_id":85848677,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -90.457215,
+    38.159219,
+    -90.457215,
+    38.159219
+],
+  "geometry": {"coordinates":[-90.45721500000001,38.159219],"type":"Point"}
+}

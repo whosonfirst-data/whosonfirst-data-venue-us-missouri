@@ -1,0 +1,76 @@
+{
+  "id": 789928609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.232852,38.6273,-90.232852,38.6273",
+    "geom:latitude":38.6273,
+    "geom:longitude":-90.232852,
+    "iso:country":"US",
+    "sg:address":"3411 Gratiot St",
+    "sg:city":"St Louis",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Machinery & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 865 2250",
+    "sg:postcode":"63103",
+    "sg:province":"MO",
+    "sg:tags":[
+        "janitor"
+    ],
+    "sg:website":"www.acmejanitor.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85867035,
+        102191575,
+        404518053,
+        85633793,
+        85971343,
+        102080791,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ao9sAaXCIiJYiBAJSARkR_38.627300_-90.232852@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462591700,
+    "wof:geomhash":"25e30a5643ad56dd5fb6a039bdef1980",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080791,
+            "localadmin_id":404518053,
+            "locality_id":85971343,
+            "neighbourhood_id":85867035,
+            "region_id":85688661,
+            "venue_id":789928609
+        }
+    ],
+    "wof:id":789928609,
+    "wof:lastmodified":1462591700,
+    "wof:name":"Acme Janitor Equipment Co Inc",
+    "wof:parent_id":85867035,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitor"
+    ]
+},
+  "bbox": [
+    -90.232852,
+    38.6273,
+    -90.232852,
+    38.6273
+],
+  "geometry": {"coordinates":[-90.23285199999999,38.6273],"type":"Point"}
+}

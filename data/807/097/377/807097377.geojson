@@ -1,0 +1,87 @@
+{
+  "id": 807097377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.244463,38.580427,-90.244463,38.580427",
+    "geom:latitude":38.580427,
+    "geom:longitude":-90.244463,
+    "iso:country":"US",
+    "sg:address":"4224 S Grand Blvd",
+    "sg:city":"Saint Louis",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Ice Cream",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/st-louis/253231-ted-drewes-frozen-custard/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 352 7376",
+    "sg:postcode":"63111",
+    "sg:province":"MO",
+    "sg:tags":[
+        "dessert",
+        "american",
+        "ice",
+        "cream"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873693,
+        102191575,
+        404518053,
+        85633793,
+        85971343,
+        102080791,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Mj2QzBn5jJjEtEhQ1gw3R_38.580688_-90.244167@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462603691,
+    "wof:geomhash":"6fa5f054c526f5c8d2abae29081c74b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080791,
+            "localadmin_id":404518053,
+            "locality_id":85971343,
+            "neighbourhood_id":85873693,
+            "region_id":85688661,
+            "venue_id":807097377
+        }
+    ],
+    "wof:id":807097377,
+    "wof:lastmodified":1462603691,
+    "wof:name":"Ted Drewes Frozen Custard",
+    "wof:parent_id":85873693,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dessert",
+        "american",
+        "ice",
+        "cream"
+    ]
+},
+  "bbox": [
+    -90.244463,
+    38.580427,
+    -90.244463,
+    38.580427
+],
+  "geometry": {"coordinates":[-90.244463,38.580427],"type":"Point"}
+}

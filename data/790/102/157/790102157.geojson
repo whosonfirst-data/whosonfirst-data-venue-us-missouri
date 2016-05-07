@@ -1,0 +1,71 @@
+{
+  "id": 790102157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.36662,37.22253,-93.36662,37.22253",
+    "geom:latitude":37.22253,
+    "geom:longitude":-93.36662,
+    "iso:country":"US",
+    "sg:address":"1205 N Farm Rd 123",
+    "sg:city":"Springfield",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 864 8637",
+    "sg:postcode":"65802",
+    "sg:province":"MO",
+    "sg:tags":[
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971363,
+        102087523,
+        85836941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4pwbpdwfEm2TE132KRLAVS_37.222530_-93.366620@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462593152,
+    "wof:geomhash":"9c3d9c9057456e4b4bbb231569d650c5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087523,
+            "locality_id":85971363,
+            "neighbourhood_id":85836941,
+            "region_id":85688661,
+            "venue_id":790102157
+        }
+    ],
+    "wof:id":790102157,
+    "wof:lastmodified":1462593152,
+    "wof:name":"Carr's Trucking",
+    "wof:parent_id":85836941,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -93.36662,
+    37.22253,
+    -93.36662,
+    37.22253
+],
+  "geometry": {"coordinates":[-93.36662,37.22253],"type":"Point"}
+}

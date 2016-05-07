@@ -1,0 +1,77 @@
+{
+  "id": 806922767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.366546,38.723548,-90.366546,38.723548",
+    "geom:latitude":38.723548,
+    "geom:longitude":-90.366546,
+    "iso:country":"US",
+    "sg:address":"9521 Muriel Ave",
+    "sg:city":"St Louis",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 428 8478",
+    "sg:postcode":"63114",
+    "sg:province":"MO",
+    "sg:tags":[
+        "janitor",
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85847351,
+        102191575,
+        404517201,
+        85633793,
+        85972285,
+        102086173,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_73TvlG6xxqTlTFsR3d2Sko_38.723548_-90.366546@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462602211,
+    "wof:geomhash":"c8eb6f214c7a08e38c542fcf7d30256f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086173,
+            "localadmin_id":404517201,
+            "locality_id":85972285,
+            "neighbourhood_id":85847351,
+            "region_id":85688661,
+            "venue_id":806922767
+        }
+    ],
+    "wof:id":806922767,
+    "wof:lastmodified":1462602211,
+    "wof:name":"Reliable Cleaning",
+    "wof:parent_id":85847351,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitor",
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -90.366546,
+    38.723548,
+    -90.366546,
+    38.723548
+],
+  "geometry": {"coordinates":[-90.366546,38.723548],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 789594207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.149599,37.292563,-93.149599,37.292563",
+    "geom:latitude":37.292563,
+    "geom:longitude":-93.149599,
+    "iso:country":"US",
+    "sg:address":"5455 N Farm Rd 215",
+    "sg:city":"Strafford",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 736 9300",
+    "sg:postcode":"65757",
+    "sg:province":"MO",
+    "sg:tags":[
+        "appliance",
+        "electrical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971363,
+        102087523,
+        85881137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2TIGLnsKDyCtukKQJORKrd_37.292563_-93.149599@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462589015,
+    "wof:geomhash":"aaa53756cc0950a130c32eceed7f3bed",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087523,
+            "locality_id":85971363,
+            "neighbourhood_id":85881137,
+            "region_id":85688661,
+            "venue_id":789594207
+        }
+    ],
+    "wof:id":789594207,
+    "wof:lastmodified":1462589015,
+    "wof:name":"J & B Appliance Service Co",
+    "wof:parent_id":85881137,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "appliance",
+        "electrical"
+    ]
+},
+  "bbox": [
+    -93.149599,
+    37.292563,
+    -93.149599,
+    37.292563
+],
+  "geometry": {"coordinates":[-93.14959899999999,37.292563],"type":"Point"}
+}

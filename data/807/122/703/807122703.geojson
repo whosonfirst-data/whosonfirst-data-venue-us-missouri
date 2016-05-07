@@ -1,0 +1,86 @@
+{
+  "id": 807122703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.421256,38.752919,-90.421256,38.752919",
+    "geom:latitude":38.752919,
+    "geom:longitude":-90.421256,
+    "iso:country":"US",
+    "sg:address":"12100 Monter Dr",
+    "sg:city":"Bridgeton",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 291 3491",
+    "sg:postcode":"63044",
+    "sg:province":"MO",
+    "sg:tags":[
+        "vacancy",
+        "apartment",
+        "rental",
+        "listing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85836381,
+        102191575,
+        404517389,
+        85633793,
+        85972341,
+        102086173,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6eDAcpYDWmoGeoMxuzKHbW_38.752919_-90.421256@1303262926"
+    },
+    "wof:country":"US",
+    "wof:created":1462603968,
+    "wof:geomhash":"1f1aac78187b7dceadc0a28879826fa0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086173,
+            "localadmin_id":404517389,
+            "locality_id":85972341,
+            "neighbourhood_id":85836381,
+            "region_id":85688661,
+            "venue_id":807122703
+        }
+    ],
+    "wof:id":807122703,
+    "wof:lastmodified":1462603968,
+    "wof:name":"Chateau-Du-Mont Townhouse",
+    "wof:parent_id":85836381,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "vacancy",
+        "apartment",
+        "rental",
+        "listing"
+    ]
+},
+  "bbox": [
+    -90.421256,
+    38.752919,
+    -90.421256,
+    38.752919
+],
+  "geometry": {"coordinates":[-90.421256,38.752919],"type":"Point"}
+}

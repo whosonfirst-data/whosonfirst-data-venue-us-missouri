@@ -1,0 +1,89 @@
+{
+  "id": 807225043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.684018,39.188946,-94.684018,39.188946",
+    "geom:latitude":39.188946,
+    "geom:longitude":-94.684018,
+    "iso:country":"US",
+    "sg:address":"10 Main St",
+    "sg:city":"Parkville",
+    "sg:classifiers":[
+        {
+            "category":"Fast Food",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Ice Cream",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 587 1411",
+    "sg:postcode":"64152",
+    "sg:province":"MO",
+    "sg:tags":[
+        "frozen",
+        "dessert",
+        "take"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85840629,
+        102191575,
+        404517567,
+        85633793,
+        85970495,
+        102085271,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1fpJ82ES2Wpd3IcnbwoeYQ_39.188946_-94.684018@1303262933"
+    },
+    "wof:country":"US",
+    "wof:created":1462605062,
+    "wof:geomhash":"9b22b7eecb47e89ea2204372553ee686",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085271,
+            "localadmin_id":404517567,
+            "locality_id":85970495,
+            "neighbourhood_id":85840629,
+            "region_id":85688661,
+            "venue_id":807225043
+        }
+    ],
+    "wof:id":807225043,
+    "wof:lastmodified":1462605062,
+    "wof:name":"Tommy T's Ice Cream & Malts",
+    "wof:parent_id":85840629,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "frozen",
+        "dessert",
+        "take"
+    ]
+},
+  "bbox": [
+    -94.684018,
+    39.188946,
+    -94.684018,
+    39.188946
+],
+  "geometry": {"coordinates":[-94.68401799999999,39.188946],"type":"Point"}
+}

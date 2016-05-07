@@ -1,0 +1,73 @@
+{
+  "id": 773273009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.902342,37.91301,-91.902342,37.91301",
+    "geom:latitude":37.91301,
+    "geom:longitude":-91.902342,
+    "iso:country":"US",
+    "sg:address":"71 E 1st St",
+    "sg:city":"Newburg",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 762 2675",
+    "sg:postcode":"65550",
+    "sg:province":"MO",
+    "sg:tags":[
+        "postal",
+        "us"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970821,
+        102086893,
+        85814531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3wZodXdABDeiT1TSbeOENH_37.913010_-91.902342@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462584463,
+    "wof:geomhash":"fad3bc7db489e3b6f30f2e98d35028d6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086893,
+            "locality_id":85970821,
+            "neighbourhood_id":85814531,
+            "region_id":85688661,
+            "venue_id":773273009
+        }
+    ],
+    "wof:id":773273009,
+    "wof:lastmodified":1462584463,
+    "wof:name":"US Post Office",
+    "wof:parent_id":85814531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "postal",
+        "us"
+    ]
+},
+  "bbox": [
+    -91.902342,
+    37.91301,
+    -91.902342,
+    37.91301
+],
+  "geometry": {"coordinates":[-91.902342,37.91301],"type":"Point"}
+}

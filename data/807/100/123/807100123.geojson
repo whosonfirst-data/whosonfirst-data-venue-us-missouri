@@ -1,0 +1,72 @@
+{
+  "id": 807100123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.543178,37.084691,-94.543178,37.084691",
+    "geom:latitude":37.084691,
+    "geom:longitude":-94.543178,
+    "iso:country":"US",
+    "sg:address":"2315 W 7th St",
+    "sg:city":"Joplin",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/galena/195603-taco-bell/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 781 1200",
+    "sg:postcode":"64801",
+    "sg:province":"MO",
+    "sg:tags":[
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970893,
+        102087525,
+        85810925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1o6R1ZxkHWggR7Pgf2aLG0_37.084759_-94.543842@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462603729,
+    "wof:geomhash":"e668846248d5f23624b9779f2dab844d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087525,
+            "locality_id":85970893,
+            "neighbourhood_id":85810925,
+            "region_id":85688661,
+            "venue_id":807100123
+        }
+    ],
+    "wof:id":807100123,
+    "wof:lastmodified":1462603729,
+    "wof:name":"Taco Bell",
+    "wof:parent_id":85810925,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican"
+    ]
+},
+  "bbox": [
+    -94.543178,
+    37.084691,
+    -94.543178,
+    37.084691
+],
+  "geometry": {"coordinates":[-94.543178,37.084691],"type":"Point"}
+}

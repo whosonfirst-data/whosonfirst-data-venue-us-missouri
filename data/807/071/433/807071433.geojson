@@ -1,0 +1,72 @@
+{
+  "id": 807071433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.697798,38.790521,-90.697798,38.790521",
+    "geom:latitude":38.790521,
+    "geom:longitude":-90.697798,
+    "iso:country":"US",
+    "sg:address":"1440 Mexico Loop Rd E",
+    "sg:city":"O Fallon",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/dardenne/51355-red-robin/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 281 0383",
+    "sg:postcode":"63366",
+    "sg:province":"MO",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5PXkY2A79oca8mJIPAqYby_38.790521_-90.697798@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462603457,
+    "wof:geomhash":"6168eec085db37976b229d8b601cd209",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":807071433
+        }
+    ],
+    "wof:id":807071433,
+    "wof:lastmodified":1462603457,
+    "wof:name":"Red Robin",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -90.697798,
+    38.790521,
+    -90.697798,
+    38.790521
+],
+  "geometry": {"coordinates":[-90.69779800000001,38.790521],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 806995195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.273201,38.614899,-90.273201,38.614899",
+    "geom:latitude":38.614899,
+    "geom:longitude":-90.273201,
+    "iso:country":"US",
+    "sg:address":"2130 Marconi Ave",
+    "sg:city":"Saint Louis",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 664 4108",
+    "sg:postcode":"63110",
+    "sg:province":"MO",
+    "sg:tags":[
+        "baker",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85867039,
+        102191575,
+        404518053,
+        85633793,
+        85971343,
+        102080791,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Gxc0lgdiNtBgeaAHHIYC3_38.615492_-90.272806@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1462602814,
+    "wof:geomhash":"83101fa7be4e81c7ac01f5cd14363f9a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080791,
+            "localadmin_id":404518053,
+            "locality_id":85971343,
+            "neighbourhood_id":85867039,
+            "region_id":85688661,
+            "venue_id":806995195
+        }
+    ],
+    "wof:id":806995195,
+    "wof:lastmodified":1462602814,
+    "wof:name":"Vitale's Bakery",
+    "wof:parent_id":85867039,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "baker",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -90.273201,
+    38.614899,
+    -90.273201,
+    38.614899
+],
+  "geometry": {"coordinates":[-90.273201,38.614899],"type":"Point"}
+}

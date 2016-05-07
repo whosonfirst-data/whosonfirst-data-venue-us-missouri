@@ -1,0 +1,80 @@
+{
+  "id": 773741075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.194112,39.341818,-91.194112,39.341818",
+    "geom:latitude":39.341818,
+    "geom:longitude":-91.194112,
+    "iso:country":"US",
+    "sg:address":"21 S Main Cross St",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 369 5462",
+    "sg:postcode":"63334",
+    "sg:province":"MO",
+    "sg:tags":[
+        "electronic",
+        "retailer",
+        "repair"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971907,
+        102086151,
+        85817909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6bv6OKRHzWlDRD7oyQ6WJg_39.341818_-91.194112@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462588028,
+    "wof:geomhash":"55e3df7dc95397ff5c93d4496b755cff",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086151,
+            "locality_id":85971907,
+            "neighbourhood_id":85817909,
+            "region_id":85688661,
+            "venue_id":773741075
+        }
+    ],
+    "wof:id":773741075,
+    "wof:lastmodified":1462588028,
+    "wof:name":"One Stop Computers & Elect",
+    "wof:parent_id":85817909,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electronic",
+        "retailer",
+        "repair"
+    ]
+},
+  "bbox": [
+    -91.194112,
+    39.341818,
+    -91.194112,
+    39.341818
+],
+  "geometry": {"coordinates":[-91.194112,39.341818],"type":"Point"}
+}

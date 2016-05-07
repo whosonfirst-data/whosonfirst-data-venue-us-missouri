@@ -1,0 +1,85 @@
+{
+  "id": 806903635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.36052,38.737103,-90.36052,38.737103",
+    "geom:latitude":38.737103,
+    "geom:longitude":-90.36052,
+    "iso:country":"US",
+    "sg:address":"9410 Aero Space Dr",
+    "sg:city":"St Louis",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        },
+        {
+            "category":"Airline",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 428 7170",
+    "sg:postcode":"63134",
+    "sg:province":"MO",
+    "sg:tags":[
+        "cargo",
+        "forwarding",
+        "air"
+    ],
+    "sg:website":"www.pilotair.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85847351,
+        102191575,
+        404517201,
+        85633793,
+        85972285,
+        102086173,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6CSUKbKYeZTqY1R2g8pxO7_38.737103_-90.360520@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462602036,
+    "wof:geomhash":"2f82677edf701b6d9942467c6b7f937c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086173,
+            "localadmin_id":404517201,
+            "locality_id":85972285,
+            "neighbourhood_id":85847351,
+            "region_id":85688661,
+            "venue_id":806903635
+        }
+    ],
+    "wof:id":806903635,
+    "wof:lastmodified":1462602036,
+    "wof:name":"Pilot Air Freight Corp",
+    "wof:parent_id":85847351,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cargo",
+        "forwarding",
+        "air"
+    ]
+},
+  "bbox": [
+    -90.36052,
+    38.737103,
+    -90.36052,
+    38.737103
+],
+  "geometry": {"coordinates":[-90.36051999999999,38.737103],"type":"Point"}
+}

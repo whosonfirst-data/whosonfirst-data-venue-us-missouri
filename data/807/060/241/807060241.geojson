@@ -1,0 +1,72 @@
+{
+  "id": 807060241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.55032,38.155587,-90.55032,38.155587",
+    "geom:latitude":38.155587,
+    "geom:longitude":-90.55032,
+    "iso:country":"US",
+    "sg:address":"1900 N Main St",
+    "sg:city":"De Soto",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/valle/225271-caseys-general-store/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 586 5014",
+    "sg:postcode":"63020",
+    "sg:province":"MO",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85848677,
+        102080787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0JmllQbmdNCG1Zo4IVuHAF_38.155587_-90.550320@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462603373,
+    "wof:geomhash":"4ac441cd9d8e394ad3f35cb187b622b7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080787,
+            "neighbourhood_id":85848677,
+            "region_id":85688661,
+            "venue_id":807060241
+        }
+    ],
+    "wof:id":807060241,
+    "wof:lastmodified":1462603373,
+    "wof:name":"Casey's General Store",
+    "wof:parent_id":85848677,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -90.55032,
+    38.155587,
+    -90.55032,
+    38.155587
+],
+  "geometry": {"coordinates":[-90.55032,38.155587],"type":"Point"}
+}

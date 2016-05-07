@@ -1,0 +1,73 @@
+{
+  "id": 789880107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.698493,38.792332,-90.698493,38.792332",
+    "geom:latitude":38.792332,
+    "geom:longitude":-90.698493,
+    "iso:country":"US",
+    "sg:address":"1316 Hwy K",
+    "sg:city":"O Fallon",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 980 1873",
+    "sg:postcode":"63366",
+    "sg:province":"MO",
+    "sg:tags":[
+        "video",
+        "tape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_66DRPhK4iRli9vtngOL1xG_38.792332_-90.698493@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462591291,
+    "wof:geomhash":"1571b19f2ca0b24d736b2eb69aa7e557",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":789880107
+        }
+    ],
+    "wof:id":789880107,
+    "wof:lastmodified":1462591291,
+    "wof:name":"Hollywood Video",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "video",
+        "tape"
+    ]
+},
+  "bbox": [
+    -90.698493,
+    38.792332,
+    -90.698493,
+    38.792332
+],
+  "geometry": {"coordinates":[-90.698493,38.792332],"type":"Point"}
+}

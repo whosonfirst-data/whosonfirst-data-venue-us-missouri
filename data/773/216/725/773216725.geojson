@@ -1,0 +1,71 @@
+{
+  "id": 773216725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.1941,39.34274,-91.1941,39.34274",
+    "geom:latitude":39.34274,
+    "geom:longitude":-91.1941,
+    "iso:country":"US",
+    "sg:address":"16 W Church St",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 324 5451",
+    "sg:postcode":"63334",
+    "sg:province":"MO",
+    "sg:tags":[
+        "city"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971907,
+        102086151,
+        85817909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1hD8j8wCF7C4TVVT4Zl75y_39.342740_-91.194100@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462584051,
+    "wof:geomhash":"9c1a03369f0dbeaa1e15dfd0f76306a6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086151,
+            "locality_id":85971907,
+            "neighbourhood_id":85817909,
+            "region_id":85688661,
+            "venue_id":773216725
+        }
+    ],
+    "wof:id":773216725,
+    "wof:lastmodified":1462584051,
+    "wof:name":"City Hall",
+    "wof:parent_id":85817909,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "city"
+    ]
+},
+  "bbox": [
+    -91.1941,
+    39.34274,
+    -91.1941,
+    39.34274
+],
+  "geometry": {"coordinates":[-91.19410000000001,39.34274],"type":"Point"}
+}

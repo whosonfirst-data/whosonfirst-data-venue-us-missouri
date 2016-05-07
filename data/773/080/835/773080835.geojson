@@ -1,0 +1,81 @@
+{
+  "id": 773080835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.376847,38.368872,-90.376847,38.368872",
+    "geom:latitude":38.368872,
+    "geom:longitude":-90.376847,
+    "iso:country":"US",
+    "sg:address":"1030 W Main St",
+    "sg:city":"Imperial",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 461 1500",
+    "sg:postcode":"63052",
+    "sg:province":"MO",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420525373,
+        102191575,
+        404518285,
+        85633793,
+        85972523,
+        102080787,
+        85688661,
+        420525431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0gbt39GPAmnZKtuf2Xzyqp_38.368872_-90.376847@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462583014,
+    "wof:geomhash":"3e1be0bfd38c901c8fbfaa2516dd017a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080787,
+            "localadmin_id":404518285,
+            "locality_id":85972523,
+            "neighbourhood_id":420525373,
+            "region_id":85688661,
+            "venue_id":773080835
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080787,
+            "localadmin_id":404518285,
+            "locality_id":85972523,
+            "neighbourhood_id":420525431,
+            "region_id":85688661,
+            "venue_id":773080835
+        }
+    ],
+    "wof:id":773080835,
+    "wof:lastmodified":1462583014,
+    "wof:name":"Southern Commercial Bank",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.376847,
+    38.368872,
+    -90.376847,
+    38.368872
+],
+  "geometry": {"coordinates":[-90.376847,38.368872],"type":"Point"}
+}

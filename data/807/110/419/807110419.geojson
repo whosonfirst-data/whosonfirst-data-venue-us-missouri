@@ -1,0 +1,85 @@
+{
+  "id": 807110419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.529954,38.648694,-90.529954,38.648694",
+    "geom:latitude":38.648694,
+    "geom:longitude":-90.529954,
+    "iso:country":"US",
+    "sg:address":"1350 Timberlake Manor Pkwy",
+    "sg:city":"Chesterfield",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Computers",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 536 4335",
+    "sg:postcode":"63017",
+    "sg:province":"MO",
+    "sg:tags":[
+        "equipment",
+        "cd-rom",
+        "software"
+    ],
+    "sg:website":"http://www.quest.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85805465,
+        102191575,
+        404517241,
+        85633793,
+        85972357,
+        102086173,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0T0FPxItzlFkBN5msd7H6L_38.648694_-90.529954@1303262925"
+    },
+    "wof:country":"US",
+    "wof:created":1462603838,
+    "wof:geomhash":"c1809dc164492ae09390426fc8272865",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086173,
+            "localadmin_id":404517241,
+            "locality_id":85972357,
+            "neighbourhood_id":85805465,
+            "region_id":85688661,
+            "venue_id":807110419
+        }
+    ],
+    "wof:id":807110419,
+    "wof:lastmodified":1462603838,
+    "wof:name":"Quest Software",
+    "wof:parent_id":85805465,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "cd-rom",
+        "software"
+    ]
+},
+  "bbox": [
+    -90.529954,
+    38.648694,
+    -90.529954,
+    38.648694
+],
+  "geometry": {"coordinates":[-90.529954,38.648694],"type":"Point"}
+}

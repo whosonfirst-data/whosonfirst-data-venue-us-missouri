@@ -1,0 +1,88 @@
+{
+  "id": 773804735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.356496,38.465897,-90.356496,38.465897",
+    "geom:latitude":38.465897,
+    "geom:longitude":-90.356496,
+    "iso:country":"US",
+    "sg:address":"6078 Lemay Ferry Rd",
+    "sg:city":"Saint Louis",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 892 1070",
+    "sg:postcode":"63129",
+    "sg:province":"MO",
+    "sg:tags":[
+        "repair",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85885365,
+        102191575,
+        404517459,
+        85633793,
+        85972631,
+        102086173,
+        85688661,
+        85971021,
+        102080787,
+        85832925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0H8X3yb1jDlUhuEB6c66yc_38.465897_-90.356496@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462588511,
+    "wof:geomhash":"abd1ce8be2fa16c90eb6b00603d502c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086173,
+            "localadmin_id":404517459,
+            "locality_id":85972631,
+            "neighbourhood_id":85885365,
+            "region_id":85688661,
+            "venue_id":773804735
+        },
+        {
+            "country_id":85633793,
+            "county_id":102080787,
+            "locality_id":85971021,
+            "neighbourhood_id":85832925,
+            "region_id":85688661,
+            "venue_id":773804735
+        }
+    ],
+    "wof:id":773804735,
+    "wof:lastmodified":1462588511,
+    "wof:name":"Meyers Service Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -90.356496,
+    38.465897,
+    -90.356496,
+    38.465897
+],
+  "geometry": {"coordinates":[-90.35649600000001,38.465897],"type":"Point"}
+}

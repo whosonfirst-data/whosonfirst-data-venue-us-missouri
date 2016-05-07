@@ -1,0 +1,74 @@
+{
+  "id": 807092887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.303112,37.046498,-93.303112,37.046498",
+    "geom:latitude":37.046498,
+    "geom:longitude":-93.303112,
+    "iso:country":"US",
+    "sg:address":"129 N Massey Blvd",
+    "sg:city":"Nixa",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/union-chapel/60380-papa-johns-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 725 7676",
+    "sg:postcode":"65714",
+    "sg:province":"MO",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971577,
+        102087497,
+        85809751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3FQdoGph6dwpZOm9oNTpzC_37.046498_-93.303112@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462603643,
+    "wof:geomhash":"515beb7837165e0049e5d17fc06ba4d9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087497,
+            "locality_id":85971577,
+            "neighbourhood_id":85809751,
+            "region_id":85688661,
+            "venue_id":807092887
+        }
+    ],
+    "wof:id":807092887,
+    "wof:lastmodified":1462603643,
+    "wof:name":"Papa John's Pizza",
+    "wof:parent_id":85809751,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -93.303112,
+    37.046498,
+    -93.303112,
+    37.046498
+],
+  "geometry": {"coordinates":[-93.303112,37.046498],"type":"Point"}
+}

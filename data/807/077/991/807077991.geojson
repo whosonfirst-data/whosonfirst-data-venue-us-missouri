@@ -1,0 +1,78 @@
+{
+  "id": 807077991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.377182,39.118548,-94.377182,39.118548",
+    "geom:latitude":39.118548,
+    "geom:longitude":-94.377182,
+    "iso:country":"US",
+    "sg:address":"16909 E Us Highway 24",
+    "sg:city":"Independence",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/blue/201630-sonic/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 257 0882",
+    "sg:postcode":"64056",
+    "sg:province":"MO",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85812585,
+        102191575,
+        404515661,
+        85633793,
+        85971451,
+        102081227,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7FPcvbvNZrurhqDBkRrLPM_39.118548_-94.377182@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462603517,
+    "wof:geomhash":"c3720a76a76670c760d6604a7d7e5113",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081227,
+            "localadmin_id":404515661,
+            "locality_id":85971451,
+            "neighbourhood_id":85812585,
+            "region_id":85688661,
+            "venue_id":807077991
+        }
+    ],
+    "wof:id":807077991,
+    "wof:lastmodified":1462603517,
+    "wof:name":"Sonic",
+    "wof:parent_id":85812585,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -94.377182,
+    39.118548,
+    -94.377182,
+    39.118548
+],
+  "geometry": {"coordinates":[-94.377182,39.118548],"type":"Point"}
+}

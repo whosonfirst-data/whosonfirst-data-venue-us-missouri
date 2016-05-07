@@ -1,0 +1,73 @@
+{
+  "id": 789655681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.597709,38.793148,-90.597709,38.793148",
+    "geom:latitude":38.793148,
+    "geom:longitude":-90.597709,
+    "iso:country":"US",
+    "sg:address":"6620 Mexico Rd",
+    "sg:city":"St Peters",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 278 3059",
+    "sg:postcode":"63376",
+    "sg:province":"MO",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5L99258VmfWrRIfjgU4sQy_38.793148_-90.597709@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462589499,
+    "wof:geomhash":"bb403417459e41ffcbe7f682a0889a2d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":789655681
+        }
+    ],
+    "wof:id":789655681,
+    "wof:lastmodified":1462589499,
+    "wof:name":"Goodyear Advantage Tire & Auto",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -90.597709,
+    38.793148,
+    -90.597709,
+    38.793148
+],
+  "geometry": {"coordinates":[-90.59770899999999,38.793148],"type":"Point"}
+}

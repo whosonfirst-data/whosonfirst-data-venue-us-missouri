@@ -1,0 +1,73 @@
+{
+  "id": 789855065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.772448,37.950788,-91.772448,37.950788",
+    "geom:latitude":37.950788,
+    "geom:longitude":-91.772448,
+    "iso:country":"US",
+    "sg:address":"212 W 9th St",
+    "sg:city":"Rolla",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 364 1234",
+    "sg:postcode":"65401",
+    "sg:province":"MO",
+    "sg:tags":[
+        "parlor",
+        "billiard"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970821,
+        102086893,
+        85814531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4oDAP6e0KjUB6mW9wVWFGQ_37.950788_-91.772448@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462591067,
+    "wof:geomhash":"7e8a3ef3f1e95ba8fe8b4bc8dd6a1b2b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086893,
+            "locality_id":85970821,
+            "neighbourhood_id":85814531,
+            "region_id":85688661,
+            "venue_id":789855065
+        }
+    ],
+    "wof:id":789855065,
+    "wof:lastmodified":1462591067,
+    "wof:name":"Stan's Corner Pocket",
+    "wof:parent_id":85814531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "parlor",
+        "billiard"
+    ]
+},
+  "bbox": [
+    -91.772448,
+    37.950788,
+    -91.772448,
+    37.950788
+],
+  "geometry": {"coordinates":[-91.772448,37.950788],"type":"Point"}
+}

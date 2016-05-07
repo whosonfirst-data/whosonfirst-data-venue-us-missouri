@@ -1,0 +1,71 @@
+{
+  "id": 789773149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.205163,39.337035,-91.205163,39.337035",
+    "geom:latitude":39.337035,
+    "geom:longitude":-91.205163,
+    "iso:country":"US",
+    "sg:address":"1106 W Adams St",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Water",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 324 3221",
+    "sg:postcode":"63334",
+    "sg:province":"MO",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971907,
+        102086151,
+        85817909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_44V6hviU1p8oZz3U20cQfW_39.337035_-91.205163@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462590423,
+    "wof:geomhash":"f6581349773ab6a45b00190688f86048",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086151,
+            "locality_id":85971907,
+            "neighbourhood_id":85817909,
+            "region_id":85688661,
+            "venue_id":789773149
+        }
+    ],
+    "wof:id":789773149,
+    "wof:lastmodified":1462590423,
+    "wof:name":"Public Water Supply",
+    "wof:parent_id":85817909,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [
+    -91.205163,
+    39.337035,
+    -91.205163,
+    39.337035
+],
+  "geometry": {"coordinates":[-91.205163,39.337035],"type":"Point"}
+}

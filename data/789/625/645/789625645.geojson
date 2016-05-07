@@ -1,0 +1,73 @@
+{
+  "id": 789625645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.608236,38.000621,-91.608236,38.000621",
+    "geom:latitude":38.000621,
+    "geom:longitude":-91.608236,
+    "iso:country":"US",
+    "sg:address":"485 E Springfield St",
+    "sg:city":"St James",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 265 8110",
+    "sg:postcode":"65559",
+    "sg:province":"MO",
+    "sg:tags":[
+        "shop",
+        "barber"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970819,
+        102086893,
+        85847353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3mx9qVuU6CqTctQHdnw1Ix_38.000621_-91.608236@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462589261,
+    "wof:geomhash":"12e6217a0577f2dee5f96eae0b1ff07b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086893,
+            "locality_id":85970819,
+            "neighbourhood_id":85847353,
+            "region_id":85688661,
+            "venue_id":789625645
+        }
+    ],
+    "wof:id":789625645,
+    "wof:lastmodified":1462589261,
+    "wof:name":"Scissor Shack",
+    "wof:parent_id":85847353,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "barber"
+    ]
+},
+  "bbox": [
+    -91.608236,
+    38.000621,
+    -91.608236,
+    38.000621
+],
+  "geometry": {"coordinates":[-91.60823600000001,38.000621],"type":"Point"}
+}

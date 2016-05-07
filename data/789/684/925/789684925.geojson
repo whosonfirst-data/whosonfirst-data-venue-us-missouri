@@ -1,0 +1,71 @@
+{
+  "id": 789684925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.237374,39.364569,-94.237374,39.364569",
+    "geom:latitude":39.364569,
+    "geom:longitude":-94.237374,
+    "iso:country":"US",
+    "sg:address":"1410 Hospital Dr",
+    "sg:city":"Excelsior Springs",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 637 1010",
+    "sg:postcode":"64024",
+    "sg:province":"MO",
+    "sg:tags":[
+        "skilled"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971507,
+        102086177,
+        85822189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4VQFRLEOj4ay2ohG01gSCX_39.364569_-94.237374@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462589740,
+    "wof:geomhash":"656522b5f7f9b4c7695670d31fbc3db3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086177,
+            "locality_id":85971507,
+            "neighbourhood_id":85822189,
+            "region_id":85688661,
+            "venue_id":789684925
+        }
+    ],
+    "wof:id":789684925,
+    "wof:lastmodified":1462589740,
+    "wof:name":"Valley Mnor Rehabilitation Ctr",
+    "wof:parent_id":85822189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "skilled"
+    ]
+},
+  "bbox": [
+    -94.237374,
+    39.364569,
+    -94.237374,
+    39.364569
+],
+  "geometry": {"coordinates":[-94.237374,39.364569],"type":"Point"}
+}

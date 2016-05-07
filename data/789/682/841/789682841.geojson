@@ -1,0 +1,71 @@
+{
+  "id": 789682841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.316932,37.167016,-93.316932,37.167016",
+    "geom:latitude":37.167016,
+    "geom:longitude":-93.316932,
+    "iso:country":"US",
+    "sg:address":"1819 W Sunset St",
+    "sg:city":"Springfield",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 365 4443",
+    "sg:postcode":"65807",
+    "sg:province":"MO",
+    "sg:tags":[
+        "product",
+        "manufacturer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85881151,
+        102087523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5mge9BiO1oQA67jF191DEH_37.167016_-93.316932@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462589723,
+    "wof:geomhash":"9a7fe6bd6f6963eaaca80ea9d5bc7f06",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087523,
+            "neighbourhood_id":85881151,
+            "region_id":85688661,
+            "venue_id":789682841
+        }
+    ],
+    "wof:id":789682841,
+    "wof:lastmodified":1462589723,
+    "wof:name":"Parker Salad Dressing Co",
+    "wof:parent_id":85881151,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product",
+        "manufacturer"
+    ]
+},
+  "bbox": [
+    -93.316932,
+    37.167016,
+    -93.316932,
+    37.167016
+],
+  "geometry": {"coordinates":[-93.31693199999999,37.167016],"type":"Point"}
+}

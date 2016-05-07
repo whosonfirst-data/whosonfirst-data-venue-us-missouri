@@ -1,0 +1,77 @@
+{
+  "id": 807090333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.381705,38.958814,-92.381705,38.958814",
+    "geom:latitude":38.958814,
+    "geom:longitude":-92.381705,
+    "iso:country":"US",
+    "sg:address":"205 Basin Dr",
+    "sg:city":"Columbia",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/missouri/194115-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"65203",
+    "sg:province":"MO",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85835171,
+        102191575,
+        404516389,
+        85633793,
+        85970425,
+        102086187,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Cn0c4JDQD2VZCZOqXVsOa_38.958814_-92.381705@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462603620,
+    "wof:geomhash":"fab79eb4a44bdb7b8be31e93fa25637f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086187,
+            "localadmin_id":404516389,
+            "locality_id":85970425,
+            "neighbourhood_id":85835171,
+            "region_id":85688661,
+            "venue_id":807090333
+        }
+    ],
+    "wof:id":807090333,
+    "wof:lastmodified":1462603620,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85835171,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -92.381705,
+    38.958814,
+    -92.381705,
+    38.958814
+],
+  "geometry": {"coordinates":[-92.381705,38.958814],"type":"Point"}
+}

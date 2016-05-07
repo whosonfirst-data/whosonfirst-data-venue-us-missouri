@@ -1,0 +1,77 @@
+{
+  "id": 806600629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.432984,38.668529,-90.432984,38.668529",
+    "geom:latitude":38.668529,
+    "geom:longitude":-90.432984,
+    "iso:country":"US",
+    "sg:address":"666 Office Pkwy",
+    "sg:city":"St Louis",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 991 1950",
+    "sg:postcode":"63141",
+    "sg:province":"MO",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85867987,
+        102191575,
+        404517387,
+        85633793,
+        85972277,
+        102086173,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1wFx27sDOJHfKKGtb1JVff_38.668529_-90.432984@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462599496,
+    "wof:geomhash":"62c642ed97da24b186c0ef878231c18d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086173,
+            "localadmin_id":404517387,
+            "locality_id":85972277,
+            "neighbourhood_id":85867987,
+            "region_id":85688661,
+            "venue_id":806600629
+        }
+    ],
+    "wof:id":806600629,
+    "wof:lastmodified":1462599496,
+    "wof:name":"West County Radiological Group",
+    "wof:parent_id":85867987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -90.432984,
+    38.668529,
+    -90.432984,
+    38.668529
+],
+  "geometry": {"coordinates":[-90.432984,38.668529],"type":"Point"}
+}

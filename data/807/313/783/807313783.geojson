@@ -1,0 +1,93 @@
+{
+  "id": 807313783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.301175,37.138199,-93.301175,37.138199",
+    "geom:latitude":37.138199,
+    "geom:longitude":-93.301175,
+    "iso:country":"US",
+    "sg:address":"700 W Republic Rd",
+    "sg:city":"Springfield",
+    "sg:classifiers":[
+        {
+            "category":"Animal Shelter",
+            "subcategory":"",
+            "type":"Public Place"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Pets & Pet Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Pet Boarding",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 881 5327",
+    "sg:postcode":"65807",
+    "sg:province":"MO",
+    "sg:tags":[
+        "hospital",
+        "specialty",
+        "clinic",
+        "veterinarian",
+        "kennel"
+    ],
+    "sg:website":"http://www.parkcrestvet.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85881143,
+        102087523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6f0jUQaOBijhRdUbBVd94y_37.138199_-93.301175@1303262939"
+    },
+    "wof:country":"US",
+    "wof:created":1462605998,
+    "wof:geomhash":"c99717fd7531ab3812fcab67e3dd56a0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087523,
+            "neighbourhood_id":85881143,
+            "region_id":85688661,
+            "venue_id":807313783
+        }
+    ],
+    "wof:id":807313783,
+    "wof:lastmodified":1462605998,
+    "wof:name":"Parkcrest Veterinary Hospital & Holiday Boarding Kennels",
+    "wof:parent_id":85881143,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hospital",
+        "specialty",
+        "clinic",
+        "veterinarian",
+        "kennel"
+    ]
+},
+  "bbox": [
+    -93.301175,
+    37.138199,
+    -93.301175,
+    37.138199
+],
+  "geometry": {"coordinates":[-93.301175,37.138199],"type":"Point"}
+}

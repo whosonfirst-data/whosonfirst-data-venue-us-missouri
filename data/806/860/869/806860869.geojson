@@ -1,0 +1,84 @@
+{
+  "id": 806860869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.272403,38.617483,-90.272403,38.617483",
+    "geom:latitude":38.617483,
+    "geom:longitude":-90.272403,
+    "iso:country":"US",
+    "sg:address":"1910 Marconi Ave",
+    "sg:city":"St Louis",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Office Equipment",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 664 7575",
+    "sg:postcode":"63110",
+    "sg:province":"MO",
+    "sg:tags":[
+        "other",
+        "plan",
+        "card"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85867039,
+        102191575,
+        404518053,
+        85633793,
+        85971343,
+        102080791,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_62meqTpzKpWvI8COmT2Phl_38.617483_-90.272403@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462601696,
+    "wof:geomhash":"a4d748b1f59a1156ead76b4aa8e92a8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080791,
+            "localadmin_id":404518053,
+            "locality_id":85971343,
+            "neighbourhood_id":85867039,
+            "region_id":85688661,
+            "venue_id":806860869
+        }
+    ],
+    "wof:id":806860869,
+    "wof:lastmodified":1462601696,
+    "wof:name":"Merchant Bankcard Network",
+    "wof:parent_id":85867039,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "other",
+        "plan",
+        "card"
+    ]
+},
+  "bbox": [
+    -90.272403,
+    38.617483,
+    -90.272403,
+    38.617483
+],
+  "geometry": {"coordinates":[-90.272403,38.617483],"type":"Point"}
+}

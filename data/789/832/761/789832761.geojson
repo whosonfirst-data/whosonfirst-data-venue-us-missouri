@@ -1,0 +1,71 @@
+{
+  "id": 789832761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.571439,38.791042,-90.571439,38.791042",
+    "geom:latitude":38.791042,
+    "geom:longitude":-90.571439,
+    "iso:country":"US",
+    "sg:address":"3995 Mexico Rd",
+    "sg:city":"St Peters",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 477 0880",
+    "sg:postcode":"63376",
+    "sg:province":"MO",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1VlgArVBJkE0lHCiuyg3g9_38.791042_-90.571439@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462590891,
+    "wof:geomhash":"b881aa5f9e0672c2de1e87b63075f0f4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":789832761
+        }
+    ],
+    "wof:id":789832761,
+    "wof:lastmodified":1462590891,
+    "wof:name":"Muse Salon",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -90.571439,
+    38.791042,
+    -90.571439,
+    38.791042
+],
+  "geometry": {"coordinates":[-90.571439,38.791042],"type":"Point"}
+}

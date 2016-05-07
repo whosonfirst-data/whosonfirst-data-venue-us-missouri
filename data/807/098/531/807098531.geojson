@@ -1,0 +1,74 @@
+{
+  "id": 807098531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.416595,37.786694,-90.416595,37.786694",
+    "geom:latitude":37.786694,
+    "geom:longitude":-90.416595,
+    "iso:country":"US",
+    "sg:address":"221 E Karsch Blvd",
+    "sg:city":"Farmington",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/st-francois/65693-pizza-hut/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 756 1503",
+    "sg:postcode":"63640",
+    "sg:province":"MO",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970665,
+        102085297,
+        85816309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4q2bkOaFIFNIISncCpFzFG_37.786863_-90.416992@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462603705,
+    "wof:geomhash":"0c71e5e062b036800498d0b9b0c81238",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085297,
+            "locality_id":85970665,
+            "neighbourhood_id":85816309,
+            "region_id":85688661,
+            "venue_id":807098531
+        }
+    ],
+    "wof:id":807098531,
+    "wof:lastmodified":1462603705,
+    "wof:name":"Pizza Hut",
+    "wof:parent_id":85816309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -90.416595,
+    37.786694,
+    -90.416595,
+    37.786694
+],
+  "geometry": {"coordinates":[-90.416595,37.786694],"type":"Point"}
+}

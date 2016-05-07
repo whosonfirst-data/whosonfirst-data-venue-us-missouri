@@ -1,0 +1,73 @@
+{
+  "id": 773284809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.490158,37.749288,-90.490158,37.749288",
+    "geom:latitude":37.749288,
+    "geom:longitude":-90.490158,
+    "iso:country":"US",
+    "sg:address":"3229 Highway W",
+    "sg:city":"Doe Run",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 756 3539",
+    "sg:postcode":"63637",
+    "sg:province":"MO",
+    "sg:tags":[
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970665,
+        102085297,
+        85816309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2N6E9qVlGiQihbfPMpcMHr_37.749288_-90.490158@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462584561,
+    "wof:geomhash":"7321bbd1e6e671e14b1c8912066e9a09",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085297,
+            "locality_id":85970665,
+            "neighbourhood_id":85816309,
+            "region_id":85688661,
+            "venue_id":773284809
+        }
+    ],
+    "wof:id":773284809,
+    "wof:lastmodified":1462584561,
+    "wof:name":"Duncan Mobile Mart",
+    "wof:parent_id":85816309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -90.490158,
+    37.749288,
+    -90.490158,
+    37.749288
+],
+  "geometry": {"coordinates":[-90.49015799999999,37.749288],"type":"Point"}
+}

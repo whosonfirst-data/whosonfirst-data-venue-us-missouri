@@ -1,0 +1,75 @@
+{
+  "id": 790409787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.479356,39.901421,-92.479356,39.901421",
+    "geom:latitude":39.901421,
+    "geom:longitude":-92.479356,
+    "iso:country":"US",
+    "sg:address":"312 N Atterberry St",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 660 239 4549",
+    "sg:postcode":"63530",
+    "sg:province":"MO",
+    "sg:tags":[
+        "repairing",
+        "lawn",
+        "mower"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971149,
+        102086189,
+        85821499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_52FPpI6kbJhIq7oJ5S5H0J_39.901421_-92.479356@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462595611,
+    "wof:geomhash":"da274e4003eb3244ba46b4da68daca6a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086189,
+            "locality_id":85971149,
+            "neighbourhood_id":85821499,
+            "region_id":85688661,
+            "venue_id":790409787
+        }
+    ],
+    "wof:id":790409787,
+    "wof:lastmodified":1462595611,
+    "wof:name":"Bogeart's Repair",
+    "wof:parent_id":85821499,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "lawn",
+        "mower"
+    ]
+},
+  "bbox": [
+    -92.479356,
+    39.901421,
+    -92.479356,
+    39.901421
+],
+  "geometry": {"coordinates":[-92.479356,39.901421],"type":"Point"}
+}

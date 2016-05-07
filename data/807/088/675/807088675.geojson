@@ -1,0 +1,73 @@
+{
+  "id": 807088675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.19256,38.578329,-92.19256,38.578329",
+    "geom:latitude":38.578329,
+    "geom:longitude":-92.19256,
+    "iso:country":"US",
+    "sg:address":"1425 Missouri Blvd",
+    "sg:city":"Jefferson City",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/jefferson/194181-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"65109",
+    "sg:province":"MO",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970647,
+        102087511,
+        85837745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1LCN63twiANmHq7qJjIDi1_38.578329_-92.192560@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462603606,
+    "wof:geomhash":"a51b22e00b82e136ae1b148206bb8c08",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087511,
+            "locality_id":85970647,
+            "neighbourhood_id":85837745,
+            "region_id":85688661,
+            "venue_id":807088675
+        }
+    ],
+    "wof:id":807088675,
+    "wof:lastmodified":1462603606,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85837745,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -92.19256,
+    38.578329,
+    -92.19256,
+    38.578329
+],
+  "geometry": {"coordinates":[-92.19256,38.578329],"type":"Point"}
+}

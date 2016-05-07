@@ -1,0 +1,86 @@
+{
+  "id": 773183003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.442919,38.618088,-90.442919,38.618088",
+    "geom:latitude":38.618088,
+    "geom:longitude":-90.442919,
+    "iso:country":"US",
+    "sg:address":"12340 Eckleman Ln",
+    "sg:city":"St Louis",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Farming",
+            "subcategory":"Nursery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 821 2834",
+    "sg:postcode":"63131",
+    "sg:province":"MO",
+    "sg:tags":[
+        "ornamental",
+        "agricultural",
+        "greenhouse",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85867981,
+        102191575,
+        404517387,
+        85633793,
+        85972223,
+        102086173,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1S8HGGiFq4HrdM7W2EYAPQ_38.618088_-90.442919@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462583774,
+    "wof:geomhash":"86a291683e12c788acf57f7fc8629473",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086173,
+            "localadmin_id":404517387,
+            "locality_id":85972223,
+            "neighbourhood_id":85867981,
+            "region_id":85688661,
+            "venue_id":773183003
+        }
+    ],
+    "wof:id":773183003,
+    "wof:lastmodified":1462583774,
+    "wof:name":"Jost Green Houses",
+    "wof:parent_id":85867981,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ornamental",
+        "agricultural",
+        "greenhouse",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -90.442919,
+    38.618088,
+    -90.442919,
+    38.618088
+],
+  "geometry": {"coordinates":[-90.442919,38.618088],"type":"Point"}
+}

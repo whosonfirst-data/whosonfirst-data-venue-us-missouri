@@ -1,0 +1,85 @@
+{
+  "id": 789816027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.66582,38.80066,-90.66582,38.80066",
+    "geom:latitude":38.80066,
+    "geom:longitude":-90.66582,
+    "iso:country":"US",
+    "sg:address":"400 Trade Center Dr",
+    "sg:city":"St Peters",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Retail Goods",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Electronics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 379 1994",
+    "sg:postcode":"63376",
+    "sg:province":"MO",
+    "sg:tags":[
+        "manufacturer",
+        "m",
+        "printed",
+        "circuit",
+        "mfg"
+    ],
+    "sg:website":"www.neecotron.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7eKILZ61AwB4SWAozVLOSU_38.800660_-90.665820@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462590759,
+    "wof:geomhash":"7a54f7e9514383a53fb4913d0863b7e0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":789816027
+        }
+    ],
+    "wof:id":789816027,
+    "wof:lastmodified":1462590759,
+    "wof:name":"Neeco-Tron Inc",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "manufacturer",
+        "m",
+        "printed",
+        "circuit",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -90.66582,
+    38.80066,
+    -90.66582,
+    38.80066
+],
+  "geometry": {"coordinates":[-90.66582,38.80066],"type":"Point"}
+}

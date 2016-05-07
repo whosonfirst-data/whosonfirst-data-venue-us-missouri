@@ -1,0 +1,66 @@
+{
+  "id": 790197671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.355679,38.485713,-90.355679,38.485713",
+    "geom:latitude":38.485713,
+    "geom:longitude":-90.355679,
+    "iso:country":"US",
+    "sg:address":"4205 Butler Hill Rd",
+    "sg:city":"St Louis",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 845 9275",
+    "sg:postcode":"63129",
+    "sg:province":"MO",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971021,
+        102080787,
+        85832925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_59KXQpkoM0Ndc0TirPRoo1_38.485713_-90.355679@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462593934,
+    "wof:geomhash":"9daff6caf38c9a011ebb8845be956df1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080787,
+            "locality_id":85971021,
+            "neighbourhood_id":85832925,
+            "region_id":85688661,
+            "venue_id":790197671
+        }
+    ],
+    "wof:id":790197671,
+    "wof:lastmodified":1462593934,
+    "wof:name":"Petro-Mart",
+    "wof:parent_id":85832925,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.355679,
+    38.485713,
+    -90.355679,
+    38.485713
+],
+  "geometry": {"coordinates":[-90.35567899999999,38.485713],"type":"Point"}
+}

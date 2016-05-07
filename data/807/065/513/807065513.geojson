@@ -1,0 +1,76 @@
+{
+  "id": 807065513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.254131,38.627363,-90.254131,38.627363",
+    "geom:latitude":38.627363,
+    "geom:longitude":-90.254131,
+    "iso:country":"US",
+    "sg:address":"4198 Manchester Ave",
+    "sg:city":"Saint Louis",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/st-louis/284488-agave-mexican-table--tequileria/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 652 4283",
+    "sg:postcode":"63110",
+    "sg:province":"MO",
+    "sg:tags":[
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873649,
+        102191575,
+        404518053,
+        85633793,
+        85971343,
+        102080791,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_09M7NWAVRmX9w5H0hpYuFk_38.627363_-90.254131@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462603412,
+    "wof:geomhash":"5bf490df2e8e0967bd7e1d788ca197ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080791,
+            "localadmin_id":404518053,
+            "locality_id":85971343,
+            "neighbourhood_id":85873649,
+            "region_id":85688661,
+            "venue_id":807065513
+        }
+    ],
+    "wof:id":807065513,
+    "wof:lastmodified":1462603412,
+    "wof:name":"Agave Mexican Table & Tequileria",
+    "wof:parent_id":85873649,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican"
+    ]
+},
+  "bbox": [
+    -90.254131,
+    38.627363,
+    -90.254131,
+    38.627363
+],
+  "geometry": {"coordinates":[-90.254131,38.627363],"type":"Point"}
+}

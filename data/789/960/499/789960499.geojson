@@ -1,0 +1,67 @@
+{
+  "id": 789960499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.618456,37.997481,-91.618456,37.997481",
+    "geom:latitude":37.997481,
+    "geom:longitude":-91.618456,
+    "iso:country":"US",
+    "sg:address":"201 N Bourbeuse St",
+    "sg:city":"St James",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 265 7664",
+    "sg:postcode":"65559",
+    "sg:province":"MO",
+    "sg:website":"www.usps.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970819,
+        102086893,
+        85847353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_72zqvZnXX8cy7W3kULECAp_37.997481_-91.618456@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462592003,
+    "wof:geomhash":"6f3d2182029a564b8d8517ad7646982d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086893,
+            "locality_id":85970819,
+            "neighbourhood_id":85847353,
+            "region_id":85688661,
+            "venue_id":789960499
+        }
+    ],
+    "wof:id":789960499,
+    "wof:lastmodified":1462592003,
+    "wof:name":"US Post Office",
+    "wof:parent_id":85847353,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.618456,
+    37.997481,
+    -91.618456,
+    37.997481
+],
+  "geometry": {"coordinates":[-91.61845599999999,37.997481],"type":"Point"}
+}

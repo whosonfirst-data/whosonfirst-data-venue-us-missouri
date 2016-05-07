@@ -1,0 +1,75 @@
+{
+  "id": 789600941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.362755,39.37858,-94.362755,39.37858",
+    "geom:latitude":39.37858,
+    "geom:longitude":-94.362755,
+    "iso:country":"US",
+    "sg:address":"501 N Jefferson St",
+    "sg:city":"Kearney",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 628 5116",
+    "sg:postcode":"64060",
+    "sg:province":"MO",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971507,
+        102086177,
+        85812855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5fGZgY9RLg1Hcq5uyEQI4i_39.378580_-94.362755@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462589075,
+    "wof:geomhash":"f09a38d978f8a3e8c5a89fb3ed69c8f8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086177,
+            "locality_id":85971507,
+            "neighbourhood_id":85812855,
+            "region_id":85688661,
+            "venue_id":789600941
+        }
+    ],
+    "wof:id":789600941,
+    "wof:lastmodified":1462589075,
+    "wof:name":"Cook's Collision Repair Inc",
+    "wof:parent_id":85812855,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -94.362755,
+    39.37858,
+    -94.362755,
+    39.37858
+],
+  "geometry": {"coordinates":[-94.36275500000001,39.37858],"type":"Point"}
+}

@@ -1,0 +1,92 @@
+{
+  "id": 807277079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.667647,37.651732,-92.667647,37.651732",
+    "geom:latitude":37.651732,
+    "geom:longitude":-92.667647,
+    "iso:country":"US",
+    "sg:address":"1819 W Elm St",
+    "sg:city":"Lebanon",
+    "sg:classifiers":[
+        {
+            "category":"Fast Food",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 588 7822",
+    "sg:postcode":"65536",
+    "sg:province":"MO",
+    "sg:tags":[
+        "shop",
+        "american",
+        "sandwich",
+        "take"
+    ],
+    "sg:website":"http://www.quiznos.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85855845,
+        102191575,
+        404518399,
+        85633793,
+        85972115,
+        102085341,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3DGAMlrxLH38zezx9Vzhsx_37.651732_-92.667647@1303262936"
+    },
+    "wof:country":"US",
+    "wof:created":1462605618,
+    "wof:geomhash":"564d3b881215358303807349cf354f60",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085341,
+            "localadmin_id":404518399,
+            "locality_id":85972115,
+            "neighbourhood_id":85855845,
+            "region_id":85688661,
+            "venue_id":807277079
+        }
+    ],
+    "wof:id":807277079,
+    "wof:lastmodified":1462605618,
+    "wof:name":"Quiznos Classic Subs",
+    "wof:parent_id":85855845,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "american",
+        "sandwich",
+        "take"
+    ]
+},
+  "bbox": [
+    -92.667647,
+    37.651732,
+    -92.667647,
+    37.651732
+],
+  "geometry": {"coordinates":[-92.667647,37.651732],"type":"Point"}
+}

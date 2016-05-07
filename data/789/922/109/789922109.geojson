@@ -1,0 +1,73 @@
+{
+  "id": 789922109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.757904,37.887305,-91.757904,37.887305",
+    "geom:latitude":37.887305,
+    "geom:longitude":-91.757904,
+    "iso:country":"US",
+    "sg:address":"10140 Co Rd 5180",
+    "sg:city":"Rolla",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 341 3216",
+    "sg:postcode":"65401",
+    "sg:province":"MO",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970821,
+        102086893,
+        85814531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_64gCPoglxLTvrdAOKR81Zb_37.887305_-91.757904@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462591642,
+    "wof:geomhash":"c45eeca57611525332e917276c68fe4f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086893,
+            "locality_id":85970821,
+            "neighbourhood_id":85814531,
+            "region_id":85688661,
+            "venue_id":789922109
+        }
+    ],
+    "wof:id":789922109,
+    "wof:lastmodified":1462591642,
+    "wof:name":"Franks Plumbing & Electric",
+    "wof:parent_id":85814531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -91.757904,
+    37.887305,
+    -91.757904,
+    37.887305
+],
+  "geometry": {"coordinates":[-91.757904,37.887305],"type":"Point"}
+}

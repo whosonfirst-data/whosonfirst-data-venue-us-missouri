@@ -1,0 +1,73 @@
+{
+  "id": 806910869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.484061,38.786199,-90.484061,38.786199",
+    "geom:latitude":38.786199,
+    "geom:longitude":-90.484061,
+    "iso:country":"US",
+    "sg:address":"419 Clark St",
+    "sg:city":"Saint Charles",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 896 0957",
+    "sg:postcode":"63301",
+    "sg:province":"MO",
+    "sg:tags":[
+        "video",
+        "tape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1j5T2hvjC6nwZWfbxtPS0p_38.786199_-90.484061@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462602104,
+    "wof:geomhash":"b8960d0412da943e029ac0b7dbfd97a1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":806910869
+        }
+    ],
+    "wof:id":806910869,
+    "wof:lastmodified":1462602104,
+    "wof:name":"Magnetic North Video Training",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "video",
+        "tape"
+    ]
+},
+  "bbox": [
+    -90.484061,
+    38.786199,
+    -90.484061,
+    38.786199
+],
+  "geometry": {"coordinates":[-90.484061,38.786199],"type":"Point"}
+}

@@ -1,0 +1,86 @@
+{
+  "id": 790469911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.513715,37.080886,-94.513715,37.080886",
+    "geom:latitude":37.080886,
+    "geom:longitude":-94.513715,
+    "iso:country":"US",
+    "sg:address":"942 S Main St",
+    "sg:city":"Joplin",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 781 4293",
+    "sg:postcode":"64801",
+    "sg:province":"MO",
+    "sg:tags":[
+        "appliance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85885363,
+        102191575,
+        404518215,
+        85633793,
+        85970893,
+        102087525,
+        85688661,
+        420525385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ftuRTt8D0soAner2nx9tI_37.080886_-94.513715@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462596097,
+    "wof:geomhash":"21f2a3a31ac8ffa743cdda39b603a571",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087525,
+            "localadmin_id":404518215,
+            "locality_id":85970893,
+            "neighbourhood_id":85885363,
+            "region_id":85688661,
+            "venue_id":790469911
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087525,
+            "localadmin_id":404518215,
+            "locality_id":85970893,
+            "neighbourhood_id":420525385,
+            "region_id":85688661,
+            "venue_id":790469911
+        }
+    ],
+    "wof:id":790469911,
+    "wof:lastmodified":1462596097,
+    "wof:name":"Domestic Appliance Svc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "appliance"
+    ]
+},
+  "bbox": [
+    -94.513715,
+    37.080886,
+    -94.513715,
+    37.080886
+],
+  "geometry": {"coordinates":[-94.513715,37.080886],"type":"Point"}
+}

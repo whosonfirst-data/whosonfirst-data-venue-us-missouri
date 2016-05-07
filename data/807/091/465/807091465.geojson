@@ -1,0 +1,73 @@
+{
+  "id": 807091465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.632136,37.996497,-91.632136,37.996497",
+    "geom:latitude":37.996497,
+    "geom:longitude":-91.632136,
+    "iso:country":"US",
+    "sg:address":"108 N Outer Rd",
+    "sg:city":"Saint James",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/st-james/194299-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"65559",
+    "sg:province":"MO",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970819,
+        102086893,
+        85847353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2xhaBYD4pL3d9XuTVCT0Zq_37.996497_-91.632136@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462603630,
+    "wof:geomhash":"703fb68b36b77ea46ec155b1d659b85f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086893,
+            "locality_id":85970819,
+            "neighbourhood_id":85847353,
+            "region_id":85688661,
+            "venue_id":807091465
+        }
+    ],
+    "wof:id":807091465,
+    "wof:lastmodified":1462603630,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85847353,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -91.632136,
+    37.996497,
+    -91.632136,
+    37.996497
+],
+  "geometry": {"coordinates":[-91.632136,37.996497],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 773144599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.48219,38.77963,-90.48219,38.77963",
+    "geom:latitude":38.77963,
+    "geom:longitude":-90.48219,
+    "iso:country":"US",
+    "sg:address":"201 S Main St",
+    "sg:city":"St Charles",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Membership Organization",
+            "type":"Services"
+        },
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 723 1323",
+    "sg:postcode":"63301",
+    "sg:province":"MO",
+    "sg:tags":[
+        "science",
+        "reading",
+        "christian",
+        "rooms"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3VfR8uMyKWjjdrwVGBzCQQ_38.779630_-90.482190@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462583466,
+    "wof:geomhash":"2d25154600b646243aa7c01f1beaf51e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":773144599
+        }
+    ],
+    "wof:id":773144599,
+    "wof:lastmodified":1462583466,
+    "wof:name":"Christian Science Reading Room",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "science",
+        "reading",
+        "christian",
+        "rooms"
+    ]
+},
+  "bbox": [
+    -90.48219,
+    38.77963,
+    -90.48219,
+    38.77963
+],
+  "geometry": {"coordinates":[-90.48219,38.77963],"type":"Point"}
+}

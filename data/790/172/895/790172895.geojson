@@ -1,0 +1,71 @@
+{
+  "id": 790172895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.588184,38.405398,-90.588184,38.405398",
+    "geom:latitude":38.405398,
+    "geom:longitude":-90.588184,
+    "iso:country":"US",
+    "sg:address":"6969 Wild Cherry Dr",
+    "sg:city":"House Springs",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 671 0490",
+    "sg:postcode":"63051",
+    "sg:province":"MO",
+    "sg:tags":[
+        "passenger"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971019,
+        102080787,
+        85817237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1egpB4vnA5v8wUIWE7xMYw_38.405398_-90.588184@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462593718,
+    "wof:geomhash":"cb47b0c751c3b511382edd31d6809e44",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080787,
+            "locality_id":85971019,
+            "neighbourhood_id":85817237,
+            "region_id":85688661,
+            "venue_id":790172895
+        }
+    ],
+    "wof:id":790172895,
+    "wof:lastmodified":1462593718,
+    "wof:name":"Big River Ambulance District",
+    "wof:parent_id":85817237,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "passenger"
+    ]
+},
+  "bbox": [
+    -90.588184,
+    38.405398,
+    -90.588184,
+    38.405398
+],
+  "geometry": {"coordinates":[-90.588184,38.405398],"type":"Point"}
+}

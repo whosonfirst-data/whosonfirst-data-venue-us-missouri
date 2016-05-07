@@ -1,0 +1,84 @@
+{
+  "id": 807300633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.198936,37.00399,-93.198936,37.00399",
+    "geom:latitude":37.00399,
+    "geom:longitude":-93.198936,
+    "iso:country":"US",
+    "sg:address":"799 W South St",
+    "sg:city":"Ozark",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        },
+        {
+            "category":"Insurance",
+            "subcategory":"Hazard Insurance",
+            "type":"Services"
+        },
+        {
+            "category":"Insurance",
+            "subcategory":"Title Insurance",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 581 7400",
+    "sg:postcode":"65721",
+    "sg:province":"MO",
+    "sg:tags":[
+        "auto",
+        "homeowner"
+    ],
+    "sg:website":"http://apps.amfam.com/agentlocator/JJON11?sourceid=yp3",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971577,
+        102087497,
+        85809751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0g0XV75Sajokr22E2BjZkm_37.003990_-93.198936@1303262938"
+    },
+    "wof:country":"US",
+    "wof:created":1462605860,
+    "wof:geomhash":"9ba5ed275449623cedacd6280a600e35",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087497,
+            "locality_id":85971577,
+            "neighbourhood_id":85809751,
+            "region_id":85688661,
+            "venue_id":807300633
+        }
+    ],
+    "wof:id":807300633,
+    "wof:lastmodified":1462605860,
+    "wof:name":"American Family Insurance- Jay Jones",
+    "wof:parent_id":85809751,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "auto",
+        "homeowner"
+    ]
+},
+  "bbox": [
+    -93.198936,
+    37.00399,
+    -93.198936,
+    37.00399
+],
+  "geometry": {"coordinates":[-93.198936,37.00399],"type":"Point"}
+}

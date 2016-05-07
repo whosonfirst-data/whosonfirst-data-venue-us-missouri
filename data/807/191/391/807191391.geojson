@@ -1,0 +1,73 @@
+{
+  "id": 807191391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.430344,37.793999,-90.430344,37.793999",
+    "geom:latitude":37.793999,
+    "geom:longitude":-90.430344,
+    "iso:country":"US",
+    "sg:address":"427 Yellowstone Dr",
+    "sg:city":"Farmington",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 756 9829",
+    "sg:postcode":"63640",
+    "sg:province":"MO",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970665,
+        102085297,
+        85816309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2hRCnLwDxDXy4ooFrGO6Fj_37.793999_-90.430344@1303262931"
+    },
+    "wof:country":"US",
+    "wof:created":1462604703,
+    "wof:geomhash":"d8aa9670985dad844c6d9c4f0741e0df",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085297,
+            "locality_id":85970665,
+            "neighbourhood_id":85816309,
+            "region_id":85688661,
+            "venue_id":807191391
+        }
+    ],
+    "wof:id":807191391,
+    "wof:lastmodified":1462604703,
+    "wof:name":"David G Yahnke Md",
+    "wof:parent_id":85816309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -90.430344,
+    37.793999,
+    -90.430344,
+    37.793999
+],
+  "geometry": {"coordinates":[-90.43034400000001,37.793999],"type":"Point"}
+}

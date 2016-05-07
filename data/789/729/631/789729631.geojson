@@ -1,0 +1,71 @@
+{
+  "id": 789729631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.612933,37.997733,-91.612933,37.997733",
+    "geom:latitude":37.997733,
+    "geom:longitude":-91.612933,
+    "iso:country":"US",
+    "sg:address":"126 E Washington St",
+    "sg:city":"St James",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 265 5376",
+    "sg:postcode":"65559",
+    "sg:province":"MO",
+    "sg:tags":[
+        "yard"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970819,
+        102086893,
+        85847353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2nuPg13BRnSQg427JcBqIx_37.997733_-91.612933@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462590101,
+    "wof:geomhash":"80891c0d737bd91f27bb014b25112c67",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086893,
+            "locality_id":85970819,
+            "neighbourhood_id":85847353,
+            "region_id":85688661,
+            "venue_id":789729631
+        }
+    ],
+    "wof:id":789729631,
+    "wof:lastmodified":1462590101,
+    "wof:name":"Wilson Rental Ctr",
+    "wof:parent_id":85847353,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "yard"
+    ]
+},
+  "bbox": [
+    -91.612933,
+    37.997733,
+    -91.612933,
+    37.997733
+],
+  "geometry": {"coordinates":[-91.612933,37.997733],"type":"Point"}
+}

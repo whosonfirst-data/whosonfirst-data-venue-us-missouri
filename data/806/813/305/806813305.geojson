@@ -1,0 +1,75 @@
+{
+  "id": 806813305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.382275,38.689996,-90.382275,38.689996",
+    "geom:latitude":38.689996,
+    "geom:longitude":-90.382275,
+    "iso:country":"US",
+    "sg:address":"1623 Lotsie Blvd",
+    "sg:city":"St Louis",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 733 0471",
+    "sg:postcode":"63132",
+    "sg:province":"MO",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85803699,
+        102191575,
+        404517323,
+        85633793,
+        85972315,
+        102086173,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6tDPcfEn0fVO0NZympHcka_38.689996_-90.382275@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462601290,
+    "wof:geomhash":"291eb7cfbe1683a56da296b4fe0dccb1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086173,
+            "localadmin_id":404517323,
+            "locality_id":85972315,
+            "neighbourhood_id":85803699,
+            "region_id":85688661,
+            "venue_id":806813305
+        }
+    ],
+    "wof:id":806813305,
+    "wof:lastmodified":1462601290,
+    "wof:name":"Amersham Health",
+    "wof:parent_id":85803699,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.382275,
+    38.689996,
+    -90.382275,
+    38.689996
+],
+  "geometry": {"coordinates":[-90.38227500000001,38.689996],"type":"Point"}
+}

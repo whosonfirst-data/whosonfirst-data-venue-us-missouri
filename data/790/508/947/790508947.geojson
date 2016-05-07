@@ -1,0 +1,77 @@
+{
+  "id": 790508947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.43594,38.543502,-90.43594,38.543502",
+    "geom:latitude":38.543502,
+    "geom:longitude":-90.43594,
+    "iso:country":"US",
+    "sg:address":"205 N Highway Dr",
+    "sg:city":"Fenton",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 343 1140",
+    "sg:postcode":"63026",
+    "sg:province":"MO",
+    "sg:tags":[
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85858661,
+        102191575,
+        404517203,
+        85633793,
+        85972289,
+        102086173,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7YUWMwl52CJ4wNV1Jzo2We_38.543502_-90.435940@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462596441,
+    "wof:geomhash":"5838d2d913af48357171c73bfc5baca9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086173,
+            "localadmin_id":404517203,
+            "locality_id":85972289,
+            "neighbourhood_id":85858661,
+            "region_id":85688661,
+            "venue_id":790508947
+        }
+    ],
+    "wof:id":790508947,
+    "wof:lastmodified":1462596441,
+    "wof:name":"St Louis Truck Port",
+    "wof:parent_id":85858661,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -90.43594,
+    38.543502,
+    -90.43594,
+    38.543502
+],
+  "geometry": {"coordinates":[-90.43594,38.543502],"type":"Point"}
+}

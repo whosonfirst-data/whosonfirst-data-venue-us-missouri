@@ -1,0 +1,71 @@
+{
+  "id": 806643743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.421689,37.787668,-90.421689,37.787668",
+    "geom:latitude":37.787668,
+    "geom:longitude":-90.421689,
+    "iso:country":"US",
+    "sg:address":"205 W Karsch Blvd",
+    "sg:city":"Farmington",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Telephone",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 756 0010",
+    "sg:postcode":"63640",
+    "sg:province":"MO",
+    "sg:tags":[
+        "telecommunication"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970665,
+        102085297,
+        85816309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2bAo6KqW1IAvyk9FRwSs64_37.787668_-90.421689@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462599849,
+    "wof:geomhash":"d2a64831aacf636cb2c6953ef80e7c8a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085297,
+            "locality_id":85970665,
+            "neighbourhood_id":85816309,
+            "region_id":85688661,
+            "venue_id":806643743
+        }
+    ],
+    "wof:id":806643743,
+    "wof:lastmodified":1462599849,
+    "wof:name":"Big River Telephone",
+    "wof:parent_id":85816309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "telecommunication"
+    ]
+},
+  "bbox": [
+    -90.421689,
+    37.787668,
+    -90.421689,
+    37.787668
+],
+  "geometry": {"coordinates":[-90.421689,37.787668],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 807097511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.25165,38.591295,-90.25165,38.591295",
+    "geom:latitude":38.591295,
+    "geom:longitude":-90.25165,
+    "iso:country":"US",
+    "sg:address":"3909 Gravois Ave",
+    "sg:city":"Saint Louis",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/st-louis/180453-jack-in-the-box/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 776 2553",
+    "sg:postcode":"63116",
+    "sg:province":"MO",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873681,
+        102191575,
+        404518053,
+        85633793,
+        85971343,
+        102080791,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0v4Yl46Vx8hbJFbTTrFmNm_38.591496_-90.251287@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462603692,
+    "wof:geomhash":"7a63add7ec3b610bde596d76767feb8a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080791,
+            "localadmin_id":404518053,
+            "locality_id":85971343,
+            "neighbourhood_id":85873681,
+            "region_id":85688661,
+            "venue_id":807097511
+        }
+    ],
+    "wof:id":807097511,
+    "wof:lastmodified":1462603692,
+    "wof:name":"Jack in the Box",
+    "wof:parent_id":85873681,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -90.25165,
+    38.591295,
+    -90.25165,
+    38.591295
+],
+  "geometry": {"coordinates":[-90.25165,38.591295],"type":"Point"}
+}

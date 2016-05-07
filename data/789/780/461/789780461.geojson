@@ -1,0 +1,87 @@
+{
+  "id": 789780461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.66582,38.80066,-90.66582,38.80066",
+    "geom:latitude":38.80066,
+    "geom:longitude":-90.66582,
+    "iso:country":"US",
+    "sg:address":"200 Trade Center Dr",
+    "sg:city":"St Peters",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Job Training",
+            "type":"Services"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 978 4300",
+    "sg:postcode":"63376",
+    "sg:province":"MO",
+    "sg:tags":[
+        "physician",
+        "for",
+        "handicapped",
+        "workshop",
+        "sheltered",
+        "surgeon"
+    ],
+    "sg:website":"www.boonecenter.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1LmIAufmUb4fDta4QGR7MF_38.800660_-90.665820@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462590483,
+    "wof:geomhash":"7a54f7e9514383a53fb4913d0863b7e0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":789780461
+        }
+    ],
+    "wof:id":789780461,
+    "wof:lastmodified":1462590483,
+    "wof:name":"Boone Center Inc",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "for",
+        "handicapped",
+        "workshop",
+        "sheltered",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -90.66582,
+    38.80066,
+    -90.66582,
+    38.80066
+],
+  "geometry": {"coordinates":[-90.66582,38.80066],"type":"Point"}
+}

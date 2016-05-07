@@ -1,0 +1,83 @@
+{
+  "id": 807011589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.222198,38.622299,-90.222198,38.622299",
+    "geom:latitude":38.622299,
+    "geom:longitude":-90.222198,
+    "iso:country":"US",
+    "sg:address":"2728 Lasalle St",
+    "sg:city":"Saint Louis",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Plants",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Florist",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 772 1152",
+    "sg:postcode":"63104",
+    "sg:province":"MO",
+    "sg:tags":[
+        "flower",
+        "gift"
+    ],
+    "sg:website":"www.fss.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420525457,
+        102191575,
+        404518053,
+        85633793,
+        85971343,
+        102080791,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2BRm6XrY7gBA7xyTnV3Xra_38.621979_-90.222088@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1462602957,
+    "wof:geomhash":"f3766dc518540c3edcbecdb0f1c6191b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080791,
+            "localadmin_id":404518053,
+            "locality_id":85971343,
+            "neighbourhood_id":420525457,
+            "region_id":85688661,
+            "venue_id":807011589
+        }
+    ],
+    "wof:id":807011589,
+    "wof:lastmodified":1462602957,
+    "wof:name":"Floral Supply Syndicate",
+    "wof:parent_id":420525457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "flower",
+        "gift"
+    ]
+},
+  "bbox": [
+    -90.222198,
+    38.622299,
+    -90.222198,
+    38.622299
+],
+  "geometry": {"coordinates":[-90.22219800000001,38.622299],"type":"Point"}
+}

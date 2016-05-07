@@ -1,0 +1,73 @@
+{
+  "id": 789684181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.794309,37.922212,-91.794309,37.922212",
+    "geom:latitude":37.922212,
+    "geom:longitude":-91.794309,
+    "iso:country":"US",
+    "sg:address":"12490 State Rte CC",
+    "sg:city":"Rolla",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 341 3284",
+    "sg:postcode":"65401",
+    "sg:province":"MO",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970821,
+        102086893,
+        85814531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7D1YeFdpWXIp6dhrh8IcJ0_37.922212_-91.794309@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462589732,
+    "wof:geomhash":"f3a1cd3d1f0fda2631716e58308ab1ef",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086893,
+            "locality_id":85970821,
+            "neighbourhood_id":85814531,
+            "region_id":85688661,
+            "venue_id":789684181
+        }
+    ],
+    "wof:id":789684181,
+    "wof:lastmodified":1462589732,
+    "wof:name":"Skip S Garage",
+    "wof:parent_id":85814531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -91.794309,
+    37.922212,
+    -91.794309,
+    37.922212
+],
+  "geometry": {"coordinates":[-91.794309,37.922212],"type":"Point"}
+}

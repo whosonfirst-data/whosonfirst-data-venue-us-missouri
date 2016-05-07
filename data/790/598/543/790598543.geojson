@@ -1,0 +1,90 @@
+{
+  "id": 790598543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.393212,38.684775,-90.393212,38.684775",
+    "geom:latitude":38.684775,
+    "geom:longitude":-90.393212,
+    "iso:country":"US",
+    "sg:address":"10486 Baur Blvd",
+    "sg:city":"St Louis",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Apparel",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 994 3782",
+    "sg:postcode":"63132",
+    "sg:province":"MO",
+    "sg:tags":[
+        "physician",
+        "product",
+        "mfg",
+        "medical",
+        "disposable",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85803699,
+        102191575,
+        404517323,
+        85633793,
+        85972315,
+        102086173,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2klQ9x8xjD7KKvL9ICpeCk_38.684775_-90.393212@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462597207,
+    "wof:geomhash":"0560e257353299bb364f941c386d2020",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086173,
+            "localadmin_id":404517323,
+            "locality_id":85972315,
+            "neighbourhood_id":85803699,
+            "region_id":85688661,
+            "venue_id":790598543
+        }
+    ],
+    "wof:id":790598543,
+    "wof:lastmodified":1462597207,
+    "wof:name":"ICP",
+    "wof:parent_id":85803699,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "product",
+        "mfg",
+        "medical",
+        "disposable",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -90.393212,
+    38.684775,
+    -90.393212,
+    38.684775
+],
+  "geometry": {"coordinates":[-90.39321200000001,38.684775],"type":"Point"}
+}

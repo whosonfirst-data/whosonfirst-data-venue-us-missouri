@@ -1,0 +1,72 @@
+{
+  "id": 790191827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.251097,37.239659,-93.251097,37.239659",
+    "geom:latitude":37.239659,
+    "geom:longitude":-93.251097,
+    "iso:country":"US",
+    "sg:address":"2250 E Kearney St",
+    "sg:city":"Springfield",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 875 9703",
+    "sg:postcode":"65803",
+    "sg:province":"MO",
+    "sg:tags":[
+        "contractor"
+    ],
+    "sg:website":"www.johnfabick.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971363,
+        102087523,
+        85881137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1FAvvq7IqaxBegzyfpyOBt_37.239659_-93.251097@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462593866,
+    "wof:geomhash":"59a7b2706acc9a3589008aa23dc357ff",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087523,
+            "locality_id":85971363,
+            "neighbourhood_id":85881137,
+            "region_id":85688661,
+            "venue_id":790191827
+        }
+    ],
+    "wof:id":790191827,
+    "wof:lastmodified":1462593866,
+    "wof:name":"Fabick Rental Svc",
+    "wof:parent_id":85881137,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -93.251097,
+    37.239659,
+    -93.251097,
+    37.239659
+],
+  "geometry": {"coordinates":[-93.251097,37.239659],"type":"Point"}
+}

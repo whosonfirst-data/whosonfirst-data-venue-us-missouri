@@ -1,0 +1,78 @@
+{
+  "id": 807083265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.521525,39.187982,-94.521525,39.187982",
+    "geom:latitude":39.187982,
+    "geom:longitude":-94.521525,
+    "iso:country":"US",
+    "sg:address":"4940 NE Vivion Rd",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/chouteau/149033-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 453 9900",
+    "sg:postcode":"64119",
+    "sg:province":"MO",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85858297,
+        102191575,
+        404516717,
+        85633793,
+        85972443,
+        102086177,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7d82251ot5MMPvUeuz8hyK_39.187982_-94.521525@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462603560,
+    "wof:geomhash":"fe4fa4e296182043b92ba4e9e83debdd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086177,
+            "localadmin_id":404516717,
+            "locality_id":85972443,
+            "neighbourhood_id":85858297,
+            "region_id":85688661,
+            "venue_id":807083265
+        }
+    ],
+    "wof:id":807083265,
+    "wof:lastmodified":1462603560,
+    "wof:name":"Subway",
+    "wof:parent_id":85858297,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -94.521525,
+    39.187982,
+    -94.521525,
+    39.187982
+],
+  "geometry": {"coordinates":[-94.521525,39.187982],"type":"Point"}
+}

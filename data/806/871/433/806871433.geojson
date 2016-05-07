@@ -1,0 +1,75 @@
+{
+  "id": 806871433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.570854,38.225288,-90.570854,38.225288",
+    "geom:latitude":38.225288,
+    "geom:longitude":-90.570854,
+    "iso:country":"US",
+    "sg:address":"5 Ridgewood Dr",
+    "sg:city":"Hillsboro",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        },
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 797 2820",
+    "sg:postcode":"63050",
+    "sg:province":"MO",
+    "sg:tags":[
+        "cooperative"
+    ],
+    "sg:website":"www.specialcoop.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85848677,
+        102080787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Usq430E0YbF3arGTbttaf_38.225288_-90.570854@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462601782,
+    "wof:geomhash":"a75e82118b7fb14e9574a262a0066f8f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080787,
+            "neighbourhood_id":85848677,
+            "region_id":85688661,
+            "venue_id":806871433
+        }
+    ],
+    "wof:id":806871433,
+    "wof:lastmodified":1462601782,
+    "wof:name":"Special Services Cooperative",
+    "wof:parent_id":85848677,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cooperative"
+    ]
+},
+  "bbox": [
+    -90.570854,
+    38.225288,
+    -90.570854,
+    38.225288
+],
+  "geometry": {"coordinates":[-90.570854,38.225288],"type":"Point"}
+}

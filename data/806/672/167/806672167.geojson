@@ -1,0 +1,71 @@
+{
+  "id": 806672167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.224121,39.341837,-94.224121,39.341837",
+    "geom:latitude":39.341837,
+    "geom:longitude":-94.224121,
+    "iso:country":"US",
+    "sg:address":"212 Spring St",
+    "sg:city":"Excelsior Spgs",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 637 8112",
+    "sg:postcode":"64024",
+    "sg:province":"MO",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971507,
+        102086177,
+        85822189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4dZouwNvzibeVssFFcJPSB_39.341837_-94.224121@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462600101,
+    "wof:geomhash":"48351d0b48a878c8dece434119cc79f7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086177,
+            "locality_id":85971507,
+            "neighbourhood_id":85822189,
+            "region_id":85688661,
+            "venue_id":806672167
+        }
+    ],
+    "wof:id":806672167,
+    "wof:lastmodified":1462600101,
+    "wof:name":"Bob E Craven DDS",
+    "wof:parent_id":85822189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -94.224121,
+    39.341837,
+    -94.224121,
+    39.341837
+],
+  "geometry": {"coordinates":[-94.224121,39.341837],"type":"Point"}
+}

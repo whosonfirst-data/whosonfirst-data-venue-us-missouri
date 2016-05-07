@@ -1,0 +1,75 @@
+{
+  "id": 806895933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.350098,38.690327,-90.350098,38.690327",
+    "geom:latitude":38.690327,
+    "geom:longitude":-90.350098,
+    "iso:country":"US",
+    "sg:address":"1821 Belt Way Dr",
+    "sg:city":"Saint Louis",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 428 0000",
+    "sg:postcode":"63114",
+    "sg:province":"MO",
+    "sg:tags":[
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85847351,
+        102191575,
+        404517201,
+        85633793,
+        85972285,
+        102086173,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Wku3FRXMJPdCjzoOpVGYa_38.690327_-90.350098@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462601981,
+    "wof:geomhash":"01030ff652acce6db4214f9354c87aa2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086173,
+            "localadmin_id":404517201,
+            "locality_id":85972285,
+            "neighbourhood_id":85847351,
+            "region_id":85688661,
+            "venue_id":806895933
+        }
+    ],
+    "wof:id":806895933,
+    "wof:lastmodified":1462601981,
+    "wof:name":"Global Maintenance Management",
+    "wof:parent_id":85847351,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -90.350098,
+    38.690327,
+    -90.350098,
+    38.690327
+],
+  "geometry": {"coordinates":[-90.350098,38.690327],"type":"Point"}
+}

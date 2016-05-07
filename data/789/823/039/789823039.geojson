@@ -1,0 +1,71 @@
+{
+  "id": 789823039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.747752,37.977132,-91.747752,37.977132",
+    "geom:latitude":37.977132,
+    "geom:longitude":-91.747752,
+    "iso:country":"US",
+    "sg:address":"10433 Co Rd 2000",
+    "sg:city":"Rolla",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 308 3197",
+    "sg:postcode":"65401",
+    "sg:province":"MO",
+    "sg:tags":[
+        "courier"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970821,
+        102086893,
+        85814531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5L3Y2m9QDFOpb7oY2nt9LD_37.977132_-91.747752@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462590815,
+    "wof:geomhash":"0e946ec45c05387b08d8a6d1b883bd81",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086893,
+            "locality_id":85970821,
+            "neighbourhood_id":85814531,
+            "region_id":85688661,
+            "venue_id":789823039
+        }
+    ],
+    "wof:id":789823039,
+    "wof:lastmodified":1462590815,
+    "wof:name":"Ozark Delivery",
+    "wof:parent_id":85814531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "courier"
+    ]
+},
+  "bbox": [
+    -91.747752,
+    37.977132,
+    -91.747752,
+    37.977132
+],
+  "geometry": {"coordinates":[-91.74775200000001,37.977132],"type":"Point"}
+}

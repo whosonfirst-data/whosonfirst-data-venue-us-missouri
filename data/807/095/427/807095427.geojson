@@ -1,0 +1,72 @@
+{
+  "id": 807095427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.296021,37.156405,-93.296021,37.156405",
+    "geom:latitude":37.156405,
+    "geom:longitude":-93.296021,
+    "iso:country":"US",
+    "sg:address":"3195 S Campbell Ave",
+    "sg:city":"Springfield",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/springfield/201755-sonic/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 889 4141",
+    "sg:postcode":"65807",
+    "sg:province":"MO",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85881151,
+        102087523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0DWHw692UVSm0jKPEARLlL_37.156405_-93.296021@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462603669,
+    "wof:geomhash":"efc5f3b22c8acdf646cc43325aac2e01",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087523,
+            "neighbourhood_id":85881151,
+            "region_id":85688661,
+            "venue_id":807095427
+        }
+    ],
+    "wof:id":807095427,
+    "wof:lastmodified":1462603669,
+    "wof:name":"Sonic",
+    "wof:parent_id":85881151,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -93.296021,
+    37.156405,
+    -93.296021,
+    37.156405
+],
+  "geometry": {"coordinates":[-93.296021,37.156405],"type":"Point"}
+}

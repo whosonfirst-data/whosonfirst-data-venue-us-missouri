@@ -1,0 +1,71 @@
+{
+  "id": 806890421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.621925,38.800864,-90.621925,38.800864",
+    "geom:latitude":38.800864,
+    "geom:longitude":-90.621925,
+    "iso:country":"US",
+    "sg:address":"399 Main St",
+    "sg:city":"St Peters",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 970 3377",
+    "sg:postcode":"63376",
+    "sg:province":"MO",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Wt8wOpyvDwvzPSiHE3zVJ_38.800864_-90.621925@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462601935,
+    "wof:geomhash":"6e29d8f91d956190f1dd6b554a513462",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":806890421
+        }
+    ],
+    "wof:id":806890421,
+    "wof:lastmodified":1462601935,
+    "wof:name":"Burger King",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -90.621925,
+    38.800864,
+    -90.621925,
+    38.800864
+],
+  "geometry": {"coordinates":[-90.621925,38.800864],"type":"Point"}
+}

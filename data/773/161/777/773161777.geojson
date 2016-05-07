@@ -1,0 +1,71 @@
+{
+  "id": 773161777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.583767,39.412317,-94.583767,39.412317",
+    "geom:latitude":39.412317,
+    "geom:longitude":-94.583767,
+    "iso:country":"US",
+    "sg:address":"1506 US Hwy 169",
+    "sg:city":"Smithville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 532 9191",
+    "sg:postcode":"64089",
+    "sg:province":"MO",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970739,
+        102086177,
+        85836329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1yV9IgvAesoR7QwIfKPmyX_39.412317_-94.583767@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462583605,
+    "wof:geomhash":"6485720f1dc4cc28eaaa64ed54dffc4d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086177,
+            "locality_id":85970739,
+            "neighbourhood_id":85836329,
+            "region_id":85688661,
+            "venue_id":773161777
+        }
+    ],
+    "wof:id":773161777,
+    "wof:lastmodified":1462583605,
+    "wof:name":"Sonic Drive-In",
+    "wof:parent_id":85836329,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -94.583767,
+    39.412317,
+    -94.583767,
+    39.412317
+],
+  "geometry": {"coordinates":[-94.58376699999999,39.412317],"type":"Point"}
+}

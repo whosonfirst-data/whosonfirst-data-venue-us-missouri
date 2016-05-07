@@ -1,0 +1,83 @@
+{
+  "id": 807099731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.651872,39.252552,-94.651872,39.252552",
+    "geom:latitude":39.252552,
+    "geom:longitude":-94.651872,
+    "iso:country":"US",
+    "sg:address":"8626 N Boardwalk Ave",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Deli",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/may/10388-planet-sub/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 741 6631",
+    "sg:postcode":"64154",
+    "sg:province":"MO",
+    "sg:tags":[
+        "deli",
+        "wrap",
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970739,
+        102085271,
+        85851839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2iXwDphIPG4owosv5rTJe3_39.252542_-94.652530@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462603719,
+    "wof:geomhash":"d65ccce06f7309dfb832a0ac1848446e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085271,
+            "locality_id":85970739,
+            "neighbourhood_id":85851839,
+            "region_id":85688661,
+            "venue_id":807099731
+        }
+    ],
+    "wof:id":807099731,
+    "wof:lastmodified":1462603719,
+    "wof:name":"Planet Sub",
+    "wof:parent_id":85851839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "deli",
+        "wrap",
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -94.651872,
+    39.252552,
+    -94.651872,
+    39.252552
+],
+  "geometry": {"coordinates":[-94.651872,39.252552],"type":"Point"}
+}

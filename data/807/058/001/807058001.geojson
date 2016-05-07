@@ -1,0 +1,78 @@
+{
+  "id": 807058001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.600458,38.667833,-90.600458,38.667833",
+    "geom:latitude":38.667833,
+    "geom:longitude":-90.600458,
+    "iso:country":"US",
+    "sg:address":"17300 Chesterfield Airport Rd",
+    "sg:city":"Chesterfield",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/chesterfield/201556-sonic/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 519 7235",
+    "sg:postcode":"63005",
+    "sg:province":"MO",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85805465,
+        102191575,
+        404517241,
+        85633793,
+        85972357,
+        102086173,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2iDDqg7cGSaSrADEmJnyA5_38.667833_-90.600458@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462603355,
+    "wof:geomhash":"de840bf7f88194600658f7f42d8b438d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086173,
+            "localadmin_id":404517241,
+            "locality_id":85972357,
+            "neighbourhood_id":85805465,
+            "region_id":85688661,
+            "venue_id":807058001
+        }
+    ],
+    "wof:id":807058001,
+    "wof:lastmodified":1462603355,
+    "wof:name":"Sonic",
+    "wof:parent_id":85805465,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -90.600458,
+    38.667833,
+    -90.600458,
+    38.667833
+],
+  "geometry": {"coordinates":[-90.600458,38.667833],"type":"Point"}
+}

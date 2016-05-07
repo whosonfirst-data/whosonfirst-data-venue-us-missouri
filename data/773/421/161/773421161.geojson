@@ -1,0 +1,73 @@
+{
+  "id": 773421161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.207748,38.491601,-92.207748,38.491601",
+    "geom:latitude":38.491601,
+    "geom:longitude":-92.207748,
+    "iso:country":"US",
+    "sg:address":"6022 Tanner Bridge Rd",
+    "sg:city":"Jefferson City",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 496 3235",
+    "sg:postcode":"65101",
+    "sg:province":"MO",
+    "sg:tags":[
+        "excavation",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970647,
+        102087519,
+        85847491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7BL3xNaqXbMMO7sTDkLSMk_38.491601_-92.207748@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462585583,
+    "wof:geomhash":"e56fce58497e25af6439ef11676c141e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087519,
+            "locality_id":85970647,
+            "neighbourhood_id":85847491,
+            "region_id":85688661,
+            "venue_id":773421161
+        }
+    ],
+    "wof:id":773421161,
+    "wof:lastmodified":1462585583,
+    "wof:name":"Schmidt Excavating LLC",
+    "wof:parent_id":85847491,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavation",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -92.207748,
+    38.491601,
+    -92.207748,
+    38.491601
+],
+  "geometry": {"coordinates":[-92.207748,38.491601],"type":"Point"}
+}

@@ -1,0 +1,91 @@
+{
+  "id": 806997347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.278596,38.592433,-90.278596,38.592433",
+    "geom:latitude":38.592433,
+    "geom:longitude":-90.278596,
+    "iso:country":"US",
+    "sg:address":"5066 Lindenwood Ave",
+    "sg:city":"Saint Louis",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 481 9274",
+    "sg:postcode":"63109",
+    "sg:province":"MO",
+    "sg:tags":[
+        "washing",
+        "contractor",
+        "water",
+        "pressure",
+        "window",
+        "cleaning"
+    ],
+    "sg:website":"Washerwizard.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873683,
+        102191575,
+        404518053,
+        85633793,
+        85971343,
+        102080791,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0NXdB3ncb85393zrjdETjJ_38.592539_-90.278296@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1462602837,
+    "wof:geomhash":"f90d97fe5548af24ef9bac6b639bc628",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080791,
+            "localadmin_id":404518053,
+            "locality_id":85971343,
+            "neighbourhood_id":85873683,
+            "region_id":85688661,
+            "venue_id":806997347
+        }
+    ],
+    "wof:id":806997347,
+    "wof:lastmodified":1462602837,
+    "wof:name":"Washer Wizard",
+    "wof:parent_id":85873683,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "washing",
+        "contractor",
+        "water",
+        "pressure",
+        "window",
+        "cleaning"
+    ]
+},
+  "bbox": [
+    -90.278596,
+    38.592433,
+    -90.278596,
+    38.592433
+],
+  "geometry": {"coordinates":[-90.27859599999999,38.592433],"type":"Point"}
+}

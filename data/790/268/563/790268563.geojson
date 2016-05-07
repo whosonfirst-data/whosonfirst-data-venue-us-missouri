@@ -1,0 +1,73 @@
+{
+  "id": 790268563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.614889,37.997724,-91.614889,37.997724",
+    "geom:latitude":37.997724,
+    "geom:longitude":-91.614889,
+    "iso:country":"US",
+    "sg:address":"125 N Jefferson St",
+    "sg:city":"Saint James",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 265 5400",
+    "sg:postcode":"65559",
+    "sg:province":"MO",
+    "sg:tags":[
+        "drug",
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970819,
+        102086893,
+        85847353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_27gp5dcQ9npnEdIsWywsV7_37.997724_-91.614889@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462594488,
+    "wof:geomhash":"09136f92865399039db549e39b296446",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086893,
+            "locality_id":85970819,
+            "neighbourhood_id":85847353,
+            "region_id":85688661,
+            "venue_id":790268563
+        }
+    ],
+    "wof:id":790268563,
+    "wof:lastmodified":1462594488,
+    "wof:name":"Forest City Healthmart Phrm",
+    "wof:parent_id":85847353,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drug",
+        "store"
+    ]
+},
+  "bbox": [
+    -91.614889,
+    37.997724,
+    -91.614889,
+    37.997724
+],
+  "geometry": {"coordinates":[-91.61488900000001,37.997724],"type":"Point"}
+}

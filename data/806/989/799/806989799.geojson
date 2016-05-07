@@ -1,0 +1,73 @@
+{
+  "id": 806989799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.697709,39.227795,-94.697709,39.227795",
+    "geom:latitude":39.227795,
+    "geom:longitude":-94.697709,
+    "iso:country":"US",
+    "sg:address":"9906 NW 73 Ter",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 741 1320",
+    "sg:postcode":"64152",
+    "sg:province":"MO",
+    "sg:tags":[
+        "laboratory",
+        "dental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970739,
+        102085271,
+        85852241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2oYXbo8fdMLyW86tzWQ23Y_39.227795_-94.697709@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462602773,
+    "wof:geomhash":"1e4c4f1de43711213e783c676e78f218",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085271,
+            "locality_id":85970739,
+            "neighbourhood_id":85852241,
+            "region_id":85688661,
+            "venue_id":806989799
+        }
+    ],
+    "wof:id":806989799,
+    "wof:lastmodified":1462602773,
+    "wof:name":"Fullers Dental Lab",
+    "wof:parent_id":85852241,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory",
+        "dental"
+    ]
+},
+  "bbox": [
+    -94.697709,
+    39.227795,
+    -94.697709,
+    39.227795
+],
+  "geometry": {"coordinates":[-94.697709,39.227795],"type":"Point"}
+}

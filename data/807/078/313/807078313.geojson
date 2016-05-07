@@ -1,0 +1,74 @@
+{
+  "id": 807078313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.367865,39.368247,-94.367865,39.368247",
+    "geom:latitude":39.368247,
+    "geom:longitude":-94.367865,
+    "iso:country":"US",
+    "sg:address":"510 S Platte Clay Way",
+    "sg:city":"Kearney",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/kearney/201631-sonic/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 628 5656",
+    "sg:postcode":"64060",
+    "sg:province":"MO",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971507,
+        102086177,
+        85812855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0bjwLeK9YnoqKj4k6QzJIH_39.368247_-94.367865@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462603519,
+    "wof:geomhash":"9bdb6833f2a0548eef383d5a86c20d4b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086177,
+            "locality_id":85971507,
+            "neighbourhood_id":85812855,
+            "region_id":85688661,
+            "venue_id":807078313
+        }
+    ],
+    "wof:id":807078313,
+    "wof:lastmodified":1462603519,
+    "wof:name":"Sonic",
+    "wof:parent_id":85812855,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -94.367865,
+    39.368247,
+    -94.367865,
+    39.368247
+],
+  "geometry": {"coordinates":[-94.36786499999999,39.368247],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 789678033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.527938,39.787902,-91.527938,39.787902",
+    "geom:latitude":39.787902,
+    "geom:longitude":-91.527938,
+    "iso:country":"US",
+    "sg:address":"1410 W Line St",
+    "sg:city":"Palmyra",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 769 2213",
+    "sg:postcode":"63461",
+    "sg:province":"MO",
+    "sg:tags":[
+        "home",
+        "convalescent"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688697,
+        85633793,
+        85938427,
+        102086213,
+        85867477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4IBQUQ3Rmjn5V8P9Uxf8w5_39.787902_-91.527938@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462589686,
+    "wof:geomhash":"0ed0701ede82b22f95411f7946755539",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086213,
+            "locality_id":85938427,
+            "neighbourhood_id":85867477,
+            "region_id":85688697,
+            "venue_id":789678033
+        }
+    ],
+    "wof:id":789678033,
+    "wof:lastmodified":1462589686,
+    "wof:name":"Maple Lawn Nursing Home",
+    "wof:parent_id":85867477,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "convalescent"
+    ]
+},
+  "bbox": [
+    -91.527938,
+    39.787902,
+    -91.527938,
+    39.787902
+],
+  "geometry": {"coordinates":[-91.52793800000001,39.787902],"type":"Point"}
+}

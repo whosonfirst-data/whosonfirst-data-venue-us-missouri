@@ -1,0 +1,73 @@
+{
+  "id": 806969839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.629831,37.99379,-91.629831,37.99379",
+    "geom:latitude":37.99379,
+    "geom:longitude":-91.629831,
+    "iso:country":"US",
+    "sg:address":"1115 W Springfield St",
+    "sg:city":"St James",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 265 5764",
+    "sg:postcode":"65559",
+    "sg:province":"MO",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970819,
+        102086893,
+        85847353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4szxCcxjoyY1JSkH33Gewr_37.993790_-91.629831@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462602610,
+    "wof:geomhash":"32bc50c0ccd83c43b312beb6a11df57a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086893,
+            "locality_id":85970819,
+            "neighbourhood_id":85847353,
+            "region_id":85688661,
+            "venue_id":806969839
+        }
+    ],
+    "wof:id":806969839,
+    "wof:lastmodified":1462602610,
+    "wof:name":"Saint James Apartments",
+    "wof:parent_id":85847353,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -91.629831,
+    37.99379,
+    -91.629831,
+    37.99379
+],
+  "geometry": {"coordinates":[-91.629831,37.99379],"type":"Point"}
+}

@@ -1,0 +1,104 @@
+{
+  "id": 807124273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.372098,38.384359,-90.372098,38.384359",
+    "geom:latitude":38.384359,
+    "geom:longitude":-90.372098,
+    "iso:country":"US",
+    "sg:address":"905 Jeffco Executive Dr",
+    "sg:city":"Imperial",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 464 6066",
+    "sg:postcode":"63052",
+    "sg:province":"MO",
+    "sg:tags":[
+        "equipment",
+        "cleaner",
+        "compound",
+        "supply",
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420525373,
+        102191575,
+        404518285,
+        85633793,
+        85972523,
+        102080787,
+        85688661,
+        420525431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2euxGB4SewRpQ71pJSw5UP_38.384359_-90.372098@1303262926"
+    },
+    "wof:country":"US",
+    "wof:created":1462603993,
+    "wof:geomhash":"454c26c56e354270f4d8f666ce3183fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080787,
+            "localadmin_id":404518285,
+            "locality_id":85972523,
+            "neighbourhood_id":420525373,
+            "region_id":85688661,
+            "venue_id":807124273
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080787,
+            "localadmin_id":404518285,
+            "locality_id":85972523,
+            "neighbourhood_id":420525431,
+            "region_id":85688661,
+            "venue_id":807124273
+        }
+    ],
+    "wof:id":807124273,
+    "wof:lastmodified":1462603993,
+    "wof:name":"Gateway Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "cleaner",
+        "compound",
+        "supply",
+        "house"
+    ]
+},
+  "bbox": [
+    -90.372098,
+    38.384359,
+    -90.372098,
+    38.384359
+],
+  "geometry": {"coordinates":[-90.37209799999999,38.384359],"type":"Point"}
+}

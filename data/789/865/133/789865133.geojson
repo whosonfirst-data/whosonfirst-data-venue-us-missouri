@@ -1,0 +1,86 @@
+{
+  "id": 789865133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.502659,37.079293,-94.502659,37.079293",
+    "geom:latitude":37.079293,
+    "geom:longitude":-94.502659,
+    "iso:country":"US",
+    "sg:address":"1015 Illinois Ave",
+    "sg:city":"Joplin",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 625 0700",
+    "sg:postcode":"64801",
+    "sg:province":"MO",
+    "sg:tags":[
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85885363,
+        102191575,
+        404518215,
+        85633793,
+        85970893,
+        102087525,
+        85688661,
+        420525385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Umac6ZaKu4JpBbVSgCejs_37.079293_-94.502659@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462591148,
+    "wof:geomhash":"6de98e503e861a8a3ec78d32f9c7d009",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087525,
+            "localadmin_id":404518215,
+            "locality_id":85970893,
+            "neighbourhood_id":85885363,
+            "region_id":85688661,
+            "venue_id":789865133
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087525,
+            "localadmin_id":404518215,
+            "locality_id":85970893,
+            "neighbourhood_id":420525385,
+            "region_id":85688661,
+            "venue_id":789865133
+        }
+    ],
+    "wof:id":789865133,
+    "wof:lastmodified":1462591148,
+    "wof:name":"Service Recycling",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "system"
+    ]
+},
+  "bbox": [
+    -94.502659,
+    37.079293,
+    -94.502659,
+    37.079293
+],
+  "geometry": {"coordinates":[-94.50265899999999,37.079293],"type":"Point"}
+}

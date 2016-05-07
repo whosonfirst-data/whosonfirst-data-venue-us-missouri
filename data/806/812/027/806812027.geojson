@@ -1,0 +1,75 @@
+{
+  "id": 806812027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.583643,38.44789,-90.583643,38.44789",
+    "geom:latitude":38.44789,
+    "geom:longitude":-90.583643,
+    "iso:country":"US",
+    "sg:address":"6572 Franks Rd",
+    "sg:city":"House Springs",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 677 3417",
+    "sg:postcode":"63051",
+    "sg:province":"MO",
+    "sg:tags":[
+        "pet",
+        "crematory",
+        "cemetery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971019,
+        102080787,
+        85817237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5AfLOR8AGJ8GzEP5Tcfint_38.447890_-90.583643@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462601280,
+    "wof:geomhash":"c54012d7b17ad54245d7c9066aa43f61",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080787,
+            "locality_id":85971019,
+            "neighbourhood_id":85817237,
+            "region_id":85688661,
+            "venue_id":806812027
+        }
+    ],
+    "wof:id":806812027,
+    "wof:lastmodified":1462601280,
+    "wof:name":"Forest Lawn Pet Cemetery",
+    "wof:parent_id":85817237,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "crematory",
+        "cemetery"
+    ]
+},
+  "bbox": [
+    -90.583643,
+    38.44789,
+    -90.583643,
+    38.44789
+],
+  "geometry": {"coordinates":[-90.583643,38.44789],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 807061069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.402274,38.213505,-90.402274,38.213505",
+    "geom:latitude":38.213505,
+    "geom:longitude":-90.402274,
+    "iso:country":"US",
+    "sg:address":"1003 Veterans Blvd",
+    "sg:city":"Festus",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/river-view/42220-bob-evans/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 933 5099",
+    "sg:postcode":"63028",
+    "sg:province":"MO",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420525375,
+        102191575,
+        404518225,
+        85633793,
+        85971003,
+        102080787,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2CA9qXDXGIO4xsYotqOxaK_38.213505_-90.402274@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462603379,
+    "wof:geomhash":"8a9ac41f0b86ca4b9a4ee70c7844ba28",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080787,
+            "localadmin_id":404518225,
+            "locality_id":85971003,
+            "neighbourhood_id":420525375,
+            "region_id":85688661,
+            "venue_id":807061069
+        }
+    ],
+    "wof:id":807061069,
+    "wof:lastmodified":1462603379,
+    "wof:name":"Bob Evans",
+    "wof:parent_id":420525375,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -90.402274,
+    38.213505,
+    -90.402274,
+    38.213505
+],
+  "geometry": {"coordinates":[-90.40227400000001,38.213505],"type":"Point"}
+}

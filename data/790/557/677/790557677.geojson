@@ -1,0 +1,84 @@
+{
+  "id": 790557677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.22249,38.638856,-90.22249,38.638856",
+    "geom:latitude":38.638856,
+    "geom:longitude":-90.22249,
+    "iso:country":"US",
+    "sg:address":"3001 Delmar Blvd",
+    "sg:city":"St Louis",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Electrical",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 535 6800",
+    "sg:postcode":"63103",
+    "sg:province":"MO",
+    "sg:tags":[
+        "electric",
+        "motor",
+        "sales"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873637,
+        102191575,
+        404518053,
+        85633793,
+        85971343,
+        102080791,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2vHc76jQoR7haKZYBEtfEQ_38.638856_-90.222490@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462596858,
+    "wof:geomhash":"9f038af6217dc027c9cd4cd655cfaace",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080791,
+            "localadmin_id":404518053,
+            "locality_id":85971343,
+            "neighbourhood_id":85873637,
+            "region_id":85688661,
+            "venue_id":790557677
+        }
+    ],
+    "wof:id":790557677,
+    "wof:lastmodified":1462596858,
+    "wof:name":"Missouri Electric Motor Co",
+    "wof:parent_id":85873637,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "motor",
+        "sales"
+    ]
+},
+  "bbox": [
+    -90.22249,
+    38.638856,
+    -90.22249,
+    38.638856
+],
+  "geometry": {"coordinates":[-90.22248999999999,38.638856],"type":"Point"}
+}

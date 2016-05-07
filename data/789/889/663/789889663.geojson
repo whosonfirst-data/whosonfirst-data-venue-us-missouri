@@ -1,0 +1,80 @@
+{
+  "id": 789889663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.576206,39.136348,-94.576206,39.136348",
+    "geom:latitude":39.136348,
+    "geom:longitude":-94.576206,
+    "iso:country":"US",
+    "sg:address":"1520 Erie St",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 221 5162",
+    "sg:postcode":"64116",
+    "sg:province":"MO",
+    "sg:tags":[
+        "delivery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85867025,
+        102191575,
+        404518075,
+        85633793,
+        85970739,
+        102081227,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3v1gSYpFw4tHPqacCvJg2I_39.136348_-94.576206@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462591368,
+    "wof:geomhash":"10214963d355b16b7730f0049d5a0a45",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081227,
+            "localadmin_id":404518075,
+            "locality_id":85970739,
+            "neighbourhood_id":85867025,
+            "region_id":85688661,
+            "venue_id":789889663
+        }
+    ],
+    "wof:id":789889663,
+    "wof:lastmodified":1462591368,
+    "wof:name":"Custom Courier Solutions LLC",
+    "wof:parent_id":85867025,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "delivery"
+    ]
+},
+  "bbox": [
+    -94.576206,
+    39.136348,
+    -94.576206,
+    39.136348
+],
+  "geometry": {"coordinates":[-94.576206,39.136348],"type":"Point"}
+}

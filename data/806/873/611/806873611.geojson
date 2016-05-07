@@ -1,0 +1,89 @@
+{
+  "id": 806873611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.214427,38.701952,-90.214427,38.701952",
+    "geom:latitude":38.701952,
+    "geom:longitude":-90.214427,
+    "iso:country":"US",
+    "sg:address":"150 Humboldt Ave",
+    "sg:city":"St Louis",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        },
+        {
+            "category":"Education",
+            "subcategory":"Vocational School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 382 0002",
+    "sg:postcode":"63147",
+    "sg:province":"MO",
+    "sg:tags":[
+        "technical",
+        "terminal",
+        "trade",
+        "truck",
+        "facility"
+    ],
+    "sg:website":"www.c-1truckdrivertraining.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85804181,
+        102191575,
+        404518053,
+        85633793,
+        85971343,
+        102080791,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2s6V4KFAToaZP8RoV5ZJcZ_38.701952_-90.214427@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462601799,
+    "wof:geomhash":"d676b52e123b537541fb26dbf561bc91",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080791,
+            "localadmin_id":404518053,
+            "locality_id":85971343,
+            "neighbourhood_id":85804181,
+            "region_id":85688661,
+            "venue_id":806873611
+        }
+    ],
+    "wof:id":806873611,
+    "wof:lastmodified":1462601799,
+    "wof:name":"C 1 Truck Driver Training",
+    "wof:parent_id":85804181,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "technical",
+        "terminal",
+        "trade",
+        "truck",
+        "facility"
+    ]
+},
+  "bbox": [
+    -90.214427,
+    38.701952,
+    -90.214427,
+    38.701952
+],
+  "geometry": {"coordinates":[-90.214427,38.701952],"type":"Point"}
+}

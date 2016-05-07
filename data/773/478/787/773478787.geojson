@@ -1,0 +1,74 @@
+{
+  "id": 773478787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.579504,38.335039,-90.579504,38.335039",
+    "geom:latitude":38.335039,
+    "geom:longitude":-90.579504,
+    "iso:country":"US",
+    "sg:address":"10 Carriage Hills Ct",
+    "sg:city":"Cedar Hill",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 274 7179",
+    "sg:postcode":"63016",
+    "sg:province":"MO",
+    "sg:tags":[
+        "laboratory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85848677,
+        102080787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3zHeUTYRI1QKPdUgkH1Iey_38.335039_-90.579504@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462586065,
+    "wof:geomhash":"53634d1448600bf1dfb0d50b78096fde",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080787,
+            "neighbourhood_id":85848677,
+            "region_id":85688661,
+            "venue_id":773478787
+        }
+    ],
+    "wof:id":773478787,
+    "wof:lastmodified":1462586065,
+    "wof:name":"Mobile Medical Solutions Inc",
+    "wof:parent_id":85848677,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory"
+    ]
+},
+  "bbox": [
+    -90.579504,
+    38.335039,
+    -90.579504,
+    38.335039
+],
+  "geometry": {"coordinates":[-90.579504,38.335039],"type":"Point"}
+}

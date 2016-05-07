@@ -1,0 +1,80 @@
+{
+  "id": 807255005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.326251,38.951487,-92.326251,38.951487",
+    "geom:latitude":38.951487,
+    "geom:longitude":-92.326251,
+    "iso:country":"US",
+    "sg:address":"1025 E Broadway",
+    "sg:city":"Columbia",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"Lounge",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 449 8005",
+    "sg:postcode":"65201",
+    "sg:province":"MO",
+    "sg:tags":[
+        "cocktail"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85835171,
+        102191575,
+        404516389,
+        85633793,
+        85970425,
+        102086187,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5y3ZAYSUddEfKKh2gEjB9H_38.951487_-92.326251@1303262935"
+    },
+    "wof:country":"US",
+    "wof:created":1462605379,
+    "wof:geomhash":"f851ae7401cb335081fd7eae12ab051e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086187,
+            "localadmin_id":404516389,
+            "locality_id":85970425,
+            "neighbourhood_id":85835171,
+            "region_id":85688661,
+            "venue_id":807255005
+        }
+    ],
+    "wof:id":807255005,
+    "wof:lastmodified":1462605379,
+    "wof:name":"Piano Bar",
+    "wof:parent_id":85835171,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cocktail"
+    ]
+},
+  "bbox": [
+    -92.326251,
+    38.951487,
+    -92.326251,
+    38.951487
+],
+  "geometry": {"coordinates":[-92.326251,38.951487],"type":"Point"}
+}

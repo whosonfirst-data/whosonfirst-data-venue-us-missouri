@@ -1,0 +1,71 @@
+{
+  "id": 789904401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.252372,37.209562,-93.252372,37.209562",
+    "geom:latitude":37.209562,
+    "geom:longitude":-93.252372,
+    "iso:country":"US",
+    "sg:address":"2305 E Olive Ct",
+    "sg:city":"Springfield",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 866 1972",
+    "sg:postcode":"65802",
+    "sg:province":"MO",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971363,
+        102087523,
+        85881137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_50nsbVVyEZDlLl9wtxYQPc_37.209562_-93.252372@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462591478,
+    "wof:geomhash":"0f6227ce4bca72913535477cfbce8bdf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087523,
+            "locality_id":85971363,
+            "neighbourhood_id":85881137,
+            "region_id":85688661,
+            "venue_id":789904401
+        }
+    ],
+    "wof:id":789904401,
+    "wof:lastmodified":1462591478,
+    "wof:name":"C&C Assoc",
+    "wof:parent_id":85881137,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -93.252372,
+    37.209562,
+    -93.252372,
+    37.209562
+],
+  "geometry": {"coordinates":[-93.25237199999999,37.209562],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 806516503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.485281,38.784468,-90.485281,38.784468",
+    "geom:latitude":38.784468,
+    "geom:longitude":-90.485281,
+    "iso:country":"US",
+    "sg:address":"205 N 5th St",
+    "sg:city":"St Charles",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 723 8029",
+    "sg:postcode":"63301",
+    "sg:province":"MO",
+    "sg:tags":[
+        "detection",
+        "equipment",
+        "drug"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5SJFI3kKgEa1qh9Ctox44Z_38.784468_-90.485281@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462598765,
+    "wof:geomhash":"e898609825b23664323aa48c07a71eb0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":806516503
+        }
+    ],
+    "wof:id":806516503,
+    "wof:lastmodified":1462598765,
+    "wof:name":"Global Drug Testing Svc",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "detection",
+        "equipment",
+        "drug"
+    ]
+},
+  "bbox": [
+    -90.485281,
+    38.784468,
+    -90.485281,
+    38.784468
+],
+  "geometry": {"coordinates":[-90.485281,38.784468],"type":"Point"}
+}

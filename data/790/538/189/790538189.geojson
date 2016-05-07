@@ -1,0 +1,71 @@
+{
+  "id": 790538189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.846613,38.816253,-90.846613,38.816253",
+    "geom:latitude":38.816253,
+    "geom:longitude":-90.846613,
+    "iso:country":"US",
+    "sg:address":"425 Bus Hwy 61",
+    "sg:city":"Wentzville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 462 5577",
+    "sg:postcode":"63385",
+    "sg:province":"MO",
+    "sg:tags":[
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5N8unAkN9v7CDGmCMBzsWH_38.816253_-90.846613@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462596687,
+    "wof:geomhash":"3228f77bb867c530fc0cb249152d18cb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":790538189
+        }
+    ],
+    "wof:id":790538189,
+    "wof:lastmodified":1462596687,
+    "wof:name":"Budget Towing",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrecker"
+    ]
+},
+  "bbox": [
+    -90.846613,
+    38.816253,
+    -90.846613,
+    38.816253
+],
+  "geometry": {"coordinates":[-90.846613,38.816253],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 773771457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.294976,38.563839,-90.294976,38.563839",
+    "geom:latitude":38.563839,
+    "geom:longitude":-90.294976,
+    "iso:country":"US",
+    "sg:address":"7339 Gravois Ave",
+    "sg:city":"St Louis",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 752 0721",
+    "sg:postcode":"63116",
+    "sg:province":"MO",
+    "sg:tags":[
+        "drug",
+        "store"
+    ],
+    "sg:website":"www.walgreens.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873685,
+        102191575,
+        404518053,
+        85633793,
+        85971343,
+        102080791,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5nx7e9clUceUuoEq1isi2v_38.563839_-90.294976@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462588252,
+    "wof:geomhash":"4d47b00c546fa5922ed1e651abb6cb3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080791,
+            "localadmin_id":404518053,
+            "locality_id":85971343,
+            "neighbourhood_id":85873685,
+            "region_id":85688661,
+            "venue_id":773771457
+        }
+    ],
+    "wof:id":773771457,
+    "wof:lastmodified":1462588252,
+    "wof:name":"Walgreens",
+    "wof:parent_id":85873685,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drug",
+        "store"
+    ]
+},
+  "bbox": [
+    -90.294976,
+    38.563839,
+    -90.294976,
+    38.563839
+],
+  "geometry": {"coordinates":[-90.29497600000001,38.563839],"type":"Point"}
+}

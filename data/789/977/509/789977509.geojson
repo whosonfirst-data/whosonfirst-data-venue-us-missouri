@@ -1,0 +1,73 @@
+{
+  "id": 789977509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.475731,38.801028,-90.475731,38.801028",
+    "geom:latitude":38.801028,
+    "geom:longitude":-90.475731,
+    "iso:country":"US",
+    "sg:address":"2239 N 3rd St",
+    "sg:city":"St Charles",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 916 4455",
+    "sg:postcode":"63301",
+    "sg:province":"MO",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_59HMFJsE1lUZMlaG2xdnTC_38.801028_-90.475731@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462592148,
+    "wof:geomhash":"dd388ecd6726fd53eccc638180c0a064",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":789977509
+        }
+    ],
+    "wof:id":789977509,
+    "wof:lastmodified":1462592148,
+    "wof:name":"All Auto & Air",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -90.475731,
+    38.801028,
+    -90.475731,
+    38.801028
+],
+  "geometry": {"coordinates":[-90.475731,38.801028],"type":"Point"}
+}

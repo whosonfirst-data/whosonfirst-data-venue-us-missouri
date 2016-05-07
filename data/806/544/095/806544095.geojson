@@ -1,0 +1,71 @@
+{
+  "id": 806544095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.491605,38.780587,-90.491605,38.780587",
+    "geom:latitude":38.780587,
+    "geom:longitude":-90.491605,
+    "iso:country":"US",
+    "sg:address":"701 Tompkins St",
+    "sg:city":"Saint Charles",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 946 9071",
+    "sg:postcode":"63301",
+    "sg:province":"MO",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_04R8SNuiTTpbMaGbdSKr0W_38.780587_-90.491605@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462598991,
+    "wof:geomhash":"091e7446af667be71083d9e15cfa97d6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":806544095
+        }
+    ],
+    "wof:id":806544095,
+    "wof:lastmodified":1462598991,
+    "wof:name":"James Felder MD",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -90.491605,
+    38.780587,
+    -90.491605,
+    38.780587
+],
+  "geometry": {"coordinates":[-90.49160500000001,38.780587],"type":"Point"}
+}

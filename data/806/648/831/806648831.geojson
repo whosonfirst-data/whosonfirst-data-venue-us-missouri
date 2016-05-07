@@ -1,0 +1,82 @@
+{
+  "id": 806648831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.627806,37.999429,-91.627806,37.999429",
+    "geom:latitude":37.999429,
+    "geom:longitude":-91.627806,
+    "iso:country":"US",
+    "sg:address":"304 N Outer Rd",
+    "sg:city":"St James",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Auto Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 265 7884",
+    "sg:postcode":"65559",
+    "sg:province":"MO",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970819,
+        102086893,
+        85847353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2q0tHoQhoalyxAkbcf7LkS_37.999429_-91.627806@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462599894,
+    "wof:geomhash":"6ec3e0d30cc538ad45d92c28f9179410",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086893,
+            "locality_id":85970819,
+            "neighbourhood_id":85847353,
+            "region_id":85688661,
+            "venue_id":806648831
+        }
+    ],
+    "wof:id":806648831,
+    "wof:lastmodified":1462599894,
+    "wof:name":"Hutcheson Collision Center",
+    "wof:parent_id":85847353,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting",
+        "supply"
+    ]
+},
+  "bbox": [
+    -91.627806,
+    37.999429,
+    -91.627806,
+    37.999429
+],
+  "geometry": {"coordinates":[-91.62780600000001,37.999429],"type":"Point"}
+}

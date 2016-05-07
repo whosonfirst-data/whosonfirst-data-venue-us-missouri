@@ -1,0 +1,71 @@
+{
+  "id": 807063823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.404843,38.286828,-90.404843,38.286828",
+    "geom:latitude":38.286828,
+    "geom:longitude":-90.404843,
+    "iso:country":"US",
+    "sg:address":"1701 Highway Z",
+    "sg:city":"Pevely",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/joachim/194272-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"63070",
+    "sg:province":"MO",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85848677,
+        102080787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2UykV1jI4TqAt7XiQSvvLv_38.286828_-90.404843@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462603399,
+    "wof:geomhash":"67ca5c8b7e101ecebf69c528ddd4a3e0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080787,
+            "neighbourhood_id":85848677,
+            "region_id":85688661,
+            "venue_id":807063823
+        }
+    ],
+    "wof:id":807063823,
+    "wof:lastmodified":1462603399,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85848677,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -90.404843,
+    38.286828,
+    -90.404843,
+    38.286828
+],
+  "geometry": {"coordinates":[-90.404843,38.286828],"type":"Point"}
+}

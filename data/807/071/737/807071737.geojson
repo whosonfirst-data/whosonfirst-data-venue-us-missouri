@@ -1,0 +1,76 @@
+{
+  "id": 807071737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.704578,38.798359,-90.704578,38.798359",
+    "geom:latitude":38.798359,
+    "geom:longitude":-90.704578,
+    "iso:country":"US",
+    "sg:address":"304 S Service Rd W",
+    "sg:city":"O Fallon",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/lake-st-louis/84009-dominos-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 281 3030",
+    "sg:postcode":"63366",
+    "sg:province":"MO",
+    "sg:tags":[
+        "american",
+        "wing",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Rb4QRH8pBjevUzBzMUYRL_38.798359_-90.704578@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462603459,
+    "wof:geomhash":"ea6476bc46d38c871940768ce29664ef",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":807071737
+        }
+    ],
+    "wof:id":807071737,
+    "wof:lastmodified":1462603459,
+    "wof:name":"Domino's Pizza",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "wing",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -90.704578,
+    38.798359,
+    -90.704578,
+    38.798359
+],
+  "geometry": {"coordinates":[-90.704578,38.798359],"type":"Point"}
+}

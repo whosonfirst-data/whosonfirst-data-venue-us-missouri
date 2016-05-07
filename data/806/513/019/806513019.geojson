@@ -1,0 +1,73 @@
+{
+  "id": 806513019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.520359,37.10319,-94.520359,37.10319",
+    "geom:latitude":37.10319,
+    "geom:longitude":-94.520359,
+    "iso:country":"US",
+    "sg:address":"1001 NW Murphy Blvd",
+    "sg:city":"Joplin",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 623 4702",
+    "sg:postcode":"64801",
+    "sg:province":"MO",
+    "sg:tags":[
+        "federal",
+        "security"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970893,
+        102087525,
+        85810925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5jZj4tV2NF9OFUuRB9B7x1_37.103190_-94.520359@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462598738,
+    "wof:geomhash":"a068e75cbae503545cc0c9748913d4a3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087525,
+            "locality_id":85970893,
+            "neighbourhood_id":85810925,
+            "region_id":85688661,
+            "venue_id":806513019
+        }
+    ],
+    "wof:id":806513019,
+    "wof:lastmodified":1462598738,
+    "wof:name":"US Army Reserve",
+    "wof:parent_id":85810925,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "federal",
+        "security"
+    ]
+},
+  "bbox": [
+    -94.520359,
+    37.10319,
+    -94.520359,
+    37.10319
+],
+  "geometry": {"coordinates":[-94.520359,37.10319],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 789811483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.616028,37.999409,-91.616028,37.999409",
+    "geom:latitude":37.999409,
+    "geom:longitude":-91.616028,
+    "iso:country":"US",
+    "sg:address":"329 N Jefferson St",
+    "sg:city":"St James",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 265 8430",
+    "sg:postcode":"65559",
+    "sg:province":"MO",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "sg:website":"www.hendrixauto.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970819,
+        102086893,
+        85847353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7h3oPci0GwV8HeZvGGTLPg_37.999409_-91.616028@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462590727,
+    "wof:geomhash":"f2a33933433fb8bb5150394352d2e492",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086893,
+            "locality_id":85970819,
+            "neighbourhood_id":85847353,
+            "region_id":85688661,
+            "venue_id":789811483
+        }
+    ],
+    "wof:id":789811483,
+    "wof:lastmodified":1462590727,
+    "wof:name":"Hendrix Auto Sales",
+    "wof:parent_id":85847353,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -91.616028,
+    37.999409,
+    -91.616028,
+    37.999409
+],
+  "geometry": {"coordinates":[-91.616028,37.999409],"type":"Point"}
+}

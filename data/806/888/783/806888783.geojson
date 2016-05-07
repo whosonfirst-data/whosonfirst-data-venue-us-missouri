@@ -1,0 +1,71 @@
+{
+  "id": 806888783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.583531,39.397796,-94.583531,39.397796",
+    "geom:latitude":39.397796,
+    "geom:longitude":-94.583531,
+    "iso:country":"US",
+    "sg:address":"601 US Hwy 169",
+    "sg:city":"Smithville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 532 7160",
+    "sg:postcode":"64089",
+    "sg:province":"MO",
+    "sg:tags":[
+        "mental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970739,
+        102086177,
+        85836329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1p3egZZSkYo4JmduUPZ6F2_39.397796_-94.583531@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462601920,
+    "wof:geomhash":"f2286946c9694f68807d43405252c955",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086177,
+            "locality_id":85970739,
+            "neighbourhood_id":85836329,
+            "region_id":85688661,
+            "venue_id":806888783
+        }
+    ],
+    "wof:id":806888783,
+    "wof:lastmodified":1462601920,
+    "wof:name":"Saint Luke's Health System",
+    "wof:parent_id":85836329,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mental"
+    ]
+},
+  "bbox": [
+    -94.583531,
+    39.397796,
+    -94.583531,
+    39.397796
+],
+  "geometry": {"coordinates":[-94.58353099999999,39.397796],"type":"Point"}
+}

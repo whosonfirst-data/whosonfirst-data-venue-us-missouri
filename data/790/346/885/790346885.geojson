@@ -1,0 +1,76 @@
+{
+  "id": 790346885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.39978,38.21941,-90.39978,38.21941",
+    "geom:latitude":38.21941,
+    "geom:longitude":-90.39978,
+    "iso:country":"US",
+    "sg:address":"100 Park Ave",
+    "sg:city":"Festus",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 931 3646",
+    "sg:postcode":"63028",
+    "sg:province":"MO",
+    "sg:tags":[
+        "department"
+    ],
+    "sg:website":"www.cityoffestus.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420525375,
+        102191575,
+        404518225,
+        85633793,
+        85971003,
+        102080787,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5UzOs9Rn8WaKsGPRkE1zp4_38.219410_-90.399780@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462595114,
+    "wof:geomhash":"2dfeeaac017c33e1f46ee908c242bf7d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080787,
+            "localadmin_id":404518225,
+            "locality_id":85971003,
+            "neighbourhood_id":420525375,
+            "region_id":85688661,
+            "venue_id":790346885
+        }
+    ],
+    "wof:id":790346885,
+    "wof:lastmodified":1462595114,
+    "wof:name":"Festus Police Dept",
+    "wof:parent_id":420525375,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -90.39978,
+    38.21941,
+    -90.39978,
+    38.21941
+],
+  "geometry": {"coordinates":[-90.39978000000001,38.21941],"type":"Point"}
+}

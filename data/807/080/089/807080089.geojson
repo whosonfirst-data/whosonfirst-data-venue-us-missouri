@@ -1,0 +1,78 @@
+{
+  "id": 807080089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.588288,39.103311,-94.588288,39.103311",
+    "geom:latitude":39.103311,
+    "geom:longitude":-94.588288,
+    "iso:country":"US",
+    "sg:address":"931 Broadway Blvd",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/kaw/10163-the-majestic-steakhouse/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 471 8484",
+    "sg:postcode":"64105",
+    "sg:province":"MO",
+    "sg:tags":[
+        "american",
+        "steakhouse"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872005,
+        102191575,
+        404518075,
+        85633793,
+        85970739,
+        102081227,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5pjhTuZHIQWGAyh1j8zPAc_39.103311_-94.588288@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462603533,
+    "wof:geomhash":"245ab5f1559b7033d6ca2301a54a9627",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081227,
+            "localadmin_id":404518075,
+            "locality_id":85970739,
+            "neighbourhood_id":85872005,
+            "region_id":85688661,
+            "venue_id":807080089
+        }
+    ],
+    "wof:id":807080089,
+    "wof:lastmodified":1462603533,
+    "wof:name":"The Majestic Steakhouse",
+    "wof:parent_id":85872005,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "steakhouse"
+    ]
+},
+  "bbox": [
+    -94.588288,
+    39.103311,
+    -94.588288,
+    39.103311
+],
+  "geometry": {"coordinates":[-94.58828800000001,39.103311],"type":"Point"}
+}

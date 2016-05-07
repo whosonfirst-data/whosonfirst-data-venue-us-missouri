@@ -1,0 +1,71 @@
+{
+  "id": 773587797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.495107,38.785604,-90.495107,38.785604",
+    "geom:latitude":38.785604,
+    "geom:longitude":-90.495107,
+    "iso:country":"US",
+    "sg:address":"1045 Jefferson St",
+    "sg:city":"Saint Charles",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 947 9677",
+    "sg:postcode":"63301",
+    "sg:province":"MO",
+    "sg:tags":[
+        "self"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Jhs485anveBUxRPNvRGNX_38.785604_-90.495107@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462586857,
+    "wof:geomhash":"72bb9b92d486bc5fa199639740c23d1b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":773587797
+        }
+    ],
+    "wof:id":773587797,
+    "wof:lastmodified":1462586857,
+    "wof:name":"Mid Town Car Wash",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "self"
+    ]
+},
+  "bbox": [
+    -90.495107,
+    38.785604,
+    -90.495107,
+    38.785604
+],
+  "geometry": {"coordinates":[-90.495107,38.785604],"type":"Point"}
+}

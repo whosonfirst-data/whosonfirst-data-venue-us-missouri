@@ -1,0 +1,78 @@
+{
+  "id": 807068759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.312195,38.746532,-90.312195,38.746532",
+    "geom:latitude":38.746532,
+    "geom:longitude":-90.312195,
+    "iso:country":"US",
+    "sg:address":"510 Airport Rd",
+    "sg:city":"Saint Louis",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/norwood/86485-imos-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 522 9000",
+    "sg:postcode":"63135",
+    "sg:province":"MO",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85859027,
+        102191575,
+        404517247,
+        85633793,
+        85972205,
+        102086173,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Wm3TumVHSf5T4hupdutwY_38.746532_-90.312195@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462603436,
+    "wof:geomhash":"29dfab3630bd301c6176eace48e0a8c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086173,
+            "localadmin_id":404517247,
+            "locality_id":85972205,
+            "neighbourhood_id":85859027,
+            "region_id":85688661,
+            "venue_id":807068759
+        }
+    ],
+    "wof:id":807068759,
+    "wof:lastmodified":1462603436,
+    "wof:name":"Imo's Pizza",
+    "wof:parent_id":85859027,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -90.312195,
+    38.746532,
+    -90.312195,
+    38.746532
+],
+  "geometry": {"coordinates":[-90.312195,38.746532],"type":"Point"}
+}

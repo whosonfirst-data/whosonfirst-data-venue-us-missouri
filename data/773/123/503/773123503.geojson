@@ -1,0 +1,76 @@
+{
+  "id": 773123503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.354435,39.138431,-94.354435,39.138431",
+    "geom:latitude":39.138431,
+    "geom:longitude":-94.354435,
+    "iso:country":"US",
+    "sg:address":"1809 N Lazy Branch Rd",
+    "sg:city":"Independence",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        },
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 796 8344",
+    "sg:postcode":"64058",
+    "sg:province":"MO",
+    "sg:tags":[
+        "mental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971449,
+        102081227,
+        85844675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4yxio5uQEQa8cypHNFev5d_39.138431_-94.354435@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462583320,
+    "wof:geomhash":"f9c143f481b31587b21e6dc6cd202ec7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081227,
+            "locality_id":85971449,
+            "neighbourhood_id":85844675,
+            "region_id":85688661,
+            "venue_id":773123503
+        }
+    ],
+    "wof:id":773123503,
+    "wof:lastmodified":1462583320,
+    "wof:name":"Family Practice Center",
+    "wof:parent_id":85844675,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mental"
+    ]
+},
+  "bbox": [
+    -94.354435,
+    39.138431,
+    -94.354435,
+    39.138431
+],
+  "geometry": {"coordinates":[-94.354435,39.138431],"type":"Point"}
+}

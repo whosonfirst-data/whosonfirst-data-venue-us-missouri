@@ -1,0 +1,71 @@
+{
+  "id": 789992877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.398367,37.198085,-93.398367,37.198085",
+    "geom:latitude":37.198085,
+    "geom:longitude":-93.398367,
+    "iso:country":"US",
+    "sg:address":"5684 W Farm Rd 140",
+    "sg:city":"Springfield",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 831 0490",
+    "sg:postcode":"65802",
+    "sg:province":"MO",
+    "sg:tags":[
+        "refrigeration"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971363,
+        102087523,
+        85881139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4f3330qMkNuRWZHwtMr6gS_37.198085_-93.398367@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462592272,
+    "wof:geomhash":"9a565a92ac57eb43722e8a235fb7a6da",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087523,
+            "locality_id":85971363,
+            "neighbourhood_id":85881139,
+            "region_id":85688661,
+            "venue_id":789992877
+        }
+    ],
+    "wof:id":789992877,
+    "wof:lastmodified":1462592272,
+    "wof:name":"Preston Service",
+    "wof:parent_id":85881139,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "refrigeration"
+    ]
+},
+  "bbox": [
+    -93.398367,
+    37.198085,
+    -93.398367,
+    37.198085
+],
+  "geometry": {"coordinates":[-93.39836699999999,37.198085],"type":"Point"}
+}

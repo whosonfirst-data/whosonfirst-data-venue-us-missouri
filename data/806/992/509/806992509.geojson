@@ -1,0 +1,86 @@
+{
+  "id": 806992509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.397909,39.685427,-91.397909,39.685427",
+    "geom:latitude":39.685427,
+    "geom:longitude":-91.397909,
+    "iso:country":"US",
+    "sg:address":"3716 Market St",
+    "sg:city":"Hannibal",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 221 2747",
+    "sg:postcode":"63401",
+    "sg:province":"MO",
+    "sg:tags":[
+        "elementary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85843695,
+        102191575,
+        404516821,
+        85633793,
+        85970335,
+        102086171,
+        85688661,
+        420525383
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_03rXmP41iTMql1JD4gHeDZ_39.685336_-91.398325@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1462602794,
+    "wof:geomhash":"1082371b0072bf042b1fcb1fcfc8cc90",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086171,
+            "localadmin_id":404516821,
+            "locality_id":85970335,
+            "neighbourhood_id":85843695,
+            "region_id":85688661,
+            "venue_id":806992509
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086171,
+            "localadmin_id":404516821,
+            "locality_id":85970335,
+            "neighbourhood_id":420525383,
+            "region_id":85688661,
+            "venue_id":806992509
+        }
+    ],
+    "wof:id":806992509,
+    "wof:lastmodified":1462602794,
+    "wof:name":"Oakwood Elementary School",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "elementary"
+    ]
+},
+  "bbox": [
+    -91.397909,
+    39.685427,
+    -91.397909,
+    39.685427
+],
+  "geometry": {"coordinates":[-91.397909,39.685427],"type":"Point"}
+}

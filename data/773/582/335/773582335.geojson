@@ -1,0 +1,73 @@
+{
+  "id": 773582335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.229549,39.435102,-94.229549,39.435102",
+    "geom:latitude":39.435102,
+    "geom:longitude":-94.229549,
+    "iso:country":"US",
+    "sg:address":"18857 US Hwy 69",
+    "sg:city":"Lawson",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 580 3335",
+    "sg:postcode":"64062",
+    "sg:province":"MO",
+    "sg:tags":[
+        "hospital",
+        "animal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971507,
+        102086177,
+        85822189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1vlLlIknRAiVNKnaUbOiAY_39.435102_-94.229549@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462586820,
+    "wof:geomhash":"a008d8c016205d50d2c7d977a618aeac",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086177,
+            "locality_id":85971507,
+            "neighbourhood_id":85822189,
+            "region_id":85688661,
+            "venue_id":773582335
+        }
+    ],
+    "wof:id":773582335,
+    "wof:lastmodified":1462586820,
+    "wof:name":"Lawson Animal Hospital",
+    "wof:parent_id":85822189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hospital",
+        "animal"
+    ]
+},
+  "bbox": [
+    -94.229549,
+    39.435102,
+    -94.229549,
+    39.435102
+],
+  "geometry": {"coordinates":[-94.22954900000001,39.435102],"type":"Point"}
+}

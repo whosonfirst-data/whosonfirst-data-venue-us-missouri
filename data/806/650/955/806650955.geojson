@@ -1,0 +1,71 @@
+{
+  "id": 806650955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.567927,39.333505,-94.567927,39.333505",
+    "geom:latitude":39.333505,
+    "geom:longitude":-94.567927,
+    "iso:country":"US",
+    "sg:address":"905 Aspen Dr",
+    "sg:city":"Smithville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Portrait Studio",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 532 0088",
+    "sg:postcode":"64089",
+    "sg:province":"MO",
+    "sg:tags":[
+        "photo"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970739,
+        102086177,
+        85836329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6PwzVKzX2yFD81JT7mXbNd_39.333505_-94.567927@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462599914,
+    "wof:geomhash":"d1b8804e944fb4fab052c6b4fd1829b8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086177,
+            "locality_id":85970739,
+            "neighbourhood_id":85836329,
+            "region_id":85688661,
+            "venue_id":806650955
+        }
+    ],
+    "wof:id":806650955,
+    "wof:lastmodified":1462599914,
+    "wof:name":"Aspen Photography",
+    "wof:parent_id":85836329,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "photo"
+    ]
+},
+  "bbox": [
+    -94.567927,
+    39.333505,
+    -94.567927,
+    39.333505
+],
+  "geometry": {"coordinates":[-94.567927,39.333505],"type":"Point"}
+}

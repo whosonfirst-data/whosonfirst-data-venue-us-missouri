@@ -1,0 +1,75 @@
+{
+  "id": 806510649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.617609,37.99846,-91.617609,37.99846",
+    "geom:latitude":37.99846,
+    "geom:longitude":-91.617609,
+    "iso:country":"US",
+    "sg:address":"218 W James Blvd",
+    "sg:city":"St James",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 265 8738",
+    "sg:postcode":"65559",
+    "sg:province":"MO",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970819,
+        102086893,
+        85847353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1g3E2ZOQjPsLz9i9h9bkSu_37.998460_-91.617609@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462598722,
+    "wof:geomhash":"dd98864f7417cd37fc1a4f1e95459b87",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086893,
+            "locality_id":85970819,
+            "neighbourhood_id":85847353,
+            "region_id":85688661,
+            "venue_id":806510649
+        }
+    ],
+    "wof:id":806510649,
+    "wof:lastmodified":1462598722,
+    "wof:name":"Daniels Garage",
+    "wof:parent_id":85847353,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ]
+},
+  "bbox": [
+    -91.617609,
+    37.99846,
+    -91.617609,
+    37.99846
+],
+  "geometry": {"coordinates":[-91.617609,37.99846],"type":"Point"}
+}

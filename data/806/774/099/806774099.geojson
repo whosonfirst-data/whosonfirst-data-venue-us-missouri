@@ -1,0 +1,71 @@
+{
+  "id": 806774099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.381739,38.47558,-90.381739,38.47558",
+    "geom:latitude":38.47558,
+    "geom:longitude":-90.381739,
+    "iso:country":"US",
+    "sg:address":"5751 Greenton Way",
+    "sg:city":"St Louis",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 487 5354",
+    "sg:postcode":"63128",
+    "sg:province":"MO",
+    "sg:tags":[
+        "engineer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971021,
+        102080787,
+        85832925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7IrAa0236eJkPKqsCPOYK4_38.475580_-90.381739@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462600967,
+    "wof:geomhash":"a729b0745c1c8ff8d3abe86e40473daa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080787,
+            "locality_id":85971021,
+            "neighbourhood_id":85832925,
+            "region_id":85688661,
+            "venue_id":806774099
+        }
+    ],
+    "wof:id":806774099,
+    "wof:lastmodified":1462600967,
+    "wof:name":"Cmv Engineering",
+    "wof:parent_id":85832925,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "engineer"
+    ]
+},
+  "bbox": [
+    -90.381739,
+    38.47558,
+    -90.381739,
+    38.47558
+],
+  "geometry": {"coordinates":[-90.381739,38.47558],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 807062791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.46433,38.749669,-90.46433,38.749669",
+    "geom:latitude":38.749669,
+    "geom:longitude":-90.46433,
+    "iso:country":"US",
+    "sg:address":"13565 Riverport Dr",
+    "sg:city":"Maryland Heights",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/northwest/190864-burger-king/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 209 7501",
+    "sg:postcode":"63043",
+    "sg:province":"MO",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972341,
+        102086173,
+        85806637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_62DnY8tjJuD6dkRMokG2Gb_38.749669_-90.464330@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462603392,
+    "wof:geomhash":"516caeb575ce3ba08a62e9f97f7bbd2e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086173,
+            "locality_id":85972341,
+            "neighbourhood_id":85806637,
+            "region_id":85688661,
+            "venue_id":807062791
+        }
+    ],
+    "wof:id":807062791,
+    "wof:lastmodified":1462603392,
+    "wof:name":"Burger King",
+    "wof:parent_id":85806637,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -90.46433,
+    38.749669,
+    -90.46433,
+    38.749669
+],
+  "geometry": {"coordinates":[-90.46433,38.749669],"type":"Point"}
+}

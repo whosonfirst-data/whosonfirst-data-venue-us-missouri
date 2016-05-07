@@ -1,0 +1,71 @@
+{
+  "id": 789895351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.389807,38.396605,-90.389807,38.396605",
+    "geom:latitude":38.396605,
+    "geom:longitude":-90.389807,
+    "iso:country":"US",
+    "sg:address":"1664 Shane Dr",
+    "sg:city":"Imperial",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 461 2822",
+    "sg:postcode":"63052",
+    "sg:province":"MO",
+    "sg:tags":[
+        "home",
+        "care"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85805175,
+        102080787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_262B8et6RBfwdJU7NU6pNu_38.396605_-90.389807@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462591408,
+    "wof:geomhash":"633053e1c235d8502bbb8938adbd47f4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080787,
+            "neighbourhood_id":85805175,
+            "region_id":85688661,
+            "venue_id":789895351
+        }
+    ],
+    "wof:id":789895351,
+    "wof:lastmodified":1462591408,
+    "wof:name":"Caring Companion",
+    "wof:parent_id":85805175,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "care"
+    ]
+},
+  "bbox": [
+    -90.389807,
+    38.396605,
+    -90.389807,
+    38.396605
+],
+  "geometry": {"coordinates":[-90.389807,38.396605],"type":"Point"}
+}

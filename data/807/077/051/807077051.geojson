@@ -1,0 +1,74 @@
+{
+  "id": 807077051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.249161,39.338435,-94.249161,39.338435",
+    "geom:latitude":39.338435,
+    "geom:longitude":-94.249161,
+    "iso:country":"US",
+    "sg:address":"101 Crown Hill Rd",
+    "sg:city":"Excelsior Springs",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/fishing-river/65774-pizza-hut/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 630 6026",
+    "sg:postcode":"64024",
+    "sg:province":"MO",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971507,
+        102086177,
+        85812855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1CkBFqz7dau4ZcpjUJrdoy_39.338435_-94.249161@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462603510,
+    "wof:geomhash":"334a9826f38671b43410e172323c070e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086177,
+            "locality_id":85971507,
+            "neighbourhood_id":85812855,
+            "region_id":85688661,
+            "venue_id":807077051
+        }
+    ],
+    "wof:id":807077051,
+    "wof:lastmodified":1462603510,
+    "wof:name":"Pizza Hut",
+    "wof:parent_id":85812855,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -94.249161,
+    39.338435,
+    -94.249161,
+    39.338435
+],
+  "geometry": {"coordinates":[-94.249161,39.338435],"type":"Point"}
+}

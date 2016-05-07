@@ -1,0 +1,71 @@
+{
+  "id": 789836297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.604665,38.790571,-90.604665,38.790571",
+    "geom:latitude":38.790571,
+    "geom:longitude":-90.604665,
+    "iso:country":"US",
+    "sg:address":"7429 Mexico Rd",
+    "sg:city":"St Peters",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Professional Association",
+            "type":"Services"
+        },
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 278 3358",
+    "sg:postcode":"63376",
+    "sg:province":"MO",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4LBaxjUDTxZfKt7kfEhOdL_38.790571_-90.604665@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462590915,
+    "wof:geomhash":"22a99c85600e2bce62e8b0129946db9d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":789836297
+        }
+    ],
+    "wof:id":789836297,
+    "wof:lastmodified":1462590915,
+    "wof:name":"YMCA Outreach",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.604665,
+    38.790571,
+    -90.604665,
+    38.790571
+],
+  "geometry": {"coordinates":[-90.604665,38.790571],"type":"Point"}
+}

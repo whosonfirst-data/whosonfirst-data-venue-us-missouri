@@ -1,0 +1,74 @@
+{
+  "id": 789848301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.678739,39.289232,-94.678739,39.289232",
+    "geom:latitude":39.289232,
+    "geom:longitude":-94.678739,
+    "iso:country":"US",
+    "sg:address":"10839 NW Ambassador Dr",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 891 7867",
+    "sg:postcode":"64153",
+    "sg:province":"MO",
+    "sg:tags":[
+        "broker",
+        "trucking"
+    ],
+    "sg:website":"www.scarbrough-intl.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970739,
+        102085271,
+        85851839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3jo65JHEvtxCIxornqF3av_39.289232_-94.678739@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462591015,
+    "wof:geomhash":"23647cd058a5d782545c76133285d16b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085271,
+            "locality_id":85970739,
+            "neighbourhood_id":85851839,
+            "region_id":85688661,
+            "venue_id":789848301
+        }
+    ],
+    "wof:id":789848301,
+    "wof:lastmodified":1462591015,
+    "wof:name":"Scarbrough Logistics",
+    "wof:parent_id":85851839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "broker",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -94.678739,
+    39.289232,
+    -94.678739,
+    39.289232
+],
+  "geometry": {"coordinates":[-94.67873899999999,39.289232],"type":"Point"}
+}

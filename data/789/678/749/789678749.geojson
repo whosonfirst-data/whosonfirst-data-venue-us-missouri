@@ -1,0 +1,75 @@
+{
+  "id": 789678749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.199478,38.63389,-90.199478,38.63389",
+    "geom:latitude":38.63389,
+    "geom:longitude":-90.199478,
+    "iso:country":"US",
+    "sg:address":"1422 Delmar Blvd",
+    "sg:city":"St Louis",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 421 1929",
+    "sg:postcode":"63103",
+    "sg:province":"MO",
+    "sg:tags":[
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873641,
+        102191575,
+        404518053,
+        85633793,
+        85971343,
+        102080791,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2hjQdpfLmmJP5OOHifCodT_38.633890_-90.199478@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462589690,
+    "wof:geomhash":"4a52a4ec677b71dc1f70c67aebc1543d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080791,
+            "localadmin_id":404518053,
+            "locality_id":85971343,
+            "neighbourhood_id":85873641,
+            "region_id":85688661,
+            "venue_id":789678749
+        }
+    ],
+    "wof:id":789678749,
+    "wof:lastmodified":1462589690,
+    "wof:name":"Stepp Drayage",
+    "wof:parent_id":85873641,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -90.199478,
+    38.63389,
+    -90.199478,
+    38.63389
+],
+  "geometry": {"coordinates":[-90.199478,38.63389],"type":"Point"}
+}

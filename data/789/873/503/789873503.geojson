@@ -1,0 +1,71 @@
+{
+  "id": 789873503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.168421,37.251491,-93.168421,37.251491",
+    "geom:latitude":37.251491,
+    "geom:longitude":-93.168421,
+    "iso:country":"US",
+    "sg:address":"3321 N Cartage Ln",
+    "sg:city":"Strafford",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 831 9160",
+    "sg:postcode":"65757",
+    "sg:province":"MO",
+    "sg:tags":[
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971363,
+        102087523,
+        85881137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4X5OEMBVJbCNmYkeZp68rv_37.251491_-93.168421@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462591213,
+    "wof:geomhash":"f039bb8f41784900907c781534c85655",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087523,
+            "locality_id":85971363,
+            "neighbourhood_id":85881137,
+            "region_id":85688661,
+            "venue_id":789873503
+        }
+    ],
+    "wof:id":789873503,
+    "wof:lastmodified":1462591213,
+    "wof:name":"Estes Express Lines Inc",
+    "wof:parent_id":85881137,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -93.168421,
+    37.251491,
+    -93.168421,
+    37.251491
+],
+  "geometry": {"coordinates":[-93.168421,37.251491],"type":"Point"}
+}

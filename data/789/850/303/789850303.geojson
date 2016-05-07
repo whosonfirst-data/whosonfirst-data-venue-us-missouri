@@ -1,0 +1,71 @@
+{
+  "id": 789850303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.627366,37.77699,-90.627366,37.77699",
+    "geom:latitude":37.77699,
+    "geom:longitude":-90.627366,
+    "iso:country":"US",
+    "sg:address":"1400 Cedar St",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Job Training",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 734 9932",
+    "sg:postcode":"63624",
+    "sg:province":"MO",
+    "sg:tags":[
+        "rehabilitation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970665,
+        102085297,
+        85816309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1kfh8LqmG0U7uSNd8LIBH1_37.776990_-90.627366@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462591029,
+    "wof:geomhash":"e543fe090fccaa4683ac14b773a28753",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085297,
+            "locality_id":85970665,
+            "neighbourhood_id":85816309,
+            "region_id":85688661,
+            "venue_id":789850303
+        }
+    ],
+    "wof:id":789850303,
+    "wof:lastmodified":1462591029,
+    "wof:name":"Rehab Systems Inc",
+    "wof:parent_id":85816309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "rehabilitation"
+    ]
+},
+  "bbox": [
+    -90.627366,
+    37.77699,
+    -90.627366,
+    37.77699
+],
+  "geometry": {"coordinates":[-90.62736599999999,37.77699],"type":"Point"}
+}

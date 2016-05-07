@@ -1,0 +1,83 @@
+{
+  "id": 806735519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.384479,38.558816,-90.384479,38.558816",
+    "geom:latitude":38.558816,
+    "geom:longitude":-90.384479,
+    "iso:country":"US",
+    "sg:address":"214 Crestwood Plz",
+    "sg:city":"St Louis",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 962 4771",
+    "sg:postcode":"63126",
+    "sg:province":"MO",
+    "sg:tags":[
+        "telephone",
+        "cellular"
+    ],
+    "sg:website":"www.radioshack.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85858243,
+        102191575,
+        404517253,
+        85633793,
+        85972177,
+        102086173,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_38jLjy8HXwOar11iHwHsPG_38.558816_-90.384479@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462600628,
+    "wof:geomhash":"cfd8f00cb7ce5db1fc711896d77c405e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086173,
+            "localadmin_id":404517253,
+            "locality_id":85972177,
+            "neighbourhood_id":85858243,
+            "region_id":85688661,
+            "venue_id":806735519
+        }
+    ],
+    "wof:id":806735519,
+    "wof:lastmodified":1462600628,
+    "wof:name":"Radio Shack",
+    "wof:parent_id":85858243,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "telephone",
+        "cellular"
+    ]
+},
+  "bbox": [
+    -90.384479,
+    38.558816,
+    -90.384479,
+    38.558816
+],
+  "geometry": {"coordinates":[-90.384479,38.558816],"type":"Point"}
+}

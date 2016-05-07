@@ -1,0 +1,71 @@
+{
+  "id": 790574875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.563878,37.174751,-94.563878,37.174751",
+    "geom:latitude":37.174751,
+    "geom:longitude":-94.563878,
+    "iso:country":"US",
+    "sg:address":"302 Joplin St",
+    "sg:city":"Carl Junction",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 781 4788",
+    "sg:postcode":"64834",
+    "sg:province":"MO",
+    "sg:tags":[
+        "clinic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970893,
+        102087525,
+        85810925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0jsV8opRBJJnWAudxZVJeh_37.174751_-94.563878@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462596998,
+    "wof:geomhash":"ee9f04116dcf04506a90485c50a2fd87",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087525,
+            "locality_id":85970893,
+            "neighbourhood_id":85810925,
+            "region_id":85688661,
+            "venue_id":790574875
+        }
+    ],
+    "wof:id":790574875,
+    "wof:lastmodified":1462596998,
+    "wof:name":"Family Planning Clinic",
+    "wof:parent_id":85810925,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic"
+    ]
+},
+  "bbox": [
+    -94.563878,
+    37.174751,
+    -94.563878,
+    37.174751
+],
+  "geometry": {"coordinates":[-94.563878,37.174751],"type":"Point"}
+}

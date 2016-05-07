@@ -1,0 +1,83 @@
+{
+  "id": 807097997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.274943,38.611007,-90.274943,38.611007",
+    "geom:latitude":38.611007,
+    "geom:longitude":-90.274943,
+    "iso:country":"US",
+    "sg:address":"5224 Columbia Ave",
+    "sg:city":"Saint Louis",
+    "sg:classifiers":[
+        {
+            "category":"Deli",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/st-louis/40408-southwest-market-cuisine/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 776 5220",
+    "sg:postcode":"63139",
+    "sg:province":"MO",
+    "sg:tags":[
+        "deli",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85867039,
+        102191575,
+        404518053,
+        85633793,
+        85971343,
+        102080791,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3idFf9W25Gh9S8BAqadJV3_38.610853_-90.273791@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1462603699,
+    "wof:geomhash":"e95b63accafa7425177ae641785f7afe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080791,
+            "localadmin_id":404518053,
+            "locality_id":85971343,
+            "neighbourhood_id":85867039,
+            "region_id":85688661,
+            "venue_id":807097997
+        }
+    ],
+    "wof:id":807097997,
+    "wof:lastmodified":1462603699,
+    "wof:name":"Southwest Market Cuisine",
+    "wof:parent_id":85867039,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "deli",
+        "american"
+    ]
+},
+  "bbox": [
+    -90.274943,
+    38.611007,
+    -90.274943,
+    38.611007
+],
+  "geometry": {"coordinates":[-90.27494299999999,38.611007],"type":"Point"}
+}

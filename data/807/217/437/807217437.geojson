@@ -1,0 +1,93 @@
+{
+  "id": 807217437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.419292,39.238932,-94.419292,39.238932",
+    "geom:latitude":39.238932,
+    "geom:longitude":-94.419292,
+    "iso:country":"US",
+    "sg:address":"117 E Brown St",
+    "sg:city":"Liberty",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 781 0127",
+    "sg:postcode":"64068",
+    "sg:province":"MO",
+    "sg:tags":[
+        "cleaner",
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420525305,
+        102191575,
+        404516717,
+        85633793,
+        85972461,
+        102086177,
+        85688661,
+        420525367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6rHZaZdi8bqqfJ3fyvfmme_39.238932_-94.419292@1303262932"
+    },
+    "wof:country":"US",
+    "wof:created":1462604970,
+    "wof:geomhash":"130607f0034d74c16c7621619537767e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086177,
+            "localadmin_id":404516717,
+            "locality_id":85972461,
+            "neighbourhood_id":420525305,
+            "region_id":85688661,
+            "venue_id":807217437
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086177,
+            "localadmin_id":404516717,
+            "locality_id":85972461,
+            "neighbourhood_id":420525367,
+            "region_id":85688661,
+            "venue_id":807217437
+        }
+    ],
+    "wof:id":807217437,
+    "wof:lastmodified":1462604970,
+    "wof:name":"Marcys Cleaning",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaner",
+        "house"
+    ]
+},
+  "bbox": [
+    -94.419292,
+    39.238932,
+    -94.419292,
+    39.238932
+],
+  "geometry": {"coordinates":[-94.419292,39.238932],"type":"Point"}
+}

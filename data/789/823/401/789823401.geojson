@@ -1,0 +1,75 @@
+{
+  "id": 789823401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.54247,38.804445,-90.54247,38.804445",
+    "geom:latitude":38.804445,
+    "geom:longitude":-90.54247,
+    "iso:country":"US",
+    "sg:address":"2859 Quenley St",
+    "sg:city":"Saint Charles",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 946 0657",
+    "sg:postcode":"63301",
+    "sg:province":"MO",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7VHysEPULRsXj5KXwjOBTQ_38.804445_-90.542470@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462590820,
+    "wof:geomhash":"7337e7ab6db58880b75f6ddf4745a475",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":789823401
+        }
+    ],
+    "wof:id":789823401,
+    "wof:lastmodified":1462590820,
+    "wof:name":"Roy Patton Inc",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -90.54247,
+    38.804445,
+    -90.54247,
+    38.804445
+],
+  "geometry": {"coordinates":[-90.54246999999999,38.804445],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 789918539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.561469,38.802071,-90.561469,38.802071",
+    "geom:latitude":38.802071,
+    "geom:longitude":-90.561469,
+    "iso:country":"US",
+    "sg:address":"3601 Ehlmann Rd",
+    "sg:city":"St Charles",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 724 4879",
+    "sg:postcode":"63301",
+    "sg:province":"MO",
+    "sg:tags":[
+        "church"
+    ],
+    "sg:website":"www.gbc-stcharles.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1yWUTZqKOmzPZLriQhmqwB_38.802071_-90.561469@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462591613,
+    "wof:geomhash":"a71a3d8f9066fdae7af21cb1285b70bf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":789918539
+        }
+    ],
+    "wof:id":789918539,
+    "wof:lastmodified":1462591613,
+    "wof:name":"Grace Baptist Church",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -90.561469,
+    38.802071,
+    -90.561469,
+    38.802071
+],
+  "geometry": {"coordinates":[-90.561469,38.802071],"type":"Point"}
+}

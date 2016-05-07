@@ -1,0 +1,73 @@
+{
+  "id": 789718645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.197484,39.347544,-91.197484,39.347544",
+    "geom:latitude":39.347544,
+    "geom:longitude":-91.197484,
+    "iso:country":"US",
+    "sg:address":"6 Hickory Ln",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 324 3938",
+    "sg:postcode":"63334",
+    "sg:province":"MO",
+    "sg:tags":[
+        "housing",
+        "program"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971907,
+        102086151,
+        85817909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ZSHgVFaaV8JHgZ5evpiA8_39.347544_-91.197484@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462589999,
+    "wof:geomhash":"dad263423437481f3bc6fc7b45e418e0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086151,
+            "locality_id":85971907,
+            "neighbourhood_id":85817909,
+            "region_id":85688661,
+            "venue_id":789718645
+        }
+    ],
+    "wof:id":789718645,
+    "wof:lastmodified":1462589999,
+    "wof:name":"Ingram Leasing Inc",
+    "wof:parent_id":85817909,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "housing",
+        "program"
+    ]
+},
+  "bbox": [
+    -91.197484,
+    39.347544,
+    -91.197484,
+    39.347544
+],
+  "geometry": {"coordinates":[-91.197484,39.347544],"type":"Point"}
+}

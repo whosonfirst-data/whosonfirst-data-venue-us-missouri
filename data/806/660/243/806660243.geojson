@@ -1,0 +1,75 @@
+{
+  "id": 806660243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.585377,39.0493,-94.585377,39.0493",
+    "geom:latitude":39.0493,
+    "geom:longitude":-94.585377,
+    "iso:country":"US",
+    "sg:address":"4241 Walnut St",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Self-service Laundry",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 531 9999",
+    "sg:postcode":"64111",
+    "sg:province":"MO",
+    "sg:tags":[
+        "coin"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85871985,
+        102191575,
+        404518075,
+        85633793,
+        85970739,
+        102081227,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ztwpskj0EgdqVS46fOYxH_39.049300_-94.585377@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462600004,
+    "wof:geomhash":"248a6a3c2146e7ff4a9ab96023ca8ad5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081227,
+            "localadmin_id":404518075,
+            "locality_id":85970739,
+            "neighbourhood_id":85871985,
+            "region_id":85688661,
+            "venue_id":806660243
+        }
+    ],
+    "wof:id":806660243,
+    "wof:lastmodified":1462600004,
+    "wof:name":"Walnut Place Laundromat",
+    "wof:parent_id":85871985,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "coin"
+    ]
+},
+  "bbox": [
+    -94.585377,
+    39.0493,
+    -94.585377,
+    39.0493
+],
+  "geometry": {"coordinates":[-94.58537699999999,39.0493],"type":"Point"}
+}

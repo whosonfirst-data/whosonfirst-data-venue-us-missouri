@@ -1,0 +1,71 @@
+{
+  "id": 806408719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.408828,37.227693,-93.408828,37.227693",
+    "geom:latitude":37.227693,
+    "geom:longitude":-93.408828,
+    "iso:country":"US",
+    "sg:address":"6530 W Farm Rd 124",
+    "sg:city":"Springfield",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 865 1730",
+    "sg:postcode":"65802",
+    "sg:province":"MO",
+    "sg:tags":[
+        "septic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971363,
+        102087523,
+        85881139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ijPXpc2EqpGElANgIntg5_37.227693_-93.408828@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462597908,
+    "wof:geomhash":"eb707e1d6806ca5053c2678b304f9bde",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087523,
+            "locality_id":85971363,
+            "neighbourhood_id":85881139,
+            "region_id":85688661,
+            "venue_id":806408719
+        }
+    ],
+    "wof:id":806408719,
+    "wof:lastmodified":1462597908,
+    "wof:name":"German Septic Tank Svc",
+    "wof:parent_id":85881139,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "septic"
+    ]
+},
+  "bbox": [
+    -93.408828,
+    37.227693,
+    -93.408828,
+    37.227693
+],
+  "geometry": {"coordinates":[-93.408828,37.227693],"type":"Point"}
+}

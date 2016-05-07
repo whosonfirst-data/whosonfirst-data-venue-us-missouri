@@ -1,0 +1,81 @@
+{
+  "id": 789693845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.427606,38.598908,-90.427606,38.598908",
+    "geom:latitude":38.598908,
+    "geom:longitude":-90.427606,
+    "iso:country":"US",
+    "sg:address":"1080 Lockett Rd",
+    "sg:city":"Saint Louis",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 966 3350",
+    "sg:postcode":"63131",
+    "sg:province":"MO",
+    "sg:tags":[
+        "residential",
+        "skilled",
+        "nursing",
+        "facility"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85858661,
+        102191575,
+        404517203,
+        85633793,
+        85972289,
+        102086173,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_70FdFPKkENY24QWqQLeDwF_38.598908_-90.427606@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462589809,
+    "wof:geomhash":"ae38f06e58480d47341bdfe08323a3bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086173,
+            "localadmin_id":404517203,
+            "locality_id":85972289,
+            "neighbourhood_id":85858661,
+            "region_id":85688661,
+            "venue_id":789693845
+        }
+    ],
+    "wof:id":789693845,
+    "wof:lastmodified":1462589809,
+    "wof:name":"Des Peres Healthcare Rehab Ctr",
+    "wof:parent_id":85858661,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential",
+        "skilled",
+        "nursing",
+        "facility"
+    ]
+},
+  "bbox": [
+    -90.427606,
+    38.598908,
+    -90.427606,
+    38.598908
+],
+  "geometry": {"coordinates":[-90.427606,38.598908],"type":"Point"}
+}

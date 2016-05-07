@@ -1,0 +1,75 @@
+{
+  "id": 807315841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.327752,37.139319,-93.327752,37.139319",
+    "geom:latitude":37.139319,
+    "geom:longitude":-93.327752,
+    "iso:country":"US",
+    "sg:address":"4140 S Lipscomb Ave",
+    "sg:city":"Springfield",
+    "sg:classifiers":[
+        {
+            "category":"Fast Food",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 883 1371",
+    "sg:postcode":"65807",
+    "sg:province":"MO",
+    "sg:tags":[
+        "mexican"
+    ],
+    "sg:website":"http://www.tacobell.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85881151,
+        102087523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2AJV5IKT2z4KeeWXHdsHXS_37.139319_-93.327752@1303262939"
+    },
+    "wof:country":"US",
+    "wof:created":1462606017,
+    "wof:geomhash":"01837067ae4ae906d878dd3e2a80b2cb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087523,
+            "neighbourhood_id":85881151,
+            "region_id":85688661,
+            "venue_id":807315841
+        }
+    ],
+    "wof:id":807315841,
+    "wof:lastmodified":1462606017,
+    "wof:name":"Taco Bell",
+    "wof:parent_id":85881151,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican"
+    ]
+},
+  "bbox": [
+    -93.327752,
+    37.139319,
+    -93.327752,
+    37.139319
+],
+  "geometry": {"coordinates":[-93.327752,37.139319],"type":"Point"}
+}

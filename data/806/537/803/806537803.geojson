@@ -1,0 +1,71 @@
+{
+  "id": 806537803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.85204,38.811102,-90.85204,38.811102",
+    "geom:latitude":38.811102,
+    "geom:longitude":-90.85204,
+    "iso:country":"US",
+    "sg:address":"104 E Main St",
+    "sg:city":"Wentzville",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 327 4227",
+    "sg:postcode":"63385",
+    "sg:province":"MO",
+    "sg:tags":[
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1MRwj97q7ZLQxnOQgXZz3p_38.811102_-90.852040@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462598937,
+    "wof:geomhash":"55d8cd4384e49c68127687958d5995e1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":806537803
+        }
+    ],
+    "wof:id":806537803,
+    "wof:lastmodified":1462598937,
+    "wof:name":"Storage Masters",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "storage"
+    ]
+},
+  "bbox": [
+    -90.85204,
+    38.811102,
+    -90.85204,
+    38.811102
+],
+  "geometry": {"coordinates":[-90.85204,38.811102],"type":"Point"}
+}

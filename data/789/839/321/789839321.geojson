@@ -1,0 +1,79 @@
+{
+  "id": 789839321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.30601,38.686262,-90.30601,38.686262",
+    "geom:latitude":38.686262,
+    "geom:longitude":-90.30601,
+    "iso:country":"US",
+    "sg:address":"7205 Saint Charles Rock Rd",
+    "sg:city":"St Louis",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 863 2390",
+    "sg:postcode":"63133",
+    "sg:province":"MO",
+    "sg:tags":[
+        "car",
+        "used",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85803359,
+        102191575,
+        404515929,
+        85633793,
+        85972327,
+        102086173,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_279KuiZxZ9XkB1V1oTvo6V_38.686262_-90.306010@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462590941,
+    "wof:geomhash":"69b6e43b7e15b835bd24a38a3f5f09bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086173,
+            "localadmin_id":404515929,
+            "locality_id":85972327,
+            "neighbourhood_id":85803359,
+            "region_id":85688661,
+            "venue_id":789839321
+        }
+    ],
+    "wof:id":789839321,
+    "wof:lastmodified":1462590941,
+    "wof:name":"Midwest Auto Sales",
+    "wof:parent_id":85803359,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "used",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -90.30601,
+    38.686262,
+    -90.30601,
+    38.686262
+],
+  "geometry": {"coordinates":[-90.30601,38.686262],"type":"Point"}
+}

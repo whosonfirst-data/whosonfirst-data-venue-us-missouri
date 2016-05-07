@@ -1,0 +1,77 @@
+{
+  "id": 773112143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.470033,39.06368,-94.470033,39.06368",
+    "geom:latitude":39.06368,
+    "geom:longitude":-94.470033,
+    "iso:country":"US",
+    "sg:address":"3306 Blue Ridge Blvd",
+    "sg:city":"Independence",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 461 5140",
+    "sg:postcode":"64052",
+    "sg:province":"MO",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85867021,
+        102191575,
+        404518075,
+        85633793,
+        85970739,
+        102081227,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Ab9vW80Zfsjag3219wl7N_39.063680_-94.470033@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462583235,
+    "wof:geomhash":"5fdff31a55c6bf4f435ee30331e9dcc2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081227,
+            "localadmin_id":404518075,
+            "locality_id":85970739,
+            "neighbourhood_id":85867021,
+            "region_id":85688661,
+            "venue_id":773112143
+        }
+    ],
+    "wof:id":773112143,
+    "wof:lastmodified":1462583235,
+    "wof:name":"Stan's Auto Svc",
+    "wof:parent_id":85867021,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -94.470033,
+    39.06368,
+    -94.470033,
+    39.06368
+],
+  "geometry": {"coordinates":[-94.470033,39.06368],"type":"Point"}
+}

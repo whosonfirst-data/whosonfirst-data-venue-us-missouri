@@ -1,0 +1,77 @@
+{
+  "id": 807053585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.2183,38.5933,-90.2183,38.5933",
+    "geom:latitude":38.5933,
+    "geom:longitude":-90.2183,
+    "iso:country":"US",
+    "sg:address":"3325 Lemp Ave",
+    "sg:city":"Saint Louis",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 773 7338",
+    "sg:postcode":"63118",
+    "sg:province":"MO",
+    "sg:tags":[
+        "transmission",
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873687,
+        102191575,
+        404518053,
+        85633793,
+        85971343,
+        102080791,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7azT9fD1aFbAjKaUivm7Ny_38.593527_-90.218493@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1462603314,
+    "wof:geomhash":"3abaff2289f4870831401ea740823412",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080791,
+            "localadmin_id":404518053,
+            "locality_id":85971343,
+            "neighbourhood_id":85873687,
+            "region_id":85688661,
+            "venue_id":807053585
+        }
+    ],
+    "wof:id":807053585,
+    "wof:lastmodified":1462603314,
+    "wof:name":"Jerry's Precision Auto Care",
+    "wof:parent_id":85873687,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission",
+        "automotive"
+    ]
+},
+  "bbox": [
+    -90.2183,
+    38.5933,
+    -90.2183,
+    38.5933
+],
+  "geometry": {"coordinates":[-90.2183,38.5933],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 789703931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.385707,38.404023,-90.385707,38.404023",
+    "geom:latitude":38.404023,
+    "geom:longitude":-90.385707,
+    "iso:country":"US",
+    "sg:address":"3787 W Outer Rd",
+    "sg:city":"Arnold",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 296 0100",
+    "sg:postcode":"63010",
+    "sg:province":"MO",
+    "sg:tags":[
+        "home",
+        "contractor",
+        "new"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85805175,
+        102080787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_497X6R7lHGtgTVrftOTt7K_38.404023_-90.385707@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462589885,
+    "wof:geomhash":"8d8f803ab8ce092972bf6b9a1ba002a0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080787,
+            "neighbourhood_id":85805175,
+            "region_id":85688661,
+            "venue_id":789703931
+        }
+    ],
+    "wof:id":789703931,
+    "wof:lastmodified":1462589885,
+    "wof:name":"Homesource",
+    "wof:parent_id":85805175,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "contractor",
+        "new"
+    ]
+},
+  "bbox": [
+    -90.385707,
+    38.404023,
+    -90.385707,
+    38.404023
+],
+  "geometry": {"coordinates":[-90.385707,38.404023],"type":"Point"}
+}

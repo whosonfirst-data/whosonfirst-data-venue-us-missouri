@@ -1,0 +1,75 @@
+{
+  "id": 806565471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.555901,38.789431,-90.555901,38.789431",
+    "geom:latitude":38.789431,
+    "geom:longitude":-90.555901,
+    "iso:country":"US",
+    "sg:address":"206 Clearview Dr",
+    "sg:city":"Saint Charles",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 947 8419",
+    "sg:postcode":"63303",
+    "sg:province":"MO",
+    "sg:tags":[
+        "transmission",
+        "automotive",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4MquROVvfR5oiWQjMtJEKg_38.789431_-90.555901@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462599170,
+    "wof:geomhash":"96c3cd504045687417cdf33f444e7ae2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":806565471
+        }
+    ],
+    "wof:id":806565471,
+    "wof:lastmodified":1462599170,
+    "wof:name":"Lunds Engine & Machine",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission",
+        "automotive",
+        "general"
+    ]
+},
+  "bbox": [
+    -90.555901,
+    38.789431,
+    -90.555901,
+    38.789431
+],
+  "geometry": {"coordinates":[-90.55590100000001,38.789431],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 790495861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.305157,38.470007,-90.305157,38.470007",
+    "geom:latitude":38.470007,
+    "geom:longitude":-90.305157,
+    "iso:country":"US",
+    "sg:address":"5627 Telegraph Rd",
+    "sg:city":"Saint Louis",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 846 0500",
+    "sg:postcode":"63129",
+    "sg:province":"MO",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85885365,
+        102191575,
+        404517459,
+        85633793,
+        85972631,
+        102086173,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ibU7ydaUxeiLbDchwg3Le_38.470007_-90.305157@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462596337,
+    "wof:geomhash":"ee498368b2ca0af438a23440421b72a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086173,
+            "localadmin_id":404517459,
+            "locality_id":85972631,
+            "neighbourhood_id":85885365,
+            "region_id":85688661,
+            "venue_id":790495861
+        }
+    ],
+    "wof:id":790495861,
+    "wof:lastmodified":1462596337,
+    "wof:name":"Texaco",
+    "wof:parent_id":85885365,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -90.305157,
+    38.470007,
+    -90.305157,
+    38.470007
+],
+  "geometry": {"coordinates":[-90.30515699999999,38.470007],"type":"Point"}
+}

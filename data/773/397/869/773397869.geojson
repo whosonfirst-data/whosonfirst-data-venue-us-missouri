@@ -1,0 +1,88 @@
+{
+  "id": 773397869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.200904,38.607343,-90.200904,38.607343",
+    "geom:latitude":38.607343,
+    "geom:longitude":-90.200904,
+    "iso:country":"US",
+    "sg:address":"1704 S Broadway",
+    "sg:city":"St Louis",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 535 4557",
+    "sg:postcode":"63104",
+    "sg:province":"MO",
+    "sg:tags":[
+        "consulting",
+        "management",
+        "safety",
+        "medical",
+        "occupational"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873669,
+        102191575,
+        404518053,
+        85633793,
+        85971343,
+        102080791,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3VMnqonTO1IA5NJOmDMfrN_38.607343_-90.200904@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462585384,
+    "wof:geomhash":"bb42abc103a09162fc7e768f41593861",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080791,
+            "localadmin_id":404518053,
+            "locality_id":85971343,
+            "neighbourhood_id":85873669,
+            "region_id":85688661,
+            "venue_id":773397869
+        }
+    ],
+    "wof:id":773397869,
+    "wof:lastmodified":1462585384,
+    "wof:name":"S S M Corporate Health Svcs",
+    "wof:parent_id":85873669,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consulting",
+        "management",
+        "safety",
+        "medical",
+        "occupational"
+    ]
+},
+  "bbox": [
+    -90.200904,
+    38.607343,
+    -90.200904,
+    38.607343
+],
+  "geometry": {"coordinates":[-90.20090399999999,38.607343],"type":"Point"}
+}

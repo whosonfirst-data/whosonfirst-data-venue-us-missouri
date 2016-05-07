@@ -1,0 +1,71 @@
+{
+  "id": 806430045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.495496,38.785902,-90.495496,38.785902",
+    "geom:latitude":38.785902,
+    "geom:longitude":-90.495496,
+    "iso:country":"US",
+    "sg:address":"1014 Jefferson St",
+    "sg:city":"Saint Charles",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 724 1565",
+    "sg:postcode":"63301",
+    "sg:province":"MO",
+    "sg:tags":[
+        "skilled"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3nLwoi4eIkhw9xhtoXy46J_38.785902_-90.495496@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462598088,
+    "wof:geomhash":"762d78d9a5f70a4d070825e1e89871a3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":806430045
+        }
+    ],
+    "wof:id":806430045,
+    "wof:lastmodified":1462598088,
+    "wof:name":"Jefferson Street Nursing Home",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "skilled"
+    ]
+},
+  "bbox": [
+    -90.495496,
+    38.785902,
+    -90.495496,
+    38.785902
+],
+  "geometry": {"coordinates":[-90.495496,38.785902],"type":"Point"}
+}

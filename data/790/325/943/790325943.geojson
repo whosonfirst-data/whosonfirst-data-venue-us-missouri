@@ -1,0 +1,71 @@
+{
+  "id": 790325943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.401263,38.414578,-90.401263,38.414578",
+    "geom:latitude":38.414578,
+    "geom:longitude":-90.401263,
+    "iso:country":"US",
+    "sg:address":"3308 Meadowfield Dr",
+    "sg:city":"Arnold",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 282 3311",
+    "sg:postcode":"63010",
+    "sg:province":"MO",
+    "sg:tags":[
+        "glass",
+        "replacement"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85805175,
+        102080787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_79uR38JlyODoKvmINWQrpM_38.414578_-90.401263@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462594962,
+    "wof:geomhash":"072bf4298e9e355a176794d21c289fd2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080787,
+            "neighbourhood_id":85805175,
+            "region_id":85688661,
+            "venue_id":790325943
+        }
+    ],
+    "wof:id":790325943,
+    "wof:lastmodified":1462594962,
+    "wof:name":"Advanced Auto Glass",
+    "wof:parent_id":85805175,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "glass",
+        "replacement"
+    ]
+},
+  "bbox": [
+    -90.401263,
+    38.414578,
+    -90.401263,
+    38.414578
+],
+  "geometry": {"coordinates":[-90.401263,38.414578],"type":"Point"}
+}

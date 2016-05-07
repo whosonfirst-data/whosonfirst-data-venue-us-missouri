@@ -1,0 +1,75 @@
+{
+  "id": 773078491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.140592,38.509298,-92.140592,38.509298",
+    "geom:latitude":38.509298,
+    "geom:longitude":-92.140592,
+    "iso:country":"US",
+    "sg:address":"5021 Roling Rd",
+    "sg:city":"Jefferson City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 636 9199",
+    "sg:postcode":"65101",
+    "sg:province":"MO",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970647,
+        102087511,
+        85837745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7DeIHm8IIiNnTqmPN0vtUy_38.509298_-92.140592@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462582992,
+    "wof:geomhash":"5ef64ee599dad234d331c2da208a173b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087511,
+            "locality_id":85970647,
+            "neighbourhood_id":85837745,
+            "region_id":85688661,
+            "venue_id":773078491
+        }
+    ],
+    "wof:id":773078491,
+    "wof:lastmodified":1462582992,
+    "wof:name":"Body Magic",
+    "wof:parent_id":85837745,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -92.140592,
+    38.509298,
+    -92.140592,
+    38.509298
+],
+  "geometry": {"coordinates":[-92.140592,38.509298],"type":"Point"}
+}

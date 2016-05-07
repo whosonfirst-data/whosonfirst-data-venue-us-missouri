@@ -1,0 +1,90 @@
+{
+  "id": 789842281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.4816,38.783339,-90.4816,38.783339",
+    "geom:latitude":38.783339,
+    "geom:longitude":-90.4816,
+    "iso:country":"US",
+    "sg:address":"201 N 2nd St",
+    "sg:city":"St Charles",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 949 7480",
+    "sg:postcode":"63301",
+    "sg:province":"MO",
+    "sg:tags":[
+        "county",
+        "taxation",
+        "contractor",
+        "parks",
+        "grading"
+    ],
+    "sg:website":"www.saintcharlescounty.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6yDIFbRKYXuWkBzWjSwhEo_38.783339_-90.481600@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462590965,
+    "wof:geomhash":"1785593396c470a8c22cd30aa47f809b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":789842281
+        }
+    ],
+    "wof:id":789842281,
+    "wof:lastmodified":1462590965,
+    "wof:name":"St Charles County Finance Dept",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "county",
+        "taxation",
+        "contractor",
+        "parks",
+        "grading"
+    ]
+},
+  "bbox": [
+    -90.4816,
+    38.783339,
+    -90.4816,
+    38.783339
+],
+  "geometry": {"coordinates":[-90.4816,38.783339],"type":"Point"}
+}

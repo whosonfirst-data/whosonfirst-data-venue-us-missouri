@@ -1,0 +1,71 @@
+{
+  "id": 789655517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.278395,38.739123,-90.278395,38.739123",
+    "geom:latitude":38.739123,
+    "geom:longitude":-90.278395,
+    "iso:country":"US",
+    "sg:address":"9420 W Florissant Ave",
+    "sg:city":"St Louis",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 868 7688",
+    "sg:postcode":"63136",
+    "sg:province":"MO",
+    "sg:website":"www.quiktrip.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85859027,
+        102191575,
+        404517247,
+        85633793,
+        85972205,
+        102086173,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3OZJW348on8PMFEbnX2jha_38.739123_-90.278395@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462589497,
+    "wof:geomhash":"0b44108153a6d38490d251cec6f00e03",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086173,
+            "localadmin_id":404517247,
+            "locality_id":85972205,
+            "neighbourhood_id":85859027,
+            "region_id":85688661,
+            "venue_id":789655517
+        }
+    ],
+    "wof:id":789655517,
+    "wof:lastmodified":1462589497,
+    "wof:name":"Quik Trip",
+    "wof:parent_id":85859027,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.278395,
+    38.739123,
+    -90.278395,
+    38.739123
+],
+  "geometry": {"coordinates":[-90.278395,38.739123],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 806581551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.481039,38.782032,-90.481039,38.782032",
+    "geom:latitude":38.782032,
+    "geom:longitude":-90.481039,
+    "iso:country":"US",
+    "sg:address":"123 N Main St",
+    "sg:city":"St Charles",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 443 0300",
+    "sg:postcode":"63301",
+    "sg:province":"MO",
+    "sg:tags":[
+        "loan",
+        "real estate"
+    ],
+    "sg:website":"www.ambancs.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6yVFgTsBUvDd1Nq9RYYiSQ_38.782032_-90.481039@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462599321,
+    "wof:geomhash":"5f0c6adcf3bc250d9be5745e8d46f52b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":806581551
+        }
+    ],
+    "wof:id":806581551,
+    "wof:lastmodified":1462599321,
+    "wof:name":"Ambanc",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "loan",
+        "real estate"
+    ]
+},
+  "bbox": [
+    -90.481039,
+    38.782032,
+    -90.481039,
+    38.782032
+],
+  "geometry": {"coordinates":[-90.481039,38.782032],"type":"Point"}
+}

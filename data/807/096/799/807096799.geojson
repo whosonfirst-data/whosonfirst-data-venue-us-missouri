@@ -1,0 +1,78 @@
+{
+  "id": 807096799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.438485,38.513437,-90.438485,38.513437",
+    "geom:latitude":38.513437,
+    "geom:longitude":-90.438485,
+    "iso:country":"US",
+    "sg:address":"545 Main St",
+    "sg:city":"Fenton",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/bonhomme/156014-hardees/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 343 5221",
+    "sg:postcode":"63026",
+    "sg:province":"MO",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85858661,
+        102191575,
+        404517203,
+        85633793,
+        85972289,
+        102086173,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5VZoYb8Wk32QMXRliK33x2_38.513710_-90.438237@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462603683,
+    "wof:geomhash":"bf8a56a20d0a2197732ec9cfa206aad6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086173,
+            "localadmin_id":404517203,
+            "locality_id":85972289,
+            "neighbourhood_id":85858661,
+            "region_id":85688661,
+            "venue_id":807096799
+        }
+    ],
+    "wof:id":807096799,
+    "wof:lastmodified":1462603683,
+    "wof:name":"Hardee's",
+    "wof:parent_id":85858661,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -90.438485,
+    38.513437,
+    -90.438485,
+    38.513437
+],
+  "geometry": {"coordinates":[-90.438485,38.513437],"type":"Point"}
+}

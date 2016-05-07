@@ -1,0 +1,81 @@
+{
+  "id": 807136467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.231265,38.6385,-90.231265,38.6385",
+    "geom:latitude":38.6385,
+    "geom:longitude":-90.231265,
+    "iso:country":"US",
+    "sg:address":"3536 Washington Ave",
+    "sg:city":"Saint Louis",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Arts & Performance",
+            "subcategory":"Jazz & Blues",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 289 4030",
+    "sg:postcode":"63103",
+    "sg:province":"MO",
+    "sg:tags":[
+        "cajun/creole"
+    ],
+    "sg:website":"jazzstl.org/jazz-at-the-bistro",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873637,
+        102191575,
+        404518053,
+        85633793,
+        85971343,
+        102080791,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2jmUkKWWRV2Y7OYhGOCphh_38.638500_-90.231265@1303262927"
+    },
+    "wof:country":"US",
+    "wof:created":1462604126,
+    "wof:geomhash":"861aa6e99cc4f8a1387e5f2aeb286c4c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080791,
+            "localadmin_id":404518053,
+            "locality_id":85971343,
+            "neighbourhood_id":85873637,
+            "region_id":85688661,
+            "venue_id":807136467
+        }
+    ],
+    "wof:id":807136467,
+    "wof:lastmodified":1462604126,
+    "wof:name":"Jazz at the Bistro",
+    "wof:parent_id":85873637,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cajun/creole"
+    ]
+},
+  "bbox": [
+    -90.231265,
+    38.6385,
+    -90.231265,
+    38.6385
+],
+  "geometry": {"coordinates":[-90.23126499999999,38.6385],"type":"Point"}
+}

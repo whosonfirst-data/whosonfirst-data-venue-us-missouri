@@ -1,0 +1,71 @@
+{
+  "id": 773268721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.498762,36.851971,-94.498762,36.851971",
+    "geom:latitude":36.851971,
+    "geom:longitude":-94.498762,
+    "iso:country":"US",
+    "sg:address":"8027 Norway Rd",
+    "sg:city":"Neosho",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 451 0359",
+    "sg:postcode":"64850",
+    "sg:province":"MO",
+    "sg:tags":[
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971289,
+        102087471,
+        85814333
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1AOa1Q2BvjgoR3Q9psYAWN_36.851971_-94.498762@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462584432,
+    "wof:geomhash":"60ea048501aa54c6dec58abc784044fd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087471,
+            "locality_id":85971289,
+            "neighbourhood_id":85814333,
+            "region_id":85688661,
+            "venue_id":773268721
+        }
+    ],
+    "wof:id":773268721,
+    "wof:lastmodified":1462584432,
+    "wof:name":"S & N Transportation",
+    "wof:parent_id":85814333,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -94.498762,
+    36.851971,
+    -94.498762,
+    36.851971
+],
+  "geometry": {"coordinates":[-94.498762,36.851971],"type":"Point"}
+}

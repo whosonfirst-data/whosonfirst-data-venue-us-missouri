@@ -1,0 +1,69 @@
+{
+  "id": 773821365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.49678,38.378699,-90.49678,38.378699",
+    "geom:latitude":38.378699,
+    "geom:longitude":-90.49678,
+    "iso:country":"US",
+    "sg:address":"5651 Old State Hwy 21",
+    "sg:city":"Antonia",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 948 4219",
+    "sg:postcode":"63051",
+    "sg:province":"MO",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85805175,
+        102080787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Zck0ZrObRuzmlOfOU1CYJ_38.378699_-90.496780@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462588643,
+    "wof:geomhash":"62767fd41e94aa0ae130671ae56e22b4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080787,
+            "neighbourhood_id":85805175,
+            "region_id":85688661,
+            "venue_id":773821365
+        }
+    ],
+    "wof:id":773821365,
+    "wof:lastmodified":1462588643,
+    "wof:name":"Otto Save-A-Lot",
+    "wof:parent_id":85805175,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -90.49678,
+    38.378699,
+    -90.49678,
+    38.378699
+],
+  "geometry": {"coordinates":[-90.49678,38.378699],"type":"Point"}
+}

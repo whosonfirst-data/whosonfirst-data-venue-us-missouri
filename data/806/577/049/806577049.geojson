@@ -1,0 +1,71 @@
+{
+  "id": 806577049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.89977,39.413571,-94.89977,39.413571",
+    "geom:latitude":39.413571,
+    "geom:longitude":-94.89977,
+    "iso:country":"US",
+    "sg:address":"608 Main St",
+    "sg:city":"Weston",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 640 2835",
+    "sg:postcode":"64098",
+    "sg:province":"MO",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970739,
+        102085271,
+        85823759
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ufXa4h6yIG8xmdLouqpuh_39.413571_-94.899770@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462599286,
+    "wof:geomhash":"c4678f7fc0038278e98133a2dd542882",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085271,
+            "locality_id":85970739,
+            "neighbourhood_id":85823759,
+            "region_id":85688661,
+            "venue_id":806577049
+        }
+    ],
+    "wof:id":806577049,
+    "wof:lastmodified":1462599286,
+    "wof:name":"Avalon Cafe",
+    "wof:parent_id":85823759,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -94.89977,
+    39.413571,
+    -94.89977,
+    39.413571
+],
+  "geometry": {"coordinates":[-94.89977,39.413571],"type":"Point"}
+}

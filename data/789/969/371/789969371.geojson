@@ -1,0 +1,69 @@
+{
+  "id": 789969371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.638395,38.373607,-90.638395,38.373607",
+    "geom:latitude":38.373607,
+    "geom:longitude":-90.638395,
+    "iso:country":"US",
+    "sg:address":"8758 Silver Ln",
+    "sg:city":"Cedar Hill",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 285 0965",
+    "sg:postcode":"63016",
+    "sg:province":"MO",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85805175,
+        102080787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3GH9ZkOtUlqtT8INKPCPmp_38.373607_-90.638395@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462592076,
+    "wof:geomhash":"51f6b39c2545f282d6f78ab818716d82",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080787,
+            "neighbourhood_id":85805175,
+            "region_id":85688661,
+            "venue_id":789969371
+        }
+    ],
+    "wof:id":789969371,
+    "wof:lastmodified":1462592076,
+    "wof:name":"King Heating Cooling",
+    "wof:parent_id":85805175,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -90.638395,
+    38.373607,
+    -90.638395,
+    38.373607
+],
+  "geometry": {"coordinates":[-90.638395,38.373607],"type":"Point"}
+}

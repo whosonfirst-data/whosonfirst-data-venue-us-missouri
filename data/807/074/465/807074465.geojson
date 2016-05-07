@@ -1,0 +1,74 @@
+{
+  "id": 807074465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.432085,37.790383,-90.432085,37.790383",
+    "geom:latitude":37.790383,
+    "geom:longitude":-90.432085,
+    "iso:country":"US",
+    "sg:address":"551 W Karsch Blvd",
+    "sg:city":"Farmington",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/st-francois/80594-papa-johns-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 756 4777",
+    "sg:postcode":"63640",
+    "sg:province":"MO",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970665,
+        102085297,
+        85816309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0DSIQEOYx387qtdaY6mc3K_37.790383_-90.432085@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462603491,
+    "wof:geomhash":"fbd78b335eb849437aa20c939d974136",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085297,
+            "locality_id":85970665,
+            "neighbourhood_id":85816309,
+            "region_id":85688661,
+            "venue_id":807074465
+        }
+    ],
+    "wof:id":807074465,
+    "wof:lastmodified":1462603491,
+    "wof:name":"Papa John's Pizza",
+    "wof:parent_id":85816309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -90.432085,
+    37.790383,
+    -90.432085,
+    37.790383
+],
+  "geometry": {"coordinates":[-90.432085,37.790383],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 790180967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.151972,39.378724,-91.151972,39.378724",
+    "geom:latitude":39.378724,
+    "geom:longitude":-91.151972,
+    "iso:country":"US",
+    "sg:address":"16484 US Hwy 54",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 324 3817",
+    "sg:postcode":"63334",
+    "sg:province":"MO",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971907,
+        102086151,
+        85817909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3mWcTODuSRCER5DuOT6gxh_39.378724_-91.151972@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462593781,
+    "wof:geomhash":"adec6fddece982d123f3ebbccade95a5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086151,
+            "locality_id":85971907,
+            "neighbourhood_id":85817909,
+            "region_id":85688661,
+            "venue_id":790180967
+        }
+    ],
+    "wof:id":790180967,
+    "wof:lastmodified":1462593781,
+    "wof:name":"Butler's Body Shop",
+    "wof:parent_id":85817909,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -91.151972,
+    39.378724,
+    -91.151972,
+    39.378724
+],
+  "geometry": {"coordinates":[-91.151972,39.378724],"type":"Point"}
+}

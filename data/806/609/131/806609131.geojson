@@ -1,0 +1,72 @@
+{
+  "id": 806609131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.168819,38.576128,-92.168819,38.576128",
+    "geom:latitude":38.576128,
+    "geom:longitude":-92.168819,
+    "iso:country":"US",
+    "sg:address":"210 Monroe St",
+    "sg:city":"Jefferson City",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 636 3131",
+    "sg:postcode":"65101",
+    "sg:province":"MO",
+    "sg:tags":[
+        "newspaper"
+    ],
+    "sg:website":"www.newstribune.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970647,
+        102087511,
+        85837745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6IjtTNUiNOGJ3EkZP3pmz1_38.576128_-92.168819@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462599559,
+    "wof:geomhash":"67d2a39df8f45e3886b98cbab03d1e50",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087511,
+            "locality_id":85970647,
+            "neighbourhood_id":85837745,
+            "region_id":85688661,
+            "venue_id":806609131
+        }
+    ],
+    "wof:id":806609131,
+    "wof:lastmodified":1462599559,
+    "wof:name":"News Tribune Co",
+    "wof:parent_id":85837745,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "newspaper"
+    ]
+},
+  "bbox": [
+    -92.168819,
+    38.576128,
+    -92.168819,
+    38.576128
+],
+  "geometry": {"coordinates":[-92.168819,38.576128],"type":"Point"}
+}

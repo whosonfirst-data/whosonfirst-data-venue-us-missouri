@@ -1,0 +1,73 @@
+{
+  "id": 806462921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.484346,38.786456,-90.484346,38.786456",
+    "geom:latitude":38.786456,
+    "geom:longitude":-90.484346,
+    "iso:country":"US",
+    "sg:address":"512 Clark St",
+    "sg:city":"St Charles",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 724 1771",
+    "sg:postcode":"63301",
+    "sg:province":"MO",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6GF2zPcpDSWC8wezTjjATl_38.786456_-90.484346@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462598338,
+    "wof:geomhash":"eebc432534a5a9c3f0e89cf404fe0f7a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":806462921
+        }
+    ],
+    "wof:id":806462921,
+    "wof:lastmodified":1462598338,
+    "wof:name":"Dean Ermeling's Auto & Truck",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -90.484346,
+    38.786456,
+    -90.484346,
+    38.786456
+],
+  "geometry": {"coordinates":[-90.484346,38.786456],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 789747419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.780186,37.924114,-91.780186,37.924114",
+    "geom:latitude":37.924114,
+    "geom:longitude":-91.780186,
+    "iso:country":"US",
+    "sg:address":"1380 S Bishop Ave",
+    "sg:city":"Rolla",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 368 7420",
+    "sg:postcode":"65401",
+    "sg:province":"MO",
+    "sg:tags":[
+        "carwash",
+        "department",
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970821,
+        102086893,
+        85814531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1sLKNV1DkTuEPYSzkZgIUq_37.924114_-91.780186@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462590234,
+    "wof:geomhash":"f6667263ba13105ae66f57c26c7d259e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086893,
+            "locality_id":85970821,
+            "neighbourhood_id":85814531,
+            "region_id":85688661,
+            "venue_id":789747419
+        }
+    ],
+    "wof:id":789747419,
+    "wof:lastmodified":1462590234,
+    "wof:name":"D & T Shops & Lots",
+    "wof:parent_id":85814531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carwash",
+        "department",
+        "store"
+    ]
+},
+  "bbox": [
+    -91.780186,
+    37.924114,
+    -91.780186,
+    37.924114
+],
+  "geometry": {"coordinates":[-91.780186,37.924114],"type":"Point"}
+}

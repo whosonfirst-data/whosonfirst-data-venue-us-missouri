@@ -1,0 +1,75 @@
+{
+  "id": 806495623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.284543,38.652727,-90.284543,38.652727",
+    "geom:latitude":38.652727,
+    "geom:longitude":-90.284543,
+    "iso:country":"US",
+    "sg:address":"541 de Baliviere Ave",
+    "sg:city":"Saint Louis",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 289 1900",
+    "sg:postcode":"63112",
+    "sg:province":"MO",
+    "sg:tags":[
+        "protection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873633,
+        102191575,
+        404518053,
+        85633793,
+        85971343,
+        102080791,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0A8AOM5j31TEGPTcfL8h4a_38.652727_-90.284543@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462598591,
+    "wof:geomhash":"5d06c1cc891b4fd823be7a56cf3fe4aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080791,
+            "localadmin_id":404518053,
+            "locality_id":85971343,
+            "neighbourhood_id":85873633,
+            "region_id":85688661,
+            "venue_id":806495623
+        }
+    ],
+    "wof:id":806495623,
+    "wof:lastmodified":1462598591,
+    "wof:name":"Fire Dept",
+    "wof:parent_id":85873633,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "protection"
+    ]
+},
+  "bbox": [
+    -90.284543,
+    38.652727,
+    -90.284543,
+    38.652727
+],
+  "geometry": {"coordinates":[-90.284543,38.652727],"type":"Point"}
+}

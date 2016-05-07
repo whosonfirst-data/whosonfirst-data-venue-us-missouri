@@ -1,0 +1,72 @@
+{
+  "id": 807096763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.578537,38.142395,-90.578537,38.142395",
+    "geom:latitude":38.142395,
+    "geom:longitude":-90.578537,
+    "iso:country":"US",
+    "sg:address":"2108 Rock Rd",
+    "sg:city":"De Soto",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/valle/148702-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 586 5500",
+    "sg:postcode":"63020",
+    "sg:province":"MO",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85848677,
+        102080787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7aOuCuVgK4e3571CzF0wK0_38.142447_-90.578453@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462603682,
+    "wof:geomhash":"b72bed7ee4f1edbb42a3cce62da9c942",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080787,
+            "neighbourhood_id":85848677,
+            "region_id":85688661,
+            "venue_id":807096763
+        }
+    ],
+    "wof:id":807096763,
+    "wof:lastmodified":1462603682,
+    "wof:name":"Subway",
+    "wof:parent_id":85848677,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -90.578537,
+    38.142395,
+    -90.578537,
+    38.142395
+],
+  "geometry": {"coordinates":[-90.578537,38.142395],"type":"Point"}
+}

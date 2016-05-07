@@ -1,0 +1,71 @@
+{
+  "id": 773366277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.354366,39.118356,-94.354366,39.118356",
+    "geom:latitude":39.118356,
+    "geom:longitude":-94.354366,
+    "iso:country":"US",
+    "sg:address":"804 Powahatan Dr",
+    "sg:city":"Independence",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 257 0440",
+    "sg:postcode":"64056",
+    "sg:province":"MO",
+    "sg:tags":[
+        "cleaners"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971449,
+        102081227,
+        85844675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6S9BSyteKpe101b38lFapX_39.118356_-94.354366@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462585154,
+    "wof:geomhash":"e52f062d8ce32c21658c5fc113bab10b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081227,
+            "locality_id":85971449,
+            "neighbourhood_id":85844675,
+            "region_id":85688661,
+            "venue_id":773366277
+        }
+    ],
+    "wof:id":773366277,
+    "wof:lastmodified":1462585154,
+    "wof:name":"B's Cleaners",
+    "wof:parent_id":85844675,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners"
+    ]
+},
+  "bbox": [
+    -94.354366,
+    39.118356,
+    -94.354366,
+    39.118356
+],
+  "geometry": {"coordinates":[-94.354366,39.118356],"type":"Point"}
+}

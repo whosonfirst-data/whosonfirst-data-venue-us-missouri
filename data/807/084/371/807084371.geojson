@@ -1,0 +1,76 @@
+{
+  "id": 807084371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.67111,39.272853,-94.67111,39.272853",
+    "geom:latitude":39.272853,
+    "geom:longitude":-94.67111,
+    "iso:country":"US",
+    "sg:address":"9800 NW Prairie View Rd",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/may/182636-wendys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 880 9480",
+    "sg:postcode":"64153",
+    "sg:province":"MO",
+    "sg:tags":[
+        "burger",
+        "american",
+        "soup"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970739,
+        102085271,
+        85851839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4HGvZVU78Bs8W22V5jcZ8l_39.272853_-94.671110@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462603569,
+    "wof:geomhash":"ba178a6d821335775cca265a2476dc97",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085271,
+            "locality_id":85970739,
+            "neighbourhood_id":85851839,
+            "region_id":85688661,
+            "venue_id":807084371
+        }
+    ],
+    "wof:id":807084371,
+    "wof:lastmodified":1462603569,
+    "wof:name":"Wendy's",
+    "wof:parent_id":85851839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "soup"
+    ]
+},
+  "bbox": [
+    -94.67111,
+    39.272853,
+    -94.67111,
+    39.272853
+],
+  "geometry": {"coordinates":[-94.67111,39.272853],"type":"Point"}
+}

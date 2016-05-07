@@ -1,0 +1,71 @@
+{
+  "id": 773788981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.498838,38.781944,-90.498838,38.781944",
+    "geom:latitude":38.781944,
+    "geom:longitude":-90.498838,
+    "iso:country":"US",
+    "sg:address":"1123 Pike St",
+    "sg:city":"Saint Charles",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 925 9972",
+    "sg:postcode":"63301",
+    "sg:province":"MO",
+    "sg:tags":[
+        "arrangement"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1RmDO7r40DjykYNkSnCWF6_38.781944_-90.498838@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462588383,
+    "wof:geomhash":"38baeb0e5c90632e75650eaaad746728",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":773788981
+        }
+    ],
+    "wof:id":773788981,
+    "wof:lastmodified":1462588383,
+    "wof:name":"Wheeler & Company",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "arrangement"
+    ]
+},
+  "bbox": [
+    -90.498838,
+    38.781944,
+    -90.498838,
+    38.781944
+],
+  "geometry": {"coordinates":[-90.49883800000001,38.781944],"type":"Point"}
+}

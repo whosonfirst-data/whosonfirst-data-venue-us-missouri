@@ -1,0 +1,83 @@
+{
+  "id": 807139751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.211959,38.614068,-90.211959,38.614068",
+    "geom:latitude":38.614068,
+    "geom:longitude":-90.211959,
+    "iso:country":"US",
+    "sg:address":"1637 S 18th St",
+    "sg:city":"St. Louis",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"Wine Bar",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 771 8466",
+    "sg:postcode":"63104",
+    "sg:province":"MO",
+    "sg:tags":[
+        "beer",
+        "spirit"
+    ],
+    "sg:website":"www.vinovitae.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873661,
+        102191575,
+        404518053,
+        85633793,
+        85971343,
+        102080791,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0rfIj9u36kTCZKpKXHzE2u_38.614068_-90.211959@1303262927"
+    },
+    "wof:country":"US",
+    "wof:created":1462604156,
+    "wof:geomhash":"b6629db3fc2c96f7c7550c78cfdd077c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080791,
+            "localadmin_id":404518053,
+            "locality_id":85971343,
+            "neighbourhood_id":85873661,
+            "region_id":85688661,
+            "venue_id":807139751
+        }
+    ],
+    "wof:id":807139751,
+    "wof:lastmodified":1462604156,
+    "wof:name":"Vino Vitae",
+    "wof:parent_id":85873661,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "beer",
+        "spirit"
+    ]
+},
+  "bbox": [
+    -90.211959,
+    38.614068,
+    -90.211959,
+    38.614068
+],
+  "geometry": {"coordinates":[-90.21195899999999,38.614068],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 789867645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.463914,38.818669,-90.463914,38.818669",
+    "geom:latitude":38.818669,
+    "geom:longitude":-90.463914,
+    "iso:country":"US",
+    "sg:address":"230 Hawning Rd",
+    "sg:city":"St Charles",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Garden Supply",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 949 3700",
+    "sg:postcode":"63301",
+    "sg:province":"MO",
+    "sg:tags":[
+        "mulch"
+    ],
+    "sg:website":"www.expressmulchcompany.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1jZmUpeIr0OK7ejxbo4wFS_38.818669_-90.463914@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462591166,
+    "wof:geomhash":"e8c560b2dd58bd225de7aecb2425775f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":789867645
+        }
+    ],
+    "wof:id":789867645,
+    "wof:lastmodified":1462591166,
+    "wof:name":"Express Mulch Company",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mulch"
+    ]
+},
+  "bbox": [
+    -90.463914,
+    38.818669,
+    -90.463914,
+    38.818669
+],
+  "geometry": {"coordinates":[-90.463914,38.818669],"type":"Point"}
+}

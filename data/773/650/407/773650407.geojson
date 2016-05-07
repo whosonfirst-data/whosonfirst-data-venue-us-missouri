@@ -1,0 +1,73 @@
+{
+  "id": 773650407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.578061,38.411635,-90.578061,38.411635",
+    "geom:latitude":38.411635,
+    "geom:longitude":-90.578061,
+    "iso:country":"US",
+    "sg:address":"4650 Gravois Rd",
+    "sg:city":"House Springs",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 671 1384",
+    "sg:postcode":"63051",
+    "sg:province":"MO",
+    "sg:tags":[
+        "postal",
+        "us"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971019,
+        102080787,
+        85817237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1AQ83JnDkQpTa8WHms7aQn_38.411635_-90.578061@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462587330,
+    "wof:geomhash":"3d4ba6175a3a62a4a02264526bc4c03d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080787,
+            "locality_id":85971019,
+            "neighbourhood_id":85817237,
+            "region_id":85688661,
+            "venue_id":773650407
+        }
+    ],
+    "wof:id":773650407,
+    "wof:lastmodified":1462587330,
+    "wof:name":"US Post Office",
+    "wof:parent_id":85817237,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "postal",
+        "us"
+    ]
+},
+  "bbox": [
+    -90.578061,
+    38.411635,
+    -90.578061,
+    38.411635
+],
+  "geometry": {"coordinates":[-90.57806100000001,38.411635],"type":"Point"}
+}

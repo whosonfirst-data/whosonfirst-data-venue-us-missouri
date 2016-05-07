@@ -1,0 +1,82 @@
+{
+  "id": 790609601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.221696,38.629584,-90.221696,38.629584",
+    "geom:latitude":38.629584,
+    "geom:longitude":-90.221696,
+    "iso:country":"US",
+    "sg:address":"2810 Clark Ave",
+    "sg:city":"St Louis",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Testing Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 531 8080",
+    "sg:postcode":"63103",
+    "sg:province":"MO",
+    "sg:tags":[
+        "laboratory",
+        "physical",
+        "commercial",
+        "research"
+    ],
+    "sg:website":"www.labinc.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85867035,
+        102191575,
+        404518053,
+        85633793,
+        85971343,
+        102080791,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5HwnfvhCAzQXOhCL7aCWRz_38.629584_-90.221696@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462597299,
+    "wof:geomhash":"0437f7912580abdb3bb62f3eb60241a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080791,
+            "localadmin_id":404518053,
+            "locality_id":85971343,
+            "neighbourhood_id":85867035,
+            "region_id":85688661,
+            "venue_id":790609601
+        }
+    ],
+    "wof:id":790609601,
+    "wof:lastmodified":1462597299,
+    "wof:name":"St Louis Testing Laboratories",
+    "wof:parent_id":85867035,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory",
+        "physical",
+        "commercial",
+        "research"
+    ]
+},
+  "bbox": [
+    -90.221696,
+    38.629584,
+    -90.221696,
+    38.629584
+],
+  "geometry": {"coordinates":[-90.22169599999999,38.629584],"type":"Point"}
+}

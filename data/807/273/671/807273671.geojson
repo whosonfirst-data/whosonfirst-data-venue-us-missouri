@@ -1,0 +1,81 @@
+{
+  "id": 807273671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.752332,37.953433,-91.752332,37.953433",
+    "geom:latitude":37.953433,
+    "geom:longitude":-91.752332,
+    "iso:country":"US",
+    "sg:address":"1301 Forum Dr",
+    "sg:city":"Rolla",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        },
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 368 5612",
+    "sg:postcode":"65401",
+    "sg:province":"MO",
+    "sg:tags":[
+        "saving",
+        "loan",
+        "commercial"
+    ],
+    "sg:website":"http://usbank.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970821,
+        102086893,
+        85814531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4cvKEb0GoWHfzBQNq1aOHe_37.953433_-91.752332@1303262936"
+    },
+    "wof:country":"US",
+    "wof:created":1462605580,
+    "wof:geomhash":"fb0e3648b85c42c14a4cc990d1f701db",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086893,
+            "locality_id":85970821,
+            "neighbourhood_id":85814531,
+            "region_id":85688661,
+            "venue_id":807273671
+        }
+    ],
+    "wof:id":807273671,
+    "wof:lastmodified":1462605580,
+    "wof:name":"Us Bank",
+    "wof:parent_id":85814531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "saving",
+        "loan",
+        "commercial"
+    ]
+},
+  "bbox": [
+    -91.752332,
+    37.953433,
+    -91.752332,
+    37.953433
+],
+  "geometry": {"coordinates":[-91.752332,37.953433],"type":"Point"}
+}

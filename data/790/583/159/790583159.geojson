@@ -1,0 +1,71 @@
+{
+  "id": 790583159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.852853,38.810956,-90.852853,38.810956",
+    "geom:latitude":38.810956,
+    "geom:longitude":-90.852853,
+    "iso:country":"US",
+    "sg:address":"8 E Main St",
+    "sg:city":"Wentzville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 327 8673",
+    "sg:postcode":"63385",
+    "sg:province":"MO",
+    "sg:tags":[
+        "physician"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7UBbVa0F3LZ1YsCTeEJ1dp_38.810956_-90.852853@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462597066,
+    "wof:geomhash":"bf500e0e293dac93a72512355b86b78d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":790583159
+        }
+    ],
+    "wof:id":790583159,
+    "wof:lastmodified":1462597066,
+    "wof:name":"Childrens Clinic of Wentzville",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician"
+    ]
+},
+  "bbox": [
+    -90.852853,
+    38.810956,
+    -90.852853,
+    38.810956
+],
+  "geometry": {"coordinates":[-90.852853,38.810956],"type":"Point"}
+}

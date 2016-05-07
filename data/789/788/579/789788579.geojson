@@ -1,0 +1,73 @@
+{
+  "id": 789788579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.398634,38.407761,-90.398634,38.407761",
+    "geom:latitude":38.407761,
+    "geom:longitude":-90.398634,
+    "iso:country":"US",
+    "sg:address":"2509 Elm Dr",
+    "sg:city":"Arnold",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 282 2751",
+    "sg:postcode":"63010",
+    "sg:province":"MO",
+    "sg:tags":[
+        "cleaners",
+        "rug",
+        "carpet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85805175,
+        102080787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5zdRyWV1XPIdNPFnfan6KO_38.407761_-90.398634@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462590555,
+    "wof:geomhash":"0513ba074e413d12953b9ef665baffda",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080787,
+            "neighbourhood_id":85805175,
+            "region_id":85688661,
+            "venue_id":789788579
+        }
+    ],
+    "wof:id":789788579,
+    "wof:lastmodified":1462590555,
+    "wof:name":"Carpet Technology Cleaning",
+    "wof:parent_id":85805175,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners",
+        "rug",
+        "carpet"
+    ]
+},
+  "bbox": [
+    -90.398634,
+    38.407761,
+    -90.398634,
+    38.407761
+],
+  "geometry": {"coordinates":[-90.398634,38.407761],"type":"Point"}
+}

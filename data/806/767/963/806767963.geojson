@@ -1,0 +1,84 @@
+{
+  "id": 806767963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.453054,38.793054,-90.453054,38.793054",
+    "geom:latitude":38.793054,
+    "geom:longitude":-90.453054,
+    "iso:country":"US",
+    "sg:address":"13762 Missouri Bottom Rd",
+    "sg:city":"Bridgeton",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 298 7022",
+    "sg:postcode":"63044",
+    "sg:province":"MO",
+    "sg:tags":[
+        "operator",
+        "excavating",
+        "contractor",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972341,
+        102086173,
+        85806637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Xi0Igl3FBwXdiS1szOKov_38.793054_-90.453054@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462600912,
+    "wof:geomhash":"ad828be083b64b65613c7e12ccc7df91",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086173,
+            "locality_id":85972341,
+            "neighbourhood_id":85806637,
+            "region_id":85688661,
+            "venue_id":806767963
+        }
+    ],
+    "wof:id":806767963,
+    "wof:lastmodified":1462600912,
+    "wof:name":"Jon Hiron's Excavating",
+    "wof:parent_id":85806637,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "excavating",
+        "contractor",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -90.453054,
+    38.793054,
+    -90.453054,
+    38.793054
+],
+  "geometry": {"coordinates":[-90.45305399999999,38.793054],"type":"Point"}
+}

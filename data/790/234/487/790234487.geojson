@@ -1,0 +1,71 @@
+{
+  "id": 790234487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.441647,38.774813,-90.441647,38.774813",
+    "geom:latitude":38.774813,
+    "geom:longitude":-90.441647,
+    "iso:country":"US",
+    "sg:address":"13524 NW Industrial Dr",
+    "sg:city":"Bridgeton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 291 4140",
+    "sg:postcode":"63044",
+    "sg:province":"MO",
+    "sg:tags":[
+        "truck"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972341,
+        102086173,
+        85806637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5BMxFsyG7vwHbnbzjgeLfQ_38.774813_-90.441647@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462594206,
+    "wof:geomhash":"7210af2a6d5933793d80188090a38c22",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086173,
+            "locality_id":85972341,
+            "neighbourhood_id":85806637,
+            "region_id":85688661,
+            "venue_id":790234487
+        }
+    ],
+    "wof:id":790234487,
+    "wof:lastmodified":1462594206,
+    "wof:name":"Systemwide Service Corp",
+    "wof:parent_id":85806637,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck"
+    ]
+},
+  "bbox": [
+    -90.441647,
+    38.774813,
+    -90.441647,
+    38.774813
+],
+  "geometry": {"coordinates":[-90.441647,38.774813],"type":"Point"}
+}

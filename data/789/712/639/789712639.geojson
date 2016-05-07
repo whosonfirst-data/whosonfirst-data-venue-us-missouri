@@ -1,0 +1,71 @@
+{
+  "id": 789712639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.588678,38.401397,-90.588678,38.401397",
+    "geom:latitude":38.401397,
+    "geom:longitude":-90.588678,
+    "iso:country":"US",
+    "sg:address":"6983 Apache Ln",
+    "sg:city":"House Springs",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Self-service Laundry",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 375 3735",
+    "sg:postcode":"63051",
+    "sg:province":"MO",
+    "sg:tags":[
+        "coin"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971019,
+        102080787,
+        85817237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1M0bCvQ5oSl8HNP1wIbWVk_38.401397_-90.588678@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462589953,
+    "wof:geomhash":"00995efe00bbe2743e748ddf8ab91ae4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080787,
+            "locality_id":85971019,
+            "neighbourhood_id":85817237,
+            "region_id":85688661,
+            "venue_id":789712639
+        }
+    ],
+    "wof:id":789712639,
+    "wof:lastmodified":1462589953,
+    "wof:name":"Rainbow Laundromat",
+    "wof:parent_id":85817237,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "coin"
+    ]
+},
+  "bbox": [
+    -90.588678,
+    38.401397,
+    -90.588678,
+    38.401397
+],
+  "geometry": {"coordinates":[-90.588678,38.401397],"type":"Point"}
+}

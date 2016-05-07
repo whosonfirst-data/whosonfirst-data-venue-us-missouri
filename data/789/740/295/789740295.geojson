@@ -1,0 +1,69 @@
+{
+  "id": 789740295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.666359,38.233192,-90.666359,38.233192",
+    "geom:latitude":38.233192,
+    "geom:longitude":-90.666359,
+    "iso:country":"US",
+    "sg:address":"7332 Woods Rd",
+    "sg:city":"Hillsboro",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 452 3255",
+    "sg:postcode":"63050",
+    "sg:province":"MO",
+    "sg:tags":[
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85848677,
+        102080787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6fSUVb2DckSxUK7CQ0VlHM_38.233192_-90.666359@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462590179,
+    "wof:geomhash":"a033d11bd803922ce6ecf66d6658ae72",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080787,
+            "neighbourhood_id":85848677,
+            "region_id":85688661,
+            "venue_id":789740295
+        }
+    ],
+    "wof:id":789740295,
+    "wof:lastmodified":1462590179,
+    "wof:name":"Die Works Inc",
+    "wof:parent_id":85848677,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mfg"
+    ]
+},
+  "bbox": [
+    -90.666359,
+    38.233192,
+    -90.666359,
+    38.233192
+],
+  "geometry": {"coordinates":[-90.666359,38.233192],"type":"Point"}
+}

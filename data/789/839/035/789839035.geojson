@@ -1,0 +1,71 @@
+{
+  "id": 789839035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.635175,39.36978,-94.635175,39.36978",
+    "geom:latitude":39.36978,
+    "geom:longitude":-94.635175,
+    "iso:country":"US",
+    "sg:address":"4835 Lisa's Ln",
+    "sg:city":"Smithville",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 532 8075",
+    "sg:postcode":"64089",
+    "sg:province":"MO",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970739,
+        102085271,
+        85851839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7EsdggucKwOblPhIAFgaWF_39.369780_-94.635175@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462590939,
+    "wof:geomhash":"3480a969101762c1dc7ea6414a0d47ee",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085271,
+            "locality_id":85970739,
+            "neighbourhood_id":85851839,
+            "region_id":85688661,
+            "venue_id":789839035
+        }
+    ],
+    "wof:id":789839035,
+    "wof:lastmodified":1462590939,
+    "wof:name":"Jagged Edge",
+    "wof:parent_id":85851839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -94.635175,
+    39.36978,
+    -94.635175,
+    39.36978
+],
+  "geometry": {"coordinates":[-94.635175,39.36978],"type":"Point"}
+}

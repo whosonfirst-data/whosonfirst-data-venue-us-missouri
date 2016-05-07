@@ -1,0 +1,72 @@
+{
+  "id": 807091115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.790765,37.943295,-91.790765,37.943295",
+    "geom:latitude":37.943295,
+    "geom:longitude":-91.790765,
+    "iso:country":"US",
+    "sg:address":"1405 Martin Springs Dr",
+    "sg:city":"Rolla",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/rolla/141704-waffle-house/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 341 2655",
+    "sg:postcode":"65401",
+    "sg:province":"MO",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970821,
+        102086893,
+        85814531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6PzHzIbFzZ881nwrjidn3i_37.943295_-91.790765@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462603628,
+    "wof:geomhash":"f4c569b14bacb341b5dd72de2a0e7666",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086893,
+            "locality_id":85970821,
+            "neighbourhood_id":85814531,
+            "region_id":85688661,
+            "venue_id":807091115
+        }
+    ],
+    "wof:id":807091115,
+    "wof:lastmodified":1462603628,
+    "wof:name":"Waffle House",
+    "wof:parent_id":85814531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -91.790765,
+    37.943295,
+    -91.790765,
+    37.943295
+],
+  "geometry": {"coordinates":[-91.79076499999999,37.943295],"type":"Point"}
+}

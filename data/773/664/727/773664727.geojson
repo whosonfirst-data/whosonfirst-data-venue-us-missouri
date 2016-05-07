@@ -1,0 +1,71 @@
+{
+  "id": 773664727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.653575,38.799514,-90.653575,38.799514",
+    "geom:latitude":38.799514,
+    "geom:longitude":-90.653575,
+    "iso:country":"US",
+    "sg:address":"217 Salt Lick Rd",
+    "sg:city":"St Peters",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 970 3505",
+    "sg:postcode":"63376",
+    "sg:province":"MO",
+    "sg:tags":[
+        "baker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_40ruV8krDTttaIaPp5ENPO_38.799514_-90.653575@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462587432,
+    "wof:geomhash":"d07e48e9bca49b044fc3f8d9790f94f2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":773664727
+        }
+    ],
+    "wof:id":773664727,
+    "wof:lastmodified":1462587432,
+    "wof:name":"Dierbergs Bakeries",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "baker"
+    ]
+},
+  "bbox": [
+    -90.653575,
+    38.799514,
+    -90.653575,
+    38.799514
+],
+  "geometry": {"coordinates":[-90.653575,38.799514],"type":"Point"}
+}

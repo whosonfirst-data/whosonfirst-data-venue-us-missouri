@@ -1,0 +1,77 @@
+{
+  "id": 773724819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.12463,38.550326,-92.12463,38.550326",
+    "geom:latitude":38.550326,
+    "geom:longitude":-92.12463,
+    "iso:country":"US",
+    "sg:address":"226 Brookdale Dr",
+    "sg:city":"Jefferson City",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 636 7785",
+    "sg:postcode":"65101",
+    "sg:province":"MO",
+    "sg:tags":[
+        "operator",
+        "local",
+        "courier",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970647,
+        102087511,
+        85837745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1YHxnmy2GyYBujnlOo6LIB_38.550326_-92.124630@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462587905,
+    "wof:geomhash":"5cd27cddbfdd55be06e8073bc0f1d1de",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087511,
+            "locality_id":85970647,
+            "neighbourhood_id":85837745,
+            "region_id":85688661,
+            "venue_id":773724819
+        }
+    ],
+    "wof:id":773724819,
+    "wof:lastmodified":1462587905,
+    "wof:name":"Jefferson City Express Service",
+    "wof:parent_id":85837745,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "courier",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -92.12463,
+    38.550326,
+    -92.12463,
+    38.550326
+],
+  "geometry": {"coordinates":[-92.12463,38.550326],"type":"Point"}
+}

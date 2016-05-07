@@ -1,0 +1,82 @@
+{
+  "id": 807109041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.523999,38.673146,-90.523999,38.673146",
+    "geom:latitude":38.673146,
+    "geom:longitude":-90.523999,
+    "iso:country":"US",
+    "sg:address":"14476 Marmont Dr",
+    "sg:city":"Chesterfield",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Testing Lab",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 469 6969",
+    "sg:postcode":"63017",
+    "sg:province":"MO",
+    "sg:tags":[
+        "laboratory",
+        "dental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85829043,
+        102191575,
+        404517241,
+        85633793,
+        85972357,
+        102086173,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3nZYc9Nh7VRfsHF70QJuTt_38.673146_-90.523999@1303262925"
+    },
+    "wof:country":"US",
+    "wof:created":1462603825,
+    "wof:geomhash":"5763f567c2deeaa420cf9e1d2a27bf68",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086173,
+            "localadmin_id":404517241,
+            "locality_id":85972357,
+            "neighbourhood_id":85829043,
+            "region_id":85688661,
+            "venue_id":807109041
+        }
+    ],
+    "wof:id":807109041,
+    "wof:lastmodified":1462603825,
+    "wof:name":"Crown Dental Laboratories",
+    "wof:parent_id":85829043,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory",
+        "dental"
+    ]
+},
+  "bbox": [
+    -90.523999,
+    38.673146,
+    -90.523999,
+    38.673146
+],
+  "geometry": {"coordinates":[-90.523999,38.673146],"type":"Point"}
+}

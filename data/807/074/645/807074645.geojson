@@ -1,0 +1,74 @@
+{
+  "id": 807074645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.645854,37.671274,-90.645854,37.671274",
+    "geom:latitude":37.671274,
+    "geom:longitude":-90.645854,
+    "iso:country":"US",
+    "sg:address":"1500 N Highway 21",
+    "sg:city":"Ironton",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/iron/201594-sonic/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 546 0070",
+    "sg:postcode":"63650",
+    "sg:province":"MO",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970665,
+        102085297,
+        85816309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2G7BfQLw6unDfgCoA3wxZv_37.671274_-90.645854@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462603493,
+    "wof:geomhash":"bdf2560ed8d5a3ff2fd249a96813eaa2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085297,
+            "locality_id":85970665,
+            "neighbourhood_id":85816309,
+            "region_id":85688661,
+            "venue_id":807074645
+        }
+    ],
+    "wof:id":807074645,
+    "wof:lastmodified":1462603493,
+    "wof:name":"Sonic",
+    "wof:parent_id":85816309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -90.645854,
+    37.671274,
+    -90.645854,
+    37.671274
+],
+  "geometry": {"coordinates":[-90.645854,37.671274],"type":"Point"}
+}

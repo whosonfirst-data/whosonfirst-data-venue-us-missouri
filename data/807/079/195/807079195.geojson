@@ -1,0 +1,72 @@
+{
+  "id": 807079195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.766293,39.356037,-94.766293,39.356037",
+    "geom:latitude":39.356037,
+    "geom:longitude":-94.766293,
+    "iso:country":"US",
+    "sg:address":"1824 Prairie View Rd",
+    "sg:city":"Platte City",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/carroll/195649-taco-bell/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 858 5675",
+    "sg:postcode":"64079",
+    "sg:province":"MO",
+    "sg:tags":[
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970739,
+        102085271,
+        85851839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_69EitC1NVCodIbRwqbLwfc_39.356037_-94.766293@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462603526,
+    "wof:geomhash":"5e19ad573a46b653862f98e0dc533bcb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085271,
+            "locality_id":85970739,
+            "neighbourhood_id":85851839,
+            "region_id":85688661,
+            "venue_id":807079195
+        }
+    ],
+    "wof:id":807079195,
+    "wof:lastmodified":1462603526,
+    "wof:name":"Taco Bell",
+    "wof:parent_id":85851839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican"
+    ]
+},
+  "bbox": [
+    -94.766293,
+    39.356037,
+    -94.766293,
+    39.356037
+],
+  "geometry": {"coordinates":[-94.766293,39.356037],"type":"Point"}
+}

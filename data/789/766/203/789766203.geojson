@@ -1,0 +1,71 @@
+{
+  "id": 789766203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.701323,38.801459,-90.701323,38.801459",
+    "geom:latitude":38.801459,
+    "geom:longitude":-90.701323,
+    "iso:country":"US",
+    "sg:address":"35 Ofallon Sq",
+    "sg:city":"O Fallon",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 281 8272",
+    "sg:postcode":"63366",
+    "sg:province":"MO",
+    "sg:tags":[
+        "manicuring"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5RnNImO6DIdzTzMPlTBv2Y_38.801459_-90.701323@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462590375,
+    "wof:geomhash":"13dc538b7b8194bfb7be7a27da1bbea5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":789766203
+        }
+    ],
+    "wof:id":789766203,
+    "wof:lastmodified":1462590375,
+    "wof:name":"Nail Tip",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "manicuring"
+    ]
+},
+  "bbox": [
+    -90.701323,
+    38.801459,
+    -90.701323,
+    38.801459
+],
+  "geometry": {"coordinates":[-90.701323,38.801459],"type":"Point"}
+}

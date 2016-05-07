@@ -1,0 +1,71 @@
+{
+  "id": 789999591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.60477,37.989965,-91.60477,37.989965",
+    "geom:latitude":37.989965,
+    "geom:longitude":-91.60477,
+    "iso:country":"US",
+    "sg:address":"13 Kathryn Dr",
+    "sg:city":"St James",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 265 8542",
+    "sg:postcode":"65559",
+    "sg:province":"MO",
+    "sg:tags":[
+        "clergy"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970819,
+        102086893,
+        85847353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_27i0sN9JX8Mrz1ZPDSNxzB_37.989965_-91.604770@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462592326,
+    "wof:geomhash":"cecb51e821bd6577661a3e5d0be918e2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086893,
+            "locality_id":85970819,
+            "neighbourhood_id":85847353,
+            "region_id":85688661,
+            "venue_id":789999591
+        }
+    ],
+    "wof:id":789999591,
+    "wof:lastmodified":1462592326,
+    "wof:name":"Mick Thrasher",
+    "wof:parent_id":85847353,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clergy"
+    ]
+},
+  "bbox": [
+    -91.60477,
+    37.989965,
+    -91.60477,
+    37.989965
+],
+  "geometry": {"coordinates":[-91.60477,37.989965],"type":"Point"}
+}

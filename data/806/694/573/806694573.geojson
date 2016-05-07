@@ -1,0 +1,71 @@
+{
+  "id": 806694573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.69819,38.841292,-90.69819,38.841292",
+    "geom:latitude":38.841292,
+    "geom:longitude":-90.69819,
+    "iso:country":"US",
+    "sg:address":"1632 N Main St",
+    "sg:city":"O Fallon",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 240 1313",
+    "sg:postcode":"63366",
+    "sg:province":"MO",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5iy5NkBW0uzG0BOnQcKabC_38.841292_-90.698190@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462600293,
+    "wof:geomhash":"58f07cb6dd56d8ecc2122800d8eb8d45",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":806694573
+        }
+    ],
+    "wof:id":806694573,
+    "wof:lastmodified":1462600293,
+    "wof:name":"North Main Animal Hospital",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -90.69819,
+    38.841292,
+    -90.69819,
+    38.841292
+],
+  "geometry": {"coordinates":[-90.69819,38.841292],"type":"Point"}
+}

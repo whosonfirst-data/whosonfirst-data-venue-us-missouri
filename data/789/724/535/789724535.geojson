@@ -1,0 +1,75 @@
+{
+  "id": 789724535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.557306,38.791713,-90.557306,38.791713",
+    "geom:latitude":38.791713,
+    "geom:longitude":-90.557306,
+    "iso:country":"US",
+    "sg:address":"3740 W Clay St",
+    "sg:city":"Saint Charles",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 724 3433",
+    "sg:postcode":"63301",
+    "sg:province":"MO",
+    "sg:tags":[
+        "grocery",
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6t7XqU2I2He1l9MUWVJWHr_38.791713_-90.557306@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462590062,
+    "wof:geomhash":"35efb6128fd8a1f6165ff02a4aa7f696",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":789724535
+        }
+    ],
+    "wof:id":789724535,
+    "wof:lastmodified":1462590062,
+    "wof:name":"Citgo",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocery",
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -90.557306,
+    38.791713,
+    -90.557306,
+    38.791713
+],
+  "geometry": {"coordinates":[-90.557306,38.791713],"type":"Point"}
+}

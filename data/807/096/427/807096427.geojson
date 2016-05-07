@@ -1,0 +1,72 @@
+{
+  "id": 807096427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.296333,37.116266,-93.296333,37.116266",
+    "geom:latitude":37.116266,
+    "geom:longitude":-93.296333,
+    "iso:country":"US",
+    "sg:address":"330 W Plainview Rd",
+    "sg:city":"Springfield",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/springfield/148690-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 885 0100",
+    "sg:postcode":"65810",
+    "sg:province":"MO",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85881143,
+        102087523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1bYpS3DDQJ2lM0S7nj867K_37.116266_-93.296333@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462603679,
+    "wof:geomhash":"ebb4776f3ade49b9b6eda19510a52818",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087523,
+            "neighbourhood_id":85881143,
+            "region_id":85688661,
+            "venue_id":807096427
+        }
+    ],
+    "wof:id":807096427,
+    "wof:lastmodified":1462603679,
+    "wof:name":"Subway",
+    "wof:parent_id":85881143,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -93.296333,
+    37.116266,
+    -93.296333,
+    37.116266
+],
+  "geometry": {"coordinates":[-93.296333,37.116266],"type":"Point"}
+}

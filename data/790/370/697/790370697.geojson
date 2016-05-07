@@ -1,0 +1,86 @@
+{
+  "id": 790370697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.549513,37.06997,-94.549513,37.06997",
+    "geom:latitude":37.06997,
+    "geom:longitude":-94.549513,
+    "iso:country":"US",
+    "sg:address":"2220 W 20th St",
+    "sg:city":"Joplin",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 623 0700",
+    "sg:postcode":"64804",
+    "sg:province":"MO",
+    "sg:tags":[
+        "manufacture",
+        "ice"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85885363,
+        102191575,
+        404518215,
+        85633793,
+        85970893,
+        102087525,
+        85688661,
+        85810925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1h0xL26R7R646COR6lOYbW_37.069970_-94.549513@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462595309,
+    "wof:geomhash":"b7819d633a7e4d954b85c803ba0bd3f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087525,
+            "localadmin_id":404518215,
+            "locality_id":85970893,
+            "neighbourhood_id":85885363,
+            "region_id":85688661,
+            "venue_id":790370697
+        },
+        {
+            "country_id":85633793,
+            "county_id":102087525,
+            "locality_id":85970893,
+            "neighbourhood_id":85810925,
+            "region_id":85688661,
+            "venue_id":790370697
+        }
+    ],
+    "wof:id":790370697,
+    "wof:lastmodified":1462595309,
+    "wof:name":"Miners Ice Co Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "manufacture",
+        "ice"
+    ]
+},
+  "bbox": [
+    -94.549513,
+    37.06997,
+    -94.549513,
+    37.06997
+],
+  "geometry": {"coordinates":[-94.549513,37.06997],"type":"Point"}
+}

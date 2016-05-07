@@ -1,0 +1,75 @@
+{
+  "id": 789580551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.778847,39.369742,-94.778847,39.369742",
+    "geom:latitude":39.369742,
+    "geom:longitude":-94.778847,
+    "iso:country":"US",
+    "sg:address":"212 Marshall Rd",
+    "sg:city":"Platte City",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 858 2412",
+    "sg:postcode":"64079",
+    "sg:province":"MO",
+    "sg:tags":[
+        "govt",
+        "administration",
+        "health"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970739,
+        102085271,
+        85851839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1BRQOL45eLi8zw2LF7yj6M_39.369742_-94.778847@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462588907,
+    "wof:geomhash":"246f8af0fe83e8758992d80b8ee18c1e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085271,
+            "locality_id":85970739,
+            "neighbourhood_id":85851839,
+            "region_id":85688661,
+            "venue_id":789580551
+        }
+    ],
+    "wof:id":789580551,
+    "wof:lastmodified":1462588907,
+    "wof:name":"Platte County Health Center",
+    "wof:parent_id":85851839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "govt",
+        "administration",
+        "health"
+    ]
+},
+  "bbox": [
+    -94.778847,
+    39.369742,
+    -94.778847,
+    39.369742
+],
+  "geometry": {"coordinates":[-94.778847,39.369742],"type":"Point"}
+}

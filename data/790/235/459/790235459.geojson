@@ -1,0 +1,73 @@
+{
+  "id": 790235459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.47031,38.78243,-90.47031,38.78243",
+    "geom:latitude":38.78243,
+    "geom:longitude":-90.47031,
+    "iso:country":"US",
+    "sg:address":"13939 Saint Charles Rock Rd",
+    "sg:city":"Hazelwood",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 298 2658",
+    "sg:postcode":"63044",
+    "sg:province":"MO",
+    "sg:tags":[
+        "warehouse",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972341,
+        102086173,
+        85806637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3U0lVRnQCYCTenuXu4LUwB_38.782430_-90.470310@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462594213,
+    "wof:geomhash":"dfaf9c39832bab5eea3bce65be7361c4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086173,
+            "locality_id":85972341,
+            "neighbourhood_id":85806637,
+            "region_id":85688661,
+            "venue_id":790235459
+        }
+    ],
+    "wof:id":790235459,
+    "wof:lastmodified":1462594213,
+    "wof:name":"Chesterfield Valley Distr",
+    "wof:parent_id":85806637,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "warehouse",
+        "storage"
+    ]
+},
+  "bbox": [
+    -90.47031,
+    38.78243,
+    -90.47031,
+    38.78243
+],
+  "geometry": {"coordinates":[-90.47031,38.78243],"type":"Point"}
+}

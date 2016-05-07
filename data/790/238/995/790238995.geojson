@@ -1,0 +1,86 @@
+{
+  "id": 790238995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.458608,38.681958,-90.458608,38.681958",
+    "geom:latitude":38.681958,
+    "geom:longitude":-90.458608,
+    "iso:country":"US",
+    "sg:address":"1231 Ross Ave",
+    "sg:city":"St Louis",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Medical Equipment & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 434 9582",
+    "sg:postcode":"63146",
+    "sg:province":"MO",
+    "sg:tags":[
+        "physician",
+        "dental",
+        "orthodontic",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85805719,
+        102191575,
+        404517323,
+        85633793,
+        85972315,
+        102086173,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1agz678xoQyxsHtexZLfss_38.681958_-90.458608@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462594241,
+    "wof:geomhash":"492a0d155dfbc9dd0dfa9689fda2dc66",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086173,
+            "localadmin_id":404517323,
+            "locality_id":85972315,
+            "neighbourhood_id":85805719,
+            "region_id":85688661,
+            "venue_id":790238995
+        }
+    ],
+    "wof:id":790238995,
+    "wof:lastmodified":1462594241,
+    "wof:name":"Ortho-Cycle Co Inc",
+    "wof:parent_id":85805719,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "dental",
+        "orthodontic",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -90.458608,
+    38.681958,
+    -90.458608,
+    38.681958
+],
+  "geometry": {"coordinates":[-90.458608,38.681958],"type":"Point"}
+}

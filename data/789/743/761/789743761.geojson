@@ -1,0 +1,73 @@
+{
+  "id": 789743761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.7346,38.842639,-90.7346,38.842639",
+    "geom:latitude":38.842639,
+    "geom:longitude":-90.7346,
+    "iso:country":"US",
+    "sg:address":"1865 Alois Ave",
+    "sg:city":"O Fallon",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 272 2261",
+    "sg:postcode":"63366",
+    "sg:province":"MO",
+    "sg:tags":[
+        "washer",
+        "dryer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3pgZ1euP05BeLV1q21sUMG_38.842639_-90.734600@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462590205,
+    "wof:geomhash":"cb3d4c61cc82bc32eb736b61a7efbccd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":789743761
+        }
+    ],
+    "wof:id":789743761,
+    "wof:lastmodified":1462590205,
+    "wof:name":"Gary Patton Service Co",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "washer",
+        "dryer"
+    ]
+},
+  "bbox": [
+    -90.7346,
+    38.842639,
+    -90.7346,
+    38.842639
+],
+  "geometry": {"coordinates":[-90.7346,38.842639],"type":"Point"}
+}

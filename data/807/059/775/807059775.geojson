@@ -1,0 +1,80 @@
+{
+  "id": 807059775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.501456,38.679098,-90.501456,38.679098",
+    "geom:latitude":38.679098,
+    "geom:longitude":-90.501456,
+    "iso:country":"US",
+    "sg:address":"46 4 Seasons Shopping Ctr",
+    "sg:city":"Chesterfield",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/maryland-heights/55116-st-louis-bread-co/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 878 7373",
+    "sg:postcode":"63017",
+    "sg:province":"MO",
+    "sg:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85805719,
+        102191575,
+        404517323,
+        85633793,
+        85972315,
+        102086173,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Hj31tEk9jsVbrTqh9vM7o_38.679098_-90.501456@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462603369,
+    "wof:geomhash":"81a936711a5f1c6c93eafddcd8167ba7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086173,
+            "localadmin_id":404517323,
+            "locality_id":85972315,
+            "neighbourhood_id":85805719,
+            "region_id":85688661,
+            "venue_id":807059775
+        }
+    ],
+    "wof:id":807059775,
+    "wof:lastmodified":1462603369,
+    "wof:name":"St. Louis Bread Co.",
+    "wof:parent_id":85805719,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -90.501456,
+    38.679098,
+    -90.501456,
+    38.679098
+],
+  "geometry": {"coordinates":[-90.501456,38.679098],"type":"Point"}
+}

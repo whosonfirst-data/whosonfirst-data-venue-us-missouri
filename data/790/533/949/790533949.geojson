@@ -1,0 +1,78 @@
+{
+  "id": 790533949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.415998,38.211479,-90.415998,38.211479",
+    "geom:latitude":38.211479,
+    "geom:longitude":-90.415998,
+    "iso:country":"US",
+    "sg:address":"1504 Robert Thompson Ln",
+    "sg:city":"Festus",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 937 0044",
+    "sg:postcode":"63028",
+    "sg:province":"MO",
+    "sg:tags":[
+        "authorities",
+        "housing",
+        "program"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85848677,
+        102080787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_26xlWO1xgdXt5aTabDhcYU_38.211479_-90.415998@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462596654,
+    "wof:geomhash":"214ec2d41f05f47b22090ed17ff62565",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080787,
+            "neighbourhood_id":85848677,
+            "region_id":85688661,
+            "venue_id":790533949
+        }
+    ],
+    "wof:id":790533949,
+    "wof:lastmodified":1462596654,
+    "wof:name":"Festus Housing Authority",
+    "wof:parent_id":85848677,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "authorities",
+        "housing",
+        "program"
+    ]
+},
+  "bbox": [
+    -90.415998,
+    38.211479,
+    -90.415998,
+    38.211479
+],
+  "geometry": {"coordinates":[-90.415998,38.211479],"type":"Point"}
+}

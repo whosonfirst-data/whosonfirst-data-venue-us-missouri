@@ -1,0 +1,90 @@
+{
+  "id": 807145553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.246002,38.6399,-90.246002,38.6399",
+    "geom:latitude":38.6399,
+    "geom:longitude":-90.246002,
+    "iso:country":"US",
+    "sg:address":"4101 Lindell Blvd",
+    "sg:city":"Saint Louis",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 533 4300",
+    "sg:postcode":"63108",
+    "sg:province":"MO",
+    "sg:tags":[
+        "smog",
+        "check",
+        "tire"
+    ],
+    "sg:website":"www.midtowntirestl.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85867031,
+        102191575,
+        404518053,
+        85633793,
+        85971343,
+        102080791,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3keP3uLAJbJbGdbu8d73Ly_38.639900_-90.246002@1303262928"
+    },
+    "wof:country":"US",
+    "wof:created":1462604219,
+    "wof:geomhash":"7a74df1a17ad7839c992ef0f53c5b426",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080791,
+            "localadmin_id":404518053,
+            "locality_id":85971343,
+            "neighbourhood_id":85867031,
+            "region_id":85688661,
+            "venue_id":807145553
+        }
+    ],
+    "wof:id":807145553,
+    "wof:lastmodified":1462604219,
+    "wof:name":"Midtown Tire & Auto Service",
+    "wof:parent_id":85867031,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "smog",
+        "check",
+        "tire"
+    ]
+},
+  "bbox": [
+    -90.246002,
+    38.6399,
+    -90.246002,
+    38.6399
+],
+  "geometry": {"coordinates":[-90.246002,38.6399],"type":"Point"}
+}

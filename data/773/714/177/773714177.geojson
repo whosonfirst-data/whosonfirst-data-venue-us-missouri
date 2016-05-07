@@ -1,0 +1,75 @@
+{
+  "id": 773714177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.754811,37.938363,-91.754811,37.938363",
+    "geom:latitude":37.938363,
+    "geom:longitude":-91.754811,
+    "iso:country":"US",
+    "sg:address":"1218 State Hwy 72",
+    "sg:city":"Rolla",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 364 9352",
+    "sg:postcode":"65401",
+    "sg:province":"MO",
+    "sg:tags":[
+        "physician",
+        "surgeon",
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970821,
+        102086893,
+        85814531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_32jfOBcWj8rIAJGL00tLm0_37.938363_-91.754811@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462587831,
+    "wof:geomhash":"7f979bbf25fb6f4c4bc9421a533aeb1a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086893,
+            "locality_id":85970821,
+            "neighbourhood_id":85814531,
+            "region_id":85688661,
+            "venue_id":773714177
+        }
+    ],
+    "wof:id":773714177,
+    "wof:lastmodified":1462587831,
+    "wof:name":"Dr David's Family Clinic",
+    "wof:parent_id":85814531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon",
+        "medical"
+    ]
+},
+  "bbox": [
+    -91.754811,
+    37.938363,
+    -91.754811,
+    37.938363
+],
+  "geometry": {"coordinates":[-91.754811,37.938363],"type":"Point"}
+}

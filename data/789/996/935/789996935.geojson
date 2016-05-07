@@ -1,0 +1,75 @@
+{
+  "id": 789996935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.373263,38.761183,-90.373263,38.761183",
+    "geom:latitude":38.761183,
+    "geom:longitude":-90.373263,
+    "iso:country":"US",
+    "sg:address":"5615 N Lindbergh Blvd",
+    "sg:city":"Hazelwood",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 895 4180",
+    "sg:postcode":"63042",
+    "sg:province":"MO",
+    "sg:tags":[
+        "passenger"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85840903,
+        102191575,
+        404517389,
+        85633793,
+        85972265,
+        102086173,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6TvCdxmYxqfQYTl5EQBQsN_38.761183_-90.373263@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462592303,
+    "wof:geomhash":"f8ca2f314eba449a774feca6a1a5931d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086173,
+            "localadmin_id":404517389,
+            "locality_id":85972265,
+            "neighbourhood_id":85840903,
+            "region_id":85688661,
+            "venue_id":789996935
+        }
+    ],
+    "wof:id":789996935,
+    "wof:lastmodified":1462592303,
+    "wof:name":"Mile Post Transportation",
+    "wof:parent_id":85840903,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "passenger"
+    ]
+},
+  "bbox": [
+    -90.373263,
+    38.761183,
+    -90.373263,
+    38.761183
+],
+  "geometry": {"coordinates":[-90.37326299999999,38.761183],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 807062755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.468377,38.757069,-90.468377,38.757069",
+    "geom:latitude":38.757069,
+    "geom:longitude":-90.468377,
+    "iso:country":"US",
+    "sg:address":"13857 Riverport Dr",
+    "sg:city":"Maryland Heights",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/northwest/105763-dave--busters/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 209 8015",
+    "sg:postcode":"63043",
+    "sg:province":"MO",
+    "sg:tags":[
+        "american",
+        "pub"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972341,
+        102086173,
+        85806637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1AKbkZX9VZwO7hJEAOF95W_38.757069_-90.468377@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462603392,
+    "wof:geomhash":"d38789b913d31479aca1a4125218593b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086173,
+            "locality_id":85972341,
+            "neighbourhood_id":85806637,
+            "region_id":85688661,
+            "venue_id":807062755
+        }
+    ],
+    "wof:id":807062755,
+    "wof:lastmodified":1462603392,
+    "wof:name":"Dave & Buster's",
+    "wof:parent_id":85806637,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pub"
+    ]
+},
+  "bbox": [
+    -90.468377,
+    38.757069,
+    -90.468377,
+    38.757069
+],
+  "geometry": {"coordinates":[-90.468377,38.757069],"type":"Point"}
+}

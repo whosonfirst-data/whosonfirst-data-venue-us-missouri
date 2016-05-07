@@ -1,0 +1,71 @@
+{
+  "id": 790511709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.438408,37.791603,-90.438408,37.791603",
+    "geom:latitude":37.791603,
+    "geom:longitude":-90.438408,
+    "iso:country":"US",
+    "sg:address":"715 Maple Valley Dr",
+    "sg:city":"Farmington",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 760 1365",
+    "sg:postcode":"63640",
+    "sg:province":"MO",
+    "sg:tags":[
+        "clinic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970665,
+        102085297,
+        85816309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0rRlwcEX8Nx3hXbremkSQ7_37.791603_-90.438408@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462596465,
+    "wof:geomhash":"44c3e2a284d889489ef6f7a118444055",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085297,
+            "locality_id":85970665,
+            "neighbourhood_id":85816309,
+            "region_id":85688661,
+            "venue_id":790511709
+        }
+    ],
+    "wof:id":790511709,
+    "wof:lastmodified":1462596465,
+    "wof:name":"V A Outpatient Clinic",
+    "wof:parent_id":85816309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic"
+    ]
+},
+  "bbox": [
+    -90.438408,
+    37.791603,
+    -90.438408,
+    37.791603
+],
+  "geometry": {"coordinates":[-90.438408,37.791603],"type":"Point"}
+}

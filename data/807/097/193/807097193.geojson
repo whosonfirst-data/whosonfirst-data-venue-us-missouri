@@ -1,0 +1,85 @@
+{
+  "id": 807097193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.184585,38.630374,-90.184585,38.630374",
+    "geom:latitude":38.630374,
+    "geom:longitude":-90.184585,
+    "iso:country":"US",
+    "sg:address":"719 N 2nd St",
+    "sg:city":"Saint Louis",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/st-louis/285425-hannegans-restaurant--pub/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 241 8877",
+    "sg:postcode":"63102",
+    "sg:province":"MO",
+    "sg:tags":[
+        "food",
+        "american",
+        "pub"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873643,
+        102191575,
+        404518053,
+        85633793,
+        85971343,
+        102080791,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Swb8u0oaR458e1w8u2V1X_38.630724_-90.184533@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1462603689,
+    "wof:geomhash":"74d50809a7bdfaa6913657a20b38c1ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080791,
+            "localadmin_id":404518053,
+            "locality_id":85971343,
+            "neighbourhood_id":85873643,
+            "region_id":85688661,
+            "venue_id":807097193
+        }
+    ],
+    "wof:id":807097193,
+    "wof:lastmodified":1462603689,
+    "wof:name":"Hannegan's Restaurant & Pub",
+    "wof:parent_id":85873643,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "food",
+        "american",
+        "pub"
+    ]
+},
+  "bbox": [
+    -90.184585,
+    38.630374,
+    -90.184585,
+    38.630374
+],
+  "geometry": {"coordinates":[-90.184585,38.630374],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 789609575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.362259,39.372685,-94.362259,39.372685",
+    "geom:latitude":39.372685,
+    "geom:longitude":-94.362259,
+    "iso:country":"US",
+    "sg:address":"105 S Jefferson St",
+    "sg:city":"Kearney",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 903 0775",
+    "sg:postcode":"64060",
+    "sg:province":"MO",
+    "sg:tags":[
+        "therapist",
+        "physical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971507,
+        102086177,
+        85812855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1b4evalfLPFcBCItwxIH0Z_39.372685_-94.362259@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462589135,
+    "wof:geomhash":"49f221e70dc04f8adfaf064d35097610",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086177,
+            "locality_id":85971507,
+            "neighbourhood_id":85812855,
+            "region_id":85688661,
+            "venue_id":789609575
+        }
+    ],
+    "wof:id":789609575,
+    "wof:lastmodified":1462589135,
+    "wof:name":"Serc Of Kearney",
+    "wof:parent_id":85812855,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "therapist",
+        "physical"
+    ]
+},
+  "bbox": [
+    -94.362259,
+    39.372685,
+    -94.362259,
+    39.372685
+],
+  "geometry": {"coordinates":[-94.36225899999999,39.372685],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 773808749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.576066,39.359279,-94.576066,39.359279",
+    "geom:latitude":39.359279,
+    "geom:longitude":-94.576066,
+    "iso:country":"US",
+    "sg:address":"14616 Derryhale Way",
+    "sg:city":"Smithville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 785 233 0565",
+    "sg:postcode":"64089",
+    "sg:province":"MO",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970739,
+        102086177,
+        85836329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4m0V49PxCq71ZlZbBQTs5D_39.359279_-94.576066@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462588540,
+    "wof:geomhash":"e7acbda762721dd7b6baf058904f0c8d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086177,
+            "locality_id":85970739,
+            "neighbourhood_id":85836329,
+            "region_id":85688661,
+            "venue_id":773808749
+        }
+    ],
+    "wof:id":773808749,
+    "wof:lastmodified":1462588540,
+    "wof:name":"Edsall Auto Service Inc",
+    "wof:parent_id":85836329,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -94.576066,
+    39.359279,
+    -94.576066,
+    39.359279
+],
+  "geometry": {"coordinates":[-94.576066,39.359279],"type":"Point"}
+}

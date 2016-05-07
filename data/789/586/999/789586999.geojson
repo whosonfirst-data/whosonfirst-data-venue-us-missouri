@@ -1,0 +1,80 @@
+{
+  "id": 789586999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.233572,37.20259,-93.233572,37.20259",
+    "geom:latitude":37.20259,
+    "geom:longitude":-93.233572,
+    "iso:country":"US",
+    "sg:address":"435 S Union Ave",
+    "sg:city":"Springfield",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Accounting & Tax Preparation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 864 5455",
+    "sg:postcode":"65802",
+    "sg:province":"MO",
+    "sg:tags":[
+        "medical",
+        "administration",
+        "business"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971363,
+        102087523,
+        85881137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ZPeNKrUHhRLOHG9gVUBvC_37.202590_-93.233572@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462588963,
+    "wof:geomhash":"6821d48745645b731dd57df40998e671",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087523,
+            "locality_id":85971363,
+            "neighbourhood_id":85881137,
+            "region_id":85688661,
+            "venue_id":789586999
+        }
+    ],
+    "wof:id":789586999,
+    "wof:lastmodified":1462588963,
+    "wof:name":"Spurlock-Adams Medical Mgmt",
+    "wof:parent_id":85881137,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical",
+        "administration",
+        "business"
+    ]
+},
+  "bbox": [
+    -93.233572,
+    37.20259,
+    -93.233572,
+    37.20259
+],
+  "geometry": {"coordinates":[-93.233572,37.20259],"type":"Point"}
+}

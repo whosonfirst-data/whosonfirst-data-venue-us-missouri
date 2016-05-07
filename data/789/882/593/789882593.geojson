@@ -1,0 +1,71 @@
+{
+  "id": 789882593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.194103,39.34289,-91.194103,39.34289",
+    "geom:latitude":39.34289,
+    "geom:longitude":-91.194103,
+    "iso:country":"US",
+    "sg:address":"15 W Church St",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Court House",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 324 6606",
+    "sg:postcode":"63334",
+    "sg:province":"MO",
+    "sg:tags":[
+        "city"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971907,
+        102086151,
+        85817909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2O2kH8rVdbxjtIl4rcBAYj_39.342890_-91.194103@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462591313,
+    "wof:geomhash":"2bf4a1e97d729232a26822302322a666",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086151,
+            "locality_id":85971907,
+            "neighbourhood_id":85817909,
+            "region_id":85688661,
+            "venue_id":789882593
+        }
+    ],
+    "wof:id":789882593,
+    "wof:lastmodified":1462591313,
+    "wof:name":"Bowling Green Municipal Court",
+    "wof:parent_id":85817909,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "city"
+    ]
+},
+  "bbox": [
+    -91.194103,
+    39.34289,
+    -91.194103,
+    39.34289
+],
+  "geometry": {"coordinates":[-91.194103,39.34289],"type":"Point"}
+}

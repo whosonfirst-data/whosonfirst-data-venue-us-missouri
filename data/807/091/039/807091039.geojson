@@ -1,0 +1,74 @@
+{
+  "id": 807091039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.778304,37.93247,-91.778304,37.93247",
+    "geom:latitude":37.93247,
+    "geom:longitude":-91.778304,
+    "iso:country":"US",
+    "sg:address":"814 S Bishop Ave",
+    "sg:city":"Rolla",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/rolla/201718-sonic/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 341 9911",
+    "sg:postcode":"65401",
+    "sg:province":"MO",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970821,
+        102086893,
+        85814531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_05W96JyjJ4cglbdz5dk80B_37.932470_-91.778304@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462603627,
+    "wof:geomhash":"5d842f7791d08bad6f5621df1d666b83",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086893,
+            "locality_id":85970821,
+            "neighbourhood_id":85814531,
+            "region_id":85688661,
+            "venue_id":807091039
+        }
+    ],
+    "wof:id":807091039,
+    "wof:lastmodified":1462603627,
+    "wof:name":"Sonic",
+    "wof:parent_id":85814531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -91.778304,
+    37.93247,
+    -91.778304,
+    37.93247
+],
+  "geometry": {"coordinates":[-91.77830400000001,37.93247],"type":"Point"}
+}

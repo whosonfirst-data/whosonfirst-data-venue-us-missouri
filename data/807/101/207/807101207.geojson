@@ -1,0 +1,83 @@
+{
+  "id": 807101207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.777099,37.954243,-91.777099,37.954243",
+    "geom:latitude":37.954243,
+    "geom:longitude":-91.777099,
+    "iso:country":"US",
+    "sg:address":"1303 N Bishop Ave",
+    "sg:city":"Rolla",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Ice Cream",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/rolla/168066-dairy-queen/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 364 7200",
+    "sg:postcode":"65401",
+    "sg:province":"MO",
+    "sg:tags":[
+        "burger",
+        "american",
+        "ice",
+        "cream"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970821,
+        102086893,
+        85814531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0FtW6Mf8stEKZz0FRgG4Aw_37.954586_-91.777176@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462603746,
+    "wof:geomhash":"bceb1b677ed735136068e8b1fe8ce01c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086893,
+            "locality_id":85970821,
+            "neighbourhood_id":85814531,
+            "region_id":85688661,
+            "venue_id":807101207
+        }
+    ],
+    "wof:id":807101207,
+    "wof:lastmodified":1462603746,
+    "wof:name":"Dairy Queen",
+    "wof:parent_id":85814531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "ice",
+        "cream"
+    ]
+},
+  "bbox": [
+    -91.777099,
+    37.954243,
+    -91.777099,
+    37.954243
+],
+  "geometry": {"coordinates":[-91.77709900000001,37.954243],"type":"Point"}
+}

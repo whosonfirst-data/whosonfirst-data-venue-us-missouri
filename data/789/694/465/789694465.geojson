@@ -1,0 +1,71 @@
+{
+  "id": 789694465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.537153,38.853226,-90.537153,38.853226",
+    "geom:latitude":38.853226,
+    "geom:longitude":-90.537153,
+    "iso:country":"US",
+    "sg:address":"3877 Hwy B",
+    "sg:city":"Saint Charles",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Water",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 724 7586",
+    "sg:postcode":"63301",
+    "sg:province":"MO",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0gmUUC79KPc1rj1Gr6jTLH_38.853226_-90.537153@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462589813,
+    "wof:geomhash":"19733fc63904984247d14be39b4e47cc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":789694465
+        }
+    ],
+    "wof:id":789694465,
+    "wof:lastmodified":1462589813,
+    "wof:name":"Missouri American Water Co",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [
+    -90.537153,
+    38.853226,
+    -90.537153,
+    38.853226
+],
+  "geometry": {"coordinates":[-90.537153,38.853226],"type":"Point"}
+}

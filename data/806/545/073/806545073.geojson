@@ -1,0 +1,75 @@
+{
+  "id": 806545073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.146394,38.551952,-92.146394,38.551952",
+    "geom:latitude":38.551952,
+    "geom:longitude":-92.146394,
+    "iso:country":"US",
+    "sg:address":"705 Eastland Dr",
+    "sg:city":"Jefferson City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 636 8210",
+    "sg:postcode":"65101",
+    "sg:province":"MO",
+    "sg:tags":[
+        "cleaners",
+        "plant",
+        "drycleaning"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970647,
+        102087511,
+        85837745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3AT81FX7yUBSSy0LYnQgL3_38.551952_-92.146394@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462598998,
+    "wof:geomhash":"909d820e153cf7100cc6b8400b3a2b16",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087511,
+            "locality_id":85970647,
+            "neighbourhood_id":85837745,
+            "region_id":85688661,
+            "venue_id":806545073
+        }
+    ],
+    "wof:id":806545073,
+    "wof:lastmodified":1462598998,
+    "wof:name":"Robinson's Cleaners",
+    "wof:parent_id":85837745,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners",
+        "plant",
+        "drycleaning"
+    ]
+},
+  "bbox": [
+    -92.146394,
+    38.551952,
+    -92.146394,
+    38.551952
+],
+  "geometry": {"coordinates":[-92.146394,38.551952],"type":"Point"}
+}

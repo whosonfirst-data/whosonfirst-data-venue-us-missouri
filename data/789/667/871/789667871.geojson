@@ -1,0 +1,75 @@
+{
+  "id": 789667871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.486024,39.091758,-94.486024,39.091758",
+    "geom:latitude":39.091758,
+    "geom:longitude":-94.486024,
+    "iso:country":"US",
+    "sg:address":"1511 Marsh Ave",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 833 0844",
+    "sg:postcode":"64126",
+    "sg:province":"MO",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970739,
+        102081227,
+        85810269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2rpGDSnAwaeQt2lcSbfmCY_39.091758_-94.486024@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462589613,
+    "wof:geomhash":"6801d1c9ebf166cf95866cb68024e6d6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081227,
+            "locality_id":85970739,
+            "neighbourhood_id":85810269,
+            "region_id":85688661,
+            "venue_id":789667871
+        }
+    ],
+    "wof:id":789667871,
+    "wof:lastmodified":1462589613,
+    "wof:name":"Benfer's Auto & Collision",
+    "wof:parent_id":85810269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -94.486024,
+    39.091758,
+    -94.486024,
+    39.091758
+],
+  "geometry": {"coordinates":[-94.486024,39.091758],"type":"Point"}
+}

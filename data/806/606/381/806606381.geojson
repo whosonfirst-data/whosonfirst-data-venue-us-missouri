@@ -1,0 +1,83 @@
+{
+  "id": 806606381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.589001,39.246277,-94.589001,39.246277",
+    "geom:latitude":39.246277,
+    "geom:longitude":-94.589001,
+    "iso:country":"US",
+    "sg:address":"501 NW Barry Rd",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 413 2500",
+    "sg:postcode":"64155",
+    "sg:province":"MO",
+    "sg:tags":[
+        "clinic",
+        "general"
+    ],
+    "sg:website":"www.childrens-mercy.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85804625,
+        102191575,
+        404518075,
+        85633793,
+        85970739,
+        102081227,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Xde7kuG8NYcEs25FL9MTF_39.246277_-94.589001@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462599539,
+    "wof:geomhash":"9963f02b0559e578da3a33a647ea1517",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081227,
+            "localadmin_id":404518075,
+            "locality_id":85970739,
+            "neighbourhood_id":85804625,
+            "region_id":85688661,
+            "venue_id":806606381
+        }
+    ],
+    "wof:id":806606381,
+    "wof:lastmodified":1462599539,
+    "wof:name":"Children's Mercy Northland",
+    "wof:parent_id":85804625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic",
+        "general"
+    ]
+},
+  "bbox": [
+    -94.589001,
+    39.246277,
+    -94.589001,
+    39.246277
+],
+  "geometry": {"coordinates":[-94.589001,39.246277],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 806523337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.501013,38.783117,-90.501013,38.783117",
+    "geom:latitude":38.783117,
+    "geom:longitude":-90.501013,
+    "iso:country":"US",
+    "sg:address":"1640 Trendley Ave",
+    "sg:city":"Saint Charles",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 946 9860",
+    "sg:postcode":"63301",
+    "sg:province":"MO",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5S7J7bSkZuEnv3H4vsk7Wg_38.783117_-90.501013@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462598811,
+    "wof:geomhash":"5f2829817306a3cede6952eeab19ef6f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":806523337
+        }
+    ],
+    "wof:id":806523337,
+    "wof:lastmodified":1462598811,
+    "wof:name":"C & C Electric",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -90.501013,
+    38.783117,
+    -90.501013,
+    38.783117
+],
+  "geometry": {"coordinates":[-90.501013,38.783117],"type":"Point"}
+}

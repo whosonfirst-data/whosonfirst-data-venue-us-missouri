@@ -1,0 +1,80 @@
+{
+  "id": 807057953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.608964,38.668328,-90.608964,38.668328",
+    "geom:latitude":38.668328,
+    "geom:longitude":-90.608964,
+    "iso:country":"US",
+    "sg:address":"17416 Chesterfield Airport Rd",
+    "sg:city":"Chesterfield",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/chesterfield/16864-fox-and-hound/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 536 0802",
+    "sg:postcode":"63005",
+    "sg:province":"MO",
+    "sg:tags":[
+        "american",
+        "pub",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85805465,
+        102191575,
+        404517241,
+        85633793,
+        85972357,
+        102086173,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5mrzU951JgKOVcFjx7x35o_38.668328_-90.608964@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462603355,
+    "wof:geomhash":"f5bda02c8c36b64071bbfc7cda6ddf89",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086173,
+            "localadmin_id":404517241,
+            "locality_id":85972357,
+            "neighbourhood_id":85805465,
+            "region_id":85688661,
+            "venue_id":807057953
+        }
+    ],
+    "wof:id":807057953,
+    "wof:lastmodified":1462603355,
+    "wof:name":"Fox and Hound",
+    "wof:parent_id":85805465,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pub",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -90.608964,
+    38.668328,
+    -90.608964,
+    38.668328
+],
+  "geometry": {"coordinates":[-90.608964,38.668328],"type":"Point"}
+}

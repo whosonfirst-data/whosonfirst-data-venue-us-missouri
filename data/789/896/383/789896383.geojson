@@ -1,0 +1,71 @@
+{
+  "id": 789896383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.168675,38.576178,-92.168675,38.576178",
+    "geom:latitude":38.576178,
+    "geom:longitude":-92.168675,
+    "iso:country":"US",
+    "sg:address":"201 Monroe St",
+    "sg:city":"Jefferson City",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 635 5536",
+    "sg:postcode":"65101",
+    "sg:province":"MO",
+    "sg:tags":[
+        "counseling"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970647,
+        102087511,
+        85837745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6vtIzmeTePqRp33oHSS1i2_38.576178_-92.168675@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462591416,
+    "wof:geomhash":"196ea94c66b5a26fb1808360e3aa4aba",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087511,
+            "locality_id":85970647,
+            "neighbourhood_id":85837745,
+            "region_id":85688661,
+            "venue_id":789896383
+        }
+    ],
+    "wof:id":789896383,
+    "wof:lastmodified":1462591416,
+    "wof:name":"Center For Family Counseling",
+    "wof:parent_id":85837745,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "counseling"
+    ]
+},
+  "bbox": [
+    -92.168675,
+    38.576178,
+    -92.168675,
+    38.576178
+],
+  "geometry": {"coordinates":[-92.16867499999999,38.576178],"type":"Point"}
+}

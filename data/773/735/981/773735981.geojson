@@ -1,0 +1,73 @@
+{
+  "id": 773735981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.325354,37.026962,-93.325354,37.026962",
+    "geom:latitude":37.026962,
+    "geom:longitude":-93.325354,
+    "iso:country":"US",
+    "sg:address":"715 Foxx Dr",
+    "sg:city":"Nixa",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 724 8820",
+    "sg:postcode":"65714",
+    "sg:province":"MO",
+    "sg:tags":[
+        "lock",
+        "locksmith"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971577,
+        102087497,
+        85809751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3jdLJwFYVVmwQqhl7zPnYV_37.026962_-93.325354@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462587993,
+    "wof:geomhash":"a16b7743a3c491b08fe90964c3420846",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087497,
+            "locality_id":85971577,
+            "neighbourhood_id":85809751,
+            "region_id":85688661,
+            "venue_id":773735981
+        }
+    ],
+    "wof:id":773735981,
+    "wof:lastmodified":1462587993,
+    "wof:name":"Roadmaster Road Svc",
+    "wof:parent_id":85809751,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lock",
+        "locksmith"
+    ]
+},
+  "bbox": [
+    -93.325354,
+    37.026962,
+    -93.325354,
+    37.026962
+],
+  "geometry": {"coordinates":[-93.325354,37.026962],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 790477413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.863623,38.810356,-90.863623,38.810356",
+    "geom:latitude":38.810356,
+    "geom:longitude":-90.863623,
+    "iso:country":"US",
+    "sg:address":"851 W Pearce Blvd",
+    "sg:city":"Wentzville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 327 3009",
+    "sg:postcode":"63385",
+    "sg:province":"MO",
+    "sg:tags":[
+        "passenger",
+        "car"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5j12LQc9rh7J7u2EYeSCdj_38.810356_-90.863623@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462596170,
+    "wof:geomhash":"0d9d9db70d03fb5c10872fc99a876482",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":790477413
+        }
+    ],
+    "wof:id":790477413,
+    "wof:lastmodified":1462596170,
+    "wof:name":"Enterprise Lsg Co of St Louis",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "passenger",
+        "car"
+    ]
+},
+  "bbox": [
+    -90.863623,
+    38.810356,
+    -90.863623,
+    38.810356
+],
+  "geometry": {"coordinates":[-90.863623,38.810356],"type":"Point"}
+}

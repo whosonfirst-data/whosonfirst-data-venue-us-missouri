@@ -1,0 +1,71 @@
+{
+  "id": 789966517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.461756,38.602412,-90.461756,38.602412",
+    "geom:latitude":38.602412,
+    "geom:longitude":-90.461756,
+    "iso:country":"US",
+    "sg:address":"13014 Manchester Rd",
+    "sg:city":"St Louis",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 965 7973",
+    "sg:postcode":"63131",
+    "sg:province":"MO",
+    "sg:tags":[
+        "shop",
+        "manicuring"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85839871,
+        102086173
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7N8TAJmEFhXgxQ3GoWLfhb_38.602412_-90.461756@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462592050,
+    "wof:geomhash":"dec76d48c2428c720db4e93594949898",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086173,
+            "neighbourhood_id":85839871,
+            "region_id":85688661,
+            "venue_id":789966517
+        }
+    ],
+    "wof:id":789966517,
+    "wof:lastmodified":1462592050,
+    "wof:name":"Nail Show",
+    "wof:parent_id":85839871,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "manicuring"
+    ]
+},
+  "bbox": [
+    -90.461756,
+    38.602412,
+    -90.461756,
+    38.602412
+],
+  "geometry": {"coordinates":[-90.46175599999999,38.602412],"type":"Point"}
+}

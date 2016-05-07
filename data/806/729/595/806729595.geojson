@@ -1,0 +1,71 @@
+{
+  "id": 806729595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.231439,37.202349,-93.231439,37.202349",
+    "geom:latitude":37.202349,
+    "geom:longitude":-93.231439,
+    "iso:country":"US",
+    "sg:address":"3000 E Cherry St",
+    "sg:city":"Springfield",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Telephone",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 655 0418",
+    "sg:postcode":"65802",
+    "sg:province":"MO",
+    "sg:tags":[
+        "telecommunication"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971363,
+        102087523,
+        85881121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7hh5DTKZFMaXV1JBieR6EY_37.202349_-93.231439@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462600578,
+    "wof:geomhash":"f179a364dc5e0e45f76ef753aacbb629",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087523,
+            "locality_id":85971363,
+            "neighbourhood_id":85881121,
+            "region_id":85688661,
+            "venue_id":806729595
+        }
+    ],
+    "wof:id":806729595,
+    "wof:lastmodified":1462600578,
+    "wof:name":"American Tower Corp",
+    "wof:parent_id":85881121,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "telecommunication"
+    ]
+},
+  "bbox": [
+    -93.231439,
+    37.202349,
+    -93.231439,
+    37.202349
+],
+  "geometry": {"coordinates":[-93.23143899999999,37.202349],"type":"Point"}
+}

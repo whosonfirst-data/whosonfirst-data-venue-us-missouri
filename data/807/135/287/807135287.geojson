@@ -1,0 +1,74 @@
+{
+  "id": 807135287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.216583,38.626237,-90.216583,38.626237",
+    "geom:latitude":38.626237,
+    "geom:longitude":-90.216583,
+    "iso:country":"US",
+    "sg:address":"520 S Jefferson Ave",
+    "sg:city":"Saint Louis",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"63103",
+    "sg:province":"MO",
+    "sg:tags":[
+        "shipping"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873645,
+        102191575,
+        404518053,
+        85633793,
+        85971343,
+        102080791,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6TPQ7WicqRXbSxjD6GByQN_38.626237_-90.216583@1303262927"
+    },
+    "wof:country":"US",
+    "wof:created":1462604111,
+    "wof:geomhash":"54e332408ef964e544d61c1347a67977",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080791,
+            "localadmin_id":404518053,
+            "locality_id":85971343,
+            "neighbourhood_id":85873645,
+            "region_id":85688661,
+            "venue_id":807135287
+        }
+    ],
+    "wof:id":807135287,
+    "wof:lastmodified":1462604111,
+    "wof:name":"UPS Customer Center",
+    "wof:parent_id":85873645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shipping"
+    ]
+},
+  "bbox": [
+    -90.216583,
+    38.626237,
+    -90.216583,
+    38.626237
+],
+  "geometry": {"coordinates":[-90.216583,38.626237],"type":"Point"}
+}

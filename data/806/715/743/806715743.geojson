@@ -1,0 +1,77 @@
+{
+  "id": 806715743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.278923,39.009523,-94.278923,39.009523",
+    "geom:latitude":39.009523,
+    "geom:longitude":-94.278923,
+    "iso:country":"US",
+    "sg:address":"1201 US Hwy 40",
+    "sg:city":"Blue Springs",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 229 1544",
+    "sg:postcode":"64015",
+    "sg:province":"MO",
+    "sg:tags":[
+        "hospital",
+        "animal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85847737,
+        102191575,
+        404518081,
+        85633793,
+        85971453,
+        102081227,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5X7s9A0QVFQvZnOi7WjG7u_39.009523_-94.278923@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462600467,
+    "wof:geomhash":"03b14b9bb0d1584110407988a4e2e32b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081227,
+            "localadmin_id":404518081,
+            "locality_id":85971453,
+            "neighbourhood_id":85847737,
+            "region_id":85688661,
+            "venue_id":806715743
+        }
+    ],
+    "wof:id":806715743,
+    "wof:lastmodified":1462600467,
+    "wof:name":"Blue Springs Animal Hospital",
+    "wof:parent_id":85847737,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hospital",
+        "animal"
+    ]
+},
+  "bbox": [
+    -94.278923,
+    39.009523,
+    -94.278923,
+    39.009523
+],
+  "geometry": {"coordinates":[-94.27892300000001,39.009523],"type":"Point"}
+}

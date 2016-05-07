@@ -1,0 +1,73 @@
+{
+  "id": 806577693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.524142,39.800612,-91.524142,39.800612",
+    "geom:latitude":39.800612,
+    "geom:longitude":-91.524142,
+    "iso:country":"US",
+    "sg:address":"203 N Dickerson St",
+    "sg:city":"Palmyra",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Water",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 769 7405",
+    "sg:postcode":"63461",
+    "sg:province":"MO",
+    "sg:tags":[
+        "company",
+        "sewage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688697,
+        85633793,
+        85938427,
+        102086213,
+        85867477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Sn2iX9OsmSuuS99egu7eH_39.800612_-91.524142@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462599290,
+    "wof:geomhash":"e5a94ed683407089f7ecf21db0ac5db9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086213,
+            "locality_id":85938427,
+            "neighbourhood_id":85867477,
+            "region_id":85688697,
+            "venue_id":806577693
+        }
+    ],
+    "wof:id":806577693,
+    "wof:lastmodified":1462599290,
+    "wof:name":"Water & Sewer Srvc Dept",
+    "wof:parent_id":85867477,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company",
+        "sewage"
+    ]
+},
+  "bbox": [
+    -91.524142,
+    39.800612,
+    -91.524142,
+    39.800612
+],
+  "geometry": {"coordinates":[-91.524142,39.800612],"type":"Point"}
+}

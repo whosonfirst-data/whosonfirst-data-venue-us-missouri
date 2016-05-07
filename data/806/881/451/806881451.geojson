@@ -1,0 +1,71 @@
+{
+  "id": 806881451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.18191,38.570904,-92.18191,38.570904",
+    "geom:latitude":38.570904,
+    "geom:longitude":-92.18191,
+    "iso:country":"US",
+    "sg:address":"1000 Washington St",
+    "sg:city":"Jefferson City",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 680 7757",
+    "sg:postcode":"65101",
+    "sg:province":"MO",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970647,
+        102087511,
+        85837745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3zP6qYE1WVYtIT3q3ukkMK_38.570904_-92.181910@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462601867,
+    "wof:geomhash":"dd1e786b6afcfcba8ffbb679160ba5ba",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087511,
+            "locality_id":85970647,
+            "neighbourhood_id":85837745,
+            "region_id":85688661,
+            "venue_id":806881451
+        }
+    ],
+    "wof:id":806881451,
+    "wof:lastmodified":1462601867,
+    "wof:name":"Heartland Mechanical Contracto",
+    "wof:parent_id":85837745,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -92.18191,
+    38.570904,
+    -92.18191,
+    38.570904
+],
+  "geometry": {"coordinates":[-92.18191,38.570904],"type":"Point"}
+}

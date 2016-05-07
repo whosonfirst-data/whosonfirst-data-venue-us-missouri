@@ -1,0 +1,73 @@
+{
+  "id": 807105345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.403846,38.417025,-90.403846,38.417025",
+    "geom:latitude":38.417025,
+    "geom:longitude":-90.403846,
+    "iso:country":"US",
+    "sg:address":"3188 Winslow Way",
+    "sg:city":"Arnold",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Catalog Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 249 8838",
+    "sg:postcode":"63010",
+    "sg:province":"MO",
+    "sg:tags":[
+        "mail",
+        "order",
+        "online"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85805175,
+        102080787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5C2YJboN4gNapYSJ4L6xmq_38.417025_-90.403846@1303262925"
+    },
+    "wof:country":"US",
+    "wof:created":1462603787,
+    "wof:geomhash":"7cf5284cf5b8edf488987eee08141007",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080787,
+            "neighbourhood_id":85805175,
+            "region_id":85688661,
+            "venue_id":807105345
+        }
+    ],
+    "wof:id":807105345,
+    "wof:lastmodified":1462603787,
+    "wof:name":"Freeman Reduced Retail",
+    "wof:parent_id":85805175,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mail",
+        "order",
+        "online"
+    ]
+},
+  "bbox": [
+    -90.403846,
+    38.417025,
+    -90.403846,
+    38.417025
+],
+  "geometry": {"coordinates":[-90.403846,38.417025],"type":"Point"}
+}

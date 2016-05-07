@@ -1,0 +1,88 @@
+{
+  "id": 806481125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.423339,39.246015,-94.423339,39.246015",
+    "geom:latitude":39.246015,
+    "geom:longitude":-94.423339,
+    "iso:country":"US",
+    "sg:address":"221 W Kansas St",
+    "sg:city":"Liberty",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 805 3822",
+    "sg:postcode":"64068",
+    "sg:province":"MO",
+    "sg:tags":[
+        "instruction",
+        "driving"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420525305,
+        102191575,
+        404516717,
+        85633793,
+        85972461,
+        102086177,
+        85688661,
+        420525367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ZY5n2t9LL1JsNAFXeBHKm_39.246015_-94.423339@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462598477,
+    "wof:geomhash":"c2e3f4880f1432882afd730a36a57e1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086177,
+            "localadmin_id":404516717,
+            "locality_id":85972461,
+            "neighbourhood_id":420525305,
+            "region_id":85688661,
+            "venue_id":806481125
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086177,
+            "localadmin_id":404516717,
+            "locality_id":85972461,
+            "neighbourhood_id":420525367,
+            "region_id":85688661,
+            "venue_id":806481125
+        }
+    ],
+    "wof:id":806481125,
+    "wof:lastmodified":1462598477,
+    "wof:name":"Liberty Driving School",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instruction",
+        "driving"
+    ]
+},
+  "bbox": [
+    -94.423339,
+    39.246015,
+    -94.423339,
+    39.246015
+],
+  "geometry": {"coordinates":[-94.423339,39.246015],"type":"Point"}
+}

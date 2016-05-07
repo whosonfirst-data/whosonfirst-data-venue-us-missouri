@@ -1,0 +1,75 @@
+{
+  "id": 790585345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.705019,38.802133,-90.705019,38.802133",
+    "geom:latitude":38.802133,
+    "geom:longitude":-90.705019,
+    "iso:country":"US",
+    "sg:address":"30 Sanders Dr",
+    "sg:city":"O Fallon",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 978 2797",
+    "sg:postcode":"63366",
+    "sg:province":"MO",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2E9g6rosj3wCLjTXTShA8V_38.802133_-90.705019@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462597087,
+    "wof:geomhash":"fe59f375b666d9703dca26ad217e6391",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":790585345
+        }
+    ],
+    "wof:id":790585345,
+    "wof:lastmodified":1462597087,
+    "wof:name":"O'Fallon Collision Ctr",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -90.705019,
+    38.802133,
+    -90.705019,
+    38.802133
+],
+  "geometry": {"coordinates":[-90.70501899999999,38.802133],"type":"Point"}
+}

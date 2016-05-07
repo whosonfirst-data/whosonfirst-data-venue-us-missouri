@@ -1,0 +1,71 @@
+{
+  "id": 789890149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.239402,37.209895,-93.239402,37.209895",
+    "geom:latitude":37.209895,
+    "geom:longitude":-93.239402,
+    "iso:country":"US",
+    "sg:address":"2812 E Chestnut Expy",
+    "sg:city":"Springfield",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 831 6171",
+    "sg:postcode":"65802",
+    "sg:province":"MO",
+    "sg:tags":[
+        "carwash"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971363,
+        102087523,
+        85881137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2RLt9m5TB2uL0twUnqg1Yx_37.209895_-93.239402@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462591372,
+    "wof:geomhash":"74f0aea3be56a11d133b2e218cbb8ac1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087523,
+            "locality_id":85971363,
+            "neighbourhood_id":85881137,
+            "region_id":85688661,
+            "venue_id":789890149
+        }
+    ],
+    "wof:id":789890149,
+    "wof:lastmodified":1462591372,
+    "wof:name":"Hill Top Car-N-Van Wash",
+    "wof:parent_id":85881137,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carwash"
+    ]
+},
+  "bbox": [
+    -93.239402,
+    37.209895,
+    -93.239402,
+    37.209895
+],
+  "geometry": {"coordinates":[-93.239402,37.209895],"type":"Point"}
+}

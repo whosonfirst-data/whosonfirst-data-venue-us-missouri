@@ -1,0 +1,71 @@
+{
+  "id": 789845327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.22907,37.151959,-93.22907,37.151959",
+    "geom:latitude":37.151959,
+    "geom:longitude":-93.22907,
+    "iso:country":"US",
+    "sg:address":"3243 E Manitoo St",
+    "sg:city":"Springfield",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 887 6797",
+    "sg:postcode":"65804",
+    "sg:province":"MO",
+    "sg:tags":[
+        "building",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85881129,
+        102087523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7kQZcsWRl8lMvjah66gRez_37.151959_-93.229070@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462590995,
+    "wof:geomhash":"0738014168f8c5be4a4a2c983feee475",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087523,
+            "neighbourhood_id":85881129,
+            "region_id":85688661,
+            "venue_id":789845327
+        }
+    ],
+    "wof:id":789845327,
+    "wof:lastmodified":1462590995,
+    "wof:name":"East Center",
+    "wof:parent_id":85881129,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -93.22907,
+    37.151959,
+    -93.22907,
+    37.151959
+],
+  "geometry": {"coordinates":[-93.22906999999999,37.151959],"type":"Point"}
+}

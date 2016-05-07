@@ -1,0 +1,74 @@
+{
+  "id": 807094349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.260815,37.237686,-93.260815,37.237686",
+    "geom:latitude":37.237686,
+    "geom:longitude":-93.260815,
+    "iso:country":"US",
+    "sg:address":"2260 N Glenstone Ave",
+    "sg:city":"Springfield",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/springfield/156091-hardees/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 862 1091",
+    "sg:postcode":"65803",
+    "sg:province":"MO",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971363,
+        102087523,
+        85881137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7kOQAviIHW4IfEf0LuFDSz_37.237686_-93.260815@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462603657,
+    "wof:geomhash":"d7d490e0d8a62a0e716ef2a7f1bc3c62",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087523,
+            "locality_id":85971363,
+            "neighbourhood_id":85881137,
+            "region_id":85688661,
+            "venue_id":807094349
+        }
+    ],
+    "wof:id":807094349,
+    "wof:lastmodified":1462603657,
+    "wof:name":"Hardee's",
+    "wof:parent_id":85881137,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -93.260815,
+    37.237686,
+    -93.260815,
+    37.237686
+],
+  "geometry": {"coordinates":[-93.26081499999999,37.237686],"type":"Point"}
+}

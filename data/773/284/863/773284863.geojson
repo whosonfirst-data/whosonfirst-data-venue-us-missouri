@@ -1,0 +1,71 @@
+{
+  "id": 773284863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.5552,38.1352,-90.5552,38.1352",
+    "geom:latitude":38.1352,
+    "geom:longitude":-90.5552,
+    "iso:country":"US",
+    "sg:address":"500 S Main St",
+    "sg:city":"De Soto",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 586 3456",
+    "sg:postcode":"63020",
+    "sg:province":"MO",
+    "sg:tags":[
+        "flea",
+        "market"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85848677,
+        102080787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4MqHvOCMF7ZSi1QdBXv07Q_38.135200_-90.555200@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462584561,
+    "wof:geomhash":"23754faf3d5fa42fa5f30148a18683d2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080787,
+            "neighbourhood_id":85848677,
+            "region_id":85688661,
+            "venue_id":773284863
+        }
+    ],
+    "wof:id":773284863,
+    "wof:lastmodified":1462584561,
+    "wof:name":"Redfield's Flea Market",
+    "wof:parent_id":85848677,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "flea",
+        "market"
+    ]
+},
+  "bbox": [
+    -90.5552,
+    38.1352,
+    -90.5552,
+    38.1352
+],
+  "geometry": {"coordinates":[-90.5552,38.1352],"type":"Point"}
+}

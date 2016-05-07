@@ -1,0 +1,77 @@
+{
+  "id": 806447229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.258719,38.750064,-90.258719,38.750064",
+    "geom:latitude":38.750064,
+    "geom:longitude":-90.258719,
+    "iso:country":"US",
+    "sg:address":"10015 Pepper Ln",
+    "sg:city":"Saint Louis",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 936 8077",
+    "sg:postcode":"63136",
+    "sg:province":"MO",
+    "sg:tags":[
+        "automotive",
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85859027,
+        102191575,
+        404517247,
+        85633793,
+        85972205,
+        102086173,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6hChzTzZxU38upf5zRp6GZ_38.750064_-90.258719@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462598226,
+    "wof:geomhash":"1299d848a8d6efa05615d26af2cffa57",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086173,
+            "localadmin_id":404517247,
+            "locality_id":85972205,
+            "neighbourhood_id":85859027,
+            "region_id":85688661,
+            "venue_id":806447229
+        }
+    ],
+    "wof:id":806447229,
+    "wof:lastmodified":1462598226,
+    "wof:name":"AA Roadrunner Wrecker Service",
+    "wof:parent_id":85859027,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive",
+        "wrecker"
+    ]
+},
+  "bbox": [
+    -90.258719,
+    38.750064,
+    -90.258719,
+    38.750064
+],
+  "geometry": {"coordinates":[-90.258719,38.750064],"type":"Point"}
+}

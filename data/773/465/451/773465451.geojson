@@ -1,0 +1,71 @@
+{
+  "id": 773465451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.69586,38.7923,-90.69586,38.7923",
+    "geom:latitude":38.7923,
+    "geom:longitude":-90.69586,
+    "iso:country":"US",
+    "sg:address":"8326 Mexico Rd",
+    "sg:city":"Saint Peters",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 272 7620",
+    "sg:postcode":"63376",
+    "sg:province":"MO",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0xcYnKL1IooRjN16JbLgTs_38.792300_-90.695860@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462585955,
+    "wof:geomhash":"dd85f16ab387d1b45997648f4a47b5f7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":773465451
+        }
+    ],
+    "wof:id":773465451,
+    "wof:lastmodified":1462585955,
+    "wof:name":"St Peters",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -90.69586,
+    38.7923,
+    -90.69586,
+    38.7923
+],
+  "geometry": {"coordinates":[-90.69586,38.7923],"type":"Point"}
+}

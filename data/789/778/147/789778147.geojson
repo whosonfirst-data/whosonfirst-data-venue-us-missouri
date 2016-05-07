@@ -1,0 +1,71 @@
+{
+  "id": 789778147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.783492,39.370296,-94.783492,39.370296",
+    "geom:latitude":39.370296,
+    "geom:longitude":-94.783492,
+    "iso:country":"US",
+    "sg:address":"116 Main St",
+    "sg:city":"Platte City",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 431 5233",
+    "sg:postcode":"64079",
+    "sg:province":"MO",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970739,
+        102085271,
+        85851839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1JYhNHtQ5y0ySOVBZTTY8O_39.370296_-94.783492@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462590461,
+    "wof:geomhash":"4537a1365eafa4512a280f0899ad6aaf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085271,
+            "locality_id":85970739,
+            "neighbourhood_id":85851839,
+            "region_id":85688661,
+            "venue_id":789778147
+        }
+    ],
+    "wof:id":789778147,
+    "wof:lastmodified":1462590461,
+    "wof:name":"Tree's Barber & Styling Shop",
+    "wof:parent_id":85851839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -94.783492,
+    39.370296,
+    -94.783492,
+    39.370296
+],
+  "geometry": {"coordinates":[-94.783492,39.370296],"type":"Point"}
+}

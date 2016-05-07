@@ -1,0 +1,73 @@
+{
+  "id": 790545777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.380683,38.491983,-90.380683,38.491983",
+    "geom:latitude":38.491983,
+    "geom:longitude":-90.380683,
+    "iso:country":"US",
+    "sg:address":"13108 Butler Oak Dr",
+    "sg:city":"Saint Louis",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 842 4781",
+    "sg:postcode":"63128",
+    "sg:province":"MO",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971021,
+        102080787,
+        85832925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_18UoXONBrLPV4kIPrDynKF_38.491983_-90.380683@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462596750,
+    "wof:geomhash":"274f15b28883d1ec65b7b6532ddf01bd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080787,
+            "locality_id":85971021,
+            "neighbourhood_id":85832925,
+            "region_id":85688661,
+            "venue_id":790545777
+        }
+    ],
+    "wof:id":790545777,
+    "wof:lastmodified":1462596750,
+    "wof:name":"Butler Hill Apts",
+    "wof:parent_id":85832925,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -90.380683,
+    38.491983,
+    -90.380683,
+    38.491983
+],
+  "geometry": {"coordinates":[-90.380683,38.491983],"type":"Point"}
+}

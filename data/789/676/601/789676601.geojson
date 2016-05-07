@@ -1,0 +1,79 @@
+{
+  "id": 789676601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.384495,38.552562,-90.384495,38.552562",
+    "geom:latitude":38.552562,
+    "geom:longitude":-90.384495,
+    "iso:country":"US",
+    "sg:address":"8737 Dellvista Dr",
+    "sg:city":"Saint Louis",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 843 0784",
+    "sg:postcode":"63126",
+    "sg:province":"MO",
+    "sg:tags":[
+        "machine",
+        "operator",
+        "vending"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85858243,
+        102191575,
+        404517253,
+        85633793,
+        85972177,
+        102086173,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1FOgrB9lHDSKQpo5zRXGVk_38.552562_-90.384495@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462589676,
+    "wof:geomhash":"7831058fe907572c3533138de49fa025",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086173,
+            "localadmin_id":404517253,
+            "locality_id":85972177,
+            "neighbourhood_id":85858243,
+            "region_id":85688661,
+            "venue_id":789676601
+        }
+    ],
+    "wof:id":789676601,
+    "wof:lastmodified":1462589676,
+    "wof:name":"JRS Services LLC",
+    "wof:parent_id":85858243,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "operator",
+        "vending"
+    ]
+},
+  "bbox": [
+    -90.384495,
+    38.552562,
+    -90.384495,
+    38.552562
+],
+  "geometry": {"coordinates":[-90.384495,38.552562],"type":"Point"}
+}

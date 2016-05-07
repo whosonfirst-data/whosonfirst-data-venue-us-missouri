@@ -1,0 +1,71 @@
+{
+  "id": 789846211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.615062,37.995583,-91.615062,37.995583",
+    "geom:latitude":37.995583,
+    "geom:longitude":-91.615062,
+    "iso:country":"US",
+    "sg:address":"200 S Meramec St",
+    "sg:city":"St James",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Funeral Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 265 3278",
+    "sg:postcode":"65559",
+    "sg:province":"MO",
+    "sg:tags":[
+        "director"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970819,
+        102086893,
+        85847353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4NGUMLFYN0lY1AThB74vyb_37.995583_-91.615062@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462591000,
+    "wof:geomhash":"c6deee60bc0f50576d43491e3f864fc7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086893,
+            "locality_id":85970819,
+            "neighbourhood_id":85847353,
+            "region_id":85688661,
+            "venue_id":789846211
+        }
+    ],
+    "wof:id":789846211,
+    "wof:lastmodified":1462591000,
+    "wof:name":"Jones Funeral Home",
+    "wof:parent_id":85847353,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "director"
+    ]
+},
+  "bbox": [
+    -91.615062,
+    37.995583,
+    -91.615062,
+    37.995583
+],
+  "geometry": {"coordinates":[-91.61506199999999,37.995583],"type":"Point"}
+}

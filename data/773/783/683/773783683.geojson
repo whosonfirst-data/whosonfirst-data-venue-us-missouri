@@ -1,0 +1,73 @@
+{
+  "id": 773783683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.189486,38.559879,-92.189486,38.559879",
+    "geom:latitude":38.559879,
+    "geom:longitude":-92.189486,
+    "iso:country":"US",
+    "sg:address":"1511 Christy Dr",
+    "sg:city":"Jefferson City",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 526 6516",
+    "sg:postcode":"65101",
+    "sg:province":"MO",
+    "sg:tags":[
+        "victim",
+        "crime"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970647,
+        102087511,
+        85837745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3yaAM98Hsw8UEKR9crYrmB_38.559879_-92.189486@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462588345,
+    "wof:geomhash":"8ee7060aa9b3f5da6c980a04e3c71b40",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087511,
+            "locality_id":85970647,
+            "neighbourhood_id":85837745,
+            "region_id":85688661,
+            "venue_id":773783683
+        }
+    ],
+    "wof:id":773783683,
+    "wof:lastmodified":1462588345,
+    "wof:name":"Victim Services Dept",
+    "wof:parent_id":85837745,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "victim",
+        "crime"
+    ]
+},
+  "bbox": [
+    -92.189486,
+    38.559879,
+    -92.189486,
+    38.559879
+],
+  "geometry": {"coordinates":[-92.189486,38.559879],"type":"Point"}
+}

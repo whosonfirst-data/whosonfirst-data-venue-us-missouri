@@ -1,0 +1,82 @@
+{
+  "id": 773585695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.379274,38.931255,-94.379274,38.931255",
+    "geom:latitude":38.931255,
+    "geom:longitude":-94.379274,
+    "iso:country":"US",
+    "sg:address":"1125 NE Douglas St",
+    "sg:city":"Lees Summit",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 554 9212",
+    "sg:postcode":"64063",
+    "sg:province":"MO",
+    "sg:tags":[
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85849825,
+        102191575,
+        404518079,
+        85633793,
+        85970737,
+        102081227,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7FgVnkFQhxfewnJb14ULbS_38.931255_-94.379274@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462586842,
+    "wof:geomhash":"0b3717ad921ce9acb4c76c4353cbd7b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081227,
+            "localadmin_id":404518079,
+            "locality_id":85970737,
+            "neighbourhood_id":85849825,
+            "region_id":85688661,
+            "venue_id":773585695
+        }
+    ],
+    "wof:id":773585695,
+    "wof:lastmodified":1462586842,
+    "wof:name":"Kings Super Store",
+    "wof:parent_id":85849825,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -94.379274,
+    38.931255,
+    -94.379274,
+    38.931255
+],
+  "geometry": {"coordinates":[-94.379274,38.931255],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 807084791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.587463,39.246514,-94.587463,39.246514",
+    "geom:latitude":39.246514,
+    "geom:longitude":-94.587463,
+    "iso:country":"US",
+    "sg:address":"500 NW Barry Rd",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/gallatin/14049-olive-garden-italian-restaurant/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 468 7540",
+    "sg:postcode":"64155",
+    "sg:province":"MO",
+    "sg:tags":[
+        "italian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85821231,
+        102191575,
+        404518075,
+        85633793,
+        85970739,
+        102081227,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Q5x704VUtRRMLmKEqP0WF_39.246514_-94.587463@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462603572,
+    "wof:geomhash":"538145c1490aeec45dcdc5b65832c9d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081227,
+            "localadmin_id":404518075,
+            "locality_id":85970739,
+            "neighbourhood_id":85821231,
+            "region_id":85688661,
+            "venue_id":807084791
+        }
+    ],
+    "wof:id":807084791,
+    "wof:lastmodified":1462603572,
+    "wof:name":"Olive Garden Italian Restaurant",
+    "wof:parent_id":85821231,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "italian"
+    ]
+},
+  "bbox": [
+    -94.587463,
+    39.246514,
+    -94.587463,
+    39.246514
+],
+  "geometry": {"coordinates":[-94.587463,39.246514],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 790364981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.39215,38.415639,-90.39215,38.415639",
+    "geom:latitude":38.415639,
+    "geom:longitude":-90.39215,
+    "iso:country":"US",
+    "sg:address":"3801 Vogel Rd",
+    "sg:city":"Arnold",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 296 0634",
+    "sg:postcode":"63010",
+    "sg:province":"MO",
+    "sg:tags":[
+        "loan",
+        "broker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85805175,
+        102080787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5vu0B7H6IQu1aw84sxFh2B_38.415639_-90.392150@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462595266,
+    "wof:geomhash":"d8f4de9eed9f94b13940d1fa9e084758",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080787,
+            "neighbourhood_id":85805175,
+            "region_id":85688661,
+            "venue_id":790364981
+        }
+    ],
+    "wof:id":790364981,
+    "wof:lastmodified":1462595266,
+    "wof:name":"Loan Quarters",
+    "wof:parent_id":85805175,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "loan",
+        "broker"
+    ]
+},
+  "bbox": [
+    -90.39215,
+    38.415639,
+    -90.39215,
+    38.415639
+],
+  "geometry": {"coordinates":[-90.39215,38.415639],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 806374793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.218249,37.175121,-93.218249,37.175121",
+    "geom:latitude":37.175121,
+    "geom:longitude":-93.218249,
+    "iso:country":"US",
+    "sg:address":"3755 E Bowman St",
+    "sg:city":"Springfield",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 693 3331",
+    "sg:postcode":"65809",
+    "sg:province":"MO",
+    "sg:tags":[
+        "pharmaceutical",
+        "health"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971363,
+        102087523,
+        85881121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4HLfobvURa5jpAGWYfOTXT_37.175121_-93.218249@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462597635,
+    "wof:geomhash":"61748a1fda982f20de279202c337446a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087523,
+            "locality_id":85971363,
+            "neighbourhood_id":85881121,
+            "region_id":85688661,
+            "venue_id":806374793
+        }
+    ],
+    "wof:id":806374793,
+    "wof:lastmodified":1462597635,
+    "wof:name":"Bristol-Myers Squibb",
+    "wof:parent_id":85881121,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pharmaceutical",
+        "health"
+    ]
+},
+  "bbox": [
+    -93.218249,
+    37.175121,
+    -93.218249,
+    37.175121
+],
+  "geometry": {"coordinates":[-93.218249,37.175121],"type":"Point"}
+}

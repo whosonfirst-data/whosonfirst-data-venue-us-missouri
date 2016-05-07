@@ -1,0 +1,77 @@
+{
+  "id": 789760203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.484445,39.063714,-94.484445,39.063714",
+    "geom:latitude":39.063714,
+    "geom:longitude":-94.484445,
+    "iso:country":"US",
+    "sg:address":"8520 US Hwy 40",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 861 0202",
+    "sg:postcode":"64129",
+    "sg:province":"MO",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85867021,
+        102191575,
+        404518075,
+        85633793,
+        85970739,
+        102081227,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_63cCdoRORLBy8TH8FMv8VV_39.063714_-94.484445@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462590330,
+    "wof:geomhash":"2bf1a57c609ea68062945d4bbfca9c33",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081227,
+            "localadmin_id":404518075,
+            "locality_id":85970739,
+            "neighbourhood_id":85867021,
+            "region_id":85688661,
+            "venue_id":789760203
+        }
+    ],
+    "wof:id":789760203,
+    "wof:lastmodified":1462590330,
+    "wof:name":"Complete Auto Svc",
+    "wof:parent_id":85867021,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -94.484445,
+    39.063714,
+    -94.484445,
+    39.063714
+],
+  "geometry": {"coordinates":[-94.48444499999999,39.063714],"type":"Point"}
+}

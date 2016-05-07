@@ -1,0 +1,87 @@
+{
+  "id": 807224257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.478518,38.965769,-94.478518,38.965769",
+    "geom:latitude":38.965769,
+    "geom:longitude":-94.478518,
+    "iso:country":"US",
+    "sg:address":"9010 E 87th St",
+    "sg:city":"Raytown",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 353 0294",
+    "sg:postcode":"64138",
+    "sg:province":"MO",
+    "sg:tags":[
+        "vacancy",
+        "apartment",
+        "rental",
+        "listing"
+    ],
+    "sg:website":"http://www.sederson.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85871965,
+        102191575,
+        404517999,
+        85633793,
+        85971471,
+        102081227,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2vBSL3D1VQ2tSHXheQ0vk0_38.965769_-94.478518@1303262933"
+    },
+    "wof:country":"US",
+    "wof:created":1462605055,
+    "wof:geomhash":"c3f7d8621d9042b45c52382b5ebf5c8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081227,
+            "localadmin_id":404517999,
+            "locality_id":85971471,
+            "neighbourhood_id":85871965,
+            "region_id":85688661,
+            "venue_id":807224257
+        }
+    ],
+    "wof:id":807224257,
+    "wof:lastmodified":1462605055,
+    "wof:name":"Valencia Apartments",
+    "wof:parent_id":85871965,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "vacancy",
+        "apartment",
+        "rental",
+        "listing"
+    ]
+},
+  "bbox": [
+    -94.478518,
+    38.965769,
+    -94.478518,
+    38.965769
+],
+  "geometry": {"coordinates":[-94.47851799999999,38.965769],"type":"Point"}
+}

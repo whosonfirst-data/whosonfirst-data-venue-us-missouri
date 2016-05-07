@@ -1,0 +1,71 @@
+{
+  "id": 806976767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.385818,38.477478,-90.385818,38.477478",
+    "geom:latitude":38.477478,
+    "geom:longitude":-90.385818,
+    "iso:country":"US",
+    "sg:address":"5803 Amberway Dr",
+    "sg:city":"Saint Louis",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 842 6103",
+    "sg:postcode":"63128",
+    "sg:province":"MO",
+    "sg:tags":[
+        "garden"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971021,
+        102080787,
+        85832925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5p4zbkocGaeUOGVBItX6Xv_38.477478_-90.385818@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462602662,
+    "wof:geomhash":"c0223824f7e2d5b3227e3d5f8085659d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080787,
+            "locality_id":85971021,
+            "neighbourhood_id":85832925,
+            "region_id":85688661,
+            "venue_id":806976767
+        }
+    ],
+    "wof:id":806976767,
+    "wof:lastmodified":1462602662,
+    "wof:name":"Amberway Gardens",
+    "wof:parent_id":85832925,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garden"
+    ]
+},
+  "bbox": [
+    -90.385818,
+    38.477478,
+    -90.385818,
+    38.477478
+],
+  "geometry": {"coordinates":[-90.385818,38.477478],"type":"Point"}
+}

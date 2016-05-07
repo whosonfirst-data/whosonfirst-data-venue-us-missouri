@@ -1,0 +1,71 @@
+{
+  "id": 790279121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.681055,38.803414,-90.681055,38.803414",
+    "geom:latitude":38.803414,
+    "geom:longitude":-90.681055,
+    "iso:country":"US",
+    "sg:address":"1043 E Terra Ln",
+    "sg:city":"O Fallon",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 240 7606",
+    "sg:postcode":"63366",
+    "sg:province":"MO",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6JW51VTn6mPyuoXze6tDbs_38.803414_-90.681055@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462594601,
+    "wof:geomhash":"515b6b97e278144d905968da4af0a6f3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":790279121
+        }
+    ],
+    "wof:id":790279121,
+    "wof:lastmodified":1462594601,
+    "wof:name":"Thomas G White Jr DDS",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -90.681055,
+    38.803414,
+    -90.681055,
+    38.803414
+],
+  "geometry": {"coordinates":[-90.681055,38.803414],"type":"Point"}
+}

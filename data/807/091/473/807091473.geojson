@@ -1,0 +1,74 @@
+{
+  "id": 807091473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.61552,37.999572,-91.61552,37.999572",
+    "geom:latitude":37.999572,
+    "geom:longitude":-91.61552,
+    "iso:country":"US",
+    "sg:address":"127 E James Blvd",
+    "sg:city":"Saint James",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/st-james/225689-caseys-general-store/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 265 3803",
+    "sg:postcode":"65559",
+    "sg:province":"MO",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970819,
+        102086893,
+        85847353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7fUR9NVHuf85Pa5ptLiBKb_37.999572_-91.615520@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462603630,
+    "wof:geomhash":"3fd7b815e4feab6b887cf6eaf17d9eef",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086893,
+            "locality_id":85970819,
+            "neighbourhood_id":85847353,
+            "region_id":85688661,
+            "venue_id":807091473
+        }
+    ],
+    "wof:id":807091473,
+    "wof:lastmodified":1462603630,
+    "wof:name":"Casey's General Store",
+    "wof:parent_id":85847353,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -91.61552,
+    37.999572,
+    -91.61552,
+    37.999572
+],
+  "geometry": {"coordinates":[-91.61552,37.999572],"type":"Point"}
+}

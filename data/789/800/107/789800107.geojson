@@ -1,0 +1,81 @@
+{
+  "id": 789800107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.401409,39.686966,-91.401409,39.686966",
+    "geom:latitude":39.686966,
+    "geom:longitude":-91.401409,
+    "iso:country":"US",
+    "sg:address":"3913 Evans St",
+    "sg:city":"Hannibal",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 221 5519",
+    "sg:postcode":"63401",
+    "sg:province":"MO",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85843695,
+        102191575,
+        404516821,
+        85633793,
+        85970335,
+        102086171,
+        85688661,
+        420525383
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Mh3q0QSYrufEcIV8ZF6Ha_39.686966_-91.401409@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462590641,
+    "wof:geomhash":"6ac4ca257c0d2d65ea740a15ce529b16",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086171,
+            "localadmin_id":404516821,
+            "locality_id":85970335,
+            "neighbourhood_id":85843695,
+            "region_id":85688661,
+            "venue_id":789800107
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086171,
+            "localadmin_id":404516821,
+            "locality_id":85970335,
+            "neighbourhood_id":420525383,
+            "region_id":85688661,
+            "venue_id":789800107
+        }
+    ],
+    "wof:id":789800107,
+    "wof:lastmodified":1462590641,
+    "wof:name":"Donna's Home Child Care",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.401409,
+    39.686966,
+    -91.401409,
+    39.686966
+],
+  "geometry": {"coordinates":[-91.401409,39.686966],"type":"Point"}
+}

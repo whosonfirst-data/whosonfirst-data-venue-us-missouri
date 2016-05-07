@@ -1,0 +1,88 @@
+{
+  "id": 807047447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.435389,39.239838,-94.435389,39.239838",
+    "geom:latitude":39.239838,
+    "geom:longitude":-94.435389,
+    "iso:country":"US",
+    "sg:address":"931 W Liberty Dr",
+    "sg:city":"Liberty",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 792 1221",
+    "sg:postcode":"64068",
+    "sg:province":"MO",
+    "sg:tags":[
+        "commercial",
+        "facility"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420525305,
+        102191575,
+        404516717,
+        85633793,
+        85972461,
+        102086177,
+        85688661,
+        420525367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6IOAm0GBEIPzU3ACpvzPwZ_39.239578_-94.435678@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1462603269,
+    "wof:geomhash":"a78b803d0a0b9eb0363fdeac20bc5c0f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086177,
+            "localadmin_id":404516717,
+            "locality_id":85972461,
+            "neighbourhood_id":420525305,
+            "region_id":85688661,
+            "venue_id":807047447
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086177,
+            "localadmin_id":404516717,
+            "locality_id":85972461,
+            "neighbourhood_id":420525367,
+            "region_id":85688661,
+            "venue_id":807047447
+        }
+    ],
+    "wof:id":807047447,
+    "wof:lastmodified":1462603269,
+    "wof:name":"Mayfair Cleaners & Laundry",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "facility"
+    ]
+},
+  "bbox": [
+    -94.435389,
+    39.239838,
+    -94.435389,
+    39.239838
+],
+  "geometry": {"coordinates":[-94.435389,39.239838],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 789622489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.523104,38.827642,-90.523104,38.827642",
+    "geom:latitude":38.827642,
+    "geom:longitude":-90.523104,
+    "iso:country":"US",
+    "sg:address":"500 Fountain Lakes Blvd",
+    "sg:city":"St Charles",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Non-durable Goods",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 926 0003",
+    "sg:postcode":"63301",
+    "sg:province":"MO",
+    "sg:tags":[
+        "pet",
+        "supply"
+    ],
+    "sg:website":"www.royalcanin.us",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2xSZZDyABaEp01Svek9muJ_38.827642_-90.523104@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462589238,
+    "wof:geomhash":"f3a4630f4658811bd7bde018c93ef2c4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":789622489
+        }
+    ],
+    "wof:id":789622489,
+    "wof:lastmodified":1462589238,
+    "wof:name":"Royal Canin",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "supply"
+    ]
+},
+  "bbox": [
+    -90.523104,
+    38.827642,
+    -90.523104,
+    38.827642
+],
+  "geometry": {"coordinates":[-90.523104,38.827642],"type":"Point"}
+}

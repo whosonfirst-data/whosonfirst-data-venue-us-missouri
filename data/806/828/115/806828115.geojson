@@ -1,0 +1,88 @@
+{
+  "id": 806828115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.403014,39.71467,-91.403014,39.71467",
+    "geom:latitude":39.71467,
+    "geom:longitude":-91.403014,
+    "iso:country":"US",
+    "sg:address":"1304 Mark Twain Ave",
+    "sg:city":"Hannibal",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Groceries",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 221 3668",
+    "sg:postcode":"63401",
+    "sg:province":"MO",
+    "sg:tags":[
+        "product",
+        "bakery",
+        "retail",
+        "baker",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420525383,
+        102191575,
+        404516821,
+        85633793,
+        85970335,
+        102086171,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7I8XhCwtCPk3GWaxu3Gj95_39.714670_-91.403014@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462601406,
+    "wof:geomhash":"79c8972f1dcc6f0003d15160d2d9b38d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086171,
+            "localadmin_id":404516821,
+            "locality_id":85970335,
+            "neighbourhood_id":420525383,
+            "region_id":85688661,
+            "venue_id":806828115
+        }
+    ],
+    "wof:id":806828115,
+    "wof:lastmodified":1462601406,
+    "wof:name":"Butternut Bread Co",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product",
+        "bakery",
+        "retail",
+        "baker",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -91.403014,
+    39.71467,
+    -91.403014,
+    39.71467
+],
+  "geometry": {"coordinates":[-91.403014,39.71467],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 807068723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.339506,38.725378,-90.339506,38.725378",
+    "geom:latitude":38.725378,
+    "geom:longitude":-90.339506,
+    "iso:country":"US",
+    "sg:address":"9432 Natural Bridge Rd",
+    "sg:city":"Saint Louis",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/airport/83932-dominos-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 426 3113",
+    "sg:postcode":"63134",
+    "sg:province":"MO",
+    "sg:tags":[
+        "american",
+        "wing",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85847351,
+        102191575,
+        404517201,
+        85633793,
+        85972285,
+        102086173,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0O0DTYnkyBYFJJO4C7LMLs_38.725378_-90.339506@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462603435,
+    "wof:geomhash":"a9cf39e88c0ef3c16a52b759b7f23ac2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086173,
+            "localadmin_id":404517201,
+            "locality_id":85972285,
+            "neighbourhood_id":85847351,
+            "region_id":85688661,
+            "venue_id":807068723
+        }
+    ],
+    "wof:id":807068723,
+    "wof:lastmodified":1462603435,
+    "wof:name":"Domino's Pizza",
+    "wof:parent_id":85847351,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "wing",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -90.339506,
+    38.725378,
+    -90.339506,
+    38.725378
+],
+  "geometry": {"coordinates":[-90.339506,38.725378],"type":"Point"}
+}

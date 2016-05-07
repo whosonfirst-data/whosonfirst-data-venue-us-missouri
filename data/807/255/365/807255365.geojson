@@ -1,0 +1,76 @@
+{
+  "id": 807255365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.322021,38.946411,-92.322021,38.946411",
+    "geom:latitude":38.946411,
+    "geom:longitude":-92.322021,
+    "iso:country":"US",
+    "sg:address":"500 N College Ave",
+    "sg:city":"Columbia",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 449 9500",
+    "sg:postcode":"65201",
+    "sg:province":"MO",
+    "sg:website":"http://www.texaco.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85835171,
+        102191575,
+        404516389,
+        85633793,
+        85970425,
+        102086187,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0a8E0YS0hyO916elmACWbO_38.946411_-92.322021@1303262935"
+    },
+    "wof:country":"US",
+    "wof:created":1462605382,
+    "wof:geomhash":"f1da41da6cff0f0d94de26f0247664e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086187,
+            "localadmin_id":404516389,
+            "locality_id":85970425,
+            "neighbourhood_id":85835171,
+            "region_id":85688661,
+            "venue_id":807255365
+        }
+    ],
+    "wof:id":807255365,
+    "wof:lastmodified":1462605382,
+    "wof:name":"Texaco",
+    "wof:parent_id":85835171,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -92.322021,
+    38.946411,
+    -92.322021,
+    38.946411
+],
+  "geometry": {"coordinates":[-92.32202100000001,38.946411],"type":"Point"}
+}

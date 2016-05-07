@@ -1,0 +1,74 @@
+{
+  "id": 807088163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.644663,38.190337,-92.644663,38.190337",
+    "geom:latitude":38.190337,
+    "geom:longitude":-92.644663,
+    "iso:country":"US",
+    "sg:address":"2400 Bagnell Dam Blvd",
+    "sg:city":"Lake Ozark",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/pawhuska/65723-pizza-hut/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 365 3738",
+    "sg:postcode":"65049",
+    "sg:province":"MO",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971257,
+        102087481,
+        85803641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6unz6gEbxcEtLeBokJYn2m_38.190337_-92.644663@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462603602,
+    "wof:geomhash":"2022c637f049eaf43be266e655576af9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087481,
+            "locality_id":85971257,
+            "neighbourhood_id":85803641,
+            "region_id":85688661,
+            "venue_id":807088163
+        }
+    ],
+    "wof:id":807088163,
+    "wof:lastmodified":1462603602,
+    "wof:name":"Pizza Hut",
+    "wof:parent_id":85803641,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -92.644663,
+    38.190337,
+    -92.644663,
+    38.190337
+],
+  "geometry": {"coordinates":[-92.64466299999999,38.190337],"type":"Point"}
+}

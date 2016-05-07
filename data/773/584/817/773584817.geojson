@@ -1,0 +1,71 @@
+{
+  "id": 773584817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.49424,38.793486,-90.49424,38.793486",
+    "geom:latitude":38.793486,
+    "geom:longitude":-90.49424,
+    "iso:country":"US",
+    "sg:address":"1964 W Adams St",
+    "sg:city":"Saint Charles",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 724 6040",
+    "sg:postcode":"63301",
+    "sg:province":"MO",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7XNdyGkp4ARPb5K370SZKU_38.793486_-90.494240@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462586836,
+    "wof:geomhash":"df3df04afd514798fe94f747af312a15",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":773584817
+        }
+    ],
+    "wof:id":773584817,
+    "wof:lastmodified":1462586836,
+    "wof:name":"Dairy Queen",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -90.49424,
+    38.793486,
+    -90.49424,
+    38.793486
+],
+  "geometry": {"coordinates":[-90.49424,38.793486],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 789805393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.354277,39.047785,-94.354277,39.047785",
+    "geom:latitude":39.047785,
+    "geom:longitude":-94.354277,
+    "iso:country":"US",
+    "sg:address":"18777 E 39th St S",
+    "sg:city":"Independence",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 795 6277",
+    "sg:postcode":"64057",
+    "sg:province":"MO",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85847737,
+        102191575,
+        404518081,
+        85633793,
+        85971453,
+        102081227,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7OxRiUn081nesUT7VWTsPw_39.047785_-94.354277@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462590681,
+    "wof:geomhash":"2d02f3755a44a42f7475bb178068cbff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081227,
+            "localadmin_id":404518081,
+            "locality_id":85971453,
+            "neighbourhood_id":85847737,
+            "region_id":85688661,
+            "venue_id":789805393
+        }
+    ],
+    "wof:id":789805393,
+    "wof:lastmodified":1462590681,
+    "wof:name":"Valvoline Instant Oil Change",
+    "wof:parent_id":85847737,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -94.354277,
+    39.047785,
+    -94.354277,
+    39.047785
+],
+  "geometry": {"coordinates":[-94.354277,39.047785],"type":"Point"}
+}

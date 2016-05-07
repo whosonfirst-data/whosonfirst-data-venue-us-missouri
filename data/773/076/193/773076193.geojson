@@ -1,0 +1,81 @@
+{
+  "id": 773076193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.36773,38.741256,-90.36773,38.741256",
+    "geom:latitude":38.741256,
+    "geom:longitude":-90.36773,
+    "iso:country":"US",
+    "sg:address":"10900 Lambert International Blvd",
+    "sg:city":"Bridgeton",
+    "sg:classifiers":[
+        {
+            "category":"Airline",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 429 8502",
+    "sg:postcode":"63044",
+    "sg:province":"MO",
+    "sg:tags":[
+        "scheduled",
+        "passenger",
+        "air"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102525961,
+        85847351,
+        102191575,
+        404517201,
+        85633793,
+        85972285,
+        102086173,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4decWLhe1BWkHi8UWFdQMK_38.741256_-90.367730@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462582977,
+    "wof:geomhash":"4a1599aff52fa897d53144a6bfb962d1",
+    "wof:hierarchy":[
+        {
+            "campus_id":102525961,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086173,
+            "localadmin_id":404517201,
+            "locality_id":85972285,
+            "neighbourhood_id":85847351,
+            "region_id":85688661,
+            "venue_id":773076193
+        }
+    ],
+    "wof:id":773076193,
+    "wof:lastmodified":1462582977,
+    "wof:name":"American Airlines Inc",
+    "wof:parent_id":102525961,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "scheduled",
+        "passenger",
+        "air"
+    ]
+},
+  "bbox": [
+    -90.36773,
+    38.741256,
+    -90.36773,
+    38.741256
+],
+  "geometry": {"coordinates":[-90.36772999999999,38.741256],"type":"Point"}
+}

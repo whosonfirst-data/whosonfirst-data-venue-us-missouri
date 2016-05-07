@@ -1,0 +1,71 @@
+{
+  "id": 806620765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.386542,38.413687,-90.386542,38.413687",
+    "geom:latitude":38.413687,
+    "geom:longitude":-90.386542,
+    "iso:country":"US",
+    "sg:address":"1960 Richardson Rd",
+    "sg:city":"Arnold",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 461 9000",
+    "sg:postcode":"63010",
+    "sg:province":"MO",
+    "sg:tags":[
+        "building",
+        "residential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85805175,
+        102080787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6cWdpYB9suNiTh75o79qBE_38.413687_-90.386542@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462599658,
+    "wof:geomhash":"8710cb73b649e99a22ed44aa01111582",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080787,
+            "neighbourhood_id":85805175,
+            "region_id":85688661,
+            "venue_id":806620765
+        }
+    ],
+    "wof:id":806620765,
+    "wof:lastmodified":1462599658,
+    "wof:name":"Andrew James Properties Inc",
+    "wof:parent_id":85805175,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "residential"
+    ]
+},
+  "bbox": [
+    -90.386542,
+    38.413687,
+    -90.386542,
+    38.413687
+],
+  "geometry": {"coordinates":[-90.38654200000001,38.413687],"type":"Point"}
+}

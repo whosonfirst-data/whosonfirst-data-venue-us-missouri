@@ -1,0 +1,71 @@
+{
+  "id": 789583665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.483303,38.777305,-90.483303,38.777305",
+    "geom:latitude":38.777305,
+    "geom:longitude":-90.483303,
+    "iso:country":"US",
+    "sg:address":"524 S Main St",
+    "sg:city":"St Charles",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 724 6006",
+    "sg:postcode":"63301",
+    "sg:province":"MO",
+    "sg:tags":[
+        "caterer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6MT9aRO49rW81uEINr7CIR_38.777305_-90.483303@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462588937,
+    "wof:geomhash":"19bc02d14a9e89e232b3eb69c8c386da",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":789583665
+        }
+    ],
+    "wof:id":789583665,
+    "wof:lastmodified":1462588937,
+    "wof:name":"Bella Deli",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caterer"
+    ]
+},
+  "bbox": [
+    -90.483303,
+    38.777305,
+    -90.483303,
+    38.777305
+],
+  "geometry": {"coordinates":[-90.48330300000001,38.777305],"type":"Point"}
+}

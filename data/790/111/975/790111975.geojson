@@ -1,0 +1,71 @@
+{
+  "id": 790111975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.39791,38.346419,-90.39791,38.346419",
+    "geom:latitude":38.346419,
+    "geom:longitude":-90.39791,
+    "iso:country":"US",
+    "sg:address":"1679 Marriott Ln",
+    "sg:city":"Barnhart",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 464 0900",
+    "sg:postcode":"63012",
+    "sg:province":"MO",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85805175,
+        102080787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_54sRuIbEcJZaQScyjInoEx_38.346419_-90.397910@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462593233,
+    "wof:geomhash":"4063f8bf276a71598118735c26805279",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080787,
+            "neighbourhood_id":85805175,
+            "region_id":85688661,
+            "venue_id":790111975
+        }
+    ],
+    "wof:id":790111975,
+    "wof:lastmodified":1462593233,
+    "wof:name":"Saint Louis Internal Medicine",
+    "wof:parent_id":85805175,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -90.39791,
+    38.346419,
+    -90.39791,
+    38.346419
+],
+  "geometry": {"coordinates":[-90.39791,38.346419],"type":"Point"}
+}

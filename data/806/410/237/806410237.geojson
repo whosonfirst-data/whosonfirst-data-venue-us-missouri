@@ -1,0 +1,71 @@
+{
+  "id": 806410237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.502303,38.775301,-90.502303,38.775301",
+    "geom:latitude":38.775301,
+    "geom:longitude":-90.502303,
+    "iso:country":"US",
+    "sg:address":"1204 Esterling Dr",
+    "sg:city":"St Charles",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 946 0644",
+    "sg:postcode":"63301",
+    "sg:province":"MO",
+    "sg:tags":[
+        "laboratory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0hnD4wZ3u4249R5DqA2Iri_38.775301_-90.502303@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462597930,
+    "wof:geomhash":"a192c3af56692433261430d19233641d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":806410237
+        }
+    ],
+    "wof:id":806410237,
+    "wof:lastmodified":1462597930,
+    "wof:name":"Dentures Limited",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory"
+    ]
+},
+  "bbox": [
+    -90.502303,
+    38.775301,
+    -90.502303,
+    38.775301
+],
+  "geometry": {"coordinates":[-90.502303,38.775301],"type":"Point"}
+}

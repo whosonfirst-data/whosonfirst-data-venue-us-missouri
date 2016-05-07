@@ -1,0 +1,75 @@
+{
+  "id": 789655711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.714288,38.792513,-90.714288,38.792513",
+    "geom:latitude":38.792513,
+    "geom:longitude":-90.714288,
+    "iso:country":"US",
+    "sg:address":"9 Plackemeier Dr",
+    "sg:city":"O Fallon",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 281 8476",
+    "sg:postcode":"63366",
+    "sg:province":"MO",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5BBw9rMXWHvrpQl6pgkxfu_38.792513_-90.714288@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462589499,
+    "wof:geomhash":"322e3fc7fde0fde5b8703ae9a5409e95",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":789655711
+        }
+    ],
+    "wof:id":789655711,
+    "wof:lastmodified":1462589499,
+    "wof:name":"Collision Repair Svc",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -90.714288,
+    38.792513,
+    -90.714288,
+    38.792513
+],
+  "geometry": {"coordinates":[-90.714288,38.792513],"type":"Point"}
+}

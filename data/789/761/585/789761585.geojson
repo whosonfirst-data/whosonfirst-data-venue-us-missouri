@@ -1,0 +1,71 @@
+{
+  "id": 789761585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.626881,39.878637,-92.626881,39.878637",
+    "geom:latitude":39.878637,
+    "geom:longitude":-92.626881,
+    "iso:country":"US",
+    "sg:address":"20451 State Hwy 3",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 660 825 2001",
+    "sg:postcode":"63530",
+    "sg:province":"MO",
+    "sg:tags":[
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971149,
+        102086189,
+        85821499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6pd1df0mTfzFG13pUSlOFX_39.878637_-92.626881@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462590344,
+    "wof:geomhash":"d368dbc832aa734255bbf67155f414d7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086189,
+            "locality_id":85971149,
+            "neighbourhood_id":85821499,
+            "region_id":85688661,
+            "venue_id":789761585
+        }
+    ],
+    "wof:id":789761585,
+    "wof:lastmodified":1462590344,
+    "wof:name":"A D & L Transport LLC",
+    "wof:parent_id":85821499,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -92.626881,
+    39.878637,
+    -92.626881,
+    39.878637
+],
+  "geometry": {"coordinates":[-92.626881,39.878637],"type":"Point"}
+}

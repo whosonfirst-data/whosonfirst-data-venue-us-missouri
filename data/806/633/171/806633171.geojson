@@ -1,0 +1,71 @@
+{
+  "id": 806633171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.360672,39.355337,-94.360672,39.355337",
+    "geom:latitude":39.355337,
+    "geom:longitude":-94.360672,
+    "iso:country":"US",
+    "sg:address":"1815 S Jefferson St",
+    "sg:city":"Kearney",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 628 4114",
+    "sg:postcode":"64060",
+    "sg:province":"MO",
+    "sg:tags":[
+        "intermediate"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971507,
+        102086177,
+        85812855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4YvHn7XUleyO7J5cLLMQ7O_39.355337_-94.360672@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462599762,
+    "wof:geomhash":"4a4d5d7e0953e77c60bb626a186db33d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086177,
+            "locality_id":85971507,
+            "neighbourhood_id":85812855,
+            "region_id":85688661,
+            "venue_id":806633171
+        }
+    ],
+    "wof:id":806633171,
+    "wof:lastmodified":1462599762,
+    "wof:name":"Kearney Intermediate School",
+    "wof:parent_id":85812855,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "intermediate"
+    ]
+},
+  "bbox": [
+    -94.360672,
+    39.355337,
+    -94.360672,
+    39.355337
+],
+  "geometry": {"coordinates":[-94.36067199999999,39.355337],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 806732663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.400551,37.775482,-90.400551,37.775482",
+    "geom:latitude":37.775482,
+    "geom:longitude":-90.400551,
+    "iso:country":"US",
+    "sg:address":"1151 Old Jackson Rd",
+    "sg:city":"Farmington",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 756 8748",
+    "sg:postcode":"63640",
+    "sg:province":"MO",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970665,
+        102085297,
+        85816309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7LlXNHImpTRfHKVeIrYBbu_37.775482_-90.400551@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462600606,
+    "wof:geomhash":"1078ffca677383695e4d725d73973d2a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085297,
+            "locality_id":85970665,
+            "neighbourhood_id":85816309,
+            "region_id":85688661,
+            "venue_id":806732663
+        }
+    ],
+    "wof:id":806732663,
+    "wof:lastmodified":1462600606,
+    "wof:name":"Wolf Creek Fire Protection Dis",
+    "wof:parent_id":85816309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -90.400551,
+    37.775482,
+    -90.400551,
+    37.775482
+],
+  "geometry": {"coordinates":[-90.40055099999999,37.775482],"type":"Point"}
+}

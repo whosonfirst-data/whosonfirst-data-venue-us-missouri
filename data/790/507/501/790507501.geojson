@@ -1,0 +1,74 @@
+{
+  "id": 790507501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.236663,39.3636,-94.236663,39.3636",
+    "geom:latitude":39.3636,
+    "geom:longitude":-94.236663,
+    "iso:country":"US",
+    "sg:address":"1700 Rainbow Blvd",
+    "sg:city":"Excelsior Spgs",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 630 6081",
+    "sg:postcode":"64024",
+    "sg:province":"MO",
+    "sg:tags":[
+        "home",
+        "convalescent"
+    ],
+    "sg:website":"www.esmc.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971507,
+        102086177,
+        85822189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_69tvy3xt6FZtEnk90MYOmg_39.363600_-94.236663@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462596430,
+    "wof:geomhash":"853551c4a7500559718c59f291bf5c45",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086177,
+            "locality_id":85971507,
+            "neighbourhood_id":85822189,
+            "region_id":85688661,
+            "venue_id":790507501
+        }
+    ],
+    "wof:id":790507501,
+    "wof:lastmodified":1462596430,
+    "wof:name":"Excelsior Springs Hospital Ctr",
+    "wof:parent_id":85822189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "convalescent"
+    ]
+},
+  "bbox": [
+    -94.236663,
+    39.3636,
+    -94.236663,
+    39.3636
+],
+  "geometry": {"coordinates":[-94.23666299999999,39.3636],"type":"Point"}
+}

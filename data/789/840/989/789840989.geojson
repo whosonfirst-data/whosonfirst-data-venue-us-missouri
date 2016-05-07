@@ -1,0 +1,71 @@
+{
+  "id": 789840989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.402649,38.365512,-90.402649,38.365512",
+    "geom:latitude":38.365512,
+    "geom:longitude":-90.402649,
+    "iso:country":"US",
+    "sg:address":"2110 Ayrshire Ct",
+    "sg:city":"Imperial",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 464 9733",
+    "sg:postcode":"63052",
+    "sg:province":"MO",
+    "sg:tags":[
+        "auto",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85805175,
+        102080787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3oietV2dhbzrHnsywEccQk_38.365512_-90.402649@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462590954,
+    "wof:geomhash":"daeff7fba3928c53d160da9afaf55e94",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080787,
+            "neighbourhood_id":85805175,
+            "region_id":85688661,
+            "venue_id":789840989
+        }
+    ],
+    "wof:id":789840989,
+    "wof:lastmodified":1462590954,
+    "wof:name":"Rescue Repair Inc",
+    "wof:parent_id":85805175,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "auto",
+        "general"
+    ]
+},
+  "bbox": [
+    -90.402649,
+    38.365512,
+    -90.402649,
+    38.365512
+],
+  "geometry": {"coordinates":[-90.402649,38.365512],"type":"Point"}
+}

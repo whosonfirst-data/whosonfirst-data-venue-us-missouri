@@ -1,0 +1,84 @@
+{
+  "id": 773505789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.32551,38.95045,-92.32551,38.95045",
+    "geom:latitude":38.95045,
+    "geom:longitude":-92.32551,
+    "iso:country":"US",
+    "sg:address":"1001 Cherry St",
+    "sg:city":"Columbia",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        },
+        {
+            "category":"Farming",
+            "subcategory":"Farm & Veterinary Services",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 449 2249",
+    "sg:postcode":"65201",
+    "sg:province":"MO",
+    "sg:tags":[
+        "building",
+        "livestock",
+        "parks"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85835171,
+        102191575,
+        404516389,
+        85633793,
+        85970425,
+        102086187,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6BAyEElVKFD6JLIPoEdeqK_38.950450_-92.325510@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462586245,
+    "wof:geomhash":"8703c33ffe18e6e0c5cc1a2b4698a316",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086187,
+            "localadmin_id":404516389,
+            "locality_id":85970425,
+            "neighbourhood_id":85835171,
+            "region_id":85688661,
+            "venue_id":773505789
+        }
+    ],
+    "wof:id":773505789,
+    "wof:lastmodified":1462586245,
+    "wof:name":"Mc Roberts Farm Inc",
+    "wof:parent_id":85835171,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "livestock",
+        "parks"
+    ]
+},
+  "bbox": [
+    -92.32551,
+    38.95045,
+    -92.32551,
+    38.95045
+],
+  "geometry": {"coordinates":[-92.32550999999999,38.95045],"type":"Point"}
+}

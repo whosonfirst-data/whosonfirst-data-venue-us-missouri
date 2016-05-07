@@ -1,0 +1,73 @@
+{
+  "id": 790277493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.483904,38.786731,-90.483904,38.786731",
+    "geom:latitude":38.786731,
+    "geom:longitude":-90.483904,
+    "iso:country":"US",
+    "sg:address":"510 N 5th St",
+    "sg:city":"Saint Charles",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 946 8589",
+    "sg:postcode":"63301",
+    "sg:province":"MO",
+    "sg:tags":[
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Lqju1gHgWGceFMgErYkHw_38.786731_-90.483904@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462594585,
+    "wof:geomhash":"47ba997b716342d06e2ad7739b1dc1f0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":790277493
+        }
+    ],
+    "wof:id":790277493,
+    "wof:lastmodified":1462594585,
+    "wof:name":"Saint Charles Sunoco",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -90.483904,
+    38.786731,
+    -90.483904,
+    38.786731
+],
+  "geometry": {"coordinates":[-90.483904,38.786731],"type":"Point"}
+}

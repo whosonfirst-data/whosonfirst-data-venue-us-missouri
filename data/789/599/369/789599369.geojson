@@ -1,0 +1,73 @@
+{
+  "id": 789599369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.538247,37.088447,-94.538247,37.088447",
+    "geom:latitude":37.088447,
+    "geom:longitude":-94.538247,
+    "iso:country":"US",
+    "sg:address":"2005 W 4th St",
+    "sg:city":"Joplin",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 781 7707",
+    "sg:postcode":"64801",
+    "sg:province":"MO",
+    "sg:tags":[
+        "operated",
+        "coin"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970893,
+        102087525,
+        85810925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5w22AALll7uS7UYOr2KQLo_37.088447_-94.538247@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462589063,
+    "wof:geomhash":"d455c56953c00828ac5bbfe6e2691b76",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087525,
+            "locality_id":85970893,
+            "neighbourhood_id":85810925,
+            "region_id":85688661,
+            "venue_id":789599369
+        }
+    ],
+    "wof:id":789599369,
+    "wof:lastmodified":1462589063,
+    "wof:name":"Alburty Ray Company",
+    "wof:parent_id":85810925,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operated",
+        "coin"
+    ]
+},
+  "bbox": [
+    -94.538247,
+    37.088447,
+    -94.538247,
+    37.088447
+],
+  "geometry": {"coordinates":[-94.538247,37.088447],"type":"Point"}
+}

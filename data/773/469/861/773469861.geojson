@@ -1,0 +1,73 @@
+{
+  "id": 773469861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.66658,39.273248,-94.66658,39.273248",
+    "geom:latitude":39.273248,
+    "geom:longitude":-94.66658,
+    "iso:country":"US",
+    "sg:address":"9700 NW Polo Dr",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 741 3831",
+    "sg:postcode":"64153",
+    "sg:province":"MO",
+    "sg:tags":[
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970739,
+        102085271,
+        85851839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3t7z2E6KJBOEdHa7aT5eCU_39.273248_-94.666580@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462585988,
+    "wof:geomhash":"160118d047cec7e38a990e8e60fe25ed",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085271,
+            "locality_id":85970739,
+            "neighbourhood_id":85851839,
+            "region_id":85688661,
+            "venue_id":773469861
+        }
+    ],
+    "wof:id":773469861,
+    "wof:lastmodified":1462585988,
+    "wof:name":"Texaco",
+    "wof:parent_id":85851839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -94.66658,
+    39.273248,
+    -94.66658,
+    39.273248
+],
+  "geometry": {"coordinates":[-94.66658,39.273248],"type":"Point"}
+}

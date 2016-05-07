@@ -1,0 +1,69 @@
+{
+  "id": 789944261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.554673,38.140077,-90.554673,38.140077",
+    "geom:latitude":38.140077,
+    "geom:longitude":-90.554673,
+    "iso:country":"US",
+    "sg:address":"114 N 2nd St",
+    "sg:city":"De Soto",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 586 3888",
+    "sg:postcode":"63020",
+    "sg:province":"MO",
+    "sg:tags":[
+        "protection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85848677,
+        102080787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0I5uCzJzTkLPSb6st4rB1W_38.140077_-90.554673@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462591828,
+    "wof:geomhash":"01e71631fcd4e029c72a4632e716e8e0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080787,
+            "neighbourhood_id":85848677,
+            "region_id":85688661,
+            "venue_id":789944261
+        }
+    ],
+    "wof:id":789944261,
+    "wof:lastmodified":1462591828,
+    "wof:name":"De Soto Cty Fire and Rescue",
+    "wof:parent_id":85848677,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "protection"
+    ]
+},
+  "bbox": [
+    -90.554673,
+    38.140077,
+    -90.554673,
+    38.140077
+],
+  "geometry": {"coordinates":[-90.55467299999999,38.140077],"type":"Point"}
+}

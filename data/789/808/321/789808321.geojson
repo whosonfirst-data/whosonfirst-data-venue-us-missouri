@@ -1,0 +1,82 @@
+{
+  "id": 789808321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.482559,38.779651,-90.482559,38.779651",
+    "geom:latitude":38.779651,
+    "geom:longitude":-90.482559,
+    "iso:country":"US",
+    "sg:address":"125 First Capitol Dr",
+    "sg:city":"St Charles",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Non-profit Organization",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 896 9696",
+    "sg:postcode":"63301",
+    "sg:province":"MO",
+    "sg:tags":[
+        "information",
+        "treatment",
+        "alcoholism",
+        "specialty"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_68CdytpUgjvwqaEV38Y9w6_38.779651_-90.482559@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462590702,
+    "wof:geomhash":"4ec0db7cefa99248f761d68d2753a689",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":789808321
+        }
+    ],
+    "wof:id":789808321,
+    "wof:lastmodified":1462590702,
+    "wof:name":"Hope Recovery Center",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "information",
+        "treatment",
+        "alcoholism",
+        "specialty"
+    ]
+},
+  "bbox": [
+    -90.482559,
+    38.779651,
+    -90.482559,
+    38.779651
+],
+  "geometry": {"coordinates":[-90.48255899999999,38.779651],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 807073473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.850965,38.821684,-90.850965,38.821684",
+    "geom:latitude":38.821684,
+    "geom:longitude":-90.850965,
+    "iso:country":"US",
+    "sg:address":"1992 Wentzville Pkwy",
+    "sg:city":"Wentzville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/wentzville/180465-jack-in-the-box/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 332 2277",
+    "sg:postcode":"63385",
+    "sg:province":"MO",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4wF5xIbEuEMEk4TasGhxr5_38.821684_-90.850965@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462603483,
+    "wof:geomhash":"2fdc9b06edf215bd49e972b1816a92ff",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":807073473
+        }
+    ],
+    "wof:id":807073473,
+    "wof:lastmodified":1462603483,
+    "wof:name":"Jack in the Box",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -90.850965,
+    38.821684,
+    -90.850965,
+    38.821684
+],
+  "geometry": {"coordinates":[-90.850965,38.821684],"type":"Point"}
+}

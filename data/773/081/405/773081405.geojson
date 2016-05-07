@@ -1,0 +1,73 @@
+{
+  "id": 773081405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.78918,39.385535,-94.78918,39.385535",
+    "geom:latitude":39.385535,
+    "geom:longitude":-94.78918,
+    "iso:country":"US",
+    "sg:address":"16105 Elm Grove Rd",
+    "sg:city":"Platte City",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 858 2731",
+    "sg:postcode":"64079",
+    "sg:province":"MO",
+    "sg:tags":[
+        "road",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970739,
+        102085271,
+        85851839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1XIH91q8oBDdeDcFJD1nqU_39.385535_-94.789180@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462583017,
+    "wof:geomhash":"d70d40cd7f6d3fd65400c1fc738482ac",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085271,
+            "locality_id":85970739,
+            "neighbourhood_id":85851839,
+            "region_id":85688661,
+            "venue_id":773081405
+        }
+    ],
+    "wof:id":773081405,
+    "wof:lastmodified":1462583017,
+    "wof:name":"Highway Dept Garage",
+    "wof:parent_id":85851839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "road",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -94.78918,
+    39.385535,
+    -94.78918,
+    39.385535
+],
+  "geometry": {"coordinates":[-94.78918,39.385535],"type":"Point"}
+}

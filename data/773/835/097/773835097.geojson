@@ -1,0 +1,71 @@
+{
+  "id": 773835097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.47845,38.789595,-90.47845,38.789595",
+    "geom:latitude":38.789595,
+    "geom:longitude":-90.47845,
+    "iso:country":"US",
+    "sg:address":"1003 N 2nd St",
+    "sg:city":"Saint Charles",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 947 3173",
+    "sg:postcode":"63301",
+    "sg:province":"MO",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2y4XUqifgI3IZ73DoiiQEh_38.789595_-90.478450@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462588765,
+    "wof:geomhash":"4d3cab62ac2164bef02c8ec5a2a3be60",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":773835097
+        }
+    ],
+    "wof:id":773835097,
+    "wof:lastmodified":1462588765,
+    "wof:name":"W C E Performance",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -90.47845,
+    38.789595,
+    -90.47845,
+    38.789595
+],
+  "geometry": {"coordinates":[-90.47845,38.789595],"type":"Point"}
+}

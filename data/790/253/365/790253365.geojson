@@ -1,0 +1,71 @@
+{
+  "id": 790253365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.317248,37.164057,-93.317248,37.164057",
+    "geom:latitude":37.164057,
+    "geom:longitude":-93.317248,
+    "iso:country":"US",
+    "sg:address":"1718 W Woodland St",
+    "sg:city":"Springfield",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 881 2116",
+    "sg:postcode":"65807",
+    "sg:province":"MO",
+    "sg:tags":[
+        "polishing",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85881151,
+        102087523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1eMbvsbU0rS0rqLC8aqrUm_37.164057_-93.317248@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462594365,
+    "wof:geomhash":"cd32f84f000e085fc05db0291d93cacf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087523,
+            "neighbourhood_id":85881151,
+            "region_id":85688661,
+            "venue_id":790253365
+        }
+    ],
+    "wof:id":790253365,
+    "wof:lastmodified":1462594365,
+    "wof:name":"Colonial Car Wash",
+    "wof:parent_id":85881151,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "polishing",
+        "washing"
+    ]
+},
+  "bbox": [
+    -93.317248,
+    37.164057,
+    -93.317248,
+    37.164057
+],
+  "geometry": {"coordinates":[-93.31724800000001,37.164057],"type":"Point"}
+}

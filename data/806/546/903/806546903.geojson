@@ -1,0 +1,71 @@
+{
+  "id": 806546903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.245911,37.214832,-93.245911,37.214832",
+    "geom:latitude":37.214832,
+    "geom:longitude":-93.245911,
+    "iso:country":"US",
+    "sg:address":"836 N Fairfax Ave",
+    "sg:city":"Springfield",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Developer",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 864 7838",
+    "sg:postcode":"65802",
+    "sg:province":"MO",
+    "sg:tags":[
+        "cemetery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971363,
+        102087523,
+        85881137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4MWfDLQiWLw15cldNFW1qR_37.214832_-93.245911@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462599011,
+    "wof:geomhash":"2f2c1c171d1921a2113a16fd3f40419a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087523,
+            "locality_id":85971363,
+            "neighbourhood_id":85881137,
+            "region_id":85688661,
+            "venue_id":806546903
+        }
+    ],
+    "wof:id":806546903,
+    "wof:lastmodified":1462599011,
+    "wof:name":"Brock Cemetery",
+    "wof:parent_id":85881137,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cemetery"
+    ]
+},
+  "bbox": [
+    -93.245911,
+    37.214832,
+    -93.245911,
+    37.214832
+],
+  "geometry": {"coordinates":[-93.24591100000001,37.214832],"type":"Point"}
+}

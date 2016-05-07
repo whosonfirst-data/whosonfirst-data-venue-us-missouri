@@ -1,0 +1,72 @@
+{
+  "id": 807058571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.384352,38.412026,-90.384352,38.412026",
+    "geom:latitude":38.412026,
+    "geom:longitude":-90.384352,
+    "iso:country":"US",
+    "sg:address":"1926 Richardson Rd",
+    "sg:city":"Arnold",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/arnold/65641-pizza-hut/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 467 5909",
+    "sg:postcode":"63010",
+    "sg:province":"MO",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85805175,
+        102080787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7OBOsdHlM7S9Ve7dCi2kOx_38.412026_-90.384352@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462603360,
+    "wof:geomhash":"f66c89ca82b28484e9fed43f28db8622",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080787,
+            "neighbourhood_id":85805175,
+            "region_id":85688661,
+            "venue_id":807058571
+        }
+    ],
+    "wof:id":807058571,
+    "wof:lastmodified":1462603360,
+    "wof:name":"Pizza Hut",
+    "wof:parent_id":85805175,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -90.384352,
+    38.412026,
+    -90.384352,
+    38.412026
+],
+  "geometry": {"coordinates":[-90.38435200000001,38.412026],"type":"Point"}
+}

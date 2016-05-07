@@ -1,0 +1,73 @@
+{
+  "id": 790613129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.303804,37.042522,-93.303804,37.042522",
+    "geom:latitude":37.042522,
+    "geom:longitude":-93.303804,
+    "iso:country":"US",
+    "sg:address":"202 West St",
+    "sg:city":"Nixa",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 725 5330",
+    "sg:postcode":"65714",
+    "sg:province":"MO",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971577,
+        102087497,
+        85809751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_308gIDdmRw9pZnap0ZljWM_37.042522_-93.303804@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462597334,
+    "wof:geomhash":"5a46b0f6df21d51f3d023a8af95da94c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087497,
+            "locality_id":85971577,
+            "neighbourhood_id":85809751,
+            "region_id":85688661,
+            "venue_id":790613129
+        }
+    ],
+    "wof:id":790613129,
+    "wof:lastmodified":1462597334,
+    "wof:name":"Nixa Pediatrics & Family Med",
+    "wof:parent_id":85809751,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -93.303804,
+    37.042522,
+    -93.303804,
+    37.042522
+],
+  "geometry": {"coordinates":[-93.303804,37.042522],"type":"Point"}
+}

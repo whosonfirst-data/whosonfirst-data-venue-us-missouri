@@ -1,0 +1,73 @@
+{
+  "id": 806700215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.222652,37.242247,-93.222652,37.242247",
+    "geom:latitude":37.242247,
+    "geom:longitude":-93.222652,
+    "iso:country":"US",
+    "sg:address":"2546 N Eastgate Ave",
+    "sg:city":"Springfield",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 866 6542",
+    "sg:postcode":"65803",
+    "sg:province":"MO",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971363,
+        102087523,
+        85881137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2RV1Pp7oJvrq5nni4tc210_37.242247_-93.222652@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462600341,
+    "wof:geomhash":"b5793cc9c921f6d5c6649914e0dba4aa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087523,
+            "locality_id":85971363,
+            "neighbourhood_id":85881137,
+            "region_id":85688661,
+            "venue_id":806700215
+        }
+    ],
+    "wof:id":806700215,
+    "wof:lastmodified":1462600341,
+    "wof:name":"Bestway Moving & Storage Inc",
+    "wof:parent_id":85881137,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [
+    -93.222652,
+    37.242247,
+    -93.222652,
+    37.242247
+],
+  "geometry": {"coordinates":[-93.222652,37.242247],"type":"Point"}
+}

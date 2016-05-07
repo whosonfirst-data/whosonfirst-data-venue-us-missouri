@@ -1,0 +1,71 @@
+{
+  "id": 790611447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.797553,37.941365,-91.797553,37.941365",
+    "geom:latitude":37.941365,
+    "geom:longitude":-91.797553,
+    "iso:country":"US",
+    "sg:address":"1605 Martin Spring Dr",
+    "sg:city":"Rolla",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 364 8211",
+    "sg:postcode":"65401",
+    "sg:province":"MO",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970821,
+        102086893,
+        85814531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_47MhgMkAaAopxdBz3YIVFS_37.941365_-91.797553@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462597315,
+    "wof:geomhash":"de1af0f6d74a2181517bdc322ce03e88",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086893,
+            "locality_id":85970821,
+            "neighbourhood_id":85814531,
+            "region_id":85688661,
+            "venue_id":790611447
+        }
+    ],
+    "wof:id":790611447,
+    "wof:lastmodified":1462597315,
+    "wof:name":"Rolla Rural Fire Dept Ticket",
+    "wof:parent_id":85814531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -91.797553,
+    37.941365,
+    -91.797553,
+    37.941365
+],
+  "geometry": {"coordinates":[-91.79755299999999,37.941365],"type":"Point"}
+}

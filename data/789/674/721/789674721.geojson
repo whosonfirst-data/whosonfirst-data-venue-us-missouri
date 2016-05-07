@@ -1,0 +1,75 @@
+{
+  "id": 789674721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.7758,37.945416,-91.7758,37.945416",
+    "geom:latitude":37.945416,
+    "geom:longitude":-91.7758,
+    "iso:country":"US",
+    "sg:address":"105 N Rucker Ave",
+    "sg:city":"Rolla",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 364 1097",
+    "sg:postcode":"65401",
+    "sg:province":"MO",
+    "sg:tags":[
+        "automobile",
+        "detail",
+        "clean"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970821,
+        102086893,
+        85814531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3MXAdERoeHgml1Zd9dASCZ_37.945416_-91.775800@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462589660,
+    "wof:geomhash":"9e4c6b8cbf7e9549264b0d610b2f248d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086893,
+            "locality_id":85970821,
+            "neighbourhood_id":85814531,
+            "region_id":85688661,
+            "venue_id":789674721
+        }
+    ],
+    "wof:id":789674721,
+    "wof:lastmodified":1462589660,
+    "wof:name":"Charlies Car Care",
+    "wof:parent_id":85814531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "detail",
+        "clean"
+    ]
+},
+  "bbox": [
+    -91.7758,
+    37.945416,
+    -91.7758,
+    37.945416
+],
+  "geometry": {"coordinates":[-91.7758,37.945416],"type":"Point"}
+}

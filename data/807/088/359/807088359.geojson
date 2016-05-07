@@ -1,0 +1,73 @@
+{
+  "id": 807088359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.145281,38.553005,-92.145281,38.553005",
+    "geom:latitude":38.553005,
+    "geom:longitude":-92.145281,
+    "iso:country":"US",
+    "sg:address":"815 Eastland Dr",
+    "sg:city":"Jefferson City",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/jefferson/194180-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"65101",
+    "sg:province":"MO",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970647,
+        102087511,
+        85837745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7XgDQf7c5M4ebqCjS2qgKc_38.553005_-92.145281@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462603603,
+    "wof:geomhash":"1e89ee11fdba7c12eb60cd6e5bdb3b95",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087511,
+            "locality_id":85970647,
+            "neighbourhood_id":85837745,
+            "region_id":85688661,
+            "venue_id":807088359
+        }
+    ],
+    "wof:id":807088359,
+    "wof:lastmodified":1462603603,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85837745,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -92.145281,
+    38.553005,
+    -92.145281,
+    38.553005
+],
+  "geometry": {"coordinates":[-92.145281,38.553005],"type":"Point"}
+}

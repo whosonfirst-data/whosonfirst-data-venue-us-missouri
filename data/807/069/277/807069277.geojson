@@ -1,0 +1,78 @@
+{
+  "id": 807069277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.471219,38.67994,-90.471219,38.67994",
+    "geom:latitude":38.67994,
+    "geom:longitude":-90.471219,
+    "iso:country":"US",
+    "sg:address":"12701 Olive Blvd",
+    "sg:city":"Saint Louis",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/maryland-heights/190861-burger-king/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 579 6080",
+    "sg:postcode":"63141",
+    "sg:province":"MO",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85805719,
+        102191575,
+        404517323,
+        85633793,
+        85972315,
+        102086173,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2LcG6yKiDbFcfwEZUr0Rfu_38.679940_-90.471219@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462603439,
+    "wof:geomhash":"66a0c91028f070ae7ab147a932a28180",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086173,
+            "localadmin_id":404517323,
+            "locality_id":85972315,
+            "neighbourhood_id":85805719,
+            "region_id":85688661,
+            "venue_id":807069277
+        }
+    ],
+    "wof:id":807069277,
+    "wof:lastmodified":1462603439,
+    "wof:name":"Burger King",
+    "wof:parent_id":85805719,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -90.471219,
+    38.67994,
+    -90.471219,
+    38.67994
+],
+  "geometry": {"coordinates":[-90.471219,38.67994],"type":"Point"}
+}

@@ -1,0 +1,88 @@
+{
+  "id": 806858999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.513945,37.072244,-94.513945,37.072244",
+    "geom:latitude":37.072244,
+    "geom:longitude":-94.513945,
+    "iso:country":"US",
+    "sg:address":"1731 S Main St",
+    "sg:city":"Joplin",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 782 5625",
+    "sg:postcode":"64804",
+    "sg:province":"MO",
+    "sg:tags":[
+        "lock",
+        "locksmith"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85885363,
+        102191575,
+        404518215,
+        85633793,
+        85970893,
+        102087525,
+        85688661,
+        420525385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4nOK1Ufq1uyWr8WQ2IjRz9_37.072244_-94.513945@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462601682,
+    "wof:geomhash":"4c56e813a107c8a73caa2610a363cc81",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087525,
+            "localadmin_id":404518215,
+            "locality_id":85970893,
+            "neighbourhood_id":85885363,
+            "region_id":85688661,
+            "venue_id":806858999
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087525,
+            "localadmin_id":404518215,
+            "locality_id":85970893,
+            "neighbourhood_id":420525385,
+            "region_id":85688661,
+            "venue_id":806858999
+        }
+    ],
+    "wof:id":806858999,
+    "wof:lastmodified":1462601682,
+    "wof:name":"Coats Lock & Key",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lock",
+        "locksmith"
+    ]
+},
+  "bbox": [
+    -94.513945,
+    37.072244,
+    -94.513945,
+    37.072244
+],
+  "geometry": {"coordinates":[-94.51394500000001,37.072244],"type":"Point"}
+}

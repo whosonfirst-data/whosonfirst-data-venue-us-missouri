@@ -1,0 +1,73 @@
+{
+  "id": 789960309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.575061,38.042499,-91.575061,38.042499",
+    "geom:latitude":38.042499,
+    "geom:longitude":-91.575061,
+    "iso:country":"US",
+    "sg:address":"16750 Co Rd 1030",
+    "sg:city":"Saint James",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 265 6941",
+    "sg:postcode":"65559",
+    "sg:province":"MO",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970819,
+        102086893,
+        85847353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1LGvXANVsjAAbfP2nz4hNZ_38.042499_-91.575061@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462591999,
+    "wof:geomhash":"0acbb13dd573103f0c02e192ad1518db",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086893,
+            "locality_id":85970819,
+            "neighbourhood_id":85847353,
+            "region_id":85688661,
+            "venue_id":789960309
+        }
+    ],
+    "wof:id":789960309,
+    "wof:lastmodified":1462591999,
+    "wof:name":"J & J Electrical Service LLC",
+    "wof:parent_id":85847353,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -91.575061,
+    38.042499,
+    -91.575061,
+    38.042499
+],
+  "geometry": {"coordinates":[-91.57506100000001,38.042499],"type":"Point"}
+}

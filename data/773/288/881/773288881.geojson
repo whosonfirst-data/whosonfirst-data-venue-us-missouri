@@ -1,0 +1,71 @@
+{
+  "id": 773288881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.472925,38.589791,-90.472925,38.589791",
+    "geom:latitude":38.589791,
+    "geom:longitude":-90.472925,
+    "iso:country":"US",
+    "sg:address":"2523 Johnson Place Dr",
+    "sg:city":"Ballwin",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 822 8460",
+    "sg:postcode":"63021",
+    "sg:province":"MO",
+    "sg:tags":[
+        "laboratory",
+        "dental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85839871,
+        102086173
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_23oDrcxUQxIXsckpZLQdxM_38.589791_-90.472925@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462584591,
+    "wof:geomhash":"c29cecabe4b937172d2a137dc05b74fe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086173,
+            "neighbourhood_id":85839871,
+            "region_id":85688661,
+            "venue_id":773288881
+        }
+    ],
+    "wof:id":773288881,
+    "wof:lastmodified":1462584591,
+    "wof:name":"Johans Dental Lab",
+    "wof:parent_id":85839871,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory",
+        "dental"
+    ]
+},
+  "bbox": [
+    -90.472925,
+    38.589791,
+    -90.472925,
+    38.589791
+],
+  "geometry": {"coordinates":[-90.472925,38.589791],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 806899643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.523144,39.798562,-91.523144,39.798562",
+    "geom:latitude":39.798562,
+    "geom:longitude":-91.523144,
+    "iso:country":"US",
+    "sg:address":"222 S Main St",
+    "sg:city":"Palmyra",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Surveying",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 769 7020",
+    "sg:postcode":"63461",
+    "sg:province":"MO",
+    "sg:tags":[
+        "surveyor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688697,
+        85633793,
+        85938427,
+        102086213,
+        85867477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1LcNW3YxiRgyGaINzD0awm_39.798562_-91.523144@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462602006,
+    "wof:geomhash":"6660266369847b72626f3a952210af3f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086213,
+            "locality_id":85938427,
+            "neighbourhood_id":85867477,
+            "region_id":85688697,
+            "venue_id":806899643
+        }
+    ],
+    "wof:id":806899643,
+    "wof:lastmodified":1462602006,
+    "wof:name":"Jane's Surveying Inc",
+    "wof:parent_id":85867477,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "surveyor"
+    ]
+},
+  "bbox": [
+    -91.523144,
+    39.798562,
+    -91.523144,
+    39.798562
+],
+  "geometry": {"coordinates":[-91.523144,39.798562],"type":"Point"}
+}

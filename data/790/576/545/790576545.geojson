@@ -1,0 +1,69 @@
+{
+  "id": 790576545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.50125,38.394679,-90.50125,38.394679",
+    "geom:latitude":38.394679,
+    "geom:longitude":-90.50125,
+    "iso:country":"US",
+    "sg:address":"5011 W 4 Ridge Rd",
+    "sg:city":"House Springs",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 942 2156",
+    "sg:postcode":"63051",
+    "sg:province":"MO",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85805175,
+        102080787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5CigBeEx6UZmTKABmqHYU7_38.394679_-90.501250@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462597011,
+    "wof:geomhash":"7bb9f8122b3c3c44335f74c027182ce4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080787,
+            "neighbourhood_id":85805175,
+            "region_id":85688661,
+            "venue_id":790576545
+        }
+    ],
+    "wof:id":790576545,
+    "wof:lastmodified":1462597011,
+    "wof:name":"Bob & Macs Auto Service",
+    "wof:parent_id":85805175,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -90.50125,
+    38.394679,
+    -90.50125,
+    38.394679
+],
+  "geometry": {"coordinates":[-90.50125,38.394679],"type":"Point"}
+}

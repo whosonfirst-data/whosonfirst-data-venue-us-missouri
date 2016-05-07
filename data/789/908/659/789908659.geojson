@@ -1,0 +1,75 @@
+{
+  "id": 789908659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.305128,38.632191,-90.305128,38.632191",
+    "geom:latitude":38.632191,
+    "geom:longitude":-90.305128,
+    "iso:country":"US",
+    "sg:address":"1011 McCausland Ave",
+    "sg:city":"St Louis",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 646 1011",
+    "sg:postcode":"63117",
+    "sg:province":"MO",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873647,
+        102191575,
+        404518053,
+        85633793,
+        85971343,
+        102080791,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5x6r0in5VIj4BWTHYxhvWL_38.632191_-90.305128@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462591523,
+    "wof:geomhash":"0961a7d80d1acac87bf8e8cae2d4c5cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080791,
+            "localadmin_id":404518053,
+            "locality_id":85971343,
+            "neighbourhood_id":85873647,
+            "region_id":85688661,
+            "venue_id":789908659
+        }
+    ],
+    "wof:id":789908659,
+    "wof:lastmodified":1462591523,
+    "wof:name":"Salon Pompidou",
+    "wof:parent_id":85873647,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -90.305128,
+    38.632191,
+    -90.305128,
+    38.632191
+],
+  "geometry": {"coordinates":[-90.305128,38.632191],"type":"Point"}
+}

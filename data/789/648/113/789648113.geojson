@@ -1,0 +1,79 @@
+{
+  "id": 789648113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.44847,36.83073,-94.44847,36.83073",
+    "geom:latitude":36.83073,
+    "geom:longitude":-94.44847,
+    "iso:country":"US",
+    "sg:address":"16887 Ibex Rd",
+    "sg:city":"Neosho",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 451 1805",
+    "sg:postcode":"64850",
+    "sg:province":"MO",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85821247,
+        102191575,
+        404517035,
+        85633793,
+        85971317,
+        102087471,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0hylMxcMpINfGHgA3cw77w_36.830730_-94.448470@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462589436,
+    "wof:geomhash":"81086f3e6b42df2de4b665ccb19c1fa6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087471,
+            "localadmin_id":404517035,
+            "locality_id":85971317,
+            "neighbourhood_id":85821247,
+            "region_id":85688661,
+            "venue_id":789648113
+        }
+    ],
+    "wof:id":789648113,
+    "wof:lastmodified":1462589436,
+    "wof:name":"Timberwolf Trucking",
+    "wof:parent_id":85821247,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -94.44847,
+    36.83073,
+    -94.44847,
+    36.83073
+],
+  "geometry": {"coordinates":[-94.44847,36.83073],"type":"Point"}
+}

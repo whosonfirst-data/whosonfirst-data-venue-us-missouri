@@ -1,0 +1,73 @@
+{
+  "id": 789589833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.475526,39.088899,-94.475526,39.088899",
+    "geom:latitude":39.088899,
+    "geom:longitude":-94.475526,
+    "iso:country":"US",
+    "sg:address":"8840 E 18 St S",
+    "sg:city":"Independence",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 252 6613",
+    "sg:postcode":"64052",
+    "sg:province":"MO",
+    "sg:tags":[
+        "residential",
+        "commercial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970739,
+        102081227,
+        85810269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Lhxz9ls11s92bzzpjYcG4_39.088899_-94.475526@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462588985,
+    "wof:geomhash":"99a80ced254758fca93efb094374e4d9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081227,
+            "locality_id":85970739,
+            "neighbourhood_id":85810269,
+            "region_id":85688661,
+            "venue_id":789589833
+        }
+    ],
+    "wof:id":789589833,
+    "wof:lastmodified":1462588985,
+    "wof:name":"Bowman Building Company",
+    "wof:parent_id":85810269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential",
+        "commercial"
+    ]
+},
+  "bbox": [
+    -94.475526,
+    39.088899,
+    -94.475526,
+    39.088899
+],
+  "geometry": {"coordinates":[-94.475526,39.088899],"type":"Point"}
+}

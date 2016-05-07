@@ -1,0 +1,72 @@
+{
+  "id": 807061011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.403491,38.211022,-90.403491,38.211022",
+    "geom:latitude":38.211022,
+    "geom:longitude":-90.403491,
+    "iso:country":"US",
+    "sg:address":"1172 W Gannon Dr",
+    "sg:city":"Festus",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/river-view/148709-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 931 5330",
+    "sg:postcode":"63028",
+    "sg:province":"MO",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85848677,
+        102080787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Xiga11YkFeltDDu3nacEi_38.211022_-90.403491@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462603378,
+    "wof:geomhash":"b071d76832f3f2322ae10fb790a36190",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080787,
+            "neighbourhood_id":85848677,
+            "region_id":85688661,
+            "venue_id":807061011
+        }
+    ],
+    "wof:id":807061011,
+    "wof:lastmodified":1462603378,
+    "wof:name":"Subway",
+    "wof:parent_id":85848677,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -90.403491,
+    38.211022,
+    -90.403491,
+    38.211022
+],
+  "geometry": {"coordinates":[-90.403491,38.211022],"type":"Point"}
+}

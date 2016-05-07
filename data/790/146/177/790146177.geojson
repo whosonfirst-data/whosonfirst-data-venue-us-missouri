@@ -1,0 +1,75 @@
+{
+  "id": 790146177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.581309,38.797322,-90.581309,38.797322",
+    "geom:latitude":38.797322,
+    "geom:longitude":-90.581309,
+    "iso:country":"US",
+    "sg:address":"4695 Veterans Memorial Pkwy",
+    "sg:city":"Saint Peters",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 447 6535",
+    "sg:postcode":"63376",
+    "sg:province":"MO",
+    "sg:tags":[
+        "terminal",
+        "truck",
+        "facility"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5hGPHkni7cFesPmrxjxGgN_38.797322_-90.581309@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462593480,
+    "wof:geomhash":"679ffc9cb9de6582a6e14b81511d44c7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":790146177
+        }
+    ],
+    "wof:id":790146177,
+    "wof:lastmodified":1462593480,
+    "wof:name":"Megellan Pipeline Company LP",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "terminal",
+        "truck",
+        "facility"
+    ]
+},
+  "bbox": [
+    -90.581309,
+    38.797322,
+    -90.581309,
+    38.797322
+],
+  "geometry": {"coordinates":[-90.581309,38.797322],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 806573455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.726873,38.806394,-90.726873,38.806394",
+    "geom:latitude":38.806394,
+    "geom:longitude":-90.726873,
+    "iso:country":"US",
+    "sg:address":"105 N Central Dr",
+    "sg:city":"O Fallon",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 978 2522",
+    "sg:postcode":"63366",
+    "sg:province":"MO",
+    "sg:tags":[
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Qlxxal4L4cDqAX6qxD56i_38.806394_-90.726873@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462599260,
+    "wof:geomhash":"17f0b5685da7df1792afa136fc376936",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":806573455
+        }
+    ],
+    "wof:id":806573455,
+    "wof:lastmodified":1462599260,
+    "wof:name":"Stege Transportation Inc",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -90.726873,
+    38.806394,
+    -90.726873,
+    38.806394
+],
+  "geometry": {"coordinates":[-90.726873,38.806394],"type":"Point"}
+}

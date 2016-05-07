@@ -1,0 +1,88 @@
+{
+  "id": 789830989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.439265,39.259711,-94.439265,39.259711",
+    "geom:latitude":39.259711,
+    "geom:longitude":-94.439265,
+    "iso:country":"US",
+    "sg:address":"1505 Nancy Ln",
+    "sg:city":"Liberty",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 415 9778",
+    "sg:postcode":"64068",
+    "sg:province":"MO",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420525367,
+        102191575,
+        404516717,
+        85633793,
+        85972461,
+        102086177,
+        85688661,
+        420525305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5W7GlpfN7kexnKiSKv3hCw_39.259711_-94.439265@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462590878,
+    "wof:geomhash":"7554f26ed7665983b05bf725348021e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086177,
+            "localadmin_id":404516717,
+            "locality_id":85972461,
+            "neighbourhood_id":420525367,
+            "region_id":85688661,
+            "venue_id":789830989
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086177,
+            "localadmin_id":404516717,
+            "locality_id":85972461,
+            "neighbourhood_id":420525305,
+            "region_id":85688661,
+            "venue_id":789830989
+        }
+    ],
+    "wof:id":789830989,
+    "wof:lastmodified":1462590878,
+    "wof:name":"Hayes Plumbing",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -94.439265,
+    39.259711,
+    -94.439265,
+    39.259711
+],
+  "geometry": {"coordinates":[-94.43926500000001,39.259711],"type":"Point"}
+}

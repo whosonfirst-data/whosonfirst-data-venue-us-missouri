@@ -1,0 +1,71 @@
+{
+  "id": 789745515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.309568,37.113347,-93.309568,37.113347",
+    "geom:latitude":37.113347,
+    "geom:longitude":-93.309568,
+    "iso:country":"US",
+    "sg:address":"1111 W Highpoint St",
+    "sg:city":"Springfield",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 823 9954",
+    "sg:postcode":"65810",
+    "sg:province":"MO",
+    "sg:tags":[
+        "gourmet",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85881143,
+        102087523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2epSnN6BdaI7CuQkfwGXzc_37.113347_-93.309568@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462590221,
+    "wof:geomhash":"1d8895236e1c2eb954284f2643034662",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087523,
+            "neighbourhood_id":85881143,
+            "region_id":85688661,
+            "venue_id":789745515
+        }
+    ],
+    "wof:id":789745515,
+    "wof:lastmodified":1462590221,
+    "wof:name":"Ol' Farmers Brand",
+    "wof:parent_id":85881143,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "gourmet",
+        "shop"
+    ]
+},
+  "bbox": [
+    -93.309568,
+    37.113347,
+    -93.309568,
+    37.113347
+],
+  "geometry": {"coordinates":[-93.309568,37.113347],"type":"Point"}
+}

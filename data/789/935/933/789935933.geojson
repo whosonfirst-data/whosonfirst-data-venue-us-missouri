@@ -1,0 +1,71 @@
+{
+  "id": 789935933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.794036,37.909687,-91.794036,37.909687",
+    "geom:latitude":37.909687,
+    "geom:longitude":-91.794036,
+    "iso:country":"US",
+    "sg:address":"12915 Hartville Rd",
+    "sg:city":"Rolla",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 364 9293",
+    "sg:postcode":"65401",
+    "sg:province":"MO",
+    "sg:tags":[
+        "upholsterer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970821,
+        102086893,
+        85814531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6597KNBukAFORC9ur0trII_37.909687_-91.794036@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462591758,
+    "wof:geomhash":"71cbd44985517ea981071f1f4529c227",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086893,
+            "locality_id":85970821,
+            "neighbourhood_id":85814531,
+            "region_id":85688661,
+            "venue_id":789935933
+        }
+    ],
+    "wof:id":789935933,
+    "wof:lastmodified":1462591758,
+    "wof:name":"Reinhard's Upholstery",
+    "wof:parent_id":85814531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "upholsterer"
+    ]
+},
+  "bbox": [
+    -91.794036,
+    37.909687,
+    -91.794036,
+    37.909687
+],
+  "geometry": {"coordinates":[-91.79403600000001,37.909687],"type":"Point"}
+}

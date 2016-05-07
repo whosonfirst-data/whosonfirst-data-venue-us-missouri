@@ -1,0 +1,71 @@
+{
+  "id": 773225231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.489351,38.776391,-90.489351,38.776391",
+    "geom:latitude":38.776391,
+    "geom:longitude":-90.489351,
+    "iso:country":"US",
+    "sg:address":"920 S 5th St",
+    "sg:city":"Saint Charles",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 947 8547",
+    "sg:postcode":"63301",
+    "sg:province":"MO",
+    "sg:tags":[
+        "bakery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5niccFhWrkkRgnVY4NyaOW_38.776391_-90.489351@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462584110,
+    "wof:geomhash":"11d57138a77b354f4492e9489c8c975e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":773225231
+        }
+    ],
+    "wof:id":773225231,
+    "wof:lastmodified":1462584110,
+    "wof:name":"Hostess Wonders",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bakery"
+    ]
+},
+  "bbox": [
+    -90.489351,
+    38.776391,
+    -90.489351,
+    38.776391
+],
+  "geometry": {"coordinates":[-90.489351,38.776391],"type":"Point"}
+}

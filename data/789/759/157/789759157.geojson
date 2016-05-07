@@ -1,0 +1,73 @@
+{
+  "id": 789759157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.668325,39.275542,-94.668325,39.275542",
+    "geom:latitude":39.275542,
+    "geom:longitude":-94.668325,
+    "iso:country":"US",
+    "sg:address":"10015 NW Executive Hills Blvd",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 801 2010",
+    "sg:postcode":"64153",
+    "sg:province":"MO",
+    "sg:tags":[
+        "census",
+        "bureau"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970739,
+        102085271,
+        85851839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_37yCwdwV9wKBIi9dp5Ez80_39.275542_-94.668325@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462590323,
+    "wof:geomhash":"f4e1841e677c6c65d046bd3c0f4935b6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085271,
+            "locality_id":85970739,
+            "neighbourhood_id":85851839,
+            "region_id":85688661,
+            "venue_id":789759157
+        }
+    ],
+    "wof:id":789759157,
+    "wof:lastmodified":1462590323,
+    "wof:name":"Census Bureau of the US",
+    "wof:parent_id":85851839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "census",
+        "bureau"
+    ]
+},
+  "bbox": [
+    -94.668325,
+    39.275542,
+    -94.668325,
+    39.275542
+],
+  "geometry": {"coordinates":[-94.668325,39.275542],"type":"Point"}
+}

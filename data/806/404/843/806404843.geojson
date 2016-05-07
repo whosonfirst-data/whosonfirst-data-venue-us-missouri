@@ -1,0 +1,75 @@
+{
+  "id": 806404843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.540773,39.106047,-94.540773,39.106047",
+    "geom:latitude":39.106047,
+    "geom:longitude":-94.540773,
+    "iso:country":"US",
+    "sg:address":"3408 Independence Ave",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 231 0500",
+    "sg:postcode":"64124",
+    "sg:province":"MO",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872001,
+        102191575,
+        404518075,
+        85633793,
+        85970739,
+        102081227,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3RZdcGFesCg6Z7o4zevTLh_39.106047_-94.540773@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462597874,
+    "wof:geomhash":"117c8b4638619042cdb3fc7a39a416f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081227,
+            "localadmin_id":404518075,
+            "locality_id":85970739,
+            "neighbourhood_id":85872001,
+            "region_id":85688661,
+            "venue_id":806404843
+        }
+    ],
+    "wof:id":806404843,
+    "wof:lastmodified":1462597874,
+    "wof:name":"Independence Avenue Pet Hosp",
+    "wof:parent_id":85872001,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -94.540773,
+    39.106047,
+    -94.540773,
+    39.106047
+],
+  "geometry": {"coordinates":[-94.540773,39.106047],"type":"Point"}
+}

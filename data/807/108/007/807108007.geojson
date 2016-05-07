@@ -1,0 +1,93 @@
+{
+  "id": 807108007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.388287,38.332523,-90.388287,38.332523",
+    "geom:latitude":38.332523,
+    "geom:longitude":-90.388287,
+    "iso:country":"US",
+    "sg:address":"7373 Mulberry Rd",
+    "sg:city":"Barnhart",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Jewelry",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Jewelry",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 333 2454",
+    "sg:postcode":"63012",
+    "sg:province":"MO",
+    "sg:tags":[
+        "designer",
+        "jeweler"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420525373,
+        102191575,
+        404518285,
+        85633793,
+        85972523,
+        102080787,
+        85688661,
+        420525431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2nIU9CVmQILwpmTXg5omrF_38.332523_-90.388287@1303262925"
+    },
+    "wof:country":"US",
+    "wof:created":1462603815,
+    "wof:geomhash":"5b483b64b670c825f19f2ed10848b684",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080787,
+            "localadmin_id":404518285,
+            "locality_id":85972523,
+            "neighbourhood_id":420525373,
+            "region_id":85688661,
+            "venue_id":807108007
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080787,
+            "localadmin_id":404518285,
+            "locality_id":85972523,
+            "neighbourhood_id":420525431,
+            "region_id":85688661,
+            "venue_id":807108007
+        }
+    ],
+    "wof:id":807108007,
+    "wof:lastmodified":1462603815,
+    "wof:name":"Treasure Chest Jewelry",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "designer",
+        "jeweler"
+    ]
+},
+  "bbox": [
+    -90.388287,
+    38.332523,
+    -90.388287,
+    38.332523
+],
+  "geometry": {"coordinates":[-90.38828700000001,38.332523],"type":"Point"}
+}

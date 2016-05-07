@@ -1,0 +1,73 @@
+{
+  "id": 773738705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.885269,38.80701,-90.885269,38.80701",
+    "geom:latitude":38.80701,
+    "geom:longitude":-90.885269,
+    "iso:country":"US",
+    "sg:address":"1723 W Pearce Blvd",
+    "sg:city":"Wentzville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 332 1441",
+    "sg:postcode":"63385",
+    "sg:province":"MO",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Tk1y6xiBpotnpOGS33uRN_38.807010_-90.885269@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462588012,
+    "wof:geomhash":"ceb7f035ee16dc149d8fe48d20dde24c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":773738705
+        }
+    ],
+    "wof:id":773738705,
+    "wof:lastmodified":1462588012,
+    "wof:name":"Steve's Hot Rods & Auto Repair",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -90.885269,
+    38.80701,
+    -90.885269,
+    38.80701
+],
+  "geometry": {"coordinates":[-90.88526899999999,38.80701],"type":"Point"}
+}

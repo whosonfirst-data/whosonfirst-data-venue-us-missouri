@@ -1,0 +1,71 @@
+{
+  "id": 806822425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.577588,36.896398,-94.577588,36.896398",
+    "geom:latitude":36.896398,
+    "geom:longitude":-94.577588,
+    "iso:country":"US",
+    "sg:address":"3319 Kentucky Rd",
+    "sg:city":"Seneca",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 776 2801",
+    "sg:postcode":"64865",
+    "sg:province":"MO",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971289,
+        102087471,
+        85814333
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Lw1M2RHQCmCtcMfOQaaL5_36.896398_-94.577588@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462601362,
+    "wof:geomhash":"912e005e42161c27740fa3537d7f277f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087471,
+            "locality_id":85971289,
+            "neighbourhood_id":85814333,
+            "region_id":85688661,
+            "venue_id":806822425
+        }
+    ],
+    "wof:id":806822425,
+    "wof:lastmodified":1462601362,
+    "wof:name":"Seneca Veterinary Clinic",
+    "wof:parent_id":85814333,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -94.577588,
+    36.896398,
+    -94.577588,
+    36.896398
+],
+  "geometry": {"coordinates":[-94.57758800000001,36.896398],"type":"Point"}
+}

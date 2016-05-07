@@ -1,0 +1,73 @@
+{
+  "id": 773189809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.261548,37.217567,-93.261548,37.217567",
+    "geom:latitude":37.217567,
+    "geom:longitude":-93.261548,
+    "iso:country":"US",
+    "sg:address":"904 N Glenstone Ave",
+    "sg:city":"Springfield",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 862 2772",
+    "sg:postcode":"65802",
+    "sg:province":"MO",
+    "sg:tags":[
+        "saddlery",
+        "harness"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971363,
+        102087523,
+        85881137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5kjsRgZ6sVfruuOj6Hk51J_37.217567_-93.261548@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462583848,
+    "wof:geomhash":"a8f84514a5fc10af469db9a795ed02dd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087523,
+            "locality_id":85971363,
+            "neighbourhood_id":85881137,
+            "region_id":85688661,
+            "venue_id":773189809
+        }
+    ],
+    "wof:id":773189809,
+    "wof:lastmodified":1462583848,
+    "wof:name":"Express Saddle Shop",
+    "wof:parent_id":85881137,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "saddlery",
+        "harness"
+    ]
+},
+  "bbox": [
+    -93.261548,
+    37.217567,
+    -93.261548,
+    37.217567
+],
+  "geometry": {"coordinates":[-93.261548,37.217567],"type":"Point"}
+}

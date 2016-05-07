@@ -1,0 +1,73 @@
+{
+  "id": 789693365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.185082,37.388335,-93.185082,37.388335",
+    "geom:latitude":37.388335,
+    "geom:longitude":-93.185082,
+    "iso:country":"US",
+    "sg:address":"4921 E State Hwy CC",
+    "sg:city":"Fair Grove",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 759 2567",
+    "sg:postcode":"65648",
+    "sg:province":"MO",
+    "sg:tags":[
+        "body",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971363,
+        102087523,
+        85881137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_59lCQKegnbP3khkL6U17hR_37.388335_-93.185082@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462589805,
+    "wof:geomhash":"d3866200af3a295bfe5a2cf9516ad311",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087523,
+            "locality_id":85971363,
+            "neighbourhood_id":85881137,
+            "region_id":85688661,
+            "venue_id":789693365
+        }
+    ],
+    "wof:id":789693365,
+    "wof:lastmodified":1462589805,
+    "wof:name":"Sharps Body Shop & Trctr Repr",
+    "wof:parent_id":85881137,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "shop"
+    ]
+},
+  "bbox": [
+    -93.185082,
+    37.388335,
+    -93.185082,
+    37.388335
+],
+  "geometry": {"coordinates":[-93.18508199999999,37.388335],"type":"Point"}
+}

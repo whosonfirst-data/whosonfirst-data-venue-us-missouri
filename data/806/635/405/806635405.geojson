@@ -1,0 +1,79 @@
+{
+  "id": 806635405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.641256,38.504467,-90.641256,38.504467",
+    "geom:latitude":38.504467,
+    "geom:longitude":-90.641256,
+    "iso:country":"US",
+    "sg:address":"1023 W 5th St",
+    "sg:city":"Eureka",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 938 5700",
+    "sg:postcode":"63025",
+    "sg:province":"MO",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85809151,
+        102191575,
+        404517383,
+        85633793,
+        85972199,
+        102086173,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Ajt5J00KEkSddM3Owg7yF_38.504467_-90.641256@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462599779,
+    "wof:geomhash":"3e221b3ca51f56b8674886ceb22f0f6d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086173,
+            "localadmin_id":404517383,
+            "locality_id":85972199,
+            "neighbourhood_id":85809151,
+            "region_id":85688661,
+            "venue_id":806635405
+        }
+    ],
+    "wof:id":806635405,
+    "wof:lastmodified":1462599779,
+    "wof:name":"Eureka Auto Collision Ctr",
+    "wof:parent_id":85809151,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -90.641256,
+    38.504467,
+    -90.641256,
+    38.504467
+],
+  "geometry": {"coordinates":[-90.641256,38.504467],"type":"Point"}
+}

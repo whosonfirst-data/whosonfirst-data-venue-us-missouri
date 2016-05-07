@@ -1,0 +1,71 @@
+{
+  "id": 773670721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.509546,38.78466,-90.509546,38.78466",
+    "geom:latitude":38.78466,
+    "geom:longitude":-90.509546,
+    "iso:country":"US",
+    "sg:address":"508 Droste Rd",
+    "sg:city":"St Charles",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 946 9775",
+    "sg:postcode":"63301",
+    "sg:province":"MO",
+    "sg:tags":[
+        "delivery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4MV7H3mJIMalmNoTchpCot_38.784660_-90.509546@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462587471,
+    "wof:geomhash":"f896a8bfbf1d0d8e461530ddeef7df9f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":773670721
+        }
+    ],
+    "wof:id":773670721,
+    "wof:lastmodified":1462587471,
+    "wof:name":"First Capitol Courier",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "delivery"
+    ]
+},
+  "bbox": [
+    -90.509546,
+    38.78466,
+    -90.509546,
+    38.78466
+],
+  "geometry": {"coordinates":[-90.509546,38.78466],"type":"Point"}
+}

@@ -1,0 +1,91 @@
+{
+  "id": 773473969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.585785,39.197885,-94.585785,39.197885",
+    "geom:latitude":39.197885,
+    "geom:longitude":-94.585785,
+    "iso:country":"US",
+    "sg:address":"5722 N Broadway Ave",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 453 7473",
+    "sg:postcode":"64118",
+    "sg:province":"MO",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420525303,
+        102191575,
+        404518075,
+        85633793,
+        85970739,
+        102081227,
+        85688661,
+        420525395,
+        404517563,
+        85970477,
+        102085271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5AujGUTdRikqDHhO2hmNmS_39.197885_-94.585785@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462586015,
+    "wof:geomhash":"f24ed7a464f0a9edae84e71c7b72939a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081227,
+            "localadmin_id":404518075,
+            "locality_id":85970739,
+            "neighbourhood_id":420525303,
+            "region_id":85688661,
+            "venue_id":773473969
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085271,
+            "localadmin_id":404517563,
+            "locality_id":85970477,
+            "neighbourhood_id":420525395,
+            "region_id":85688661,
+            "venue_id":773473969
+        }
+    ],
+    "wof:id":773473969,
+    "wof:lastmodified":1462586015,
+    "wof:name":"CPA",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -94.585785,
+    39.197885,
+    -94.585785,
+    39.197885
+],
+  "geometry": {"coordinates":[-94.585785,39.197885],"type":"Point"}
+}

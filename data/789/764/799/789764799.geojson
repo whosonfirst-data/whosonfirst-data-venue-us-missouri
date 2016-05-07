@@ -1,0 +1,71 @@
+{
+  "id": 789764799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.438567,38.185852,-90.438567,38.185852",
+    "geom:latitude":38.185852,
+    "geom:longitude":-90.438567,
+    "iso:country":"US",
+    "sg:address":"2154 US Hwy 67",
+    "sg:city":"Festus",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 937 7673",
+    "sg:postcode":"63028",
+    "sg:province":"MO",
+    "sg:tags":[
+        "hospital",
+        "animal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85848677,
+        102080787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4gcWIXNWx4hcpmxVW6Vuhv_38.185852_-90.438567@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462590365,
+    "wof:geomhash":"5feb4142bda3c06dfeffdb8eaf3a28ec",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080787,
+            "neighbourhood_id":85848677,
+            "region_id":85688661,
+            "venue_id":789764799
+        }
+    ],
+    "wof:id":789764799,
+    "wof:lastmodified":1462590365,
+    "wof:name":"Circle Of Life Animal Hospital",
+    "wof:parent_id":85848677,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hospital",
+        "animal"
+    ]
+},
+  "bbox": [
+    -90.438567,
+    38.185852,
+    -90.438567,
+    38.185852
+],
+  "geometry": {"coordinates":[-90.43856700000001,38.185852],"type":"Point"}
+}

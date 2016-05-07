@@ -1,0 +1,71 @@
+{
+  "id": 773845441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.222618,39.117793,-92.222618,39.117793",
+    "geom:latitude":39.117793,
+    "geom:longitude":-92.222618,
+    "iso:country":"US",
+    "sg:address":"202 E Hwy 124",
+    "sg:city":"Hallsville",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 696 3838",
+    "sg:postcode":"65255",
+    "sg:province":"MO",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970425,
+        102086187,
+        85851713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6tw5wimIBKfdj8R22iDwz6_39.117793_-92.222618@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462588862,
+    "wof:geomhash":"b81f3c7bb9f72b09fb1f66c419e89481",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086187,
+            "locality_id":85970425,
+            "neighbourhood_id":85851713,
+            "region_id":85688661,
+            "venue_id":773845441
+        }
+    ],
+    "wof:id":773845441,
+    "wof:lastmodified":1462588862,
+    "wof:name":"Hallsville Police Dept",
+    "wof:parent_id":85851713,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -92.222618,
+    39.117793,
+    -92.222618,
+    39.117793
+],
+  "geometry": {"coordinates":[-92.222618,39.117793],"type":"Point"}
+}

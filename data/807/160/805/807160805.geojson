@@ -1,0 +1,71 @@
+{
+  "id": 807160805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.250801,38.677299,-90.250801,38.677299",
+    "geom:latitude":38.677299,
+    "geom:longitude":-90.250801,
+    "iso:country":"US",
+    "sg:address":"3900 N Kingshighway Blvd",
+    "sg:city":"Saint Louis",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 383 2020",
+    "sg:postcode":"63115",
+    "sg:province":"MO",
+    "sg:website":"meineke.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420525471,
+        102191575,
+        404518053,
+        85633793,
+        85971343,
+        102080791,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7T8VN23peLPypdkwOyAXHF_38.677299_-90.250801@1303262929"
+    },
+    "wof:country":"US",
+    "wof:created":1462604387,
+    "wof:geomhash":"8d1ca2b2400bb9faf54aaf853debb1fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080791,
+            "localadmin_id":404518053,
+            "locality_id":85971343,
+            "neighbourhood_id":420525471,
+            "region_id":85688661,
+            "venue_id":807160805
+        }
+    ],
+    "wof:id":807160805,
+    "wof:lastmodified":1462604387,
+    "wof:name":"Meineke Car Care Centers Inc",
+    "wof:parent_id":420525471,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.250801,
+    38.677299,
+    -90.250801,
+    38.677299
+],
+  "geometry": {"coordinates":[-90.250801,38.677299],"type":"Point"}
+}

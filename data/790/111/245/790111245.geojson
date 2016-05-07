@@ -1,0 +1,76 @@
+{
+  "id": 790111245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.366497,38.738216,-90.366497,38.738216",
+    "geom:latitude":38.738216,
+    "geom:longitude":-90.366497,
+    "iso:country":"US",
+    "sg:address":"10534 Natural Bridge Rd",
+    "sg:city":"St Louis",
+    "sg:classifiers":[
+        {
+            "category":"Parking",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 426 4510",
+    "sg:postcode":"63134",
+    "sg:province":"MO",
+    "sg:tags":[
+        "garage"
+    ],
+    "sg:website":"www.theparkingspot.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85847351,
+        102191575,
+        404517201,
+        85633793,
+        85972285,
+        102086173,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5mV1LWTsm0O3S4D3bia1nU_38.738216_-90.366497@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462593228,
+    "wof:geomhash":"30934f4635af9fe30490a6706d03aabb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086173,
+            "localadmin_id":404517201,
+            "locality_id":85972285,
+            "neighbourhood_id":85847351,
+            "region_id":85688661,
+            "venue_id":790111245
+        }
+    ],
+    "wof:id":790111245,
+    "wof:lastmodified":1462593228,
+    "wof:name":"Parking Spot",
+    "wof:parent_id":85847351,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garage"
+    ]
+},
+  "bbox": [
+    -90.366497,
+    38.738216,
+    -90.366497,
+    38.738216
+],
+  "geometry": {"coordinates":[-90.366497,38.738216],"type":"Point"}
+}

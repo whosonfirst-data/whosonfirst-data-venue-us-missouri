@@ -1,0 +1,73 @@
+{
+  "id": 789590243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.485013,38.81193,-90.485013,38.81193",
+    "geom:latitude":38.81193,
+    "geom:longitude":-90.485013,
+    "iso:country":"US",
+    "sg:address":"20 Corporate Hills Dr",
+    "sg:city":"Saint Charles",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 916 8500",
+    "sg:postcode":"63301",
+    "sg:province":"MO",
+    "sg:tags":[
+        "depository",
+        "banking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0lqVcUXcILhTVdH4LgDMhQ_38.811930_-90.485013@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462588988,
+    "wof:geomhash":"a1977572eb320645247092cb82ff74fd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":789590243
+        }
+    ],
+    "wof:id":789590243,
+    "wof:lastmodified":1462588988,
+    "wof:name":"Western Union Fincl Svcs Inc",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "depository",
+        "banking"
+    ]
+},
+  "bbox": [
+    -90.485013,
+    38.81193,
+    -90.485013,
+    38.81193
+],
+  "geometry": {"coordinates":[-90.485013,38.81193],"type":"Point"}
+}

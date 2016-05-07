@@ -1,0 +1,69 @@
+{
+  "id": 806979635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.638869,38.365292,-90.638869,38.365292",
+    "geom:latitude":38.365292,
+    "geom:longitude":-90.638869,
+    "iso:country":"US",
+    "sg:address":"6321 Lorens Ln",
+    "sg:city":"Cedar Hill",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 274 3964",
+    "sg:postcode":"63016",
+    "sg:province":"MO",
+    "sg:tags":[
+        "ambulance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85805175,
+        102080787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7IiBiY5rqV3HWTKhnaIo0i_38.365292_-90.638869@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462602686,
+    "wof:geomhash":"c7a962a397a11b460c8c913a9e9fec2c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080787,
+            "neighbourhood_id":85805175,
+            "region_id":85688661,
+            "venue_id":806979635
+        }
+    ],
+    "wof:id":806979635,
+    "wof:lastmodified":1462602686,
+    "wof:name":"Big River Ambulance District",
+    "wof:parent_id":85805175,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ambulance"
+    ]
+},
+  "bbox": [
+    -90.638869,
+    38.365292,
+    -90.638869,
+    38.365292
+],
+  "geometry": {"coordinates":[-90.638869,38.365292],"type":"Point"}
+}

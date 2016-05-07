@@ -1,0 +1,77 @@
+{
+  "id": 806657623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.525571,38.880845,-94.525571,38.880845",
+    "geom:latitude":38.880845,
+    "geom:longitude":-94.525571,
+    "iso:country":"US",
+    "sg:address":"13411 US Hwy 71",
+    "sg:city":"Grandview",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 761 4420",
+    "sg:postcode":"64030",
+    "sg:province":"MO",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85805677,
+        102191575,
+        404518085,
+        85633793,
+        85971459,
+        102081227,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_51EB2EvR474okcZcUxdjBC_38.880845_-94.525571@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462599975,
+    "wof:geomhash":"a06e7170ded87b738c47368340f0a45f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081227,
+            "localadmin_id":404518085,
+            "locality_id":85971459,
+            "neighbourhood_id":85805677,
+            "region_id":85688661,
+            "venue_id":806657623
+        }
+    ],
+    "wof:id":806657623,
+    "wof:lastmodified":1462599975,
+    "wof:name":"Rick's Auto Maintenance",
+    "wof:parent_id":85805677,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -94.525571,
+    38.880845,
+    -94.525571,
+    38.880845
+],
+  "geometry": {"coordinates":[-94.525571,38.880845],"type":"Point"}
+}

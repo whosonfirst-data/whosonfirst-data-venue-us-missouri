@@ -1,0 +1,71 @@
+{
+  "id": 806533189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.559009,38.244128,-90.559009,38.244128",
+    "geom:latitude":38.244128,
+    "geom:longitude":-90.559009,
+    "iso:country":"US",
+    "sg:address":"10279 State Hwy 21",
+    "sg:city":"Hillsboro",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 789 3941",
+    "sg:postcode":"63050",
+    "sg:province":"MO",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85848677,
+        102080787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1qju32ukoxkHcFVvow5Vi7_38.244128_-90.559009@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462598894,
+    "wof:geomhash":"64fe2bbb22f9b2c62960956dc81235ab",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080787,
+            "neighbourhood_id":85848677,
+            "region_id":85688661,
+            "venue_id":806533189
+        }
+    ],
+    "wof:id":806533189,
+    "wof:lastmodified":1462598894,
+    "wof:name":"David J Standfield Do LLC",
+    "wof:parent_id":85848677,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -90.559009,
+    38.244128,
+    -90.559009,
+    38.244128
+],
+  "geometry": {"coordinates":[-90.559009,38.244128],"type":"Point"}
+}

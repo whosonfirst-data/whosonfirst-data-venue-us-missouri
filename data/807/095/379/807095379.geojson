@@ -1,0 +1,72 @@
+{
+  "id": 807095379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.311509,37.160124,-93.311509,37.160124",
+    "geom:latitude":37.160124,
+    "geom:longitude":-93.311509,
+    "iso:country":"US",
+    "sg:address":"1425 W Battlefield St",
+    "sg:city":"Springfield",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/springfield/54374-pizza-inn/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 889 9769",
+    "sg:postcode":"65807",
+    "sg:province":"MO",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85881151,
+        102087523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_13HCRR98Fqm40XGrb66hnz_37.160124_-93.311509@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462603668,
+    "wof:geomhash":"7e18e50ecb15bdb44072285539ba9cc3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087523,
+            "neighbourhood_id":85881151,
+            "region_id":85688661,
+            "venue_id":807095379
+        }
+    ],
+    "wof:id":807095379,
+    "wof:lastmodified":1462603668,
+    "wof:name":"Pizza Inn",
+    "wof:parent_id":85881151,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -93.311509,
+    37.160124,
+    -93.311509,
+    37.160124
+],
+  "geometry": {"coordinates":[-93.311509,37.160124],"type":"Point"}
+}

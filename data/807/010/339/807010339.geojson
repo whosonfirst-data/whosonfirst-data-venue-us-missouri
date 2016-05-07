@@ -1,0 +1,77 @@
+{
+  "id": 807010339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.269096,38.576199,-90.269096,38.576199",
+    "geom:latitude":38.576199,
+    "geom:longitude":-90.269096,
+    "iso:country":"US",
+    "sg:address":"4275 Bates St",
+    "sg:city":"Saint Louis",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 481 0075",
+    "sg:postcode":"63116",
+    "sg:province":"MO",
+    "sg:tags":[
+        "tire",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873691,
+        102191575,
+        404518053,
+        85633793,
+        85971343,
+        102080791,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_22iKk7sNSRceuruOHh1vea_38.575903_-90.268290@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1462602946,
+    "wof:geomhash":"fe65e8ece7c63eb435de09c4b8e9bae2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080791,
+            "localadmin_id":404518053,
+            "locality_id":85971343,
+            "neighbourhood_id":85873691,
+            "region_id":85688661,
+            "venue_id":807010339
+        }
+    ],
+    "wof:id":807010339,
+    "wof:lastmodified":1462602946,
+    "wof:name":"Bates Street Tire & Alignment Inc",
+    "wof:parent_id":85873691,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tire",
+        "supply"
+    ]
+},
+  "bbox": [
+    -90.269096,
+    38.576199,
+    -90.269096,
+    38.576199
+],
+  "geometry": {"coordinates":[-90.269096,38.576199],"type":"Point"}
+}

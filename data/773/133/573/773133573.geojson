@@ -1,0 +1,90 @@
+{
+  "id": 773133573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.481488,38.682774,-90.481488,38.682774",
+    "geom:latitude":38.682774,
+    "geom:longitude":-90.481488,
+    "iso:country":"US",
+    "sg:address":"13011 Olive Blvd",
+    "sg:city":"St Louis",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Building Materials",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 205 0220",
+    "sg:postcode":"63141",
+    "sg:province":"MO",
+    "sg:tags":[
+        "school",
+        "art",
+        "mfg",
+        "instruction",
+        "commercial",
+        "design"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85805719,
+        102191575,
+        404517323,
+        85633793,
+        85972315,
+        102086173,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6RLaswvYv25DBUxH0G2VMp_38.682774_-90.481488@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462583382,
+    "wof:geomhash":"dfb9bbfaa47f1da7dd10b646aca12aa6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086173,
+            "localadmin_id":404517323,
+            "locality_id":85972315,
+            "neighbourhood_id":85805719,
+            "region_id":85688661,
+            "venue_id":773133573
+        }
+    ],
+    "wof:id":773133573,
+    "wof:lastmodified":1462583382,
+    "wof:name":"Glasshopper Studio",
+    "wof:parent_id":85805719,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "school",
+        "art",
+        "mfg",
+        "instruction",
+        "commercial",
+        "design"
+    ]
+},
+  "bbox": [
+    -90.481488,
+    38.682774,
+    -90.481488,
+    38.682774
+],
+  "geometry": {"coordinates":[-90.481488,38.682774],"type":"Point"}
+}

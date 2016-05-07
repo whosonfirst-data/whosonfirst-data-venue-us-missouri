@@ -1,0 +1,69 @@
+{
+  "id": 773403311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.380625,38.397017,-90.380625,38.397017",
+    "geom:latitude":38.397017,
+    "geom:longitude":-90.380625,
+    "iso:country":"US",
+    "sg:address":"1136 Westward Trails Dr",
+    "sg:city":"Imperial",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 933 9181",
+    "sg:postcode":"63052",
+    "sg:province":"MO",
+    "sg:tags":[
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85805175,
+        102080787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_77ARK3VNEddwBmIoCi9ZOL_38.397017_-90.380625@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462585425,
+    "wof:geomhash":"e4db95acf804be386f81070c1c7eeb2d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080787,
+            "neighbourhood_id":85805175,
+            "region_id":85688661,
+            "venue_id":773403311
+        }
+    ],
+    "wof:id":773403311,
+    "wof:lastmodified":1462585425,
+    "wof:name":"Clean-Rite",
+    "wof:parent_id":85805175,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -90.380625,
+    38.397017,
+    -90.380625,
+    38.397017
+],
+  "geometry": {"coordinates":[-90.38062499999999,38.397017],"type":"Point"}
+}

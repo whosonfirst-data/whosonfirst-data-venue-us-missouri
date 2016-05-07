@@ -1,0 +1,71 @@
+{
+  "id": 773384033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.365127,37.212395,-93.365127,37.212395",
+    "geom:latitude":37.212395,
+    "geom:longitude":-93.365127,
+    "iso:country":"US",
+    "sg:address":"4205 W Chestnut Expy",
+    "sg:city":"Springfield",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 865 9240",
+    "sg:postcode":"65802",
+    "sg:province":"MO",
+    "sg:tags":[
+        "clinic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971363,
+        102087523,
+        85836941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7V7g7Qsd54S7OPPtnRVM8F_37.212395_-93.365127@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462585279,
+    "wof:geomhash":"873a43467b3ca04b2009f2e2858fc10d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087523,
+            "locality_id":85971363,
+            "neighbourhood_id":85836941,
+            "region_id":85688661,
+            "venue_id":773384033
+        }
+    ],
+    "wof:id":773384033,
+    "wof:lastmodified":1462585279,
+    "wof:name":"Standford Medical Inc",
+    "wof:parent_id":85836941,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic"
+    ]
+},
+  "bbox": [
+    -93.365127,
+    37.212395,
+    -93.365127,
+    37.212395
+],
+  "geometry": {"coordinates":[-93.365127,37.212395],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 789629763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.48935,38.77646,-90.48935,38.77646",
+    "geom:latitude":38.77646,
+    "geom:longitude":-90.48935,
+    "iso:country":"US",
+    "sg:address":"800 S 5th St",
+    "sg:city":"St Charles",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 949 0777",
+    "sg:postcode":"63301",
+    "sg:province":"MO",
+    "sg:website":"www.dutchmanrealty.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2vj1Jy2MrZtwp7XQ8WmDZV_38.776460_-90.489350@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462589291,
+    "wof:geomhash":"78796d8cfd13bd3403188ebe0ec8dcf6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":789629763
+        }
+    ],
+    "wof:id":789629763,
+    "wof:lastmodified":1462589291,
+    "wof:name":"Dutchman Realty Inc",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.48935,
+    38.77646,
+    -90.48935,
+    38.77646
+],
+  "geometry": {"coordinates":[-90.48935,38.77646],"type":"Point"}
+}

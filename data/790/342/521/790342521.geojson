@@ -1,0 +1,71 @@
+{
+  "id": 790342521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.616095,37.999565,-91.616095,37.999565",
+    "geom:latitude":37.999565,
+    "geom:longitude":-91.616095,
+    "iso:country":"US",
+    "sg:address":"319 N Jefferson St",
+    "sg:city":"St James",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 265 3521",
+    "sg:postcode":"65559",
+    "sg:province":"MO",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970819,
+        102086893,
+        85847353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1xEqn6bQ8I5FYKnMS0V00j_37.999565_-91.616095@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462595080,
+    "wof:geomhash":"bc45c1b4f4050b4272fd7f4db64c69b8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086893,
+            "locality_id":85970819,
+            "neighbourhood_id":85847353,
+            "region_id":85688661,
+            "venue_id":790342521
+        }
+    ],
+    "wof:id":790342521,
+    "wof:lastmodified":1462595080,
+    "wof:name":"Country Mart",
+    "wof:parent_id":85847353,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -91.616095,
+    37.999565,
+    -91.616095,
+    37.999565
+],
+  "geometry": {"coordinates":[-91.616095,37.999565],"type":"Point"}
+}

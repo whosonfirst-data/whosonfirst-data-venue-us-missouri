@@ -1,0 +1,73 @@
+{
+  "id": 807297717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.283894,37.043102,-93.283894,37.043102",
+    "geom:latitude":37.043102,
+    "geom:longitude":-93.283894,
+    "iso:country":"US",
+    "sg:address":"105 S Ridgecrest Ave",
+    "sg:city":"Nixa",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 725 8250",
+    "sg:postcode":"65714",
+    "sg:province":"MO",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971577,
+        102087497,
+        85809751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3j5HYwqSD2Wu4t6V8VFVzM_37.043102_-93.283894@1303262938"
+    },
+    "wof:country":"US",
+    "wof:created":1462605828,
+    "wof:geomhash":"a76a72f0edad4eecd669fc458cf871bd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087497,
+            "locality_id":85971577,
+            "neighbourhood_id":85809751,
+            "region_id":85688661,
+            "venue_id":807297717
+        }
+    ],
+    "wof:id":807297717,
+    "wof:lastmodified":1462605828,
+    "wof:name":"Magnuson John MD",
+    "wof:parent_id":85809751,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -93.283894,
+    37.043102,
+    -93.283894,
+    37.043102
+],
+  "geometry": {"coordinates":[-93.283894,37.043102],"type":"Point"}
+}

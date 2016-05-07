@@ -1,0 +1,71 @@
+{
+  "id": 773512131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.353989,37.381336,-93.353989,37.381336",
+    "geom:latitude":37.381336,
+    "geom:longitude":-93.353989,
+    "iso:country":"US",
+    "sg:address":"3545 W Farm Rd 34",
+    "sg:city":"Willard",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 742 3536",
+    "sg:postcode":"65781",
+    "sg:province":"MO",
+    "sg:tags":[
+        "village"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971363,
+        102087523,
+        85881139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3D8fPilwpqlqi5Fhmtz6j6_37.381336_-93.353989@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462586287,
+    "wof:geomhash":"fd19ca5b51cf0799f777838074d03076",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087523,
+            "locality_id":85971363,
+            "neighbourhood_id":85881139,
+            "region_id":85688661,
+            "venue_id":773512131
+        }
+    ],
+    "wof:id":773512131,
+    "wof:lastmodified":1462586287,
+    "wof:name":"Springfield Landfill",
+    "wof:parent_id":85881139,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "village"
+    ]
+},
+  "bbox": [
+    -93.353989,
+    37.381336,
+    -93.353989,
+    37.381336
+],
+  "geometry": {"coordinates":[-93.353989,37.381336],"type":"Point"}
+}

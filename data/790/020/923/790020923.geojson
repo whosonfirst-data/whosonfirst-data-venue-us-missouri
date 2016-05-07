@@ -1,0 +1,71 @@
+{
+  "id": 790020923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.498244,38.208873,-90.498244,38.208873",
+    "geom:latitude":38.208873,
+    "geom:longitude":-90.498244,
+    "iso:country":"US",
+    "sg:address":"3684 Hillsboro Hematite Rd",
+    "sg:city":"Festus",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 933 2116",
+    "sg:postcode":"63028",
+    "sg:province":"MO",
+    "sg:tags":[
+        "department",
+        "protection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85848677,
+        102080787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6yzcss4OHxpIihzWPCcyq4_38.208873_-90.498244@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462592497,
+    "wof:geomhash":"0002b479f09d0166fc302458d5522db1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080787,
+            "neighbourhood_id":85848677,
+            "region_id":85688661,
+            "venue_id":790020923
+        }
+    ],
+    "wof:id":790020923,
+    "wof:lastmodified":1462592497,
+    "wof:name":"Hematite Fire Protection Dist",
+    "wof:parent_id":85848677,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department",
+        "protection"
+    ]
+},
+  "bbox": [
+    -90.498244,
+    38.208873,
+    -90.498244,
+    38.208873
+],
+  "geometry": {"coordinates":[-90.498244,38.208873],"type":"Point"}
+}

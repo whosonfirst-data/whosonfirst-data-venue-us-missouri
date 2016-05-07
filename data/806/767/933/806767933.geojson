@@ -1,0 +1,71 @@
+{
+  "id": 806767933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.162173,38.569525,-92.162173,38.569525",
+    "geom:latitude":38.569525,
+    "geom:longitude":-92.162173,
+    "iso:country":"US",
+    "sg:address":"904 E High St",
+    "sg:city":"Jefferson City",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 230 4305",
+    "sg:postcode":"65101",
+    "sg:province":"MO",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970647,
+        102087511,
+        85837745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_11neVXOyQcVikgW8a7wxjx_38.569525_-92.162173@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462600912,
+    "wof:geomhash":"715389d9a0a05706f1e48fa82d570e14",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087511,
+            "locality_id":85970647,
+            "neighbourhood_id":85837745,
+            "region_id":85688661,
+            "venue_id":806767933
+        }
+    ],
+    "wof:id":806767933,
+    "wof:lastmodified":1462600912,
+    "wof:name":"Shanco Properties",
+    "wof:parent_id":85837745,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -92.162173,
+    38.569525,
+    -92.162173,
+    38.569525
+],
+  "geometry": {"coordinates":[-92.162173,38.569525],"type":"Point"}
+}

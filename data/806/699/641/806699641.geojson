@@ -1,0 +1,75 @@
+{
+  "id": 806699641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.562059,38.800557,-90.562059,38.800557",
+    "geom:latitude":38.800557,
+    "geom:longitude":-90.562059,
+    "iso:country":"US",
+    "sg:address":"3436 Truman Terrace Dr",
+    "sg:city":"St Charles",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 916 0900",
+    "sg:postcode":"63301",
+    "sg:province":"MO",
+    "sg:tags":[
+        "repairing",
+        "piano",
+        "refinishing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_55UyjN2aJ26ACbWoB8ddpa_38.800557_-90.562059@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462600332,
+    "wof:geomhash":"9bfb8e7c33c770e4689e68bbb0e5a570",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":806699641
+        }
+    ],
+    "wof:id":806699641,
+    "wof:lastmodified":1462600332,
+    "wof:name":"Mullins Piano Svc",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "piano",
+        "refinishing"
+    ]
+},
+  "bbox": [
+    -90.562059,
+    38.800557,
+    -90.562059,
+    38.800557
+],
+  "geometry": {"coordinates":[-90.562059,38.800557],"type":"Point"}
+}

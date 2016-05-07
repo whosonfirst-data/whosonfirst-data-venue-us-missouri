@@ -1,0 +1,71 @@
+{
+  "id": 773154831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.59819,38.86266,-90.59819,38.86266",
+    "geom:latitude":38.86266,
+    "geom:longitude":-90.59819,
+    "iso:country":"US",
+    "sg:address":"125 Harbor Dr",
+    "sg:city":"Saint Charles",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"Marina",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 250 3446",
+    "sg:postcode":"63301",
+    "sg:province":"MO",
+    "sg:tags":[
+        "operation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6OA42w6xLdTSjMhJHUuEyf_38.862660_-90.598190@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462583557,
+    "wof:geomhash":"fee77e9c48bd1843b1ebfe6c90e7d41d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":773154831
+        }
+    ],
+    "wof:id":773154831,
+    "wof:lastmodified":1462583557,
+    "wof:name":"Woodland Marina",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operation"
+    ]
+},
+  "bbox": [
+    -90.59819,
+    38.86266,
+    -90.59819,
+    38.86266
+],
+  "geometry": {"coordinates":[-90.59819,38.86266],"type":"Point"}
+}

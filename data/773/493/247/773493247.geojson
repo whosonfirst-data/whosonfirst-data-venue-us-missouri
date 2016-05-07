@@ -1,0 +1,79 @@
+{
+  "id": 773493247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.232352,38.650932,-90.232352,38.650932",
+    "geom:latitude":38.650932,
+    "geom:longitude":-90.232352,
+    "iso:country":"US",
+    "sg:address":"1400 N Vandeventer Ave",
+    "sg:city":"St Louis",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 371 1870",
+    "sg:postcode":"63113",
+    "sg:province":"MO",
+    "sg:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420525485,
+        102191575,
+        404518053,
+        85633793,
+        85971343,
+        102080791,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1cvhWlDTabIbEkSZkex6JS_38.650932_-90.232352@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462586158,
+    "wof:geomhash":"42dbbdbc18ba300a35d6731fdecda43f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080791,
+            "localadmin_id":404518053,
+            "locality_id":85971343,
+            "neighbourhood_id":420525485,
+            "region_id":85688661,
+            "venue_id":773493247
+        }
+    ],
+    "wof:id":773493247,
+    "wof:lastmodified":1462586158,
+    "wof:name":"U-Haul Co",
+    "wof:parent_id":420525485,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ]
+},
+  "bbox": [
+    -90.232352,
+    38.650932,
+    -90.232352,
+    38.650932
+],
+  "geometry": {"coordinates":[-90.23235200000001,38.650932],"type":"Point"}
+}

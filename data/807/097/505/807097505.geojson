@@ -1,0 +1,85 @@
+{
+  "id": 807097505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.294525,38.564051,-90.294525,38.564051",
+    "geom:latitude":38.564051,
+    "geom:longitude":-90.294525,
+    "iso:country":"US",
+    "sg:address":"7350 Gravois Ave",
+    "sg:city":"Saint Louis",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Ice Cream",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/st-louis/92638-steak-n-shake/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 352 9264",
+    "sg:postcode":"63116",
+    "sg:province":"MO",
+    "sg:tags":[
+        "american",
+        "ice",
+        "cream"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873685,
+        102191575,
+        404518053,
+        85633793,
+        85971343,
+        102080791,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_39hCLxDEiT0CzzLSU0yZab_38.564104_-90.294400@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462603692,
+    "wof:geomhash":"bfb7247df9980f236c149a646e435bcb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080791,
+            "localadmin_id":404518053,
+            "locality_id":85971343,
+            "neighbourhood_id":85873685,
+            "region_id":85688661,
+            "venue_id":807097505
+        }
+    ],
+    "wof:id":807097505,
+    "wof:lastmodified":1462603692,
+    "wof:name":"Steak 'n Shake",
+    "wof:parent_id":85873685,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "ice",
+        "cream"
+    ]
+},
+  "bbox": [
+    -90.294525,
+    38.564051,
+    -90.294525,
+    38.564051
+],
+  "geometry": {"coordinates":[-90.29452499999999,38.564051],"type":"Point"}
+}

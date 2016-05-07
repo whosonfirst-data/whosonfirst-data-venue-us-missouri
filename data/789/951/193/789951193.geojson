@@ -1,0 +1,85 @@
+{
+  "id": 789951193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.493542,39.097101,-94.493542,39.097101",
+    "geom:latitude":39.097101,
+    "geom:longitude":-94.493542,
+    "iso:country":"US",
+    "sg:address":"7800 E 12 St",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Scrap",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 483 0908",
+    "sg:postcode":"64126",
+    "sg:province":"MO",
+    "sg:tags":[
+        "supp",
+        "farm",
+        "recycling",
+        "center",
+        "system"
+    ],
+    "sg:website":"www.missouriorganic.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970739,
+        102081227,
+        85810269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_02eNRMjOKz9llU2Pn8f7Pa_39.097101_-94.493542@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462591924,
+    "wof:geomhash":"85bd632457852f2150ca07f69d09c789",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081227,
+            "locality_id":85970739,
+            "neighbourhood_id":85810269,
+            "region_id":85688661,
+            "venue_id":789951193
+        }
+    ],
+    "wof:id":789951193,
+    "wof:lastmodified":1462591924,
+    "wof:name":"Missouri Organic Recycling Inc",
+    "wof:parent_id":85810269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supp",
+        "farm",
+        "recycling",
+        "center",
+        "system"
+    ]
+},
+  "bbox": [
+    -94.493542,
+    39.097101,
+    -94.493542,
+    39.097101
+],
+  "geometry": {"coordinates":[-94.49354200000001,39.097101],"type":"Point"}
+}

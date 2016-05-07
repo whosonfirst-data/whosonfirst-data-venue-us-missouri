@@ -1,0 +1,73 @@
+{
+  "id": 790023729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.617235,38.788985,-90.617235,38.788985",
+    "geom:latitude":38.788985,
+    "geom:longitude":-90.617235,
+    "iso:country":"US",
+    "sg:address":"14 Country Hill Rd",
+    "sg:city":"Saint Peters",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Catalog Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 278 1294",
+    "sg:postcode":"63376",
+    "sg:province":"MO",
+    "sg:tags":[
+        "mail",
+        "order"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1KqFMGiM8zg85P4EazFw36_38.788985_-90.617235@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462592520,
+    "wof:geomhash":"2f845b0c880be3a9b1d78d6482e10a67",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":790023729
+        }
+    ],
+    "wof:id":790023729,
+    "wof:lastmodified":1462592520,
+    "wof:name":"Mr Baseball",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mail",
+        "order"
+    ]
+},
+  "bbox": [
+    -90.617235,
+    38.788985,
+    -90.617235,
+    38.788985
+],
+  "geometry": {"coordinates":[-90.61723499999999,38.788985],"type":"Point"}
+}

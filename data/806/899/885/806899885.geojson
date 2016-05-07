@@ -1,0 +1,73 @@
+{
+  "id": 806899885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.663872,39.244675,-94.663872,39.244675",
+    "geom:latitude":39.244675,
+    "geom:longitude":-94.663872,
+    "iso:country":"US",
+    "sg:address":"8383 N Stoddard Ave",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 505 0882",
+    "sg:postcode":"64152",
+    "sg:province":"MO",
+    "sg:tags":[
+        "paint",
+        "covering"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970739,
+        102085271,
+        85851839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0bCgeKZFeDVKOGIa8rQHQr_39.244675_-94.663872@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462602008,
+    "wof:geomhash":"7755c2c2455d821c87698c8a0f9d0eca",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085271,
+            "locality_id":85970739,
+            "neighbourhood_id":85851839,
+            "region_id":85688661,
+            "venue_id":806899885
+        }
+    ],
+    "wof:id":806899885,
+    "wof:lastmodified":1462602008,
+    "wof:name":"Sherwin-Williams Paints",
+    "wof:parent_id":85851839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "paint",
+        "covering"
+    ]
+},
+  "bbox": [
+    -94.663872,
+    39.244675,
+    -94.663872,
+    39.244675
+],
+  "geometry": {"coordinates":[-94.663872,39.244675],"type":"Point"}
+}

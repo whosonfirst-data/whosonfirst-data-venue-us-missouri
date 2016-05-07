@@ -1,0 +1,78 @@
+{
+  "id": 773629267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.61706,38.001355,-91.61706,38.001355",
+    "geom:latitude":38.001355,
+    "geom:longitude":-91.61706,
+    "iso:country":"US",
+    "sg:address":"425 N Jefferson St",
+    "sg:city":"St James",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 265 6361",
+    "sg:postcode":"65559",
+    "sg:province":"MO",
+    "sg:tags":[
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970819,
+        102086893,
+        85847353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_69FDNUaaU4Ttxyi7qWLE9y_38.001355_-91.617060@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462587167,
+    "wof:geomhash":"532545e7b37fc08dfb2c21247321408c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086893,
+            "locality_id":85970819,
+            "neighbourhood_id":85847353,
+            "region_id":85688661,
+            "venue_id":773629267
+        }
+    ],
+    "wof:id":773629267,
+    "wof:lastmodified":1462587167,
+    "wof:name":"Circle S Gas & Food Mart",
+    "wof:parent_id":85847353,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -91.61706,
+    38.001355,
+    -91.61706,
+    38.001355
+],
+  "geometry": {"coordinates":[-91.61706,38.001355],"type":"Point"}
+}

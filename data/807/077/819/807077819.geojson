@@ -1,0 +1,80 @@
+{
+  "id": 807077819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.415042,39.04265,-94.415042,39.04265",
+    "geom:latitude":39.04265,
+    "geom:longitude":-94.415042,
+    "iso:country":"US",
+    "sg:address":"4301 S Noland Rd",
+    "sg:city":"Independence",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/blue/182453-wendys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 373 5785",
+    "sg:postcode":"64055",
+    "sg:province":"MO",
+    "sg:tags":[
+        "burger",
+        "american",
+        "soup"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85847737,
+        102191575,
+        404518081,
+        85633793,
+        85971453,
+        102081227,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0I9NjvWLqedp7ANpCF4rcA_39.042650_-94.415042@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462603516,
+    "wof:geomhash":"92d483ba412e5edeb4655f20372476d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081227,
+            "localadmin_id":404518081,
+            "locality_id":85971453,
+            "neighbourhood_id":85847737,
+            "region_id":85688661,
+            "venue_id":807077819
+        }
+    ],
+    "wof:id":807077819,
+    "wof:lastmodified":1462603516,
+    "wof:name":"Wendy's",
+    "wof:parent_id":85847737,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "soup"
+    ]
+},
+  "bbox": [
+    -94.415042,
+    39.04265,
+    -94.415042,
+    39.04265
+],
+  "geometry": {"coordinates":[-94.415042,39.04265],"type":"Point"}
+}

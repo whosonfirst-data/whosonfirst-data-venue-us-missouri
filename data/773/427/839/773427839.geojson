@@ -1,0 +1,88 @@
+{
+  "id": 773427839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.841566,36.716115,-91.841566,36.716115",
+    "geom:latitude":36.716115,
+    "geom:longitude":-91.841566,
+    "iso:country":"US",
+    "sg:address":"1009 Lanton Rd",
+    "sg:city":"West Plains",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 256 3485",
+    "sg:postcode":"65775",
+    "sg:province":"MO",
+    "sg:tags":[
+        "cont",
+        "fence",
+        "mfg",
+        "contractor",
+        "architectural",
+        "hanging",
+        "metalwork"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971791,
+        102086179,
+        85851373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_48JWWeM1ZRsqBkyMc49kL0_36.716115_-91.841566@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462585646,
+    "wof:geomhash":"ddd9ee9ed4a1501cb7bd4a0f37e44fb4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086179,
+            "locality_id":85971791,
+            "neighbourhood_id":85851373,
+            "region_id":85688661,
+            "venue_id":773427839
+        }
+    ],
+    "wof:id":773427839,
+    "wof:lastmodified":1462585646,
+    "wof:name":"West Plains Fence Company",
+    "wof:parent_id":85851373,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cont",
+        "fence",
+        "mfg",
+        "contractor",
+        "architectural",
+        "hanging",
+        "metalwork"
+    ]
+},
+  "bbox": [
+    -91.841566,
+    36.716115,
+    -91.841566,
+    36.716115
+],
+  "geometry": {"coordinates":[-91.841566,36.716115],"type":"Point"}
+}

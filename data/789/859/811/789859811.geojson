@@ -1,0 +1,88 @@
+{
+  "id": 789859811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.386812,38.615463,-90.386812,38.615463",
+    "geom:latitude":38.615463,
+    "geom:longitude":-90.386812,
+    "iso:country":"US",
+    "sg:address":"9841 Old Warson Rd",
+    "sg:city":"St Louis",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Motor Vehicles & Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 963 9465",
+    "sg:postcode":"63124",
+    "sg:province":"MO",
+    "sg:tags":[
+        "equipment",
+        "mfg",
+        "transportation",
+        "golf",
+        "course"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85867981,
+        102191575,
+        404517387,
+        85633793,
+        85972223,
+        102086173,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Ab15ckatwr9rc2sAUu7MI_38.615463_-90.386812@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462591104,
+    "wof:geomhash":"a9a001e68bb8e80468b1d9ca77978f5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086173,
+            "localadmin_id":404517387,
+            "locality_id":85972223,
+            "neighbourhood_id":85867981,
+            "region_id":85688661,
+            "venue_id":789859811
+        }
+    ],
+    "wof:id":789859811,
+    "wof:lastmodified":1462591104,
+    "wof:name":"Caddyshack",
+    "wof:parent_id":85867981,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "mfg",
+        "transportation",
+        "golf",
+        "course"
+    ]
+},
+  "bbox": [
+    -90.386812,
+    38.615463,
+    -90.386812,
+    38.615463
+],
+  "geometry": {"coordinates":[-90.38681200000001,38.615463],"type":"Point"}
+}

@@ -1,0 +1,91 @@
+{
+  "id": 773545627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.601183,39.181943,-94.601183,39.181943",
+    "geom:latitude":39.181943,
+    "geom:longitude":-94.601183,
+    "iso:country":"US",
+    "sg:address":"1276 NW Vivion Rd",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 861 8777",
+    "sg:postcode":"64118",
+    "sg:province":"MO",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420525303,
+        102191575,
+        404518075,
+        85633793,
+        85970739,
+        102081227,
+        85688661,
+        420525395,
+        404517563,
+        85970477,
+        102085271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2OcZRHIVmcJhWBnLfCYHeb_39.181943_-94.601183@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462586531,
+    "wof:geomhash":"66dfc82ee080e68a3eec99c8f573715f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081227,
+            "localadmin_id":404518075,
+            "locality_id":85970739,
+            "neighbourhood_id":420525303,
+            "region_id":85688661,
+            "venue_id":773545627
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085271,
+            "localadmin_id":404517563,
+            "locality_id":85970477,
+            "neighbourhood_id":420525395,
+            "region_id":85688661,
+            "venue_id":773545627
+        }
+    ],
+    "wof:id":773545627,
+    "wof:lastmodified":1462586531,
+    "wof:name":"DVL Construction",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -94.601183,
+    39.181943,
+    -94.601183,
+    39.181943
+],
+  "geometry": {"coordinates":[-94.60118300000001,39.181943],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 807097139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.495606,38.537052,-90.495606,38.537052",
+    "geom:latitude":38.537052,
+    "geom:longitude":-90.495606,
+    "iso:country":"US",
+    "sg:address":"2093 Smizer Station Rd",
+    "sg:city":"Valley Park",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/meramec/190880-burger-king/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 225 7700",
+    "sg:postcode":"63088",
+    "sg:province":"MO",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85841473,
+        102191575,
+        404517461,
+        85633793,
+        85972241,
+        102086173,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6UPy4LLeld8645dAQyigvI_38.536585_-90.495339@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462603688,
+    "wof:geomhash":"2c1dcccc1614f601c7b7bac200eb0abd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086173,
+            "localadmin_id":404517461,
+            "locality_id":85972241,
+            "neighbourhood_id":85841473,
+            "region_id":85688661,
+            "venue_id":807097139
+        }
+    ],
+    "wof:id":807097139,
+    "wof:lastmodified":1462603688,
+    "wof:name":"Burger King",
+    "wof:parent_id":85841473,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -90.495606,
+    38.537052,
+    -90.495606,
+    38.537052
+],
+  "geometry": {"coordinates":[-90.495606,38.537052],"type":"Point"}
+}

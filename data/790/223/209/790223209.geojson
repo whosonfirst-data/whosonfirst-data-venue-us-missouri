@@ -1,0 +1,75 @@
+{
+  "id": 790223209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.087238,38.492514,-92.087238,38.492514",
+    "geom:latitude":38.492514,
+    "geom:longitude":-92.087238,
+    "iso:country":"US",
+    "sg:address":"6418 Rte Y",
+    "sg:city":"Jefferson City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 395 4049",
+    "sg:postcode":"65101",
+    "sg:province":"MO",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970647,
+        102087511,
+        85837745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2clx7PcygXboTZQfPXQn3w_38.492514_-92.087238@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462594123,
+    "wof:geomhash":"385eb72194e4f7cb6170019432f21444",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087511,
+            "locality_id":85970647,
+            "neighbourhood_id":85837745,
+            "region_id":85688661,
+            "venue_id":790223209
+        }
+    ],
+    "wof:id":790223209,
+    "wof:lastmodified":1462594123,
+    "wof:name":"Curt's Automotive & Cycle Rpr",
+    "wof:parent_id":85837745,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ]
+},
+  "bbox": [
+    -92.087238,
+    38.492514,
+    -92.087238,
+    38.492514
+],
+  "geometry": {"coordinates":[-92.087238,38.492514],"type":"Point"}
+}

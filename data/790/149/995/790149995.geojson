@@ -1,0 +1,73 @@
+{
+  "id": 790149995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.296097,39.418691,-94.296097,39.418691",
+    "geom:latitude":39.418691,
+    "geom:longitude":-94.296097,
+    "iso:country":"US",
+    "sg:address":"23811 State Hwy Mm",
+    "sg:city":"Kearney",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 320 3825",
+    "sg:postcode":"64060",
+    "sg:province":"MO",
+    "sg:tags":[
+        "mobile",
+        "truck"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971507,
+        102086177,
+        85812855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6dhgd2OLwfHX5CqwVpNpnd_39.418691_-94.296097@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462593505,
+    "wof:geomhash":"d36c2c2471468844840f2c086f118d62",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086177,
+            "locality_id":85971507,
+            "neighbourhood_id":85812855,
+            "region_id":85688661,
+            "venue_id":790149995
+        }
+    ],
+    "wof:id":790149995,
+    "wof:lastmodified":1462593505,
+    "wof:name":"Garrys Mobile Truck Service",
+    "wof:parent_id":85812855,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mobile",
+        "truck"
+    ]
+},
+  "bbox": [
+    -94.296097,
+    39.418691,
+    -94.296097,
+    39.418691
+],
+  "geometry": {"coordinates":[-94.296097,39.418691],"type":"Point"}
+}

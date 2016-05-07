@@ -1,0 +1,71 @@
+{
+  "id": 773244367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.171017,38.574139,-92.171017,38.574139",
+    "geom:latitude":38.574139,
+    "geom:longitude":-92.171017,
+    "iso:country":"US",
+    "sg:address":"401 Monroe St",
+    "sg:city":"Jefferson City",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 634 6400",
+    "sg:postcode":"65101",
+    "sg:province":"MO",
+    "sg:tags":[
+        "protection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970647,
+        102087511,
+        85837745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2GHjVQgemCUtzp2D9hJiKr_38.574139_-92.171017@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462584245,
+    "wof:geomhash":"6a885ca65d31008a9a4df7b65aac9ade",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087511,
+            "locality_id":85970647,
+            "neighbourhood_id":85837745,
+            "region_id":85688661,
+            "venue_id":773244367
+        }
+    ],
+    "wof:id":773244367,
+    "wof:lastmodified":1462584245,
+    "wof:name":"Jefferson Police Department",
+    "wof:parent_id":85837745,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "protection"
+    ]
+},
+  "bbox": [
+    -92.171017,
+    38.574139,
+    -92.171017,
+    38.574139
+],
+  "geometry": {"coordinates":[-92.17101700000001,38.574139],"type":"Point"}
+}

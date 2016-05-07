@@ -1,0 +1,80 @@
+{
+  "id": 773108243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.238789,37.223024,-93.238789,37.223024",
+    "geom:latitude":37.223024,
+    "geom:longitude":-93.238789,
+    "iso:country":"US",
+    "sg:address":"1404 N Cedarbrook Ave",
+    "sg:city":"Springfield",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 864 7434",
+    "sg:postcode":"65802",
+    "sg:province":"MO",
+    "sg:tags":[
+        "lighting",
+        "fixture",
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971363,
+        102087523,
+        85881137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_56YAH4Msg5iXfuuBNwS61l_37.223024_-93.238789@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462583210,
+    "wof:geomhash":"9125dc6a2bf7b74b38155d4948d0633c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087523,
+            "locality_id":85971363,
+            "neighbourhood_id":85881137,
+            "region_id":85688661,
+            "venue_id":773108243
+        }
+    ],
+    "wof:id":773108243,
+    "wof:lastmodified":1462583210,
+    "wof:name":"Ozarks Industrial Lighting",
+    "wof:parent_id":85881137,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lighting",
+        "fixture",
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -93.238789,
+    37.223024,
+    -93.238789,
+    37.223024
+],
+  "geometry": {"coordinates":[-93.238789,37.223024],"type":"Point"}
+}

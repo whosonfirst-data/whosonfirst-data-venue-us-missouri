@@ -1,0 +1,85 @@
+{
+  "id": 789703255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.413699,38.727355,-90.413699,38.727355",
+    "geom:latitude":38.727355,
+    "geom:longitude":-90.413699,
+    "iso:country":"US",
+    "sg:address":"3149 Fee Fee Rd",
+    "sg:city":"Bridgeton",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Computers",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 291 1053",
+    "sg:postcode":"63044",
+    "sg:province":"MO",
+    "sg:tags":[
+        "equipment",
+        "peripheral",
+        "dealer"
+    ],
+    "sg:website":"www.horizonsystemsltd.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85803699,
+        102191575,
+        404517323,
+        85633793,
+        85972315,
+        102086173,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4lgrbE6jMqmsrVxm5dtHeK_38.727355_-90.413699@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462589881,
+    "wof:geomhash":"83d482cdcfea1f347cd6a40c12917268",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086173,
+            "localadmin_id":404517323,
+            "locality_id":85972315,
+            "neighbourhood_id":85803699,
+            "region_id":85688661,
+            "venue_id":789703255
+        }
+    ],
+    "wof:id":789703255,
+    "wof:lastmodified":1462589881,
+    "wof:name":"Horizon Systems LTD",
+    "wof:parent_id":85803699,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "peripheral",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -90.413699,
+    38.727355,
+    -90.413699,
+    38.727355
+],
+  "geometry": {"coordinates":[-90.41369899999999,38.727355],"type":"Point"}
+}

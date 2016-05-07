@@ -1,0 +1,81 @@
+{
+  "id": 807163027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.261389,38.60292,-90.261389,38.60292",
+    "geom:latitude":38.60292,
+    "geom:longitude":-90.261389,
+    "iso:country":"US",
+    "sg:address":"3148 Morganford Rd",
+    "sg:city":"Saint Louis",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Health Insurance",
+            "type":"Services"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 865 5260",
+    "sg:postcode":"63116",
+    "sg:province":"MO",
+    "sg:tags":[
+        "market"
+    ],
+    "sg:website":"www.localharvestgrocery.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873681,
+        102191575,
+        404518053,
+        85633793,
+        85971343,
+        102080791,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3RGEP8nxXu1LiiSfz4GSmq_38.602920_-90.261389@1303262929"
+    },
+    "wof:country":"US",
+    "wof:created":1462604409,
+    "wof:geomhash":"eb0f160ed8d88ea7946ef74b9679ffff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080791,
+            "localadmin_id":404518053,
+            "locality_id":85971343,
+            "neighbourhood_id":85873681,
+            "region_id":85688661,
+            "venue_id":807163027
+        }
+    ],
+    "wof:id":807163027,
+    "wof:lastmodified":1462604409,
+    "wof:name":"Local Harvest Grocery",
+    "wof:parent_id":85873681,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "market"
+    ]
+},
+  "bbox": [
+    -90.261389,
+    38.60292,
+    -90.261389,
+    38.60292
+],
+  "geometry": {"coordinates":[-90.26138899999999,38.60292],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 806462875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.392944,38.403813,-90.392944,38.403813",
+    "geom:latitude":38.403813,
+    "geom:longitude":-90.392944,
+    "iso:country":"US",
+    "sg:address":"2280 Sonora Dr",
+    "sg:city":"Arnold",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 296 7648",
+    "sg:postcode":"63010",
+    "sg:province":"MO",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85805175,
+        102080787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ocxoZikxXgVdUCUzcE9Da_38.403813_-90.392944@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462598338,
+    "wof:geomhash":"7ab67536edc5e66edf03be04c4c93cef",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080787,
+            "neighbourhood_id":85805175,
+            "region_id":85688661,
+            "venue_id":806462875
+        }
+    ],
+    "wof:id":806462875,
+    "wof:lastmodified":1462598338,
+    "wof:name":"Anchor Hauling Inc",
+    "wof:parent_id":85805175,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -90.392944,
+    38.403813,
+    -90.392944,
+    38.403813
+],
+  "geometry": {"coordinates":[-90.392944,38.403813],"type":"Point"}
+}

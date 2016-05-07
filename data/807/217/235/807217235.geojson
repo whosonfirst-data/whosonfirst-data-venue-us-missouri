@@ -1,0 +1,87 @@
+{
+  "id": 807217235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.445358,39.244469,-94.445358,39.244469",
+    "geom:latitude":39.244469,
+    "geom:longitude":-94.445358,
+    "iso:country":"US",
+    "sg:address":"100 S Forrest Ave",
+    "sg:city":"Liberty",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 781 6416",
+    "sg:postcode":"64068",
+    "sg:province":"MO",
+    "sg:website":"http://www.conocophillips.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420525305,
+        102191575,
+        404516717,
+        85633793,
+        85972461,
+        102086177,
+        85688661,
+        420525367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5bnS6O4QAdgpRAVfebM3u5_39.244469_-94.445358@1303262932"
+    },
+    "wof:country":"US",
+    "wof:created":1462604969,
+    "wof:geomhash":"5a228793795762d55de063aeab85130a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086177,
+            "localadmin_id":404516717,
+            "locality_id":85972461,
+            "neighbourhood_id":420525305,
+            "region_id":85688661,
+            "venue_id":807217235
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086177,
+            "localadmin_id":404516717,
+            "locality_id":85972461,
+            "neighbourhood_id":420525367,
+            "region_id":85688661,
+            "venue_id":807217235
+        }
+    ],
+    "wof:id":807217235,
+    "wof:lastmodified":1462604969,
+    "wof:name":"Conoco Oil",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -94.445358,
+    39.244469,
+    -94.445358,
+    39.244469
+],
+  "geometry": {"coordinates":[-94.445358,39.244469],"type":"Point"}
+}

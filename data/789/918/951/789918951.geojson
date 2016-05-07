@@ -1,0 +1,71 @@
+{
+  "id": 789918951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.641854,38.796848,-90.641854,38.796848",
+    "geom:latitude":38.796848,
+    "geom:longitude":-90.641854,
+    "iso:country":"US",
+    "sg:address":"116 Oak Dr",
+    "sg:city":"Saint Peters",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 397 3088",
+    "sg:postcode":"63376",
+    "sg:province":"MO",
+    "sg:tags":[
+        "welding"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_28FBENW5YSMDaxpq9Xf02P_38.796848_-90.641854@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462591619,
+    "wof:geomhash":"f1fa3d0574db5273e724480c72048f95",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":789918951
+        }
+    ],
+    "wof:id":789918951,
+    "wof:lastmodified":1462591619,
+    "wof:name":"Custom Made Ornamental Iron",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "welding"
+    ]
+},
+  "bbox": [
+    -90.641854,
+    38.796848,
+    -90.641854,
+    38.796848
+],
+  "geometry": {"coordinates":[-90.641854,38.796848],"type":"Point"}
+}

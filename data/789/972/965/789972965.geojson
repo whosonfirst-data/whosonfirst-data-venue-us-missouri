@@ -1,0 +1,73 @@
+{
+  "id": 789972965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.35332,39.118709,-94.35332,39.118709",
+    "geom:latitude":39.118709,
+    "geom:longitude":-94.35332,
+    "iso:country":"US",
+    "sg:address":"18904 E Ponca Dr",
+    "sg:city":"Independence",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 796 8950",
+    "sg:postcode":"64056",
+    "sg:province":"MO",
+    "sg:tags":[
+        "building",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971449,
+        102081227,
+        85844675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7lGM1K6SXb7va7JHZi5pgl_39.118709_-94.353320@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462592107,
+    "wof:geomhash":"56d2ee8cfdb6975953792bb906756e2c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081227,
+            "locality_id":85971449,
+            "neighbourhood_id":85844675,
+            "region_id":85688661,
+            "venue_id":789972965
+        }
+    ],
+    "wof:id":789972965,
+    "wof:lastmodified":1462592107,
+    "wof:name":"Family United Properties",
+    "wof:parent_id":85844675,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -94.35332,
+    39.118709,
+    -94.35332,
+    39.118709
+],
+  "geometry": {"coordinates":[-94.35332,39.118709],"type":"Point"}
+}

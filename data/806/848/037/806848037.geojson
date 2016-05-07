@@ -1,0 +1,74 @@
+{
+  "id": 806848037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.237802,37.22467,-93.237802,37.22467",
+    "geom:latitude":37.22467,
+    "geom:longitude":-93.237802,
+    "iso:country":"US",
+    "sg:address":"2841 E Division St",
+    "sg:city":"Springfield",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 863 1227",
+    "sg:postcode":"65803",
+    "sg:province":"MO",
+    "sg:tags":[
+        "broker",
+        "trucking"
+    ],
+    "sg:website":"www.go-gtsi.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971363,
+        102087523,
+        85881137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3XPac2mNlsnHLo90pqBogq_37.224670_-93.237802@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462601587,
+    "wof:geomhash":"5ff72e7dd587360901aaa041d6330d2d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087523,
+            "locality_id":85971363,
+            "neighbourhood_id":85881137,
+            "region_id":85688661,
+            "venue_id":806848037
+        }
+    ],
+    "wof:id":806848037,
+    "wof:lastmodified":1462601587,
+    "wof:name":"Global Transportation Systems",
+    "wof:parent_id":85881137,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "broker",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -93.237802,
+    37.22467,
+    -93.237802,
+    37.22467
+],
+  "geometry": {"coordinates":[-93.237802,37.22467],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 806359679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.224961,39.114481,-92.224961,39.114481",
+    "geom:latitude":39.114481,
+    "geom:longitude":-92.224961,
+    "iso:country":"US",
+    "sg:address":"311 Rte B",
+    "sg:city":"Hallsville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 696 3655",
+    "sg:postcode":"65255",
+    "sg:province":"MO",
+    "sg:tags":[
+        "machine",
+        "automobile",
+        "shop"
+    ],
+    "sg:website":"www.murphysmotorservice.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970425,
+        102086187,
+        85851713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_45LdlEQrKXW6s5ZE2vXBZo_39.114481_-92.224961@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462597505,
+    "wof:geomhash":"42789a92093c9a2a73cb25f512da72fd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086187,
+            "locality_id":85970425,
+            "neighbourhood_id":85851713,
+            "region_id":85688661,
+            "venue_id":806359679
+        }
+    ],
+    "wof:id":806359679,
+    "wof:lastmodified":1462597505,
+    "wof:name":"Murphy's Motor Svc",
+    "wof:parent_id":85851713,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "automobile",
+        "shop"
+    ]
+},
+  "bbox": [
+    -92.224961,
+    39.114481,
+    -92.224961,
+    39.114481
+],
+  "geometry": {"coordinates":[-92.22496099999999,39.114481],"type":"Point"}
+}

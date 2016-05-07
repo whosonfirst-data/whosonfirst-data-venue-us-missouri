@@ -1,0 +1,77 @@
+{
+  "id": 789950815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.422045,38.673321,-90.422045,38.673321",
+    "geom:latitude":38.673321,
+    "geom:longitude":-90.422045,
+    "iso:country":"US",
+    "sg:address":"11042 Olive Blvd",
+    "sg:city":"Saint Louis",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 567 3583",
+    "sg:postcode":"63141",
+    "sg:province":"MO",
+    "sg:tags":[
+        "drycleaning",
+        "plant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85803699,
+        102191575,
+        404517323,
+        85633793,
+        85972315,
+        102086173,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_08mbuXvBVMoW94EzVNeKB1_38.673321_-90.422045@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462591920,
+    "wof:geomhash":"ce9d03294f302e1735c8f7942dac1472",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086173,
+            "localadmin_id":404517323,
+            "locality_id":85972315,
+            "neighbourhood_id":85803699,
+            "region_id":85688661,
+            "venue_id":789950815
+        }
+    ],
+    "wof:id":789950815,
+    "wof:lastmodified":1462591920,
+    "wof:name":"Westoak Cleaners Inc",
+    "wof:parent_id":85803699,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drycleaning",
+        "plant"
+    ]
+},
+  "bbox": [
+    -90.422045,
+    38.673321,
+    -90.422045,
+    38.673321
+],
+  "geometry": {"coordinates":[-90.422045,38.673321],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 773523797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.23069,38.638712,-90.23069,38.638712",
+    "geom:latitude":38.638712,
+    "geom:longitude":-90.23069,
+    "iso:country":"US",
+    "sg:address":"3501 Washington Ave",
+    "sg:city":"St Louis",
+    "sg:classifiers":[
+        {
+            "category":"Parking",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 533 5171",
+    "sg:postcode":"63103",
+    "sg:province":"MO",
+    "sg:tags":[
+        "garage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873637,
+        102191575,
+        404518053,
+        85633793,
+        85971343,
+        102080791,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3yEJjBK05ba9YDMZ6S9Ga9_38.638712_-90.230690@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462586370,
+    "wof:geomhash":"4fc9b5722808b4851cc4fc577f174af6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080791,
+            "localadmin_id":404518053,
+            "locality_id":85971343,
+            "neighbourhood_id":85873637,
+            "region_id":85688661,
+            "venue_id":773523797
+        }
+    ],
+    "wof:id":773523797,
+    "wof:lastmodified":1462586370,
+    "wof:name":"City Center Parking",
+    "wof:parent_id":85873637,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garage"
+    ]
+},
+  "bbox": [
+    -90.23069,
+    38.638712,
+    -90.23069,
+    38.638712
+],
+  "geometry": {"coordinates":[-90.23069,38.638712],"type":"Point"}
+}

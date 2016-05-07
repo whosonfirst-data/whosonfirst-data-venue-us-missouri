@@ -1,0 +1,73 @@
+{
+  "id": 789733887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.481259,39.087208,-94.481259,39.087208",
+    "geom:latitude":39.087208,
+    "geom:longitude":-94.481259,
+    "iso:country":"US",
+    "sg:address":"1817 Tilden St",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 461 6382",
+    "sg:postcode":"64126",
+    "sg:province":"MO",
+    "sg:tags":[
+        "maintenance",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970739,
+        102081227,
+        85810269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1WZIKYuEPAGoT3UlLRzJvI_39.087208_-94.481259@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462590131,
+    "wof:geomhash":"d397619205168ea74531576c4fb5996b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081227,
+            "locality_id":85970739,
+            "neighbourhood_id":85810269,
+            "region_id":85688661,
+            "venue_id":789733887
+        }
+    ],
+    "wof:id":789733887,
+    "wof:lastmodified":1462590131,
+    "wof:name":"J & L Maintenance & Mechanical",
+    "wof:parent_id":85810269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -94.481259,
+    39.087208,
+    -94.481259,
+    39.087208
+],
+  "geometry": {"coordinates":[-94.48125899999999,39.087208],"type":"Point"}
+}

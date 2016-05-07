@@ -1,0 +1,71 @@
+{
+  "id": 790173983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.771491,37.954167,-91.771491,37.954167",
+    "geom:latitude":37.954167,
+    "geom:longitude":-91.771491,
+    "iso:country":"US",
+    "sg:address":"1200 N Pine St",
+    "sg:city":"Rolla",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 341 4214",
+    "sg:postcode":"65401",
+    "sg:province":"MO",
+    "sg:tags":[
+        "clinic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970821,
+        102086893,
+        85814531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4X93rI8kLtRNfOHsfKb2Vq_37.954167_-91.771491@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462593728,
+    "wof:geomhash":"dd130dda9a7bb1ec6d008cc13ab6ff30",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086893,
+            "locality_id":85970821,
+            "neighbourhood_id":85814531,
+            "region_id":85688661,
+            "venue_id":790173983
+        }
+    ],
+    "wof:id":790173983,
+    "wof:lastmodified":1462593728,
+    "wof:name":"Student Health Dept",
+    "wof:parent_id":85814531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic"
+    ]
+},
+  "bbox": [
+    -91.771491,
+    37.954167,
+    -91.771491,
+    37.954167
+],
+  "geometry": {"coordinates":[-91.771491,37.954167],"type":"Point"}
+}

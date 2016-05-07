@@ -1,0 +1,71 @@
+{
+  "id": 789742813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.527208,39.805561,-91.527208,39.805561",
+    "geom:latitude":39.805561,
+    "geom:longitude":-91.527208,
+    "iso:country":"US",
+    "sg:address":"712 N Bradley St",
+    "sg:city":"Palmyra",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 769 2633",
+    "sg:postcode":"63461",
+    "sg:province":"MO",
+    "sg:tags":[
+        "village"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688697,
+        85633793,
+        85938427,
+        102086213,
+        85867477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1uIDAwBVdOacCr6JJCVXcS_39.805561_-91.527208@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462590198,
+    "wof:geomhash":"16cf7b53138bd5bb8ba57a407527ea1f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086213,
+            "locality_id":85938427,
+            "neighbourhood_id":85867477,
+            "region_id":85688697,
+            "venue_id":789742813
+        }
+    ],
+    "wof:id":789742813,
+    "wof:lastmodified":1462590198,
+    "wof:name":"Palmyra Water Plant",
+    "wof:parent_id":85867477,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "village"
+    ]
+},
+  "bbox": [
+    -91.527208,
+    39.805561,
+    -91.527208,
+    39.805561
+],
+  "geometry": {"coordinates":[-91.527208,39.805561],"type":"Point"}
+}

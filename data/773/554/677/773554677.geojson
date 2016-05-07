@@ -1,0 +1,67 @@
+{
+  "id": 773554677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.895304,39.422383,-94.895304,39.422383",
+    "geom:latitude":39.422383,
+    "geom:longitude":-94.895304,
+    "iso:country":"US",
+    "sg:address":"18204 Library Dr",
+    "sg:city":"Weston",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Library",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 640 2874",
+    "sg:postcode":"64098",
+    "sg:province":"MO",
+    "sg:website":"www.mcpl.lib.mo.us",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970739,
+        102085271,
+        85823759
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1jmnOZKCFNtXgI3itJOg1R_39.422383_-94.895304@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462586606,
+    "wof:geomhash":"822ef934c2c554fcdf8986ba682ef490",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085271,
+            "locality_id":85970739,
+            "neighbourhood_id":85823759,
+            "region_id":85688661,
+            "venue_id":773554677
+        }
+    ],
+    "wof:id":773554677,
+    "wof:lastmodified":1462586606,
+    "wof:name":"Mid-Continent Public Library",
+    "wof:parent_id":85823759,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -94.895304,
+    39.422383,
+    -94.895304,
+    39.422383
+],
+  "geometry": {"coordinates":[-94.895304,39.422383],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 806564333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.682414,39.245557,-94.682414,39.245557",
+    "geom:latitude":39.245557,
+    "geom:longitude":-94.682414,
+    "iso:country":"US",
+    "sg:address":"8341 NW Mace Rd",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Airline",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 891 8441",
+    "sg:postcode":"64152",
+    "sg:province":"MO",
+    "sg:tags":[
+        "cargo",
+        "air"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970739,
+        102085271,
+        85852241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5jcoYfd0QnoWUVfJXIhljr_39.245557_-94.682414@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462599160,
+    "wof:geomhash":"4e3c7e39b27d6c966982a343809ee962",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085271,
+            "locality_id":85970739,
+            "neighbourhood_id":85852241,
+            "region_id":85688661,
+            "venue_id":806564333
+        }
+    ],
+    "wof:id":806564333,
+    "wof:lastmodified":1462599160,
+    "wof:name":"Bellair Expediting",
+    "wof:parent_id":85852241,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cargo",
+        "air"
+    ]
+},
+  "bbox": [
+    -94.682414,
+    39.245557,
+    -94.682414,
+    39.245557
+],
+  "geometry": {"coordinates":[-94.68241399999999,39.245557],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 790464551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.169969,38.577084,-92.169969,38.577084",
+    "geom:latitude":38.577084,
+    "geom:longitude":-92.169969,
+    "iso:country":"US",
+    "sg:address":"201 E Capitol Ave",
+    "sg:city":"Jefferson City",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"News",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 556 8813",
+    "sg:postcode":"65101",
+    "sg:province":"MO",
+    "sg:tags":[
+        "newspaper",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970647,
+        102087511,
+        85837745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6WRZpL3JpucnFTAwiTp3Q9_38.577084_-92.169969@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462596046,
+    "wof:geomhash":"5923376492ccfad30c931268ea45871f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087511,
+            "locality_id":85970647,
+            "neighbourhood_id":85837745,
+            "region_id":85688661,
+            "venue_id":790464551
+        }
+    ],
+    "wof:id":790464551,
+    "wof:lastmodified":1462596046,
+    "wof:name":"Springfield News Leader",
+    "wof:parent_id":85837745,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "newspaper",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -92.169969,
+    38.577084,
+    -92.169969,
+    38.577084
+],
+  "geometry": {"coordinates":[-92.16996899999999,38.577084],"type":"Point"}
+}

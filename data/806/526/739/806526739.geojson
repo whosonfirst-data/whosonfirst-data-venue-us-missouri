@@ -1,0 +1,84 @@
+{
+  "id": 806526739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.232921,38.576235,-90.232921,38.576235",
+    "geom:latitude":38.576235,
+    "geom:longitude":-90.232921,
+    "iso:country":"US",
+    "sg:address":"4330 S Broadway",
+    "sg:city":"St Louis",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Discount & Variety Stores",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 481 8735",
+    "sg:postcode":"63111",
+    "sg:province":"MO",
+    "sg:tags":[
+        "shop",
+        "merchandise",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873697,
+        102191575,
+        404518053,
+        85633793,
+        85971343,
+        102080791,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4S5A4V9XuoF1N2xmHfSGYI_38.576235_-90.232921@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462598842,
+    "wof:geomhash":"a67f9119b052c4b6a78cb0513f9c7e5b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080791,
+            "localadmin_id":404518053,
+            "locality_id":85971343,
+            "neighbourhood_id":85873697,
+            "region_id":85688661,
+            "venue_id":806526739
+        }
+    ],
+    "wof:id":806526739,
+    "wof:lastmodified":1462598842,
+    "wof:name":"Big Lots",
+    "wof:parent_id":85873697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "merchandise",
+        "general"
+    ]
+},
+  "bbox": [
+    -90.232921,
+    38.576235,
+    -90.232921,
+    38.576235
+],
+  "geometry": {"coordinates":[-90.232921,38.576235],"type":"Point"}
+}

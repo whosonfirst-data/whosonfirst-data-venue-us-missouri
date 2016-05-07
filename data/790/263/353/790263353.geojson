@@ -1,0 +1,90 @@
+{
+  "id": 790263353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.429511,39.095762,-94.429511,39.095762",
+    "geom:latitude":39.095762,
+    "geom:longitude":-94.429511,
+    "iso:country":"US",
+    "sg:address":"431 N Grand Ave",
+    "sg:city":"Independence",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        },
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 254 1834",
+    "sg:postcode":"64050",
+    "sg:province":"MO",
+    "sg:tags":[
+        "garbage",
+        "storage",
+        "system",
+        "collection",
+        "trucking",
+        "local"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85833097,
+        102191575,
+        404515661,
+        85633793,
+        85971449,
+        102081227,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Zd1UParAnxDtsXGB30fY7_39.095762_-94.429511@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462594449,
+    "wof:geomhash":"1d01ef69e1dc12672a236d8ea824a27a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081227,
+            "localadmin_id":404515661,
+            "locality_id":85971449,
+            "neighbourhood_id":85833097,
+            "region_id":85688661,
+            "venue_id":790263353
+        }
+    ],
+    "wof:id":790263353,
+    "wof:lastmodified":1462594449,
+    "wof:name":"Clark's General Hauling",
+    "wof:parent_id":85833097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garbage",
+        "storage",
+        "system",
+        "collection",
+        "trucking",
+        "local"
+    ]
+},
+  "bbox": [
+    -94.429511,
+    39.095762,
+    -94.429511,
+    39.095762
+],
+  "geometry": {"coordinates":[-94.42951100000001,39.095762],"type":"Point"}
+}

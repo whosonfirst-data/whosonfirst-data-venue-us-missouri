@@ -1,0 +1,71 @@
+{
+  "id": 807190845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.419955,37.779003,-90.419955,37.779003",
+    "geom:latitude":37.779003,
+    "geom:longitude":-90.419955,
+    "iso:country":"US",
+    "sg:address":"120 E 1st St",
+    "sg:city":"Farmington",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"Day Spa",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 701 0810",
+    "sg:postcode":"63640",
+    "sg:province":"MO",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970665,
+        102085297,
+        85816309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ZyKkP18r6qy0KkQeuFQOk_37.779003_-90.419955@1303262931"
+    },
+    "wof:country":"US",
+    "wof:created":1462604698,
+    "wof:geomhash":"a6fbf15059350f629487d06dec79dbc2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085297,
+            "locality_id":85970665,
+            "neighbourhood_id":85816309,
+            "region_id":85688661,
+            "venue_id":807190845
+        }
+    ],
+    "wof:id":807190845,
+    "wof:lastmodified":1462604698,
+    "wof:name":"Angel Falls Spa",
+    "wof:parent_id":85816309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.419955,
+    37.779003,
+    -90.419955,
+    37.779003
+],
+  "geometry": {"coordinates":[-90.419955,37.779003],"type":"Point"}
+}

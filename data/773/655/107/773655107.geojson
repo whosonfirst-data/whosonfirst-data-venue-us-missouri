@@ -1,0 +1,71 @@
+{
+  "id": 773655107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.614517,36.514886,-94.614517,36.514886",
+    "geom:latitude":36.514886,
+    "geom:longitude":-94.614517,
+    "iso:country":"US",
+    "sg:address":"309 W Cherokee St",
+    "sg:city":"South West City",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 762 3738",
+    "sg:postcode":"64863",
+    "sg:province":"MO",
+    "sg:tags":[
+        "laboratory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972127,
+        102085305,
+        85850627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0LTDA5R4vk4EMmUnpH8APb_36.514886_-94.614517@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462587360,
+    "wof:geomhash":"50a2c3dac175005386ce9c31181619e7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085305,
+            "locality_id":85972127,
+            "neighbourhood_id":85850627,
+            "region_id":85688661,
+            "venue_id":773655107
+        }
+    ],
+    "wof:id":773655107,
+    "wof:lastmodified":1462587360,
+    "wof:name":"Adams Orthodontic Lab",
+    "wof:parent_id":85850627,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory"
+    ]
+},
+  "bbox": [
+    -94.614517,
+    36.514886,
+    -94.614517,
+    36.514886
+],
+  "geometry": {"coordinates":[-94.61451700000001,36.514886],"type":"Point"}
+}

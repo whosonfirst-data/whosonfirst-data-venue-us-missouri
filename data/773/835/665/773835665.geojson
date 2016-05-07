@@ -1,0 +1,82 @@
+{
+  "id": 773835665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.58033,39.135772,-94.58033,39.135772",
+    "geom:latitude":39.135772,
+    "geom:longitude":-94.58033,
+    "iso:country":"US",
+    "sg:address":"1415 Burlington St",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Auto Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 421 5850",
+    "sg:postcode":"64116",
+    "sg:province":"MO",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85823983,
+        102191575,
+        404516715,
+        85633793,
+        85972453,
+        102086177,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_05mIj77CAcLnxcYDolTJLc_39.135772_-94.580330@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462588769,
+    "wof:geomhash":"b15917cf04993a0590cf6b6fabc666a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086177,
+            "localadmin_id":404516715,
+            "locality_id":85972453,
+            "neighbourhood_id":85823983,
+            "region_id":85688661,
+            "venue_id":773835665
+        }
+    ],
+    "wof:id":773835665,
+    "wof:lastmodified":1462588769,
+    "wof:name":"Cross Midwest Tire",
+    "wof:parent_id":85823983,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -94.58033,
+    39.135772,
+    -94.58033,
+    39.135772
+],
+  "geometry": {"coordinates":[-94.58033,39.135772],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 806719409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.323113,38.72895,-90.323113,38.72895",
+    "geom:latitude":38.72895,
+    "geom:longitude":-90.323113,
+    "iso:country":"US",
+    "sg:address":"5178 N Hanley Rd",
+    "sg:city":"St Louis",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 521 5270",
+    "sg:postcode":"63134",
+    "sg:province":"MO",
+    "sg:tags":[
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85859027,
+        102191575,
+        404517247,
+        85633793,
+        85972205,
+        102086173,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_77Do2vbJZWhCFtjgIOeGuB_38.728950_-90.323113@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462600495,
+    "wof:geomhash":"ae502cf4594854a924208437c009b085",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086173,
+            "localadmin_id":404517247,
+            "locality_id":85972205,
+            "neighbourhood_id":85859027,
+            "region_id":85688661,
+            "venue_id":806719409
+        }
+    ],
+    "wof:id":806719409,
+    "wof:lastmodified":1462600495,
+    "wof:name":"Airport Towing Svc",
+    "wof:parent_id":85859027,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrecker"
+    ]
+},
+  "bbox": [
+    -90.323113,
+    38.72895,
+    -90.323113,
+    38.72895
+],
+  "geometry": {"coordinates":[-90.32311300000001,38.72895],"type":"Point"}
+}

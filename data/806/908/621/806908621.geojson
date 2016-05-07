@@ -1,0 +1,71 @@
+{
+  "id": 806908621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.732434,39.374139,-94.732434,39.374139",
+    "geom:latitude":39.374139,
+    "geom:longitude":-94.732434,
+    "iso:country":"US",
+    "sg:address":"15055 Bethel Rd",
+    "sg:city":"Platte City",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Electric",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 464 2900",
+    "sg:postcode":"64079",
+    "sg:province":"MO",
+    "sg:tags":[
+        "gas"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970739,
+        102085271,
+        85851839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_61r2KefiRMUWc2VOHohjpN_39.374139_-94.732434@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462602081,
+    "wof:geomhash":"ce5568ab8c0d8373e1b7318926de48cb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085271,
+            "locality_id":85970739,
+            "neighbourhood_id":85851839,
+            "region_id":85688661,
+            "venue_id":806908621
+        }
+    ],
+    "wof:id":806908621,
+    "wof:lastmodified":1462602081,
+    "wof:name":"Aquila Networks",
+    "wof:parent_id":85851839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "gas"
+    ]
+},
+  "bbox": [
+    -94.732434,
+    39.374139,
+    -94.732434,
+    39.374139
+],
+  "geometry": {"coordinates":[-94.732434,39.374139],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 789773969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.320705,38.770492,-90.320705,38.770492",
+    "geom:latitude":38.770492,
+    "geom:longitude":-90.320705,
+    "iso:country":"US",
+    "sg:address":"113 Connolly Dr",
+    "sg:city":"Saint Louis",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 517 8274",
+    "sg:postcode":"63135",
+    "sg:province":"MO",
+    "sg:tags":[
+        "car",
+        "customizing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85813019,
+        102191575,
+        404517467,
+        85633793,
+        85972639,
+        102086173,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_70LthULHdijTkVETo5axKj_38.770492_-90.320705@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462590433,
+    "wof:geomhash":"9c66f2c9dbe3379c3ee3d64d656cf91e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086173,
+            "localadmin_id":404517467,
+            "locality_id":85972639,
+            "neighbourhood_id":85813019,
+            "region_id":85688661,
+            "venue_id":789773969
+        }
+    ],
+    "wof:id":789773969,
+    "wof:lastmodified":1462590433,
+    "wof:name":"Car Concepts",
+    "wof:parent_id":85813019,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "customizing"
+    ]
+},
+  "bbox": [
+    -90.320705,
+    38.770492,
+    -90.320705,
+    38.770492
+],
+  "geometry": {"coordinates":[-90.320705,38.770492],"type":"Point"}
+}

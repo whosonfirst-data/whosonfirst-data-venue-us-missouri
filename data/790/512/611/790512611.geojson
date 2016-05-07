@@ -1,0 +1,71 @@
+{
+  "id": 790512611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.576865,38.783986,-90.576865,38.783986",
+    "geom:latitude":38.783986,
+    "geom:longitude":-90.576865,
+    "iso:country":"US",
+    "sg:address":"625 Jungermann Rd",
+    "sg:city":"St Peters",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 928 2127",
+    "sg:postcode":"63376",
+    "sg:province":"MO",
+    "sg:tags":[
+        "laboratory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6IhoApFU4FU12NaIvTNp7U_38.783986_-90.576865@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462596471,
+    "wof:geomhash":"83babad8d83e8142896606f6da75d036",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":790512611
+        }
+    ],
+    "wof:id":790512611,
+    "wof:lastmodified":1462596471,
+    "wof:name":"Lemen Dental Laboratory",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory"
+    ]
+},
+  "bbox": [
+    -90.576865,
+    38.783986,
+    -90.576865,
+    38.783986
+],
+  "geometry": {"coordinates":[-90.576865,38.783986],"type":"Point"}
+}

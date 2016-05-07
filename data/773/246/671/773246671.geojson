@@ -1,0 +1,73 @@
+{
+  "id": 773246671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.366096,38.494911,-90.366096,38.494911",
+    "geom:latitude":38.494911,
+    "geom:longitude":-90.366096,
+    "iso:country":"US",
+    "sg:address":"4941 Ambs Rd",
+    "sg:city":"St Louis",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 416 8600",
+    "sg:postcode":"63128",
+    "sg:province":"MO",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971021,
+        102080787,
+        85832925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0IV70ezB6fcYtME4pxTqFC_38.494911_-90.366096@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462584261,
+    "wof:geomhash":"ed73680a642c117597e51487b700720a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080787,
+            "locality_id":85971021,
+            "neighbourhood_id":85832925,
+            "region_id":85688661,
+            "venue_id":773246671
+        }
+    ],
+    "wof:id":773246671,
+    "wof:lastmodified":1462584261,
+    "wof:name":"Better Building Svc Inc",
+    "wof:parent_id":85832925,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -90.366096,
+    38.494911,
+    -90.366096,
+    38.494911
+],
+  "geometry": {"coordinates":[-90.366096,38.494911],"type":"Point"}
+}

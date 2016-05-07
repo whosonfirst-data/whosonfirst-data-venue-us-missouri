@@ -1,0 +1,72 @@
+{
+  "id": 807093421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.227922,37.026051,-93.227922,37.026051",
+    "geom:latitude":37.026051,
+    "geom:longitude":-93.227922,
+    "iso:country":"US",
+    "sg:address":"880 N 18th St",
+    "sg:city":"Ozark",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/cassidy/195646-taco-bell/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 581 3809",
+    "sg:postcode":"65721",
+    "sg:province":"MO",
+    "sg:tags":[
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971577,
+        102087497,
+        85809751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1vpVpwMQtlS1fSeEhP1Lhz_37.026051_-93.227922@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462603648,
+    "wof:geomhash":"bd63e9905e1610034897d8c584366926",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087497,
+            "locality_id":85971577,
+            "neighbourhood_id":85809751,
+            "region_id":85688661,
+            "venue_id":807093421
+        }
+    ],
+    "wof:id":807093421,
+    "wof:lastmodified":1462603648,
+    "wof:name":"Taco Bell",
+    "wof:parent_id":85809751,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican"
+    ]
+},
+  "bbox": [
+    -93.227922,
+    37.026051,
+    -93.227922,
+    37.026051
+],
+  "geometry": {"coordinates":[-93.22792200000001,37.026051],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 807083457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.537622,39.094204,-94.537622,39.094204",
+    "geom:latitude":39.094204,
+    "geom:longitude":-94.537622,
+    "iso:country":"US",
+    "sg:address":"3803 E Truman Rd",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/kaw/182419-wendys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 231 7153",
+    "sg:postcode":"64127",
+    "sg:province":"MO",
+    "sg:tags":[
+        "burger",
+        "american",
+        "soup"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420525355,
+        102191575,
+        404518075,
+        85633793,
+        85970739,
+        102081227,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Y0PaPhDqvxSHxwYaD8m83_39.094204_-94.537622@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462603561,
+    "wof:geomhash":"7a2a6da6b4b21cf91c01a19cb2fa8587",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081227,
+            "localadmin_id":404518075,
+            "locality_id":85970739,
+            "neighbourhood_id":420525355,
+            "region_id":85688661,
+            "venue_id":807083457
+        }
+    ],
+    "wof:id":807083457,
+    "wof:lastmodified":1462603561,
+    "wof:name":"Wendy's",
+    "wof:parent_id":420525355,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "soup"
+    ]
+},
+  "bbox": [
+    -94.537622,
+    39.094204,
+    -94.537622,
+    39.094204
+],
+  "geometry": {"coordinates":[-94.537622,39.094204],"type":"Point"}
+}

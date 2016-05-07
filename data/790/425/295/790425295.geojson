@@ -1,0 +1,69 @@
+{
+  "id": 790425295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.400386,38.212405,-90.400386,38.212405",
+    "geom:latitude":38.212405,
+    "geom:longitude":-90.400386,
+    "iso:country":"US",
+    "sg:address":"1001 E Gannon Dr",
+    "sg:city":"Festus",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 933 2727",
+    "sg:postcode":"63028",
+    "sg:province":"MO",
+    "sg:tags":[
+        "cleaners"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85848677,
+        102080787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1PZnIVVChOwLu2I40PrjZR_38.212405_-90.400386@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462595735,
+    "wof:geomhash":"06c781e1082787f3abaf4dd649f42ec6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080787,
+            "neighbourhood_id":85848677,
+            "region_id":85688661,
+            "venue_id":790425295
+        }
+    ],
+    "wof:id":790425295,
+    "wof:lastmodified":1462595735,
+    "wof:name":"Twin City Cleaners",
+    "wof:parent_id":85848677,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners"
+    ]
+},
+  "bbox": [
+    -90.400386,
+    38.212405,
+    -90.400386,
+    38.212405
+],
+  "geometry": {"coordinates":[-90.400386,38.212405],"type":"Point"}
+}

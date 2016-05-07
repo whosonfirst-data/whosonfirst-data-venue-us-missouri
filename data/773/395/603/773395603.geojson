@@ -1,0 +1,75 @@
+{
+  "id": 773395603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.307515,38.681339,-90.307515,38.681339",
+    "geom:latitude":38.681339,
+    "geom:longitude":-90.307515,
+    "iso:country":"US",
+    "sg:address":"1440 Ferguson Ave",
+    "sg:city":"St Louis",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 726 1112",
+    "sg:postcode":"63133",
+    "sg:province":"MO",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85803359,
+        102191575,
+        404515929,
+        85633793,
+        85972327,
+        102086173,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_44Tam6ZF7QXAA2Djy2SWIf_38.681339_-90.307515@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462585368,
+    "wof:geomhash":"38f9b67dd9ed9ddbcd886c3e46cf839d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086173,
+            "localadmin_id":404515929,
+            "locality_id":85972327,
+            "neighbourhood_id":85803359,
+            "region_id":85688661,
+            "venue_id":773395603
+        }
+    ],
+    "wof:id":773395603,
+    "wof:lastmodified":1462585368,
+    "wof:name":"Pagedale Police Dept",
+    "wof:parent_id":85803359,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -90.307515,
+    38.681339,
+    -90.307515,
+    38.681339
+],
+  "geometry": {"coordinates":[-90.307515,38.681339],"type":"Point"}
+}

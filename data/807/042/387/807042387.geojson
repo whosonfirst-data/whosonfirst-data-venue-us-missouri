@@ -1,0 +1,80 @@
+{
+  "id": 807042387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.36261,38.80522,-90.36261,38.80522",
+    "geom:latitude":38.80522,
+    "geom:longitude":-90.36261,
+    "iso:country":"US",
+    "sg:address":"440 Howdershell Rd",
+    "sg:city":"Florissant",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 838 3575",
+    "sg:postcode":"63031",
+    "sg:province":"MO",
+    "sg:tags":[
+        "clinic",
+        "veterinarian",
+        "hospital"
+    ],
+    "sg:website":"http://www.howdershellvets.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85813019,
+        102191575,
+        404517467,
+        85633793,
+        85972639,
+        102086173,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5U7vKLXbob26olmQaRzS51_38.804693_-90.363018@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1462603231,
+    "wof:geomhash":"bff1c4335cdcfa42e80e553ee1420009",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086173,
+            "localadmin_id":404517467,
+            "locality_id":85972639,
+            "neighbourhood_id":85813019,
+            "region_id":85688661,
+            "venue_id":807042387
+        }
+    ],
+    "wof:id":807042387,
+    "wof:lastmodified":1462603231,
+    "wof:name":"Howdershell Animal Clinic",
+    "wof:parent_id":85813019,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic",
+        "veterinarian",
+        "hospital"
+    ]
+},
+  "bbox": [
+    -90.36261,
+    38.80522,
+    -90.36261,
+    38.80522
+],
+  "geometry": {"coordinates":[-90.36261,38.80522],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 806857025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.566475,38.142386,-90.566475,38.142386",
+    "geom:latitude":38.142386,
+    "geom:longitude":-90.566475,
+    "iso:country":"US",
+    "sg:address":"106 N Grand Ave",
+    "sg:city":"De Soto",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 337 7734",
+    "sg:postcode":"63020",
+    "sg:province":"MO",
+    "sg:tags":[
+        "automotive",
+        "glass",
+        "replacement"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85848677,
+        102080787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4GFGJs97Becgw87wP66cuf_38.142386_-90.566475@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462601664,
+    "wof:geomhash":"b490b84b138df362c922fba3fcd30954",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080787,
+            "neighbourhood_id":85848677,
+            "region_id":85688661,
+            "venue_id":806857025
+        }
+    ],
+    "wof:id":806857025,
+    "wof:lastmodified":1462601664,
+    "wof:name":"Auto Glass Only",
+    "wof:parent_id":85848677,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive",
+        "glass",
+        "replacement"
+    ]
+},
+  "bbox": [
+    -90.566475,
+    38.142386,
+    -90.566475,
+    38.142386
+],
+  "geometry": {"coordinates":[-90.566475,38.142386],"type":"Point"}
+}

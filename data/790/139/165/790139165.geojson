@@ -1,0 +1,71 @@
+{
+  "id": 790139165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.491594,40.023406,-92.491594,40.023406",
+    "geom:latitude":40.023406,
+    "geom:longitude":-92.491594,
+    "iso:country":"US",
+    "sg:address":"101 S Gex St",
+    "sg:city":"La Plata",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 660 332 4343",
+    "sg:postcode":"63549",
+    "sg:province":"MO",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971149,
+        102086189,
+        85821499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1qqS90N5MPItpt0XgdkpbR_40.023406_-92.491594@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462593425,
+    "wof:geomhash":"57a0fdc524679e21a44af35195a5e708",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086189,
+            "locality_id":85971149,
+            "neighbourhood_id":85821499,
+            "region_id":85688661,
+            "venue_id":790139165
+        }
+    ],
+    "wof:id":790139165,
+    "wof:lastmodified":1462593425,
+    "wof:name":"LA Plata Police Dept",
+    "wof:parent_id":85821499,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -92.491594,
+    40.023406,
+    -92.491594,
+    40.023406
+],
+  "geometry": {"coordinates":[-92.49159400000001,40.023406],"type":"Point"}
+}

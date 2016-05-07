@@ -1,0 +1,71 @@
+{
+  "id": 789999623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.576265,38.794984,-90.576265,38.794984",
+    "geom:latitude":38.794984,
+    "geom:longitude":-90.576265,
+    "iso:country":"US",
+    "sg:address":"6 Jungermann Rd",
+    "sg:city":"Saint Peters",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 888 505 6444",
+    "sg:postcode":"63376",
+    "sg:province":"MO",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4adv2Hc5Zoa5zMJvH3Khb9_38.794984_-90.576265@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462592326,
+    "wof:geomhash":"25fc1dd818678a86d77eaf8dba81a537",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":789999623
+        }
+    ],
+    "wof:id":789999623,
+    "wof:lastmodified":1462592326,
+    "wof:name":"Behavioral Health Partners",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -90.576265,
+    38.794984,
+    -90.576265,
+    38.794984
+],
+  "geometry": {"coordinates":[-90.57626500000001,38.794984],"type":"Point"}
+}

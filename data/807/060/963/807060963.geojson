@@ -1,0 +1,71 @@
+{
+  "id": 807060963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.490697,38.245648,-90.490697,38.245648",
+    "geom:latitude":38.245648,
+    "geom:longitude":-90.490697,
+    "iso:country":"US",
+    "sg:address":"1900 Old 21a",
+    "sg:city":"Festus",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/joachim/240988-white-castle/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"63028",
+    "sg:province":"MO",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85848677,
+        102080787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2WdwLXYbH5Xlp6PMvu9FT4_38.245648_-90.490697@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462603378,
+    "wof:geomhash":"b86edb91eed953154bfc5b26e1c0aa45",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080787,
+            "neighbourhood_id":85848677,
+            "region_id":85688661,
+            "venue_id":807060963
+        }
+    ],
+    "wof:id":807060963,
+    "wof:lastmodified":1462603378,
+    "wof:name":"White Castle",
+    "wof:parent_id":85848677,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -90.490697,
+    38.245648,
+    -90.490697,
+    38.245648
+],
+  "geometry": {"coordinates":[-90.490697,38.245648],"type":"Point"}
+}

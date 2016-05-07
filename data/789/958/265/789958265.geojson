@@ -1,0 +1,73 @@
+{
+  "id": 789958265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.499412,39.936771,-91.499412,39.936771",
+    "geom:latitude":39.936771,
+    "geom:longitude":-91.499412,
+    "iso:country":"US",
+    "sg:address":"7555 US Hwy 24",
+    "sg:city":"Taylor",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 393 2492",
+    "sg:postcode":"63471",
+    "sg:province":"MO",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688697,
+        85633793,
+        85938427,
+        102086213,
+        85867477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1aeaPDQ3PDQu1kDpMZmrx2_39.936771_-91.499412@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462591983,
+    "wof:geomhash":"1c3152afc30be9f0726e5cb93b78a11a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086213,
+            "locality_id":85938427,
+            "neighbourhood_id":85867477,
+            "region_id":85688697,
+            "venue_id":789958265
+        }
+    ],
+    "wof:id":789958265,
+    "wof:lastmodified":1462591983,
+    "wof:name":"Summers Outpost Auto Repair",
+    "wof:parent_id":85867477,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -91.499412,
+    39.936771,
+    -91.499412,
+    39.936771
+],
+  "geometry": {"coordinates":[-91.49941200000001,39.936771],"type":"Point"}
+}

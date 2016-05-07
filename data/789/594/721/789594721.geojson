@@ -1,0 +1,71 @@
+{
+  "id": 789594721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.335138,37.147351,-93.335138,37.147351",
+    "geom:latitude":37.147351,
+    "geom:longitude":-93.335138,
+    "iso:country":"US",
+    "sg:address":"2817 W Katella Ln",
+    "sg:city":"Springfield",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 799 4822",
+    "sg:postcode":"65807",
+    "sg:province":"MO",
+    "sg:tags":[
+        "mechanical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85881151,
+        102087523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2LKRTrcZmKHhv3Weu9LYJd_37.147351_-93.335138@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462589019,
+    "wof:geomhash":"765c3e9e32e9330869a33510128b5725",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087523,
+            "neighbourhood_id":85881151,
+            "region_id":85688661,
+            "venue_id":789594721
+        }
+    ],
+    "wof:id":789594721,
+    "wof:lastmodified":1462589019,
+    "wof:name":"Smithco Mechanical",
+    "wof:parent_id":85881151,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mechanical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -93.335138,
+    37.147351,
+    -93.335138,
+    37.147351
+],
+  "geometry": {"coordinates":[-93.335138,37.147351],"type":"Point"}
+}

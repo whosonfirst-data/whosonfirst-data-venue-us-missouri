@@ -1,0 +1,71 @@
+{
+  "id": 790189129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.654634,39.247047,-94.654634,39.247047",
+    "geom:latitude":39.247047,
+    "geom:longitude":-94.654634,
+    "iso:country":"US",
+    "sg:address":"6302 NW Barry Rd",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 746 1333",
+    "sg:postcode":"64154",
+    "sg:province":"MO",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970739,
+        102085271,
+        85851839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0PMyvXRq40X0Yog2x8Mvjc_39.247047_-94.654634@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462593848,
+    "wof:geomhash":"9ee1013e1809b889df73b77b7df7d036",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085271,
+            "locality_id":85970739,
+            "neighbourhood_id":85851839,
+            "region_id":85688661,
+            "venue_id":790189129
+        }
+    ],
+    "wof:id":790189129,
+    "wof:lastmodified":1462593848,
+    "wof:name":"Animal Clinic Of Boardwalk Sq",
+    "wof:parent_id":85851839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -94.654634,
+    39.247047,
+    -94.654634,
+    39.247047
+],
+  "geometry": {"coordinates":[-94.654634,39.247047],"type":"Point"}
+}

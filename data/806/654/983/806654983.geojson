@@ -1,0 +1,75 @@
+{
+  "id": 806654983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.625902,38.788464,-90.625902,38.788464",
+    "geom:latitude":38.788464,
+    "geom:longitude":-90.625902,
+    "iso:country":"US",
+    "sg:address":"7098 Mexico Rd",
+    "sg:city":"Lake Saint Louis",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 278 3110",
+    "sg:postcode":"63376",
+    "sg:province":"MO",
+    "sg:tags":[
+        "shop",
+        "coffee",
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_77pWhrYcDX52sKW1k1VT8L_38.788464_-90.625902@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462599949,
+    "wof:geomhash":"b91fb043c0b8bfc320fe45364d3b9794",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":806654983
+        }
+    ],
+    "wof:id":806654983,
+    "wof:lastmodified":1462599949,
+    "wof:name":"Starbucks",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "coffee",
+        "eating"
+    ]
+},
+  "bbox": [
+    -90.625902,
+    38.788464,
+    -90.625902,
+    38.788464
+],
+  "geometry": {"coordinates":[-90.625902,38.788464],"type":"Point"}
+}

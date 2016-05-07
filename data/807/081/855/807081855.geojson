@@ -1,0 +1,78 @@
+{
+  "id": 807081855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.59704,39.050624,-94.59704,39.050624",
+    "geom:latitude":39.050624,
+    "geom:longitude":-94.59704,
+    "iso:country":"US",
+    "sg:address":"905 Westport Rd",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/kaw/149013-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 756 3799",
+    "sg:postcode":"64111",
+    "sg:province":"MO",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85857131,
+        102191575,
+        404518075,
+        85633793,
+        85970739,
+        102081227,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6v8WbF9st9IvwLK493USqJ_39.050624_-94.597040@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462603549,
+    "wof:geomhash":"e2172521e7d387ce0408a3918501f4da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081227,
+            "localadmin_id":404518075,
+            "locality_id":85970739,
+            "neighbourhood_id":85857131,
+            "region_id":85688661,
+            "venue_id":807081855
+        }
+    ],
+    "wof:id":807081855,
+    "wof:lastmodified":1462603549,
+    "wof:name":"Subway",
+    "wof:parent_id":85857131,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -94.59704,
+    39.050624,
+    -94.59704,
+    39.050624
+],
+  "geometry": {"coordinates":[-94.59704000000001,39.050624],"type":"Point"}
+}

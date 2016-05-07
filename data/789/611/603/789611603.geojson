@@ -1,0 +1,73 @@
+{
+  "id": 789611603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.428121,37.730108,-90.428121,37.730108",
+    "geom:latitude":37.730108,
+    "geom:longitude":-90.428121,
+    "iso:country":"US",
+    "sg:address":"2879 US Hwy 67",
+    "sg:city":"Farmington",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 756 7566",
+    "sg:postcode":"63640",
+    "sg:province":"MO",
+    "sg:tags":[
+        "home",
+        "residential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970665,
+        102085297,
+        85816309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0wzkEgFTQsERY2ZgYpTkKY_37.730108_-90.428121@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462589149,
+    "wof:geomhash":"f2ed838786b1d384b7e809ae71021e7a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085297,
+            "locality_id":85970665,
+            "neighbourhood_id":85816309,
+            "region_id":85688661,
+            "venue_id":789611603
+        }
+    ],
+    "wof:id":789611603,
+    "wof:lastmodified":1462589149,
+    "wof:name":"Farmington Manor Residential",
+    "wof:parent_id":85816309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "residential"
+    ]
+},
+  "bbox": [
+    -90.428121,
+    37.730108,
+    -90.428121,
+    37.730108
+],
+  "geometry": {"coordinates":[-90.428121,37.730108],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 773622269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.452379,38.775137,-90.452379,38.775137",
+    "geom:latitude":38.775137,
+    "geom:longitude":-90.452379,
+    "iso:country":"US",
+    "sg:address":"4625 Crossroads Industrial Dr",
+    "sg:city":"Bridgeton",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 739 6229",
+    "sg:postcode":"63044",
+    "sg:province":"MO",
+    "sg:tags":[
+        "delivery",
+        "local"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972341,
+        102086173,
+        85806637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7mA4mOcaS9tPqHP1qXbeIh_38.775137_-90.452379@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462587112,
+    "wof:geomhash":"c72cdce7e874a9812c8da4e4443beefd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086173,
+            "locality_id":85972341,
+            "neighbourhood_id":85806637,
+            "region_id":85688661,
+            "venue_id":773622269
+        }
+    ],
+    "wof:id":773622269,
+    "wof:lastmodified":1462587112,
+    "wof:name":"Miniex Delivery Service Inc",
+    "wof:parent_id":85806637,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "delivery",
+        "local"
+    ]
+},
+  "bbox": [
+    -90.452379,
+    38.775137,
+    -90.452379,
+    38.775137
+],
+  "geometry": {"coordinates":[-90.45237899999999,38.775137],"type":"Point"}
+}

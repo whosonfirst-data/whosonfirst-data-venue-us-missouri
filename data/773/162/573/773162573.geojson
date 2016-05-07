@@ -1,0 +1,69 @@
+{
+  "id": 773162573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.445742,38.178129,-90.445742,38.178129",
+    "geom:latitude":38.178129,
+    "geom:longitude":-90.445742,
+    "iso:country":"US",
+    "sg:address":"2429 US Hwy 67",
+    "sg:city":"Festus",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 933 3536",
+    "sg:postcode":"63028",
+    "sg:province":"MO",
+    "sg:tags":[
+        "body"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85848677,
+        102080787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6T4YI2O8Ri7xPUW6z4KrJJ_38.178129_-90.445742@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462583613,
+    "wof:geomhash":"dffd2fcd189418274b3db7e45fa7f577",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080787,
+            "neighbourhood_id":85848677,
+            "region_id":85688661,
+            "venue_id":773162573
+        }
+    ],
+    "wof:id":773162573,
+    "wof:lastmodified":1462583613,
+    "wof:name":"Auto Collision Experts",
+    "wof:parent_id":85848677,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body"
+    ]
+},
+  "bbox": [
+    -90.445742,
+    38.178129,
+    -90.445742,
+    38.178129
+],
+  "geometry": {"coordinates":[-90.445742,38.178129],"type":"Point"}
+}

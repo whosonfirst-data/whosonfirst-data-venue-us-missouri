@@ -1,0 +1,73 @@
+{
+  "id": 773393189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.420777,37.780396,-90.420777,37.780396",
+    "geom:latitude":37.780396,
+    "geom:longitude":-90.420777,
+    "iso:country":"US",
+    "sg:address":"22 E Columbia St",
+    "sg:city":"Farmington",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 756 9755",
+    "sg:postcode":"63640",
+    "sg:province":"MO",
+    "sg:tags":[
+        "legislative",
+        "body"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970665,
+        102085297,
+        85816309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_75lQq0RcHYmLkiSbg0Htp7_37.780396_-90.420777@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462585350,
+    "wof:geomhash":"fa31cc5def0608be2b1ab9acd4324395",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085297,
+            "locality_id":85970665,
+            "neighbourhood_id":85816309,
+            "region_id":85688661,
+            "venue_id":773393189
+        }
+    ],
+    "wof:id":773393189,
+    "wof:lastmodified":1462585350,
+    "wof:name":"United States House Rep",
+    "wof:parent_id":85816309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "legislative",
+        "body"
+    ]
+},
+  "bbox": [
+    -90.420777,
+    37.780396,
+    -90.420777,
+    37.780396
+],
+  "geometry": {"coordinates":[-90.420777,37.780396],"type":"Point"}
+}

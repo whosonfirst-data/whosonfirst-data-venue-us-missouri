@@ -1,0 +1,72 @@
+{
+  "id": 807089789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.322452,38.993062,-92.322452,38.993062",
+    "geom:latitude":38.993062,
+    "geom:longitude":-92.322452,
+    "iso:country":"US",
+    "sg:address":"1100 Smiley Ln",
+    "sg:city":"Columbia",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/columbia/195573-taco-bell/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 499 0140",
+    "sg:postcode":"65202",
+    "sg:province":"MO",
+    "sg:tags":[
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970425,
+        102086187,
+        85851713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2opiFLaT2QZbihMfZKC5j1_38.993062_-92.322452@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462603615,
+    "wof:geomhash":"2d09b89b33e2a88a4baf139722423a15",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086187,
+            "locality_id":85970425,
+            "neighbourhood_id":85851713,
+            "region_id":85688661,
+            "venue_id":807089789
+        }
+    ],
+    "wof:id":807089789,
+    "wof:lastmodified":1462603615,
+    "wof:name":"Taco Bell",
+    "wof:parent_id":85851713,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican"
+    ]
+},
+  "bbox": [
+    -92.322452,
+    38.993062,
+    -92.322452,
+    38.993062
+],
+  "geometry": {"coordinates":[-92.322452,38.993062],"type":"Point"}
+}

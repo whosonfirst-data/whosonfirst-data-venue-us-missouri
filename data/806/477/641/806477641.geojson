@@ -1,0 +1,73 @@
+{
+  "id": 806477641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.845654,38.81523,-90.845654,38.81523",
+    "geom:latitude":38.81523,
+    "geom:longitude":-90.845654,
+    "iso:country":"US",
+    "sg:address":"305 Bus Hwy 61",
+    "sg:city":"Wentzville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 332 8873",
+    "sg:postcode":"63385",
+    "sg:province":"MO",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Lxdrob5z657oGrc2XFmmU_38.815230_-90.845654@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462598441,
+    "wof:geomhash":"31f45fc2b404c7524f0adf7c7839a305",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":806477641
+        }
+    ],
+    "wof:id":806477641,
+    "wof:lastmodified":1462598441,
+    "wof:name":"Advanced Communication Install",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -90.845654,
+    38.81523,
+    -90.845654,
+    38.81523
+],
+  "geometry": {"coordinates":[-90.845654,38.81523],"type":"Point"}
+}

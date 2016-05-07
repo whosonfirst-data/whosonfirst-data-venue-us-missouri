@@ -1,0 +1,75 @@
+{
+  "id": 806881687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.661165,38.803061,-90.661165,38.803061",
+    "geom:latitude":38.803061,
+    "geom:longitude":-90.661165,
+    "iso:country":"US",
+    "sg:address":"3003 E Terra Ln",
+    "sg:city":"O Fallon",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 397 3554",
+    "sg:postcode":"63366",
+    "sg:province":"MO",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1gSvNUEviO8nRFZRlaiYbK_38.803061_-90.661165@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462601868,
+    "wof:geomhash":"7b4ef1fea786754c74bf5275c1365f89",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":806881687
+        }
+    ],
+    "wof:id":806881687,
+    "wof:lastmodified":1462601868,
+    "wof:name":"Specialized Collision Ctr",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -90.661165,
+    38.803061,
+    -90.661165,
+    38.803061
+],
+  "geometry": {"coordinates":[-90.661165,38.803061],"type":"Point"}
+}

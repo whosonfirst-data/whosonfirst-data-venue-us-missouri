@@ -1,0 +1,73 @@
+{
+  "id": 789869937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.557486,39.826375,-91.557486,39.826375",
+    "geom:latitude":39.826375,
+    "geom:longitude":-91.557486,
+    "iso:country":"US",
+    "sg:address":"3370 Co Rd 329",
+    "sg:city":"Palmyra",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 769 3253",
+    "sg:postcode":"63461",
+    "sg:province":"MO",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688697,
+        85633793,
+        85938427,
+        102086213,
+        85867477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_77IC554K6YxoldP7ATUk0D_39.826375_-91.557486@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462591187,
+    "wof:geomhash":"6612062b04324e35f393e2cb8ef976b6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086213,
+            "locality_id":85938427,
+            "neighbourhood_id":85867477,
+            "region_id":85688697,
+            "venue_id":789869937
+        }
+    ],
+    "wof:id":789869937,
+    "wof:lastmodified":1462591187,
+    "wof:name":"Allen's Garage",
+    "wof:parent_id":85867477,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -91.557486,
+    39.826375,
+    -91.557486,
+    39.826375
+],
+  "geometry": {"coordinates":[-91.557486,39.826375],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 806365507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.470782,39.075067,-94.470782,39.075067",
+    "geom:latitude":39.075067,
+    "geom:longitude":-94.470782,
+    "iso:country":"US",
+    "sg:address":"2640 Blue Ridge Blvd",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Developer",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 836 3554",
+    "sg:postcode":"64129",
+    "sg:province":"MO",
+    "sg:tags":[
+        "cemetery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970739,
+        102081227,
+        85810269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Ms6tQp2N0YXJWF1ViwXcz_39.075067_-94.470782@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462597545,
+    "wof:geomhash":"6636440699a739b239fbef7d37719588",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081227,
+            "locality_id":85970739,
+            "neighbourhood_id":85810269,
+            "region_id":85688661,
+            "venue_id":806365507
+        }
+    ],
+    "wof:id":806365507,
+    "wof:lastmodified":1462597545,
+    "wof:name":"Blue Ridge Lawn Memorial",
+    "wof:parent_id":85810269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cemetery"
+    ]
+},
+  "bbox": [
+    -94.470782,
+    39.075067,
+    -94.470782,
+    39.075067
+],
+  "geometry": {"coordinates":[-94.470782,39.075067],"type":"Point"}
+}

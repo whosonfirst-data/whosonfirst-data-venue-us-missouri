@@ -1,0 +1,71 @@
+{
+  "id": 789753967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.427595,37.304403,-93.427595,37.304403",
+    "geom:latitude":37.304403,
+    "geom:longitude":-93.427595,
+    "iso:country":"US",
+    "sg:address":"108 E Jackson St",
+    "sg:city":"Willard",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 742 1901",
+    "sg:postcode":"65781",
+    "sg:province":"MO",
+    "sg:tags":[
+        "engineer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971363,
+        102087523,
+        85881139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2LINlWw3Cz5jLXIrDNRhC3_37.304403_-93.427595@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462590283,
+    "wof:geomhash":"c7b0a00288887e7202b632e225a09557",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087523,
+            "locality_id":85971363,
+            "neighbourhood_id":85881139,
+            "region_id":85688661,
+            "venue_id":789753967
+        }
+    ],
+    "wof:id":789753967,
+    "wof:lastmodified":1462590283,
+    "wof:name":"Sherman Engineering Svc",
+    "wof:parent_id":85881139,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "engineer"
+    ]
+},
+  "bbox": [
+    -93.427595,
+    37.304403,
+    -93.427595,
+    37.304403
+],
+  "geometry": {"coordinates":[-93.427595,37.304403],"type":"Point"}
+}

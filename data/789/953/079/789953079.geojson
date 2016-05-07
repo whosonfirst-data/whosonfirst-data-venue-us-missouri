@@ -1,0 +1,77 @@
+{
+  "id": 789953079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.377968,39.070791,-94.377968,39.070791",
+    "geom:latitude":39.070791,
+    "geom:longitude":-94.377968,
+    "iso:country":"US",
+    "sg:address":"2621 State Hwy 291",
+    "sg:city":"Independence",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 478 5177",
+    "sg:postcode":"64057",
+    "sg:province":"MO",
+    "sg:tags":[
+        "automobile",
+        "lubrication"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85816457,
+        102191575,
+        404515661,
+        85633793,
+        85971449,
+        102081227,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0NxEZxHrh6Y4XqqHn2lMDa_39.070791_-94.377968@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462591944,
+    "wof:geomhash":"42cf2f4f35ca6799c7caee8a75ee0635",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081227,
+            "localadmin_id":404515661,
+            "locality_id":85971449,
+            "neighbourhood_id":85816457,
+            "region_id":85688661,
+            "venue_id":789953079
+        }
+    ],
+    "wof:id":789953079,
+    "wof:lastmodified":1462591944,
+    "wof:name":"Jiffy Lube",
+    "wof:parent_id":85816457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "lubrication"
+    ]
+},
+  "bbox": [
+    -94.377968,
+    39.070791,
+    -94.377968,
+    39.070791
+],
+  "geometry": {"coordinates":[-94.377968,39.070791],"type":"Point"}
+}

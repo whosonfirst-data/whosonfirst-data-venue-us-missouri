@@ -1,0 +1,77 @@
+{
+  "id": 773778635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.408338,38.673278,-90.408338,38.673278",
+    "geom:latitude":38.673278,
+    "geom:longitude":-90.408338,
+    "iso:country":"US",
+    "sg:address":"10323 Olive Blvd",
+    "sg:city":"St Louis",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 994 3991",
+    "sg:postcode":"63141",
+    "sg:province":"MO",
+    "sg:tags":[
+        "renting",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85803699,
+        102191575,
+        404517323,
+        85633793,
+        85972315,
+        102086173,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_183rLbVaGDiUd8Zg2NyRL6_38.673278_-90.408338@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462588308,
+    "wof:geomhash":"89854ff55627389dd8ad51c9098c0cc7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086173,
+            "localadmin_id":404517323,
+            "locality_id":85972315,
+            "neighbourhood_id":85803699,
+            "region_id":85688661,
+            "venue_id":773778635
+        }
+    ],
+    "wof:id":773778635,
+    "wof:lastmodified":1462588308,
+    "wof:name":"Enterprise Rent-A-Car",
+    "wof:parent_id":85803699,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -90.408338,
+    38.673278,
+    -90.408338,
+    38.673278
+],
+  "geometry": {"coordinates":[-90.408338,38.673278],"type":"Point"}
+}

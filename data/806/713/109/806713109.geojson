@@ -1,0 +1,71 @@
+{
+  "id": 806713109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.625713,38.801911,-90.625713,38.801911",
+    "geom:latitude":38.801911,
+    "geom:longitude":-90.625713,
+    "iso:country":"US",
+    "sg:address":"115 Main St",
+    "sg:city":"St Peters",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 970 2320",
+    "sg:postcode":"63376",
+    "sg:province":"MO",
+    "sg:tags":[
+        "laboratory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2QwzT64FjfT3YqtmD9oH3K_38.801911_-90.625713@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462600442,
+    "wof:geomhash":"d7152e565ab70cec28f84fc4a7cc2b90",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":806713109
+        }
+    ],
+    "wof:id":806713109,
+    "wof:lastmodified":1462600442,
+    "wof:name":"Sullivan Dental Lab",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory"
+    ]
+},
+  "bbox": [
+    -90.625713,
+    38.801911,
+    -90.625713,
+    38.801911
+],
+  "geometry": {"coordinates":[-90.625713,38.801911],"type":"Point"}
+}

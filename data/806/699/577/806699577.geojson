@@ -1,0 +1,75 @@
+{
+  "id": 806699577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.307139,38.727533,-90.307139,38.727533",
+    "geom:latitude":38.727533,
+    "geom:longitude":-90.307139,
+    "iso:country":"US",
+    "sg:address":"1337 Willingham Dr",
+    "sg:city":"Saint Louis",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 521 1329",
+    "sg:postcode":"63121",
+    "sg:province":"MO",
+    "sg:tags":[
+        "carwash"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85859027,
+        102191575,
+        404517247,
+        85633793,
+        85972205,
+        102086173,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7J2NZaq78nMfSG7Qwewq8u_38.727533_-90.307139@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462600331,
+    "wof:geomhash":"71d4384862e1af43449f43322eb20755",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086173,
+            "localadmin_id":404517247,
+            "locality_id":85972205,
+            "neighbourhood_id":85859027,
+            "region_id":85688661,
+            "venue_id":806699577
+        }
+    ],
+    "wof:id":806699577,
+    "wof:lastmodified":1462600331,
+    "wof:name":"All Around Hand Wash",
+    "wof:parent_id":85859027,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carwash"
+    ]
+},
+  "bbox": [
+    -90.307139,
+    38.727533,
+    -90.307139,
+    38.727533
+],
+  "geometry": {"coordinates":[-90.30713900000001,38.727533],"type":"Point"}
+}

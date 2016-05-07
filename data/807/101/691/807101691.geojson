@@ -1,0 +1,73 @@
+{
+  "id": 807101691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.260917,37.236833,-93.260917,37.236833",
+    "geom:latitude":37.236833,
+    "geom:longitude":-93.260917,
+    "iso:country":"US",
+    "sg:address":"2220 N Glenstone Ave",
+    "sg:city":"Springfield",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/springfield/194341-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"65803",
+    "sg:province":"MO",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971363,
+        102087523,
+        85881137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6klMHyx4f2BgLBupGma1o2_37.237202_-93.261013@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462603751,
+    "wof:geomhash":"6b58917793a511bfa9fb1743e25ead8d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087523,
+            "locality_id":85971363,
+            "neighbourhood_id":85881137,
+            "region_id":85688661,
+            "venue_id":807101691
+        }
+    ],
+    "wof:id":807101691,
+    "wof:lastmodified":1462603751,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85881137,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -93.260917,
+    37.236833,
+    -93.260917,
+    37.236833
+],
+  "geometry": {"coordinates":[-93.26091700000001,37.236833],"type":"Point"}
+}

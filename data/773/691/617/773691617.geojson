@@ -1,0 +1,76 @@
+{
+  "id": 773691617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.361466,38.489412,-90.361466,38.489412",
+    "geom:latitude":38.489412,
+    "geom:longitude":-90.361466,
+    "iso:country":"US",
+    "sg:address":"5004 Kerth Rd",
+    "sg:city":"St Louis",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 892 4047",
+    "sg:postcode":"63128",
+    "sg:province":"MO",
+    "sg:tags":[
+        "inspection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971021,
+        102080787,
+        85832925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_55LAQ97ckFcgn6Pb6tnNAN_38.489412_-90.361466@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462587626,
+    "wof:geomhash":"544ab0d906212c8a025c62114e596fbf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080787,
+            "locality_id":85971021,
+            "neighbourhood_id":85832925,
+            "region_id":85688661,
+            "venue_id":773691617
+        }
+    ],
+    "wof:id":773691617,
+    "wof:lastmodified":1462587626,
+    "wof:name":"Show-ME Home Inspection",
+    "wof:parent_id":85832925,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "inspection"
+    ]
+},
+  "bbox": [
+    -90.361466,
+    38.489412,
+    -90.361466,
+    38.489412
+],
+  "geometry": {"coordinates":[-90.36146599999999,38.489412],"type":"Point"}
+}

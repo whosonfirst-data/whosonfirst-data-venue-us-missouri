@@ -1,0 +1,73 @@
+{
+  "id": 807084319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.660525,39.245733,-94.660525,39.245733",
+    "geom:latitude":39.245733,
+    "geom:longitude":-94.660525,
+    "iso:country":"US",
+    "sg:address":"6830 NW 83rd Ter",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/may/194215-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"64152",
+    "sg:province":"MO",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970739,
+        102085271,
+        85851839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Lg3GtwXr5amc0SWv83uoN_39.245733_-94.660525@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462603569,
+    "wof:geomhash":"0a3b6be8e2a8a236c0661f25a6e545d1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085271,
+            "locality_id":85970739,
+            "neighbourhood_id":85851839,
+            "region_id":85688661,
+            "venue_id":807084319
+        }
+    ],
+    "wof:id":807084319,
+    "wof:lastmodified":1462603569,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85851839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -94.660525,
+    39.245733,
+    -94.660525,
+    39.245733
+],
+  "geometry": {"coordinates":[-94.66052500000001,39.245733],"type":"Point"}
+}

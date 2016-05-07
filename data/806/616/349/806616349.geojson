@@ -1,0 +1,87 @@
+{
+  "id": 806616349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.408577,38.599906,-90.408577,38.599906",
+    "geom:latitude":38.599906,
+    "geom:longitude":-90.408577,
+    "iso:country":"US",
+    "sg:address":"10821 Manchester Rd",
+    "sg:city":"Kirkwood",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Medical Equipment & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 821 7355",
+    "sg:postcode":"63122",
+    "sg:province":"MO",
+    "sg:tags":[
+        "physician",
+        "surgeon",
+        "or",
+        "apparatus"
+    ],
+    "sg:website":"www.stlmedical.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85858243,
+        102191575,
+        404517253,
+        85633793,
+        85972177,
+        102086173,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2aKf7eWURGMZtmXIS56BYP_38.599906_-90.408577@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462599624,
+    "wof:geomhash":"ce261ef72754558f702f8789c98891fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086173,
+            "localadmin_id":404517253,
+            "locality_id":85972177,
+            "neighbourhood_id":85858243,
+            "region_id":85688661,
+            "venue_id":806616349
+        }
+    ],
+    "wof:id":806616349,
+    "wof:lastmodified":1462599624,
+    "wof:name":"St Louis Medical Supply",
+    "wof:parent_id":85858243,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon",
+        "or",
+        "apparatus"
+    ]
+},
+  "bbox": [
+    -90.408577,
+    38.599906,
+    -90.408577,
+    38.599906
+],
+  "geometry": {"coordinates":[-90.40857699999999,38.599906],"type":"Point"}
+}

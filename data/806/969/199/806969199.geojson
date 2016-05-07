@@ -1,0 +1,73 @@
+{
+  "id": 806969199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.640316,38.373955,-90.640316,38.373955",
+    "geom:latitude":38.373955,
+    "geom:longitude":-90.640316,
+    "iso:country":"US",
+    "sg:address":"8880 Silver Ln",
+    "sg:city":"Cedar Hill",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 285 2902",
+    "sg:postcode":"63016",
+    "sg:province":"MO",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85805175,
+        102080787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2EigztnlWkgVPICWA4RWXP_38.373955_-90.640316@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462602604,
+    "wof:geomhash":"84a3294ae67f43218d06d90d3fb8d511",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080787,
+            "neighbourhood_id":85805175,
+            "region_id":85688661,
+            "venue_id":806969199
+        }
+    ],
+    "wof:id":806969199,
+    "wof:lastmodified":1462602604,
+    "wof:name":"S & E Auto Repair",
+    "wof:parent_id":85805175,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -90.640316,
+    38.373955,
+    -90.640316,
+    38.373955
+],
+  "geometry": {"coordinates":[-90.640316,38.373955],"type":"Point"}
+}

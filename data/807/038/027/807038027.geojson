@@ -1,0 +1,83 @@
+{
+  "id": 807038027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.279958,38.77189,-90.279958,38.77189",
+    "geom:latitude":38.77189,
+    "geom:longitude":-90.279958,
+    "iso:country":"US",
+    "sg:address":"11256 W Florissant Ave",
+    "sg:city":"Florissant",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Discount & Variety Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 972 1975",
+    "sg:postcode":"63033",
+    "sg:province":"MO",
+    "sg:tags":[
+        "shop",
+        "merchandise"
+    ],
+    "sg:website":"http://www.dollartree.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85813019,
+        102191575,
+        404517467,
+        85633793,
+        85972639,
+        102086173,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5FNcpgarqkb5EpXZjstIWf_38.772172_-90.279881@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1462603187,
+    "wof:geomhash":"1c4a4db3956fa18e9a0de3f9af4f828d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086173,
+            "localadmin_id":404517467,
+            "locality_id":85972639,
+            "neighbourhood_id":85813019,
+            "region_id":85688661,
+            "venue_id":807038027
+        }
+    ],
+    "wof:id":807038027,
+    "wof:lastmodified":1462603187,
+    "wof:name":"Dollar Tree",
+    "wof:parent_id":85813019,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "merchandise"
+    ]
+},
+  "bbox": [
+    -90.279958,
+    38.77189,
+    -90.279958,
+    38.77189
+],
+  "geometry": {"coordinates":[-90.27995799999999,38.77189],"type":"Point"}
+}

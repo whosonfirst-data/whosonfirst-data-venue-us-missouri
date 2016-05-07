@@ -1,0 +1,71 @@
+{
+  "id": 790172179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.624319,38.788323,-90.624319,38.788323",
+    "geom:latitude":38.788323,
+    "geom:longitude":-90.624319,
+    "iso:country":"US",
+    "sg:address":"7040 Mexico Rd",
+    "sg:city":"Saint Peters",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 397 8115",
+    "sg:postcode":"63376",
+    "sg:province":"MO",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6JaxrUEDzxKNnpUiM2Crxa_38.788323_-90.624319@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462593712,
+    "wof:geomhash":"34a90a3e01940df4e5a87181c0d7ff47",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":790172179
+        }
+    ],
+    "wof:id":790172179,
+    "wof:lastmodified":1462593712,
+    "wof:name":"Saint Charles Orthopaedic Surg",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -90.624319,
+    38.788323,
+    -90.624319,
+    38.788323
+],
+  "geometry": {"coordinates":[-90.624319,38.788323],"type":"Point"}
+}

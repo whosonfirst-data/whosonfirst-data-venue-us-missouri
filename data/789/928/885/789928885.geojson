@@ -1,0 +1,76 @@
+{
+  "id": 789928885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.177872,37.183334,-93.177872,37.183334",
+    "geom:latitude":37.183334,
+    "geom:longitude":-93.177872,
+    "iso:country":"US",
+    "sg:address":"1449 Jameston",
+    "sg:city":"Springfield",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 849 3202",
+    "sg:postcode":"65809",
+    "sg:province":"MO",
+    "sg:tags":[
+        "telecommunication"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971363,
+        102087523,
+        85881121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1FmAoCWVmYfSkFMtQeybLb_37.183334_-93.177872@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462591703,
+    "wof:geomhash":"bc0b92e4113e18632f14fe34f71eee57",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087523,
+            "locality_id":85971363,
+            "neighbourhood_id":85881121,
+            "region_id":85688661,
+            "venue_id":789928885
+        }
+    ],
+    "wof:id":789928885,
+    "wof:lastmodified":1462591703,
+    "wof:name":"Morrison Telecommunications",
+    "wof:parent_id":85881121,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "telecommunication"
+    ]
+},
+  "bbox": [
+    -93.177872,
+    37.183334,
+    -93.177872,
+    37.183334
+],
+  "geometry": {"coordinates":[-93.17787199999999,37.183334],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 806411161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.737124,38.790018,-90.737124,38.790018",
+    "geom:latitude":38.790018,
+    "geom:longitude":-90.737124,
+    "iso:country":"US",
+    "sg:address":"1334 Sunburst Dr",
+    "sg:city":"O Fallon",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 272 3503",
+    "sg:postcode":"63366",
+    "sg:province":"MO",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5VsuKXJAV6srIWZH6rwLvr_38.790018_-90.737124@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462597938,
+    "wof:geomhash":"c7273601d8eaa6bf01bfbcc1805f9341",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":806411161
+        }
+    ],
+    "wof:id":806411161,
+    "wof:lastmodified":1462597938,
+    "wof:name":"Smile Design Dental Ctr",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -90.737124,
+    38.790018,
+    -90.737124,
+    38.790018
+],
+  "geometry": {"coordinates":[-90.73712399999999,38.790018],"type":"Point"}
+}

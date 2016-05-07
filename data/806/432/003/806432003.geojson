@@ -1,0 +1,71 @@
+{
+  "id": 806432003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.31325,37.151357,-93.31325,37.151357",
+    "geom:latitude":37.151357,
+    "geom:longitude":-93.31325,
+    "iso:country":"US",
+    "sg:address":"3519 S Westwood Ave",
+    "sg:city":"Springfield",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Motor Vehicles & Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 872 7537",
+    "sg:postcode":"65807",
+    "sg:province":"MO",
+    "sg:tags":[
+        "trailer",
+        "custom"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85881151,
+        102087523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_57VaCFKmbhklPZxBZAg5ff_37.151357_-93.313250@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462598102,
+    "wof:geomhash":"bdcd26fa8badd82007f7bf68fc7832ac",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087523,
+            "neighbourhood_id":85881151,
+            "region_id":85688661,
+            "venue_id":806432003
+        }
+    ],
+    "wof:id":806432003,
+    "wof:lastmodified":1462598102,
+    "wof:name":"Trailers By Design",
+    "wof:parent_id":85881151,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trailer",
+        "custom"
+    ]
+},
+  "bbox": [
+    -93.31325,
+    37.151357,
+    -93.31325,
+    37.151357
+],
+  "geometry": {"coordinates":[-93.31325,37.151357],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 790400667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.3855,38.39492,-90.3855,38.39492",
+    "geom:latitude":38.39492,
+    "geom:longitude":-90.3855,
+    "iso:country":"US",
+    "sg:address":"1591 Miller Rd",
+    "sg:city":"Imperial",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 464 4140",
+    "sg:postcode":"63052",
+    "sg:province":"MO",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85805175,
+        102080787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6rF7dBIu6EaXivZi8y91Ug_38.394920_-90.385500@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462595539,
+    "wof:geomhash":"a46905fc8d3233f290bbdd3299e64a27",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080787,
+            "neighbourhood_id":85805175,
+            "region_id":85688661,
+            "venue_id":790400667
+        }
+    ],
+    "wof:id":790400667,
+    "wof:lastmodified":1462595539,
+    "wof:name":"Body-Works Co",
+    "wof:parent_id":85805175,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -90.3855,
+    38.39492,
+    -90.3855,
+    38.39492
+],
+  "geometry": {"coordinates":[-90.38549999999999,38.39492],"type":"Point"}
+}

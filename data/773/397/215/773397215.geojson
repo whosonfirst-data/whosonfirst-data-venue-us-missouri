@@ -1,0 +1,83 @@
+{
+  "id": 773397215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.575886,38.665958,-90.575886,38.665958",
+    "geom:latitude":38.665958,
+    "geom:longitude":-90.575886,
+    "iso:country":"US",
+    "sg:address":"16640 Chesterfield Grove Rd",
+    "sg:city":"Chesterfield",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Developer",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 728 2700",
+    "sg:postcode":"63005",
+    "sg:province":"MO",
+    "sg:tags":[
+        "leasing",
+        "rental"
+    ],
+    "sg:website":"www.regencycenters.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85805465,
+        102191575,
+        404517241,
+        85633793,
+        85972357,
+        102086173,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Qseb1jkNTETTGvIKUTJB8_38.665958_-90.575886@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462585379,
+    "wof:geomhash":"a3ba69b9f2e5492ffe2747eaf20476b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086173,
+            "localadmin_id":404517241,
+            "locality_id":85972357,
+            "neighbourhood_id":85805465,
+            "region_id":85688661,
+            "venue_id":773397215
+        }
+    ],
+    "wof:id":773397215,
+    "wof:lastmodified":1462585379,
+    "wof:name":"Regency Centers Corporation",
+    "wof:parent_id":85805465,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "leasing",
+        "rental"
+    ]
+},
+  "bbox": [
+    -90.575886,
+    38.665958,
+    -90.575886,
+    38.665958
+],
+  "geometry": {"coordinates":[-90.575886,38.665958],"type":"Point"}
+}

@@ -1,0 +1,87 @@
+{
+  "id": 807190177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.511879,37.878421,-90.511879,37.878421",
+    "geom:latitude":37.878421,
+    "geom:longitude":-90.511879,
+    "iso:country":"US",
+    "sg:address":"334 N State St Ste E",
+    "sg:city":"Desloge",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Fuel Oil & Lpg",
+            "type":"Services"
+        },
+        {
+            "category":"Utilities",
+            "subcategory":"Natural Gas",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 431 4518",
+    "sg:postcode":"63601",
+    "sg:province":"MO",
+    "sg:tags":[
+        "propane",
+        "bulk",
+        "petroleum-bottled",
+        "gas-liquefied"
+    ],
+    "sg:website":"http://www.ferrellgas.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420525419,
+        102191575,
+        404517197,
+        85633793,
+        85970625,
+        102085297,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_074Kwnq0GwwO92agTxL1J6_37.878421_-90.511879@1303262931"
+    },
+    "wof:country":"US",
+    "wof:created":1462604691,
+    "wof:geomhash":"496e0b65a59c13219c60a2eb48c942d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085297,
+            "localadmin_id":404517197,
+            "locality_id":85970625,
+            "neighbourhood_id":420525419,
+            "region_id":85688661,
+            "venue_id":807190177
+        }
+    ],
+    "wof:id":807190177,
+    "wof:lastmodified":1462604691,
+    "wof:name":"Ferrellgas",
+    "wof:parent_id":420525419,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "propane",
+        "bulk",
+        "petroleum-bottled",
+        "gas-liquefied"
+    ]
+},
+  "bbox": [
+    -90.511879,
+    37.878421,
+    -90.511879,
+    37.878421
+],
+  "geometry": {"coordinates":[-90.51187899999999,37.878421],"type":"Point"}
+}

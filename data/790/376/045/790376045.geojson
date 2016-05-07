@@ -1,0 +1,69 @@
+{
+  "id": 790376045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.560841,38.234253,-90.560841,38.234253",
+    "geom:latitude":38.234253,
+    "geom:longitude":-90.560841,
+    "iso:country":"US",
+    "sg:address":"120 5th St",
+    "sg:city":"Hillsboro",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 797 3619",
+    "sg:postcode":"63050",
+    "sg:province":"MO",
+    "sg:tags":[
+        "dept"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85848677,
+        102080787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_23cF0NSZ6PsExV2cq5ZuoZ_38.234253_-90.560841@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462595354,
+    "wof:geomhash":"67b2ba01f9480f1e35d761eb362f413a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080787,
+            "neighbourhood_id":85848677,
+            "region_id":85688661,
+            "venue_id":790376045
+        }
+    ],
+    "wof:id":790376045,
+    "wof:lastmodified":1462595354,
+    "wof:name":"Hillsboro Fire Protection Dst",
+    "wof:parent_id":85848677,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dept"
+    ]
+},
+  "bbox": [
+    -90.560841,
+    38.234253,
+    -90.560841,
+    38.234253
+],
+  "geometry": {"coordinates":[-90.560841,38.234253],"type":"Point"}
+}

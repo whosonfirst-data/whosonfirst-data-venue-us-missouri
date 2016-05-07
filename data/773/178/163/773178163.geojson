@@ -1,0 +1,71 @@
+{
+  "id": 773178163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.586087,38.799993,-90.586087,38.799993",
+    "geom:latitude":38.799993,
+    "geom:longitude":-90.586087,
+    "iso:country":"US",
+    "sg:address":"16 Cherokee Dr",
+    "sg:city":"St Peters",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 928 1898",
+    "sg:postcode":"63376",
+    "sg:province":"MO",
+    "sg:tags":[
+        "engine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5q2ffKJcROfH1JSsWO61Ga_38.799993_-90.586087@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462583723,
+    "wof:geomhash":"d839cbeda89069ae78141b36ad5a8e99",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":773178163
+        }
+    ],
+    "wof:id":773178163,
+    "wof:lastmodified":1462583723,
+    "wof:name":"Taylor Diesel Of St Peters",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "engine"
+    ]
+},
+  "bbox": [
+    -90.586087,
+    38.799993,
+    -90.586087,
+    38.799993
+],
+  "geometry": {"coordinates":[-90.58608700000001,38.799993],"type":"Point"}
+}

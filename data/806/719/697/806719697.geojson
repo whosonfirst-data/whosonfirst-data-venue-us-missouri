@@ -1,0 +1,75 @@
+{
+  "id": 806719697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.723848,38.809265,-90.723848,38.809265",
+    "geom:latitude":38.809265,
+    "geom:longitude":-90.723848,
+    "iso:country":"US",
+    "sg:address":"14 Elaine Dr",
+    "sg:city":"O Fallon",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 272 1110",
+    "sg:postcode":"63366",
+    "sg:province":"MO",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5oFOWoZscUcC8kCovtNn9m_38.809265_-90.723848@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462600498,
+    "wof:geomhash":"2a869d88286210f5766c2b0b0626c379",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":806719697
+        }
+    ],
+    "wof:id":806719697,
+    "wof:lastmodified":1462600498,
+    "wof:name":"Sig's Automotive",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ]
+},
+  "bbox": [
+    -90.723848,
+    38.809265,
+    -90.723848,
+    38.809265
+],
+  "geometry": {"coordinates":[-90.723848,38.809265],"type":"Point"}
+}

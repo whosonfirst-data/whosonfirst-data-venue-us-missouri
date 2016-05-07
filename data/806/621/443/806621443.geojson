@@ -1,0 +1,81 @@
+{
+  "id": 806621443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.272,38.710153,-90.272,38.710153",
+    "geom:latitude":38.710153,
+    "geom:longitude":-90.272,
+    "iso:country":"US",
+    "sg:address":"7044 Garesche Ave",
+    "sg:city":"St Louis",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 382 8780",
+    "sg:postcode":"63136",
+    "sg:province":"MO",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420525467,
+        102191575,
+        404515929,
+        85633793,
+        85972271,
+        102086173,
+        85688661,
+        420525437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_00XRdI2zMfsOk96Q7op9WN_38.710153_-90.272000@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462599664,
+    "wof:geomhash":"cdec678cd7e38d3accac941c5ce55c8a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086173,
+            "localadmin_id":404515929,
+            "locality_id":85972271,
+            "neighbourhood_id":420525467,
+            "region_id":85688661,
+            "venue_id":806621443
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086173,
+            "localadmin_id":404515929,
+            "locality_id":85972271,
+            "neighbourhood_id":420525437,
+            "region_id":85688661,
+            "venue_id":806621443
+        }
+    ],
+    "wof:id":806621443,
+    "wof:lastmodified":1462599664,
+    "wof:name":"Bingham's Day Care",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.272,
+    38.710153,
+    -90.272,
+    38.710153
+],
+  "geometry": {"coordinates":[-90.27200000000001,38.710153],"type":"Point"}
+}

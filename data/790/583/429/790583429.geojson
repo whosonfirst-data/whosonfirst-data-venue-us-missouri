@@ -1,0 +1,71 @@
+{
+  "id": 790583429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.536286,39.794251,-91.536286,39.794251",
+    "geom:latitude":39.794251,
+    "geom:longitude":-91.536286,
+    "iso:country":"US",
+    "sg:address":"1205 W Ross St",
+    "sg:city":"Palmyra",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 769 2611",
+    "sg:postcode":"63461",
+    "sg:province":"MO",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688697,
+        85633793,
+        85938427,
+        102086213,
+        85867477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1wNuv4s4ULEQ6QQVFDceOO_39.794251_-91.536286@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462597068,
+    "wof:geomhash":"e06dea553497d8243dda9c2b2ff493d4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086213,
+            "locality_id":85938427,
+            "neighbourhood_id":85867477,
+            "region_id":85688697,
+            "venue_id":790583429
+        }
+    ],
+    "wof:id":790583429,
+    "wof:lastmodified":1462597068,
+    "wof:name":"Agri-Med Veterinary Clinic Inc",
+    "wof:parent_id":85867477,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -91.536286,
+    39.794251,
+    -91.536286,
+    39.794251
+],
+  "geometry": {"coordinates":[-91.536286,39.794251],"type":"Point"}
+}

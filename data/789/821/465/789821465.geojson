@@ -1,0 +1,80 @@
+{
+  "id": 789821465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.39097,38.199728,-90.39097,38.199728",
+    "geom:latitude":38.199728,
+    "geom:longitude":-90.39097,
+    "iso:country":"US",
+    "sg:address":"35 Goodwin Dr",
+    "sg:city":"Festus",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 937 5111",
+    "sg:postcode":"63028",
+    "sg:province":"MO",
+    "sg:tags":[
+        "medical",
+        "treatment",
+        "cancer",
+        "center"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85848677,
+        102080787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7YQZgXRVmhG9rqEqDUyXG1_38.199728_-90.390970@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462590799,
+    "wof:geomhash":"4ea7aeb88033dc3d2d6b8cccabad546f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080787,
+            "neighbourhood_id":85848677,
+            "region_id":85688661,
+            "venue_id":789821465
+        }
+    ],
+    "wof:id":789821465,
+    "wof:lastmodified":1462590799,
+    "wof:name":"Jefferson County Cancer Center",
+    "wof:parent_id":85848677,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical",
+        "treatment",
+        "cancer",
+        "center"
+    ]
+},
+  "bbox": [
+    -90.39097,
+    38.199728,
+    -90.39097,
+    38.199728
+],
+  "geometry": {"coordinates":[-90.39097,38.199728],"type":"Point"}
+}

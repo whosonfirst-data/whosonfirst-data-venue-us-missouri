@@ -1,0 +1,71 @@
+{
+  "id": 806644173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.81103,38.805251,-90.81103,38.805251",
+    "geom:latitude":38.805251,
+    "geom:longitude":-90.81103,
+    "iso:country":"US",
+    "sg:address":"12500 Veterans Memorial Pkwy",
+    "sg:city":"Wentzville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 327 7070",
+    "sg:postcode":"63385",
+    "sg:province":"MO",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ADjqyXiBadoKFpGS5I8Ae_38.805251_-90.811030@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462599853,
+    "wof:geomhash":"64f2c4689f007921c451d2b05e66d5f5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":806644173
+        }
+    ],
+    "wof:id":806644173,
+    "wof:lastmodified":1462599853,
+    "wof:name":"A 70 Veterinary Hospital",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -90.81103,
+    38.805251,
+    -90.81103,
+    38.805251
+],
+  "geometry": {"coordinates":[-90.81103,38.805251],"type":"Point"}
+}

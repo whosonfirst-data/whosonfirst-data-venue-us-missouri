@@ -1,0 +1,79 @@
+{
+  "id": 807114863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.438889,38.513334,-90.438889,38.513334",
+    "geom:latitude":38.513334,
+    "geom:longitude":-90.438889,
+    "iso:country":"US",
+    "sg:address":"540 Gravois Rd",
+    "sg:city":"Fenton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 343 6202",
+    "sg:postcode":"63026",
+    "sg:province":"MO",
+    "sg:tags":[
+        "clinic",
+        "veterinarian",
+        "hospital"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85858661,
+        102191575,
+        404517203,
+        85633793,
+        85972289,
+        102086173,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1bKYopo6GlfAfBqvGmsfOB_38.513334_-90.438889@1303262925"
+    },
+    "wof:country":"US",
+    "wof:created":1462603888,
+    "wof:geomhash":"abfa1109b2bf6cb368dd33e9a2d95e19",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086173,
+            "localadmin_id":404517203,
+            "locality_id":85972289,
+            "neighbourhood_id":85858661,
+            "region_id":85688661,
+            "venue_id":807114863
+        }
+    ],
+    "wof:id":807114863,
+    "wof:lastmodified":1462603888,
+    "wof:name":"Fenton Olde Towne Veterinary Hospital",
+    "wof:parent_id":85858661,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic",
+        "veterinarian",
+        "hospital"
+    ]
+},
+  "bbox": [
+    -90.438889,
+    38.513334,
+    -90.438889,
+    38.513334
+],
+  "geometry": {"coordinates":[-90.438889,38.513334],"type":"Point"}
+}

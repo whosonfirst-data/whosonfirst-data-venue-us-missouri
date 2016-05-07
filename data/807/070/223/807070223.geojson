@@ -1,0 +1,74 @@
+{
+  "id": 807070223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.557609,38.799692,-90.557609,38.799692",
+    "geom:latitude":38.799692,
+    "geom:longitude":-90.557609,
+    "iso:country":"US",
+    "sg:address":"3601 Harry S Truman Blvd",
+    "sg:city":"Saint Charles",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/lindenwood/225688-caseys-general-store/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 949 2037",
+    "sg:postcode":"63301",
+    "sg:province":"MO",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0eiI5ndb7pNfRARKEko0tq_38.799692_-90.557609@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462603447,
+    "wof:geomhash":"4bdfb034d7e8b0f64ba2720ef5788fc7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":807070223
+        }
+    ],
+    "wof:id":807070223,
+    "wof:lastmodified":1462603447,
+    "wof:name":"Casey's General Store",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -90.557609,
+    38.799692,
+    -90.557609,
+    38.799692
+],
+  "geometry": {"coordinates":[-90.557609,38.799692],"type":"Point"}
+}

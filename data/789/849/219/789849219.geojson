@@ -1,0 +1,71 @@
+{
+  "id": 789849219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.726906,38.803904,-90.726906,38.803904",
+    "geom:latitude":38.803904,
+    "geom:longitude":-90.726906,
+    "iso:country":"US",
+    "sg:address":"3 N Central Dr",
+    "sg:city":"O Fallon",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 240 4011",
+    "sg:postcode":"63366",
+    "sg:province":"MO",
+    "sg:tags":[
+        "truck"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_23UgfWnGAhzZw0EmC6wgFt_38.803904_-90.726906@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462591021,
+    "wof:geomhash":"03317e7335e2c360f8a60b1e9362d30f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":789849219
+        }
+    ],
+    "wof:id":789849219,
+    "wof:lastmodified":1462591021,
+    "wof:name":"PacLease",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck"
+    ]
+},
+  "bbox": [
+    -90.726906,
+    38.803904,
+    -90.726906,
+    38.803904
+],
+  "geometry": {"coordinates":[-90.726906,38.803904],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 789995105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.571523,39.289777,-94.571523,39.289777",
+    "geom:latitude":39.289777,
+    "geom:longitude":-94.571523,
+    "iso:country":"US",
+    "sg:address":"10624 N Holmes St",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 918 0333",
+    "sg:postcode":"64155",
+    "sg:province":"MO",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970739,
+        102086177,
+        85836329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ZuwddoPcwszfOhktLEPa9_39.289777_-94.571523@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462592289,
+    "wof:geomhash":"89170a99366b8162f02131d60d3a5552",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086177,
+            "locality_id":85970739,
+            "neighbourhood_id":85836329,
+            "region_id":85688661,
+            "venue_id":789995105
+        }
+    ],
+    "wof:id":789995105,
+    "wof:lastmodified":1462592289,
+    "wof:name":"Majestic Cleaning",
+    "wof:parent_id":85836329,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -94.571523,
+    39.289777,
+    -94.571523,
+    39.289777
+],
+  "geometry": {"coordinates":[-94.571523,39.289777],"type":"Point"}
+}

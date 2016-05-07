@@ -1,0 +1,73 @@
+{
+  "id": 790102799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.4848,38.78653,-90.4848,38.78653",
+    "geom:latitude":38.78653,
+    "geom:longitude":-90.4848,
+    "iso:country":"US",
+    "sg:address":"501 Clark St",
+    "sg:city":"Saint Charles",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 949 5100",
+    "sg:postcode":"63301",
+    "sg:province":"MO",
+    "sg:tags":[
+        "security",
+        "loan"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5lLbjHnbU86ZeeTDBVIdN5_38.786530_-90.484800@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462593162,
+    "wof:geomhash":"427a645e28f95ef1158201727af518cb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":790102799
+        }
+    ],
+    "wof:id":790102799,
+    "wof:lastmodified":1462593162,
+    "wof:name":"Dean Witter",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "security",
+        "loan"
+    ]
+},
+  "bbox": [
+    -90.4848,
+    38.78653,
+    -90.4848,
+    38.78653
+],
+  "geometry": {"coordinates":[-90.48480000000001,38.78653],"type":"Point"}
+}

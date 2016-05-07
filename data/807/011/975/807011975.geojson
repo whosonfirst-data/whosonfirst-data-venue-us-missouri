@@ -1,0 +1,79 @@
+{
+  "id": 807011975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.229103,38.654999,-90.229103,38.654999",
+    "geom:latitude":38.654999,
+    "geom:longitude":-90.229103,
+    "iso:country":"US",
+    "sg:address":"2525 N Vandeventer Ave",
+    "sg:city":"Saint Louis",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 652 8588",
+    "sg:postcode":"63113",
+    "sg:province":"MO",
+    "sg:tags":[
+        "automotive",
+        "wrecker",
+        "towing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420525481,
+        102191575,
+        404518053,
+        85633793,
+        85971343,
+        102080791,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2CTeATDWGIybT70AynIum6_38.655036_-90.228941@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1462602960,
+    "wof:geomhash":"77bf2365816707ba0087558c165d778d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080791,
+            "localadmin_id":404518053,
+            "locality_id":85971343,
+            "neighbourhood_id":420525481,
+            "region_id":85688661,
+            "venue_id":807011975
+        }
+    ],
+    "wof:id":807011975,
+    "wof:lastmodified":1462602960,
+    "wof:name":"Buck's Towing",
+    "wof:parent_id":420525481,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive",
+        "wrecker",
+        "towing"
+    ]
+},
+  "bbox": [
+    -90.229103,
+    38.654999,
+    -90.229103,
+    38.654999
+],
+  "geometry": {"coordinates":[-90.22910299999999,38.654999],"type":"Point"}
+}

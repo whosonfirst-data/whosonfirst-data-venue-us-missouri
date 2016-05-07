@@ -1,0 +1,87 @@
+{
+  "id": 807113803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.6398,38.506384,-90.6398,38.506384",
+    "geom:latitude":38.506384,
+    "geom:longitude":-90.6398,
+    "iso:country":"US",
+    "sg:address":"107 Hilltop Village Center Dr",
+    "sg:city":"Eureka",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 938 3944",
+    "sg:postcode":"63025",
+    "sg:province":"MO",
+    "sg:tags":[
+        "hair",
+        "accessory",
+        "stylist",
+        "supply"
+    ],
+    "sg:website":"http://www.greatclips.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85809151,
+        102191575,
+        404517383,
+        85633793,
+        85972199,
+        102086173,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0FsUyoachPYjjokdE4NYi2_38.506384_-90.639800@1303262925"
+    },
+    "wof:country":"US",
+    "wof:created":1462603877,
+    "wof:geomhash":"1ed3b916ea3bdab4495d30939c927487",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086173,
+            "localadmin_id":404517383,
+            "locality_id":85972199,
+            "neighbourhood_id":85809151,
+            "region_id":85688661,
+            "venue_id":807113803
+        }
+    ],
+    "wof:id":807113803,
+    "wof:lastmodified":1462603877,
+    "wof:name":"Great Clips",
+    "wof:parent_id":85809151,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hair",
+        "accessory",
+        "stylist",
+        "supply"
+    ]
+},
+  "bbox": [
+    -90.6398,
+    38.506384,
+    -90.6398,
+    38.506384
+],
+  "geometry": {"coordinates":[-90.63979999999999,38.506384],"type":"Point"}
+}

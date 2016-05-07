@@ -1,0 +1,78 @@
+{
+  "id": 807018295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.252998,38.5704,-90.252998,38.5704",
+    "geom:latitude":38.5704,
+    "geom:longitude":-90.252998,
+    "iso:country":"US",
+    "sg:address":"5400 S Grand Blvd",
+    "sg:city":"Saint Louis",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 353 0202",
+    "sg:postcode":"63111",
+    "sg:province":"MO",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "sg:website":"www.ribaudosautorepair.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873701,
+        102191575,
+        404518053,
+        85633793,
+        85971343,
+        102080791,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2zomCShV2hK3dmEJ2FWmwj_38.569813_-90.253290@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1462603015,
+    "wof:geomhash":"25f290f9b7c55808bc6dcb41d4735707",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080791,
+            "localadmin_id":404518053,
+            "locality_id":85971343,
+            "neighbourhood_id":85873701,
+            "region_id":85688661,
+            "venue_id":807018295
+        }
+    ],
+    "wof:id":807018295,
+    "wof:lastmodified":1462603015,
+    "wof:name":"Ribaudo's Auto Repair",
+    "wof:parent_id":85873701,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -90.252998,
+    38.5704,
+    -90.252998,
+    38.5704
+],
+  "geometry": {"coordinates":[-90.25299800000001,38.5704],"type":"Point"}
+}

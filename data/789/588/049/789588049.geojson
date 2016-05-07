@@ -1,0 +1,79 @@
+{
+  "id": 789588049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.360233,38.71236,-90.360233,38.71236",
+    "geom:latitude":38.71236,
+    "geom:longitude":-90.360233,
+    "iso:country":"US",
+    "sg:address":"3108 Woodson Rd",
+    "sg:city":"Overland",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 423 5202",
+    "sg:postcode":"63114",
+    "sg:province":"MO",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85847351,
+        102191575,
+        404517201,
+        85633793,
+        85972285,
+        102086173,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0dPVYihRvZp5mTejUj1rJJ_38.712360_-90.360233@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462588971,
+    "wof:geomhash":"853390f500d1ada06fce33adbcddc3e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086173,
+            "localadmin_id":404517201,
+            "locality_id":85972285,
+            "neighbourhood_id":85847351,
+            "region_id":85688661,
+            "venue_id":789588049
+        }
+    ],
+    "wof:id":789588049,
+    "wof:lastmodified":1462588971,
+    "wof:name":"Parker's Auto Repair",
+    "wof:parent_id":85847351,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ]
+},
+  "bbox": [
+    -90.360233,
+    38.71236,
+    -90.360233,
+    38.71236
+],
+  "geometry": {"coordinates":[-90.36023299999999,38.71236],"type":"Point"}
+}

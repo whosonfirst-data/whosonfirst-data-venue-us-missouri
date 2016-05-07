@@ -1,0 +1,73 @@
+{
+  "id": 789611983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.52187,36.79974,-94.52187,36.79974",
+    "geom:latitude":36.79974,
+    "geom:longitude":-94.52187,
+    "iso:country":"US",
+    "sg:address":"19786 State Hwy Y",
+    "sg:city":"Seneca",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 776 8149",
+    "sg:postcode":"64865",
+    "sg:province":"MO",
+    "sg:tags":[
+        "hauling",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971289,
+        102087471,
+        85814333
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Zozq6Z15Y00dbXSoU13pd_36.799740_-94.521870@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462589151,
+    "wof:geomhash":"412a528648fc4ef307ba96d00b621787",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087471,
+            "locality_id":85971289,
+            "neighbourhood_id":85814333,
+            "region_id":85688661,
+            "venue_id":789611983
+        }
+    ],
+    "wof:id":789611983,
+    "wof:lastmodified":1462589151,
+    "wof:name":"S & B Transport",
+    "wof:parent_id":85814333,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hauling",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -94.52187,
+    36.79974,
+    -94.52187,
+    36.79974
+],
+  "geometry": {"coordinates":[-94.52187000000001,36.79974],"type":"Point"}
+}

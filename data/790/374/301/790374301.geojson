@@ -1,0 +1,71 @@
+{
+  "id": 790374301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.418698,37.779363,-90.418698,37.779363",
+    "geom:latitude":37.779363,
+    "geom:longitude":-90.418698,
+    "iso:country":"US",
+    "sg:address":"228 E Harrison St",
+    "sg:city":"Farmington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 756 6955",
+    "sg:postcode":"63640",
+    "sg:province":"MO",
+    "sg:tags":[
+        "transmission"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970665,
+        102085297,
+        85816309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3TpE3GcD7coaAeEqvK7S5l_37.779363_-90.418698@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462595342,
+    "wof:geomhash":"23b0bf0407a20016e23f5ee3acae5c5e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085297,
+            "locality_id":85970665,
+            "neighbourhood_id":85816309,
+            "region_id":85688661,
+            "venue_id":790374301
+        }
+    ],
+    "wof:id":790374301,
+    "wof:lastmodified":1462595342,
+    "wof:name":"One Stop Muffler & Brake Shop",
+    "wof:parent_id":85816309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission"
+    ]
+},
+  "bbox": [
+    -90.418698,
+    37.779363,
+    -90.418698,
+    37.779363
+],
+  "geometry": {"coordinates":[-90.41869800000001,37.779363],"type":"Point"}
+}

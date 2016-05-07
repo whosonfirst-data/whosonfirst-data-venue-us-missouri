@@ -1,0 +1,71 @@
+{
+  "id": 789861299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.497539,38.806788,-90.497539,38.806788",
+    "geom:latitude":38.806788,
+    "geom:longitude":-90.497539,
+    "iso:country":"US",
+    "sg:address":"3009 Sherwood Ln",
+    "sg:city":"Saint Charles",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 949 9445",
+    "sg:postcode":"63301",
+    "sg:province":"MO",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7kF9OeM48Y1WuwvBcDi40C_38.806788_-90.497539@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462591117,
+    "wof:geomhash":"a6257822ee217ba768440b8dff13344a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":789861299
+        }
+    ],
+    "wof:id":789861299,
+    "wof:lastmodified":1462591117,
+    "wof:name":"Jeffs Automotive",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -90.497539,
+    38.806788,
+    -90.497539,
+    38.806788
+],
+  "geometry": {"coordinates":[-90.497539,38.806788],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 806615155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.263818,37.950067,-92.263818,37.950067",
+    "geom:latitude":37.950067,
+    "geom:longitude":-92.263818,
+    "iso:country":"US",
+    "sg:address":"101 N Commercial St",
+    "sg:city":"Crocker",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 736 2422",
+    "sg:postcode":"65452",
+    "sg:province":"MO",
+    "sg:tags":[
+        "clinic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85822351,
+        102191575,
+        404517689,
+        85633793,
+        85971093,
+        102086161,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7NSyCi0eVcLfsHtmJRolCH_37.950067_-92.263818@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462599607,
+    "wof:geomhash":"ff4254ad1a84204455031c605276c99e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086161,
+            "localadmin_id":404517689,
+            "locality_id":85971093,
+            "neighbourhood_id":85822351,
+            "region_id":85688661,
+            "venue_id":806615155
+        }
+    ],
+    "wof:id":806615155,
+    "wof:lastmodified":1462599607,
+    "wof:name":"Crocker Medical Ctr",
+    "wof:parent_id":85822351,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic"
+    ]
+},
+  "bbox": [
+    -92.263818,
+    37.950067,
+    -92.263818,
+    37.950067
+],
+  "geometry": {"coordinates":[-92.263818,37.950067],"type":"Point"}
+}

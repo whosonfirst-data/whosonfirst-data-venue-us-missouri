@@ -1,0 +1,76 @@
+{
+  "id": 807077789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.370465,39.048447,-94.370465,39.048447",
+    "geom:latitude":39.048447,
+    "geom:longitude":-94.370465,
+    "iso:country":"US",
+    "sg:address":"17620 E 39th St S",
+    "sg:city":"Independence",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/blue/41788-bob-evans/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 350 0525",
+    "sg:postcode":"64055",
+    "sg:province":"MO",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85847737,
+        102191575,
+        404518081,
+        85633793,
+        85971453,
+        102081227,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0mmpwmPICawV7s0frAN8GC_39.048447_-94.370465@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462603515,
+    "wof:geomhash":"b82dfcabedb15597aceb20a73b43f799",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081227,
+            "localadmin_id":404518081,
+            "locality_id":85971453,
+            "neighbourhood_id":85847737,
+            "region_id":85688661,
+            "venue_id":807077789
+        }
+    ],
+    "wof:id":807077789,
+    "wof:lastmodified":1462603515,
+    "wof:name":"Bob Evans",
+    "wof:parent_id":85847737,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -94.370465,
+    39.048447,
+    -94.370465,
+    39.048447
+],
+  "geometry": {"coordinates":[-94.370465,39.048447],"type":"Point"}
+}

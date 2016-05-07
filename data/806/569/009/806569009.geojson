@@ -1,0 +1,73 @@
+{
+  "id": 806569009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.53375,37.128717,-94.53375,37.128717",
+    "geom:latitude":37.128717,
+    "geom:longitude":-94.53375,
+    "iso:country":"US",
+    "sg:address":"3980 N Eli Ln",
+    "sg:city":"Joplin",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 626 0077",
+    "sg:postcode":"64801",
+    "sg:province":"MO",
+    "sg:tags":[
+        "excavation",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970893,
+        102087525,
+        85810925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4DJ3hbewl0lQ5P6naf5InT_37.128717_-94.533750@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462599197,
+    "wof:geomhash":"42f019d86aa03d0e0b1fbad19af087bd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087525,
+            "locality_id":85970893,
+            "neighbourhood_id":85810925,
+            "region_id":85688661,
+            "venue_id":806569009
+        }
+    ],
+    "wof:id":806569009,
+    "wof:lastmodified":1462599197,
+    "wof:name":"Dirt Contractors",
+    "wof:parent_id":85810925,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavation",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -94.53375,
+    37.128717,
+    -94.53375,
+    37.128717
+],
+  "geometry": {"coordinates":[-94.53375,37.128717],"type":"Point"}
+}

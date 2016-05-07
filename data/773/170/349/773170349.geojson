@@ -1,0 +1,71 @@
+{
+  "id": 773170349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.564953,38.13917,-90.564953,38.13917",
+    "geom:latitude":38.13917,
+    "geom:longitude":-90.564953,
+    "iso:country":"US",
+    "sg:address":"97 Saint Andrews Pl",
+    "sg:city":"Union",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 583 2946",
+    "sg:postcode":"63020",
+    "sg:province":"MO",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85848677,
+        102080787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0gg45oMKtLH4lu5HqPU7Yf_38.139170_-90.564953@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462583670,
+    "wof:geomhash":"563000725a1e2fff258077f7bd9e51fe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080787,
+            "neighbourhood_id":85848677,
+            "region_id":85688661,
+            "venue_id":773170349
+        }
+    ],
+    "wof:id":773170349,
+    "wof:lastmodified":1462583670,
+    "wof:name":"Patients First Health Care",
+    "wof:parent_id":85848677,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -90.564953,
+    38.13917,
+    -90.564953,
+    38.13917
+],
+  "geometry": {"coordinates":[-90.564953,38.13917],"type":"Point"}
+}

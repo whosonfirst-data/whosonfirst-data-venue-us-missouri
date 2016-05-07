@@ -1,0 +1,80 @@
+{
+  "id": 789822515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.677017,38.022934,-91.677017,38.022934",
+    "geom:latitude":38.022934,
+    "geom:longitude":-91.677017,
+    "iso:country":"US",
+    "sg:address":"13635 State Rte V",
+    "sg:city":"St James",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 265 3658",
+    "sg:postcode":"65401",
+    "sg:province":"MO",
+    "sg:tags":[
+        "intermediate",
+        "skilled",
+        "home"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970819,
+        102086893,
+        85847353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6xeSGu4yTurWZUVAG4ECzx_38.022934_-91.677017@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462590811,
+    "wof:geomhash":"995bbdf469867dbcce6ac2353e1b9aea",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086893,
+            "locality_id":85970819,
+            "neighbourhood_id":85847353,
+            "region_id":85688661,
+            "venue_id":789822515
+        }
+    ],
+    "wof:id":789822515,
+    "wof:lastmodified":1462590811,
+    "wof:name":"Cedar Knoll Nursing Home",
+    "wof:parent_id":85847353,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "intermediate",
+        "skilled",
+        "home"
+    ]
+},
+  "bbox": [
+    -91.677017,
+    38.022934,
+    -91.677017,
+    38.022934
+],
+  "geometry": {"coordinates":[-91.67701700000001,38.022934],"type":"Point"}
+}

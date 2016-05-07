@@ -1,0 +1,71 @@
+{
+  "id": 806901919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.563315,38.046804,-90.563315,38.046804",
+    "geom:latitude":38.046804,
+    "geom:longitude":-90.563315,
+    "iso:country":"US",
+    "sg:address":"4617 Sunrise School Rd",
+    "sg:city":"De Soto",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 586 3812",
+    "sg:postcode":"63020",
+    "sg:province":"MO",
+    "sg:tags":[
+        "excavating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85848677,
+        102080787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4wVqFs4iigZN6PJiscHv5j_38.046804_-90.563315@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462602023,
+    "wof:geomhash":"d3c6b9014c24dc2c46510498db371d64",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080787,
+            "neighbourhood_id":85848677,
+            "region_id":85688661,
+            "venue_id":806901919
+        }
+    ],
+    "wof:id":806901919,
+    "wof:lastmodified":1462602023,
+    "wof:name":"Bob Luebbers Trucking & Grdng",
+    "wof:parent_id":85848677,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -90.563315,
+    38.046804,
+    -90.563315,
+    38.046804
+],
+  "geometry": {"coordinates":[-90.563315,38.046804],"type":"Point"}
+}

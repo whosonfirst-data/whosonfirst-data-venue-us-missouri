@@ -1,0 +1,74 @@
+{
+  "id": 807071519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.719306,38.800986,-90.719306,38.800986",
+    "geom:latitude":38.800986,
+    "geom:longitude":-90.719306,
+    "iso:country":"US",
+    "sg:address":"38 Squire Ln",
+    "sg:city":"O Fallon",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/lake-st-louis/65678-pizza-hut/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 272 7234",
+    "sg:postcode":"63366",
+    "sg:province":"MO",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_660iJ80HYkpAzei8cldzWQ_38.800986_-90.719306@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462603457,
+    "wof:geomhash":"b1456e97ccd3d33991b6da6360e50052",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":807071519
+        }
+    ],
+    "wof:id":807071519,
+    "wof:lastmodified":1462603457,
+    "wof:name":"Pizza Hut",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -90.719306,
+    38.800986,
+    -90.719306,
+    38.800986
+],
+  "geometry": {"coordinates":[-90.719306,38.800986],"type":"Point"}
+}

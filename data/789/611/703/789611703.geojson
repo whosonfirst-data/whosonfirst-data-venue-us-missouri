@@ -1,0 +1,77 @@
+{
+  "id": 789611703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.204173,38.953719,-92.204173,38.953719",
+    "geom:latitude":38.953719,
+    "geom:longitude":-92.204173,
+    "iso:country":"US",
+    "sg:address":"391 N Rangeline Rd",
+    "sg:city":"Columbia",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Water",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 474 9521",
+    "sg:postcode":"65201",
+    "sg:province":"MO",
+    "sg:tags":[
+        "company",
+        "sewage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85835171,
+        102191575,
+        404516389,
+        85633793,
+        85970425,
+        102086187,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Br5MGrc36pLHRAcdOPtDj_38.953719_-92.204173@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462589149,
+    "wof:geomhash":"fa74743303b9774f092ced1aedbc6632",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086187,
+            "localadmin_id":404516389,
+            "locality_id":85970425,
+            "neighbourhood_id":85835171,
+            "region_id":85688661,
+            "venue_id":789611703
+        }
+    ],
+    "wof:id":789611703,
+    "wof:lastmodified":1462589149,
+    "wof:name":"Public Water Supply District",
+    "wof:parent_id":85835171,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company",
+        "sewage"
+    ]
+},
+  "bbox": [
+    -92.204173,
+    38.953719,
+    -92.204173,
+    38.953719
+],
+  "geometry": {"coordinates":[-92.204173,38.953719],"type":"Point"}
+}

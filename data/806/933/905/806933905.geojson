@@ -1,0 +1,71 @@
+{
+  "id": 806933905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.39806,38.478869,-90.39806,38.478869",
+    "geom:latitude":38.478869,
+    "geom:longitude":-90.39806,
+    "iso:country":"US",
+    "sg:address":"6018 Hageman Rd",
+    "sg:city":"Saint Louis",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 842 9104",
+    "sg:postcode":"63128",
+    "sg:province":"MO",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971021,
+        102080787,
+        85832925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5h0jaz3uMmNZihJ9I1sRR1_38.478869_-90.398060@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462602304,
+    "wof:geomhash":"6c1f5e29e463d54ec7eb1bc808d7854c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080787,
+            "locality_id":85971021,
+            "neighbourhood_id":85832925,
+            "region_id":85688661,
+            "venue_id":806933905
+        }
+    ],
+    "wof:id":806933905,
+    "wof:lastmodified":1462602304,
+    "wof:name":"Oniram Inc",
+    "wof:parent_id":85832925,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -90.39806,
+    38.478869,
+    -90.39806,
+    38.478869
+],
+  "geometry": {"coordinates":[-90.39806,38.478869],"type":"Point"}
+}

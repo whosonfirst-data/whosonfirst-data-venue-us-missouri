@@ -1,0 +1,71 @@
+{
+  "id": 773328863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.119849,37.273858,-93.119849,37.273858",
+    "geom:latitude":37.273858,
+    "geom:longitude":-93.119849,
+    "iso:country":"US",
+    "sg:address":"225 N Airport Rd",
+    "sg:city":"Strafford",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 736 2957",
+    "sg:postcode":"65757",
+    "sg:province":"MO",
+    "sg:tags":[
+        "truck"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971363,
+        102087523,
+        85881137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5oaHYmfjiQe4zvj1P13jw7_37.273858_-93.119849@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462584900,
+    "wof:geomhash":"8ecd59fef75fdd66d40d5736ba4a77d1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087523,
+            "locality_id":85971363,
+            "neighbourhood_id":85881137,
+            "region_id":85688661,
+            "venue_id":773328863
+        }
+    ],
+    "wof:id":773328863,
+    "wof:lastmodified":1462584900,
+    "wof:name":"Dwight's Truck Repair",
+    "wof:parent_id":85881137,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck"
+    ]
+},
+  "bbox": [
+    -93.119849,
+    37.273858,
+    -93.119849,
+    37.273858
+],
+  "geometry": {"coordinates":[-93.119849,37.273858],"type":"Point"}
+}

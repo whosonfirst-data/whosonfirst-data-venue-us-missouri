@@ -1,0 +1,71 @@
+{
+  "id": 789612105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.528636,39.794228,-91.528636,39.794228",
+    "geom:latitude":39.794228,
+    "geom:longitude":-91.528636,
+    "iso:country":"US",
+    "sg:address":"601 W Ross St",
+    "sg:city":"Palmyra",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 769 3271",
+    "sg:postcode":"63461",
+    "sg:province":"MO",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688697,
+        85633793,
+        85938427,
+        102086213,
+        85867477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Fc5axhPWuofpgkdOPtf0A_39.794228_-91.528636@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462589152,
+    "wof:geomhash":"3622318027367fe4c0195529a350b41a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086213,
+            "locality_id":85938427,
+            "neighbourhood_id":85867477,
+            "region_id":85688697,
+            "venue_id":789612105
+        }
+    ],
+    "wof:id":789612105,
+    "wof:lastmodified":1462589152,
+    "wof:name":"Palmyra Sheet Metal",
+    "wof:parent_id":85867477,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -91.528636,
+    39.794228,
+    -91.528636,
+    39.794228
+],
+  "geometry": {"coordinates":[-91.52863600000001,39.794228],"type":"Point"}
+}

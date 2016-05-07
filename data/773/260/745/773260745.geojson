@@ -1,0 +1,71 @@
+{
+  "id": 773260745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.481681,38.783338,-90.481681,38.783338",
+    "geom:latitude":38.783338,
+    "geom:longitude":-90.481681,
+    "iso:country":"US",
+    "sg:address":"205 N 2nd St",
+    "sg:city":"Saint Charles",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Court House",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 724 2118",
+    "sg:postcode":"63301",
+    "sg:province":"MO",
+    "sg:tags":[
+        "defender"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2QPFcU0xMCNIKMvtxbeqUK_38.783338_-90.481681@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462584368,
+    "wof:geomhash":"66a927b7a898150dfab2c42743e9417e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":773260745
+        }
+    ],
+    "wof:id":773260745,
+    "wof:lastmodified":1462584368,
+    "wof:name":"District Defenders Area II",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "defender"
+    ]
+},
+  "bbox": [
+    -90.481681,
+    38.783338,
+    -90.481681,
+    38.783338
+],
+  "geometry": {"coordinates":[-90.48168099999999,38.783338],"type":"Point"}
+}

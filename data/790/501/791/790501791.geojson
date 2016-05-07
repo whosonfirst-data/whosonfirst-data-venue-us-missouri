@@ -1,0 +1,73 @@
+{
+  "id": 790501791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.360708,39.361995,-94.360708,39.361995",
+    "geom:latitude":39.361995,
+    "geom:longitude":-94.360708,
+    "iso:country":"US",
+    "sg:address":"1123 State Hwy 33",
+    "sg:city":"Kearney",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 628 4455",
+    "sg:postcode":"64060",
+    "sg:province":"MO",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971507,
+        102086177,
+        85812855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ewltXG3iBF74Zh0Jg2aTw_39.361995_-94.360708@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462596382,
+    "wof:geomhash":"0069400c8313b3763dc34a0e7dcbabf2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086177,
+            "locality_id":85971507,
+            "neighbourhood_id":85812855,
+            "region_id":85688661,
+            "venue_id":790501791
+        }
+    ],
+    "wof:id":790501791,
+    "wof:lastmodified":1462596382,
+    "wof:name":"North Park Storage",
+    "wof:parent_id":85812855,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [
+    -94.360708,
+    39.361995,
+    -94.360708,
+    39.361995
+],
+  "geometry": {"coordinates":[-94.360708,39.361995],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 790102997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.477213,38.798479,-90.477213,38.798479",
+    "geom:latitude":38.798479,
+    "geom:longitude":-90.477213,
+    "iso:country":"US",
+    "sg:address":"2038 N 4th St",
+    "sg:city":"Saint Charles",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 947 2309",
+    "sg:postcode":"63301",
+    "sg:province":"MO",
+    "sg:tags":[
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5xOtex4xa3NiFVGOz06L3l_38.798479_-90.477213@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462593163,
+    "wof:geomhash":"8402e3d7a5de3b514294a7c13d4ff084",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":790102997
+        }
+    ],
+    "wof:id":790102997,
+    "wof:lastmodified":1462593163,
+    "wof:name":"Lundy Electric Bldg Maint",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -90.477213,
+    38.798479,
+    -90.477213,
+    38.798479
+],
+  "geometry": {"coordinates":[-90.47721300000001,38.798479],"type":"Point"}
+}

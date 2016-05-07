@@ -1,0 +1,73 @@
+{
+  "id": 789614879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.405655,38.195055,-90.405655,38.195055",
+    "geom:latitude":38.195055,
+    "geom:longitude":-90.405655,
+    "iso:country":"US",
+    "sg:address":"1417 US Hwy 67",
+    "sg:city":"Festus",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 937 0797",
+    "sg:postcode":"63028",
+    "sg:province":"MO",
+    "sg:tags":[
+        "automotive",
+        "wrecker",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85848677,
+        102080787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_36AYVFWJwwm8Ok7FI1ggXE_38.195055_-90.405655@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462589175,
+    "wof:geomhash":"4b697c48e4689f1b348a9552eddf65ad",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080787,
+            "neighbourhood_id":85848677,
+            "region_id":85688661,
+            "venue_id":789614879
+        }
+    ],
+    "wof:id":789614879,
+    "wof:lastmodified":1462589175,
+    "wof:name":"Pippin Towing Co",
+    "wof:parent_id":85848677,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive",
+        "wrecker",
+        "general"
+    ]
+},
+  "bbox": [
+    -90.405655,
+    38.195055,
+    -90.405655,
+    38.195055
+],
+  "geometry": {"coordinates":[-90.405655,38.195055],"type":"Point"}
+}

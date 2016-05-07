@@ -1,0 +1,79 @@
+{
+  "id": 806775645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.205662,38.606683,-90.205662,38.606683",
+    "geom:latitude":38.606683,
+    "geom:longitude":-90.205662,
+    "iso:country":"US",
+    "sg:address":"1009 Russell Blvd",
+    "sg:city":"St Louis",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 772 7387",
+    "sg:postcode":"63104",
+    "sg:province":"MO",
+    "sg:tags":[
+        "pet",
+        "food",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85867037,
+        102191575,
+        404518053,
+        85633793,
+        85971343,
+        102080791,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6AQtDwrAf9Yskg54eNKisV_38.606683_-90.205662@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462600980,
+    "wof:geomhash":"4ed63ef19a1fcc9aab7323ff97c68041",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080791,
+            "localadmin_id":404518053,
+            "locality_id":85971343,
+            "neighbourhood_id":85867037,
+            "region_id":85688661,
+            "venue_id":806775645
+        }
+    ],
+    "wof:id":806775645,
+    "wof:lastmodified":1462600980,
+    "wof:name":"Pets In The City",
+    "wof:parent_id":85867037,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "food",
+        "supply"
+    ]
+},
+  "bbox": [
+    -90.205662,
+    38.606683,
+    -90.205662,
+    38.606683
+],
+  "geometry": {"coordinates":[-90.205662,38.606683],"type":"Point"}
+}

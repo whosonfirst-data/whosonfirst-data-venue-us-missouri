@@ -1,0 +1,71 @@
+{
+  "id": 806813295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.183029,38.56784,-92.183029,38.56784",
+    "geom:latitude":38.56784,
+    "geom:longitude":-92.183029,
+    "iso:country":"US",
+    "sg:address":"1221 Jefferson St",
+    "sg:city":"Jefferson City",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 636 5340",
+    "sg:postcode":"65101",
+    "sg:province":"MO",
+    "sg:tags":[
+        "engineer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970647,
+        102087511,
+        85837745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6V1gpJuz6uX1pE68aHZykm_38.567840_-92.183029@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462601290,
+    "wof:geomhash":"10b264ba2d40bf80c50dbec5f098c470",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087511,
+            "locality_id":85970647,
+            "neighbourhood_id":85837745,
+            "region_id":85688661,
+            "venue_id":806813295
+        }
+    ],
+    "wof:id":806813295,
+    "wof:lastmodified":1462601290,
+    "wof:name":"Hiatte Engineering Consultant",
+    "wof:parent_id":85837745,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "engineer"
+    ]
+},
+  "bbox": [
+    -92.183029,
+    38.56784,
+    -92.183029,
+    38.56784
+],
+  "geometry": {"coordinates":[-92.183029,38.56784],"type":"Point"}
+}

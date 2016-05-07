@@ -1,0 +1,73 @@
+{
+  "id": 773138955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.323465,39.346189,-94.323465,39.346189",
+    "geom:latitude":39.346189,
+    "geom:longitude":-94.323465,
+    "iso:country":"US",
+    "sg:address":"20214 NE 140th St",
+    "sg:city":"Kearney",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Water",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 628 6033",
+    "sg:postcode":"64060",
+    "sg:province":"MO",
+    "sg:tags":[
+        "company",
+        "sewage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971507,
+        102086177,
+        85812855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3b8xYWZOpqgKc0CUdihL6v_39.346189_-94.323465@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462583429,
+    "wof:geomhash":"42bc0c5199f713d3d9e4b44478fe7273",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086177,
+            "locality_id":85971507,
+            "neighbourhood_id":85812855,
+            "region_id":85688661,
+            "venue_id":773138955
+        }
+    ],
+    "wof:id":773138955,
+    "wof:lastmodified":1462583429,
+    "wof:name":"Public Water Supply",
+    "wof:parent_id":85812855,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company",
+        "sewage"
+    ]
+},
+  "bbox": [
+    -94.323465,
+    39.346189,
+    -94.323465,
+    39.346189
+],
+  "geometry": {"coordinates":[-94.323465,39.346189],"type":"Point"}
+}

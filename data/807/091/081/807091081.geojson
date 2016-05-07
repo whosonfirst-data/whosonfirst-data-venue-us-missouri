@@ -1,0 +1,74 @@
+{
+  "id": 807091081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.777348,37.938161,-91.777348,37.938161",
+    "geom:latitude":37.938161,
+    "geom:longitude":-91.777348,
+    "iso:country":"US",
+    "sg:address":"615 S Bishop Ave",
+    "sg:city":"Rolla",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/rolla/148618-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 364 5230",
+    "sg:postcode":"65401",
+    "sg:province":"MO",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970821,
+        102086893,
+        85814531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4BKCSKhaKS4NqTiNuj8OBE_37.938161_-91.777348@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462603627,
+    "wof:geomhash":"49eed52153fce457dd6aca55e7b3b575",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086893,
+            "locality_id":85970821,
+            "neighbourhood_id":85814531,
+            "region_id":85688661,
+            "venue_id":807091081
+        }
+    ],
+    "wof:id":807091081,
+    "wof:lastmodified":1462603627,
+    "wof:name":"Subway",
+    "wof:parent_id":85814531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -91.777348,
+    37.938161,
+    -91.777348,
+    37.938161
+],
+  "geometry": {"coordinates":[-91.777348,37.938161],"type":"Point"}
+}

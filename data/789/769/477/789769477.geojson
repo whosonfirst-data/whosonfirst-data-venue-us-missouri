@@ -1,0 +1,73 @@
+{
+  "id": 789769477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.47709,38.799387,-90.47709,38.799387",
+    "geom:latitude":38.799387,
+    "geom:longitude":-90.47709,
+    "iso:country":"US",
+    "sg:address":"2140 N 4th St",
+    "sg:city":"St Charles",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 724 4848",
+    "sg:postcode":"63301",
+    "sg:province":"MO",
+    "sg:tags":[
+        "clinic",
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1OUnl7edcGw5LhCMVPoIok_38.799387_-90.477090@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462590398,
+    "wof:geomhash":"f4ea25b0b233345fd8b81d30656fd916",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":789769477
+        }
+    ],
+    "wof:id":789769477,
+    "wof:lastmodified":1462590398,
+    "wof:name":"Volunteers In Medicine Clinic",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic",
+        "medical"
+    ]
+},
+  "bbox": [
+    -90.47709,
+    38.799387,
+    -90.47709,
+    38.799387
+],
+  "geometry": {"coordinates":[-90.47709,38.799387],"type":"Point"}
+}

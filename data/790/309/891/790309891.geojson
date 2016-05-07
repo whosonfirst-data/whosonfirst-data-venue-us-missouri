@@ -1,0 +1,73 @@
+{
+  "id": 790309891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.193214,39.343431,-91.193214,39.343431",
+    "geom:latitude":39.343431,
+    "geom:longitude":-91.193214,
+    "iso:country":"US",
+    "sg:address":"120 N Cuivre St",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Water",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 324 5826",
+    "sg:postcode":"63334",
+    "sg:province":"MO",
+    "sg:tags":[
+        "company",
+        "sewage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971907,
+        102086151,
+        85817909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3V5HV31gtV6kbwuTkRHp62_39.343431_-91.193214@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462594846,
+    "wof:geomhash":"c3bc77edcfdea7330a6970e6d19cda08",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086151,
+            "locality_id":85971907,
+            "neighbourhood_id":85817909,
+            "region_id":85688661,
+            "venue_id":790309891
+        }
+    ],
+    "wof:id":790309891,
+    "wof:lastmodified":1462594846,
+    "wof:name":"Bowling Green Water Dept",
+    "wof:parent_id":85817909,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company",
+        "sewage"
+    ]
+},
+  "bbox": [
+    -91.193214,
+    39.343431,
+    -91.193214,
+    39.343431
+],
+  "geometry": {"coordinates":[-91.193214,39.343431],"type":"Point"}
+}

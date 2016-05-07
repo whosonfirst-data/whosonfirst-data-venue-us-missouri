@@ -1,0 +1,73 @@
+{
+  "id": 789923409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.573673,38.411777,-90.573673,38.411777",
+    "geom:latitude":38.411777,
+    "geom:longitude":-90.573673,
+    "iso:country":"US",
+    "sg:address":"4575 Byrnes Mill Rd",
+    "sg:city":"High Ridge",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 671 0415",
+    "sg:postcode":"63051",
+    "sg:province":"MO",
+    "sg:tags":[
+        "lighting",
+        "fixture"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971019,
+        102080787,
+        85817237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ZmwDRPLxQEZpbdT0HAKlC_38.411777_-90.573673@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462591652,
+    "wof:geomhash":"1cf9a6cc815bac9f9062a7b93408a082",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080787,
+            "locality_id":85971019,
+            "neighbourhood_id":85817237,
+            "region_id":85688661,
+            "venue_id":789923409
+        }
+    ],
+    "wof:id":789923409,
+    "wof:lastmodified":1462591652,
+    "wof:name":"Hi-Lite Svc System",
+    "wof:parent_id":85817237,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lighting",
+        "fixture"
+    ]
+},
+  "bbox": [
+    -90.573673,
+    38.411777,
+    -90.573673,
+    38.411777
+],
+  "geometry": {"coordinates":[-90.573673,38.411777],"type":"Point"}
+}

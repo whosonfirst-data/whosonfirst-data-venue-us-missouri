@@ -1,0 +1,77 @@
+{
+  "id": 773637477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.197605,38.628927,-90.197605,38.628927",
+    "geom:latitude":38.628927,
+    "geom:longitude":-90.197605,
+    "iso:country":"US",
+    "sg:address":"1101 Pine St",
+    "sg:city":"St Louis",
+    "sg:classifiers":[
+        {
+            "category":"Parking",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 436 2258",
+    "sg:postcode":"63101",
+    "sg:province":"MO",
+    "sg:tags":[
+        "garage",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85867033,
+        102191575,
+        404518053,
+        85633793,
+        85971343,
+        102080791,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4CNlnil5yG7RaZBvEos0Ka_38.628927_-90.197605@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462587227,
+    "wof:geomhash":"dc3d21657964c56b914da2a15ea4269f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080791,
+            "localadmin_id":404518053,
+            "locality_id":85971343,
+            "neighbourhood_id":85867033,
+            "region_id":85688661,
+            "venue_id":773637477
+        }
+    ],
+    "wof:id":773637477,
+    "wof:lastmodified":1462587227,
+    "wof:name":"11th & Pine Parking Lot",
+    "wof:parent_id":85867033,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garage",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -90.197605,
+    38.628927,
+    -90.197605,
+    38.628927
+],
+  "geometry": {"coordinates":[-90.197605,38.628927],"type":"Point"}
+}

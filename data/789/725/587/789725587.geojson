@@ -1,0 +1,73 @@
+{
+  "id": 789725587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.617631,37.998447,-91.617631,37.998447",
+    "geom:latitude":37.998447,
+    "geom:longitude":-91.617631,
+    "iso:country":"US",
+    "sg:address":"220 W James Blvd",
+    "sg:city":"St James",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 265 2277",
+    "sg:postcode":"65559",
+    "sg:province":"MO",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970819,
+        102086893,
+        85847353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_23tcrbT5ergXaMoHrla7ZY_37.998447_-91.617631@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462590068,
+    "wof:geomhash":"c83fc2f51098784a121be056a16c4202",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086893,
+            "locality_id":85970819,
+            "neighbourhood_id":85847353,
+            "region_id":85688661,
+            "venue_id":789725587
+        }
+    ],
+    "wof:id":789725587,
+    "wof:lastmodified":1462590068,
+    "wof:name":"B & D Auto Sales",
+    "wof:parent_id":85847353,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -91.617631,
+    37.998447,
+    -91.617631,
+    37.998447
+],
+  "geometry": {"coordinates":[-91.617631,37.998447],"type":"Point"}
+}

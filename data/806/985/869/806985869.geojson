@@ -1,0 +1,79 @@
+{
+  "id": 806985869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.440741,38.703596,-90.440741,38.703596",
+    "geom:latitude":38.703596,
+    "geom:longitude":-90.440741,
+    "iso:country":"US",
+    "sg:address":"2292 Weldon Pkwy",
+    "sg:city":"Saint Louis",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 567 6690",
+    "sg:postcode":"63146",
+    "sg:province":"MO",
+    "sg:tags":[
+        "supplier",
+        "prescription",
+        "drug"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85803699,
+        102191575,
+        404517323,
+        85633793,
+        85972315,
+        102086173,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3FQLe2buFx8WNpA4p7p6BH_38.703596_-90.440741@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462602743,
+    "wof:geomhash":"e63d0efd2c675a3ed51c4c3292fde634",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086173,
+            "localadmin_id":404517323,
+            "locality_id":85972315,
+            "neighbourhood_id":85803699,
+            "region_id":85688661,
+            "venue_id":806985869
+        }
+    ],
+    "wof:id":806985869,
+    "wof:lastmodified":1462602743,
+    "wof:name":"N C S Healthcare Inc",
+    "wof:parent_id":85803699,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supplier",
+        "prescription",
+        "drug"
+    ]
+},
+  "bbox": [
+    -90.440741,
+    38.703596,
+    -90.440741,
+    38.703596
+],
+  "geometry": {"coordinates":[-90.440741,38.703596],"type":"Point"}
+}

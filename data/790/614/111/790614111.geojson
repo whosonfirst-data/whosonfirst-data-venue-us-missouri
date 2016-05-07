@@ -1,0 +1,73 @@
+{
+  "id": 790614111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.453793,38.565668,-90.453793,38.565668",
+    "geom:latitude":38.565668,
+    "geom:longitude":-90.453793,
+    "iso:country":"US",
+    "sg:address":"952 Barrett Station Rd",
+    "sg:city":"Saint Louis",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 822 9520",
+    "sg:postcode":"63122",
+    "sg:province":"MO",
+    "sg:tags":[
+        "building",
+        "eating",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85839871,
+        102086173
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7VXnDZTRC4Ls3stCGoxVj4_38.565668_-90.453793@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462597345,
+    "wof:geomhash":"4cd94bc2dadf265002cf173e915019bb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086173,
+            "neighbourhood_id":85839871,
+            "region_id":85688661,
+            "venue_id":790614111
+        }
+    ],
+    "wof:id":790614111,
+    "wof:lastmodified":1462597345,
+    "wof:name":"Aggies Banquet Center",
+    "wof:parent_id":85839871,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "eating",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -90.453793,
+    38.565668,
+    -90.453793,
+    38.565668
+],
+  "geometry": {"coordinates":[-90.453793,38.565668],"type":"Point"}
+}

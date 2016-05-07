@@ -1,0 +1,71 @@
+{
+  "id": 807277817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.902436,37.914108,-91.902436,37.914108",
+    "geom:latitude":37.914108,
+    "geom:longitude":-91.902436,
+    "iso:country":"US",
+    "sg:address":"30 E 2nd St",
+    "sg:city":"Newburg",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 762 2135",
+    "sg:postcode":"65550",
+    "sg:province":"MO",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970821,
+        102086893,
+        85814531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3HONlbsNeFQuCllLVrusbv_37.914108_-91.902436@1303262936"
+    },
+    "wof:country":"US",
+    "wof:created":1462605625,
+    "wof:geomhash":"c62aecf691cfcd5c7545a0dd29c68929",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086893,
+            "locality_id":85970821,
+            "neighbourhood_id":85814531,
+            "region_id":85688661,
+            "venue_id":807277817
+        }
+    ],
+    "wof:id":807277817,
+    "wof:lastmodified":1462605625,
+    "wof:name":"Newburg Police Dept",
+    "wof:parent_id":85814531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -91.902436,
+    37.914108,
+    -91.902436,
+    37.914108
+],
+  "geometry": {"coordinates":[-91.90243599999999,37.914108],"type":"Point"}
+}

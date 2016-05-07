@@ -1,0 +1,76 @@
+{
+  "id": 807084079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.572951,38.896278,-94.572951,38.896278",
+    "geom:latitude":38.896278,
+    "geom:longitude":-94.572951,
+    "iso:country":"US",
+    "sg:address":"1704 E Blue Pkwy",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/kaw/41793-bob-evans/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 913 299 1278",
+    "sg:postcode":"64146",
+    "sg:province":"MO",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420525327,
+        102191575,
+        404518075,
+        85633793,
+        85970739,
+        102081227,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3frw4h546L2931lhHYQKoQ_38.896278_-94.572951@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462603567,
+    "wof:geomhash":"912e24b0aaea64455afb1744f2988edd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081227,
+            "localadmin_id":404518075,
+            "locality_id":85970739,
+            "neighbourhood_id":420525327,
+            "region_id":85688661,
+            "venue_id":807084079
+        }
+    ],
+    "wof:id":807084079,
+    "wof:lastmodified":1462603567,
+    "wof:name":"Bob Evans",
+    "wof:parent_id":420525327,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -94.572951,
+    38.896278,
+    -94.572951,
+    38.896278
+],
+  "geometry": {"coordinates":[-94.572951,38.896278],"type":"Point"}
+}

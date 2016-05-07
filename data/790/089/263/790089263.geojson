@@ -1,0 +1,79 @@
+{
+  "id": 790089263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.580203,39.143631,-94.580203,39.143631",
+    "geom:latitude":39.143631,
+    "geom:longitude":-94.580203,
+    "iso:country":"US",
+    "sg:address":"2021 Burlington St",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 842 2666",
+    "sg:postcode":"64116",
+    "sg:province":"MO",
+    "sg:tags":[
+        "transmission",
+        "automotive",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85867025,
+        102191575,
+        404518075,
+        85633793,
+        85970739,
+        102081227,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1VCjE45cjkeDWA9SYH44Te_39.143631_-94.580203@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462593039,
+    "wof:geomhash":"64b8bfedccd6f9776d91bd9d7547cb1a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081227,
+            "localadmin_id":404518075,
+            "locality_id":85970739,
+            "neighbourhood_id":85867025,
+            "region_id":85688661,
+            "venue_id":790089263
+        }
+    ],
+    "wof:id":790089263,
+    "wof:lastmodified":1462593039,
+    "wof:name":"Northtown Transmission Service",
+    "wof:parent_id":85867025,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission",
+        "automotive",
+        "shop"
+    ]
+},
+  "bbox": [
+    -94.580203,
+    39.143631,
+    -94.580203,
+    39.143631
+],
+  "geometry": {"coordinates":[-94.580203,39.143631],"type":"Point"}
+}

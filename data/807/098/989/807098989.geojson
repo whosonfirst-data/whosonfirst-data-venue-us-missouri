@@ -1,0 +1,72 @@
+{
+  "id": 807098989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.362818,39.372985,-94.362818,39.372985",
+    "geom:latitude":39.372985,
+    "geom:longitude":-94.362818,
+    "iso:country":"US",
+    "sg:address":"123 W Washington St",
+    "sg:city":"Kearney",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/kearney/41224-ginos-italian-cuisine/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 903 4466",
+    "sg:postcode":"64060",
+    "sg:province":"MO",
+    "sg:tags":[
+        "italian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971507,
+        102086177,
+        85812855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5LSLNNj9gozufdFY48txBp_39.372885_-94.362075@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1462603710,
+    "wof:geomhash":"63e93f6e9e033abb70432f39315d2235",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086177,
+            "locality_id":85971507,
+            "neighbourhood_id":85812855,
+            "region_id":85688661,
+            "venue_id":807098989
+        }
+    ],
+    "wof:id":807098989,
+    "wof:lastmodified":1462603710,
+    "wof:name":"Gino's Italian Cuisine",
+    "wof:parent_id":85812855,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "italian"
+    ]
+},
+  "bbox": [
+    -94.362818,
+    39.372985,
+    -94.362818,
+    39.372985
+],
+  "geometry": {"coordinates":[-94.362818,39.372985],"type":"Point"}
+}

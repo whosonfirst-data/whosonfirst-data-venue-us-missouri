@@ -1,0 +1,77 @@
+{
+  "id": 807077839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.415618,39.043231,-94.415618,39.043231",
+    "geom:latitude":39.043231,
+    "geom:longitude":-94.415618,
+    "iso:country":"US",
+    "sg:address":"4226 S Noland Rd",
+    "sg:city":"Independence",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/blue/194176-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"64055",
+    "sg:province":"MO",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85871965,
+        102191575,
+        404517999,
+        85633793,
+        85971471,
+        102081227,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3r8gI9PoVYch1jfvVzqrxL_39.043231_-94.415618@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462603516,
+    "wof:geomhash":"371b8549a5acc9cc3f44e7f25c25593c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081227,
+            "localadmin_id":404517999,
+            "locality_id":85971471,
+            "neighbourhood_id":85871965,
+            "region_id":85688661,
+            "venue_id":807077839
+        }
+    ],
+    "wof:id":807077839,
+    "wof:lastmodified":1462603516,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85871965,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -94.415618,
+    39.043231,
+    -94.415618,
+    39.043231
+],
+  "geometry": {"coordinates":[-94.41561799999999,39.043231],"type":"Point"}
+}

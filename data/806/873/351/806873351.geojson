@@ -1,0 +1,71 @@
+{
+  "id": 806873351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.616404,37.997327,-91.616404,37.997327",
+    "geom:latitude":37.997327,
+    "geom:longitude":-91.616404,
+    "iso:country":"US",
+    "sg:address":"100 N Meramec St",
+    "sg:city":"St James",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 265 3632",
+    "sg:postcode":"65559",
+    "sg:province":"MO",
+    "sg:tags":[
+        "brake"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970819,
+        102086893,
+        85847353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0OShJs55TVaOYN7Ch1hCnT_37.997327_-91.616404@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462601796,
+    "wof:geomhash":"ab2a9cda85366a9dbe2796548f0a0dbe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086893,
+            "locality_id":85970819,
+            "neighbourhood_id":85847353,
+            "region_id":85688661,
+            "venue_id":806873351
+        }
+    ],
+    "wof:id":806873351,
+    "wof:lastmodified":1462601796,
+    "wof:name":"Disser Auto",
+    "wof:parent_id":85847353,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "brake"
+    ]
+},
+  "bbox": [
+    -91.616404,
+    37.997327,
+    -91.616404,
+    37.997327
+],
+  "geometry": {"coordinates":[-91.616404,37.997327],"type":"Point"}
+}

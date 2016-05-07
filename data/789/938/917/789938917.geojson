@@ -1,0 +1,71 @@
+{
+  "id": 789938917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.71499,38.80023,-90.71499,38.80023",
+    "geom:latitude":38.80023,
+    "geom:longitude":-90.71499,
+    "iso:country":"US",
+    "sg:address":"6 Kirk Ct",
+    "sg:city":"O Fallon",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 379 0317",
+    "sg:postcode":"63366",
+    "sg:province":"MO",
+    "sg:tags":[
+        "janitor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_36KP3I4JQbRUcqO6bSVpWd_38.800230_-90.714990@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462591779,
+    "wof:geomhash":"4ef929f3fec2d442fd619d2972cb6c3c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":789938917
+        }
+    ],
+    "wof:id":789938917,
+    "wof:lastmodified":1462591779,
+    "wof:name":"Classy Cleaning Inc",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitor"
+    ]
+},
+  "bbox": [
+    -90.71499,
+    38.80023,
+    -90.71499,
+    38.80023
+],
+  "geometry": {"coordinates":[-90.71499,38.80023],"type":"Point"}
+}

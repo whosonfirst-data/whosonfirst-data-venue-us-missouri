@@ -1,0 +1,69 @@
+{
+  "id": 789923775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.342915,37.156226,-93.342915,37.156226",
+    "geom:latitude":37.156226,
+    "geom:longitude":-93.342915,
+    "iso:country":"US",
+    "sg:address":"3253 S Christy Pl",
+    "sg:city":"Springfield",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 869 5994",
+    "sg:postcode":"65807",
+    "sg:province":"MO",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85881151,
+        102087523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5OWCodwyFo6IBBfNNQnFQg_37.156226_-93.342915@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462591654,
+    "wof:geomhash":"cdf58c1d16797f40989d6357ce020566",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087523,
+            "neighbourhood_id":85881151,
+            "region_id":85688661,
+            "venue_id":789923775
+        }
+    ],
+    "wof:id":789923775,
+    "wof:lastmodified":1462591654,
+    "wof:name":"Prowash Inc",
+    "wof:parent_id":85881151,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -93.342915,
+    37.156226,
+    -93.342915,
+    37.156226
+],
+  "geometry": {"coordinates":[-93.342915,37.156226],"type":"Point"}
+}

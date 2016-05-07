@@ -1,0 +1,70 @@
+{
+  "id": 807143781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.207901,38.667,-90.207901,38.667",
+    "geom:latitude":38.667,
+    "geom:longitude":-90.207901,
+    "iso:country":"US",
+    "sg:address":"4269 N 21st St",
+    "sg:city":"Saint Louis",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 371 6106",
+    "sg:postcode":"63107",
+    "sg:province":"MO",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873619,
+        102191575,
+        404518053,
+        85633793,
+        85971343,
+        102080791,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4KFGQE7Ya24mMPqe1rTZYa_38.667000_-90.207901@1303262928"
+    },
+    "wof:country":"US",
+    "wof:created":1462604201,
+    "wof:geomhash":"d0e36258e087e97614801937d33d8993",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080791,
+            "localadmin_id":404518053,
+            "locality_id":85971343,
+            "neighbourhood_id":85873619,
+            "region_id":85688661,
+            "venue_id":807143781
+        }
+    ],
+    "wof:id":807143781,
+    "wof:lastmodified":1462604201,
+    "wof:name":"Larry's Auto Repair",
+    "wof:parent_id":85873619,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.207901,
+    38.667,
+    -90.207901,
+    38.667
+],
+  "geometry": {"coordinates":[-90.20790100000001,38.667],"type":"Point"}
+}

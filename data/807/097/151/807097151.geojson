@@ -1,0 +1,85 @@
+{
+  "id": 807097151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.492998,38.538248,-90.492998,38.538248",
+    "geom:latitude":38.538248,
+    "geom:longitude":-90.492998,
+    "iso:country":"US",
+    "sg:address":"76 S Highway Dr",
+    "sg:city":"Valley Park",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Ice Cream",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/meramec/92656-steak-n-shake/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 861 1171",
+    "sg:postcode":"63088",
+    "sg:province":"MO",
+    "sg:tags":[
+        "american",
+        "ice",
+        "cream"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85841473,
+        102191575,
+        404517461,
+        85633793,
+        85972241,
+        102086173,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7kBgzmMaI8CzTfm2mRJLsh_38.538748_-90.492740@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462603688,
+    "wof:geomhash":"9d9f15dc95bde8aab20c79edaa7c57bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086173,
+            "localadmin_id":404517461,
+            "locality_id":85972241,
+            "neighbourhood_id":85841473,
+            "region_id":85688661,
+            "venue_id":807097151
+        }
+    ],
+    "wof:id":807097151,
+    "wof:lastmodified":1462603688,
+    "wof:name":"Steak 'n Shake",
+    "wof:parent_id":85841473,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "ice",
+        "cream"
+    ]
+},
+  "bbox": [
+    -90.492998,
+    38.538248,
+    -90.492998,
+    38.538248
+],
+  "geometry": {"coordinates":[-90.492998,38.538248],"type":"Point"}
+}

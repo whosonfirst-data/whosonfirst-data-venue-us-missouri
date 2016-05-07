@@ -1,0 +1,71 @@
+{
+  "id": 789748567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.83002,39.262761,-90.83002,39.262761",
+    "geom:latitude":39.262761,
+    "geom:longitude":-90.83002,
+    "iso:country":"US",
+    "sg:address":"204 Arlington Ave",
+    "sg:city":"Annada",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 847 2345",
+    "sg:postcode":"63330",
+    "sg:province":"MO",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971907,
+        102086151,
+        85817909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7HvuSX48l9Abjkzga5joZv_39.262761_-90.830020@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462590243,
+    "wof:geomhash":"b381d556bae34b041ce77b1d1e9640e7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086151,
+            "locality_id":85971907,
+            "neighbourhood_id":85817909,
+            "region_id":85688661,
+            "venue_id":789748567
+        }
+    ],
+    "wof:id":789748567,
+    "wof:lastmodified":1462590243,
+    "wof:name":"Community Christian Church",
+    "wof:parent_id":85817909,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -90.83002,
+    39.262761,
+    -90.83002,
+    39.262761
+],
+  "geometry": {"coordinates":[-90.83002,39.262761],"type":"Point"}
+}

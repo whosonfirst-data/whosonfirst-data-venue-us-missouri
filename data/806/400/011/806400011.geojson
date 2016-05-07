@@ -1,0 +1,73 @@
+{
+  "id": 806400011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.193051,38.556804,-92.193051,38.556804",
+    "geom:latitude":38.556804,
+    "geom:longitude":-92.193051,
+    "iso:country":"US",
+    "sg:address":"1703 Christy Dr",
+    "sg:city":"Jefferson City",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 635 7214",
+    "sg:postcode":"65101",
+    "sg:province":"MO",
+    "sg:tags":[
+        "machine",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970647,
+        102087511,
+        85837745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5QnPpHVsSVpzx86eQssCJD_38.556804_-92.193051@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462597840,
+    "wof:geomhash":"2fa0c80f9ea5b9d53c16598ae369bba2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087511,
+            "locality_id":85970647,
+            "neighbourhood_id":85837745,
+            "region_id":85688661,
+            "venue_id":806400011
+        }
+    ],
+    "wof:id":806400011,
+    "wof:lastmodified":1462597840,
+    "wof:name":"Precision Machine Inc",
+    "wof:parent_id":85837745,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "shop"
+    ]
+},
+  "bbox": [
+    -92.193051,
+    38.556804,
+    -92.193051,
+    38.556804
+],
+  "geometry": {"coordinates":[-92.193051,38.556804],"type":"Point"}
+}

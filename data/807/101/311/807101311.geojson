@@ -1,0 +1,74 @@
+{
+  "id": 807101311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.616947,38.006975,-91.616947,38.006975",
+    "geom:latitude":38.006975,
+    "geom:longitude":-91.616947,
+    "iso:country":"US",
+    "sg:address":"205 State Route B",
+    "sg:city":"Saint James",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/st-james/148625-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 265 5900",
+    "sg:postcode":"65559",
+    "sg:province":"MO",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970819,
+        102086893,
+        85847353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2OnC9Ont2GVEwpRuq9qqyF_38.007025_-91.616557@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462603747,
+    "wof:geomhash":"c574c4a0a89df3113f15d3e186d7d91d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086893,
+            "locality_id":85970819,
+            "neighbourhood_id":85847353,
+            "region_id":85688661,
+            "venue_id":807101311
+        }
+    ],
+    "wof:id":807101311,
+    "wof:lastmodified":1462603747,
+    "wof:name":"Subway",
+    "wof:parent_id":85847353,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -91.616947,
+    38.006975,
+    -91.616947,
+    38.006975
+],
+  "geometry": {"coordinates":[-91.616947,38.006975],"type":"Point"}
+}

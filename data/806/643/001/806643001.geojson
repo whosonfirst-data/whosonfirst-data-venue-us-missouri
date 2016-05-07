@@ -1,0 +1,71 @@
+{
+  "id": 806643001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.665418,38.79099,-90.665418,38.79099",
+    "geom:latitude":38.79099,
+    "geom:longitude":-90.665418,
+    "iso:country":"US",
+    "sg:address":"802 Brookwood Bend Trl",
+    "sg:city":"Saint Peters",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 978 3735",
+    "sg:postcode":"63376",
+    "sg:province":"MO",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6OINT1b9ncCg1d4J38EInS_38.790990_-90.665418@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462599843,
+    "wof:geomhash":"b74652b5a8966ffa2a32384e54ab7dbc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":806643001
+        }
+    ],
+    "wof:id":806643001,
+    "wof:lastmodified":1462599843,
+    "wof:name":"Ruiz Fulgencio M D",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -90.665418,
+    38.79099,
+    -90.665418,
+    38.79099
+],
+  "geometry": {"coordinates":[-90.665418,38.79099],"type":"Point"}
+}

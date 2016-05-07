@@ -1,0 +1,79 @@
+{
+  "id": 789693541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.559541,38.636009,-90.559541,38.636009",
+    "geom:latitude":38.636009,
+    "geom:longitude":-90.559541,
+    "iso:country":"US",
+    "sg:address":"15610 Cedarmill Dr",
+    "sg:city":"Chesterfield",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 519 8142",
+    "sg:postcode":"63017",
+    "sg:province":"MO",
+    "sg:tags":[
+        "car",
+        "railroad",
+        "leasing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85805465,
+        102191575,
+        404517241,
+        85633793,
+        85972357,
+        102086173,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2YMKPfgV3xGTwN0qVYvLbk_38.636009_-90.559541@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462589806,
+    "wof:geomhash":"35c0bc6e2602ff2bc2c3db94100be7f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086173,
+            "localadmin_id":404517241,
+            "locality_id":85972357,
+            "neighbourhood_id":85805465,
+            "region_id":85688661,
+            "venue_id":789693541
+        }
+    ],
+    "wof:id":789693541,
+    "wof:lastmodified":1462589806,
+    "wof:name":"CIT Rail Resources",
+    "wof:parent_id":85805465,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "railroad",
+        "leasing"
+    ]
+},
+  "bbox": [
+    -90.559541,
+    38.636009,
+    -90.559541,
+    38.636009
+],
+  "geometry": {"coordinates":[-90.559541,38.636009],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 789581753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.236803,38.451113,-92.236803,38.451113",
+    "geom:latitude":38.451113,
+    "geom:longitude":-92.236803,
+    "iso:country":"US",
+    "sg:address":"1421 Route E",
+    "sg:city":"Jefferson City",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 496 0189",
+    "sg:postcode":"65101",
+    "sg:province":"MO",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970647,
+        102087519,
+        85847491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1gOLUcLcsthxtctAAkey8E_38.451113_-92.236803@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462588916,
+    "wof:geomhash":"b7bce5becd3299dd4d0515653eee1707",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087519,
+            "locality_id":85970647,
+            "neighbourhood_id":85847491,
+            "region_id":85688661,
+            "venue_id":789581753
+        }
+    ],
+    "wof:id":789581753,
+    "wof:lastmodified":1462588916,
+    "wof:name":"Vansteenburgh Construction",
+    "wof:parent_id":85847491,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -92.236803,
+    38.451113,
+    -92.236803,
+    38.451113
+],
+  "geometry": {"coordinates":[-92.23680299999999,38.451113],"type":"Point"}
+}

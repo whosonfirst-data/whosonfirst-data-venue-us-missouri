@@ -1,0 +1,71 @@
+{
+  "id": 806581069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.29562,37.157378,-93.29562,37.157378",
+    "geom:latitude":37.157378,
+    "geom:longitude":-93.29562,
+    "iso:country":"US",
+    "sg:address":"3131 S Campbell Ave",
+    "sg:city":"Springfield",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 882 8882",
+    "sg:postcode":"65807",
+    "sg:province":"MO",
+    "sg:tags":[
+        "polishing",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85881151,
+        102087523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1frhFUYSpT9hKYHYA6tfyj_37.157378_-93.295620@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462599317,
+    "wof:geomhash":"9aad3e88f38aae55a69c6f34be7a4d8a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087523,
+            "neighbourhood_id":85881151,
+            "region_id":85688661,
+            "venue_id":806581069
+        }
+    ],
+    "wof:id":806581069,
+    "wof:lastmodified":1462599317,
+    "wof:name":"Good Guys",
+    "wof:parent_id":85881151,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "polishing",
+        "washing"
+    ]
+},
+  "bbox": [
+    -93.29562,
+    37.157378,
+    -93.29562,
+    37.157378
+],
+  "geometry": {"coordinates":[-93.29562,37.157378],"type":"Point"}
+}

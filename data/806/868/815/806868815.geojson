@@ -1,0 +1,77 @@
+{
+  "id": 806868815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.256749,37.232279,-93.256749,37.232279",
+    "geom:latitude":37.232279,
+    "geom:longitude":-93.256749,
+    "iso:country":"US",
+    "sg:address":"1920 N Nias Ave",
+    "sg:city":"Springfield",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 800 742 5877",
+    "sg:postcode":"65803",
+    "sg:province":"MO",
+    "sg:tags":[
+        "delivery",
+        "parcel"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420525313,
+        102191575,
+        404516201,
+        85633793,
+        85971363,
+        102087523,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4AL7OF0KDvgWwc9eD1UBep_37.232279_-93.256749@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462601762,
+    "wof:geomhash":"87ddf105224a0fbb7c661debc0acfba8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087523,
+            "localadmin_id":404516201,
+            "locality_id":85971363,
+            "neighbourhood_id":420525313,
+            "region_id":85688661,
+            "venue_id":806868815
+        }
+    ],
+    "wof:id":806868815,
+    "wof:lastmodified":1462601762,
+    "wof:name":"UPS",
+    "wof:parent_id":420525313,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "delivery",
+        "parcel"
+    ]
+},
+  "bbox": [
+    -93.256749,
+    37.232279,
+    -93.256749,
+    37.232279
+],
+  "geometry": {"coordinates":[-93.256749,37.232279],"type":"Point"}
+}

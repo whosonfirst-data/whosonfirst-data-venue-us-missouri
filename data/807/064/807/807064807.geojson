@@ -1,0 +1,78 @@
+{
+  "id": 807064807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.206356,38.629317,-90.206356,38.629317",
+    "geom:latitude":38.629317,
+    "geom:longitude":-90.206356,
+    "iso:country":"US",
+    "sg:address":"1800 Market St",
+    "sg:city":"Saint Louis",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/st-louis/72490-sbarro/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 621 2774",
+    "sg:postcode":"63103",
+    "sg:province":"MO",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873645,
+        102191575,
+        404518053,
+        85633793,
+        85971343,
+        102080791,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2rnhO3cNSYLLwdNI7MYb3f_38.629317_-90.206356@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462603407,
+    "wof:geomhash":"e5a941be9693fcd8fffb289cfa43257f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080791,
+            "localadmin_id":404518053,
+            "locality_id":85971343,
+            "neighbourhood_id":85873645,
+            "region_id":85688661,
+            "venue_id":807064807
+        }
+    ],
+    "wof:id":807064807,
+    "wof:lastmodified":1462603407,
+    "wof:name":"Sbarro",
+    "wof:parent_id":85873645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -90.206356,
+    38.629317,
+    -90.206356,
+    38.629317
+],
+  "geometry": {"coordinates":[-90.206356,38.629317],"type":"Point"}
+}

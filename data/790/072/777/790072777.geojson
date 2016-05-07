@@ -1,0 +1,71 @@
+{
+  "id": 790072777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.207974,39.349877,-91.207974,39.349877",
+    "geom:latitude":39.349877,
+    "geom:longitude":-91.207974,
+    "iso:country":"US",
+    "sg:address":"915 US Hwy 61 Bus",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 324 3380",
+    "sg:postcode":"63334",
+    "sg:province":"MO",
+    "sg:tags":[
+        "tire"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971907,
+        102086151,
+        85817909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ZHQiZTWzudBelPvmfev3C_39.349877_-91.207974@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462592914,
+    "wof:geomhash":"6ca9c6c8c5e214d081a3cb39725f4ed0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086151,
+            "locality_id":85971907,
+            "neighbourhood_id":85817909,
+            "region_id":85688661,
+            "venue_id":790072777
+        }
+    ],
+    "wof:id":790072777,
+    "wof:lastmodified":1462592914,
+    "wof:name":"Mikes Tire Service",
+    "wof:parent_id":85817909,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tire"
+    ]
+},
+  "bbox": [
+    -91.207974,
+    39.349877,
+    -91.207974,
+    39.349877
+],
+  "geometry": {"coordinates":[-91.20797399999999,39.349877],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 790566481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.296539,37.119087,-93.296539,37.119087",
+    "geom:latitude":37.119087,
+    "geom:longitude":-93.296539,
+    "iso:country":"US",
+    "sg:address":"5233 S Campbell Ave",
+    "sg:city":"Springfield",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 887 9530",
+    "sg:postcode":"65810",
+    "sg:province":"MO",
+    "sg:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85881143,
+        102087523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2kERGPeiUm3xvefeS1xPqM_37.119087_-93.296539@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462596929,
+    "wof:geomhash":"2bc0a97889f09020fb007d3f69cfe11e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087523,
+            "neighbourhood_id":85881143,
+            "region_id":85688661,
+            "venue_id":790566481
+        }
+    ],
+    "wof:id":790566481,
+    "wof:lastmodified":1462596929,
+    "wof:name":"Budget Truck Rental",
+    "wof:parent_id":85881143,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ]
+},
+  "bbox": [
+    -93.296539,
+    37.119087,
+    -93.296539,
+    37.119087
+],
+  "geometry": {"coordinates":[-93.296539,37.119087],"type":"Point"}
+}

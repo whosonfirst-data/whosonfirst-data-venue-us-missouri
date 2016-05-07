@@ -1,0 +1,69 @@
+{
+  "id": 789734699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.558281,38.245944,-90.558281,38.245944",
+    "geom:latitude":38.245944,
+    "geom:longitude":-90.558281,
+    "iso:country":"US",
+    "sg:address":"10229 State Hwy 21",
+    "sg:city":"Hillsboro",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 797 5977",
+    "sg:postcode":"63050",
+    "sg:province":"MO",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85848677,
+        102080787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2tPhNYt76EJ6SXgWmqoQoo_38.245944_-90.558281@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462590136,
+    "wof:geomhash":"77cb87c361c20d1d761a965e51462ed0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080787,
+            "neighbourhood_id":85848677,
+            "region_id":85688661,
+            "venue_id":789734699
+        }
+    ],
+    "wof:id":789734699,
+    "wof:lastmodified":1462590136,
+    "wof:name":"Mc Cook Ltd",
+    "wof:parent_id":85848677,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -90.558281,
+    38.245944,
+    -90.558281,
+    38.245944
+],
+  "geometry": {"coordinates":[-90.55828099999999,38.245944],"type":"Point"}
+}

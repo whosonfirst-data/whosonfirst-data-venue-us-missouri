@@ -1,0 +1,74 @@
+{
+  "id": 807079123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.772193,39.364206,-94.772193,39.364206",
+    "geom:latitude":39.364206,
+    "geom:longitude":-94.772193,
+    "iso:country":"US",
+    "sg:address":"1217 Branch St",
+    "sg:city":"Platte City",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/carroll/65812-pizza-hut/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 858 4700",
+    "sg:postcode":"64079",
+    "sg:province":"MO",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970739,
+        102085271,
+        85851839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7aZe09wrIrv9gL3i9IWqPv_39.364206_-94.772193@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462603525,
+    "wof:geomhash":"bf262c698a3d2ec6afab1f26a1d5d4bc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085271,
+            "locality_id":85970739,
+            "neighbourhood_id":85851839,
+            "region_id":85688661,
+            "venue_id":807079123
+        }
+    ],
+    "wof:id":807079123,
+    "wof:lastmodified":1462603525,
+    "wof:name":"Pizza Hut",
+    "wof:parent_id":85851839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -94.772193,
+    39.364206,
+    -94.772193,
+    39.364206
+],
+  "geometry": {"coordinates":[-94.772193,39.364206],"type":"Point"}
+}

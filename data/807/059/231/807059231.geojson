@@ -1,0 +1,80 @@
+{
+  "id": 807059231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.556556,38.592865,-90.556556,38.592865",
+    "geom:latitude":38.592865,
+    "geom:longitude":-90.556556,
+    "iso:country":"US",
+    "sg:address":"15250 Manchester Rd",
+    "sg:city":"Ballwin",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/wildhorse/90112-penn-station/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 626 527 6265",
+    "sg:postcode":"63011",
+    "sg:province":"MO",
+    "sg:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85831197,
+        102191575,
+        404517315,
+        85633793,
+        85972301,
+        102086173,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5FICTas4oFMYERhbMXGvzI_38.592865_-90.556556@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462603365,
+    "wof:geomhash":"e32bfca98ee696f7b3f6c15a01122d8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086173,
+            "localadmin_id":404517315,
+            "locality_id":85972301,
+            "neighbourhood_id":85831197,
+            "region_id":85688661,
+            "venue_id":807059231
+        }
+    ],
+    "wof:id":807059231,
+    "wof:lastmodified":1462603365,
+    "wof:name":"Penn Station",
+    "wof:parent_id":85831197,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -90.556556,
+    38.592865,
+    -90.556556,
+    38.592865
+],
+  "geometry": {"coordinates":[-90.556556,38.592865],"type":"Point"}
+}

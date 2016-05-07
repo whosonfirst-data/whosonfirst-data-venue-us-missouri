@@ -1,0 +1,78 @@
+{
+  "id": 790314833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.606904,38.009644,-91.606904,38.009644",
+    "geom:latitude":38.009644,
+    "geom:longitude":-91.606904,
+    "iso:country":"US",
+    "sg:address":"600 State Rte B",
+    "sg:city":"St James",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Vineyard",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 265 7847",
+    "sg:postcode":"65559",
+    "sg:province":"MO",
+    "sg:tags":[
+        "grape",
+        "winery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970819,
+        102086893,
+        85847353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4uT8rUJDRhlLmbbxuWzz55_38.009644_-91.606904@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462594881,
+    "wof:geomhash":"afbe81a3ba041dc1ba05bb49d1a61f0c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086893,
+            "locality_id":85970819,
+            "neighbourhood_id":85847353,
+            "region_id":85688661,
+            "venue_id":790314833
+        }
+    ],
+    "wof:id":790314833,
+    "wof:lastmodified":1462594881,
+    "wof:name":"Meramec Vineyards",
+    "wof:parent_id":85847353,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grape",
+        "winery"
+    ]
+},
+  "bbox": [
+    -91.606904,
+    38.009644,
+    -91.606904,
+    38.009644
+],
+  "geometry": {"coordinates":[-91.606904,38.009644],"type":"Point"}
+}

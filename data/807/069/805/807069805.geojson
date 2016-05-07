@@ -1,0 +1,72 @@
+{
+  "id": 807069805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.508396,38.779913,-90.508396,38.779913",
+    "geom:latitude":38.779913,
+    "geom:longitude":-90.508396,
+    "iso:country":"US",
+    "sg:address":"2226 1st Capitol Dr",
+    "sg:city":"Saint Charles",
+    "sg:classifiers":[
+        {
+            "category":"Ice Cream",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/frontier/243304-baskin-robbins/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 947 3137",
+    "sg:postcode":"63301",
+    "sg:province":"MO",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0z40bphfX5XanDc5BvDT2k_38.779913_-90.508396@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462603444,
+    "wof:geomhash":"2f77af71fc4dcb7a69a8d8b91578fda3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":807069805
+        }
+    ],
+    "wof:id":807069805,
+    "wof:lastmodified":1462603444,
+    "wof:name":"Baskin-Robbins",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -90.508396,
+    38.779913,
+    -90.508396,
+    38.779913
+],
+  "geometry": {"coordinates":[-90.508396,38.779913],"type":"Point"}
+}

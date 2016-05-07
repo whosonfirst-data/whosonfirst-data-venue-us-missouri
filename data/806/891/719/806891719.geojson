@@ -1,0 +1,79 @@
+{
+  "id": 806891719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.436846,38.51374,-90.436846,38.51374",
+    "geom:latitude":38.51374,
+    "geom:longitude":-90.436846,
+    "iso:country":"US",
+    "sg:address":"405 Main St",
+    "sg:city":"Hillsboro",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 789 3372",
+    "sg:postcode":"63026",
+    "sg:province":"MO",
+    "sg:tags":[
+        "county",
+        "program",
+        "health"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85858661,
+        102191575,
+        404517203,
+        85633793,
+        85972289,
+        102086173,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3mtYVXi5UtZiLa7iXpn2Pr_38.513740_-90.436846@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462601945,
+    "wof:geomhash":"3abc42797a0eba68c0a2d88809abf590",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086173,
+            "localadmin_id":404517203,
+            "locality_id":85972289,
+            "neighbourhood_id":85858661,
+            "region_id":85688661,
+            "venue_id":806891719
+        }
+    ],
+    "wof:id":806891719,
+    "wof:lastmodified":1462601945,
+    "wof:name":"Jefferson County Health Dept",
+    "wof:parent_id":85858661,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "county",
+        "program",
+        "health"
+    ]
+},
+  "bbox": [
+    -90.436846,
+    38.51374,
+    -90.436846,
+    38.51374
+],
+  "geometry": {"coordinates":[-90.436846,38.51374],"type":"Point"}
+}

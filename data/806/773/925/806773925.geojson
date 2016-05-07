@@ -1,0 +1,71 @@
+{
+  "id": 806773925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.162145,38.569601,-92.162145,38.569601",
+    "geom:latitude":38.569601,
+    "geom:longitude":-92.162145,
+    "iso:country":"US",
+    "sg:address":"901 E High St",
+    "sg:city":"Jefferson City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 636 6110",
+    "sg:postcode":"65101",
+    "sg:province":"MO",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970647,
+        102087511,
+        85837745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_01bYmoUKvtSL25F8mHcJn4_38.569601_-92.162145@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462600966,
+    "wof:geomhash":"7fc2c9f21c0aef93edbb1456b3c41d61",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087511,
+            "locality_id":85970647,
+            "neighbourhood_id":85837745,
+            "region_id":85688661,
+            "venue_id":806773925
+        }
+    ],
+    "wof:id":806773925,
+    "wof:lastmodified":1462600966,
+    "wof:name":"High Street Towing",
+    "wof:parent_id":85837745,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -92.162145,
+    38.569601,
+    -92.162145,
+    38.569601
+],
+  "geometry": {"coordinates":[-92.162145,38.569601],"type":"Point"}
+}

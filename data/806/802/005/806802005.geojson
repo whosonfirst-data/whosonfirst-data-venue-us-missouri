@@ -1,0 +1,73 @@
+{
+  "id": 806802005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.471397,38.782692,-90.471397,38.782692",
+    "geom:latitude":38.782692,
+    "geom:longitude":-90.471397,
+    "iso:country":"US",
+    "sg:address":"13900 Saint Charles Rock Rd",
+    "sg:city":"Bridgeton",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 739 3118",
+    "sg:postcode":"63044",
+    "sg:province":"MO",
+    "sg:tags":[
+        "protection",
+        "association"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972341,
+        102086173,
+        85806637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_53bgEBvU7qhtv9cdmSsYEl_38.782692_-90.471397@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462601201,
+    "wof:geomhash":"3b1a358d32380d00847317d424a5ee26",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086173,
+            "locality_id":85972341,
+            "neighbourhood_id":85806637,
+            "region_id":85688661,
+            "venue_id":806802005
+        }
+    ],
+    "wof:id":806802005,
+    "wof:lastmodified":1462601201,
+    "wof:name":"Pattonville Fire District",
+    "wof:parent_id":85806637,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "protection",
+        "association"
+    ]
+},
+  "bbox": [
+    -90.471397,
+    38.782692,
+    -90.471397,
+    38.782692
+],
+  "geometry": {"coordinates":[-90.471397,38.782692],"type":"Point"}
+}

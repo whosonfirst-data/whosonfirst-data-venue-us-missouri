@@ -1,0 +1,73 @@
+{
+  "id": 789958051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.48445,38.78588,-90.48445,38.78588",
+    "geom:latitude":38.78588,
+    "geom:longitude":-90.48445,
+    "iso:country":"US",
+    "sg:address":"400 N 5th St",
+    "sg:city":"St Charles",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 724 0322",
+    "sg:postcode":"63301",
+    "sg:province":"MO",
+    "sg:tags":[
+        "instruction",
+        "music"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0QwxyEoxMhCNQaR5C32KOW_38.785880_-90.484450@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462591981,
+    "wof:geomhash":"d51e77fa71907394f739c1ccfc153f81",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":789958051
+        }
+    ],
+    "wof:id":789958051,
+    "wof:lastmodified":1462591981,
+    "wof:name":"Wilma Schroeder",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instruction",
+        "music"
+    ]
+},
+  "bbox": [
+    -90.48445,
+    38.78588,
+    -90.48445,
+    38.78588
+],
+  "geometry": {"coordinates":[-90.48445,38.78588],"type":"Point"}
+}

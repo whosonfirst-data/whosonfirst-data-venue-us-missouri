@@ -1,0 +1,71 @@
+{
+  "id": 773406617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.175743,38.572031,-92.175743,38.572031",
+    "geom:latitude":38.572031,
+    "geom:longitude":-92.175743,
+    "iso:country":"US",
+    "sg:address":"205 E Dunklin St",
+    "sg:city":"Jefferson City",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 634 8344",
+    "sg:postcode":"65101",
+    "sg:province":"MO",
+    "sg:tags":[
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970647,
+        102087511,
+        85837745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6dImvONUgffO3TuGVgqcHE_38.572031_-92.175743@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462585448,
+    "wof:geomhash":"8e46b33c03fe61b8b51a3cd34ce15567",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087511,
+            "locality_id":85970647,
+            "neighbourhood_id":85837745,
+            "region_id":85688661,
+            "venue_id":773406617
+        }
+    ],
+    "wof:id":773406617,
+    "wof:lastmodified":1462585448,
+    "wof:name":"Woodley Building Maintenance",
+    "wof:parent_id":85837745,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -92.175743,
+    38.572031,
+    -92.175743,
+    38.572031
+],
+  "geometry": {"coordinates":[-92.175743,38.572031],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 773592185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.240778,39.359116,-94.240778,39.359116",
+    "geom:latitude":39.359116,
+    "geom:longitude":-94.240778,
+    "iso:country":"US",
+    "sg:address":"205 Sherri Ln",
+    "sg:city":"Excelsior Springs",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 630 5022",
+    "sg:postcode":"64024",
+    "sg:province":"MO",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971507,
+        102086177,
+        85822189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0iCZvxFIU1RXA8CGUo5AsS_39.359116_-94.240778@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462586889,
+    "wof:geomhash":"979a6bc0f934ddc28e2cdef1fa4d3925",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086177,
+            "locality_id":85971507,
+            "neighbourhood_id":85822189,
+            "region_id":85688661,
+            "venue_id":773592185
+        }
+    ],
+    "wof:id":773592185,
+    "wof:lastmodified":1462586889,
+    "wof:name":"5d Delivery",
+    "wof:parent_id":85822189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -94.240778,
+    39.359116,
+    -94.240778,
+    39.359116
+],
+  "geometry": {"coordinates":[-94.24077800000001,39.359116],"type":"Point"}
+}

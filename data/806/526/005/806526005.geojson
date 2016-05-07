@@ -1,0 +1,78 @@
+{
+  "id": 806526005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.795554,38.840924,-90.795554,38.840924",
+    "geom:latitude":38.840924,
+    "geom:longitude":-90.795554,
+    "iso:country":"US",
+    "sg:address":"1363 Josephville Rd",
+    "sg:city":"Wentzville",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Meat & Fish",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Meat",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 327 5455",
+    "sg:postcode":"63385",
+    "sg:province":"MO",
+    "sg:tags":[
+        "product",
+        "livestock"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6mkxdl5WNWDJWiVqVaYRl1_38.840924_-90.795554@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462598835,
+    "wof:geomhash":"6d294647476e567f0808772d8172f369",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":806526005
+        }
+    ],
+    "wof:id":806526005,
+    "wof:lastmodified":1462598835,
+    "wof:name":"Josephville Meat Processing Co",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product",
+        "livestock"
+    ]
+},
+  "bbox": [
+    -90.795554,
+    38.840924,
+    -90.795554,
+    38.840924
+],
+  "geometry": {"coordinates":[-90.795554,38.840924],"type":"Point"}
+}

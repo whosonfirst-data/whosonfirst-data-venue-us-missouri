@@ -1,0 +1,87 @@
+{
+  "id": 807109703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.507805,38.652945,-90.507805,38.652945",
+    "geom:latitude":38.652945,
+    "geom:longitude":-90.507805,
+    "iso:country":"US",
+    "sg:address":"209 S Woods Mill Rd Apt 2",
+    "sg:city":"Chesterfield",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Farming",
+            "subcategory":"Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 317 9273",
+    "sg:postcode":"63017",
+    "sg:province":"MO",
+    "sg:tags":[
+        "product",
+        "corn"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85802943,
+        102191575,
+        404517387,
+        85633793,
+        85972231,
+        102086173,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0X13rHOeudCdH04QTZBHdz_38.652945_-90.507805@1303262925"
+    },
+    "wof:country":"US",
+    "wof:created":1462603831,
+    "wof:geomhash":"93e59bb63a7ae3fc8397289ba29b70d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086173,
+            "localadmin_id":404517387,
+            "locality_id":85972231,
+            "neighbourhood_id":85802943,
+            "region_id":85688661,
+            "venue_id":807109703
+        }
+    ],
+    "wof:id":807109703,
+    "wof:lastmodified":1462603831,
+    "wof:name":"Orville Bryan",
+    "wof:parent_id":85802943,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product",
+        "corn"
+    ]
+},
+  "bbox": [
+    -90.507805,
+    38.652945,
+    -90.507805,
+    38.652945
+],
+  "geometry": {"coordinates":[-90.507805,38.652945],"type":"Point"}
+}

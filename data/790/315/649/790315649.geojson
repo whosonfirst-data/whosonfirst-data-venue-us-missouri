@@ -1,0 +1,73 @@
+{
+  "id": 790315649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.69861,38.79175,-90.69861,38.79175",
+    "geom:latitude":38.79175,
+    "geom:longitude":-90.69861,
+    "iso:country":"US",
+    "sg:address":"1337 Hwy K",
+    "sg:city":"O Fallon",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 379 9999",
+    "sg:postcode":"63366",
+    "sg:province":"MO",
+    "sg:tags":[
+        "shop",
+        "manicuring"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0TpLXODI3hl0fNq6hCLKa3_38.791750_-90.698610@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462594886,
+    "wof:geomhash":"d32416dcb7cb098edd41c070605e2dc3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":790315649
+        }
+    ],
+    "wof:id":790315649,
+    "wof:lastmodified":1462594886,
+    "wof:name":"Glamour Nails Inc",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "manicuring"
+    ]
+},
+  "bbox": [
+    -90.69861,
+    38.79175,
+    -90.69861,
+    38.79175
+],
+  "geometry": {"coordinates":[-90.69861,38.79175],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 806679097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.535588,38.78643,-90.535588,38.78643",
+    "geom:latitude":38.78643,
+    "geom:longitude":-90.535588,
+    "iso:country":"US",
+    "sg:address":"1014 Country Club Rd",
+    "sg:city":"St Charles",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 940 0707",
+    "sg:postcode":"63303",
+    "sg:province":"MO",
+    "sg:tags":[
+        "laboratory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3zE8dSxVE6TnvcUdg5GZJN_38.786430_-90.535588@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462600164,
+    "wof:geomhash":"f0d761fa80af02d6ea4de8e599d45e31",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":806679097
+        }
+    ],
+    "wof:id":806679097,
+    "wof:lastmodified":1462600164,
+    "wof:name":"Keller Labs",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory"
+    ]
+},
+  "bbox": [
+    -90.535588,
+    38.78643,
+    -90.535588,
+    38.78643
+],
+  "geometry": {"coordinates":[-90.535588,38.78643],"type":"Point"}
+}

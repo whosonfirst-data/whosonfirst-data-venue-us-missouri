@@ -1,0 +1,76 @@
+{
+  "id": 807105197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.386731,38.409575,-90.386731,38.409575",
+    "geom:latitude":38.409575,
+    "geom:longitude":-90.386731,
+    "iso:country":"US",
+    "sg:address":"1923 Meyer Drury Dr",
+    "sg:city":"Arnold",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 566 6935",
+    "sg:postcode":"63010",
+    "sg:province":"MO",
+    "sg:tags":[
+        "machine",
+        "machinery-rebuild"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85805175,
+        102080787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Gdw6ACKzKbB2g7wBfsMON_38.409575_-90.386731@1303262925"
+    },
+    "wof:country":"US",
+    "wof:created":1462603786,
+    "wof:geomhash":"33bf0e00aea293cbfd979b111d1207e0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080787,
+            "neighbourhood_id":85805175,
+            "region_id":85688661,
+            "venue_id":807105197
+        }
+    ],
+    "wof:id":807105197,
+    "wof:lastmodified":1462603786,
+    "wof:name":"Dosco Valve Repair & Machining",
+    "wof:parent_id":85805175,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "machinery-rebuild"
+    ]
+},
+  "bbox": [
+    -90.386731,
+    38.409575,
+    -90.386731,
+    38.409575
+],
+  "geometry": {"coordinates":[-90.386731,38.409575],"type":"Point"}
+}

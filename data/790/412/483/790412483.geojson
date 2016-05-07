@@ -1,0 +1,71 @@
+{
+  "id": 790412483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.350163,39.702793,-91.350163,39.702793",
+    "geom:latitude":39.702793,
+    "geom:longitude":-91.350163,
+    "iso:country":"US",
+    "sg:address":"200 Cypress",
+    "sg:city":"Hannibal",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 221 8555",
+    "sg:postcode":"63401",
+    "sg:province":"MO",
+    "sg:tags":[
+        "company"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688697,
+        85633793,
+        85938427,
+        102086213,
+        85867477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_14toIHDYq8A0U5xjQWxROC_39.702793_-91.350163@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462595629,
+    "wof:geomhash":"53fc1fc1df2b5adb03504946edec7eac",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086213,
+            "locality_id":85938427,
+            "neighbourhood_id":85867477,
+            "region_id":85688697,
+            "venue_id":790412483
+        }
+    ],
+    "wof:id":790412483,
+    "wof:lastmodified":1462595629,
+    "wof:name":"Northern Sanitation",
+    "wof:parent_id":85867477,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company"
+    ]
+},
+  "bbox": [
+    -91.350163,
+    39.702793,
+    -91.350163,
+    39.702793
+],
+  "geometry": {"coordinates":[-91.35016299999999,39.702793],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 790323895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.5103,37.054901,-94.5103,37.054901",
+    "geom:latitude":37.054901,
+    "geom:longitude":-94.5103,
+    "iso:country":"US",
+    "sg:address":"414 E 32nd St",
+    "sg:city":"Joplin",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 624 3222",
+    "sg:postcode":"64804",
+    "sg:province":"MO",
+    "sg:website":"www.cbthomebank.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85885363,
+        102191575,
+        404518215,
+        85633793,
+        85970893,
+        102087525,
+        85688661,
+        85971289,
+        102087471,
+        85814333
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ZVCkFlf8RlatYo5S79h1Y_37.054901_-94.510300@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462594947,
+    "wof:geomhash":"d6c05f53583c1b0c135c009ea5ab8bae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087525,
+            "localadmin_id":404518215,
+            "locality_id":85970893,
+            "neighbourhood_id":85885363,
+            "region_id":85688661,
+            "venue_id":790323895
+        },
+        {
+            "country_id":85633793,
+            "county_id":102087471,
+            "locality_id":85971289,
+            "neighbourhood_id":85814333,
+            "region_id":85688661,
+            "venue_id":790323895
+        }
+    ],
+    "wof:id":790323895,
+    "wof:lastmodified":1462594947,
+    "wof:name":"Community Bank & Trust",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -94.5103,
+    37.054901,
+    -94.5103,
+    37.054901
+],
+  "geometry": {"coordinates":[-94.5103,37.054901],"type":"Point"}
+}

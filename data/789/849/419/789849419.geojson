@@ -1,0 +1,73 @@
+{
+  "id": 789849419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.61656,38.141914,-91.61656,38.141914",
+    "geom:latitude":38.141914,
+    "geom:longitude":-91.61656,
+    "iso:country":"US",
+    "sg:address":"23112 Co Rd 1290",
+    "sg:city":"St James",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 699 4219",
+    "sg:postcode":"65559",
+    "sg:province":"MO",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970819,
+        102086893,
+        85847353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ZC5gnMwiuaQyBeSCgHOks_38.141914_-91.616560@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462591022,
+    "wof:geomhash":"cf50d35adfedc815c153eb8b216fe8e5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086893,
+            "locality_id":85970819,
+            "neighbourhood_id":85847353,
+            "region_id":85688661,
+            "venue_id":789849419
+        }
+    ],
+    "wof:id":789849419,
+    "wof:lastmodified":1462591022,
+    "wof:name":"Jack Bartle Plumbing & Elec",
+    "wof:parent_id":85847353,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -91.61656,
+    38.141914,
+    -91.61656,
+    38.141914
+],
+  "geometry": {"coordinates":[-91.61656000000001,38.141914],"type":"Point"}
+}

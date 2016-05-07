@@ -1,0 +1,74 @@
+{
+  "id": 807078403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.22829,39.439862,-94.22829,39.439862",
+    "geom:latitude":39.439862,
+    "geom:longitude":-94.22829,
+    "iso:country":"US",
+    "sg:address":"29411 D Hwy",
+    "sg:city":"Lawson",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/lawson/201632-sonic/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 580 7997",
+    "sg:postcode":"64062",
+    "sg:province":"MO",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971507,
+        102086177,
+        85822189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4OszZZg8vGRomJlNvhBp5R_39.439862_-94.228290@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462603520,
+    "wof:geomhash":"cabbdf6983920649ab0abe7f93ed99e2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086177,
+            "locality_id":85971507,
+            "neighbourhood_id":85822189,
+            "region_id":85688661,
+            "venue_id":807078403
+        }
+    ],
+    "wof:id":807078403,
+    "wof:lastmodified":1462603520,
+    "wof:name":"Sonic",
+    "wof:parent_id":85822189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -94.22829,
+    39.439862,
+    -94.22829,
+    39.439862
+],
+  "geometry": {"coordinates":[-94.22829,39.439862],"type":"Point"}
+}

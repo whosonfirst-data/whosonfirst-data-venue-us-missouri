@@ -1,0 +1,73 @@
+{
+  "id": 773562659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.223658,39.117845,-92.223658,39.117845",
+    "geom:latitude":39.117845,
+    "geom:longitude":-92.223658,
+    "iso:country":"US",
+    "sg:address":"309 E Hwy 124",
+    "sg:city":"Hallsville",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 696 3434",
+    "sg:postcode":"65255",
+    "sg:province":"MO",
+    "sg:tags":[
+        "postal",
+        "us"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970425,
+        102086187,
+        85851713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6j7mdJCKDpdOXOzlyIp1hH_39.117845_-92.223658@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462586671,
+    "wof:geomhash":"3d7082addb6216793f0623e2308b3e56",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086187,
+            "locality_id":85970425,
+            "neighbourhood_id":85851713,
+            "region_id":85688661,
+            "venue_id":773562659
+        }
+    ],
+    "wof:id":773562659,
+    "wof:lastmodified":1462586671,
+    "wof:name":"US Post Office",
+    "wof:parent_id":85851713,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "postal",
+        "us"
+    ]
+},
+  "bbox": [
+    -92.223658,
+    39.117845,
+    -92.223658,
+    39.117845
+],
+  "geometry": {"coordinates":[-92.223658,39.117845],"type":"Point"}
+}

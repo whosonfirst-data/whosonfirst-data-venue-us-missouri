@@ -1,0 +1,71 @@
+{
+  "id": 806499313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.521507,38.593178,-90.521507,38.593178",
+    "geom:latitude":38.593178,
+    "geom:longitude":-90.521507,
+    "iso:country":"US",
+    "sg:address":"14529 Manchester Rd",
+    "sg:city":"Ballwin",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 227 4511",
+    "sg:postcode":"63011",
+    "sg:province":"MO",
+    "sg:website":"www.walgreens.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85831197,
+        102191575,
+        404517315,
+        85633793,
+        85972301,
+        102086173,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4uwcT4l0JxNi9OFYl2UW88_38.593178_-90.521507@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462598617,
+    "wof:geomhash":"cf25a3d2558f3abd15d5bd0e325218ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086173,
+            "localadmin_id":404517315,
+            "locality_id":85972301,
+            "neighbourhood_id":85831197,
+            "region_id":85688661,
+            "venue_id":806499313
+        }
+    ],
+    "wof:id":806499313,
+    "wof:lastmodified":1462598617,
+    "wof:name":"Walgreens",
+    "wof:parent_id":85831197,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.521507,
+    38.593178,
+    -90.521507,
+    38.593178
+],
+  "geometry": {"coordinates":[-90.521507,38.593178],"type":"Point"}
+}

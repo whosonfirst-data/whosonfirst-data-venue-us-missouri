@@ -1,0 +1,79 @@
+{
+  "id": 790028963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.274941,39.006573,-92.274941,39.006573",
+    "geom:latitude":39.006573,
+    "geom:longitude":-92.274941,
+    "iso:country":"US",
+    "sg:address":"5501 Paris Rd",
+    "sg:city":"Columbia",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 886 9411",
+    "sg:postcode":"65201",
+    "sg:province":"MO",
+    "sg:tags":[
+        "terminal",
+        "operator",
+        "trucking",
+        "truck",
+        "facility"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970425,
+        102086187,
+        85851713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3zNvbqt8aNFRvNWM17mT3s_39.006573_-92.274941@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462592566,
+    "wof:geomhash":"909fae06b438e7c95312575093cb76b7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086187,
+            "locality_id":85970425,
+            "neighbourhood_id":85851713,
+            "region_id":85688661,
+            "venue_id":790028963
+        }
+    ],
+    "wof:id":790028963,
+    "wof:lastmodified":1462592566,
+    "wof:name":"Fedex Freight East Inc",
+    "wof:parent_id":85851713,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "terminal",
+        "operator",
+        "trucking",
+        "truck",
+        "facility"
+    ]
+},
+  "bbox": [
+    -92.274941,
+    39.006573,
+    -92.274941,
+    39.006573
+],
+  "geometry": {"coordinates":[-92.274941,39.006573],"type":"Point"}
+}

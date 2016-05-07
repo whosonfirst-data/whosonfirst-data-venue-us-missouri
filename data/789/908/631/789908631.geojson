@@ -1,0 +1,76 @@
+{
+  "id": 789908631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.419116,38.672831,-90.419116,38.672831",
+    "geom:latitude":38.672831,
+    "geom:longitude":-90.419116,
+    "iso:country":"US",
+    "sg:address":"10842 Olive Blvd",
+    "sg:city":"St Louis",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 569 3111",
+    "sg:postcode":"63141",
+    "sg:province":"MO",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "sg:website":"www.spoede-vet.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85803699,
+        102191575,
+        404517323,
+        85633793,
+        85972315,
+        102086173,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6MXP0Z3kFQ8cUwtCiuYQRF_38.672831_-90.419116@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462591523,
+    "wof:geomhash":"bcb783fb41c3664298649e7040dc1f49",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086173,
+            "localadmin_id":404517323,
+            "locality_id":85972315,
+            "neighbourhood_id":85803699,
+            "region_id":85688661,
+            "venue_id":789908631
+        }
+    ],
+    "wof:id":789908631,
+    "wof:lastmodified":1462591523,
+    "wof:name":"Spoede Animal Hospital PC",
+    "wof:parent_id":85803699,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -90.419116,
+    38.672831,
+    -90.419116,
+    38.672831
+],
+  "geometry": {"coordinates":[-90.419116,38.672831],"type":"Point"}
+}

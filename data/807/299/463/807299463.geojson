@@ -1,0 +1,76 @@
+{
+  "id": 807299463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.202258,37.004162,-93.202258,37.004162",
+    "geom:latitude":37.004162,
+    "geom:longitude":-93.202258,
+    "iso:country":"US",
+    "sg:address":"612 E South St",
+    "sg:city":"Ozark",
+    "sg:classifiers":[
+        {
+            "category":"Fast Food",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 485 4961",
+    "sg:postcode":"65721",
+    "sg:province":"MO",
+    "sg:tags":[
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971577,
+        102087497,
+        85809751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2nCweMzC8C7xVatHMxsQdU_37.004162_-93.202258@1303262938"
+    },
+    "wof:country":"US",
+    "wof:created":1462605844,
+    "wof:geomhash":"773b00347f3f6f1f55829b2ec8b5af6c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087497,
+            "locality_id":85971577,
+            "neighbourhood_id":85809751,
+            "region_id":85688661,
+            "venue_id":807299463
+        }
+    ],
+    "wof:id":807299463,
+    "wof:lastmodified":1462605844,
+    "wof:name":"Paul Reveres Pizza",
+    "wof:parent_id":85809751,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pizza"
+    ]
+},
+  "bbox": [
+    -93.202258,
+    37.004162,
+    -93.202258,
+    37.004162
+],
+  "geometry": {"coordinates":[-93.202258,37.004162],"type":"Point"}
+}

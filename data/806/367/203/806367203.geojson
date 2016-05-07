@@ -1,0 +1,71 @@
+{
+  "id": 806367203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.512772,38.784203,-90.512772,38.784203",
+    "geom:latitude":38.784203,
+    "geom:longitude":-90.512772,
+    "iso:country":"US",
+    "sg:address":"2448 W Clay St",
+    "sg:city":"St Charles",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 723 1811",
+    "sg:postcode":"63301",
+    "sg:province":"MO",
+    "sg:tags":[
+        "appliance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0k93rZqhR5Ewtn2v6I6VmB_38.784203_-90.512772@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462597573,
+    "wof:geomhash":"ab3e78e1a48665397660b6d0384209ee",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":806367203
+        }
+    ],
+    "wof:id":806367203,
+    "wof:lastmodified":1462597573,
+    "wof:name":"Rent-A-Center",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "appliance"
+    ]
+},
+  "bbox": [
+    -90.512772,
+    38.784203,
+    -90.512772,
+    38.784203
+],
+  "geometry": {"coordinates":[-90.512772,38.784203],"type":"Point"}
+}

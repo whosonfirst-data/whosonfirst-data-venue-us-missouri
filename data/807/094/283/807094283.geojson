@@ -1,0 +1,78 @@
+{
+  "id": 807094283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.308511,37.240666,-93.308511,37.240666",
+    "geom:latitude":37.240666,
+    "geom:longitude":-93.308511,
+    "iso:country":"US",
+    "sg:address":"1416 W Kearney St",
+    "sg:city":"Springfield",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/springfield/210982-arbys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 865 9779",
+    "sg:postcode":"65803",
+    "sg:province":"MO",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85881167,
+        102191575,
+        404516201,
+        85633793,
+        85971363,
+        102087523,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_24kBvp3WRIKrWt1HJ8RNKa_37.240666_-93.308511@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462603656,
+    "wof:geomhash":"c1b5ff99b397492a6a9cd5b0a9b775b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087523,
+            "localadmin_id":404516201,
+            "locality_id":85971363,
+            "neighbourhood_id":85881167,
+            "region_id":85688661,
+            "venue_id":807094283
+        }
+    ],
+    "wof:id":807094283,
+    "wof:lastmodified":1462603656,
+    "wof:name":"Arby's",
+    "wof:parent_id":85881167,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -93.308511,
+    37.240666,
+    -93.308511,
+    37.240666
+],
+  "geometry": {"coordinates":[-93.308511,37.240666],"type":"Point"}
+}

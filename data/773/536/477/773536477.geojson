@@ -1,0 +1,75 @@
+{
+  "id": 773536477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.624929,38.809499,-90.624929,38.809499",
+    "geom:latitude":38.809499,
+    "geom:longitude":-90.624929,
+    "iso:country":"US",
+    "sg:address":"290 Hwy C",
+    "sg:city":"St Peters",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 397 3323",
+    "sg:postcode":"63376",
+    "sg:province":"MO",
+    "sg:tags":[
+        "pet",
+        "boarding",
+        "sitting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4omjKfkvbOguwkiXDwNWRt_38.809499_-90.624929@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462586455,
+    "wof:geomhash":"d29978e1606d8be15eadd272fbf4597b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":773536477
+        }
+    ],
+    "wof:id":773536477,
+    "wof:lastmodified":1462586455,
+    "wof:name":"Twin Rivers Kennel",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "boarding",
+        "sitting"
+    ]
+},
+  "bbox": [
+    -90.624929,
+    38.809499,
+    -90.624929,
+    38.809499
+],
+  "geometry": {"coordinates":[-90.62492899999999,38.809499],"type":"Point"}
+}

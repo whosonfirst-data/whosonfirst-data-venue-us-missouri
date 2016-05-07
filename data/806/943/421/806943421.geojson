@@ -1,0 +1,75 @@
+{
+  "id": 806943421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.429725,38.700128,-90.429725,38.700128",
+    "geom:latitude":38.700128,
+    "geom:longitude":-90.429725,
+    "iso:country":"US",
+    "sg:address":"2145 Schuetz Rd",
+    "sg:city":"St Louis",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 567 1111",
+    "sg:postcode":"63146",
+    "sg:province":"MO",
+    "sg:tags":[
+        "paint"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85803699,
+        102191575,
+        404517323,
+        85633793,
+        85972315,
+        102086173,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3EkTMo0jXheN6C99dUHJSt_38.700128_-90.429725@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462602388,
+    "wof:geomhash":"309e5fbeb158c5aba8d8b3fefc598a19",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086173,
+            "localadmin_id":404517323,
+            "locality_id":85972315,
+            "neighbourhood_id":85803699,
+            "region_id":85688661,
+            "venue_id":806943421
+        }
+    ],
+    "wof:id":806943421,
+    "wof:lastmodified":1462602388,
+    "wof:name":"Sherwin-Williams Paints",
+    "wof:parent_id":85803699,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "paint"
+    ]
+},
+  "bbox": [
+    -90.429725,
+    38.700128,
+    -90.429725,
+    38.700128
+],
+  "geometry": {"coordinates":[-90.429725,38.700128],"type":"Point"}
+}

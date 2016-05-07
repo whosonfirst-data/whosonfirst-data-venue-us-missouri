@@ -1,0 +1,75 @@
+{
+  "id": 789700143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.282308,38.782024,-90.282308,38.782024",
+    "geom:latitude":38.782024,
+    "geom:longitude":-90.282308,
+    "iso:country":"US",
+    "sg:address":"11835 Seven Hills Dr",
+    "sg:city":"Florissant",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 830 3226",
+    "sg:postcode":"63033",
+    "sg:province":"MO",
+    "sg:tags":[
+        "passenger"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85813019,
+        102191575,
+        404517467,
+        85633793,
+        85972639,
+        102086173,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0rPMKJpxTic25es6adrAdU_38.782024_-90.282308@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462589858,
+    "wof:geomhash":"1d5fb5a11b2ab1ced885c6a478c240d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086173,
+            "localadmin_id":404517467,
+            "locality_id":85972639,
+            "neighbourhood_id":85813019,
+            "region_id":85688661,
+            "venue_id":789700143
+        }
+    ],
+    "wof:id":789700143,
+    "wof:lastmodified":1462589858,
+    "wof:name":"Metropolitan Transportation Co",
+    "wof:parent_id":85813019,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "passenger"
+    ]
+},
+  "bbox": [
+    -90.282308,
+    38.782024,
+    -90.282308,
+    38.782024
+],
+  "geometry": {"coordinates":[-90.282308,38.782024],"type":"Point"}
+}

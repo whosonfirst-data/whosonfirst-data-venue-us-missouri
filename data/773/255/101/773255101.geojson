@@ -1,0 +1,75 @@
+{
+  "id": 773255101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.690711,38.819676,-90.690711,38.819676",
+    "geom:latitude":38.819676,
+    "geom:longitude":-90.690711,
+    "iso:country":"US",
+    "sg:address":"503 Mona Dr",
+    "sg:city":"O Fallon",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 240 4812",
+    "sg:postcode":"63366",
+    "sg:province":"MO",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_154Ax9z05KVGFiq6AvpStb_38.819676_-90.690711@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462584330,
+    "wof:geomhash":"c1e2b738b6582a1e930657dee2493755",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":773255101
+        }
+    ],
+    "wof:id":773255101,
+    "wof:lastmodified":1462584330,
+    "wof:name":"Tk Delivery",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -90.690711,
+    38.819676,
+    -90.690711,
+    38.819676
+],
+  "geometry": {"coordinates":[-90.69071099999999,38.819676],"type":"Point"}
+}

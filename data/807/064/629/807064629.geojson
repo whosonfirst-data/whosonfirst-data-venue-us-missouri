@@ -1,0 +1,78 @@
+{
+  "id": 807064629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.191334,38.627881,-90.191334,38.627881",
+    "geom:latitude":38.627881,
+    "geom:longitude":-90.191334,
+    "iso:country":"US",
+    "sg:address":"216 N 7th St",
+    "sg:city":"Saint Louis",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/st-louis/148736-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 231 2629",
+    "sg:postcode":"63101",
+    "sg:province":"MO",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85867033,
+        102191575,
+        404518053,
+        85633793,
+        85971343,
+        102080791,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7d7MDu44kPhpp1BI0JtmcU_38.627881_-90.191334@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462603405,
+    "wof:geomhash":"b48bf09db744324bd07761a31920c0ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080791,
+            "localadmin_id":404518053,
+            "locality_id":85971343,
+            "neighbourhood_id":85867033,
+            "region_id":85688661,
+            "venue_id":807064629
+        }
+    ],
+    "wof:id":807064629,
+    "wof:lastmodified":1462603405,
+    "wof:name":"Subway",
+    "wof:parent_id":85867033,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -90.191334,
+    38.627881,
+    -90.191334,
+    38.627881
+],
+  "geometry": {"coordinates":[-90.191334,38.627881],"type":"Point"}
+}

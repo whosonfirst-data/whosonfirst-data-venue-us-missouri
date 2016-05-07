@@ -1,0 +1,73 @@
+{
+  "id": 790616809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.382863,38.398722,-90.382863,38.398722",
+    "geom:latitude":38.398722,
+    "geom:longitude":-90.382863,
+    "iso:country":"US",
+    "sg:address":"3993 W Outer Rd",
+    "sg:city":"Arnold",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 467 5514",
+    "sg:postcode":"63010",
+    "sg:province":"MO",
+    "sg:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85805175,
+        102080787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1pZsCGjpTkjL4DlTpyHIrQ_38.398722_-90.382863@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462597380,
+    "wof:geomhash":"3ab9ea8f63f88c9026d512ab4b308d01",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080787,
+            "neighbourhood_id":85805175,
+            "region_id":85688661,
+            "venue_id":790616809
+        }
+    ],
+    "wof:id":790616809,
+    "wof:lastmodified":1462597380,
+    "wof:name":"U-Haul Co",
+    "wof:parent_id":85805175,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ]
+},
+  "bbox": [
+    -90.382863,
+    38.398722,
+    -90.382863,
+    38.398722
+],
+  "geometry": {"coordinates":[-90.382863,38.398722],"type":"Point"}
+}

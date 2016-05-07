@@ -1,0 +1,88 @@
+{
+  "id": 773792193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.373172,39.236199,-94.373172,39.236199",
+    "geom:latitude":39.236199,
+    "geom:longitude":-94.373172,
+    "iso:country":"US",
+    "sg:address":"17000 NE 79 St",
+    "sg:city":"Liberty",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 781 6414",
+    "sg:postcode":"64068",
+    "sg:province":"MO",
+    "sg:tags":[
+        "long",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420525367,
+        102191575,
+        404516717,
+        85633793,
+        85972461,
+        102086177,
+        85688661,
+        420525305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6rknYVuSwVMWvhHh4neZwj_39.236199_-94.373172@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462588404,
+    "wof:geomhash":"893b9886521befdc246ef5702292cc5d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086177,
+            "localadmin_id":404516717,
+            "locality_id":85972461,
+            "neighbourhood_id":420525367,
+            "region_id":85688661,
+            "venue_id":773792193
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086177,
+            "localadmin_id":404516717,
+            "locality_id":85972461,
+            "neighbourhood_id":420525305,
+            "region_id":85688661,
+            "venue_id":773792193
+        }
+    ],
+    "wof:id":773792193,
+    "wof:lastmodified":1462588404,
+    "wof:name":"Expedicted Express",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "long",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -94.373172,
+    39.236199,
+    -94.373172,
+    39.236199
+],
+  "geometry": {"coordinates":[-94.373172,39.236199],"type":"Point"}
+}

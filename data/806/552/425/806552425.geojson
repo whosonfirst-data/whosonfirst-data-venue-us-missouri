@@ -1,0 +1,71 @@
+{
+  "id": 806552425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.531156,37.082031,-94.531156,37.082031",
+    "geom:latitude":37.082031,
+    "geom:longitude":-94.531156,
+    "iso:country":"US",
+    "sg:address":"803 S Maiden Ln",
+    "sg:city":"Joplin",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Self-service Laundry",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 782 7809",
+    "sg:postcode":"64801",
+    "sg:province":"MO",
+    "sg:tags":[
+        "coin"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970893,
+        102087525,
+        85810925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_62VRdapJ9mcfd1cdrVUQ6m_37.082031_-94.531156@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462599052,
+    "wof:geomhash":"829254e78396ba378089fe1db0861441",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087525,
+            "locality_id":85970893,
+            "neighbourhood_id":85810925,
+            "region_id":85688661,
+            "venue_id":806552425
+        }
+    ],
+    "wof:id":806552425,
+    "wof:lastmodified":1462599052,
+    "wof:name":"Lu's Laundromat",
+    "wof:parent_id":85810925,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "coin"
+    ]
+},
+  "bbox": [
+    -94.531156,
+    37.082031,
+    -94.531156,
+    37.082031
+],
+  "geometry": {"coordinates":[-94.531156,37.082031],"type":"Point"}
+}

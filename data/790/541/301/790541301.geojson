@@ -1,0 +1,78 @@
+{
+  "id": 790541301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.302935,38.74505,-90.302935,38.74505",
+    "geom:latitude":38.74505,
+    "geom:longitude":-90.302935,
+    "iso:country":"US",
+    "sg:address":"106 Church St",
+    "sg:city":"Ferguson",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 522 1122",
+    "sg:postcode":"63135",
+    "sg:province":"MO",
+    "sg:tags":[
+        "department",
+        "protection"
+    ],
+    "sg:website":"www.fergusoncity.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85859027,
+        102191575,
+        404517247,
+        85633793,
+        85972205,
+        102086173,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5MoFdDHi6mHc1azs1LFzjA_38.745050_-90.302935@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462596715,
+    "wof:geomhash":"a314e6234c3986559766400caf185c7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086173,
+            "localadmin_id":404517247,
+            "locality_id":85972205,
+            "neighbourhood_id":85859027,
+            "region_id":85688661,
+            "venue_id":790541301
+        }
+    ],
+    "wof:id":790541301,
+    "wof:lastmodified":1462596715,
+    "wof:name":"Ferguson Fire Dept",
+    "wof:parent_id":85859027,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department",
+        "protection"
+    ]
+},
+  "bbox": [
+    -90.302935,
+    38.74505,
+    -90.302935,
+    38.74505
+],
+  "geometry": {"coordinates":[-90.30293500000001,38.74505],"type":"Point"}
+}

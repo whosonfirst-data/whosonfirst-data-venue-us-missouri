@@ -1,0 +1,71 @@
+{
+  "id": 806725635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.574521,39.3612,-94.574521,39.3612",
+    "geom:latitude":39.3612,
+    "geom:longitude":-94.574521,
+    "iso:country":"US",
+    "sg:address":"510 Shannon Ave",
+    "sg:city":"Smithville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 532 4300",
+    "sg:postcode":"64089",
+    "sg:province":"MO",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970739,
+        102086177,
+        85836329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5QfNXhs75uVWdVm9F1k25Y_39.361200_-94.574521@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462600549,
+    "wof:geomhash":"1293e7a363b64ca42724de799041a6f3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086177,
+            "locality_id":85970739,
+            "neighbourhood_id":85836329,
+            "region_id":85688661,
+            "venue_id":806725635
+        }
+    ],
+    "wof:id":806725635,
+    "wof:lastmodified":1462600549,
+    "wof:name":"Hills Of Shannon",
+    "wof:parent_id":85836329,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -94.574521,
+    39.3612,
+    -94.574521,
+    39.3612
+],
+  "geometry": {"coordinates":[-94.574521,39.3612],"type":"Point"}
+}

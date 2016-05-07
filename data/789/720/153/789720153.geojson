@@ -1,0 +1,71 @@
+{
+  "id": 789720153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.353147,39.706933,-91.353147,39.706933",
+    "geom:latitude":39.706933,
+    "geom:longitude":-91.353147,
+    "iso:country":"US",
+    "sg:address":"700 S Main St",
+    "sg:city":"Hannibal",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 221 8434",
+    "sg:postcode":"63401",
+    "sg:province":"MO",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688697,
+        85633793,
+        85938427,
+        102086213,
+        85867477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5jSf3HOJD718PdmMtmSDvz_39.706933_-91.353147@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462590017,
+    "wof:geomhash":"ce5d8e5dc175f6b051cac7d896f3f76a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086213,
+            "locality_id":85938427,
+            "neighbourhood_id":85867477,
+            "region_id":85688697,
+            "venue_id":789720153
+        }
+    ],
+    "wof:id":789720153,
+    "wof:lastmodified":1462590017,
+    "wof:name":"Joe Ogden Garage",
+    "wof:parent_id":85867477,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -91.353147,
+    39.706933,
+    -91.353147,
+    39.706933
+],
+  "geometry": {"coordinates":[-91.35314700000001,39.706933],"type":"Point"}
+}

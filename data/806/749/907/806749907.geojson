@@ -1,0 +1,71 @@
+{
+  "id": 806749907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.545981,38.788292,-90.545981,38.788292",
+    "geom:latitude":38.788292,
+    "geom:longitude":-90.545981,
+    "iso:country":"US",
+    "sg:address":"10 San Miguel Dr",
+    "sg:city":"St Charles",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 946 6128",
+    "sg:postcode":"63303",
+    "sg:province":"MO",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2I0KEE7yWYShdj8RB6lp7r_38.788292_-90.545981@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462600762,
+    "wof:geomhash":"206b022db78a9487548af1d0f8fd515f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":806749907
+        }
+    ],
+    "wof:id":806749907,
+    "wof:lastmodified":1462600762,
+    "wof:name":"Sandalwood Creek Apartments",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -90.545981,
+    38.788292,
+    -90.545981,
+    38.788292
+],
+  "geometry": {"coordinates":[-90.545981,38.788292],"type":"Point"}
+}

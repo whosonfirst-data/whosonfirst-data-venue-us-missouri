@@ -1,0 +1,73 @@
+{
+  "id": 789776503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.570102,36.977944,-94.570102,36.977944",
+    "geom:latitude":36.977944,
+    "geom:longitude":-94.570102,
+    "iso:country":"US",
+    "sg:address":"6454 Bison Rd",
+    "sg:city":"Joplin",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 781 8436",
+    "sg:postcode":"64804",
+    "sg:province":"MO",
+    "sg:tags":[
+        "automotive",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971289,
+        102087471,
+        85814333
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1OVcsxEdIIfoKb6O6MyINa_36.977944_-94.570102@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462590450,
+    "wof:geomhash":"01db0793d680ca65b7c741ddaa4c2b02",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087471,
+            "locality_id":85971289,
+            "neighbourhood_id":85814333,
+            "region_id":85688661,
+            "venue_id":789776503
+        }
+    ],
+    "wof:id":789776503,
+    "wof:lastmodified":1462590450,
+    "wof:name":"Anytime Road Service",
+    "wof:parent_id":85814333,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive",
+        "general"
+    ]
+},
+  "bbox": [
+    -94.570102,
+    36.977944,
+    -94.570102,
+    36.977944
+],
+  "geometry": {"coordinates":[-94.57010200000001,36.977944],"type":"Point"}
+}

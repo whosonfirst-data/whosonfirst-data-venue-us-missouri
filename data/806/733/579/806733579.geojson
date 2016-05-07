@@ -1,0 +1,71 @@
+{
+  "id": 806733579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.611648,37.99603,-91.611648,37.99603",
+    "geom:latitude":37.99603,
+    "geom:longitude":-91.611648,
+    "iso:country":"US",
+    "sg:address":"101 E Scioto St",
+    "sg:city":"St James",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 265 3262",
+    "sg:postcode":"65559",
+    "sg:province":"MO",
+    "sg:tags":[
+        "district"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970819,
+        102086893,
+        85847353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6f2nvsMiP1MkMCsTGAn1Uq_37.996030_-91.611648@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462600613,
+    "wof:geomhash":"2e494ebc41c0617356d5dc8732efdad6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086893,
+            "locality_id":85970819,
+            "neighbourhood_id":85847353,
+            "region_id":85688661,
+            "venue_id":806733579
+        }
+    ],
+    "wof:id":806733579,
+    "wof:lastmodified":1462600613,
+    "wof:name":"St James R 1 School District",
+    "wof:parent_id":85847353,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "district"
+    ]
+},
+  "bbox": [
+    -91.611648,
+    37.99603,
+    -91.611648,
+    37.99603
+],
+  "geometry": {"coordinates":[-91.611648,37.99603],"type":"Point"}
+}

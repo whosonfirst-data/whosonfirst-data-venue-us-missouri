@@ -1,0 +1,84 @@
+{
+  "id": 807001001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.241898,38.672001,-90.241898,38.672001",
+    "geom:latitude":38.672001,
+    "geom:longitude":-90.241898,
+    "iso:country":"US",
+    "sg:address":"4615 Natural Bridge Ave",
+    "sg:city":"Saint Louis",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Beauty & Cosmetics",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 381 1150",
+    "sg:postcode":"63115",
+    "sg:province":"MO",
+    "sg:tags":[
+        "supply",
+        "merchandise",
+        "perfume"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873611,
+        102191575,
+        404518053,
+        85633793,
+        85971343,
+        102080791,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_11GIUcmG2Fgsyhz4XGBYSA_38.672309_-90.242154@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1462602868,
+    "wof:geomhash":"a7b808921895aeab2c81aa53cc5494e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080791,
+            "localadmin_id":404518053,
+            "locality_id":85971343,
+            "neighbourhood_id":85873611,
+            "region_id":85688661,
+            "venue_id":807001001
+        }
+    ],
+    "wof:id":807001001,
+    "wof:lastmodified":1462602868,
+    "wof:name":"Beauty Zone",
+    "wof:parent_id":85873611,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply",
+        "merchandise",
+        "perfume"
+    ]
+},
+  "bbox": [
+    -90.241898,
+    38.672001,
+    -90.241898,
+    38.672001
+],
+  "geometry": {"coordinates":[-90.24189800000001,38.672001],"type":"Point"}
+}

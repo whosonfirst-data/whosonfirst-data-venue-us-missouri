@@ -1,0 +1,88 @@
+{
+  "id": 807239549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.54454,37.08466,-94.54454,37.08466",
+    "geom:latitude":37.08466,
+    "geom:longitude":-94.54454,
+    "iso:country":"US",
+    "sg:address":"2400 W 7th St",
+    "sg:city":"Joplin",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 782 0323",
+    "sg:postcode":"64801",
+    "sg:province":"MO",
+    "sg:tags":[
+        "body",
+        "used",
+        "car",
+        "painting",
+        "dealers-used",
+        "cars-wholesale",
+        "repairing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970893,
+        102087525,
+        85810925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Pe3NaCCYquFc759mvKc3q_37.084660_-94.544540@1303262934"
+    },
+    "wof:country":"US",
+    "wof:created":1462605205,
+    "wof:geomhash":"f38ffec49b0845c819dee46863ef9c47",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087525,
+            "locality_id":85970893,
+            "neighbourhood_id":85810925,
+            "region_id":85688661,
+            "venue_id":807239549
+        }
+    ],
+    "wof:id":807239549,
+    "wof:lastmodified":1462605205,
+    "wof:name":"Don Ross Motors",
+    "wof:parent_id":85810925,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "used",
+        "car",
+        "painting",
+        "dealers-used",
+        "cars-wholesale",
+        "repairing"
+    ]
+},
+  "bbox": [
+    -94.54454,
+    37.08466,
+    -94.54454,
+    37.08466
+],
+  "geometry": {"coordinates":[-94.54454,37.08466],"type":"Point"}
+}

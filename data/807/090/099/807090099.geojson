@@ -1,0 +1,78 @@
+{
+  "id": 807090099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.350671,38.944649,-92.350671,38.944649",
+    "geom:latitude":38.944649,
+    "geom:longitude":-92.350671,
+    "iso:country":"US",
+    "sg:address":"901 W Rollins Rd",
+    "sg:city":"Columbia",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/missouri/148596-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 817 2805",
+    "sg:postcode":"65203",
+    "sg:province":"MO",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85835171,
+        102191575,
+        404516389,
+        85633793,
+        85970425,
+        102086187,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1voqh5xmMgSWAbdbwK2aIi_38.944649_-92.350671@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462603618,
+    "wof:geomhash":"47fae868f03164b2d4e691c0890b3ef8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086187,
+            "localadmin_id":404516389,
+            "locality_id":85970425,
+            "neighbourhood_id":85835171,
+            "region_id":85688661,
+            "venue_id":807090099
+        }
+    ],
+    "wof:id":807090099,
+    "wof:lastmodified":1462603618,
+    "wof:name":"Subway",
+    "wof:parent_id":85835171,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -92.350671,
+    38.944649,
+    -92.350671,
+    38.944649
+],
+  "geometry": {"coordinates":[-92.35067100000001,38.944649],"type":"Point"}
+}

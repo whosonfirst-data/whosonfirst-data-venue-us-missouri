@@ -1,0 +1,77 @@
+{
+  "id": 789678113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.384223,38.221235,-90.384223,38.221235",
+    "geom:latitude":38.221235,
+    "geom:longitude":-90.384223,
+    "iso:country":"US",
+    "sg:address":"215 N Truman Blvd",
+    "sg:city":"Crystal City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 931 0880",
+    "sg:postcode":"63019",
+    "sg:province":"MO",
+    "sg:tags":[
+        "body",
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420525375,
+        102191575,
+        404518225,
+        85633793,
+        85971003,
+        102080787,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_50rzxB3cgXK5jY1eBYbKK2_38.221235_-90.384223@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462589686,
+    "wof:geomhash":"a5872d1c5a82b02db40e6dd4c8183333",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080787,
+            "localadmin_id":404518225,
+            "locality_id":85971003,
+            "neighbourhood_id":420525375,
+            "region_id":85688661,
+            "venue_id":789678113
+        }
+    ],
+    "wof:id":789678113,
+    "wof:lastmodified":1462589686,
+    "wof:name":"Midtown Auto Center",
+    "wof:parent_id":420525375,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automotive"
+    ]
+},
+  "bbox": [
+    -90.384223,
+    38.221235,
+    -90.384223,
+    38.221235
+],
+  "geometry": {"coordinates":[-90.38422300000001,38.221235],"type":"Point"}
+}

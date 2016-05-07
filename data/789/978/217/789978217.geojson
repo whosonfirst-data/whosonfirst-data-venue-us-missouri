@@ -1,0 +1,71 @@
+{
+  "id": 789978217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.77146,37.95059,-91.77146,37.95059",
+    "geom:latitude":37.95059,
+    "geom:longitude":-91.77146,
+    "iso:country":"US",
+    "sg:address":"812 N Pine St",
+    "sg:city":"Rolla",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Books",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 364 4301",
+    "sg:postcode":"65401",
+    "sg:province":"MO",
+    "sg:tags":[
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970821,
+        102086893,
+        85814531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_33kcXOD7i5fhrRB5LUC2M4_37.950590_-91.771460@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462592153,
+    "wof:geomhash":"70aada72187c83966587eaee27e9897b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086893,
+            "locality_id":85970821,
+            "neighbourhood_id":85814531,
+            "region_id":85688661,
+            "venue_id":789978217
+        }
+    ],
+    "wof:id":789978217,
+    "wof:lastmodified":1462592153,
+    "wof:name":"Eclipse Books & Comics LLC",
+    "wof:parent_id":85814531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dealer"
+    ]
+},
+  "bbox": [
+    -91.77146,
+    37.95059,
+    -91.77146,
+    37.95059
+],
+  "geometry": {"coordinates":[-91.77146,37.95059],"type":"Point"}
+}

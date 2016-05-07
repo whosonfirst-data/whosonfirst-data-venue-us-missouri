@@ -1,0 +1,73 @@
+{
+  "id": 789587767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.412745,37.778374,-90.412745,37.778374",
+    "geom:latitude":37.778374,
+    "geom:longitude":-90.412745,
+    "iso:country":"US",
+    "sg:address":"753 Sainte Genevieve Ave",
+    "sg:city":"Sainte Genevieve",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 883 5533",
+    "sg:postcode":"63640",
+    "sg:province":"MO",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970665,
+        102085297,
+        85816309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0tVYZOGmlGXBQ8WnvB6JZD_37.778374_-90.412745@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462588968,
+    "wof:geomhash":"a37891b023d551a0fc0956f77e27e11b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085297,
+            "locality_id":85970665,
+            "neighbourhood_id":85816309,
+            "region_id":85688661,
+            "venue_id":789587767
+        }
+    ],
+    "wof:id":789587767,
+    "wof:lastmodified":1462588968,
+    "wof:name":"Radio Shack",
+    "wof:parent_id":85816309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -90.412745,
+    37.778374,
+    -90.412745,
+    37.778374
+],
+  "geometry": {"coordinates":[-90.412745,37.778374],"type":"Point"}
+}

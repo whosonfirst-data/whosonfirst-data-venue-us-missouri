@@ -1,0 +1,74 @@
+{
+  "id": 807078369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.354274,39.367795,-94.354274,39.367795",
+    "geom:latitude":39.367795,
+    "geom:longitude":-94.354274,
+    "iso:country":"US",
+    "sg:address":"605 W State Route 92",
+    "sg:city":"Kearney",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/kearney/190912-burger-king/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 916 628 3769",
+    "sg:postcode":"64060",
+    "sg:province":"MO",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971507,
+        102086177,
+        85812855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5rEPs1NKUEYLMOLBnMWVEy_39.367795_-94.354274@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462603520,
+    "wof:geomhash":"405d3c5500bb6fbb680bb9d2bb60fbda",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086177,
+            "locality_id":85971507,
+            "neighbourhood_id":85812855,
+            "region_id":85688661,
+            "venue_id":807078369
+        }
+    ],
+    "wof:id":807078369,
+    "wof:lastmodified":1462603520,
+    "wof:name":"Burger King",
+    "wof:parent_id":85812855,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -94.354274,
+    39.367795,
+    -94.354274,
+    39.367795
+],
+  "geometry": {"coordinates":[-94.354274,39.367795],"type":"Point"}
+}

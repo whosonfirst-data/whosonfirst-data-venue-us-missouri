@@ -1,0 +1,71 @@
+{
+  "id": 789666971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.363355,39.320704,-94.363355,39.320704",
+    "geom:latitude":39.320704,
+    "geom:longitude":-94.363355,
+    "iso:country":"US",
+    "sg:address":"12604 State Hwy 33",
+    "sg:city":"Kearney",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 628 4761",
+    "sg:postcode":"64060",
+    "sg:province":"MO",
+    "sg:tags":[
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971507,
+        102086177,
+        85812855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1M3tdlL1rueSAIQehoESLo_39.320704_-94.363355@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462589607,
+    "wof:geomhash":"ed4a8649116403d66b0ec2cd12484336",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086177,
+            "locality_id":85971507,
+            "neighbourhood_id":85812855,
+            "region_id":85688661,
+            "venue_id":789666971
+        }
+    ],
+    "wof:id":789666971,
+    "wof:lastmodified":1462589607,
+    "wof:name":"Triple K Towing",
+    "wof:parent_id":85812855,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrecker"
+    ]
+},
+  "bbox": [
+    -94.363355,
+    39.320704,
+    -94.363355,
+    39.320704
+],
+  "geometry": {"coordinates":[-94.363355,39.320704],"type":"Point"}
+}

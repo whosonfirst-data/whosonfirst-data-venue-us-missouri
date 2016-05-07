@@ -1,0 +1,82 @@
+{
+  "id": 789845123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.210776,38.633503,-90.210776,38.633503",
+    "geom:latitude":38.633503,
+    "geom:longitude":-90.210776,
+    "iso:country":"US",
+    "sg:address":"2101 Locust St",
+    "sg:city":"St Louis",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 436 3999",
+    "sg:postcode":"63103",
+    "sg:province":"MO",
+    "sg:tags":[
+        "designer",
+        "landscape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873645,
+        102191575,
+        404518053,
+        85633793,
+        85971343,
+        102080791,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_64JXADpLcIdYNM618Lu9pq_38.633503_-90.210776@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462590992,
+    "wof:geomhash":"57dd370e65aca609cc7329f8b4845d39",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080791,
+            "localadmin_id":404518053,
+            "locality_id":85971343,
+            "neighbourhood_id":85873645,
+            "region_id":85688661,
+            "venue_id":789845123
+        }
+    ],
+    "wof:id":789845123,
+    "wof:lastmodified":1462590992,
+    "wof:name":"Austin Tao & Associates",
+    "wof:parent_id":85873645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "designer",
+        "landscape"
+    ]
+},
+  "bbox": [
+    -90.210776,
+    38.633503,
+    -90.210776,
+    38.633503
+],
+  "geometry": {"coordinates":[-90.210776,38.633503],"type":"Point"}
+}

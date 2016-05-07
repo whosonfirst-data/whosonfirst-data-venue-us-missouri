@@ -1,0 +1,71 @@
+{
+  "id": 773214625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.574686,38.791299,-90.574686,38.791299",
+    "geom:latitude":38.791299,
+    "geom:longitude":-90.574686,
+    "iso:country":"US",
+    "sg:address":"4120 Mexico Rd",
+    "sg:city":"Saint Peters",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 447 2929",
+    "sg:postcode":"63376",
+    "sg:province":"MO",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0q2Q2n80pQ7LQx8hG5pyU5_38.791299_-90.574686@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462584035,
+    "wof:geomhash":"9f449a2164bf6ba3f65dca483bd942ba",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":773214625
+        }
+    ],
+    "wof:id":773214625,
+    "wof:lastmodified":1462584035,
+    "wof:name":"Miguels Auto Detailing",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -90.574686,
+    38.791299,
+    -90.574686,
+    38.791299
+],
+  "geometry": {"coordinates":[-90.574686,38.791299],"type":"Point"}
+}

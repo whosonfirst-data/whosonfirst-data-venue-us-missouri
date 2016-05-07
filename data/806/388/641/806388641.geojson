@@ -1,0 +1,71 @@
+{
+  "id": 806388641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.523379,39.781512,-91.523379,39.781512",
+    "geom:latitude":39.781512,
+    "geom:longitude":-91.523379,
+    "iso:country":"US",
+    "sg:address":"1815 S Main St",
+    "sg:city":"Palmyra",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 769 2127",
+    "sg:postcode":"63461",
+    "sg:province":"MO",
+    "sg:tags":[
+        "residential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688697,
+        85633793,
+        85938427,
+        102086213,
+        85867477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6RSK4nnX5mlIXbufwkAdwm_39.781512_-91.523379@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462597743,
+    "wof:geomhash":"8b0bb8738fdf8091222bffd7f64391dd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086213,
+            "locality_id":85938427,
+            "neighbourhood_id":85867477,
+            "region_id":85688697,
+            "venue_id":806388641
+        }
+    ],
+    "wof:id":806388641,
+    "wof:lastmodified":1462597743,
+    "wof:name":"Bristol Manor",
+    "wof:parent_id":85867477,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential"
+    ]
+},
+  "bbox": [
+    -91.523379,
+    39.781512,
+    -91.523379,
+    39.781512
+],
+  "geometry": {"coordinates":[-91.52337900000001,39.781512],"type":"Point"}
+}

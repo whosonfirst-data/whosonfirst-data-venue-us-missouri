@@ -1,0 +1,73 @@
+{
+  "id": 773112587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.523381,39.781399,-91.523381,39.781399",
+    "geom:latitude":39.781399,
+    "geom:longitude":-91.523381,
+    "iso:country":"US",
+    "sg:address":"1821 S Main St",
+    "sg:city":"Palmyra",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 769 7027",
+    "sg:postcode":"63461",
+    "sg:province":"MO",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688697,
+        85633793,
+        85938427,
+        102086213,
+        85867477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0FCtKF92PME1tw3TqNAu9H_39.781399_-91.523381@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462583238,
+    "wof:geomhash":"8c01caeb759a4fd273b485882ca34a74",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086213,
+            "locality_id":85938427,
+            "neighbourhood_id":85867477,
+            "region_id":85688697,
+            "venue_id":773112587
+        }
+    ],
+    "wof:id":773112587,
+    "wof:lastmodified":1462583238,
+    "wof:name":"Palmyra Apartments",
+    "wof:parent_id":85867477,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -91.523381,
+    39.781399,
+    -91.523381,
+    39.781399
+],
+  "geometry": {"coordinates":[-91.523381,39.781399],"type":"Point"}
+}

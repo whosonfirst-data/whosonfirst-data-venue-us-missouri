@@ -1,0 +1,86 @@
+{
+  "id": 806947687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.344811,38.463794,-90.344811,38.463794",
+    "geom:latitude":38.463794,
+    "geom:longitude":-90.344811,
+    "iso:country":"US",
+    "sg:address":"3640 Whispering Ridge Ln",
+    "sg:city":"Saint Louis",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 644 5165",
+    "sg:postcode":"63129",
+    "sg:province":"MO",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85885365,
+        102191575,
+        404517459,
+        85633793,
+        85972631,
+        102086173,
+        85688661,
+        85971021,
+        102080787,
+        85832925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3IbNyZV68pb19teHdjWK7q_38.463794_-90.344811@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462602419,
+    "wof:geomhash":"a96a84fb416336c64891661390b11b1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086173,
+            "localadmin_id":404517459,
+            "locality_id":85972631,
+            "neighbourhood_id":85885365,
+            "region_id":85688661,
+            "venue_id":806947687
+        },
+        {
+            "country_id":85633793,
+            "county_id":102080787,
+            "locality_id":85971021,
+            "neighbourhood_id":85832925,
+            "region_id":85688661,
+            "venue_id":806947687
+        }
+    ],
+    "wof:id":806947687,
+    "wof:lastmodified":1462602419,
+    "wof:name":"Nassif Automotive",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -90.344811,
+    38.463794,
+    -90.344811,
+    38.463794
+],
+  "geometry": {"coordinates":[-90.34481100000001,38.463794],"type":"Point"}
+}

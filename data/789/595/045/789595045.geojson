@@ -1,0 +1,71 @@
+{
+  "id": 789595045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.507625,38.804759,-90.507625,38.804759",
+    "geom:latitude":38.804759,
+    "geom:longitude":-90.507625,
+    "iso:country":"US",
+    "sg:address":"3115 Elm St",
+    "sg:city":"St Charles",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 723 1251",
+    "sg:postcode":"63301",
+    "sg:province":"MO",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3CZ9FRafYnA8Egdx17Fm9e_38.804759_-90.507625@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462589021,
+    "wof:geomhash":"fb73a218046efb169cf2f5fd0b75c72d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":789595045
+        }
+    ],
+    "wof:id":789595045,
+    "wof:lastmodified":1462589021,
+    "wof:name":"Good Shepherd United Church",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -90.507625,
+    38.804759,
+    -90.507625,
+    38.804759
+],
+  "geometry": {"coordinates":[-90.507625,38.804759],"type":"Point"}
+}

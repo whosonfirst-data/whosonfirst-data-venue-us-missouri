@@ -1,0 +1,79 @@
+{
+  "id": 773149341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.19875,38.661356,-90.19875,38.661356",
+    "geom:latitude":38.661356,
+    "geom:longitude":-90.19875,
+    "iso:country":"US",
+    "sg:address":"1110 Salisbury St",
+    "sg:city":"St Louis",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 436 9994",
+    "sg:postcode":"63107",
+    "sg:province":"MO",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873609,
+        102191575,
+        404518053,
+        85633793,
+        85971343,
+        102080791,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7J1FRBv1SeeaK7quM3oYJ5_38.661356_-90.198750@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462583500,
+    "wof:geomhash":"b563863c5c52e967cc5b9ab56e6feef1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080791,
+            "localadmin_id":404518053,
+            "locality_id":85971343,
+            "neighbourhood_id":85873609,
+            "region_id":85688661,
+            "venue_id":773149341
+        }
+    ],
+    "wof:id":773149341,
+    "wof:lastmodified":1462583500,
+    "wof:name":"C & P Auto Repair",
+    "wof:parent_id":85873609,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ]
+},
+  "bbox": [
+    -90.19875,
+    38.661356,
+    -90.19875,
+    38.661356
+],
+  "geometry": {"coordinates":[-90.19875,38.661356],"type":"Point"}
+}

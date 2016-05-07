@@ -1,0 +1,79 @@
+{
+  "id": 790508391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.591999,39.048995,-94.591999,39.048995",
+    "geom:latitude":39.048995,
+    "geom:longitude":-94.591999,
+    "iso:country":"US",
+    "sg:address":"4321 Washington St",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 932 2823",
+    "sg:postcode":"64111",
+    "sg:province":"MO",
+    "sg:tags":[
+        "medical",
+        "hospital",
+        "specialty"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85871985,
+        102191575,
+        404518075,
+        85633793,
+        85970739,
+        102081227,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5MHHFAQOtwoDQd2cbyCAr3_39.048995_-94.591999@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462596437,
+    "wof:geomhash":"d5c3e1e48795836cc40838de252d8aca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081227,
+            "localadmin_id":404518075,
+            "locality_id":85970739,
+            "neighbourhood_id":85871985,
+            "region_id":85688661,
+            "venue_id":790508391
+        }
+    ],
+    "wof:id":790508391,
+    "wof:lastmodified":1462596437,
+    "wof:name":"Cancer Institute LLC",
+    "wof:parent_id":85871985,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical",
+        "hospital",
+        "specialty"
+    ]
+},
+  "bbox": [
+    -94.591999,
+    39.048995,
+    -94.591999,
+    39.048995
+],
+  "geometry": {"coordinates":[-94.591999,39.048995],"type":"Point"}
+}

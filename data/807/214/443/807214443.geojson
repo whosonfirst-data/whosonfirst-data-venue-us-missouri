@@ -1,0 +1,71 @@
+{
+  "id": 807214443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.373971,39.339525,-94.373971,39.339525",
+    "geom:latitude":39.339525,
+    "geom:longitude":-94.373971,
+    "iso:country":"US",
+    "sg:address":"16815 NE 136th St",
+    "sg:city":"Kearney",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 628 3391",
+    "sg:postcode":"64060",
+    "sg:province":"MO",
+    "sg:tags":[
+        "electrician"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971507,
+        102086177,
+        85812855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2FeRg37ftuyaSCjJyhE8VS_39.339525_-94.373971@1303262932"
+    },
+    "wof:country":"US",
+    "wof:created":1462604942,
+    "wof:geomhash":"e9f768f348d5394c0730d62fde1537d9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086177,
+            "locality_id":85971507,
+            "neighbourhood_id":85812855,
+            "region_id":85688661,
+            "venue_id":807214443
+        }
+    ],
+    "wof:id":807214443,
+    "wof:lastmodified":1462604942,
+    "wof:name":"Globe Electric",
+    "wof:parent_id":85812855,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrician"
+    ]
+},
+  "bbox": [
+    -94.373971,
+    39.339525,
+    -94.373971,
+    39.339525
+],
+  "geometry": {"coordinates":[-94.373971,39.339525],"type":"Point"}
+}

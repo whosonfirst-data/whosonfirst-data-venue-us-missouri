@@ -1,0 +1,73 @@
+{
+  "id": 807071223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.182766,39.333196,-91.182766,39.333196",
+    "geom:latitude":39.333196,
+    "geom:longitude":-91.182766,
+    "iso:country":"US",
+    "sg:address":"1603 S Business 61",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/cuivre/194088-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"63334",
+    "sg:province":"MO",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971907,
+        102086151,
+        85817909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6AxLm0kyY8bgBMdPQ4N4mz_39.333196_-91.182766@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462603455,
+    "wof:geomhash":"40d6dde43211098f9b3979baa715059f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086151,
+            "locality_id":85971907,
+            "neighbourhood_id":85817909,
+            "region_id":85688661,
+            "venue_id":807071223
+        }
+    ],
+    "wof:id":807071223,
+    "wof:lastmodified":1462603455,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85817909,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -91.182766,
+    39.333196,
+    -91.182766,
+    39.333196
+],
+  "geometry": {"coordinates":[-91.182766,39.333196],"type":"Point"}
+}

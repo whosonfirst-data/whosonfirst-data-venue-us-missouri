@@ -1,0 +1,73 @@
+{
+  "id": 773305517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.224912,37.195543,-93.224912,37.195543",
+    "geom:latitude":37.195543,
+    "geom:longitude":-93.224912,
+    "iso:country":"US",
+    "sg:address":"3460 E Lombard St",
+    "sg:city":"Springfield",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 890 7945",
+    "sg:postcode":"65809",
+    "sg:province":"MO",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971363,
+        102087523,
+        85881121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4YrmZ7GeJvHH78x5hNwS8C_37.195543_-93.224912@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462584721,
+    "wof:geomhash":"2ad0bbb579c249ce9de8bc97facaf8e3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087523,
+            "locality_id":85971363,
+            "neighbourhood_id":85881121,
+            "region_id":85688661,
+            "venue_id":773305517
+        }
+    ],
+    "wof:id":773305517,
+    "wof:lastmodified":1462584721,
+    "wof:name":"Meadowview Apartments",
+    "wof:parent_id":85881121,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -93.224912,
+    37.195543,
+    -93.224912,
+    37.195543
+],
+  "geometry": {"coordinates":[-93.224912,37.195543],"type":"Point"}
+}

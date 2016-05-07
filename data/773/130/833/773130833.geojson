@@ -1,0 +1,71 @@
+{
+  "id": 773130833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.385462,38.413143,-90.385462,38.413143",
+    "geom:latitude":38.413143,
+    "geom:longitude":-90.385462,
+    "iso:country":"US",
+    "sg:address":"1912 Richardson Rd",
+    "sg:city":"Arnold",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Theater",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 461 0200",
+    "sg:postcode":"63010",
+    "sg:province":"MO",
+    "sg:tags":[
+        "motion",
+        "picture"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85805175,
+        102080787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1orJFaXTKZJfLU4m6DbR3i_38.413143_-90.385462@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462583364,
+    "wof:geomhash":"0389cc6167b4737a90ebd93ad248552e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080787,
+            "neighbourhood_id":85805175,
+            "region_id":85688661,
+            "venue_id":773130833
+        }
+    ],
+    "wof:id":773130833,
+    "wof:lastmodified":1462583364,
+    "wof:name":"Arnold 14 Cinema",
+    "wof:parent_id":85805175,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "motion",
+        "picture"
+    ]
+},
+  "bbox": [
+    -90.385462,
+    38.413143,
+    -90.385462,
+    38.413143
+],
+  "geometry": {"coordinates":[-90.385462,38.413143],"type":"Point"}
+}

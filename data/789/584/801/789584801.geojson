@@ -1,0 +1,75 @@
+{
+  "id": 789584801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.301455,38.735638,-90.301455,38.735638",
+    "geom:latitude":38.735638,
+    "geom:longitude":-90.301455,
+    "iso:country":"US",
+    "sg:address":"26 Arbor Village Ct",
+    "sg:city":"Ferguson",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 524 7878",
+    "sg:postcode":"63135",
+    "sg:province":"MO",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85859027,
+        102191575,
+        404517247,
+        85633793,
+        85972205,
+        102086173,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7FjY4S8FKpKEkNMn0XSk7T_38.735638_-90.301455@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462588946,
+    "wof:geomhash":"8623a534771e5782e72b36a8f51ebb6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086173,
+            "localadmin_id":404517247,
+            "locality_id":85972205,
+            "neighbourhood_id":85859027,
+            "region_id":85688661,
+            "venue_id":789584801
+        }
+    ],
+    "wof:id":789584801,
+    "wof:lastmodified":1462588946,
+    "wof:name":"Arbor Village Apartments",
+    "wof:parent_id":85859027,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -90.301455,
+    38.735638,
+    -90.301455,
+    38.735638
+],
+  "geometry": {"coordinates":[-90.301455,38.735638],"type":"Point"}
+}

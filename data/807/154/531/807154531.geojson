@@ -1,0 +1,71 @@
+{
+  "id": 807154531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.251125,38.62778,-90.251125,38.62778",
+    "geom:latitude":38.62778,
+    "geom:longitude":-90.251125,
+    "iso:country":"US",
+    "sg:address":"4120 Manchester AVE",
+    "sg:city":"Saint Louis",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 800 275 8777",
+    "sg:postcode":"63110",
+    "sg:province":"MO",
+    "sg:website":"www.usps.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873649,
+        102191575,
+        404518053,
+        85633793,
+        85971343,
+        102080791,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4XGwJaJgpdQFCEHX1HVILj_38.627780_-90.251125@1303262928"
+    },
+    "wof:country":"US",
+    "wof:created":1462604316,
+    "wof:geomhash":"8e6e9328a591fed2e6a60fea9a037ee8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080791,
+            "localadmin_id":404518053,
+            "locality_id":85971343,
+            "neighbourhood_id":85873649,
+            "region_id":85688661,
+            "venue_id":807154531
+        }
+    ],
+    "wof:id":807154531,
+    "wof:lastmodified":1462604316,
+    "wof:name":"United States Post Office",
+    "wof:parent_id":85873649,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.251125,
+    38.62778,
+    -90.251125,
+    38.62778
+],
+  "geometry": {"coordinates":[-90.251125,38.62778],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 789840781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.45585,37.75081,-90.45585,37.75081",
+    "geom:latitude":37.75081,
+    "geom:longitude":-90.45585,
+    "iso:country":"US",
+    "sg:address":"21 River Bluff Farms Rd",
+    "sg:city":"Farmington",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 756 6874",
+    "sg:postcode":"63640",
+    "sg:province":"MO",
+    "sg:tags":[
+        "property",
+        "lessor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970665,
+        102085297,
+        85816309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_36Cwz3Out76W6TfhWcECnj_37.750810_-90.455850@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462590952,
+    "wof:geomhash":"26d29ebe29897bd437a5fae367179726",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085297,
+            "locality_id":85970665,
+            "neighbourhood_id":85816309,
+            "region_id":85688661,
+            "venue_id":789840781
+        }
+    ],
+    "wof:id":789840781,
+    "wof:lastmodified":1462590952,
+    "wof:name":"Honbeck Rental Properties",
+    "wof:parent_id":85816309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "property",
+        "lessor"
+    ]
+},
+  "bbox": [
+    -90.45585,
+    37.75081,
+    -90.45585,
+    37.75081
+],
+  "geometry": {"coordinates":[-90.45585,37.75081],"type":"Point"}
+}

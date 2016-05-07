@@ -1,0 +1,85 @@
+{
+  "id": 773161431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.263368,38.567118,-90.263368,38.567118",
+    "geom:latitude":38.567118,
+    "geom:longitude":-90.263368,
+    "iso:country":"US",
+    "sg:address":"3808 Bowen St",
+    "sg:city":"St Louis",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 832 7056",
+    "sg:postcode":"63116",
+    "sg:province":"MO",
+    "sg:tags":[
+        "lecture",
+        "bureau",
+        "seminar"
+    ],
+    "sg:website":"www.designsontime.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873701,
+        102191575,
+        404518053,
+        85633793,
+        85971343,
+        102080791,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_40BIv2vS7jS59MJnKiU4kC_38.567118_-90.263368@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462583602,
+    "wof:geomhash":"1700b2e962ff2d0ddc19ef83c1a35deb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080791,
+            "localadmin_id":404518053,
+            "locality_id":85971343,
+            "neighbourhood_id":85873701,
+            "region_id":85688661,
+            "venue_id":773161431
+        }
+    ],
+    "wof:id":773161431,
+    "wof:lastmodified":1462583602,
+    "wof:name":"Designs On Time",
+    "wof:parent_id":85873701,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lecture",
+        "bureau",
+        "seminar"
+    ]
+},
+  "bbox": [
+    -90.263368,
+    38.567118,
+    -90.263368,
+    38.567118
+],
+  "geometry": {"coordinates":[-90.263368,38.567118],"type":"Point"}
+}

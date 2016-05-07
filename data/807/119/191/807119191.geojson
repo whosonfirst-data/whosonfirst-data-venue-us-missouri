@@ -1,0 +1,82 @@
+{
+  "id": 807119191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.291628,38.797849,-90.291628,38.797849",
+    "geom:latitude":38.797849,
+    "geom:longitude":-90.291628,
+    "iso:country":"US",
+    "sg:address":"13410 New Halls Ferry Rd",
+    "sg:city":"Florissant",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Dentist",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 830 9663",
+    "sg:postcode":"63033",
+    "sg:province":"MO",
+    "sg:tags":[
+        "dental",
+        "clinic",
+        "dentists-pediatric",
+        "dentistry"
+    ],
+    "sg:website":"http://www.thechildrensdentalzone.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85813019,
+        102191575,
+        404517467,
+        85633793,
+        85972639,
+        102086173,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Xo0TeULFpgdkPyiacTUhQ_38.797849_-90.291628@1303262925"
+    },
+    "wof:country":"US",
+    "wof:created":1462603929,
+    "wof:geomhash":"38a125353349b0a75cb3840296ccb52a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086173,
+            "localadmin_id":404517467,
+            "locality_id":85972639,
+            "neighbourhood_id":85813019,
+            "region_id":85688661,
+            "venue_id":807119191
+        }
+    ],
+    "wof:id":807119191,
+    "wof:lastmodified":1462603929,
+    "wof:name":"Children's Dental Zone",
+    "wof:parent_id":85813019,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dental",
+        "clinic",
+        "dentists-pediatric",
+        "dentistry"
+    ]
+},
+  "bbox": [
+    -90.291628,
+    38.797849,
+    -90.291628,
+    38.797849
+],
+  "geometry": {"coordinates":[-90.291628,38.797849],"type":"Point"}
+}

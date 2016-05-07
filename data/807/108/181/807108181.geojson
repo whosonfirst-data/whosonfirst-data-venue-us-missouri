@@ -1,0 +1,69 @@
+{
+  "id": 807108181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.426567,38.35228,-90.426567,38.35228",
+    "geom:latitude":38.35228,
+    "geom:longitude":-90.426567,
+    "iso:country":"US",
+    "sg:address":"6633 Moss Hollow Rd",
+    "sg:city":"Barnhart",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 948 4433",
+    "sg:postcode":"63012",
+    "sg:province":"MO",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85805175,
+        102080787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5lu21ssQOc6s1E0SZk1fzD_38.352280_-90.426567@1303262925"
+    },
+    "wof:country":"US",
+    "wof:created":1462603817,
+    "wof:geomhash":"95f83e50cba1c6d87fa7575bc037d2d0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080787,
+            "neighbourhood_id":85805175,
+            "region_id":85688661,
+            "venue_id":807108181
+        }
+    ],
+    "wof:id":807108181,
+    "wof:lastmodified":1462603817,
+    "wof:name":"Antonia Fire Dept",
+    "wof:parent_id":85805175,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -90.426567,
+    38.35228,
+    -90.426567,
+    38.35228
+],
+  "geometry": {"coordinates":[-90.42656700000001,38.35228],"type":"Point"}
+}

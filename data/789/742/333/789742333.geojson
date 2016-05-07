@@ -1,0 +1,75 @@
+{
+  "id": 789742333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.558679,39.137603,-94.558679,39.137603",
+    "geom:latitude":39.137603,
+    "geom:longitude":-94.558679,
+    "iso:country":"US",
+    "sg:address":"1833 Bedford Rd",
+    "sg:city":"N Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 274 6025",
+    "sg:postcode":"64116",
+    "sg:province":"MO",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872003,
+        102191575,
+        404516715,
+        85633793,
+        85972453,
+        102086177,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_38yvPspbeTKyt4hvxqgWWJ_39.137603_-94.558679@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462590194,
+    "wof:geomhash":"efef8f8af6677b1eab4e671c068bef1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086177,
+            "localadmin_id":404516715,
+            "locality_id":85972453,
+            "neighbourhood_id":85872003,
+            "region_id":85688661,
+            "venue_id":789742333
+        }
+    ],
+    "wof:id":789742333,
+    "wof:lastmodified":1462590194,
+    "wof:name":"North Kansas Fire Dept",
+    "wof:parent_id":85872003,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -94.558679,
+    39.137603,
+    -94.558679,
+    39.137603
+],
+  "geometry": {"coordinates":[-94.558679,39.137603],"type":"Point"}
+}

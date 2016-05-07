@@ -1,0 +1,73 @@
+{
+  "id": 806891655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.360264,38.496665,-90.360264,38.496665",
+    "geom:latitude":38.496665,
+    "geom:longitude":-90.360264,
+    "iso:country":"US",
+    "sg:address":"4730 Valmeyer Dr",
+    "sg:city":"St Louis",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 487 9424",
+    "sg:postcode":"63128",
+    "sg:province":"MO",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971021,
+        102080787,
+        85832925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3f3AU5KoLILPHtGV0WqY5E_38.496665_-90.360264@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462601945,
+    "wof:geomhash":"253dcf0183c343f93cc53d2740ed24a4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080787,
+            "locality_id":85971021,
+            "neighbourhood_id":85832925,
+            "region_id":85688661,
+            "venue_id":806891655
+        }
+    ],
+    "wof:id":806891655,
+    "wof:lastmodified":1462601945,
+    "wof:name":"Mertens Plumbing Mechanical",
+    "wof:parent_id":85832925,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -90.360264,
+    38.496665,
+    -90.360264,
+    38.496665
+],
+  "geometry": {"coordinates":[-90.360264,38.496665],"type":"Point"}
+}

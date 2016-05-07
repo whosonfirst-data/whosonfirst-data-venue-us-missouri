@@ -1,0 +1,81 @@
+{
+  "id": 773568885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.362079,38.40784,-90.362079,38.40784",
+    "geom:latitude":38.40784,
+    "geom:longitude":-90.362079,
+    "iso:country":"US",
+    "sg:address":"631 Peach Dr",
+    "sg:city":"Arnold",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 467 5629",
+    "sg:postcode":"63010",
+    "sg:province":"MO",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420525373,
+        102191575,
+        404518285,
+        85633793,
+        85972523,
+        102080787,
+        85688661,
+        420525431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_04dsgGc9GLb5AIgJiMFXLk_38.407840_-90.362079@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462586712,
+    "wof:geomhash":"f621655cf822b0181f25c73d318f3e6d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080787,
+            "localadmin_id":404518285,
+            "locality_id":85972523,
+            "neighbourhood_id":420525373,
+            "region_id":85688661,
+            "venue_id":773568885
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080787,
+            "localadmin_id":404518285,
+            "locality_id":85972523,
+            "neighbourhood_id":420525431,
+            "region_id":85688661,
+            "venue_id":773568885
+        }
+    ],
+    "wof:id":773568885,
+    "wof:lastmodified":1462586712,
+    "wof:name":"Buffs Studio Taxidermist",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.362079,
+    38.40784,
+    -90.362079,
+    38.40784
+],
+  "geometry": {"coordinates":[-90.36207899999999,38.40784],"type":"Point"}
+}

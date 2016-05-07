@@ -1,0 +1,88 @@
+{
+  "id": 789944677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.441619,39.242547,-94.441619,39.242547",
+    "geom:latitude":39.242547,
+    "geom:longitude":-94.441619,
+    "iso:country":"US",
+    "sg:address":"309 State Hwy 291",
+    "sg:city":"Liberty",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 792 0600",
+    "sg:postcode":"64068",
+    "sg:province":"MO",
+    "sg:tags":[
+        "polishing",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420525367,
+        102191575,
+        404516717,
+        85633793,
+        85972461,
+        102086177,
+        85688661,
+        420525305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3PMAk2XQISYnNBLkac1jkX_39.242547_-94.441619@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462591833,
+    "wof:geomhash":"a473712ed04be670be41fd06e0a8080b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086177,
+            "localadmin_id":404516717,
+            "locality_id":85972461,
+            "neighbourhood_id":420525367,
+            "region_id":85688661,
+            "venue_id":789944677
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086177,
+            "localadmin_id":404516717,
+            "locality_id":85972461,
+            "neighbourhood_id":420525305,
+            "region_id":85688661,
+            "venue_id":789944677
+        }
+    ],
+    "wof:id":789944677,
+    "wof:lastmodified":1462591833,
+    "wof:name":"Dr Spotless Car Wash",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "polishing",
+        "washing"
+    ]
+},
+  "bbox": [
+    -94.441619,
+    39.242547,
+    -94.441619,
+    39.242547
+],
+  "geometry": {"coordinates":[-94.441619,39.242547],"type":"Point"}
+}

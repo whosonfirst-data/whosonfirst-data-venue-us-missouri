@@ -1,0 +1,77 @@
+{
+  "id": 807097159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.47648,38.567123,-90.47648,38.567123",
+    "geom:latitude":38.567123,
+    "geom:longitude":-90.47648,
+    "iso:country":"US",
+    "sg:address":"13600 Big Bend Rd",
+    "sg:city":"Valley Park",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/queeny/194360-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"63088",
+    "sg:province":"MO",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85841473,
+        102191575,
+        404517461,
+        85633793,
+        85972241,
+        102086173,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_13VTQoqqVJUy3PmLvvktnl_38.567144_-90.476188@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462603688,
+    "wof:geomhash":"8f9c9f4062b34fc49252c8bdf5f60c48",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086173,
+            "localadmin_id":404517461,
+            "locality_id":85972241,
+            "neighbourhood_id":85841473,
+            "region_id":85688661,
+            "venue_id":807097159
+        }
+    ],
+    "wof:id":807097159,
+    "wof:lastmodified":1462603688,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85841473,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -90.47648,
+    38.567123,
+    -90.47648,
+    38.567123
+],
+  "geometry": {"coordinates":[-90.47648,38.567123],"type":"Point"}
+}

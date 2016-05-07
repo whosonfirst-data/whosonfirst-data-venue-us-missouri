@@ -1,0 +1,71 @@
+{
+  "id": 790116027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.542986,38.807845,-90.542986,38.807845",
+    "geom:latitude":38.807845,
+    "geom:longitude":-90.542986,
+    "iso:country":"US",
+    "sg:address":"3008 Bluffwood Dr",
+    "sg:city":"St Charles",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 284 0059",
+    "sg:postcode":"63301",
+    "sg:province":"MO",
+    "sg:tags":[
+        "painter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6lcr4dyguUNFjXhuA38qMl_38.807845_-90.542986@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462593259,
+    "wof:geomhash":"34fefc8815e1d83b4b30846743e44cf5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":790116027
+        }
+    ],
+    "wof:id":790116027,
+    "wof:lastmodified":1462593259,
+    "wof:name":"Jacob Gittemeier Painting",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "painter"
+    ]
+},
+  "bbox": [
+    -90.542986,
+    38.807845,
+    -90.542986,
+    38.807845
+],
+  "geometry": {"coordinates":[-90.542986,38.807845],"type":"Point"}
+}

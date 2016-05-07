@@ -1,0 +1,72 @@
+{
+  "id": 789667603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.854409,38.806513,-90.854409,38.806513",
+    "geom:latitude":38.806513,
+    "geom:longitude":-90.854409,
+    "iso:country":"US",
+    "sg:address":"801 S Church St",
+    "sg:city":"Wentzville",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 327 6622",
+    "sg:postcode":"63385",
+    "sg:province":"MO",
+    "sg:tags":[
+        "church"
+    ],
+    "sg:website":"www.wentzvillecc.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2XGRgQJeBLXSPbCUAGWzvx_38.806513_-90.854409@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462589611,
+    "wof:geomhash":"4c9c6bb1a2acd991d7cdd316387b8b34",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":789667603
+        }
+    ],
+    "wof:id":789667603,
+    "wof:lastmodified":1462589611,
+    "wof:name":"Wentzville Christian Church",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -90.854409,
+    38.806513,
+    -90.854409,
+    38.806513
+],
+  "geometry": {"coordinates":[-90.854409,38.806513],"type":"Point"}
+}

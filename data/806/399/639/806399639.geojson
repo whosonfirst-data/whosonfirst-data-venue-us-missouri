@@ -1,0 +1,75 @@
+{
+  "id": 806399639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.772583,37.947212,-91.772583,37.947212",
+    "geom:latitude":37.947212,
+    "geom:longitude":-91.772583,
+    "iso:country":"US",
+    "sg:address":"401 N Rolla St",
+    "sg:city":"Rolla",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 364 4040",
+    "sg:postcode":"65401",
+    "sg:province":"MO",
+    "sg:tags":[
+        "detection",
+        "equipment",
+        "drug"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970821,
+        102086893,
+        85814531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0gWbrr5NznQPj4yJnKTqR9_37.947212_-91.772583@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462597837,
+    "wof:geomhash":"c8192037c5bb60b6ac569360a7d91497",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086893,
+            "locality_id":85970821,
+            "neighbourhood_id":85814531,
+            "region_id":85688661,
+            "venue_id":806399639
+        }
+    ],
+    "wof:id":806399639,
+    "wof:lastmodified":1462597837,
+    "wof:name":"Employee Screening Svc",
+    "wof:parent_id":85814531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "detection",
+        "equipment",
+        "drug"
+    ]
+},
+  "bbox": [
+    -91.772583,
+    37.947212,
+    -91.772583,
+    37.947212
+],
+  "geometry": {"coordinates":[-91.772583,37.947212],"type":"Point"}
+}

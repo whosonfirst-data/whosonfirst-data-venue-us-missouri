@@ -1,0 +1,71 @@
+{
+  "id": 806935805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.112465,37.275453,-93.112465,37.275453",
+    "geom:latitude":37.275453,
+    "geom:longitude":-93.112465,
+    "iso:country":"US",
+    "sg:address":"333 E Evergreen St",
+    "sg:city":"Strafford",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 736 2232",
+    "sg:postcode":"65757",
+    "sg:province":"MO",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971363,
+        102087523,
+        85881137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3MBXYo4mD9C2QSjeK4jtmB_37.275453_-93.112465@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462602324,
+    "wof:geomhash":"a51324cb1bcabcdc2e8186bda2183c7b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087523,
+            "locality_id":85971363,
+            "neighbourhood_id":85881137,
+            "region_id":85688661,
+            "venue_id":806935805
+        }
+    ],
+    "wof:id":806935805,
+    "wof:lastmodified":1462602324,
+    "wof:name":"McDonalds",
+    "wof:parent_id":85881137,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -93.112465,
+    37.275453,
+    -93.112465,
+    37.275453
+],
+  "geometry": {"coordinates":[-93.112465,37.275453],"type":"Point"}
+}

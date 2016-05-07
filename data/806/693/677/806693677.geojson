@@ -1,0 +1,73 @@
+{
+  "id": 806693677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.5769,38.78853,-90.5769,38.78853",
+    "geom:latitude":38.78853,
+    "geom:longitude":-90.5769,
+    "iso:country":"US",
+    "sg:address":"251 Jungermann Rd",
+    "sg:city":"St Peters",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 928 1169",
+    "sg:postcode":"63376",
+    "sg:province":"MO",
+    "sg:tags":[
+        "veterinarian",
+        "animal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_20SME6lRFd2imIxy56bGE2_38.788530_-90.576900@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462600285,
+    "wof:geomhash":"8e31d5c6b26e850d8b19157bd2f8262c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":806693677
+        }
+    ],
+    "wof:id":806693677,
+    "wof:lastmodified":1462600285,
+    "wof:name":"All Cats Animal Hospital",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian",
+        "animal"
+    ]
+},
+  "bbox": [
+    -90.5769,
+    38.78853,
+    -90.5769,
+    38.78853
+],
+  "geometry": {"coordinates":[-90.57689999999999,38.78853],"type":"Point"}
+}

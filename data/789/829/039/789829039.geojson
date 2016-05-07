@@ -1,0 +1,82 @@
+{
+  "id": 789829039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.099398,37.925152,-92.099398,37.925152",
+    "geom:latitude":37.925152,
+    "geom:longitude":-92.099398,
+    "iso:country":"US",
+    "sg:address":"16030 State Hwy 28",
+    "sg:city":"Dixon",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 759 3020",
+    "sg:postcode":"65459",
+    "sg:province":"MO",
+    "sg:tags":[
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85822351,
+        102191575,
+        404517689,
+        85633793,
+        85971093,
+        102086161,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1HDz50xuaEPNUBdWyMVXl6_37.925152_-92.099398@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462590864,
+    "wof:geomhash":"03294182800b71d2132faa3ae1fd538a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086161,
+            "localadmin_id":404517689,
+            "locality_id":85971093,
+            "neighbourhood_id":85822351,
+            "region_id":85688661,
+            "venue_id":789829039
+        }
+    ],
+    "wof:id":789829039,
+    "wof:lastmodified":1462590864,
+    "wof:name":"Gas Hopper",
+    "wof:parent_id":85822351,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -92.099398,
+    37.925152,
+    -92.099398,
+    37.925152
+],
+  "geometry": {"coordinates":[-92.09939799999999,37.925152],"type":"Point"}
+}

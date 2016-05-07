@@ -1,0 +1,84 @@
+{
+  "id": 807212701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.388359,39.078209,-94.388359,39.078209",
+    "geom:latitude":39.078209,
+    "geom:longitude":-94.388359,
+    "iso:country":"US",
+    "sg:address":"16000 E 23rd St S",
+    "sg:city":"Independence",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Scrap",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 254 4650",
+    "sg:postcode":"64055",
+    "sg:province":"MO",
+    "sg:tags":[
+        "truck",
+        "towing",
+        "wrecking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85816457,
+        102191575,
+        404515661,
+        85633793,
+        85971449,
+        102081227,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6nPD1IM7uJAle1NBIXzwRx_39.078209_-94.388359@1303262932"
+    },
+    "wof:country":"US",
+    "wof:created":1462604926,
+    "wof:geomhash":"2ffa257409ca50ad23c9bd40709cf210",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081227,
+            "localadmin_id":404515661,
+            "locality_id":85971449,
+            "neighbourhood_id":85816457,
+            "region_id":85688661,
+            "venue_id":807212701
+        }
+    ],
+    "wof:id":807212701,
+    "wof:lastmodified":1462604926,
+    "wof:name":"Impact Towing & Recovery",
+    "wof:parent_id":85816457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck",
+        "towing",
+        "wrecking"
+    ]
+},
+  "bbox": [
+    -94.388359,
+    39.078209,
+    -94.388359,
+    39.078209
+],
+  "geometry": {"coordinates":[-94.38835899999999,39.078209],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 773183383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.623239,38.802869,-90.623239,38.802869",
+    "geom:latitude":38.802869,
+    "geom:longitude":-90.623239,
+    "iso:country":"US",
+    "sg:address":"338 Depot St",
+    "sg:city":"Saint Peters",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 397 1174",
+    "sg:postcode":"63376",
+    "sg:province":"MO",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1aqkxyijIQbR9fOFdt7S5W_38.802869_-90.623239@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462583783,
+    "wof:geomhash":"1a35223a581b7f30ddbc88069b815aa9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":773183383
+        }
+    ],
+    "wof:id":773183383,
+    "wof:lastmodified":1462583783,
+    "wof:name":"R & B Service LLC",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -90.623239,
+    38.802869,
+    -90.623239,
+    38.802869
+],
+  "geometry": {"coordinates":[-90.623239,38.802869],"type":"Point"}
+}

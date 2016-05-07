@@ -1,0 +1,72 @@
+{
+  "id": 807038005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.379566,38.407104,-90.379566,38.407104",
+    "geom:latitude":38.407104,
+    "geom:longitude":-90.379566,
+    "iso:country":"US",
+    "sg:address":"3880 Jeffco Blvd",
+    "sg:city":"Arnold",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 464 9150",
+    "sg:postcode":"63010",
+    "sg:province":"MO",
+    "sg:tags":[
+        "medical",
+        "welfare"
+    ],
+    "sg:website":"http://www.americanredcross.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85805175,
+        102080787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5fjXtwDOpokArgTH1Hwzc5_38.407129_-90.379590@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1462603187,
+    "wof:geomhash":"21e9f0896fb0ff99ddc75ff4c379e12b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080787,
+            "neighbourhood_id":85805175,
+            "region_id":85688661,
+            "venue_id":807038005
+        }
+    ],
+    "wof:id":807038005,
+    "wof:lastmodified":1462603187,
+    "wof:name":"American Red Cross",
+    "wof:parent_id":85805175,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical",
+        "welfare"
+    ]
+},
+  "bbox": [
+    -90.379566,
+    38.407104,
+    -90.379566,
+    38.407104
+],
+  "geometry": {"coordinates":[-90.379566,38.407104],"type":"Point"}
+}

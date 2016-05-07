@@ -1,0 +1,74 @@
+{
+  "id": 807124003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.57177,38.31334,-90.57177,38.31334",
+    "geom:latitude":38.31334,
+    "geom:longitude":-90.57177,
+    "iso:country":"US",
+    "sg:address":"7690 Hillsboro House Springs Rd",
+    "sg:city":"Hillsboro",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 285 2035",
+    "sg:postcode":"63050",
+    "sg:province":"MO",
+    "sg:tags":[
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85848677,
+        102080787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3BZ4ofdIli1hrt07Tsm0mh_38.313340_-90.571770@1303262926"
+    },
+    "wof:country":"US",
+    "wof:created":1462603991,
+    "wof:geomhash":"bd8c9874ca2bf802881207cf07b43fb4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080787,
+            "neighbourhood_id":85848677,
+            "region_id":85688661,
+            "venue_id":807124003
+        }
+    ],
+    "wof:id":807124003,
+    "wof:lastmodified":1462603991,
+    "wof:name":"Tishomingo Quick Stop",
+    "wof:parent_id":85848677,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pizza"
+    ]
+},
+  "bbox": [
+    -90.57177,
+    38.31334,
+    -90.57177,
+    38.31334
+],
+  "geometry": {"coordinates":[-90.57177,38.31334],"type":"Point"}
+}

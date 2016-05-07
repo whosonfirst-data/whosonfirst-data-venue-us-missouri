@@ -1,0 +1,71 @@
+{
+  "id": 789920331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.668759,38.389957,-90.668759,38.389957",
+    "geom:latitude":38.389957,
+    "geom:longitude":-90.668759,
+    "iso:country":"US",
+    "sg:address":"8790 Byrnesville Rd",
+    "sg:city":"Cedar Hill",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 285 6053",
+    "sg:postcode":"63016",
+    "sg:province":"MO",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971019,
+        102080787,
+        85817237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7hlI2PyWh3wVqaysaLhEqM_38.389957_-90.668759@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462591629,
+    "wof:geomhash":"a92ae957d76ae4f98c91c9dfbd88f2fc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080787,
+            "locality_id":85971019,
+            "neighbourhood_id":85817237,
+            "region_id":85688661,
+            "venue_id":789920331
+        }
+    ],
+    "wof:id":789920331,
+    "wof:lastmodified":1462591629,
+    "wof:name":"Cedar Hill Fire Station",
+    "wof:parent_id":85817237,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -90.668759,
+    38.389957,
+    -90.668759,
+    38.389957
+],
+  "geometry": {"coordinates":[-90.66875899999999,38.389957],"type":"Point"}
+}

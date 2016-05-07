@@ -1,0 +1,71 @@
+{
+  "id": 789914263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.773613,37.9456,-91.773613,37.9456",
+    "geom:latitude":37.9456,
+    "geom:longitude":-91.773613,
+    "iso:country":"US",
+    "sg:address":"200 N Main St",
+    "sg:city":"Rolla",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 458 6210",
+    "sg:postcode":"65401",
+    "sg:province":"MO",
+    "sg:tags":[
+        "county"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970821,
+        102086893,
+        85814531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_67qM5e69cR827qCMTMabtC_37.945600_-91.773613@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462591575,
+    "wof:geomhash":"fd603291caa236f25e67dc8406c7b262",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086893,
+            "locality_id":85970821,
+            "neighbourhood_id":85814531,
+            "region_id":85688661,
+            "venue_id":789914263
+        }
+    ],
+    "wof:id":789914263,
+    "wof:lastmodified":1462591575,
+    "wof:name":"Phelps County Circuit Clerk",
+    "wof:parent_id":85814531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "county"
+    ]
+},
+  "bbox": [
+    -91.773613,
+    37.9456,
+    -91.773613,
+    37.9456
+],
+  "geometry": {"coordinates":[-91.773613,37.9456],"type":"Point"}
+}

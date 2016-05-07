@@ -1,0 +1,71 @@
+{
+  "id": 773497315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.900728,39.422598,-94.900728,39.422598",
+    "geom:latitude":39.422598,
+    "geom:longitude":-94.900728,
+    "iso:country":"US",
+    "sg:address":"1111 Washington St",
+    "sg:city":"Weston",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 640 2376",
+    "sg:postcode":"64098",
+    "sg:province":"MO",
+    "sg:tags":[
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970739,
+        102085271,
+        85823759
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4WHtsFQ9koJYwdUgA4Sj4D_39.422598_-94.900728@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462586188,
+    "wof:geomhash":"5a6a72fb5e1ea6767c0ad186aae610ef",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085271,
+            "locality_id":85970739,
+            "neighbourhood_id":85823759,
+            "region_id":85688661,
+            "venue_id":773497315
+        }
+    ],
+    "wof:id":773497315,
+    "wof:lastmodified":1462586188,
+    "wof:name":"JLC Trucking Inc",
+    "wof:parent_id":85823759,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -94.900728,
+    39.422598,
+    -94.900728,
+    39.422598
+],
+  "geometry": {"coordinates":[-94.900728,39.422598],"type":"Point"}
+}

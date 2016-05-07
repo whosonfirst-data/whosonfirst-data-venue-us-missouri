@@ -1,0 +1,75 @@
+{
+  "id": 789814319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.362327,39.372128,-94.362327,39.372128",
+    "geom:latitude":39.372128,
+    "geom:longitude":-94.362327,
+    "iso:country":"US",
+    "sg:address":"100 S Jefferson St",
+    "sg:city":"Kearney",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 635 6003",
+    "sg:postcode":"64060",
+    "sg:province":"MO",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "radiator"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971507,
+        102086177,
+        85812855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3YdkesYEJOXaN5veUVcuPu_39.372128_-94.362327@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462590747,
+    "wof:geomhash":"4263d7b5feef849a21b576d87479e2fd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086177,
+            "locality_id":85971507,
+            "neighbourhood_id":85812855,
+            "region_id":85688661,
+            "venue_id":789814319
+        }
+    ],
+    "wof:id":789814319,
+    "wof:lastmodified":1462590747,
+    "wof:name":"Kearney Radiator Repair",
+    "wof:parent_id":85812855,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "radiator"
+    ]
+},
+  "bbox": [
+    -94.362327,
+    39.372128,
+    -94.362327,
+    39.372128
+],
+  "geometry": {"coordinates":[-94.36232699999999,39.372128],"type":"Point"}
+}

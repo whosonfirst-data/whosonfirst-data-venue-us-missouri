@@ -1,0 +1,73 @@
+{
+  "id": 789852449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.366599,38.552499,-92.366599,38.552499",
+    "geom:latitude":38.552499,
+    "geom:longitude":-92.366599,
+    "iso:country":"US",
+    "sg:address":"2218 State Rte D",
+    "sg:city":"Lohman",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 782 4614",
+    "sg:postcode":"65053",
+    "sg:province":"MO",
+    "sg:tags":[
+        "heating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970647,
+        102087519,
+        85847491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0v2OGCQIPvoRG1GH6qawKz_38.552499_-92.366599@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462591046,
+    "wof:geomhash":"637f577547644a6e5f13bb2bd559650e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087519,
+            "locality_id":85970647,
+            "neighbourhood_id":85847491,
+            "region_id":85688661,
+            "venue_id":789852449
+        }
+    ],
+    "wof:id":789852449,
+    "wof:lastmodified":1462591046,
+    "wof:name":"Lister Inc",
+    "wof:parent_id":85847491,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "heating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -92.366599,
+    38.552499,
+    -92.366599,
+    38.552499
+],
+  "geometry": {"coordinates":[-92.36659899999999,38.552499],"type":"Point"}
+}

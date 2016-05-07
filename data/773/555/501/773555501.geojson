@@ -1,0 +1,75 @@
+{
+  "id": 773555501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.224116,39.341729,-94.224116,39.341729",
+    "geom:latitude":39.341729,
+    "geom:longitude":-94.224116,
+    "iso:country":"US",
+    "sg:address":"206 S Marietta St",
+    "sg:city":"Excelsior Spgs",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 630 4224",
+    "sg:postcode":"64024",
+    "sg:province":"MO",
+    "sg:tags":[
+        "laboratory",
+        "dental",
+        "restoration"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971507,
+        102086177,
+        85822189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1FrVORb3TyBHpesrkTgxAl_39.341729_-94.224116@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462586611,
+    "wof:geomhash":"a6048a1cb19f358973d2ff3b7b11b48a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086177,
+            "locality_id":85971507,
+            "neighbourhood_id":85822189,
+            "region_id":85688661,
+            "venue_id":773555501
+        }
+    ],
+    "wof:id":773555501,
+    "wof:lastmodified":1462586611,
+    "wof:name":"Excelsior Dental Lab",
+    "wof:parent_id":85822189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory",
+        "dental",
+        "restoration"
+    ]
+},
+  "bbox": [
+    -94.224116,
+    39.341729,
+    -94.224116,
+    39.341729
+],
+  "geometry": {"coordinates":[-94.224116,39.341729],"type":"Point"}
+}

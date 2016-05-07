@@ -1,0 +1,77 @@
+{
+  "id": 806359117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.462735,38.632738,-90.462735,38.632738",
+    "geom:latitude":38.632738,
+    "geom:longitude":-90.462735,
+    "iso:country":"US",
+    "sg:address":"967 Delvin Dr",
+    "sg:city":"St Louis",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 647 3584",
+    "sg:postcode":"63141",
+    "sg:province":"MO",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85802943,
+        102191575,
+        404517387,
+        85633793,
+        85972231,
+        102086173,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_27SFeEyUA8HUscaraenZBv_38.632738_-90.462735@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462597501,
+    "wof:geomhash":"6cf0781b632a611ee6c38d75ad122766",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086173,
+            "localadmin_id":404517387,
+            "locality_id":85972231,
+            "neighbourhood_id":85802943,
+            "region_id":85688661,
+            "venue_id":806359117
+        }
+    ],
+    "wof:id":806359117,
+    "wof:lastmodified":1462597501,
+    "wof:name":"Robert N Westerman MD",
+    "wof:parent_id":85802943,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -90.462735,
+    38.632738,
+    -90.462735,
+    38.632738
+],
+  "geometry": {"coordinates":[-90.462735,38.632738],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 807081149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.582287,39.095367,-94.582287,39.095367",
+    "geom:latitude":39.095367,
+    "geom:longitude":-94.582287,
+    "iso:country":"US",
+    "sg:address":"1526 Walnut St",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"Wine Bar",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/kaw/10129-jp-wine-bar--coffee-house/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 842 2660",
+    "sg:postcode":"64108",
+    "sg:province":"MO",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872011,
+        102191575,
+        404518075,
+        85633793,
+        85970739,
+        102081227,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7KAULLYEafJ1Jp2yyIhrJT_39.095367_-94.582287@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462603542,
+    "wof:geomhash":"0963dc39a6211d1979c8be3c101eac5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081227,
+            "localadmin_id":404518075,
+            "locality_id":85970739,
+            "neighbourhood_id":85872011,
+            "region_id":85688661,
+            "venue_id":807081149
+        }
+    ],
+    "wof:id":807081149,
+    "wof:lastmodified":1462603542,
+    "wof:name":"JP Wine Bar & Coffee House",
+    "wof:parent_id":85872011,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -94.582287,
+    39.095367,
+    -94.582287,
+    39.095367
+],
+  "geometry": {"coordinates":[-94.58228699999999,39.095367],"type":"Point"}
+}

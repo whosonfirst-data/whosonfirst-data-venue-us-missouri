@@ -1,0 +1,71 @@
+{
+  "id": 773440251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.5142,38.78673,-90.5142,38.78673",
+    "geom:latitude":38.78673,
+    "geom:longitude":-90.5142,
+    "iso:country":"US",
+    "sg:address":"2499 Raymond Dr",
+    "sg:city":"Saint Charles",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 946 4456",
+    "sg:postcode":"63301",
+    "sg:province":"MO",
+    "sg:tags":[
+        "policy"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2WtYGmfsTzPmV24no7qY04_38.786730_-90.514200@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462585760,
+    "wof:geomhash":"6f15f831217e7c756bd22bd5f89c5de6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":773440251
+        }
+    ],
+    "wof:id":773440251,
+    "wof:lastmodified":1462585760,
+    "wof:name":"License Fee Office",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "policy"
+    ]
+},
+  "bbox": [
+    -90.5142,
+    38.78673,
+    -90.5142,
+    38.78673
+],
+  "geometry": {"coordinates":[-90.5142,38.78673],"type":"Point"}
+}

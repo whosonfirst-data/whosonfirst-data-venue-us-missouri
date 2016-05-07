@@ -1,0 +1,69 @@
+{
+  "id": 806798833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.579525,38.145562,-90.579525,38.145562",
+    "geom:latitude":38.145562,
+    "geom:longitude":-90.579525,
+    "iso:country":"US",
+    "sg:address":"40 Jefferson Sq",
+    "sg:city":"De Soto",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 586 8880",
+    "sg:postcode":"63020",
+    "sg:province":"MO",
+    "sg:tags":[
+        "cleaners"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85848677,
+        102080787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0yUTeQGX80srTWQFI79wLG_38.145562_-90.579525@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462601176,
+    "wof:geomhash":"f63ab4f7d701856925d20c0471ef776b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080787,
+            "neighbourhood_id":85848677,
+            "region_id":85688661,
+            "venue_id":806798833
+        }
+    ],
+    "wof:id":806798833,
+    "wof:lastmodified":1462601176,
+    "wof:name":"Jefferson Square Laundromat",
+    "wof:parent_id":85848677,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners"
+    ]
+},
+  "bbox": [
+    -90.579525,
+    38.145562,
+    -90.579525,
+    38.145562
+],
+  "geometry": {"coordinates":[-90.579525,38.145562],"type":"Point"}
+}

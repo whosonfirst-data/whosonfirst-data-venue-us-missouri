@@ -1,0 +1,71 @@
+{
+  "id": 773606731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.483171,38.142177,-90.483171,38.142177",
+    "geom:latitude":38.142177,
+    "geom:longitude":-90.483171,
+    "iso:country":"US",
+    "sg:address":"3263 Canine Rd",
+    "sg:city":"De Soto",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 337 0021",
+    "sg:postcode":"63020",
+    "sg:province":"MO",
+    "sg:tags":[
+        "garbage",
+        "collection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85848677,
+        102080787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Up4A2RZ9FeFxYUob4loBa_38.142177_-90.483171@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462586986,
+    "wof:geomhash":"de6f730d6a412fe69ee3f1ffcd2ceeda",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080787,
+            "neighbourhood_id":85848677,
+            "region_id":85688661,
+            "venue_id":773606731
+        }
+    ],
+    "wof:id":773606731,
+    "wof:lastmodified":1462586986,
+    "wof:name":"Hilltop Roll Off Svc",
+    "wof:parent_id":85848677,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garbage",
+        "collection"
+    ]
+},
+  "bbox": [
+    -90.483171,
+    38.142177,
+    -90.483171,
+    38.142177
+],
+  "geometry": {"coordinates":[-90.483171,38.142177],"type":"Point"}
+}

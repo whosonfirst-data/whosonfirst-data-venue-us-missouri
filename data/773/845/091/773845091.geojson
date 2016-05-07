@@ -1,0 +1,73 @@
+{
+  "id": 773845091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.08333,38.530515,-92.08333,38.530515",
+    "geom:latitude":38.530515,
+    "geom:longitude":-92.08333,
+    "iso:country":"US",
+    "sg:address":"6711 Liberty Rd",
+    "sg:city":"Jefferson City",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 761 4343",
+    "sg:postcode":"65101",
+    "sg:province":"MO",
+    "sg:tags":[
+        "center",
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970647,
+        102087511,
+        85837745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3IKFtnC9NK5lrWeOako9qg_38.530515_-92.083330@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462588859,
+    "wof:geomhash":"4bb1ef542f6655f4019961d1d399cdfa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087511,
+            "locality_id":85970647,
+            "neighbourhood_id":85837745,
+            "region_id":85688661,
+            "venue_id":773845091
+        }
+    ],
+    "wof:id":773845091,
+    "wof:lastmodified":1462588859,
+    "wof:name":"Rhodes Marcy",
+    "wof:parent_id":85837745,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "center",
+        "day"
+    ]
+},
+  "bbox": [
+    -92.08333,
+    38.530515,
+    -92.08333,
+    38.530515
+],
+  "geometry": {"coordinates":[-92.08333,38.530515],"type":"Point"}
+}

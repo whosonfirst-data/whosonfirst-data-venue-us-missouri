@@ -1,0 +1,80 @@
+{
+  "id": 789697911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.401968,38.402369,-90.401968,38.402369",
+    "geom:latitude":38.402369,
+    "geom:longitude":-90.401968,
+    "iso:country":"US",
+    "sg:address":"5009 Country Manor Dr",
+    "sg:city":"Imperial",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 640 6713",
+    "sg:postcode":"63052",
+    "sg:province":"MO",
+    "sg:tags":[
+        "glass",
+        "window",
+        "plate",
+        "replacement"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85805175,
+        102080787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7XeQZvyknElv0vhksMQCO0_38.402369_-90.401968@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462589843,
+    "wof:geomhash":"a21055eb2f5f5c85bcf4d967f2426c53",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080787,
+            "neighbourhood_id":85805175,
+            "region_id":85688661,
+            "venue_id":789697911
+        }
+    ],
+    "wof:id":789697911,
+    "wof:lastmodified":1462589843,
+    "wof:name":"D S Auto Glass Inc",
+    "wof:parent_id":85805175,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "glass",
+        "window",
+        "plate",
+        "replacement"
+    ]
+},
+  "bbox": [
+    -90.401968,
+    38.402369,
+    -90.401968,
+    38.402369
+],
+  "geometry": {"coordinates":[-90.401968,38.402369],"type":"Point"}
+}

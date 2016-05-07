@@ -1,0 +1,73 @@
+{
+  "id": 806980895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.480498,38.782757,-90.480498,38.782757",
+    "geom:latitude":38.782757,
+    "geom:longitude":-90.480498,
+    "iso:country":"US",
+    "sg:address":"226 N Main St",
+    "sg:city":"St Charles",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Dance Studio",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 946 6787",
+    "sg:postcode":"63301",
+    "sg:province":"MO",
+    "sg:tags":[
+        "instruction",
+        "dancing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_24dQiGTsDVskK4VPFKacnh_38.782757_-90.480498@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462602696,
+    "wof:geomhash":"579830786980ecf28dfac3a2de6f2fad",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":806980895
+        }
+    ],
+    "wof:id":806980895,
+    "wof:lastmodified":1462602696,
+    "wof:name":"Performing Arts Ctr Inc",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instruction",
+        "dancing"
+    ]
+},
+  "bbox": [
+    -90.480498,
+    38.782757,
+    -90.480498,
+    38.782757
+],
+  "geometry": {"coordinates":[-90.480498,38.782757],"type":"Point"}
+}

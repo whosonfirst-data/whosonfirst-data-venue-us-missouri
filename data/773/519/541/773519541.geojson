@@ -1,0 +1,73 @@
+{
+  "id": 773519541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.624311,38.788322,-90.624311,38.788322",
+    "geom:latitude":38.788322,
+    "geom:longitude":-90.624311,
+    "iso:country":"US",
+    "sg:address":"7030 Mexico Rd",
+    "sg:city":"St Peters",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 397 3231",
+    "sg:postcode":"63376",
+    "sg:province":"MO",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_00E36NkqQ6TYy9cfLLgykB_38.788322_-90.624311@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462586340,
+    "wof:geomhash":"b23ea200c37571652ae22de27c91d96c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":773519541
+        }
+    ],
+    "wof:id":773519541,
+    "wof:lastmodified":1462586340,
+    "wof:name":"St Charles Clinic",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -90.624311,
+    38.788322,
+    -90.624311,
+    38.788322
+],
+  "geometry": {"coordinates":[-90.62431100000001,38.788322],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 789599911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.364339,38.542604,-92.364339,38.542604",
+    "geom:latitude":38.542604,
+    "geom:longitude":-92.364339,
+    "iso:country":"US",
+    "sg:address":"2906 Main St",
+    "sg:city":"Lohman",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 782 3113",
+    "sg:postcode":"65053",
+    "sg:province":"MO",
+    "sg:tags":[
+        "nonresident",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970647,
+        102087519,
+        85847491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5RGqLRYxP51iDDG35cqLqt_38.542604_-92.364339@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462589067,
+    "wof:geomhash":"8f4b7460a533db4df38cefd23600d0e3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087519,
+            "locality_id":85970647,
+            "neighbourhood_id":85847491,
+            "region_id":85688661,
+            "venue_id":789599911
+        }
+    ],
+    "wof:id":789599911,
+    "wof:lastmodified":1462589067,
+    "wof:name":"Stubingers Repair Service",
+    "wof:parent_id":85847491,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "nonresident",
+        "supply"
+    ]
+},
+  "bbox": [
+    -92.364339,
+    38.542604,
+    -92.364339,
+    38.542604
+],
+  "geometry": {"coordinates":[-92.364339,38.542604],"type":"Point"}
+}

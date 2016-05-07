@@ -1,0 +1,75 @@
+{
+  "id": 773188887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.353862,38.481,-90.353862,38.481",
+    "geom:latitude":38.481,
+    "geom:longitude":-90.353862,
+    "iso:country":"US",
+    "sg:address":"5421 Lemay Ferry Rd",
+    "sg:city":"St Louis",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 845 1717",
+    "sg:postcode":"63129",
+    "sg:province":"MO",
+    "sg:tags":[
+        "car",
+        "used",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971021,
+        102080787,
+        85832925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5f3N5djb1BhYYkkRSyszOr_38.481000_-90.353862@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462583838,
+    "wof:geomhash":"a291845765aca0404c0ccbe2681ed6c8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080787,
+            "locality_id":85971021,
+            "neighbourhood_id":85832925,
+            "region_id":85688661,
+            "venue_id":773188887
+        }
+    ],
+    "wof:id":773188887,
+    "wof:lastmodified":1462583838,
+    "wof:name":"Certified Car Sales",
+    "wof:parent_id":85832925,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "used",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -90.353862,
+    38.481,
+    -90.353862,
+    38.481
+],
+  "geometry": {"coordinates":[-90.35386200000001,38.481],"type":"Point"}
+}

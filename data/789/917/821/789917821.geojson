@@ -1,0 +1,71 @@
+{
+  "id": 789917821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.742514,39.452338,-94.742514,39.452338",
+    "geom:latitude":39.452338,
+    "geom:longitude":-94.742514,
+    "iso:country":"US",
+    "sg:address":"500 3 St",
+    "sg:city":"Camden Point",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 280 3414",
+    "sg:postcode":"64018",
+    "sg:province":"MO",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970739,
+        102085271,
+        85851839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_55eQS6Soc57WjR0WigQuVJ_39.452338_-94.742514@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462591606,
+    "wof:geomhash":"81716154cdc43396f889665befe6e78d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085271,
+            "locality_id":85970739,
+            "neighbourhood_id":85851839,
+            "region_id":85688661,
+            "venue_id":789917821
+        }
+    ],
+    "wof:id":789917821,
+    "wof:lastmodified":1462591606,
+    "wof:name":"Camden Point Baptist Church",
+    "wof:parent_id":85851839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -94.742514,
+    39.452338,
+    -94.742514,
+    39.452338
+],
+  "geometry": {"coordinates":[-94.742514,39.452338],"type":"Point"}
+}

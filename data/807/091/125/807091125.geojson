@@ -1,0 +1,74 @@
+{
+  "id": 807091125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.781421,37.945629,-91.781421,37.945629",
+    "geom:latitude":37.945629,
+    "geom:longitude":-91.781421,
+    "iso:country":"US",
+    "sg:address":"1024 Kingshighway St",
+    "sg:city":"Rolla",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/rolla/65702-pizza-hut/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 364 7213",
+    "sg:postcode":"65401",
+    "sg:province":"MO",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970821,
+        102086893,
+        85814531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0jCzv5xItT9g2peKVGL3lK_37.945629_-91.781421@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462603628,
+    "wof:geomhash":"7a6192aae97b7742488f674c2db5833b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086893,
+            "locality_id":85970821,
+            "neighbourhood_id":85814531,
+            "region_id":85688661,
+            "venue_id":807091125
+        }
+    ],
+    "wof:id":807091125,
+    "wof:lastmodified":1462603628,
+    "wof:name":"Pizza Hut",
+    "wof:parent_id":85814531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -91.781421,
+    37.945629,
+    -91.781421,
+    37.945629
+],
+  "geometry": {"coordinates":[-91.78142099999999,37.945629],"type":"Point"}
+}

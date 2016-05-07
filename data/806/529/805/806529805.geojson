@@ -1,0 +1,73 @@
+{
+  "id": 806529805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.753188,37.954508,-91.753188,37.954508",
+    "geom:latitude":37.954508,
+    "geom:longitude":-91.753188,
+    "iso:country":"US",
+    "sg:address":"1107 Hauck Dr",
+    "sg:city":"Rolla",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 364 1114",
+    "sg:postcode":"65401",
+    "sg:province":"MO",
+    "sg:tags":[
+        "drycleaning",
+        "plant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970821,
+        102086893,
+        85814531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6D1aW4GBNU4nAaPiV3oXLF_37.954508_-91.753188@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462598869,
+    "wof:geomhash":"e133d87659973e8164fabdce4645d6eb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086893,
+            "locality_id":85970821,
+            "neighbourhood_id":85814531,
+            "region_id":85688661,
+            "venue_id":806529805
+        }
+    ],
+    "wof:id":806529805,
+    "wof:lastmodified":1462598869,
+    "wof:name":"Forum Cleaners",
+    "wof:parent_id":85814531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drycleaning",
+        "plant"
+    ]
+},
+  "bbox": [
+    -91.753188,
+    37.954508,
+    -91.753188,
+    37.954508
+],
+  "geometry": {"coordinates":[-91.75318799999999,37.954508],"type":"Point"}
+}

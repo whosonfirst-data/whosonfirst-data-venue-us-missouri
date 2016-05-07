@@ -1,0 +1,78 @@
+{
+  "id": 807091381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.656289,37.674824,-92.656289,37.674824",
+    "geom:latitude":37.674824,
+    "geom:longitude":-92.656289,
+    "iso:country":"US",
+    "sg:address":"747 S Jefferson Ave",
+    "sg:city":"Lebanon",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/lebanon/80620-papa-johns-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 588 8844",
+    "sg:postcode":"65536",
+    "sg:province":"MO",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85855845,
+        102191575,
+        404518399,
+        85633793,
+        85972115,
+        102085341,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5awff90ijY1H4Xbv8SMfWY_37.674824_-92.656289@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462603630,
+    "wof:geomhash":"56dc30a4f3245e7ebe58cb63e4475b39",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085341,
+            "localadmin_id":404518399,
+            "locality_id":85972115,
+            "neighbourhood_id":85855845,
+            "region_id":85688661,
+            "venue_id":807091381
+        }
+    ],
+    "wof:id":807091381,
+    "wof:lastmodified":1462603630,
+    "wof:name":"Papa John's Pizza",
+    "wof:parent_id":85855845,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -92.656289,
+    37.674824,
+    -92.656289,
+    37.674824
+],
+  "geometry": {"coordinates":[-92.656289,37.674824],"type":"Point"}
+}

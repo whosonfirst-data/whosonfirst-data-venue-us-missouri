@@ -1,0 +1,73 @@
+{
+  "id": 789870109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.68338,38.79525,-90.68338,38.79525",
+    "geom:latitude":38.79525,
+    "geom:longitude":-90.68338,
+    "iso:country":"US",
+    "sg:address":"218 Addison Dr",
+    "sg:city":"Saint Peters",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Photofinishing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 272 8116",
+    "sg:postcode":"63376",
+    "sg:province":"MO",
+    "sg:tags":[
+        "film",
+        "developing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0AcBG13EOZM1mFQ3HLb5XS_38.795250_-90.683380@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462591189,
+    "wof:geomhash":"0a49b86659c15c703c206ce18b660c01",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":789870109
+        }
+    ],
+    "wof:id":789870109,
+    "wof:lastmodified":1462591189,
+    "wof:name":"Wolf Camera",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "film",
+        "developing"
+    ]
+},
+  "bbox": [
+    -90.68338,
+    38.79525,
+    -90.68338,
+    38.79525
+],
+  "geometry": {"coordinates":[-90.68338,38.79525],"type":"Point"}
+}

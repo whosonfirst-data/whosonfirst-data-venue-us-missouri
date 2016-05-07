@@ -1,0 +1,79 @@
+{
+  "id": 807159273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.248171,38.664237,-90.248171,38.664237",
+    "geom:latitude":38.664237,
+    "geom:longitude":-90.248171,
+    "iso:country":"US",
+    "sg:address":"2616 Cora Ave",
+    "sg:city":"Saint Louis",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 531 8680",
+    "sg:postcode":"63113",
+    "sg:province":"MO",
+    "sg:tags":[
+        "high",
+        "middle",
+        "elementary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420525461,
+        102191575,
+        404518053,
+        85633793,
+        85971343,
+        102080791,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2XYm6R54CbnspTxJ5Jmbvt_38.664237_-90.248171@1303262929"
+    },
+    "wof:country":"US",
+    "wof:created":1462604368,
+    "wof:geomhash":"d1d80c80fc2e323709dfff173e5881b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080791,
+            "localadmin_id":404518053,
+            "locality_id":85971343,
+            "neighbourhood_id":420525461,
+            "region_id":85688661,
+            "venue_id":807159273
+        }
+    ],
+    "wof:id":807159273,
+    "wof:lastmodified":1462604368,
+    "wof:name":"St Louis Public Schools",
+    "wof:parent_id":420525461,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "high",
+        "middle",
+        "elementary"
+    ]
+},
+  "bbox": [
+    -90.248171,
+    38.664237,
+    -90.248171,
+    38.664237
+],
+  "geometry": {"coordinates":[-90.248171,38.664237],"type":"Point"}
+}

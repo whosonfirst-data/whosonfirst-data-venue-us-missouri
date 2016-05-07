@@ -1,0 +1,82 @@
+{
+  "id": 789893209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.463389,36.96324,-94.463389,36.96324",
+    "geom:latitude":36.96324,
+    "geom:longitude":-94.463389,
+    "iso:country":"US",
+    "sg:address":"7534 Heron Dr",
+    "sg:city":"Neosho",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 624 0682",
+    "sg:postcode":"64850",
+    "sg:province":"MO",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85821247,
+        102191575,
+        404517035,
+        85633793,
+        85971317,
+        102087471,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4hBj1xD8dgfRbqPwqOmQ0k_36.963240_-94.463389@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462591393,
+    "wof:geomhash":"3874f4fb1bf9299ddb8121773b4f50c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087471,
+            "localadmin_id":404517035,
+            "locality_id":85971317,
+            "neighbourhood_id":85821247,
+            "region_id":85688661,
+            "venue_id":789893209
+        }
+    ],
+    "wof:id":789893209,
+    "wof:lastmodified":1462591393,
+    "wof:name":"Michael B Robin Plumbing Inc",
+    "wof:parent_id":85821247,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -94.463389,
+    36.96324,
+    -94.463389,
+    36.96324
+],
+  "geometry": {"coordinates":[-94.46338900000001,36.96324],"type":"Point"}
+}

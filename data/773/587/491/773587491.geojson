@@ -1,0 +1,75 @@
+{
+  "id": 773587491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.256423,38.61022,-90.256423,38.61022",
+    "geom:latitude":38.61022,
+    "geom:longitude":-90.256423,
+    "iso:country":"US",
+    "sg:address":"4243 Botanical Ave",
+    "sg:city":"St Louis",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 773 2956",
+    "sg:postcode":"63110",
+    "sg:province":"MO",
+    "sg:tags":[
+        "janitor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873667,
+        102191575,
+        404518053,
+        85633793,
+        85971343,
+        102080791,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6pWwAWouBSNotzhL8np8dn_38.610220_-90.256423@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462586855,
+    "wof:geomhash":"f15785aeceacce4e0938636f760a3fb0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080791,
+            "localadmin_id":404518053,
+            "locality_id":85971343,
+            "neighbourhood_id":85873667,
+            "region_id":85688661,
+            "venue_id":773587491
+        }
+    ],
+    "wof:id":773587491,
+    "wof:lastmodified":1462586855,
+    "wof:name":"Fowlers Cleaning Svc",
+    "wof:parent_id":85873667,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitor"
+    ]
+},
+  "bbox": [
+    -90.256423,
+    38.61022,
+    -90.256423,
+    38.61022
+],
+  "geometry": {"coordinates":[-90.256423,38.61022],"type":"Point"}
+}

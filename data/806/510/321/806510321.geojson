@@ -1,0 +1,73 @@
+{
+  "id": 806510321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.845421,38.813436,-90.845421,38.813436",
+    "geom:latitude":38.813436,
+    "geom:longitude":-90.845421,
+    "iso:country":"US",
+    "sg:address":"909 E Pearce Blvd",
+    "sg:city":"Wentzville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 327 4042",
+    "sg:postcode":"63385",
+    "sg:province":"MO",
+    "sg:tags":[
+        "general",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_27Ws3XvxEDCJ87CwtEVIm3_38.813436_-90.845421@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462598719,
+    "wof:geomhash":"e0376d497b0ec33fcf8c8d083c9c5a33",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":806510321
+        }
+    ],
+    "wof:id":806510321,
+    "wof:lastmodified":1462598719,
+    "wof:name":"Harris Automotive",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "supply"
+    ]
+},
+  "bbox": [
+    -90.845421,
+    38.813436,
+    -90.845421,
+    38.813436
+],
+  "geometry": {"coordinates":[-90.845421,38.813436],"type":"Point"}
+}

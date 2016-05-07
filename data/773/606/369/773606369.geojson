@@ -1,0 +1,88 @@
+{
+  "id": 773606369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.413375,39.240601,-94.413375,39.240601",
+    "geom:latitude":39.240601,
+    "geom:longitude":-94.413375,
+    "iso:country":"US",
+    "sg:address":"325 S Jewell St",
+    "sg:city":"Liberty",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 781 7159",
+    "sg:postcode":"64068",
+    "sg:province":"MO",
+    "sg:tags":[
+        "engine",
+        "training"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420525367,
+        102191575,
+        404516717,
+        85633793,
+        85972461,
+        102086177,
+        85688661,
+        420525305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7UaRdZ0R3aHBH93pUpO3ep_39.240601_-94.413375@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462586984,
+    "wof:geomhash":"fd08f39ffa5fc952b841b6a3354cb557",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086177,
+            "localadmin_id":404516717,
+            "locality_id":85972461,
+            "neighbourhood_id":420525367,
+            "region_id":85688661,
+            "venue_id":773606369
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086177,
+            "localadmin_id":404516717,
+            "locality_id":85972461,
+            "neighbourhood_id":420525305,
+            "region_id":85688661,
+            "venue_id":773606369
+        }
+    ],
+    "wof:id":773606369,
+    "wof:lastmodified":1462586984,
+    "wof:name":"Morrowaire Aviation Svcs LLC",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "engine",
+        "training"
+    ]
+},
+  "bbox": [
+    -94.413375,
+    39.240601,
+    -94.413375,
+    39.240601
+],
+  "geometry": {"coordinates":[-94.413375,39.240601],"type":"Point"}
+}

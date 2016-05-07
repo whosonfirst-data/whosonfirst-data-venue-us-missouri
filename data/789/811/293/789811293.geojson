@@ -1,0 +1,86 @@
+{
+  "id": 789811293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.562866,38.975994,-94.562866,38.975994",
+    "geom:latitude":38.975994,
+    "geom:longitude":-94.562866,
+    "iso:country":"US",
+    "sg:address":"1831 Maddi Ave",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Textiles",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Hobbies, Toys, & Games",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 523 3753",
+    "sg:postcode":"64132",
+    "sg:province":"MO",
+    "sg:tags":[
+        "ceramic",
+        "equipment",
+        "mfg",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420525371,
+        102191575,
+        404518075,
+        85633793,
+        85970739,
+        102081227,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2uLwCxKcaWGdGLXg4Al1Hf_38.975994_-94.562866@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462590726,
+    "wof:geomhash":"9a678085bdd020902c09372ffed79d3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081227,
+            "localadmin_id":404518075,
+            "locality_id":85970739,
+            "neighbourhood_id":420525371,
+            "region_id":85688661,
+            "venue_id":789811293
+        }
+    ],
+    "wof:id":789811293,
+    "wof:lastmodified":1462590726,
+    "wof:name":"Wink's Ceramics",
+    "wof:parent_id":420525371,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ceramic",
+        "equipment",
+        "mfg",
+        "supply"
+    ]
+},
+  "bbox": [
+    -94.562866,
+    38.975994,
+    -94.562866,
+    38.975994
+],
+  "geometry": {"coordinates":[-94.562866,38.975994],"type":"Point"}
+}

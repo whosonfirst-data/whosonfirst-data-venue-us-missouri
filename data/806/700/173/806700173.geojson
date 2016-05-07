@@ -1,0 +1,88 @@
+{
+  "id": 806700173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.441557,39.242458,-94.441557,39.242458",
+    "geom:latitude":39.242458,
+    "geom:longitude":-94.441557,
+    "iso:country":"US",
+    "sg:address":"317 State Hwy 291",
+    "sg:city":"Liberty",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 781 0606",
+    "sg:postcode":"64068",
+    "sg:province":"MO",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420525305,
+        102191575,
+        404516717,
+        85633793,
+        85972461,
+        102086177,
+        85688661,
+        420525367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6JysPqYVP6qSKVjiFOk0So_39.242458_-94.441557@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462600341,
+    "wof:geomhash":"9793184822a481862b2ab0f84ee9f859",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086177,
+            "localadmin_id":404516717,
+            "locality_id":85972461,
+            "neighbourhood_id":420525305,
+            "region_id":85688661,
+            "venue_id":806700173
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086177,
+            "localadmin_id":404516717,
+            "locality_id":85972461,
+            "neighbourhood_id":420525367,
+            "region_id":85688661,
+            "venue_id":806700173
+        }
+    ],
+    "wof:id":806700173,
+    "wof:lastmodified":1462600341,
+    "wof:name":"Attic Storage",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [
+    -94.441557,
+    39.242458,
+    -94.441557,
+    39.242458
+],
+  "geometry": {"coordinates":[-94.441557,39.242458],"type":"Point"}
+}

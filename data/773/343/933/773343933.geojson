@@ -1,0 +1,77 @@
+{
+  "id": 773343933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.882539,38.823409,-90.882539,38.823409",
+    "geom:latitude":38.823409,
+    "geom:longitude":-90.882539,
+    "iso:country":"US",
+    "sg:address":"100 Medical Dr",
+    "sg:city":"Lake St Louis",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 940 7475",
+    "sg:postcode":"63385",
+    "sg:province":"MO",
+    "sg:tags":[
+        "physician",
+        "surgeon",
+        "bureau",
+        "information"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0tuvwI5dwK7GnYCgEUAOn7_38.823409_-90.882539@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462585006,
+    "wof:geomhash":"dd099de7f7cd2b059bc34e7ebcea9e42",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":773343933
+        }
+    ],
+    "wof:id":773343933,
+    "wof:lastmodified":1462585006,
+    "wof:name":"St Joseph Health Ctr",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon",
+        "bureau",
+        "information"
+    ]
+},
+  "bbox": [
+    -90.882539,
+    38.823409,
+    -90.882539,
+    38.823409
+],
+  "geometry": {"coordinates":[-90.88253899999999,38.823409],"type":"Point"}
+}

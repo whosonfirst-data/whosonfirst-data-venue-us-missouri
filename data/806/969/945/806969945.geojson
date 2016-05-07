@@ -1,0 +1,73 @@
+{
+  "id": 806969945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.656305,39.280479,-94.656305,39.280479",
+    "geom:latitude":39.280479,
+    "geom:longitude":-94.656305,
+    "iso:country":"US",
+    "sg:address":"6602 NW 103 St",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 891 8400",
+    "sg:postcode":"64154",
+    "sg:province":"MO",
+    "sg:tags":[
+        "home",
+        "builder"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970739,
+        102085271,
+        85851839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_79Z0ZZoaNwtsA8PHUvA6lM_39.280479_-94.656305@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462602611,
+    "wof:geomhash":"70fe2c3dbf0f897bc43181b344a44e43",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085271,
+            "locality_id":85970739,
+            "neighbourhood_id":85851839,
+            "region_id":85688661,
+            "venue_id":806969945
+        }
+    ],
+    "wof:id":806969945,
+    "wof:lastmodified":1462602611,
+    "wof:name":"G-Squared Custom Homes",
+    "wof:parent_id":85851839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "builder"
+    ]
+},
+  "bbox": [
+    -94.656305,
+    39.280479,
+    -94.656305,
+    39.280479
+],
+  "geometry": {"coordinates":[-94.656305,39.280479],"type":"Point"}
+}

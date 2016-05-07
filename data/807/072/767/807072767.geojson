@@ -1,0 +1,74 @@
+{
+  "id": 807072767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.620521,38.794522,-90.620521,38.794522",
+    "geom:latitude":38.794522,
+    "geom:longitude":-90.620521,
+    "iso:country":"US",
+    "sg:address":"272 Mid Rivers Ctr",
+    "sg:city":"Saint Peters",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/ofallon/148834-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 970 2681",
+    "sg:postcode":"63376",
+    "sg:province":"MO",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5w1ZFyKvqM3fvqNF1oxKFu_38.794522_-90.620521@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462603478,
+    "wof:geomhash":"3c17fa18b97f113bdf6a996ac1e059f1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":807072767
+        }
+    ],
+    "wof:id":807072767,
+    "wof:lastmodified":1462603478,
+    "wof:name":"Subway",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -90.620521,
+    38.794522,
+    -90.620521,
+    38.794522
+],
+  "geometry": {"coordinates":[-90.620521,38.794522],"type":"Point"}
+}

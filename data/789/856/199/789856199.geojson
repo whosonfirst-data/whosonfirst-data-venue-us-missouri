@@ -1,0 +1,71 @@
+{
+  "id": 789856199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.615533,36.513626,-94.615533,36.513626",
+    "geom:latitude":36.513626,
+    "geom:longitude":-94.615533,
+    "iso:country":"US",
+    "sg:address":"202 School St",
+    "sg:city":"Diamond",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 325 7110",
+    "sg:postcode":"64863",
+    "sg:province":"MO",
+    "sg:tags":[
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972127,
+        102085305,
+        85850627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_25meOZsLTF4QGvVyJAQYDi_36.513626_-94.615533@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462591075,
+    "wof:geomhash":"19e4d13d6e32827bb045b9cfffb35c81",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085305,
+            "locality_id":85972127,
+            "neighbourhood_id":85850627,
+            "region_id":85688661,
+            "venue_id":789856199
+        }
+    ],
+    "wof:id":789856199,
+    "wof:lastmodified":1462591075,
+    "wof:name":"Ozark Towing & Recovery",
+    "wof:parent_id":85850627,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrecker"
+    ]
+},
+  "bbox": [
+    -94.615533,
+    36.513626,
+    -94.615533,
+    36.513626
+],
+  "geometry": {"coordinates":[-94.615533,36.513626],"type":"Point"}
+}

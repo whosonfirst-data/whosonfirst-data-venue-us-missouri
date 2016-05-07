@@ -1,0 +1,69 @@
+{
+  "id": 806448417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.61471,38.109635,-90.61471,38.109635",
+    "geom:latitude":38.109635,
+    "geom:longitude":-90.61471,
+    "iso:country":"US",
+    "sg:address":"13861 State Rte 21",
+    "sg:city":"De Soto",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 586 6875",
+    "sg:postcode":"63020",
+    "sg:province":"MO",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85848677,
+        102080787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1FKlodfBj93AQ7Uri1s73v_38.109635_-90.614710@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462598234,
+    "wof:geomhash":"5ac4dd90ed01f51fa93e9cce7623f3c6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080787,
+            "neighbourhood_id":85848677,
+            "region_id":85688661,
+            "venue_id":806448417
+        }
+    ],
+    "wof:id":806448417,
+    "wof:lastmodified":1462598234,
+    "wof:name":"Duing Veterinary House Calls",
+    "wof:parent_id":85848677,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -90.61471,
+    38.109635,
+    -90.61471,
+    38.109635
+],
+  "geometry": {"coordinates":[-90.61471,38.109635],"type":"Point"}
+}

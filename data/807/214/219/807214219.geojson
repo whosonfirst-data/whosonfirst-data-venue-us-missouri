@@ -1,0 +1,71 @@
+{
+  "id": 807214219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.359482,39.048,-94.359482,39.048",
+    "geom:latitude":39.048,
+    "geom:longitude":-94.359482,
+    "iso:country":"US",
+    "sg:address":"18800 E 39th St S",
+    "sg:city":"Independence",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 795 2445",
+    "sg:postcode":"64057",
+    "sg:province":"MO",
+    "sg:website":"http://www.kohls.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85847737,
+        102191575,
+        404518081,
+        85633793,
+        85971453,
+        102081227,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2QcX5SQWFFk2HMUqfwo1w0_39.048000_-94.359482@1303262932"
+    },
+    "wof:country":"US",
+    "wof:created":1462604940,
+    "wof:geomhash":"6054c39e9655611db38958db5466eb14",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081227,
+            "localadmin_id":404518081,
+            "locality_id":85971453,
+            "neighbourhood_id":85847737,
+            "region_id":85688661,
+            "venue_id":807214219
+        }
+    ],
+    "wof:id":807214219,
+    "wof:lastmodified":1462604940,
+    "wof:name":"Kohl's",
+    "wof:parent_id":85847737,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -94.359482,
+    39.048,
+    -94.359482,
+    39.048
+],
+  "geometry": {"coordinates":[-94.359482,39.048],"type":"Point"}
+}

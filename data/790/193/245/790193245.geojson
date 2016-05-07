@@ -1,0 +1,73 @@
+{
+  "id": 790193245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.613438,38.0094,-91.613438,38.0094",
+    "geom:latitude":38.0094,
+    "geom:longitude":-91.613438,
+    "iso:country":"US",
+    "sg:address":"415 Sidney St",
+    "sg:city":"St James",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 265 8921",
+    "sg:postcode":"65559",
+    "sg:province":"MO",
+    "sg:tags":[
+        "home",
+        "convalescent"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970819,
+        102086893,
+        85847353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ubNKtYogkCFZ3IQqclJnm_38.009400_-91.613438@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462593882,
+    "wof:geomhash":"5902d801c322b1e85f6f1d639975f35e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086893,
+            "locality_id":85970819,
+            "neighbourhood_id":85847353,
+            "region_id":85688661,
+            "venue_id":790193245
+        }
+    ],
+    "wof:id":790193245,
+    "wof:lastmodified":1462593882,
+    "wof:name":"St James Nursing Ctr",
+    "wof:parent_id":85847353,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "convalescent"
+    ]
+},
+  "bbox": [
+    -91.613438,
+    38.0094,
+    -91.613438,
+    38.0094
+],
+  "geometry": {"coordinates":[-91.613438,38.0094],"type":"Point"}
+}

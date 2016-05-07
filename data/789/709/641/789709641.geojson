@@ -1,0 +1,77 @@
+{
+  "id": 789709641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.570812,39.293599,-94.570812,39.293599",
+    "geom:latitude":39.293599,
+    "geom:longitude":-94.570812,
+    "iso:country":"US",
+    "sg:address":"11050 N Holmes St",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 943 1231",
+    "sg:postcode":"64155",
+    "sg:province":"MO",
+    "sg:tags":[
+        "repair",
+        "station",
+        "gasoline",
+        "tire"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970739,
+        102086177,
+        85836329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3eQcq7olFgK9G7RDjhODvy_39.293599_-94.570812@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462589931,
+    "wof:geomhash":"a2fc1b94b643bf4e0deb40ba9b3a6410",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086177,
+            "locality_id":85970739,
+            "neighbourhood_id":85836329,
+            "region_id":85688661,
+            "venue_id":789709641
+        }
+    ],
+    "wof:id":789709641,
+    "wof:lastmodified":1462589931,
+    "wof:name":"Amoco",
+    "wof:parent_id":85836329,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair",
+        "station",
+        "gasoline",
+        "tire"
+    ]
+},
+  "bbox": [
+    -94.570812,
+    39.293599,
+    -94.570812,
+    39.293599
+],
+  "geometry": {"coordinates":[-94.570812,39.293599],"type":"Point"}
+}

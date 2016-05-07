@@ -1,0 +1,75 @@
+{
+  "id": 789634139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.831279,38.817029,-90.831279,38.817029",
+    "geom:latitude":38.817029,
+    "geom:longitude":-90.831279,
+    "iso:country":"US",
+    "sg:address":"255 Edinger Rd",
+    "sg:city":"Wentzville",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Motor Vehicles & Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 332 8600",
+    "sg:postcode":"63385",
+    "sg:province":"MO",
+    "sg:tags":[
+        "building",
+        "public",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_20ExpzlrXN0NAgJMc0yylz_38.817029_-90.831279@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462589331,
+    "wof:geomhash":"95a964473da79d54326d1ba518bd97dd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":789634139
+        }
+    ],
+    "wof:id":789634139,
+    "wof:lastmodified":1462589331,
+    "wof:name":"Lear Seating",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "public",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -90.831279,
+    38.817029,
+    -90.831279,
+    38.817029
+],
+  "geometry": {"coordinates":[-90.83127899999999,38.817029],"type":"Point"}
+}

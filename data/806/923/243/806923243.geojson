@@ -1,0 +1,71 @@
+{
+  "id": 806923243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.793086,39.375648,-94.793086,39.375648",
+    "geom:latitude":39.375648,
+    "geom:longitude":-94.793086,
+    "iso:country":"US",
+    "sg:address":"15650 State Hwy 92",
+    "sg:city":"Platte City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 858 2161",
+    "sg:postcode":"64079",
+    "sg:province":"MO",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970739,
+        102085271,
+        85823759
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4oHLAk39TB4HQHKdToKukv_39.375648_-94.793086@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462602215,
+    "wof:geomhash":"a608706f007e856f702c854b13e5928d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085271,
+            "locality_id":85970739,
+            "neighbourhood_id":85823759,
+            "region_id":85688661,
+            "venue_id":806923243
+        }
+    ],
+    "wof:id":806923243,
+    "wof:lastmodified":1462602215,
+    "wof:name":"Mc Crea Veterinary Est",
+    "wof:parent_id":85823759,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -94.793086,
+    39.375648,
+    -94.793086,
+    39.375648
+],
+  "geometry": {"coordinates":[-94.793086,39.375648],"type":"Point"}
+}

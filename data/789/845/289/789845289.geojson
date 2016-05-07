@@ -1,0 +1,77 @@
+{
+  "id": 789845289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.347691,38.688842,-90.347691,38.688842",
+    "geom:latitude":38.688842,
+    "geom:longitude":-90.347691,
+    "iso:country":"US",
+    "sg:address":"2013 Walton Rd",
+    "sg:city":"Saint Louis",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 444 8545",
+    "sg:postcode":"63114",
+    "sg:province":"MO",
+    "sg:tags":[
+        "federal",
+        "reserve"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85847351,
+        102191575,
+        404517201,
+        85633793,
+        85972285,
+        102086173,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2W6478nvotoGpjLEA936co_38.688842_-90.347691@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462590994,
+    "wof:geomhash":"0f32267c99a1639fd9be6ed4b15afe42",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086173,
+            "localadmin_id":404517201,
+            "locality_id":85972285,
+            "neighbourhood_id":85847351,
+            "region_id":85688661,
+            "venue_id":789845289
+        }
+    ],
+    "wof:id":789845289,
+    "wof:lastmodified":1462590994,
+    "wof:name":"Federal Reserve Bank St Louis",
+    "wof:parent_id":85847351,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "federal",
+        "reserve"
+    ]
+},
+  "bbox": [
+    -90.347691,
+    38.688842,
+    -90.347691,
+    38.688842
+],
+  "geometry": {"coordinates":[-90.347691,38.688842],"type":"Point"}
+}

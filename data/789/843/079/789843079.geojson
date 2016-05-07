@@ -1,0 +1,83 @@
+{
+  "id": 789843079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.200443,38.646203,-90.200443,38.646203",
+    "geom:latitude":38.646203,
+    "geom:longitude":-90.200443,
+    "iso:country":"US",
+    "sg:address":"1839 Hogan St",
+    "sg:city":"Saint Louis",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 241 7525",
+    "sg:postcode":"63106",
+    "sg:province":"MO",
+    "sg:tags":[
+        "juvenile",
+        "male",
+        "delinquent",
+        "for",
+        "facility"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873627,
+        102191575,
+        404518053,
+        85633793,
+        85971343,
+        102080791,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0BdpcWel3FmH0VKvVtlX5M_38.646203_-90.200443@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462590972,
+    "wof:geomhash":"02db7894c881e961271992e967c14dfb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080791,
+            "localadmin_id":404518053,
+            "locality_id":85971343,
+            "neighbourhood_id":85873627,
+            "region_id":85688661,
+            "venue_id":789843079
+        }
+    ],
+    "wof:id":789843079,
+    "wof:lastmodified":1462590972,
+    "wof:name":"Hogan Street Regional Center",
+    "wof:parent_id":85873627,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "juvenile",
+        "male",
+        "delinquent",
+        "for",
+        "facility"
+    ]
+},
+  "bbox": [
+    -90.200443,
+    38.646203,
+    -90.200443,
+    38.646203
+],
+  "geometry": {"coordinates":[-90.20044300000001,38.646203],"type":"Point"}
+}

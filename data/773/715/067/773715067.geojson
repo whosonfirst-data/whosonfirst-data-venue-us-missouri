@@ -1,0 +1,84 @@
+{
+  "id": 773715067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.41395,38.59895,-90.41395,38.59895",
+    "geom:latitude":38.59895,
+    "geom:longitude":-90.41395,
+    "iso:country":"US",
+    "sg:address":"11114 Manchester Rd",
+    "sg:city":"Kirkwood",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 965 2660",
+    "sg:postcode":"63122",
+    "sg:province":"MO",
+    "sg:tags":[
+        "pet",
+        "hospital",
+        "veterinarian",
+        "animal",
+        "for"
+    ],
+    "sg:website":"www.kirkwoodvets.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85858243,
+        102191575,
+        404517253,
+        85633793,
+        85972177,
+        102086173,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5TGccnPXrbIN01QAHI3rR8_38.598950_-90.413950@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462587837,
+    "wof:geomhash":"efb615a4a27131861249da2590fb5089",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086173,
+            "localadmin_id":404517253,
+            "locality_id":85972177,
+            "neighbourhood_id":85858243,
+            "region_id":85688661,
+            "venue_id":773715067
+        }
+    ],
+    "wof:id":773715067,
+    "wof:lastmodified":1462587837,
+    "wof:name":"Kirkwood Animal Hospital",
+    "wof:parent_id":85858243,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "hospital",
+        "veterinarian",
+        "animal",
+        "for"
+    ]
+},
+  "bbox": [
+    -90.41395,
+    38.59895,
+    -90.41395,
+    38.59895
+],
+  "geometry": {"coordinates":[-90.41395,38.59895],"type":"Point"}
+}

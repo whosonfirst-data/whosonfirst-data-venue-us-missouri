@@ -1,0 +1,73 @@
+{
+  "id": 789705803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.756123,37.958602,-91.756123,37.958602",
+    "geom:latitude":37.958602,
+    "geom:longitude":-91.756123,
+    "iso:country":"US",
+    "sg:address":"1101 E 18th St",
+    "sg:city":"Rolla",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Theater",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 341 2418",
+    "sg:postcode":"65401",
+    "sg:province":"MO",
+    "sg:tags":[
+        "motion",
+        "picture"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970821,
+        102086893,
+        85814531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6934qrb9sXLRizC5371u2Q_37.958602_-91.756123@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462589898,
+    "wof:geomhash":"b364699a1bad99d5ec743d594fbaf791",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086893,
+            "locality_id":85970821,
+            "neighbourhood_id":85814531,
+            "region_id":85688661,
+            "venue_id":789705803
+        }
+    ],
+    "wof:id":789705803,
+    "wof:lastmodified":1462589898,
+    "wof:name":"Movie Hot Line",
+    "wof:parent_id":85814531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "motion",
+        "picture"
+    ]
+},
+  "bbox": [
+    -91.756123,
+    37.958602,
+    -91.756123,
+    37.958602
+],
+  "geometry": {"coordinates":[-91.756123,37.958602],"type":"Point"}
+}

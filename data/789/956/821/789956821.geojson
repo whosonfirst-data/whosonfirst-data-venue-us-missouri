@@ -1,0 +1,71 @@
+{
+  "id": 789956821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.645502,38.805327,-90.645502,38.805327",
+    "geom:latitude":38.805327,
+    "geom:longitude":-90.645502,
+    "iso:country":"US",
+    "sg:address":"1010 Turner Blvd",
+    "sg:city":"Saint Peters",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 278 3245",
+    "sg:postcode":"63376",
+    "sg:province":"MO",
+    "sg:tags":[
+        "truck"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7SRGfsaDXcSrevEJPDPSk8_38.805327_-90.645502@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462591973,
+    "wof:geomhash":"28bf7be410a5e6c5f9af24f2667624de",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":789956821
+        }
+    ],
+    "wof:id":789956821,
+    "wof:lastmodified":1462591973,
+    "wof:name":"Ryder",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck"
+    ]
+},
+  "bbox": [
+    -90.645502,
+    38.805327,
+    -90.645502,
+    38.805327
+],
+  "geometry": {"coordinates":[-90.64550199999999,38.805327],"type":"Point"}
+}

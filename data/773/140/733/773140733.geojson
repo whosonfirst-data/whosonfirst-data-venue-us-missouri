@@ -1,0 +1,71 @@
+{
+  "id": 773140733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.356001,38.486477,-90.356001,38.486477",
+    "geom:latitude":38.486477,
+    "geom:longitude":-90.356001,
+    "iso:country":"US",
+    "sg:address":"5001 Little Rock Rd",
+    "sg:city":"Saint Louis",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 487 8507",
+    "sg:postcode":"63128",
+    "sg:province":"MO",
+    "sg:tags":[
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971021,
+        102080787,
+        85832925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1TChq80sLId7CKZKaFUWV0_38.486477_-90.356001@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462583441,
+    "wof:geomhash":"1b5cc7fc6bc4b74886a2ce1281e59b49",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080787,
+            "locality_id":85971021,
+            "neighbourhood_id":85832925,
+            "region_id":85688661,
+            "venue_id":773140733
+        }
+    ],
+    "wof:id":773140733,
+    "wof:lastmodified":1462583441,
+    "wof:name":"Noahs Ark Day Care Center",
+    "wof:parent_id":85832925,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "day"
+    ]
+},
+  "bbox": [
+    -90.356001,
+    38.486477,
+    -90.356001,
+    38.486477
+],
+  "geometry": {"coordinates":[-90.35600100000001,38.486477],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 806693547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.375736,39.119203,-94.375736,39.119203",
+    "geom:latitude":39.119203,
+    "geom:longitude":-94.375736,
+    "iso:country":"US",
+    "sg:address":"16730 US Hwy 24",
+    "sg:city":"Independence",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 257 1052",
+    "sg:postcode":"64056",
+    "sg:province":"MO",
+    "sg:tags":[
+        "automobile",
+        "lubrication"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971449,
+        102081227,
+        85844675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1cWcLClCcZme5HNdpeIMTO_39.119203_-94.375736@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462600284,
+    "wof:geomhash":"f198eb17bffc757e98c30e3cd241755b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081227,
+            "locality_id":85971449,
+            "neighbourhood_id":85844675,
+            "region_id":85688661,
+            "venue_id":806693547
+        }
+    ],
+    "wof:id":806693547,
+    "wof:lastmodified":1462600284,
+    "wof:name":"Juffy Lube",
+    "wof:parent_id":85844675,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "lubrication"
+    ]
+},
+  "bbox": [
+    -94.375736,
+    39.119203,
+    -94.375736,
+    39.119203
+],
+  "geometry": {"coordinates":[-94.375736,39.119203],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 789878345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.819395,38.19157,-92.819395,38.19157",
+    "geom:latitude":38.19157,
+    "geom:longitude":-92.819395,
+    "iso:country":"US",
+    "sg:address":"103 Purvis Rd",
+    "sg:city":"Laurie",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 374 5279",
+    "sg:postcode":"65037",
+    "sg:province":"MO",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85813457,
+        102191575,
+        404516525,
+        85633793,
+        85971261,
+        102087517,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_30jD7AjW0M8CCDZoBBnyMQ_38.191570_-92.819395@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462591273,
+    "wof:geomhash":"28c4bb45fbd315f5c3bf7db2d1a6e0b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087517,
+            "localadmin_id":404516525,
+            "locality_id":85971261,
+            "neighbourhood_id":85813457,
+            "region_id":85688661,
+            "venue_id":789878345
+        }
+    ],
+    "wof:id":789878345,
+    "wof:lastmodified":1462591273,
+    "wof:name":"Laurie Animal Hospital",
+    "wof:parent_id":85813457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -92.819395,
+    38.19157,
+    -92.819395,
+    38.19157
+],
+  "geometry": {"coordinates":[-92.819395,38.19157],"type":"Point"}
+}

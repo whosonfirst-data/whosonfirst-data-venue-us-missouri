@@ -1,0 +1,71 @@
+{
+  "id": 806527039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.426003,37.297915,-93.426003,37.297915",
+    "geom:latitude":37.297915,
+    "geom:longitude":-93.426003,
+    "iso:country":"US",
+    "sg:address":"305 Proctor Rd",
+    "sg:city":"Willard",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 742 5000",
+    "sg:postcode":"65781",
+    "sg:province":"MO",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971363,
+        102087523,
+        85881139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3xTQ1EA1OeLbhcjPihdtEC_37.297915_-93.426003@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462598847,
+    "wof:geomhash":"6da36bb3d376792d4736c1ee6f32ad34",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087523,
+            "locality_id":85971363,
+            "neighbourhood_id":85881139,
+            "region_id":85688661,
+            "venue_id":806527039
+        }
+    ],
+    "wof:id":806527039,
+    "wof:lastmodified":1462598847,
+    "wof:name":"Willard Tire & Detail Shop",
+    "wof:parent_id":85881139,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -93.426003,
+    37.297915,
+    -93.426003,
+    37.297915
+],
+  "geometry": {"coordinates":[-93.42600299999999,37.297915],"type":"Point"}
+}

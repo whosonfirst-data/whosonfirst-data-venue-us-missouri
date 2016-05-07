@@ -1,0 +1,85 @@
+{
+  "id": 806716857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.203821,38.620398,-90.203821,38.620398",
+    "geom:latitude":38.620398,
+    "geom:longitude":-90.203821,
+    "iso:country":"US",
+    "sg:address":"1310 Papin St",
+    "sg:city":"St Louis",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Aerospace",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 436 7010",
+    "sg:postcode":"63103",
+    "sg:province":"MO",
+    "sg:tags":[
+        "aircraft",
+        "paper",
+        "mfg"
+    ],
+    "sg:website":"www.precoat.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873663,
+        102191575,
+        404518053,
+        85633793,
+        85971343,
+        102080791,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6PHTlTRmEDmY3OHf4sMMC5_38.620398_-90.203821@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462600475,
+    "wof:geomhash":"c2f621dc77544ea147d947e93f60ca8c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080791,
+            "localadmin_id":404518053,
+            "locality_id":85971343,
+            "neighbourhood_id":85873663,
+            "region_id":85688661,
+            "venue_id":806716857
+        }
+    ],
+    "wof:id":806716857,
+    "wof:lastmodified":1462600475,
+    "wof:name":"Precoat Metals",
+    "wof:parent_id":85873663,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "aircraft",
+        "paper",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -90.203821,
+    38.620398,
+    -90.203821,
+    38.620398
+],
+  "geometry": {"coordinates":[-90.203821,38.620398],"type":"Point"}
+}

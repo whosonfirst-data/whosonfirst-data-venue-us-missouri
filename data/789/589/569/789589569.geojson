@@ -1,0 +1,71 @@
+{
+  "id": 789589569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.571371,38.795239,-90.571371,38.795239",
+    "geom:latitude":38.795239,
+    "geom:longitude":-90.571371,
+    "iso:country":"US",
+    "sg:address":"4059 Veterans Memorial Pkwy",
+    "sg:city":"St Peters",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Telephone",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 922 3983",
+    "sg:postcode":"63376",
+    "sg:province":"MO",
+    "sg:tags":[
+        "company"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1S8SqzsESYo8ID7vAR1ULu_38.795239_-90.571371@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462588983,
+    "wof:geomhash":"33e5878109b8256748e25eaaa790bb36",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":789589569
+        }
+    ],
+    "wof:id":789589569,
+    "wof:lastmodified":1462588983,
+    "wof:name":"Sprint PCS",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company"
+    ]
+},
+  "bbox": [
+    -90.571371,
+    38.795239,
+    -90.571371,
+    38.795239
+],
+  "geometry": {"coordinates":[-90.571371,38.795239],"type":"Point"}
+}

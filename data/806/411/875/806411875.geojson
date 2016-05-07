@@ -1,0 +1,80 @@
+{
+  "id": 806411875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.702143,37.966597,-91.702143,37.966597",
+    "geom:latitude":37.966597,
+    "geom:longitude":-91.702143,
+    "iso:country":"US",
+    "sg:address":"12270 Country Club Dr",
+    "sg:city":"Rolla",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 364 6565",
+    "sg:postcode":"65401",
+    "sg:province":"MO",
+    "sg:tags":[
+        "general",
+        "maintenance",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970821,
+        102086893,
+        85814531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_428PUt9yp5QikZImIuI5so_37.966597_-91.702143@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462597943,
+    "wof:geomhash":"ff3beacf0df66840a0a3adf8b1d03b58",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086893,
+            "locality_id":85970821,
+            "neighbourhood_id":85814531,
+            "region_id":85688661,
+            "venue_id":806411875
+        }
+    ],
+    "wof:id":806411875,
+    "wof:lastmodified":1462597943,
+    "wof:name":"Baxter Repair Inc",
+    "wof:parent_id":85814531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "maintenance",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -91.702143,
+    37.966597,
+    -91.702143,
+    37.966597
+],
+  "geometry": {"coordinates":[-91.70214300000001,37.966597],"type":"Point"}
+}

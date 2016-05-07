@@ -1,0 +1,71 @@
+{
+  "id": 806945869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.326009,37.127037,-93.326009,37.127037",
+    "geom:latitude":37.127037,
+    "geom:longitude":-93.326009,
+    "iso:country":"US",
+    "sg:address":"2345 W Cynthia St",
+    "sg:city":"Springfield",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 886 2007",
+    "sg:postcode":"65810",
+    "sg:province":"MO",
+    "sg:tags":[
+        "operator",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85881143,
+        102087523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6PAwhNGkF6vFZxlKrZ3hR9_37.127037_-93.326009@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462602406,
+    "wof:geomhash":"2492a643c31b8b1b582c5bb2babd9981",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087523,
+            "neighbourhood_id":85881143,
+            "region_id":85688661,
+            "venue_id":806945869
+        }
+    ],
+    "wof:id":806945869,
+    "wof:lastmodified":1462602406,
+    "wof:name":"Jones Auto Transport",
+    "wof:parent_id":85881143,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -93.326009,
+    37.127037,
+    -93.326009,
+    37.127037
+],
+  "geometry": {"coordinates":[-93.326009,37.127037],"type":"Point"}
+}

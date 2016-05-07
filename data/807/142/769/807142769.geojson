@@ -1,0 +1,83 @@
+{
+  "id": 807142769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.199997,38.650799,-90.199997,38.650799",
+    "geom:latitude":38.650799,
+    "geom:longitude":-90.199997,
+    "iso:country":"US",
+    "sg:address":"1500 Saint Louis Ave",
+    "sg:city":"Saint Louis",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        },
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 466 3080",
+    "sg:postcode":"63106",
+    "sg:province":"MO",
+    "sg:tags":[
+        "broker",
+        "mortgage"
+    ],
+    "sg:website":"www.bankofamerica.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873627,
+        102191575,
+        404518053,
+        85633793,
+        85971343,
+        102080791,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3oEx1FQyJdw5FmcbvZcFP1_38.650799_-90.199997@1303262928"
+    },
+    "wof:country":"US",
+    "wof:created":1462604191,
+    "wof:geomhash":"bb3802f2ef238cff658f2804b010bf81",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080791,
+            "localadmin_id":404518053,
+            "locality_id":85971343,
+            "neighbourhood_id":85873627,
+            "region_id":85688661,
+            "venue_id":807142769
+        }
+    ],
+    "wof:id":807142769,
+    "wof:lastmodified":1462604191,
+    "wof:name":"Bank of America",
+    "wof:parent_id":85873627,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "broker",
+        "mortgage"
+    ]
+},
+  "bbox": [
+    -90.199997,
+    38.650799,
+    -90.199997,
+    38.650799
+],
+  "geometry": {"coordinates":[-90.199997,38.650799],"type":"Point"}
+}

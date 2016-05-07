@@ -1,0 +1,71 @@
+{
+  "id": 806561071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.388956,38.499788,-90.388956,38.499788",
+    "geom:latitude":38.499788,
+    "geom:longitude":-90.388956,
+    "iso:country":"US",
+    "sg:address":"12834 Canterbury Farms Dr",
+    "sg:city":"St Louis",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Portrait Studio",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 842 3980",
+    "sg:postcode":"63128",
+    "sg:province":"MO",
+    "sg:tags":[
+        "photographer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971021,
+        102080787,
+        85832925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7IIqSfnFoLsClwdeL3fPZY_38.499788_-90.388956@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462599136,
+    "wof:geomhash":"c2a307703dd01d21b8d9fb46d13323bb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080787,
+            "locality_id":85971021,
+            "neighbourhood_id":85832925,
+            "region_id":85688661,
+            "venue_id":806561071
+        }
+    ],
+    "wof:id":806561071,
+    "wof:lastmodified":1462599136,
+    "wof:name":"Chris Croy",
+    "wof:parent_id":85832925,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "photographer"
+    ]
+},
+  "bbox": [
+    -90.388956,
+    38.499788,
+    -90.388956,
+    38.499788
+],
+  "geometry": {"coordinates":[-90.38895599999999,38.499788],"type":"Point"}
+}

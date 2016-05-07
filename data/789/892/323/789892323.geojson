@@ -1,0 +1,77 @@
+{
+  "id": 789892323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.234729,38.668919,-90.234729,38.668919",
+    "geom:latitude":38.668919,
+    "geom:longitude":-90.234729,
+    "iso:country":"US",
+    "sg:address":"4130 W Natural Bridge Ave",
+    "sg:city":"St Louis",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 531 5066",
+    "sg:postcode":"63115",
+    "sg:province":"MO",
+    "sg:tags":[
+        "automobile",
+        "parts"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873611,
+        102191575,
+        404518053,
+        85633793,
+        85971343,
+        102080791,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0kZ3lYIi3kFKAtsES3LybX_38.668919_-90.234729@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462591387,
+    "wof:geomhash":"3f4b1497dda4be11ac9884d2980e7f85",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080791,
+            "localadmin_id":404518053,
+            "locality_id":85971343,
+            "neighbourhood_id":85873611,
+            "region_id":85688661,
+            "venue_id":789892323
+        }
+    ],
+    "wof:id":789892323,
+    "wof:lastmodified":1462591387,
+    "wof:name":"Autozone",
+    "wof:parent_id":85873611,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "parts"
+    ]
+},
+  "bbox": [
+    -90.234729,
+    38.668919,
+    -90.234729,
+    38.668919
+],
+  "geometry": {"coordinates":[-90.234729,38.668919],"type":"Point"}
+}

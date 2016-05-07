@@ -1,0 +1,71 @@
+{
+  "id": 789925197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.574128,38.064348,-91.574128,38.064348",
+    "geom:latitude":38.064348,
+    "geom:longitude":-91.574128,
+    "iso:country":"US",
+    "sg:address":"17961 Co Rd 1210",
+    "sg:city":"Saint James",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 265 4328",
+    "sg:postcode":"65559",
+    "sg:province":"MO",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970819,
+        102086893,
+        85847353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3JKLeSv4T6nKPz8daRxzOS_38.064348_-91.574128@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462591665,
+    "wof:geomhash":"549437c413f2a1ffc2e82aa36a3bd5b8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086893,
+            "locality_id":85970819,
+            "neighbourhood_id":85847353,
+            "region_id":85688661,
+            "venue_id":789925197
+        }
+    ],
+    "wof:id":789925197,
+    "wof:lastmodified":1462591665,
+    "wof:name":"A-1 Heating & Air",
+    "wof:parent_id":85847353,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -91.574128,
+    38.064348,
+    -91.574128,
+    38.064348
+],
+  "geometry": {"coordinates":[-91.574128,38.064348],"type":"Point"}
+}

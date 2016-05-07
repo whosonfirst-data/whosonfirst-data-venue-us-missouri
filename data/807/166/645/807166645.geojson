@@ -1,0 +1,83 @@
+{
+  "id": 807166645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.222252,38.593443,-90.222252,38.593443",
+    "geom:latitude":38.593443,
+    "geom:longitude":-90.222252,
+    "iso:country":"US",
+    "sg:address":"2101 Cherokee St",
+    "sg:city":"Saint Louis",
+    "sg:classifiers":[
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 776 6599",
+    "sg:postcode":"63118",
+    "sg:province":"MO",
+    "sg:tags":[
+        "brunch",
+        "breakfast"
+    ],
+    "sg:website":"themudhousestl.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873687,
+        102191575,
+        404518053,
+        85633793,
+        85971343,
+        102080791,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7igt2lp6VlBnp71ypF0yHX_38.593443_-90.222252@1303262929"
+    },
+    "wof:country":"US",
+    "wof:created":1462604444,
+    "wof:geomhash":"a7cb907cceb4ec062a118b7c45ec81e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080791,
+            "localadmin_id":404518053,
+            "locality_id":85971343,
+            "neighbourhood_id":85873687,
+            "region_id":85688661,
+            "venue_id":807166645
+        }
+    ],
+    "wof:id":807166645,
+    "wof:lastmodified":1462604444,
+    "wof:name":"The Mud House",
+    "wof:parent_id":85873687,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "brunch",
+        "breakfast"
+    ]
+},
+  "bbox": [
+    -90.222252,
+    38.593443,
+    -90.222252,
+    38.593443
+],
+  "geometry": {"coordinates":[-90.222252,38.593443],"type":"Point"}
+}

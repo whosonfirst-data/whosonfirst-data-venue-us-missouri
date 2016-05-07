@@ -1,0 +1,83 @@
+{
+  "id": 807213157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.41881,39.044084,-94.41881,39.044084",
+    "geom:latitude":39.044084,
+    "geom:longitude":-94.41881,
+    "iso:country":"US",
+    "sg:address":"13712 E 42nd Ter S",
+    "sg:city":"Independence",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Travel",
+            "subcategory":"Bed & Breakfast",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 373 2800",
+    "sg:postcode":"64055",
+    "sg:province":"MO",
+    "sg:tags":[
+        "inn",
+        "lodging"
+    ],
+    "sg:website":"http://www.redroof.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85871965,
+        102191575,
+        404517999,
+        85633793,
+        85971471,
+        102081227,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5u8M3xrGNfmrRMn4siIbqU_39.044084_-94.418810@1303262932"
+    },
+    "wof:country":"US",
+    "wof:created":1462604931,
+    "wof:geomhash":"0ccd7a110617bac78702e263964be618",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081227,
+            "localadmin_id":404517999,
+            "locality_id":85971471,
+            "neighbourhood_id":85871965,
+            "region_id":85688661,
+            "venue_id":807213157
+        }
+    ],
+    "wof:id":807213157,
+    "wof:lastmodified":1462604931,
+    "wof:name":"Red Roof Inn",
+    "wof:parent_id":85871965,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "inn",
+        "lodging"
+    ]
+},
+  "bbox": [
+    -94.41881,
+    39.044084,
+    -94.41881,
+    39.044084
+],
+  "geometry": {"coordinates":[-94.41880999999999,39.044084],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 807022405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.256203,38.566601,-90.256203,38.566601",
+    "geom:latitude":38.566601,
+    "geom:longitude":-90.256203,
+    "iso:country":"US",
+    "sg:address":"5822 S Grand Blvd",
+    "sg:city":"Saint Louis",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Musical Instruments",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 352 7380",
+    "sg:postcode":"63111",
+    "sg:province":"MO",
+    "sg:tags":[
+        "piano",
+        "teacher"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873701,
+        102191575,
+        404518053,
+        85633793,
+        85971343,
+        102080791,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Lhve1n8X0TOZaR4JDRhP5_38.566407_-90.256134@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1462603057,
+    "wof:geomhash":"3e4dd32cf080b28a2b31ad4638b121c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080791,
+            "localadmin_id":404518053,
+            "locality_id":85971343,
+            "neighbourhood_id":85873701,
+            "region_id":85688661,
+            "venue_id":807022405
+        }
+    ],
+    "wof:id":807022405,
+    "wof:lastmodified":1462603057,
+    "wof:name":"Classic Keyboards of St Louis",
+    "wof:parent_id":85873701,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "piano",
+        "teacher"
+    ]
+},
+  "bbox": [
+    -90.256203,
+    38.566601,
+    -90.256203,
+    38.566601
+],
+  "geometry": {"coordinates":[-90.256203,38.566601],"type":"Point"}
+}

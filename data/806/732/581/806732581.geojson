@@ -1,0 +1,78 @@
+{
+  "id": 806732581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.484461,39.084147,-94.484461,39.084147",
+    "geom:latitude":39.084147,
+    "geom:longitude":-94.484461,
+    "iso:country":"US",
+    "sg:address":"8611 E 21 St S",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Bus Charters",
+            "subcategory":"",
+            "type":"Transportation"
+        },
+        {
+            "category":"School Buses",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 254 5262",
+    "sg:postcode":"64126",
+    "sg:province":"MO",
+    "sg:tags":[
+        "operation",
+        "rental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970739,
+        102081227,
+        85810269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3rNBf5O1o8Nh7TCWIEb7d9_39.084147_-94.484461@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462600606,
+    "wof:geomhash":"9fd5877ff9ca915725d982565210feb2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081227,
+            "locality_id":85970739,
+            "neighbourhood_id":85810269,
+            "region_id":85688661,
+            "venue_id":806732581
+        }
+    ],
+    "wof:id":806732581,
+    "wof:lastmodified":1462600606,
+    "wof:name":"First Student Inc",
+    "wof:parent_id":85810269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operation",
+        "rental"
+    ]
+},
+  "bbox": [
+    -94.484461,
+    39.084147,
+    -94.484461,
+    39.084147
+],
+  "geometry": {"coordinates":[-94.484461,39.084147],"type":"Point"}
+}

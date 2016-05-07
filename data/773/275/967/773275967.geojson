@@ -1,0 +1,77 @@
+{
+  "id": 773275967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.361329,38.921547,-94.361329,38.921547",
+    "geom:latitude":38.921547,
+    "geom:longitude":-94.361329,
+    "iso:country":"US",
+    "sg:address":"310 State Hwy 291",
+    "sg:city":"Lees Summit",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 525 5522",
+    "sg:postcode":"64086",
+    "sg:province":"MO",
+    "sg:tags":[
+        "lock",
+        "locksmith"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85849825,
+        102191575,
+        404518079,
+        85633793,
+        85970737,
+        102081227,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1fK91Gsem9P2qGj9eDHDMX_38.921547_-94.361329@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462584485,
+    "wof:geomhash":"d20acc67cba8a31b5f121d98ae5fe163",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081227,
+            "localadmin_id":404518079,
+            "locality_id":85970737,
+            "neighbourhood_id":85849825,
+            "region_id":85688661,
+            "venue_id":773275967
+        }
+    ],
+    "wof:id":773275967,
+    "wof:lastmodified":1462584485,
+    "wof:name":"Lock Doctor",
+    "wof:parent_id":85849825,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lock",
+        "locksmith"
+    ]
+},
+  "bbox": [
+    -94.361329,
+    38.921547,
+    -94.361329,
+    38.921547
+],
+  "geometry": {"coordinates":[-94.361329,38.921547],"type":"Point"}
+}

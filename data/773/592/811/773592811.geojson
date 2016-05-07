@@ -1,0 +1,75 @@
+{
+  "id": 773592811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.303014,38.591523,-90.303014,38.591523",
+    "geom:latitude":38.591523,
+    "geom:longitude":-90.303014,
+    "iso:country":"US",
+    "sg:address":"4408 Donovan Ave",
+    "sg:city":"Saint Louis",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 289 1900",
+    "sg:postcode":"63109",
+    "sg:province":"MO",
+    "sg:tags":[
+        "protection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873685,
+        102191575,
+        404518053,
+        85633793,
+        85971343,
+        102080791,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4SE9MoOVzj3aqEorOnlQp7_38.591523_-90.303014@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462586894,
+    "wof:geomhash":"bdac168112ab14c4bf3dd7323c0f0bfd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080791,
+            "localadmin_id":404518053,
+            "locality_id":85971343,
+            "neighbourhood_id":85873685,
+            "region_id":85688661,
+            "venue_id":773592811
+        }
+    ],
+    "wof:id":773592811,
+    "wof:lastmodified":1462586894,
+    "wof:name":"Fire Dept",
+    "wof:parent_id":85873685,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "protection"
+    ]
+},
+  "bbox": [
+    -90.303014,
+    38.591523,
+    -90.303014,
+    38.591523
+],
+  "geometry": {"coordinates":[-90.303014,38.591523],"type":"Point"}
+}

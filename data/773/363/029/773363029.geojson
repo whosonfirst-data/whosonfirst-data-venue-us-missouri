@@ -1,0 +1,75 @@
+{
+  "id": 773363029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.53541,38.790934,-90.53541,38.790934",
+    "geom:latitude":38.790934,
+    "geom:longitude":-90.53541,
+    "iso:country":"US",
+    "sg:address":"183 Pinedale Dr",
+    "sg:city":"Saint Charles",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 946 2063",
+    "sg:postcode":"63301",
+    "sg:province":"MO",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5nOehv1pc4nsyfQrlmJJnG_38.790934_-90.535410@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462585133,
+    "wof:geomhash":"1c6cc008d1519ba41f9b13e6a91ae2ce",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":773363029
+        }
+    ],
+    "wof:id":773363029,
+    "wof:lastmodified":1462585133,
+    "wof:name":"Paschall & Sons Hauling",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -90.53541,
+    38.790934,
+    -90.53541,
+    38.790934
+],
+  "geometry": {"coordinates":[-90.53541,38.790934],"type":"Point"}
+}

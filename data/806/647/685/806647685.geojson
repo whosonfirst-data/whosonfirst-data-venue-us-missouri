@@ -1,0 +1,86 @@
+{
+  "id": 806647685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.240602,38.576996,-90.240602,38.576996",
+    "geom:latitude":38.576996,
+    "geom:longitude":-90.240602,
+    "iso:country":"US",
+    "sg:address":"4311 S Compton Ave",
+    "sg:city":"St Louis",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Medical Equipment & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 353 1499",
+    "sg:postcode":"63111",
+    "sg:province":"MO",
+    "sg:tags":[
+        "physician",
+        "surgeon",
+        "professional",
+        "diagnostic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873693,
+        102191575,
+        404518053,
+        85633793,
+        85971343,
+        102080791,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5f5EiDg8BZZtdEPl3D0kfB_38.576996_-90.240602@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462599886,
+    "wof:geomhash":"ecc83f40947d9d72259059df29bbb811",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080791,
+            "localadmin_id":404518053,
+            "locality_id":85971343,
+            "neighbourhood_id":85873693,
+            "region_id":85688661,
+            "venue_id":806647685
+        }
+    ],
+    "wof:id":806647685,
+    "wof:lastmodified":1462599886,
+    "wof:name":"Neumann Instrument Inc",
+    "wof:parent_id":85873693,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon",
+        "professional",
+        "diagnostic"
+    ]
+},
+  "bbox": [
+    -90.240602,
+    38.576996,
+    -90.240602,
+    38.576996
+],
+  "geometry": {"coordinates":[-90.240602,38.576996],"type":"Point"}
+}

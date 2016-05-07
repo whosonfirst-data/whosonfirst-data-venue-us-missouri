@@ -1,0 +1,69 @@
+{
+  "id": 789897257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.467058,38.592744,-90.467058,38.592744",
+    "geom:latitude":38.592744,
+    "geom:longitude":-90.467058,
+    "iso:country":"US",
+    "sg:address":"2331 Gateroyal Dr",
+    "sg:city":"Saint Louis",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 879 6240",
+    "sg:postcode":"63131",
+    "sg:province":"MO",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85839871,
+        102086173
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2SPn7eZpbOtAirVNAlYgPA_38.592744_-90.467058@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462591422,
+    "wof:geomhash":"3041283283d53c18b8d92953c4c7f805",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086173,
+            "neighbourhood_id":85839871,
+            "region_id":85688661,
+            "venue_id":789897257
+        }
+    ],
+    "wof:id":789897257,
+    "wof:lastmodified":1462591422,
+    "wof:name":"Primary Care Center",
+    "wof:parent_id":85839871,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -90.467058,
+    38.592744,
+    -90.467058,
+    38.592744
+],
+  "geometry": {"coordinates":[-90.46705799999999,38.592744],"type":"Point"}
+}

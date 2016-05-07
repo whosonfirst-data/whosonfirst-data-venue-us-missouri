@@ -1,0 +1,84 @@
+{
+  "id": 806685599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.315139,36.875086,-94.315139,36.875086",
+    "geom:latitude":36.875086,
+    "geom:longitude":-94.315139,
+    "iso:country":"US",
+    "sg:address":"18078 State Hwy 86",
+    "sg:city":"Neosho",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 451 2880",
+    "sg:postcode":"64850",
+    "sg:province":"MO",
+    "sg:tags":[
+        "plaza",
+        "truck",
+        "stops"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85821247,
+        102191575,
+        404517035,
+        85633793,
+        85971317,
+        102087471,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3QbSj2PZk1hv8n14m806fJ_36.875086_-94.315139@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462600219,
+    "wof:geomhash":"e213a44564efeb6e7841cdf625973ef2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087471,
+            "localadmin_id":404517035,
+            "locality_id":85971317,
+            "neighbourhood_id":85821247,
+            "region_id":85688661,
+            "venue_id":806685599
+        }
+    ],
+    "wof:id":806685599,
+    "wof:lastmodified":1462600219,
+    "wof:name":"Dave's Super Stop",
+    "wof:parent_id":85821247,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plaza",
+        "truck",
+        "stops"
+    ]
+},
+  "bbox": [
+    -94.315139,
+    36.875086,
+    -94.315139,
+    36.875086
+],
+  "geometry": {"coordinates":[-94.315139,36.875086],"type":"Point"}
+}

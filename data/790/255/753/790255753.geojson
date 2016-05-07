@@ -1,0 +1,71 @@
+{
+  "id": 790255753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.479506,39.90136,-92.479506,39.90136",
+    "geom:latitude":39.90136,
+    "geom:longitude":-92.479506,
+    "iso:country":"US",
+    "sg:address":"319 N Atterberry St",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 660 239 4324",
+    "sg:postcode":"63530",
+    "sg:province":"MO",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971149,
+        102086189,
+        85821499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_305pvcw4d1aJ5m5UOM0GlN_39.901360_-92.479506@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462594387,
+    "wof:geomhash":"26f2f1624da039b5b48171a825bb1c0b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086189,
+            "locality_id":85971149,
+            "neighbourhood_id":85821499,
+            "region_id":85688661,
+            "venue_id":790255753
+        }
+    ],
+    "wof:id":790255753,
+    "wof:lastmodified":1462594387,
+    "wof:name":"Atlanta Baptist Church",
+    "wof:parent_id":85821499,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -92.479506,
+    39.90136,
+    -92.479506,
+    39.90136
+],
+  "geometry": {"coordinates":[-92.479506,39.90136],"type":"Point"}
+}

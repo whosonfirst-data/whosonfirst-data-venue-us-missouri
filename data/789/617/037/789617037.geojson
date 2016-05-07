@@ -1,0 +1,71 @@
+{
+  "id": 789617037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.699707,38.818348,-90.699707,38.818348",
+    "geom:latitude":38.818348,
+    "geom:longitude":-90.699707,
+    "iso:country":"US",
+    "sg:address":"608 N Main St",
+    "sg:city":"O Fallon",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 978 4755",
+    "sg:postcode":"63366",
+    "sg:province":"MO",
+    "sg:tags":[
+        "taxicab"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ys2e2SdbZtHjIuYnVzq0K_38.818348_-90.699707@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462589196,
+    "wof:geomhash":"101c56288a1b274e3b3ac7df6e30d299",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":789617037
+        }
+    ],
+    "wof:id":789617037,
+    "wof:lastmodified":1462589196,
+    "wof:name":"O'Fallon Cab",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "taxicab"
+    ]
+},
+  "bbox": [
+    -90.699707,
+    38.818348,
+    -90.699707,
+    38.818348
+],
+  "geometry": {"coordinates":[-90.699707,38.818348],"type":"Point"}
+}

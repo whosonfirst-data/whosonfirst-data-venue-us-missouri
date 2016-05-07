@@ -1,0 +1,71 @@
+{
+  "id": 789594079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.258984,37.039088,-93.258984,37.039088",
+    "geom:latitude":37.039088,
+    "geom:longitude":-93.258984,
+    "iso:country":"US",
+    "sg:address":"3928 W Jackson Rd",
+    "sg:city":"Nixa",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 725 1881",
+    "sg:postcode":"65714",
+    "sg:province":"MO",
+    "sg:tags":[
+        "upholsterer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971577,
+        102087497,
+        85809751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7SAI4u6T1AkrU8nEc899e8_37.039088_-93.258984@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462589014,
+    "wof:geomhash":"c416f7caa2930a87c7b6a545bc99d6ec",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087497,
+            "locality_id":85971577,
+            "neighbourhood_id":85809751,
+            "region_id":85688661,
+            "venue_id":789594079
+        }
+    ],
+    "wof:id":789594079,
+    "wof:lastmodified":1462589014,
+    "wof:name":"Nixa Upholstery",
+    "wof:parent_id":85809751,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "upholsterer"
+    ]
+},
+  "bbox": [
+    -93.258984,
+    37.039088,
+    -93.258984,
+    37.039088
+],
+  "geometry": {"coordinates":[-93.258984,37.039088],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 807214859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.3557,39.34797,-94.3557,39.34797",
+    "geom:latitude":39.34797,
+    "geom:longitude":-94.3557,
+    "iso:country":"US",
+    "sg:address":"407 E 22nd St",
+    "sg:city":"Kearney",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 903 3047",
+    "sg:postcode":"64060",
+    "sg:province":"MO",
+    "sg:tags":[
+        "automobile",
+        "electrician",
+        "electric"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971507,
+        102086177,
+        85812855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1om0W3LA8CQriLMjZf1w7Y_39.347970_-94.355700@1303262932"
+    },
+    "wof:country":"US",
+    "wof:created":1462604946,
+    "wof:geomhash":"c8d7a8ce92c7c809d098f2c1a3adc58a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086177,
+            "locality_id":85971507,
+            "neighbourhood_id":85812855,
+            "region_id":85688661,
+            "venue_id":807214859
+        }
+    ],
+    "wof:id":807214859,
+    "wof:lastmodified":1462604946,
+    "wof:name":"S Conner Electrical",
+    "wof:parent_id":85812855,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "electrician",
+        "electric"
+    ]
+},
+  "bbox": [
+    -94.3557,
+    39.34797,
+    -94.3557,
+    39.34797
+],
+  "geometry": {"coordinates":[-94.3557,39.34797],"type":"Point"}
+}

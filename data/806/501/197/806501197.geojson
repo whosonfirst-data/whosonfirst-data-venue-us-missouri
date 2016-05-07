@@ -1,0 +1,80 @@
+{
+  "id": 806501197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.712208,38.313136,-90.712208,38.313136",
+    "geom:latitude":38.313136,
+    "geom:longitude":-90.712208,
+    "iso:country":"US",
+    "sg:address":"9689 Ridge Rd",
+    "sg:city":"Dittmer",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 274 8877",
+    "sg:postcode":"63023",
+    "sg:province":"MO",
+    "sg:tags":[
+        "car",
+        "used",
+        "dealer",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85848677,
+        102080787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2vPn1urax8FNImrNYKoVKi_38.313136_-90.712208@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462598636,
+    "wof:geomhash":"a51f28bddf081fe95af473fd47ab7743",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080787,
+            "neighbourhood_id":85848677,
+            "region_id":85688661,
+            "venue_id":806501197
+        }
+    ],
+    "wof:id":806501197,
+    "wof:lastmodified":1462598636,
+    "wof:name":"Ridge Road Motors",
+    "wof:parent_id":85848677,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "used",
+        "dealer",
+        "general"
+    ]
+},
+  "bbox": [
+    -90.712208,
+    38.313136,
+    -90.712208,
+    38.313136
+],
+  "geometry": {"coordinates":[-90.712208,38.313136],"type":"Point"}
+}

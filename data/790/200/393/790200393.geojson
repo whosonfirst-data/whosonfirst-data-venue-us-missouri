@@ -1,0 +1,71 @@
+{
+  "id": 790200393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.358858,38.48571,-90.358858,38.48571",
+    "geom:latitude":38.48571,
+    "geom:longitude":-90.358858,
+    "iso:country":"US",
+    "sg:address":"4305 Butler Hill Rd",
+    "sg:city":"Saint Louis",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 416 1780",
+    "sg:postcode":"63128",
+    "sg:province":"MO",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971021,
+        102080787,
+        85832925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1mYwjhGbRhCpoExsYPBtQO_38.485710_-90.358858@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462593961,
+    "wof:geomhash":"620199322d769f2761c6760c5cbd96b3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080787,
+            "locality_id":85971021,
+            "neighbourhood_id":85832925,
+            "region_id":85688661,
+            "venue_id":790200393
+        }
+    ],
+    "wof:id":790200393,
+    "wof:lastmodified":1462593961,
+    "wof:name":"Ip Aidan W",
+    "wof:parent_id":85832925,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -90.358858,
+    38.48571,
+    -90.358858,
+    38.48571
+],
+  "geometry": {"coordinates":[-90.358858,38.48571],"type":"Point"}
+}

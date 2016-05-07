@@ -1,0 +1,86 @@
+{
+  "id": 789617797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.505286,38.642503,-90.505286,38.642503",
+    "geom:latitude":38.642503,
+    "geom:longitude":-90.505286,
+    "iso:country":"US",
+    "sg:address":"510 Maryville University Dr",
+    "sg:city":"St Louis",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Computers",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 317 9406",
+    "sg:postcode":"63141",
+    "sg:province":"MO",
+    "sg:tags":[
+        "hardware",
+        "establishment",
+        "performs",
+        "software"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85802943,
+        102191575,
+        404517387,
+        85633793,
+        85972231,
+        102086173,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0fOXDPU7cvE6royvV08fH3_38.642503_-90.505286@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462589201,
+    "wof:geomhash":"f3d2adf23c0b933df04f6b7b6e8e84a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086173,
+            "localadmin_id":404517387,
+            "locality_id":85972231,
+            "neighbourhood_id":85802943,
+            "region_id":85688661,
+            "venue_id":789617797
+        }
+    ],
+    "wof:id":789617797,
+    "wof:lastmodified":1462589201,
+    "wof:name":"Advanced System Designs Inc",
+    "wof:parent_id":85802943,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hardware",
+        "establishment",
+        "performs",
+        "software"
+    ]
+},
+  "bbox": [
+    -90.505286,
+    38.642503,
+    -90.505286,
+    38.642503
+],
+  "geometry": {"coordinates":[-90.505286,38.642503],"type":"Point"}
+}

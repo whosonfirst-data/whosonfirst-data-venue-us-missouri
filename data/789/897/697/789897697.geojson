@@ -1,0 +1,73 @@
+{
+  "id": 789897697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.134203,39.044727,-92.134203,39.044727",
+    "geom:latitude":39.044727,
+    "geom:longitude":-92.134203,
+    "iso:country":"US",
+    "sg:address":"12650 E Durk Rd",
+    "sg:city":"Centralia",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 442 6560",
+    "sg:postcode":"65240",
+    "sg:province":"MO",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970425,
+        102086187,
+        85851713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3UsIkBwXUVWaK19O14rYYO_39.044727_-92.134203@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462591424,
+    "wof:geomhash":"ea65e2c06602237fd3ed8197d9a231f5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086187,
+            "locality_id":85970425,
+            "neighbourhood_id":85851713,
+            "region_id":85688661,
+            "venue_id":789897697
+        }
+    ],
+    "wof:id":789897697,
+    "wof:lastmodified":1462591424,
+    "wof:name":"Kennedy & Sons Inc",
+    "wof:parent_id":85851713,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -92.134203,
+    39.044727,
+    -92.134203,
+    39.044727
+],
+  "geometry": {"coordinates":[-92.134203,39.044727],"type":"Point"}
+}

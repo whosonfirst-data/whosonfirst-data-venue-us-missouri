@@ -1,0 +1,80 @@
+{
+  "id": 806362583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.708558,38.814302,-90.708558,38.814302",
+    "geom:latitude":38.814302,
+    "geom:longitude":-90.708558,
+    "iso:country":"US",
+    "sg:address":"408 Imperial Dr",
+    "sg:city":"O Fallon",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 978 7283",
+    "sg:postcode":"63366",
+    "sg:province":"MO",
+    "sg:tags":[
+        "mechanical",
+        "refrigeration",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4mSxqgiIQkt5xOO5FBv8jk_38.814302_-90.708558@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462597524,
+    "wof:geomhash":"3ee2c11dcdcda64f3d5a04f0d06ce173",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":806362583
+        }
+    ],
+    "wof:id":806362583,
+    "wof:lastmodified":1462597524,
+    "wof:name":"Triplett Mechanical Services",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mechanical",
+        "refrigeration",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -90.708558,
+    38.814302,
+    -90.708558,
+    38.814302
+],
+  "geometry": {"coordinates":[-90.708558,38.814302],"type":"Point"}
+}

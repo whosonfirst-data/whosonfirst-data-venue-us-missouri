@@ -1,0 +1,80 @@
+{
+  "id": 789731029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.180662,39.33398,-91.180662,39.33398",
+    "geom:latitude":39.33398,
+    "geom:longitude":-91.180662,
+    "iso:country":"US",
+    "sg:address":"1214 E Champ Clark Dr",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 324 2107",
+    "sg:postcode":"63334",
+    "sg:province":"MO",
+    "sg:tags":[
+        "plate",
+        "window",
+        "glass"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971907,
+        102086151,
+        85817909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Fwftzn92IImhonljxuryo_39.333980_-91.180662@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462590110,
+    "wof:geomhash":"5d97ada2398ace64f029db791f5ab637",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086151,
+            "locality_id":85971907,
+            "neighbourhood_id":85817909,
+            "region_id":85688661,
+            "venue_id":789731029
+        }
+    ],
+    "wof:id":789731029,
+    "wof:lastmodified":1462590110,
+    "wof:name":"Greg's Glass",
+    "wof:parent_id":85817909,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plate",
+        "window",
+        "glass"
+    ]
+},
+  "bbox": [
+    -91.180662,
+    39.33398,
+    -91.180662,
+    39.33398
+],
+  "geometry": {"coordinates":[-91.180662,39.33398],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 773732319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.294203,39.316217,-94.294203,39.316217",
+    "geom:latitude":39.316217,
+    "geom:longitude":-94.294203,
+    "iso:country":"US",
+    "sg:address":"12300 4th St",
+    "sg:city":"Excelsior Spgs",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 628 4875",
+    "sg:postcode":"64024",
+    "sg:province":"MO",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971507,
+        102086177,
+        85812855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_07bKsjyHlNujhlnF0zi6jD_39.316217_-94.294203@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462587966,
+    "wof:geomhash":"1a2a22ed7939942e8ea2e151d5a7aece",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086177,
+            "locality_id":85971507,
+            "neighbourhood_id":85812855,
+            "region_id":85688661,
+            "venue_id":773732319
+        }
+    ],
+    "wof:id":773732319,
+    "wof:lastmodified":1462587966,
+    "wof:name":"Mosby Police Dept",
+    "wof:parent_id":85812855,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -94.294203,
+    39.316217,
+    -94.294203,
+    39.316217
+],
+  "geometry": {"coordinates":[-94.294203,39.316217],"type":"Point"}
+}

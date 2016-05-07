@@ -1,0 +1,71 @@
+{
+  "id": 789612451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.41346,38.22593,-90.41346,38.22593",
+    "geom:latitude":38.22593,
+    "geom:longitude":-90.41346,
+    "iso:country":"US",
+    "sg:address":"500 Sunshine Dr",
+    "sg:city":"Festus",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 937 7140",
+    "sg:postcode":"63028",
+    "sg:province":"MO",
+    "sg:tags":[
+        "home",
+        "residential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85848677,
+        102080787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0l0w4bJ3hGQCoPBHhav1Kk_38.225930_-90.413460@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462589155,
+    "wof:geomhash":"13f226c927b6d7e0cb2d6382d29bd7ff",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080787,
+            "neighbourhood_id":85848677,
+            "region_id":85688661,
+            "venue_id":789612451
+        }
+    ],
+    "wof:id":789612451,
+    "wof:lastmodified":1462589155,
+    "wof:name":"Pavillion Of Festus",
+    "wof:parent_id":85848677,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "residential"
+    ]
+},
+  "bbox": [
+    -90.41346,
+    38.22593,
+    -90.41346,
+    38.22593
+],
+  "geometry": {"coordinates":[-90.41346,38.22593],"type":"Point"}
+}

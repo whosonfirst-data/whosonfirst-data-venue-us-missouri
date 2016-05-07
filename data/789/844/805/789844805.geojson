@@ -1,0 +1,71 @@
+{
+  "id": 789844805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.602145,38.791544,-90.602145,38.791544",
+    "geom:latitude":38.791544,
+    "geom:longitude":-90.602145,
+    "iso:country":"US",
+    "sg:address":"6220 Mexico Rd",
+    "sg:city":"St Peters",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 441 2522",
+    "sg:postcode":"63376",
+    "sg:province":"MO",
+    "sg:tags":[
+        "doughnut"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_695SkimhgXJwPRJzNG0dTZ_38.791544_-90.602145@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462590990,
+    "wof:geomhash":"2e122fe15549101979568bc2cb1b1f39",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":789844805
+        }
+    ],
+    "wof:id":789844805,
+    "wof:lastmodified":1462590990,
+    "wof:name":"Granny's Donut Shop",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "doughnut"
+    ]
+},
+  "bbox": [
+    -90.602145,
+    38.791544,
+    -90.602145,
+    38.791544
+],
+  "geometry": {"coordinates":[-90.60214499999999,38.791544],"type":"Point"}
+}

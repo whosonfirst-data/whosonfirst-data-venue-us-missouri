@@ -1,0 +1,78 @@
+{
+  "id": 807126139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.39555,38.283911,-90.39555,38.283911",
+    "geom:latitude":38.283911,
+    "geom:longitude":-90.39555,
+    "iso:country":"US",
+    "sg:address":"227 Main St",
+    "sg:city":"Pevely",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 479 9749",
+    "sg:postcode":"63070",
+    "sg:province":"MO",
+    "sg:tags":[
+        "tavern",
+        "grill",
+        "brew"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85848677,
+        102080787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5jEu5LBa98Cr8Q1xo6jJdw_38.283911_-90.395550@1303262926"
+    },
+    "wof:country":"US",
+    "wof:created":1462604011,
+    "wof:geomhash":"f39bbefb6b0de70adf388109266708b9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080787,
+            "neighbourhood_id":85848677,
+            "region_id":85688661,
+            "venue_id":807126139
+        }
+    ],
+    "wof:id":807126139,
+    "wof:lastmodified":1462604011,
+    "wof:name":"Main Street Pub",
+    "wof:parent_id":85848677,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tavern",
+        "grill",
+        "brew"
+    ]
+},
+  "bbox": [
+    -90.39555,
+    38.283911,
+    -90.39555,
+    38.283911
+],
+  "geometry": {"coordinates":[-90.39555,38.283911],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 807074185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.501791,37.851889,-90.501791,37.851889",
+    "geom:latitude":37.851889,
+    "geom:longitude":-90.501791,
+    "iso:country":"US",
+    "sg:address":"601 S Saint Joe Dr",
+    "sg:city":"Park Hills",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/st-francois/225660-caseys-general-store/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"63601",
+    "sg:province":"MO",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970665,
+        102085297,
+        85816309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1XbJKy0CBiWuJirsecvK3k_37.851889_-90.501791@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462603489,
+    "wof:geomhash":"b929c9a93e1b706de9b0414987baae6f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085297,
+            "locality_id":85970665,
+            "neighbourhood_id":85816309,
+            "region_id":85688661,
+            "venue_id":807074185
+        }
+    ],
+    "wof:id":807074185,
+    "wof:lastmodified":1462603489,
+    "wof:name":"Casey's General Store",
+    "wof:parent_id":85816309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -90.501791,
+    37.851889,
+    -90.501791,
+    37.851889
+],
+  "geometry": {"coordinates":[-90.501791,37.851889],"type":"Point"}
+}

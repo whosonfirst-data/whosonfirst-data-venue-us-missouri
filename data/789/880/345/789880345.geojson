@@ -1,0 +1,86 @@
+{
+  "id": 789880345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.562663,38.996407,-94.562663,38.996407",
+    "geom:latitude":38.996407,
+    "geom:longitude":-94.562663,
+    "iso:country":"US",
+    "sg:address":"2015 E 72 St",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 523 3636",
+    "sg:postcode":"64132",
+    "sg:province":"MO",
+    "sg:tags":[
+        "catering",
+        "wedding",
+        "provides",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85854229,
+        102191575,
+        404518075,
+        85633793,
+        85970739,
+        102081227,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Apr1XKsOJCiV8ugxECs92_38.996407_-94.562663@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462591293,
+    "wof:geomhash":"8063215bea91d6e99095c98b5e37f12a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081227,
+            "localadmin_id":404518075,
+            "locality_id":85970739,
+            "neighbourhood_id":85854229,
+            "region_id":85688661,
+            "venue_id":789880345
+        }
+    ],
+    "wof:id":789880345,
+    "wof:lastmodified":1462591293,
+    "wof:name":"Elite Catering Co",
+    "wof:parent_id":85854229,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "catering",
+        "wedding",
+        "provides",
+        "supply"
+    ]
+},
+  "bbox": [
+    -94.562663,
+    38.996407,
+    -94.562663,
+    38.996407
+],
+  "geometry": {"coordinates":[-94.562663,38.996407],"type":"Point"}
+}

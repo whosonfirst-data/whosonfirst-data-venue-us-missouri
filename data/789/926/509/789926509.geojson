@@ -1,0 +1,75 @@
+{
+  "id": 789926509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.20963,38.620271,-90.20963,38.620271",
+    "geom:latitude":38.620271,
+    "geom:longitude":-90.20963,
+    "iso:country":"US",
+    "sg:address":"1776 Chouteau Ave",
+    "sg:city":"St Louis",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 621 4569",
+    "sg:postcode":"63103",
+    "sg:province":"MO",
+    "sg:tags":[
+        "cafe"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873661,
+        102191575,
+        404518053,
+        85633793,
+        85971343,
+        102080791,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6fPpkagN0ySCz1gXJDg10s_38.620271_-90.209630@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462591680,
+    "wof:geomhash":"274d8e6588a09cfe517a9bc227e14498",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080791,
+            "localadmin_id":404518053,
+            "locality_id":85971343,
+            "neighbourhood_id":85873661,
+            "region_id":85688661,
+            "venue_id":789926509
+        }
+    ],
+    "wof:id":789926509,
+    "wof:lastmodified":1462591680,
+    "wof:name":"1776 Cafe Imbiss",
+    "wof:parent_id":85873661,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cafe"
+    ]
+},
+  "bbox": [
+    -90.20963,
+    38.620271,
+    -90.20963,
+    38.620271
+],
+  "geometry": {"coordinates":[-90.20963,38.620271],"type":"Point"}
+}

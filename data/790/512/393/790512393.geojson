@@ -1,0 +1,79 @@
+{
+  "id": 790512393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.576162,39.222443,-94.576162,39.222443",
+    "geom:latitude":39.222443,
+    "geom:longitude":-94.576162,
+    "iso:country":"US",
+    "sg:address":"7116 N Oak Fwy",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 468 7868",
+    "sg:postcode":"64118",
+    "sg:province":"MO",
+    "sg:tags":[
+        "transmission",
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85830711,
+        102191575,
+        404516715,
+        85633793,
+        85972467,
+        102086177,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5fb0QRhWOQl1pDwyB9SixS_39.222443_-94.576162@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462596470,
+    "wof:geomhash":"e4aaa7197536dbbcc30886e570542a8e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086177,
+            "localadmin_id":404516715,
+            "locality_id":85972467,
+            "neighbourhood_id":85830711,
+            "region_id":85688661,
+            "venue_id":790512393
+        }
+    ],
+    "wof:id":790512393,
+    "wof:lastmodified":1462596470,
+    "wof:name":"Royal Transmission Inc",
+    "wof:parent_id":85830711,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission",
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -94.576162,
+    39.222443,
+    -94.576162,
+    39.222443
+],
+  "geometry": {"coordinates":[-94.576162,39.222443],"type":"Point"}
+}

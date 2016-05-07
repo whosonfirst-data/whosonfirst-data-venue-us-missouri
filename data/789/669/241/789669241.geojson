@@ -1,0 +1,78 @@
+{
+  "id": 789669241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.496993,38.3899,-90.496993,38.3899",
+    "geom:latitude":38.3899,
+    "geom:longitude":-90.496993,
+    "iso:country":"US",
+    "sg:address":"5212 Old State Hwy 21",
+    "sg:city":"Imperial",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Scrap",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 942 4847",
+    "sg:postcode":"63052",
+    "sg:province":"MO",
+    "sg:tags":[
+        "recycling",
+        "center",
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85805175,
+        102080787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ZHWnG2VXNzfn9BIDOYZ5v_38.389900_-90.496993@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462589622,
+    "wof:geomhash":"f660837321547c1e695a275ee5ac72f8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080787,
+            "neighbourhood_id":85805175,
+            "region_id":85688661,
+            "venue_id":789669241
+        }
+    ],
+    "wof:id":789669241,
+    "wof:lastmodified":1462589622,
+    "wof:name":"21 Auto Recycling Center",
+    "wof:parent_id":85805175,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "recycling",
+        "center",
+        "system"
+    ]
+},
+  "bbox": [
+    -90.496993,
+    38.3899,
+    -90.496993,
+    38.3899
+],
+  "geometry": {"coordinates":[-90.496993,38.3899],"type":"Point"}
+}

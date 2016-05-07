@@ -1,0 +1,87 @@
+{
+  "id": 807246075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.48317,36.50264,-94.48317,36.50264",
+    "geom:latitude":36.50264,
+    "geom:longitude":-94.48317,
+    "iso:country":"US",
+    "sg:address":"20590 State Highway 59",
+    "sg:city":"Noel",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 475 3300",
+    "sg:postcode":"64854",
+    "sg:province":"MO",
+    "sg:tags":[
+        "tavern",
+        "grill",
+        "bartending",
+        "brew"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972127,
+        102085305,
+        85850627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5D1HTyNLGsEIRxlDMuRtvo_36.502640_-94.483170@1303262934"
+    },
+    "wof:country":"US",
+    "wof:created":1462605286,
+    "wof:geomhash":"8168db960f51049ef3ac36499475c5fc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085305,
+            "locality_id":85972127,
+            "neighbourhood_id":85850627,
+            "region_id":85688661,
+            "venue_id":807246075
+        }
+    ],
+    "wof:id":807246075,
+    "wof:lastmodified":1462605286,
+    "wof:name":"Creekside South Bar & Grill",
+    "wof:parent_id":85850627,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tavern",
+        "grill",
+        "bartending",
+        "brew"
+    ]
+},
+  "bbox": [
+    -94.48317,
+    36.50264,
+    -94.48317,
+    36.50264
+],
+  "geometry": {"coordinates":[-94.48317,36.50264],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 806759967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.238345,37.20132,-93.238345,37.20132",
+    "geom:latitude":37.20132,
+    "geom:longitude":-93.238345,
+    "iso:country":"US",
+    "sg:address":"2759 E Rockaway St",
+    "sg:city":"Springfield",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 866 8009",
+    "sg:postcode":"65802",
+    "sg:province":"MO",
+    "sg:tags":[
+        "repairing",
+        "piano",
+        "refinishing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971363,
+        102087523,
+        85881137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_208nEXjUvW0B4GVRecUTf2_37.201320_-93.238345@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462600848,
+    "wof:geomhash":"161a56ae8ec1fe82b4c9137d6d7374bb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087523,
+            "locality_id":85971363,
+            "neighbourhood_id":85881137,
+            "region_id":85688661,
+            "venue_id":806759967
+        }
+    ],
+    "wof:id":806759967,
+    "wof:lastmodified":1462600848,
+    "wof:name":"Barklage Piano Svc",
+    "wof:parent_id":85881137,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "piano",
+        "refinishing"
+    ]
+},
+  "bbox": [
+    -93.238345,
+    37.20132,
+    -93.238345,
+    37.20132
+],
+  "geometry": {"coordinates":[-93.238345,37.20132],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 806864451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.470574,37.028291,-93.470574,37.028291",
+    "geom:latitude":37.028291,
+    "geom:longitude":-93.470574,
+    "iso:country":"US",
+    "sg:address":"202 Clarke Ave",
+    "sg:city":"Clever",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 743 2988",
+    "sg:postcode":"65631",
+    "sg:province":"MO",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971577,
+        102087497,
+        85809751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4sDcSVglNu8c28wmkcYDLm_37.028291_-93.470574@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462601729,
+    "wof:geomhash":"4788d0efc51917aa9b8b7d670ad0ac0c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087497,
+            "locality_id":85971577,
+            "neighbourhood_id":85809751,
+            "region_id":85688661,
+            "venue_id":806864451
+        }
+    ],
+    "wof:id":806864451,
+    "wof:lastmodified":1462601729,
+    "wof:name":"Custom Color Body Shop",
+    "wof:parent_id":85809751,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -93.470574,
+    37.028291,
+    -93.470574,
+    37.028291
+],
+  "geometry": {"coordinates":[-93.470574,37.028291],"type":"Point"}
+}

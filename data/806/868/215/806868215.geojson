@@ -1,0 +1,71 @@
+{
+  "id": 806868215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.365282,39.119254,-94.365282,39.119254",
+    "geom:latitude":39.119254,
+    "geom:longitude":-94.365282,
+    "iso:country":"US",
+    "sg:address":"17700 Susquehanna Ridge",
+    "sg:city":"Independence",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 257 0093",
+    "sg:postcode":"64056",
+    "sg:province":"MO",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971449,
+        102081227,
+        85844675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5I0eENdOeg3zvCOZ2kKDF7_39.119254_-94.365282@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462601758,
+    "wof:geomhash":"e1e756cf5cc87ceb0d5cf7768aef76bb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081227,
+            "locality_id":85971449,
+            "neighbourhood_id":85844675,
+            "region_id":85688661,
+            "venue_id":806868215
+        }
+    ],
+    "wof:id":806868215,
+    "wof:lastmodified":1462601758,
+    "wof:name":"John C Snow DDS",
+    "wof:parent_id":85844675,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -94.365282,
+    39.119254,
+    -94.365282,
+    39.119254
+],
+  "geometry": {"coordinates":[-94.36528199999999,39.119254],"type":"Point"}
+}

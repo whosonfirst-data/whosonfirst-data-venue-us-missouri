@@ -1,0 +1,75 @@
+{
+  "id": 789578751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.390504,38.480272,-90.390504,38.480272",
+    "geom:latitude":38.480272,
+    "geom:longitude":-90.390504,
+    "iso:country":"US",
+    "sg:address":"13330 Tesson Ferry Rd",
+    "sg:city":"Saint Louis",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 842 6688",
+    "sg:postcode":"63128",
+    "sg:province":"MO",
+    "sg:tags":[
+        "medical",
+        "specialty",
+        "outpatient"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971021,
+        102080787,
+        85832925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6H3y6YP1RUUf2uvSUY8dts_38.480272_-90.390504@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462588894,
+    "wof:geomhash":"6e1ddb4d721511c1dbc7a4500b391d3c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080787,
+            "locality_id":85971021,
+            "neighbourhood_id":85832925,
+            "region_id":85688661,
+            "venue_id":789578751
+        }
+    ],
+    "wof:id":789578751,
+    "wof:lastmodified":1462588894,
+    "wof:name":"Barnes - Jewish Hospital",
+    "wof:parent_id":85832925,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical",
+        "specialty",
+        "outpatient"
+    ]
+},
+  "bbox": [
+    -90.390504,
+    38.480272,
+    -90.390504,
+    38.480272
+],
+  "geometry": {"coordinates":[-90.39050400000001,38.480272],"type":"Point"}
+}

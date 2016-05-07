@@ -1,0 +1,73 @@
+{
+  "id": 790556037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.29128,38.98159,-92.29128,38.98159",
+    "geom:latitude":38.98159,
+    "geom:longitude":-92.29128,
+    "iso:country":"US",
+    "sg:address":"3101 Paris Rd",
+    "sg:city":"Columbia",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 814 2747",
+    "sg:postcode":"65201",
+    "sg:province":"MO",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970425,
+        102086187,
+        85851713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_00iuToSc8B4nAFeArJEiOm_38.981590_-92.291280@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462596845,
+    "wof:geomhash":"5945a6221cbeb31ea5059af04e69f329",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086187,
+            "locality_id":85970425,
+            "neighbourhood_id":85851713,
+            "region_id":85688661,
+            "venue_id":790556037
+        }
+    ],
+    "wof:id":790556037,
+    "wof:lastmodified":1462596845,
+    "wof:name":"Squeaky Lube",
+    "wof:parent_id":85851713,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -92.29128,
+    38.98159,
+    -92.29128,
+    38.98159
+],
+  "geometry": {"coordinates":[-92.29128,38.98159],"type":"Point"}
+}

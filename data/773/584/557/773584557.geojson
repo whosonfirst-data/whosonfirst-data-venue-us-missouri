@@ -1,0 +1,71 @@
+{
+  "id": 773584557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.199486,39.341874,-91.199486,39.341874",
+    "geom:latitude":39.341874,
+    "geom:longitude":-91.199486,
+    "iso:country":"US",
+    "sg:address":"520 W Main St",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 324 2311",
+    "sg:postcode":"63334",
+    "sg:province":"MO",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971907,
+        102086151,
+        85817909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_27aomyDueOx6aDu52CsiTY_39.341874_-91.199486@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462586834,
+    "wof:geomhash":"4a9fa87bdf9b193fb882167c94e5e922",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086151,
+            "locality_id":85971907,
+            "neighbourhood_id":85817909,
+            "region_id":85688661,
+            "venue_id":773584557
+        }
+    ],
+    "wof:id":773584557,
+    "wof:lastmodified":1462586834,
+    "wof:name":"Dwight C Conlan DDS",
+    "wof:parent_id":85817909,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -91.199486,
+    39.341874,
+    -91.199486,
+    39.341874
+],
+  "geometry": {"coordinates":[-91.19948599999999,39.341874],"type":"Point"}
+}

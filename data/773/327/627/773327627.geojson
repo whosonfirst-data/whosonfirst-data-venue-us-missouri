@@ -1,0 +1,73 @@
+{
+  "id": 773327627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.688677,38.822344,-90.688677,38.822344",
+    "geom:latitude":38.822344,
+    "geom:longitude":-90.688677,
+    "iso:country":"US",
+    "sg:address":"771 Haven View Ct",
+    "sg:city":"O Fallon",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 379 8838",
+    "sg:postcode":"63366",
+    "sg:province":"MO",
+    "sg:tags":[
+        "glass",
+        "replacement"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_22QYEi9MliQB5yX6IpNyN3_38.822344_-90.688677@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462584891,
+    "wof:geomhash":"44a44f63025ba5d5c9de444ee2b6fb92",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":773327627
+        }
+    ],
+    "wof:id":773327627,
+    "wof:lastmodified":1462584891,
+    "wof:name":"Spectrum Auto Glass",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "glass",
+        "replacement"
+    ]
+},
+  "bbox": [
+    -90.688677,
+    38.822344,
+    -90.688677,
+    38.822344
+],
+  "geometry": {"coordinates":[-90.688677,38.822344],"type":"Point"}
+}

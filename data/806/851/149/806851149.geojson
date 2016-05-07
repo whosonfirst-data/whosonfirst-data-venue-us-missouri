@@ -1,0 +1,76 @@
+{
+  "id": 806851149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.354271,38.480907,-90.354271,38.480907",
+    "geom:latitude":38.480907,
+    "geom:longitude":-90.354271,
+    "iso:country":"US",
+    "sg:address":"5495 Old Lemay Ferry Rd",
+    "sg:city":"St Louis",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 892 1020",
+    "sg:postcode":"63129",
+    "sg:province":"MO",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971021,
+        102080787,
+        85832925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ftxqvXUbzgzcmmmZiBWbe_38.480907_-90.354271@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462601618,
+    "wof:geomhash":"1e695b5615d79f64dbcc5718eb625f1e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080787,
+            "locality_id":85971021,
+            "neighbourhood_id":85832925,
+            "region_id":85688661,
+            "venue_id":806851149
+        }
+    ],
+    "wof:id":806851149,
+    "wof:lastmodified":1462601618,
+    "wof:name":"South County Fire Alarm",
+    "wof:parent_id":85832925,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -90.354271,
+    38.480907,
+    -90.354271,
+    38.480907
+],
+  "geometry": {"coordinates":[-90.354271,38.480907],"type":"Point"}
+}

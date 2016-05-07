@@ -1,0 +1,82 @@
+{
+  "id": 790478403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.243745,38.592621,-90.243745,38.592621",
+    "geom:latitude":38.592621,
+    "geom:longitude":-90.243745,
+    "iso:country":"US",
+    "sg:address":"3504 S Grand Blvd",
+    "sg:city":"St Louis",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Painting Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 773 3223",
+    "sg:postcode":"63118",
+    "sg:province":"MO",
+    "sg:tags":[
+        "paint",
+        "accessory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873677,
+        102191575,
+        404518053,
+        85633793,
+        85971343,
+        102080791,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7LuPvwHmxlWDC6ZuwgZAB5_38.592621_-90.243745@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462596178,
+    "wof:geomhash":"0fdbe55986a89834dab4cd1da2427d9e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080791,
+            "localadmin_id":404518053,
+            "locality_id":85971343,
+            "neighbourhood_id":85873677,
+            "region_id":85688661,
+            "venue_id":790478403
+        }
+    ],
+    "wof:id":790478403,
+    "wof:lastmodified":1462596178,
+    "wof:name":"Paint Supply Co",
+    "wof:parent_id":85873677,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "paint",
+        "accessory"
+    ]
+},
+  "bbox": [
+    -90.243745,
+    38.592621,
+    -90.243745,
+    38.592621
+],
+  "geometry": {"coordinates":[-90.243745,38.592621],"type":"Point"}
+}

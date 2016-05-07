@@ -1,0 +1,80 @@
+{
+  "id": 790021731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.695103,39.239539,-94.695103,39.239539",
+    "geom:latitude":39.239539,
+    "geom:longitude":-94.695103,
+    "iso:country":"US",
+    "sg:address":"8002 NW Potomac Ave",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        },
+        {
+            "category":"Social Services",
+            "subcategory":"Job Training",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 468 8472",
+    "sg:postcode":"64152",
+    "sg:province":"MO",
+    "sg:tags":[
+        "rehabilitation",
+        "outpatient",
+        "specialty"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970739,
+        102085271,
+        85852241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5fRtSqS2MOExzfbpSR0MUO_39.239539_-94.695103@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462592504,
+    "wof:geomhash":"38749c4db2edf580e9cc2d72a54ff009",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085271,
+            "locality_id":85970739,
+            "neighbourhood_id":85852241,
+            "region_id":85688661,
+            "venue_id":790021731
+        }
+    ],
+    "wof:id":790021731,
+    "wof:lastmodified":1462592504,
+    "wof:name":"Therapeutic Health Services",
+    "wof:parent_id":85852241,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "rehabilitation",
+        "outpatient",
+        "specialty"
+    ]
+},
+  "bbox": [
+    -94.695103,
+    39.239539,
+    -94.695103,
+    39.239539
+],
+  "geometry": {"coordinates":[-94.695103,39.239539],"type":"Point"}
+}

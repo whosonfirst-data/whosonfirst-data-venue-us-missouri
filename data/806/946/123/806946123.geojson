@@ -1,0 +1,71 @@
+{
+  "id": 806946123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.582809,38.801355,-90.582809,38.801355",
+    "geom:latitude":38.801355,
+    "geom:longitude":-90.582809,
+    "iso:country":"US",
+    "sg:address":"110 Algana Ct",
+    "sg:city":"Saint Peters",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Natural Gas",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 926 3668",
+    "sg:postcode":"63376",
+    "sg:province":"MO",
+    "sg:tags":[
+        "transportation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6kpAn8BjG6l1nNCI72FU2J_38.801355_-90.582809@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462602407,
+    "wof:geomhash":"5d23b0d08101f16a3f460dda0982c71f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":806946123
+        }
+    ],
+    "wof:id":806946123,
+    "wof:lastmodified":1462602407,
+    "wof:name":"Missouri Pipeline Company",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transportation"
+    ]
+},
+  "bbox": [
+    -90.582809,
+    38.801355,
+    -90.582809,
+    38.801355
+],
+  "geometry": {"coordinates":[-90.582809,38.801355],"type":"Point"}
+}

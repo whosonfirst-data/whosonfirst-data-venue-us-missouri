@@ -1,0 +1,79 @@
+{
+  "id": 790462723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.273731,38.61092,-90.273731,38.61092",
+    "geom:latitude":38.61092,
+    "geom:longitude":-90.273731,
+    "iso:country":"US",
+    "sg:address":"5105 Columbia Ave",
+    "sg:city":"St Louis",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 772 5530",
+    "sg:postcode":"63139",
+    "sg:province":"MO",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "radiator"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85867039,
+        102191575,
+        404518053,
+        85633793,
+        85971343,
+        102080791,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2YSqTPutcHZm0hefTxk5Ik_38.610920_-90.273731@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462596032,
+    "wof:geomhash":"5ae86535aeed17535883441fdb5bbf30",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080791,
+            "localadmin_id":404518053,
+            "locality_id":85971343,
+            "neighbourhood_id":85867039,
+            "region_id":85688661,
+            "venue_id":790462723
+        }
+    ],
+    "wof:id":790462723,
+    "wof:lastmodified":1462596032,
+    "wof:name":"Radac Corp",
+    "wof:parent_id":85867039,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "radiator"
+    ]
+},
+  "bbox": [
+    -90.273731,
+    38.61092,
+    -90.273731,
+    38.61092
+],
+  "geometry": {"coordinates":[-90.273731,38.61092],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 773212229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.373303,37.675405,-90.373303,37.675405",
+    "geom:latitude":37.675405,
+    "geom:longitude":-90.373303,
+    "iso:country":"US",
+    "sg:address":"5809 Hwy Dd",
+    "sg:city":"Farmington",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 756 9200",
+    "sg:postcode":"63640",
+    "sg:province":"MO",
+    "sg:tags":[
+        "operator",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970665,
+        102085297,
+        85816309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1tbLae3OaiOeepdA25jYBL_37.675405_-90.373303@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462584012,
+    "wof:geomhash":"9ba2d3bc504e15013d4315501b6485a3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085297,
+            "locality_id":85970665,
+            "neighbourhood_id":85816309,
+            "region_id":85688661,
+            "venue_id":773212229
+        }
+    ],
+    "wof:id":773212229,
+    "wof:lastmodified":1462584012,
+    "wof:name":"Klug Transport",
+    "wof:parent_id":85816309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -90.373303,
+    37.675405,
+    -90.373303,
+    37.675405
+],
+  "geometry": {"coordinates":[-90.37330300000001,37.675405],"type":"Point"}
+}

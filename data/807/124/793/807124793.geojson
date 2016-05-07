@@ -1,0 +1,86 @@
+{
+  "id": 807124793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.385737,38.369773,-90.385737,38.369773",
+    "geom:latitude":38.369773,
+    "geom:longitude":-90.385737,
+    "iso:country":"US",
+    "sg:address":"1223 Main St",
+    "sg:city":"Imperial",
+    "sg:classifiers":[
+        {
+            "category":"Fast Food",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 461 0976",
+    "sg:postcode":"63052",
+    "sg:province":"MO",
+    "sg:tags":[
+        "shop",
+        "american",
+        "sandwich",
+        "take"
+    ],
+    "sg:website":"http://www.subway.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85805175,
+        102080787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4h9LPcpMacPSOAjXcbGHaZ_38.369773_-90.385737@1303262926"
+    },
+    "wof:country":"US",
+    "wof:created":1462603998,
+    "wof:geomhash":"fb27a895d99ec66563028b94ae912783",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080787,
+            "neighbourhood_id":85805175,
+            "region_id":85688661,
+            "venue_id":807124793
+        }
+    ],
+    "wof:id":807124793,
+    "wof:lastmodified":1462603998,
+    "wof:name":"Subway",
+    "wof:parent_id":85805175,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "american",
+        "sandwich",
+        "take"
+    ]
+},
+  "bbox": [
+    -90.385737,
+    38.369773,
+    -90.385737,
+    38.369773
+],
+  "geometry": {"coordinates":[-90.38573700000001,38.369773],"type":"Point"}
+}

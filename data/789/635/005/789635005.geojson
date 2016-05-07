@@ -1,0 +1,71 @@
+{
+  "id": 789635005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.595164,39.336546,-94.595164,39.336546",
+    "geom:latitude":39.336546,
+    "geom:longitude":-94.595164,
+    "iso:country":"US",
+    "sg:address":"800 NW 134th St",
+    "sg:city":"Smithville",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 532 0856",
+    "sg:postcode":"64089",
+    "sg:province":"MO",
+    "sg:tags":[
+        "merchandise"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970739,
+        102086177,
+        85836329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7G6gs4WR7P8m0Zx3ptM8XW_39.336546_-94.595164@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462589337,
+    "wof:geomhash":"74a5a8707387024d14c3fc566e566cb8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086177,
+            "locality_id":85970739,
+            "neighbourhood_id":85836329,
+            "region_id":85688661,
+            "venue_id":789635005
+        }
+    ],
+    "wof:id":789635005,
+    "wof:lastmodified":1462589337,
+    "wof:name":"Second Chance Pet Adoption",
+    "wof:parent_id":85836329,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "merchandise"
+    ]
+},
+  "bbox": [
+    -94.595164,
+    39.336546,
+    -94.595164,
+    39.336546
+],
+  "geometry": {"coordinates":[-94.595164,39.336546],"type":"Point"}
+}

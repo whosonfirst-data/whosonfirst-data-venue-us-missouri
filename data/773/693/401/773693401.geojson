@@ -1,0 +1,72 @@
+{
+  "id": 773693401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.41337,38.22246,-90.41337,38.22246",
+    "geom:latitude":38.22246,
+    "geom:longitude":-90.41337,
+    "iso:country":"US",
+    "sg:address":"1500 Midmeadow Ln",
+    "sg:city":"Festus",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 937 5720",
+    "sg:postcode":"63028",
+    "sg:province":"MO",
+    "sg:tags":[
+        "elementary",
+        "secondary"
+    ],
+    "sg:website":"www.csd.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85848677,
+        102080787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2DpTB2mJnOsjKlQbX5sPcs_38.222460_-90.413370@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462587649,
+    "wof:geomhash":"5e657560fcde11c1fb6786107299c214",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080787,
+            "neighbourhood_id":85848677,
+            "region_id":85688661,
+            "venue_id":773693401
+        }
+    ],
+    "wof:id":773693401,
+    "wof:lastmodified":1462587649,
+    "wof:name":"Festus Elementary School",
+    "wof:parent_id":85848677,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "elementary",
+        "secondary"
+    ]
+},
+  "bbox": [
+    -90.41337,
+    38.22246,
+    -90.41337,
+    38.22246
+],
+  "geometry": {"coordinates":[-90.41337,38.22246],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 790014927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.281139,38.653632,-90.281139,38.653632",
+    "geom:latitude":38.653632,
+    "geom:longitude":-90.281139,
+    "iso:country":"US",
+    "sg:address":"5535 Delmar Blvd",
+    "sg:city":"St Louis",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 879 6257",
+    "sg:postcode":"63112",
+    "sg:province":"MO",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873633,
+        102191575,
+        404518053,
+        85633793,
+        85971343,
+        102080791,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_69p3vJOi7GROhRfQ9kYODf_38.653632_-90.281139@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462592451,
+    "wof:geomhash":"d0ca8fad8b892dbeddb43cdc71adbe3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080791,
+            "localadmin_id":404518053,
+            "locality_id":85971343,
+            "neighbourhood_id":85873633,
+            "region_id":85688661,
+            "venue_id":790014927
+        }
+    ],
+    "wof:id":790014927,
+    "wof:lastmodified":1462592451,
+    "wof:name":"Pathology Dept",
+    "wof:parent_id":85873633,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -90.281139,
+    38.653632,
+    -90.281139,
+    38.653632
+],
+  "geometry": {"coordinates":[-90.281139,38.653632],"type":"Point"}
+}

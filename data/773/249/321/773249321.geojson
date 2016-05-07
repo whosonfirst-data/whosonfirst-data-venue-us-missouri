@@ -1,0 +1,73 @@
+{
+  "id": 773249321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.359884,39.374882,-94.359884,39.374882",
+    "geom:latitude":39.374882,
+    "geom:longitude":-94.359884,
+    "iso:country":"US",
+    "sg:address":"211 E Major St",
+    "sg:city":"Kearney",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 628 0282",
+    "sg:postcode":"64060",
+    "sg:province":"MO",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971507,
+        102086177,
+        85812855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_08bMaUB818x8QHkqbB8LsF_39.374882_-94.359884@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462584284,
+    "wof:geomhash":"08f35ddf52a5ea63fac7b5006df7ef8f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086177,
+            "locality_id":85971507,
+            "neighbourhood_id":85812855,
+            "region_id":85688661,
+            "venue_id":773249321
+        }
+    ],
+    "wof:id":773249321,
+    "wof:lastmodified":1462584284,
+    "wof:name":"Kearney Senior Housing",
+    "wof:parent_id":85812855,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -94.359884,
+    39.374882,
+    -94.359884,
+    39.374882
+],
+  "geometry": {"coordinates":[-94.35988399999999,39.374882],"type":"Point"}
+}

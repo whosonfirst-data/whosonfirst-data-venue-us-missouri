@@ -1,0 +1,78 @@
+{
+  "id": 773310877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.480921,38.792548,-90.480921,38.792548",
+    "geom:latitude":38.792548,
+    "geom:longitude":-90.480921,
+    "iso:country":"US",
+    "sg:address":"1222 N 5th St",
+    "sg:city":"St Charles",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 940 7660",
+    "sg:postcode":"63301",
+    "sg:province":"MO",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3jz4B9PuY6Uo4GeRxyNHBP_38.792548_-90.480921@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462584770,
+    "wof:geomhash":"592e9c6b52066c359dbfa6a1447bde1a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":773310877
+        }
+    ],
+    "wof:id":773310877,
+    "wof:lastmodified":1462584770,
+    "wof:name":"Montgomery Plumbing & Electric",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -90.480921,
+    38.792548,
+    -90.480921,
+    38.792548
+],
+  "geometry": {"coordinates":[-90.480921,38.792548],"type":"Point"}
+}

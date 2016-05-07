@@ -1,0 +1,73 @@
+{
+  "id": 773290081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.736787,38.790307,-90.736787,38.790307",
+    "geom:latitude":38.790307,
+    "geom:longitude":-90.736787,
+    "iso:country":"US",
+    "sg:address":"1197 Bryan Rd",
+    "sg:city":"O Fallon",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 978 7266",
+    "sg:postcode":"63366",
+    "sg:province":"MO",
+    "sg:tags":[
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1da6HrzG0pi7cV23elA2Jq_38.790307_-90.736787@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462584600,
+    "wof:geomhash":"cfd4bb6104f771c22c0708fa54af7ffd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":773290081
+        }
+    ],
+    "wof:id":773290081,
+    "wof:lastmodified":1462584600,
+    "wof:name":"Bryan Road Mobil",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -90.736787,
+    38.790307,
+    -90.736787,
+    38.790307
+],
+  "geometry": {"coordinates":[-90.73678700000001,38.790307],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 790040443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.774546,37.946906,-91.774546,37.946906",
+    "geom:latitude":37.946906,
+    "geom:longitude":-91.774546,
+    "iso:country":"US",
+    "sg:address":"407 W 4th St",
+    "sg:city":"Rolla",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 364 7545",
+    "sg:postcode":"65401",
+    "sg:province":"MO",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970821,
+        102086893,
+        85814531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ACxLjtuMWwZ9TUjrcEMZI_37.946906_-91.774546@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462592647,
+    "wof:geomhash":"b5be0e73d16350324f3fcd41bb8e590c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086893,
+            "locality_id":85970821,
+            "neighbourhood_id":85814531,
+            "region_id":85688661,
+            "venue_id":790040443
+        }
+    ],
+    "wof:id":790040443,
+    "wof:lastmodified":1462592647,
+    "wof:name":"Mid-Missouri Internal Medicine",
+    "wof:parent_id":85814531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -91.774546,
+    37.946906,
+    -91.774546,
+    37.946906
+],
+  "geometry": {"coordinates":[-91.774546,37.946906],"type":"Point"}
+}

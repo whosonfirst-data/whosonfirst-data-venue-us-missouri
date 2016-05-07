@@ -1,0 +1,79 @@
+{
+  "id": 790131719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.698711,38.801552,-90.698711,38.801552",
+    "geom:latitude":38.801552,
+    "geom:longitude":-90.698711,
+    "iso:country":"US",
+    "sg:address":"205 McDonald Ln",
+    "sg:city":"O Fallon",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        },
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 281 3989",
+    "sg:postcode":"63366",
+    "sg:province":"MO",
+    "sg:tags":[
+        "automotive",
+        "tire"
+    ],
+    "sg:website":"www.autotire.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2z2YpIaKAWwkZ5vt9Mt7um_38.801552_-90.698711@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462593372,
+    "wof:geomhash":"a8c59d03619d8e86ee0df6afbd7e3fd7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":790131719
+        }
+    ],
+    "wof:id":790131719,
+    "wof:lastmodified":1462593372,
+    "wof:name":"Autotire Car Care Center",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive",
+        "tire"
+    ]
+},
+  "bbox": [
+    -90.698711,
+    38.801552,
+    -90.698711,
+    38.801552
+],
+  "geometry": {"coordinates":[-90.698711,38.801552],"type":"Point"}
+}

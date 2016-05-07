@@ -1,0 +1,75 @@
+{
+  "id": 789793483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.601523,37.084407,-94.601523,37.084407",
+    "geom:latitude":37.084407,
+    "geom:longitude":-94.601523,
+    "iso:country":"US",
+    "sg:address":"6687 W Buttercup Ln",
+    "sg:city":"Joplin",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 659 8272",
+    "sg:postcode":"64804",
+    "sg:province":"MO",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945139,
+        102082169,
+        85818073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5no08pGsvIJZK48PHtuAVX_37.084407_-94.601523@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462590590,
+    "wof:geomhash":"2ea4bfb36ffe47ae6de92734c3c73f2b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082169,
+            "locality_id":85945139,
+            "neighbourhood_id":85818073,
+            "region_id":85688555,
+            "venue_id":789793483
+        }
+    ],
+    "wof:id":789793483,
+    "wof:lastmodified":1462590590,
+    "wof:name":"Kenny Yeoman",
+    "wof:parent_id":85818073,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -94.601523,
+    37.084407,
+    -94.601523,
+    37.084407
+],
+  "geometry": {"coordinates":[-94.601523,37.084407],"type":"Point"}
+}

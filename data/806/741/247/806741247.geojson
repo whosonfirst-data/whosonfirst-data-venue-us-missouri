@@ -1,0 +1,86 @@
+{
+  "id": 806741247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.264155,38.706182,-90.264155,38.706182",
+    "geom:latitude":38.706182,
+    "geom:longitude":-90.264155,
+    "iso:country":"US",
+    "sg:address":"5330 Hamilton Ave",
+    "sg:city":"Saint Louis",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 385 2007",
+    "sg:postcode":"63136",
+    "sg:province":"MO",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420525437,
+        102191575,
+        404515929,
+        85633793,
+        85972271,
+        102086173,
+        85688661,
+        420525467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6rvrGD9ZVmXMotRqQjBYtI_38.706182_-90.264155@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462600689,
+    "wof:geomhash":"bfd7073e45cc6fc0ba472cd57c06f84e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086173,
+            "localadmin_id":404515929,
+            "locality_id":85972271,
+            "neighbourhood_id":420525437,
+            "region_id":85688661,
+            "venue_id":806741247
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086173,
+            "localadmin_id":404515929,
+            "locality_id":85972271,
+            "neighbourhood_id":420525467,
+            "region_id":85688661,
+            "venue_id":806741247
+        }
+    ],
+    "wof:id":806741247,
+    "wof:lastmodified":1462600689,
+    "wof:name":"R T Towing & Auto Care",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -90.264155,
+    38.706182,
+    -90.264155,
+    38.706182
+],
+  "geometry": {"coordinates":[-90.264155,38.706182],"type":"Point"}
+}

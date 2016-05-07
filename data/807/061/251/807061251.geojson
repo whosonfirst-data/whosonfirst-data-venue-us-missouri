@@ -1,0 +1,80 @@
+{
+  "id": 807061251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.34192,38.793987,-90.34192,38.793987",
+    "geom:latitude":38.793987,
+    "geom:longitude":-90.34192,
+    "iso:country":"US",
+    "sg:address":"8442 N Lindbergh Blvd",
+    "sg:city":"Florissant",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/lewis-and-clark/35864-dominos-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 838 5757",
+    "sg:postcode":"63031",
+    "sg:province":"MO",
+    "sg:tags":[
+        "american",
+        "wing",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85813019,
+        102191575,
+        404517467,
+        85633793,
+        85972639,
+        102086173,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Wac7OxfBsUCz9CRyrQqx1_38.793987_-90.341920@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462603380,
+    "wof:geomhash":"40b36849956f92219e77c15df6b9cc2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086173,
+            "localadmin_id":404517467,
+            "locality_id":85972639,
+            "neighbourhood_id":85813019,
+            "region_id":85688661,
+            "venue_id":807061251
+        }
+    ],
+    "wof:id":807061251,
+    "wof:lastmodified":1462603380,
+    "wof:name":"Domino's Pizza",
+    "wof:parent_id":85813019,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "wing",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -90.34192,
+    38.793987,
+    -90.34192,
+    38.793987
+],
+  "geometry": {"coordinates":[-90.34192,38.793987],"type":"Point"}
+}

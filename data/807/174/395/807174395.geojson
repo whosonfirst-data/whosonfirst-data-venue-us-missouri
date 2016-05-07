@@ -1,0 +1,70 @@
+{
+  "id": 807174395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.2915,38.607382,-90.2915,38.607382",
+    "geom:latitude":38.607382,
+    "geom:longitude":-90.2915,
+    "iso:country":"US",
+    "sg:address":"6041 Arsenal St",
+    "sg:city":"Saint Louis",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 645 7373",
+    "sg:postcode":"63139",
+    "sg:province":"MO",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85811407,
+        102191575,
+        404518053,
+        85633793,
+        85971343,
+        102080791,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_551Td2XJupWBSpC8rIKw3k_38.607382_-90.291500@1303262930"
+    },
+    "wof:country":"US",
+    "wof:created":1462604530,
+    "wof:geomhash":"617d7a97fd096193346dcfd694f9653e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080791,
+            "localadmin_id":404518053,
+            "locality_id":85971343,
+            "neighbourhood_id":85811407,
+            "region_id":85688661,
+            "venue_id":807174395
+        }
+    ],
+    "wof:id":807174395,
+    "wof:lastmodified":1462604530,
+    "wof:name":"Stan's Auto Service",
+    "wof:parent_id":85811407,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.2915,
+    38.607382,
+    -90.2915,
+    38.607382
+],
+  "geometry": {"coordinates":[-90.2915,38.607382],"type":"Point"}
+}

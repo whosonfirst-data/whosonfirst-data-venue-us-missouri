@@ -1,0 +1,79 @@
+{
+  "id": 806747293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.550636,38.65391,-90.550636,38.65391",
+    "geom:latitude":38.65391,
+    "geom:longitude":-90.550636,
+    "iso:country":"US",
+    "sg:address":"15324 Cambridge Cove Way",
+    "sg:city":"Chesterfield",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 519 9902",
+    "sg:postcode":"63017",
+    "sg:province":"MO",
+    "sg:tags":[
+        "automotive",
+        "tire",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85805465,
+        102191575,
+        404517241,
+        85633793,
+        85972357,
+        102086173,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_490raqnq3kby1XttNzml2c_38.653910_-90.550636@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462600740,
+    "wof:geomhash":"1d5c57961b295f94778438487fa0c71c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086173,
+            "localadmin_id":404517241,
+            "locality_id":85972357,
+            "neighbourhood_id":85805465,
+            "region_id":85688661,
+            "venue_id":806747293
+        }
+    ],
+    "wof:id":806747293,
+    "wof:lastmodified":1462600740,
+    "wof:name":"Firestone",
+    "wof:parent_id":85805465,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive",
+        "tire",
+        "general"
+    ]
+},
+  "bbox": [
+    -90.550636,
+    38.65391,
+    -90.550636,
+    38.65391
+],
+  "geometry": {"coordinates":[-90.550636,38.65391],"type":"Point"}
+}

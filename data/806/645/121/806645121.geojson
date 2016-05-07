@@ -1,0 +1,75 @@
+{
+  "id": 806645121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.620228,38.789578,-90.620228,38.789578",
+    "geom:latitude":38.789578,
+    "geom:longitude":-90.620228,
+    "iso:country":"US",
+    "sg:address":"28 Oxbow Rd",
+    "sg:city":"Saint Peters",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 397 6080",
+    "sg:postcode":"63376",
+    "sg:province":"MO",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_12VlPZ56Kx8nr9XT5gvi67_38.789578_-90.620228@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462599860,
+    "wof:geomhash":"c4bec1f11aac0e2ae414edb3884d1b09",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":806645121
+        }
+    ],
+    "wof:id":806645121,
+    "wof:lastmodified":1462599860,
+    "wof:name":"R&J Walker Trucking Inc",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -90.620228,
+    38.789578,
+    -90.620228,
+    38.789578
+],
+  "geometry": {"coordinates":[-90.620228,38.789578],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 789669131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.624954,38.79097,-90.624954,38.79097",
+    "geom:latitude":38.79097,
+    "geom:longitude":-90.624954,
+    "iso:country":"US",
+    "sg:address":"340 Mid Rivers Mall Dr",
+    "sg:city":"St Peters",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 970 7902",
+    "sg:postcode":"63376",
+    "sg:province":"MO",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_791hmzHppDFCQMhOHxRpKI_38.790970_-90.624954@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462589621,
+    "wof:geomhash":"09472fef820e592949c6e85c10f3bbda",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":789669131
+        }
+    ],
+    "wof:id":789669131,
+    "wof:lastmodified":1462589621,
+    "wof:name":"Allen P Smith DDS",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -90.624954,
+    38.79097,
+    -90.624954,
+    38.79097
+],
+  "geometry": {"coordinates":[-90.624954,38.79097],"type":"Point"}
+}

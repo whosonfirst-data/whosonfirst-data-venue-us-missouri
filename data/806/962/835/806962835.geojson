@@ -1,0 +1,80 @@
+{
+  "id": 806962835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.679538,39.290584,-94.679538,39.290584",
+    "geom:latitude":39.290584,
+    "geom:longitude":-94.679538,
+    "iso:country":"US",
+    "sg:address":"10737 NW Ambassador Dr",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 891 9093",
+    "sg:postcode":"64153",
+    "sg:province":"MO",
+    "sg:tags":[
+        "control",
+        "equipment",
+        "industrial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970739,
+        102085271,
+        85851839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_53Gg21itR4b4vyc7DxMrAb_39.290584_-94.679538@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462602547,
+    "wof:geomhash":"4d3883998edc58835274703ce9f4af12",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085271,
+            "locality_id":85970739,
+            "neighbourhood_id":85851839,
+            "region_id":85688661,
+            "venue_id":806962835
+        }
+    ],
+    "wof:id":806962835,
+    "wof:lastmodified":1462602547,
+    "wof:name":"Propulsion Controls Co LLC",
+    "wof:parent_id":85851839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "control",
+        "equipment",
+        "industrial"
+    ]
+},
+  "bbox": [
+    -94.679538,
+    39.290584,
+    -94.679538,
+    39.290584
+],
+  "geometry": {"coordinates":[-94.67953799999999,39.290584],"type":"Point"}
+}

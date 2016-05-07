@@ -1,0 +1,72 @@
+{
+  "id": 807093987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.348665,37.212983,-93.348665,37.212983",
+    "geom:latitude":37.212983,
+    "geom:longitude":-93.348665,
+    "iso:country":"US",
+    "sg:address":"436 N West Byp",
+    "sg:city":"Springfield",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/springfield/59856-waffle-house/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 832 9420",
+    "sg:postcode":"65802",
+    "sg:province":"MO",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971363,
+        102087523,
+        85836941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0uJ2xj02OwpnsY7qvVtP74_37.212983_-93.348665@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462603654,
+    "wof:geomhash":"2a0097cf523704fe1f2080d9455fe1fe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087523,
+            "locality_id":85971363,
+            "neighbourhood_id":85836941,
+            "region_id":85688661,
+            "venue_id":807093987
+        }
+    ],
+    "wof:id":807093987,
+    "wof:lastmodified":1462603654,
+    "wof:name":"Waffle House",
+    "wof:parent_id":85836941,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -93.348665,
+    37.212983,
+    -93.348665,
+    37.212983
+],
+  "geometry": {"coordinates":[-93.348665,37.212983],"type":"Point"}
+}

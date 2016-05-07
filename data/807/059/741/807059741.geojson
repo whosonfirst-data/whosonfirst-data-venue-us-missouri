@@ -1,0 +1,78 @@
+{
+  "id": 807059741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.539203,38.615666,-90.539203,38.615666",
+    "geom:latitude":38.615666,
+    "geom:longitude":-90.539203,
+    "iso:country":"US",
+    "sg:address":"14870 Clayton Rd",
+    "sg:city":"Chesterfield",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/lafayette/57819-marios-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 391 6115",
+    "sg:postcode":"63017",
+    "sg:province":"MO",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85831197,
+        102191575,
+        404517315,
+        85633793,
+        85972301,
+        102086173,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7D0ZapUZQEJUn730HcgSAD_38.615666_-90.539203@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462603369,
+    "wof:geomhash":"06306a810725aa77951c72f99af241b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086173,
+            "localadmin_id":404517315,
+            "locality_id":85972301,
+            "neighbourhood_id":85831197,
+            "region_id":85688661,
+            "venue_id":807059741
+        }
+    ],
+    "wof:id":807059741,
+    "wof:lastmodified":1462603369,
+    "wof:name":"Mario's Pizza",
+    "wof:parent_id":85831197,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -90.539203,
+    38.615666,
+    -90.539203,
+    38.615666
+],
+  "geometry": {"coordinates":[-90.539203,38.615666],"type":"Point"}
+}

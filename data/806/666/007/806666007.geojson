@@ -1,0 +1,73 @@
+{
+  "id": 806666007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.899368,39.420065,-94.899368,39.420065",
+    "geom:latitude":39.420065,
+    "geom:longitude":-94.899368,
+    "iso:country":"US",
+    "sg:address":"1145 Lindemeyer Ln",
+    "sg:city":"Weston",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 386 2560",
+    "sg:postcode":"64098",
+    "sg:province":"MO",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970739,
+        102085271,
+        85823759
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0PinEbK4uvUnolURC4OkQO_39.420065_-94.899368@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462600047,
+    "wof:geomhash":"481c60a794a7e4a75ac14742b135e767",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085271,
+            "locality_id":85970739,
+            "neighbourhood_id":85823759,
+            "region_id":85688661,
+            "venue_id":806666007
+        }
+    ],
+    "wof:id":806666007,
+    "wof:lastmodified":1462600047,
+    "wof:name":"Weston Senior Citizen Housing",
+    "wof:parent_id":85823759,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -94.899368,
+    39.420065,
+    -94.899368,
+    39.420065
+],
+  "geometry": {"coordinates":[-94.899368,39.420065],"type":"Point"}
+}

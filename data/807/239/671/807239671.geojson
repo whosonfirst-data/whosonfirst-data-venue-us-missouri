@@ -1,0 +1,81 @@
+{
+  "id": 807239671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.500641,37.076783,-94.500641,37.076783",
+    "geom:latitude":37.076783,
+    "geom:longitude":-94.500641,
+    "iso:country":"US",
+    "sg:address":"1314 S Michigan Ave",
+    "sg:city":"Joplin",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 626 8600",
+    "sg:postcode":"64801",
+    "sg:province":"MO",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420525385,
+        102191575,
+        404518215,
+        85633793,
+        85970893,
+        102087525,
+        85688661,
+        85885363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2VSrv8eqOfyZOfxOVVGCEp_37.076783_-94.500641@1303262934"
+    },
+    "wof:country":"US",
+    "wof:created":1462605206,
+    "wof:geomhash":"90934dc2babb04648619e2b902d2cbdb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087525,
+            "localadmin_id":404518215,
+            "locality_id":85970893,
+            "neighbourhood_id":420525385,
+            "region_id":85688661,
+            "venue_id":807239671
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087525,
+            "localadmin_id":404518215,
+            "locality_id":85970893,
+            "neighbourhood_id":85885363,
+            "region_id":85688661,
+            "venue_id":807239671
+        }
+    ],
+    "wof:id":807239671,
+    "wof:lastmodified":1462605206,
+    "wof:name":"The Groove",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -94.500641,
+    37.076783,
+    -94.500641,
+    37.076783
+],
+  "geometry": {"coordinates":[-94.500641,37.076783],"type":"Point"}
+}

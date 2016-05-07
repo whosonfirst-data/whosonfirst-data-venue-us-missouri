@@ -1,0 +1,71 @@
+{
+  "id": 790241513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.698454,38.809634,-90.698454,38.809634",
+    "geom:latitude":38.809634,
+    "geom:longitude":-90.698454,
+    "iso:country":"US",
+    "sg:address":"112 E Elm St",
+    "sg:city":"O Fallon",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 240 5081",
+    "sg:postcode":"63366",
+    "sg:province":"MO",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_26LMdUh5XRvKGzkKa7mnFS_38.809634_-90.698454@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462594258,
+    "wof:geomhash":"e5e31c23032bc1154c7c20d6c408c9ad",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":790241513
+        }
+    ],
+    "wof:id":790241513,
+    "wof:lastmodified":1462594258,
+    "wof:name":"Pro-Auto Repair",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -90.698454,
+    38.809634,
+    -90.698454,
+    38.809634
+],
+  "geometry": {"coordinates":[-90.698454,38.809634],"type":"Point"}
+}

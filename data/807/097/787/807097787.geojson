@@ -1,0 +1,78 @@
+{
+  "id": 807097787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.305514,38.469707,-90.305514,38.469707",
+    "geom:latitude":38.469707,
+    "geom:longitude":-90.305514,
+    "iso:country":"US",
+    "sg:address":"5601 Telegraph Rd",
+    "sg:city":"Saint Louis",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/oakville/190911-burger-king/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 614 894 6987",
+    "sg:postcode":"63129",
+    "sg:province":"MO",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85885365,
+        102191575,
+        404517459,
+        85633793,
+        85972631,
+        102086173,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3H6HuANm7AcSW2EBzmR63v_38.469287_-90.305275@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462603695,
+    "wof:geomhash":"8bf0d5d0fb2f982e6c6ede74e7b63fa8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086173,
+            "localadmin_id":404517459,
+            "locality_id":85972631,
+            "neighbourhood_id":85885365,
+            "region_id":85688661,
+            "venue_id":807097787
+        }
+    ],
+    "wof:id":807097787,
+    "wof:lastmodified":1462603695,
+    "wof:name":"Burger King",
+    "wof:parent_id":85885365,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -90.305514,
+    38.469707,
+    -90.305514,
+    38.469707
+],
+  "geometry": {"coordinates":[-90.305514,38.469707],"type":"Point"}
+}

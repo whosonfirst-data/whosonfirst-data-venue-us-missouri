@@ -1,0 +1,75 @@
+{
+  "id": 806508863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.67617,38.80522,-90.67617,38.80522",
+    "geom:latitude":38.80522,
+    "geom:longitude":-90.67617,
+    "iso:country":"US",
+    "sg:address":"1 Team Dr",
+    "sg:city":"O Fallon",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 978 9507",
+    "sg:postcode":"63366",
+    "sg:province":"MO",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0TO3pdCUeyvPjHttCAZKKy_38.805220_-90.676170@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462598702,
+    "wof:geomhash":"44a5fb10b240c08ee4d5f59d2c5da7e0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":806508863
+        }
+    ],
+    "wof:id":806508863,
+    "wof:lastmodified":1462598702,
+    "wof:name":"Schaefer Auto Body Ctr",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -90.67617,
+    38.80522,
+    -90.67617,
+    38.80522
+],
+  "geometry": {"coordinates":[-90.67617,38.80522],"type":"Point"}
+}

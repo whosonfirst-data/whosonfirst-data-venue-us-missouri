@@ -1,0 +1,73 @@
+{
+  "id": 806814287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.160967,38.570616,-92.160967,38.570616",
+    "geom:latitude":38.570616,
+    "geom:longitude":-92.160967,
+    "iso:country":"US",
+    "sg:address":"901 E Capitol Ave",
+    "sg:city":"Jefferson City",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 761 5426",
+    "sg:postcode":"65101",
+    "sg:province":"MO",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970647,
+        102087511,
+        85837745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7gs46EELLrlgYVCEP7P6Io_38.570616_-92.160967@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462601298,
+    "wof:geomhash":"689e40474a6f5a4f7d43fbe2ee38ddc8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087511,
+            "locality_id":85970647,
+            "neighbourhood_id":85837745,
+            "region_id":85688661,
+            "venue_id":806814287
+        }
+    ],
+    "wof:id":806814287,
+    "wof:lastmodified":1462601298,
+    "wof:name":"J R S Apartments",
+    "wof:parent_id":85837745,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -92.160967,
+    38.570616,
+    -92.160967,
+    38.570616
+],
+  "geometry": {"coordinates":[-92.160967,38.570616],"type":"Point"}
+}

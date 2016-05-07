@@ -1,0 +1,71 @@
+{
+  "id": 789844853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.311585,38.694541,-92.311585,38.694541",
+    "geom:latitude":38.694541,
+    "geom:longitude":-92.311585,
+    "iso:country":"US",
+    "sg:address":"100 S 1st St",
+    "sg:city":"Hartsburg",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 657 0651",
+    "sg:postcode":"65039",
+    "sg:province":"MO",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970417,
+        102086187,
+        85811227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ZshOaxqPR65YPockFuDXL_38.694541_-92.311585@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462590991,
+    "wof:geomhash":"00089ae288fd9c932065bcddf091c3b7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086187,
+            "locality_id":85970417,
+            "neighbourhood_id":85811227,
+            "region_id":85688661,
+            "venue_id":789844853
+        }
+    ],
+    "wof:id":789844853,
+    "wof:lastmodified":1462590991,
+    "wof:name":"Begemann Construction",
+    "wof:parent_id":85811227,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -92.311585,
+    38.694541,
+    -92.311585,
+    38.694541
+],
+  "geometry": {"coordinates":[-92.31158499999999,38.694541],"type":"Point"}
+}

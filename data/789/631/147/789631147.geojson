@@ -1,0 +1,73 @@
+{
+  "id": 789631147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.50878,38.80956,-90.50878,38.80956",
+    "geom:latitude":38.80956,
+    "geom:longitude":-90.50878,
+    "iso:country":"US",
+    "sg:address":"20 Lee Dr",
+    "sg:city":"O Fallon",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 980 1948",
+    "sg:postcode":"63301",
+    "sg:province":"MO",
+    "sg:tags":[
+        "concrete",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_18JCrGft5dfLwK43xZMb9y_38.809560_-90.508780@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462589304,
+    "wof:geomhash":"1154d47af379ecf1a66dde616c9982df",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":789631147
+        }
+    ],
+    "wof:id":789631147,
+    "wof:lastmodified":1462589304,
+    "wof:name":"Orf Concrete",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -90.50878,
+    38.80956,
+    -90.50878,
+    38.80956
+],
+  "geometry": {"coordinates":[-90.50878,38.80956],"type":"Point"}
+}

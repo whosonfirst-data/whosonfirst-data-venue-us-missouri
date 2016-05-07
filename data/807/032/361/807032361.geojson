@@ -1,0 +1,77 @@
+{
+  "id": 807032361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.289497,38.611599,-90.289497,38.611599",
+    "geom:latitude":38.611599,
+    "geom:longitude":-90.289497,
+    "iso:country":"US",
+    "sg:address":"6024 Magnolia Ave",
+    "sg:city":"Saint Louis",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 647 1518",
+    "sg:postcode":"63139",
+    "sg:province":"MO",
+    "sg:tags":[
+        "towing",
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85811407,
+        102191575,
+        404518053,
+        85633793,
+        85971343,
+        102080791,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4oPdgHjlhTnZ3qUmRhEFIp_38.611446_-90.290004@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1462603142,
+    "wof:geomhash":"c2ecc02ed28c8c503b0478f1da118041",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080791,
+            "localadmin_id":404518053,
+            "locality_id":85971343,
+            "neighbourhood_id":85811407,
+            "region_id":85688661,
+            "venue_id":807032361
+        }
+    ],
+    "wof:id":807032361,
+    "wof:lastmodified":1462603142,
+    "wof:name":"Affordable Towing & Storage",
+    "wof:parent_id":85811407,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "towing",
+        "wrecker"
+    ]
+},
+  "bbox": [
+    -90.289497,
+    38.611599,
+    -90.289497,
+    38.611599
+],
+  "geometry": {"coordinates":[-90.289497,38.611599],"type":"Point"}
+}

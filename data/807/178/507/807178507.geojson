@@ -1,0 +1,87 @@
+{
+  "id": 807178507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.229599,38.7173,-90.229599,38.7173",
+    "geom:latitude":38.7173,
+    "geom:longitude":-90.229599,
+    "iso:country":"US",
+    "sg:address":"8501 N Broadway",
+    "sg:city":"Saint Louis",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        },
+        {
+            "category":"Education",
+            "subcategory":"Preschool",
+            "type":"Public Place"
+        },
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 388 3200",
+    "sg:postcode":"63147",
+    "sg:province":"MO",
+    "sg:tags":[
+        "elementary",
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85804181,
+        102191575,
+        404518053,
+        85633793,
+        85971343,
+        102080791,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6zWBuIOZ4Mp0hjunIh2DH4_38.717300_-90.229599@1303262930"
+    },
+    "wof:country":"US",
+    "wof:created":1462604570,
+    "wof:geomhash":"40a26be3305840654e0ac8e1e38408f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080791,
+            "localadmin_id":404518053,
+            "locality_id":85971343,
+            "neighbourhood_id":85804181,
+            "region_id":85688661,
+            "venue_id":807178507
+        }
+    ],
+    "wof:id":807178507,
+    "wof:lastmodified":1462604570,
+    "wof:name":"Veasley's Tender Loving Care Child Development Ctr",
+    "wof:parent_id":85804181,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "elementary",
+        "day"
+    ]
+},
+  "bbox": [
+    -90.229599,
+    38.7173,
+    -90.229599,
+    38.7173
+],
+  "geometry": {"coordinates":[-90.22959899999999,38.7173],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 806751041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.410752,37.769104,-90.410752,37.769104",
+    "geom:latitude":37.769104,
+    "geom:longitude":-90.410752,
+    "iso:country":"US",
+    "sg:address":"200 Hawthorn Dr",
+    "sg:city":"Farmington",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 756 6844",
+    "sg:postcode":"63640",
+    "sg:province":"MO",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970665,
+        102085297,
+        85816309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_59Of971XNRz8tI3whNGGrg_37.769104_-90.410752@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462600771,
+    "wof:geomhash":"d28eaf4c958a34519337d721ac4d2bf6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085297,
+            "locality_id":85970665,
+            "neighbourhood_id":85816309,
+            "region_id":85688661,
+            "venue_id":806751041
+        }
+    ],
+    "wof:id":806751041,
+    "wof:lastmodified":1462600771,
+    "wof:name":"Adolph Herath MD",
+    "wof:parent_id":85816309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -90.410752,
+    37.769104,
+    -90.410752,
+    37.769104
+],
+  "geometry": {"coordinates":[-90.410752,37.769104],"type":"Point"}
+}

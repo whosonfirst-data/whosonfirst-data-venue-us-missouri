@@ -1,0 +1,86 @@
+{
+  "id": 789792767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.56758,37.174818,-94.56758,37.174818",
+    "geom:latitude":37.174818,
+    "geom:longitude":-94.56758,
+    "iso:country":"US",
+    "sg:address":"311 S Roney St",
+    "sg:city":"Carl Junction",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 649 6046",
+    "sg:postcode":"64834",
+    "sg:province":"MO",
+    "sg:tags":[
+        "contractor",
+        "water",
+        "sewer",
+        "plumbing",
+        "line",
+        "utility"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970893,
+        102087525,
+        85810925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3yE46Hj76S4JyyHlE0bHP8_37.174818_-94.567580@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462590585,
+    "wof:geomhash":"d9588f85a72a6b2fe45d1d682eb5c392",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087525,
+            "locality_id":85970893,
+            "neighbourhood_id":85810925,
+            "region_id":85688661,
+            "venue_id":789792767
+        }
+    ],
+    "wof:id":789792767,
+    "wof:lastmodified":1462590585,
+    "wof:name":"Goins Enterprises Inc",
+    "wof:parent_id":85810925,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor",
+        "water",
+        "sewer",
+        "plumbing",
+        "line",
+        "utility"
+    ]
+},
+  "bbox": [
+    -94.56758,
+    37.174818,
+    -94.56758,
+    37.174818
+],
+  "geometry": {"coordinates":[-94.56758000000001,37.174818],"type":"Point"}
+}

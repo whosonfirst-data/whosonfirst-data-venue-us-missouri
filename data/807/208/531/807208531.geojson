@@ -1,0 +1,86 @@
+{
+  "id": 807208531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.524397,38.907803,-94.524397,38.907803",
+    "geom:latitude":38.907803,
+    "geom:longitude":-94.524397,
+    "iso:country":"US",
+    "sg:address":"11902 Blue Ridge Ext",
+    "sg:city":"Grandview",
+    "sg:classifiers":[
+        {
+            "category":"Deli",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 767 8100",
+    "sg:postcode":"64030",
+    "sg:province":"MO",
+    "sg:tags":[
+        "delicatessen",
+        "ale",
+        "beer",
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85824757,
+        102191575,
+        404518085,
+        85633793,
+        85971459,
+        102081227,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1lZInK64Nl4rxL03Dq8hal_38.907803_-94.524397@1303262932"
+    },
+    "wof:country":"US",
+    "wof:created":1462604882,
+    "wof:geomhash":"a188cf90f2652ca0e4926496ba286cc4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081227,
+            "localadmin_id":404518085,
+            "locality_id":85971459,
+            "neighbourhood_id":85824757,
+            "region_id":85688661,
+            "venue_id":807208531
+        }
+    ],
+    "wof:id":807208531,
+    "wof:lastmodified":1462604882,
+    "wof:name":"Bi-Rite Liquors",
+    "wof:parent_id":85824757,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "delicatessen",
+        "ale",
+        "beer",
+        "store"
+    ]
+},
+  "bbox": [
+    -94.524397,
+    38.907803,
+    -94.524397,
+    38.907803
+],
+  "geometry": {"coordinates":[-94.52439699999999,38.907803],"type":"Point"}
+}

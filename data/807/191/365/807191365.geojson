@@ -1,0 +1,86 @@
+{
+  "id": 807191365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.492782,37.864441,-90.492782,37.864441",
+    "geom:latitude":37.864441,
+    "geom:longitude":-90.492782,
+    "iso:country":"US",
+    "sg:address":"2800 Anchor Dr",
+    "sg:city":"Farmington",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 431 7197",
+    "sg:postcode":"63640",
+    "sg:province":"MO",
+    "sg:tags":[
+        "inspection",
+        "maintenance",
+        "cleaners-interior"
+    ],
+    "sg:website":"http://www.heartlandinspect.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970665,
+        102085297,
+        85816309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3hGEue0SoTi1g4NNUuuaDs_37.864441_-90.492782@1303262931"
+    },
+    "wof:country":"US",
+    "wof:created":1462604703,
+    "wof:geomhash":"a857e5364e0a58ad02024fde41cea2b9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085297,
+            "locality_id":85970665,
+            "neighbourhood_id":85816309,
+            "region_id":85688661,
+            "venue_id":807191365
+        }
+    ],
+    "wof:id":807191365,
+    "wof:lastmodified":1462604703,
+    "wof:name":"Heartland Building Inspections",
+    "wof:parent_id":85816309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "inspection",
+        "maintenance",
+        "cleaners-interior"
+    ]
+},
+  "bbox": [
+    -90.492782,
+    37.864441,
+    -90.492782,
+    37.864441
+],
+  "geometry": {"coordinates":[-90.49278200000001,37.864441],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 806363743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.393433,38.194066,-90.393433,38.194066",
+    "geom:latitude":38.194066,
+    "geom:longitude":-90.393433,
+    "iso:country":"US",
+    "sg:address":"1071 Airport Rd",
+    "sg:city":"Festus",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 937 7485",
+    "sg:postcode":"63028",
+    "sg:province":"MO",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85848677,
+        102080787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_653v1eF56d4sVMCEFGtDkf_38.194066_-90.393433@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462597532,
+    "wof:geomhash":"385cd7e76257d08e658e3d8a7c31c144",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080787,
+            "neighbourhood_id":85848677,
+            "region_id":85688661,
+            "venue_id":806363743
+        }
+    ],
+    "wof:id":806363743,
+    "wof:lastmodified":1462597532,
+    "wof:name":"Manzoor Tariq MD",
+    "wof:parent_id":85848677,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -90.393433,
+    38.194066,
+    -90.393433,
+    38.194066
+],
+  "geometry": {"coordinates":[-90.393433,38.194066],"type":"Point"}
+}

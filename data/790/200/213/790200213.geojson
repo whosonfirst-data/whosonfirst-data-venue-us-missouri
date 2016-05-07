@@ -1,0 +1,71 @@
+{
+  "id": 790200213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.48114,38.78421,-90.48114,38.78421",
+    "geom:latitude":38.78421,
+    "geom:longitude":-90.48114,
+    "iso:country":"US",
+    "sg:address":"301 N 2nd St",
+    "sg:city":"St Charles",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 949 3033",
+    "sg:postcode":"63301",
+    "sg:province":"MO",
+    "sg:tags":[
+        "sheriff"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_43Tjw9jtxBhTuEPWd6xBGg_38.784210_-90.481140@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462593959,
+    "wof:geomhash":"eefa933165e5dfbc6f554c81302465ad",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":790200213
+        }
+    ],
+    "wof:id":790200213,
+    "wof:lastmodified":1462593959,
+    "wof:name":"Sheriff's Dept-Jury Recording",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sheriff"
+    ]
+},
+  "bbox": [
+    -90.48114,
+    38.78421,
+    -90.48114,
+    38.78421
+],
+  "geometry": {"coordinates":[-90.48114,38.78421],"type":"Point"}
+}

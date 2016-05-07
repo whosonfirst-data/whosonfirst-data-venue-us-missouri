@@ -1,0 +1,89 @@
+{
+  "id": 807078899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.449235,39.24552,-94.449235,39.24552",
+    "geom:latitude":39.24552,
+    "geom:longitude":-94.449235,
+    "iso:country":"US",
+    "sg:address":"1912 Starr Dr",
+    "sg:city":"Liberty",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/liberty/39404-northern-lights/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 792 9911",
+    "sg:postcode":"64068",
+    "sg:province":"MO",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420525305,
+        102191575,
+        404516717,
+        85633793,
+        85972461,
+        102086177,
+        85688661,
+        420525367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7VIVwk8yBlbjj5BCGR2XgU_39.245520_-94.449235@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462603524,
+    "wof:geomhash":"0ff774d34df16b8ebf8e06601948d49e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086177,
+            "localadmin_id":404516717,
+            "locality_id":85972461,
+            "neighbourhood_id":420525305,
+            "region_id":85688661,
+            "venue_id":807078899
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086177,
+            "localadmin_id":404516717,
+            "locality_id":85972461,
+            "neighbourhood_id":420525367,
+            "region_id":85688661,
+            "venue_id":807078899
+        }
+    ],
+    "wof:id":807078899,
+    "wof:lastmodified":1462603524,
+    "wof:name":"Northern Lights",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -94.449235,
+    39.24552,
+    -94.449235,
+    39.24552
+],
+  "geometry": {"coordinates":[-94.449235,39.24552],"type":"Point"}
+}

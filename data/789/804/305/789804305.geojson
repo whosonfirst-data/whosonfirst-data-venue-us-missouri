@@ -1,0 +1,76 @@
+{
+  "id": 789804305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.204446,38.678447,-90.204446,38.678447",
+    "geom:latitude":38.678447,
+    "geom:longitude":-90.204446,
+    "iso:country":"US",
+    "sg:address":"419 de Soto Ave",
+    "sg:city":"St Louis",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Chemicals & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 231 6905",
+    "sg:postcode":"63147",
+    "sg:province":"MO",
+    "sg:website":"www.transchemical.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873613,
+        102191575,
+        404518053,
+        85633793,
+        85971343,
+        102080791,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7jYCFz5DNabfArN43ASO0p_38.678447_-90.204446@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462590670,
+    "wof:geomhash":"120ff91da50d2690c653932c9686039e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080791,
+            "localadmin_id":404518053,
+            "locality_id":85971343,
+            "neighbourhood_id":85873613,
+            "region_id":85688661,
+            "venue_id":789804305
+        }
+    ],
+    "wof:id":789804305,
+    "wof:lastmodified":1462590670,
+    "wof:name":"Trans Chemical Inc",
+    "wof:parent_id":85873613,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.204446,
+    38.678447,
+    -90.204446,
+    38.678447
+],
+  "geometry": {"coordinates":[-90.204446,38.678447],"type":"Point"}
+}

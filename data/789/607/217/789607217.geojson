@@ -1,0 +1,71 @@
+{
+  "id": 789607217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.275623,38.132303,-90.275623,38.132303",
+    "geom:latitude":38.132303,
+    "geom:longitude":-90.275623,
+    "iso:country":"US",
+    "sg:address":"100 Big Hollow Rd",
+    "sg:city":"Festus",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 992 9215",
+    "sg:postcode":"63028",
+    "sg:province":"MO",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85848677,
+        102080787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7UZeT7MGImcWSqhZpSnImc_38.132303_-90.275623@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462589119,
+    "wof:geomhash":"52425300f7b805c42b67ef40dbc45238",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080787,
+            "neighbourhood_id":85848677,
+            "region_id":85688661,
+            "venue_id":789607217
+        }
+    ],
+    "wof:id":789607217,
+    "wof:lastmodified":1462589119,
+    "wof:name":"Union Electric Company",
+    "wof:parent_id":85848677,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -90.275623,
+    38.132303,
+    -90.275623,
+    38.132303
+],
+  "geometry": {"coordinates":[-90.275623,38.132303],"type":"Point"}
+}

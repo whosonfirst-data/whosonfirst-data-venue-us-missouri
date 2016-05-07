@@ -1,0 +1,73 @@
+{
+  "id": 773754835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.699864,38.818178,-90.699864,38.818178",
+    "geom:latitude":38.818178,
+    "geom:longitude":-90.699864,
+    "iso:country":"US",
+    "sg:address":"625 N Main St",
+    "sg:city":"O Fallon",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 272 4667",
+    "sg:postcode":"63366",
+    "sg:province":"MO",
+    "sg:tags":[
+        "eating",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3DuY5YpZ2Gj7Z4M29coLln_38.818178_-90.699864@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462588131,
+    "wof:geomhash":"57444a093155120864d48041ecabc844",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":773754835
+        }
+    ],
+    "wof:id":773754835,
+    "wof:lastmodified":1462588131,
+    "wof:name":"Imo's Pizza",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -90.699864,
+    38.818178,
+    -90.699864,
+    38.818178
+],
+  "geometry": {"coordinates":[-90.69986400000001,38.818178],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 806737067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.521701,39.798661,-91.521701,39.798661",
+    "geom:latitude":39.798661,
+    "geom:longitude":-91.521701,
+    "iso:country":"US",
+    "sg:address":"219 E Lafayette St",
+    "sg:city":"Palmyra",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 769 4108",
+    "sg:postcode":"63461",
+    "sg:province":"MO",
+    "sg:tags":[
+        "motorcycle"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688697,
+        85633793,
+        85938427,
+        102086213,
+        85867477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3U0x0txrvfymzUFMucsl0K_39.798661_-91.521701@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462600656,
+    "wof:geomhash":"b4600c38491342a12a0b504b688f4e61",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086213,
+            "locality_id":85938427,
+            "neighbourhood_id":85867477,
+            "region_id":85688697,
+            "venue_id":806737067
+        }
+    ],
+    "wof:id":806737067,
+    "wof:lastmodified":1462600656,
+    "wof:name":"John's Custom Cycle",
+    "wof:parent_id":85867477,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "motorcycle"
+    ]
+},
+  "bbox": [
+    -91.521701,
+    39.798661,
+    -91.521701,
+    39.798661
+],
+  "geometry": {"coordinates":[-91.52170099999999,39.798661],"type":"Point"}
+}

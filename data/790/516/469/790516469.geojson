@@ -1,0 +1,71 @@
+{
+  "id": 790516469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.583618,39.412383,-94.583618,39.412383",
+    "geom:latitude":39.412383,
+    "geom:longitude":-94.583618,
+    "iso:country":"US",
+    "sg:address":"1503 US Hwy 169",
+    "sg:city":"Smithville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 532 8778",
+    "sg:postcode":"64089",
+    "sg:province":"MO",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970739,
+        102086177,
+        85836329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2BBhGW6pIGXPE0hgVD0oSj_39.412383_-94.583618@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462596501,
+    "wof:geomhash":"711eb4486d31402af4fca07e3c9fee44",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086177,
+            "locality_id":85970739,
+            "neighbourhood_id":85836329,
+            "region_id":85688661,
+            "venue_id":790516469
+        }
+    ],
+    "wof:id":790516469,
+    "wof:lastmodified":1462596501,
+    "wof:name":"Garrison Family Dentistry",
+    "wof:parent_id":85836329,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -94.583618,
+    39.412383,
+    -94.583618,
+    39.412383
+],
+  "geometry": {"coordinates":[-94.583618,39.412383],"type":"Point"}
+}

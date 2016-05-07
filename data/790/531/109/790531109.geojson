@@ -1,0 +1,71 @@
+{
+  "id": 790531109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.476315,38.575271,-90.476315,38.575271",
+    "geom:latitude":38.575271,
+    "geom:longitude":-90.476315,
+    "iso:country":"US",
+    "sg:address":"825 Killiney Dr",
+    "sg:city":"Ballwin",
+    "sg:classifiers":[
+        {
+            "category":"Airline",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 423 2299",
+    "sg:postcode":"63021",
+    "sg:province":"MO",
+    "sg:tags":[
+        "cargo",
+        "air"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85839871,
+        102086173
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6z0BfVwBteCcy0a6UioJKq_38.575271_-90.476315@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462596632,
+    "wof:geomhash":"89f1bf2f02214b51f0548730504bc064",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086173,
+            "neighbourhood_id":85839871,
+            "region_id":85688661,
+            "venue_id":790531109
+        }
+    ],
+    "wof:id":790531109,
+    "wof:lastmodified":1462596632,
+    "wof:name":"Bravura Inc",
+    "wof:parent_id":85839871,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cargo",
+        "air"
+    ]
+},
+  "bbox": [
+    -90.476315,
+    38.575271,
+    -90.476315,
+    38.575271
+],
+  "geometry": {"coordinates":[-90.476315,38.575271],"type":"Point"}
+}

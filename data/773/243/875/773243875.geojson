@@ -1,0 +1,71 @@
+{
+  "id": 773243875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.49497,38.778132,-90.49497,38.778132",
+    "geom:latitude":38.778132,
+    "geom:longitude":-90.49497,
+    "iso:country":"US",
+    "sg:address":"909 Mc Donough St",
+    "sg:city":"Saint Charles",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 946 4935",
+    "sg:postcode":"63301",
+    "sg:province":"MO",
+    "sg:tags":[
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3RWxTIYzspTQBlHfJNuii7_38.778132_-90.494970@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462584242,
+    "wof:geomhash":"68ebda225801f13c6f8f310f94ddf247",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":773243875
+        }
+    ],
+    "wof:id":773243875,
+    "wof:lastmodified":1462584242,
+    "wof:name":"Betty Foust Cleaning",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -90.49497,
+    38.778132,
+    -90.49497,
+    38.778132
+],
+  "geometry": {"coordinates":[-90.49497,38.778132],"type":"Point"}
+}

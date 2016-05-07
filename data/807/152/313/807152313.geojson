@@ -1,0 +1,70 @@
+{
+  "id": 807152313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.262128,38.634303,-90.262128,38.634303",
+    "geom:latitude":38.634303,
+    "geom:longitude":-90.262128,
+    "iso:country":"US",
+    "sg:address":"4565 McKinley Ave",
+    "sg:city":"Saint Louis",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 362 7059",
+    "sg:postcode":"63110",
+    "sg:province":"MO",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85867031,
+        102191575,
+        404518053,
+        85633793,
+        85971343,
+        102080791,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Ue66fqbVp111zjXZcltQz_38.634303_-90.262128@1303262928"
+    },
+    "wof:country":"US",
+    "wof:created":1462604295,
+    "wof:geomhash":"abc7528dbba1c53776110928bb84433d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080791,
+            "localadmin_id":404518053,
+            "locality_id":85971343,
+            "neighbourhood_id":85867031,
+            "region_id":85688661,
+            "venue_id":807152313
+        }
+    ],
+    "wof:id":807152313,
+    "wof:lastmodified":1462604295,
+    "wof:name":"Washington University School of Medicine Campus",
+    "wof:parent_id":85867031,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.262128,
+    38.634303,
+    -90.262128,
+    38.634303
+],
+  "geometry": {"coordinates":[-90.262128,38.634303],"type":"Point"}
+}

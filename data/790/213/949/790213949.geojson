@@ -1,0 +1,78 @@
+{
+  "id": 790213949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.698652,38.79286,-90.698652,38.79286",
+    "geom:latitude":38.79286,
+    "geom:longitude":-90.698652,
+    "iso:country":"US",
+    "sg:address":"1301 Hwy K",
+    "sg:city":"O Fallon",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 978 8470",
+    "sg:postcode":"63366",
+    "sg:province":"MO",
+    "sg:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ],
+    "sg:website":"www.blockbuster.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_12FhasLA8cx82y7hpJMmcJ_38.792860_-90.698652@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462594056,
+    "wof:geomhash":"b1efde890e7c4f65757514e2841bce0a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":790213949
+        }
+    ],
+    "wof:id":790213949,
+    "wof:lastmodified":1462594056,
+    "wof:name":"Blockbuster Video",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ]
+},
+  "bbox": [
+    -90.698652,
+    38.79286,
+    -90.698652,
+    38.79286
+],
+  "geometry": {"coordinates":[-90.698652,38.79286],"type":"Point"}
+}

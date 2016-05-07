@@ -1,0 +1,74 @@
+{
+  "id": 807072193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.577524,38.796495,-90.577524,38.796495",
+    "geom:latitude":38.796495,
+    "geom:longitude":-90.577524,
+    "iso:country":"US",
+    "sg:address":"4055 Veterans Memorial Pkwy",
+    "sg:city":"Saint Peters",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/spencer-creek/42603-pizza-street/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 936 3636",
+    "sg:postcode":"63376",
+    "sg:province":"MO",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5sc7HJiXUzVkd7pAqosH8u_38.796495_-90.577524@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462603462,
+    "wof:geomhash":"384fb41f35c9b76bf114e9db03d9218e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":807072193
+        }
+    ],
+    "wof:id":807072193,
+    "wof:lastmodified":1462603462,
+    "wof:name":"Pizza Street",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -90.577524,
+    38.796495,
+    -90.577524,
+    38.796495
+],
+  "geometry": {"coordinates":[-90.577524,38.796495],"type":"Point"}
+}

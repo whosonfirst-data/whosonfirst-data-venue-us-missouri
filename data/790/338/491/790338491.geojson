@@ -1,0 +1,76 @@
+{
+  "id": 790338491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.164201,38.567418,-92.164201,38.567418",
+    "geom:latitude":38.567418,
+    "geom:longitude":-92.164201,
+    "iso:country":"US",
+    "sg:address":"919 E Miller St",
+    "sg:city":"Jefferson City",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 634 6429",
+    "sg:postcode":"65101",
+    "sg:province":"MO",
+    "sg:tags":[
+        "village"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970647,
+        102087511,
+        85837745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Dsinppxp1ZLEjJgoGgy4h_38.567418_-92.164201@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462595050,
+    "wof:geomhash":"ab50c95d1efbe3a3ca703c99847475d7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087511,
+            "locality_id":85970647,
+            "neighbourhood_id":85837745,
+            "region_id":85688661,
+            "venue_id":790338491
+        }
+    ],
+    "wof:id":790338491,
+    "wof:lastmodified":1462595050,
+    "wof:name":"Jefferson County Animal Rescue",
+    "wof:parent_id":85837745,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "village"
+    ]
+},
+  "bbox": [
+    -92.164201,
+    38.567418,
+    -92.164201,
+    38.567418
+],
+  "geometry": {"coordinates":[-92.16420100000001,38.567418],"type":"Point"}
+}

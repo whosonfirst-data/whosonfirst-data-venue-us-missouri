@@ -1,0 +1,84 @@
+{
+  "id": 806809159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.190429,38.659469,-90.190429,38.659469",
+    "geom:latitude":38.659469,
+    "geom:longitude":-90.190429,
+    "iso:country":"US",
+    "sg:address":"101 Buchanan St",
+    "sg:city":"St Louis",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Chemicals & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 241 7075",
+    "sg:postcode":"63147",
+    "sg:province":"MO",
+    "sg:tags":[
+        "preparation",
+        "salt",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873609,
+        102191575,
+        404518053,
+        85633793,
+        85971343,
+        102080791,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2m2ExqYTasgxDFt6fneiuS_38.659469_-90.190429@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462601258,
+    "wof:geomhash":"36f9ee991df3c240ccbdc54cca9276d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080791,
+            "localadmin_id":404518053,
+            "locality_id":85971343,
+            "neighbourhood_id":85873609,
+            "region_id":85688661,
+            "venue_id":806809159
+        }
+    ],
+    "wof:id":806809159,
+    "wof:lastmodified":1462601258,
+    "wof:name":"Gunther Salt Company",
+    "wof:parent_id":85873609,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "preparation",
+        "salt",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -90.190429,
+    38.659469,
+    -90.190429,
+    38.659469
+],
+  "geometry": {"coordinates":[-90.19042899999999,38.659469],"type":"Point"}
+}

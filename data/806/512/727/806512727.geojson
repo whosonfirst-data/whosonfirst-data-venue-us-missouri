@@ -1,0 +1,73 @@
+{
+  "id": 806512727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.416344,37.793727,-90.416344,37.793727",
+    "geom:latitude":37.793727,
+    "geom:longitude":-90.416344,
+    "iso:country":"US",
+    "sg:address":"131 Burks Rd",
+    "sg:city":"Farmington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 756 8717",
+    "sg:postcode":"63640",
+    "sg:province":"MO",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970665,
+        102085297,
+        85816309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0AOvDp8TRVqiz3DBMrFRTq_37.793727_-90.416344@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462598736,
+    "wof:geomhash":"d4bad81388d326d00b71d6124ae331e2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085297,
+            "locality_id":85970665,
+            "neighbourhood_id":85816309,
+            "region_id":85688661,
+            "venue_id":806512727
+        }
+    ],
+    "wof:id":806512727,
+    "wof:lastmodified":1462598736,
+    "wof:name":"Farmington Plumbing",
+    "wof:parent_id":85816309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -90.416344,
+    37.793727,
+    -90.416344,
+    37.793727
+],
+  "geometry": {"coordinates":[-90.416344,37.793727],"type":"Point"}
+}

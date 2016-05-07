@@ -1,0 +1,73 @@
+{
+  "id": 790488839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.582182,38.466055,-90.582182,38.466055",
+    "geom:latitude":38.466055,
+    "geom:longitude":-90.582182,
+    "iso:country":"US",
+    "sg:address":"7008 Twin River Rd",
+    "sg:city":"Eureka",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Water",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 938 5909",
+    "sg:postcode":"63025",
+    "sg:province":"MO",
+    "sg:tags":[
+        "company",
+        "sewage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971019,
+        102080787,
+        85817237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6z5719OWH5VfUohSMlhKw3_38.466055_-90.582182@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462596282,
+    "wof:geomhash":"5fcefc8148b467878e2210c22848340c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080787,
+            "locality_id":85971019,
+            "neighbourhood_id":85817237,
+            "region_id":85688661,
+            "venue_id":790488839
+        }
+    ],
+    "wof:id":790488839,
+    "wof:lastmodified":1462596282,
+    "wof:name":"Water Supply District #2",
+    "wof:parent_id":85817237,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company",
+        "sewage"
+    ]
+},
+  "bbox": [
+    -90.582182,
+    38.466055,
+    -90.582182,
+    38.466055
+],
+  "geometry": {"coordinates":[-90.582182,38.466055],"type":"Point"}
+}

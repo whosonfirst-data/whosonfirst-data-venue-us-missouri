@@ -1,0 +1,75 @@
+{
+  "id": 806686365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.481737,38.785523,-90.481737,38.785523",
+    "geom:latitude":38.785523,
+    "geom:longitude":-90.481737,
+    "iso:country":"US",
+    "sg:address":"402 N 3rd St",
+    "sg:city":"St Charles",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 669 0054",
+    "sg:postcode":"63301",
+    "sg:province":"MO",
+    "sg:tags":[
+        "repairing",
+        "remodeling",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1XhtvJtqemb11IuHokt5YC_38.785523_-90.481737@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462600221,
+    "wof:geomhash":"00b5baa7308169a5389dd30eab98b1ea",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":806686365
+        }
+    ],
+    "wof:id":806686365,
+    "wof:lastmodified":1462600221,
+    "wof:name":"Big John's Remodeling",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "remodeling",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -90.481737,
+    38.785523,
+    -90.481737,
+    38.785523
+],
+  "geometry": {"coordinates":[-90.481737,38.785523],"type":"Point"}
+}

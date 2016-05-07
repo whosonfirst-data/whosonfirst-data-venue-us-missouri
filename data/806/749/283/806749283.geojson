@@ -1,0 +1,73 @@
+{
+  "id": 806749283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.515385,38.78743,-90.515385,38.78743",
+    "geom:latitude":38.78743,
+    "geom:longitude":-90.515385,
+    "iso:country":"US",
+    "sg:address":"800 S Duchesne Dr",
+    "sg:city":"St Charles",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 946 0123",
+    "sg:postcode":"63301",
+    "sg:province":"MO",
+    "sg:tags":[
+        "grocer",
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4pgroyoHqMP8DZ8MmMOYz8_38.787430_-90.515385@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462600757,
+    "wof:geomhash":"7e8870770903f4ca2db7090da4d75e2a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":806749283
+        }
+    ],
+    "wof:id":806749283,
+    "wof:lastmodified":1462600757,
+    "wof:name":"Schnucks",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer",
+        "eating"
+    ]
+},
+  "bbox": [
+    -90.515385,
+    38.78743,
+    -90.515385,
+    38.78743
+],
+  "geometry": {"coordinates":[-90.51538499999999,38.78743],"type":"Point"}
+}

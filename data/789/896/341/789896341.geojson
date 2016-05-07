@@ -1,0 +1,70 @@
+{
+  "id": 789896341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.349516,38.734157,-90.349516,38.734157",
+    "geom:latitude":38.734157,
+    "geom:longitude":-90.349516,
+    "iso:country":"US",
+    "sg:address":"9855 Air Cargo Rd",
+    "sg:city":"St Louis",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 000 1111",
+    "sg:postcode":"63134",
+    "sg:province":"MO",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85847351,
+        102191575,
+        404517201,
+        85633793,
+        85972285,
+        102086173,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5W9mZKAKnyKTT75NByc48g_38.734157_-90.349516@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462591415,
+    "wof:geomhash":"0fcaf5381903d463b3eb0ef9f54f6273",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086173,
+            "localadmin_id":404517201,
+            "locality_id":85972285,
+            "neighbourhood_id":85847351,
+            "region_id":85688661,
+            "venue_id":789896341
+        }
+    ],
+    "wof:id":789896341,
+    "wof:lastmodified":1462591415,
+    "wof:name":"US Post Office",
+    "wof:parent_id":85847351,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.349516,
+    38.734157,
+    -90.349516,
+    38.734157
+],
+  "geometry": {"coordinates":[-90.34951599999999,38.734157],"type":"Point"}
+}

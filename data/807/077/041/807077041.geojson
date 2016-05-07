@@ -1,0 +1,74 @@
+{
+  "id": 807077041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.249168,39.338831,-94.249168,39.338831",
+    "geom:latitude":39.338831,
+    "geom:longitude":-94.249168,
+    "iso:country":"US",
+    "sg:address":"123 Crown Hill Rd",
+    "sg:city":"Excelsior Springs",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/fishing-river/148929-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 630 0959",
+    "sg:postcode":"64024",
+    "sg:province":"MO",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971507,
+        102086177,
+        85812855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4uBBBn8o0fOMiJb1Ego5La_39.338831_-94.249168@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462603510,
+    "wof:geomhash":"c681b5aa7b8df90ab877b5bd39d1b296",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086177,
+            "locality_id":85971507,
+            "neighbourhood_id":85812855,
+            "region_id":85688661,
+            "venue_id":807077041
+        }
+    ],
+    "wof:id":807077041,
+    "wof:lastmodified":1462603510,
+    "wof:name":"Subway",
+    "wof:parent_id":85812855,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -94.249168,
+    39.338831,
+    -94.249168,
+    39.338831
+],
+  "geometry": {"coordinates":[-94.249168,39.338831],"type":"Point"}
+}

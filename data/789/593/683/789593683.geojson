@@ -1,0 +1,71 @@
+{
+  "id": 789593683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.776463,37.944282,-91.776463,37.944282",
+    "geom:latitude":37.944282,
+    "geom:longitude":-91.776463,
+    "iso:country":"US",
+    "sg:address":"604 Black St",
+    "sg:city":"Rolla",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 308 3400",
+    "sg:postcode":"65401",
+    "sg:province":"MO",
+    "sg:tags":[
+        "mental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970821,
+        102086893,
+        85814531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6RFy47d3nwDkl05jDWysfP_37.944282_-91.776463@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462589011,
+    "wof:geomhash":"16359927314e99134a8360100ddcf4d5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086893,
+            "locality_id":85970821,
+            "neighbourhood_id":85814531,
+            "region_id":85688661,
+            "venue_id":789593683
+        }
+    ],
+    "wof:id":789593683,
+    "wof:lastmodified":1462589011,
+    "wof:name":"Daybreak Center",
+    "wof:parent_id":85814531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mental"
+    ]
+},
+  "bbox": [
+    -91.776463,
+    37.944282,
+    -91.776463,
+    37.944282
+],
+  "geometry": {"coordinates":[-91.77646300000001,37.944282],"type":"Point"}
+}

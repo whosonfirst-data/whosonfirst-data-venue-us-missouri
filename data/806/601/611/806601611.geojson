@@ -1,0 +1,77 @@
+{
+  "id": 806601611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.277802,38.565348,-90.277802,38.565348",
+    "geom:latitude":38.565348,
+    "geom:longitude":-90.277802,
+    "iso:country":"US",
+    "sg:address":"6900 Morganford Rd",
+    "sg:city":"St Louis",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 678 2480",
+    "sg:postcode":"63116",
+    "sg:province":"MO",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873699,
+        102191575,
+        404518053,
+        85633793,
+        85971343,
+        102080791,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3z9AMdjhBpTOvgaKyVpqVE_38.565348_-90.277802@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462599503,
+    "wof:geomhash":"fa6e217d8d0aa65bbdba57bac1bc3c7e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080791,
+            "localadmin_id":404518053,
+            "locality_id":85971343,
+            "neighbourhood_id":85873699,
+            "region_id":85688661,
+            "venue_id":806601611
+        }
+    ],
+    "wof:id":806601611,
+    "wof:lastmodified":1462599503,
+    "wof:name":"A & A Trans & Gen Auto Repair",
+    "wof:parent_id":85873699,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -90.277802,
+    38.565348,
+    -90.277802,
+    38.565348
+],
+  "geometry": {"coordinates":[-90.27780199999999,38.565348],"type":"Point"}
+}

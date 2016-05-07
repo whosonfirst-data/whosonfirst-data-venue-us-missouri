@@ -1,0 +1,69 @@
+{
+  "id": 789880425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.380707,38.397485,-90.380707,38.397485",
+    "geom:latitude":38.397485,
+    "geom:longitude":-90.380707,
+    "iso:country":"US",
+    "sg:address":"1114 Westward Trails Dr",
+    "sg:city":"Imperial",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 464 4311",
+    "sg:postcode":"63052",
+    "sg:province":"MO",
+    "sg:tags":[
+        "window"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85805175,
+        102080787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4xuoLAkrn5UsOUkCbPt6P5_38.397485_-90.380707@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462591293,
+    "wof:geomhash":"84f8bb853e1ae5077cb322254fe0657d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080787,
+            "neighbourhood_id":85805175,
+            "region_id":85688661,
+            "venue_id":789880425
+        }
+    ],
+    "wof:id":789880425,
+    "wof:lastmodified":1462591293,
+    "wof:name":"Lighthouse Window Cleaning",
+    "wof:parent_id":85805175,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "window"
+    ]
+},
+  "bbox": [
+    -90.380707,
+    38.397485,
+    -90.380707,
+    38.397485
+],
+  "geometry": {"coordinates":[-90.380707,38.397485],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 806370157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.347973,39.695248,-91.347973,39.695248",
+    "geom:latitude":39.695248,
+    "geom:longitude":-91.347973,
+    "iso:country":"US",
+    "sg:address":"1603 Fulton Ave",
+    "sg:city":"Hannibal",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 221 6913",
+    "sg:postcode":"63401",
+    "sg:province":"MO",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688697,
+        85633793,
+        85938427,
+        102086213,
+        85867477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7iTibsomoyZf5oncQ9e6jx_39.695248_-91.347973@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462597600,
+    "wof:geomhash":"b9b098551667bef6c9b03c71273451b8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086213,
+            "locality_id":85938427,
+            "neighbourhood_id":85867477,
+            "region_id":85688697,
+            "venue_id":806370157
+        }
+    ],
+    "wof:id":806370157,
+    "wof:lastmodified":1462597600,
+    "wof:name":"Miller Plumbing",
+    "wof:parent_id":85867477,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -91.347973,
+    39.695248,
+    -91.347973,
+    39.695248
+],
+  "geometry": {"coordinates":[-91.347973,39.695248],"type":"Point"}
+}

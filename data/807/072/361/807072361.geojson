@@ -1,0 +1,73 @@
+{
+  "id": 807072361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.661418,38.787274,-90.661418,38.787274",
+    "geom:latitude":38.787274,
+    "geom:longitude":-90.661418,
+    "iso:country":"US",
+    "sg:address":"7890 Mexico Rd",
+    "sg:city":"St Peters",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/ofallon/194325-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"63376",
+    "sg:province":"MO",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6epC5diuKaTL97SlFJ8icW_38.787274_-90.661418@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462603475,
+    "wof:geomhash":"9151d364b609105b9b2805631cb17733",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":807072361
+        }
+    ],
+    "wof:id":807072361,
+    "wof:lastmodified":1462603475,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -90.661418,
+    38.787274,
+    -90.661418,
+    38.787274
+],
+  "geometry": {"coordinates":[-90.661418,38.787274],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 807071287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.05116,39.448179,-91.05116,39.448179",
+    "geom:latitude":39.448179,
+    "geom:longitude":-91.05116,
+    "iso:country":"US",
+    "sg:address":"711 Georgia St",
+    "sg:city":"Louisiana",
+    "sg:classifiers":[
+        {
+            "category":"Ice Cream",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/buffalo/168043-dairy-queen/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 754 5311",
+    "sg:postcode":"63353",
+    "sg:province":"MO",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971907,
+        102086151,
+        85817909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4iZBqraiq6rG7oY9B95bI4_39.448179_-91.051160@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462603455,
+    "wof:geomhash":"b059a3ebc1015e531e8eab9dc73c7c5d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086151,
+            "locality_id":85971907,
+            "neighbourhood_id":85817909,
+            "region_id":85688661,
+            "venue_id":807071287
+        }
+    ],
+    "wof:id":807071287,
+    "wof:lastmodified":1462603455,
+    "wof:name":"Dairy Queen",
+    "wof:parent_id":85817909,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -91.05116,
+    39.448179,
+    -91.05116,
+    39.448179
+],
+  "geometry": {"coordinates":[-91.05116,39.448179],"type":"Point"}
+}

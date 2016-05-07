@@ -1,0 +1,71 @@
+{
+  "id": 806389109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.155141,39.37352,-91.155141,39.37352",
+    "geom:latitude":39.37352,
+    "geom:longitude":-91.155141,
+    "iso:country":"US",
+    "sg:address":"15348 Pike 280",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 324 2514",
+    "sg:postcode":"63334",
+    "sg:province":"MO",
+    "sg:tags":[
+        "membership"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971907,
+        102086151,
+        85817909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5jdmngxRyVVhudasMbxbZb_39.373520_-91.155141@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462597746,
+    "wof:geomhash":"51fcf912e547783b62811ea7e9f23337",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086151,
+            "locality_id":85971907,
+            "neighbourhood_id":85817909,
+            "region_id":85688661,
+            "venue_id":806389109
+        }
+    ],
+    "wof:id":806389109,
+    "wof:lastmodified":1462597746,
+    "wof:name":"County Fair",
+    "wof:parent_id":85817909,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "membership"
+    ]
+},
+  "bbox": [
+    -91.155141,
+    39.37352,
+    -91.155141,
+    39.37352
+],
+  "geometry": {"coordinates":[-91.155141,39.37352],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 789981799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.279924,37.258335,-93.279924,37.258335",
+    "geom:latitude":37.258335,
+    "geom:longitude":-93.279924,
+    "iso:country":"US",
+    "sg:address":"948 E Snider St",
+    "sg:city":"Springfield",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 844 4270",
+    "sg:postcode":"65803",
+    "sg:province":"MO",
+    "sg:tags":[
+        "water",
+        "heater",
+        "electrical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971363,
+        102087523,
+        85881137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ElDKG1SezLSU2IiqC44pS_37.258335_-93.279924@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462592183,
+    "wof:geomhash":"76d9623dfdef7a03c85b1e43e259bbed",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087523,
+            "locality_id":85971363,
+            "neighbourhood_id":85881137,
+            "region_id":85688661,
+            "venue_id":789981799
+        }
+    ],
+    "wof:id":789981799,
+    "wof:lastmodified":1462592183,
+    "wof:name":"Water Heater Specialists",
+    "wof:parent_id":85881137,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "water",
+        "heater",
+        "electrical"
+    ]
+},
+  "bbox": [
+    -93.279924,
+    37.258335,
+    -93.279924,
+    37.258335
+],
+  "geometry": {"coordinates":[-93.27992399999999,37.258335],"type":"Point"}
+}

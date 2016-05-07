@@ -1,0 +1,71 @@
+{
+  "id": 806387631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.90315,39.409436,-94.90315,39.409436",
+    "geom:latitude":39.409436,
+    "geom:longitude":-94.90315,
+    "iso:country":"US",
+    "sg:address":"365 Main St",
+    "sg:city":"Weston",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 640 9948",
+    "sg:postcode":"64098",
+    "sg:province":"MO",
+    "sg:tags":[
+        "engineer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970739,
+        102085271,
+        85823759
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3S6YlBkfsol5w7nbHKmrTC_39.409436_-94.903150@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462597736,
+    "wof:geomhash":"ab8102a7ecf1987331fe904f376fcb36",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085271,
+            "locality_id":85970739,
+            "neighbourhood_id":85823759,
+            "region_id":85688661,
+            "venue_id":806387631
+        }
+    ],
+    "wof:id":806387631,
+    "wof:lastmodified":1462597736,
+    "wof:name":"Light Works Inc",
+    "wof:parent_id":85823759,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "engineer"
+    ]
+},
+  "bbox": [
+    -94.90315,
+    39.409436,
+    -94.90315,
+    39.409436
+],
+  "geometry": {"coordinates":[-94.90315,39.409436],"type":"Point"}
+}

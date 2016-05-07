@@ -1,0 +1,88 @@
+{
+  "id": 789961431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.515046,37.09412,-94.515046,37.09412",
+    "geom:latitude":37.09412,
+    "geom:longitude":-94.515046,
+    "iso:country":"US",
+    "sg:address":"223 W C St",
+    "sg:city":"Joplin",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 681 0862",
+    "sg:postcode":"64801",
+    "sg:province":"MO",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85885363,
+        102191575,
+        404518215,
+        85633793,
+        85970893,
+        102087525,
+        85688661,
+        420525385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3iF5xXRb3HpFCssYzoQ6CE_37.094120_-94.515046@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462592010,
+    "wof:geomhash":"2e414feeda86ab00d7fbbe5b566616e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087525,
+            "localadmin_id":404518215,
+            "locality_id":85970893,
+            "neighbourhood_id":85885363,
+            "region_id":85688661,
+            "venue_id":789961431
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087525,
+            "localadmin_id":404518215,
+            "locality_id":85970893,
+            "neighbourhood_id":420525385,
+            "region_id":85688661,
+            "venue_id":789961431
+        }
+    ],
+    "wof:id":789961431,
+    "wof:lastmodified":1462592010,
+    "wof:name":"Bill's Electric",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -94.515046,
+    37.09412,
+    -94.515046,
+    37.09412
+],
+  "geometry": {"coordinates":[-94.515046,37.09412],"type":"Point"}
+}

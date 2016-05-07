@@ -1,0 +1,80 @@
+{
+  "id": 790499327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.407029,39.685314,-91.407029,39.685314",
+    "geom:latitude":39.685314,
+    "geom:longitude":-91.407029,
+    "iso:country":"US",
+    "sg:address":"4355 Paris Gravel Rd",
+    "sg:city":"Hannibal",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        },
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 248 3811",
+    "sg:postcode":"63401",
+    "sg:province":"MO",
+    "sg:tags":[
+        "mental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85843695,
+        102191575,
+        404516821,
+        85633793,
+        85970335,
+        102086171,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6namuvcE7UQZTk5LE5uZ1l_39.685314_-91.407029@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462596363,
+    "wof:geomhash":"6d1908c55841ed8de43c9b6ae91c9217",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086171,
+            "localadmin_id":404516821,
+            "locality_id":85970335,
+            "neighbourhood_id":85843695,
+            "region_id":85688661,
+            "venue_id":790499327
+        }
+    ],
+    "wof:id":790499327,
+    "wof:lastmodified":1462596363,
+    "wof:name":"Preferred Family Health Care",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mental"
+    ]
+},
+  "bbox": [
+    -91.407029,
+    39.685314,
+    -91.407029,
+    39.685314
+],
+  "geometry": {"coordinates":[-91.40702899999999,39.685314],"type":"Point"}
+}

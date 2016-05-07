@@ -1,0 +1,71 @@
+{
+  "id": 806835167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.405829,38.351807,-90.405829,38.351807",
+    "geom:latitude":38.351807,
+    "geom:longitude":-90.405829,
+    "iso:country":"US",
+    "sg:address":"1701 Hwy M",
+    "sg:city":"Barnhart",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 464 1893",
+    "sg:postcode":"63012",
+    "sg:province":"MO",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85805175,
+        102080787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_04v9rBo5Qcc4EFjqCQ629z_38.351807_-90.405829@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462601469,
+    "wof:geomhash":"9f1a8965ae6ec50cac276ba361f7d0f7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080787,
+            "neighbourhood_id":85805175,
+            "region_id":85688661,
+            "venue_id":806835167
+        }
+    ],
+    "wof:id":806835167,
+    "wof:lastmodified":1462601469,
+    "wof:name":"Tom's Service Ctr",
+    "wof:parent_id":85805175,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -90.405829,
+    38.351807,
+    -90.405829,
+    38.351807
+],
+  "geometry": {"coordinates":[-90.405829,38.351807],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 773285669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.412385,39.078002,-94.412385,39.078002",
+    "geom:latitude":39.078002,
+    "geom:longitude":-94.412385,
+    "iso:country":"US",
+    "sg:address":"1234 S Dodgion St",
+    "sg:city":"Independence",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 461 3323",
+    "sg:postcode":"64055",
+    "sg:province":"MO",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85833097,
+        102191575,
+        404515661,
+        85633793,
+        85971449,
+        102081227,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6LO17xhrtTjfgsSeArJB5c_39.078002_-94.412385@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462584567,
+    "wof:geomhash":"0b32a003e14f5bba076d98a404214b3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081227,
+            "localadmin_id":404515661,
+            "locality_id":85971449,
+            "neighbourhood_id":85833097,
+            "region_id":85688661,
+            "venue_id":773285669
+        }
+    ],
+    "wof:id":773285669,
+    "wof:lastmodified":1462584567,
+    "wof:name":"Cunningham Auto Body Inc",
+    "wof:parent_id":85833097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -94.412385,
+    39.078002,
+    -94.412385,
+    39.078002
+],
+  "geometry": {"coordinates":[-94.412385,39.078002],"type":"Point"}
+}

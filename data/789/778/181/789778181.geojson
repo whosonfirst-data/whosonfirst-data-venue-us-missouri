@@ -1,0 +1,73 @@
+{
+  "id": 789778181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.379896,38.412436,-90.379896,38.412436",
+    "geom:latitude":38.412436,
+    "geom:longitude":-90.379896,
+    "iso:country":"US",
+    "sg:address":"3584 Jeffco Blvd",
+    "sg:city":"Arnold",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 225 1020",
+    "sg:postcode":"63010",
+    "sg:province":"MO",
+    "sg:tags":[
+        "electrical",
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85805175,
+        102080787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5REXpBVLgr75N5OLxpjNzh_38.412436_-90.379896@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462590462,
+    "wof:geomhash":"08bf758cdbf6ede1d99c70c97e5a2ee3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080787,
+            "neighbourhood_id":85805175,
+            "region_id":85688661,
+            "venue_id":789778181
+        }
+    ],
+    "wof:id":789778181,
+    "wof:lastmodified":1462590462,
+    "wof:name":"Accurate Electric Co",
+    "wof:parent_id":85805175,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -90.379896,
+    38.412436,
+    -90.379896,
+    38.412436
+],
+  "geometry": {"coordinates":[-90.379896,38.412436],"type":"Point"}
+}

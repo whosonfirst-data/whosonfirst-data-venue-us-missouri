@@ -1,0 +1,87 @@
+{
+  "id": 807116755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.389023,38.198448,-90.389023,38.198448",
+    "geom:latitude":38.198448,
+    "geom:longitude":-90.389023,
+    "iso:country":"US",
+    "sg:address":"100 Industrial Dr",
+    "sg:city":"Festus",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Beauty & Cosmetics",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 933 0709",
+    "sg:postcode":"63028",
+    "sg:province":"MO",
+    "sg:tags":[
+        "cosmetics-wholesale",
+        "medicines-patent",
+        "manufacturer",
+        "proprietary",
+        "perfume"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85848677,
+        102080787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ji1S3lb1CphDhzKbd66Y0_38.198448_-90.389023@1303262925"
+    },
+    "wof:country":"US",
+    "wof:created":1462603906,
+    "wof:geomhash":"c73cac9fafdc6c9095fb67b55bc9e5be",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080787,
+            "neighbourhood_id":85848677,
+            "region_id":85688661,
+            "venue_id":807116755
+        }
+    ],
+    "wof:id":807116755,
+    "wof:lastmodified":1462603906,
+    "wof:name":"Calico's Laboratories",
+    "wof:parent_id":85848677,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cosmetics-wholesale",
+        "medicines-patent",
+        "manufacturer",
+        "proprietary",
+        "perfume"
+    ]
+},
+  "bbox": [
+    -90.389023,
+    38.198448,
+    -90.389023,
+    38.198448
+],
+  "geometry": {"coordinates":[-90.38902299999999,38.198448],"type":"Point"}
+}

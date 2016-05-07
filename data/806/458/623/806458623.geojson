@@ -1,0 +1,73 @@
+{
+  "id": 806458623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.484838,36.545058,-94.484838,36.545058",
+    "geom:latitude":36.545058,
+    "geom:longitude":-94.484838,
+    "iso:country":"US",
+    "sg:address":"318 Main St",
+    "sg:city":"Noel",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 475 3810",
+    "sg:postcode":"64854",
+    "sg:province":"MO",
+    "sg:tags":[
+        "postal",
+        "us"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972127,
+        102085305,
+        85850627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1sVfzJ0iHmdrdFvvTTTV3W_36.545058_-94.484838@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462598303,
+    "wof:geomhash":"03f6f5d572c7a50c2e87042bb91c5b21",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085305,
+            "locality_id":85972127,
+            "neighbourhood_id":85850627,
+            "region_id":85688661,
+            "venue_id":806458623
+        }
+    ],
+    "wof:id":806458623,
+    "wof:lastmodified":1462598303,
+    "wof:name":"Noel Main Office",
+    "wof:parent_id":85850627,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "postal",
+        "us"
+    ]
+},
+  "bbox": [
+    -94.484838,
+    36.545058,
+    -94.484838,
+    36.545058
+],
+  "geometry": {"coordinates":[-94.484838,36.545058],"type":"Point"}
+}

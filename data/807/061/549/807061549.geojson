@@ -1,0 +1,78 @@
+{
+  "id": 807061549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.306979,38.804123,-90.306979,38.804123",
+    "geom:latitude":38.804123,
+    "geom:longitude":-90.306979,
+    "iso:country":"US",
+    "sg:address":"2450 N Us Highway 67",
+    "sg:city":"Florissant",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/florissant/183112-kfc---kentucky-fried-chicken/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 837 9935",
+    "sg:postcode":"63033",
+    "sg:province":"MO",
+    "sg:tags":[
+        "american",
+        "chicken"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85813019,
+        102191575,
+        404517467,
+        85633793,
+        85972639,
+        102086173,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2lWJDECz9cwhKzEJwCDIKS_38.804123_-90.306979@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462603383,
+    "wof:geomhash":"acb8711ca781f387e12d61a851a02607",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086173,
+            "localadmin_id":404517467,
+            "locality_id":85972639,
+            "neighbourhood_id":85813019,
+            "region_id":85688661,
+            "venue_id":807061549
+        }
+    ],
+    "wof:id":807061549,
+    "wof:lastmodified":1462603383,
+    "wof:name":"KFC - Kentucky Fried Chicken",
+    "wof:parent_id":85813019,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "chicken"
+    ]
+},
+  "bbox": [
+    -90.306979,
+    38.804123,
+    -90.306979,
+    38.804123
+],
+  "geometry": {"coordinates":[-90.306979,38.804123],"type":"Point"}
+}

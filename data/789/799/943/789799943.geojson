@@ -1,0 +1,73 @@
+{
+  "id": 789799943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.192205,39.34092,-91.192205,39.34092",
+    "geom:latitude":39.34092,
+    "geom:longitude":-91.192205,
+    "iso:country":"US",
+    "sg:address":"136 S Saint Charles St",
+    "sg:city":"Wentzville",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 327 4844",
+    "sg:postcode":"63334",
+    "sg:province":"MO",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971907,
+        102086151,
+        85817909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6rszctRCfDJbjsJ5hoUdJM_39.340920_-91.192205@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462590640,
+    "wof:geomhash":"752d12fcccc21741c56092f28148a730",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086151,
+            "locality_id":85971907,
+            "neighbourhood_id":85817909,
+            "region_id":85688661,
+            "venue_id":789799943
+        }
+    ],
+    "wof:id":789799943,
+    "wof:lastmodified":1462590640,
+    "wof:name":"Pinehill Apts",
+    "wof:parent_id":85817909,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -91.192205,
+    39.34092,
+    -91.192205,
+    39.34092
+],
+  "geometry": {"coordinates":[-91.192205,39.34092],"type":"Point"}
+}

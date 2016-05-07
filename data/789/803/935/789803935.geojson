@@ -1,0 +1,71 @@
+{
+  "id": 789803935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.492322,38.791875,-90.492322,38.791875",
+    "geom:latitude":38.791875,
+    "geom:longitude":-90.492322,
+    "iso:country":"US",
+    "sg:address":"30 Clark Ct",
+    "sg:city":"Saint Charles",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 724 2454",
+    "sg:postcode":"63301",
+    "sg:province":"MO",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4VLSIL89JbEGKaEbFoFfa7_38.791875_-90.492322@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462590667,
+    "wof:geomhash":"d5ef4e378ebd3e8e156dab30a5c5ed0a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":789803935
+        }
+    ],
+    "wof:id":789803935,
+    "wof:lastmodified":1462590667,
+    "wof:name":"Bb Contractors",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -90.492322,
+    38.791875,
+    -90.492322,
+    38.791875
+],
+  "geometry": {"coordinates":[-90.492322,38.791875],"type":"Point"}
+}

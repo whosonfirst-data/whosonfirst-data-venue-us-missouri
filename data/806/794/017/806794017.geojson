@@ -1,0 +1,74 @@
+{
+  "id": 806794017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.130677,38.558077,-92.130677,38.558077",
+    "geom:latitude":38.558077,
+    "geom:longitude":-92.130677,
+    "iso:country":"US",
+    "sg:address":"2401 E McCarty St",
+    "sg:city":"Jefferson City",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 751 3333",
+    "sg:postcode":"65101",
+    "sg:province":"MO",
+    "sg:tags":[
+        "state",
+        "program"
+    ],
+    "sg:website":"www.mswp.dps.mo.gov",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970647,
+        102087511,
+        85837745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_10cbjwMLXBQOu5IC3oHexO_38.558077_-92.130677@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462601135,
+    "wof:geomhash":"72dfd8e399fcaff22738f51e1fb18f3d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087511,
+            "locality_id":85970647,
+            "neighbourhood_id":85837745,
+            "region_id":85688661,
+            "venue_id":806794017
+        }
+    ],
+    "wof:id":806794017,
+    "wof:lastmodified":1462601135,
+    "wof:name":"Water Patrol",
+    "wof:parent_id":85837745,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "program"
+    ]
+},
+  "bbox": [
+    -92.130677,
+    38.558077,
+    -92.130677,
+    38.558077
+],
+  "geometry": {"coordinates":[-92.13067700000001,38.558077],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 773210563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.377481,38.368944,-90.377481,38.368944",
+    "geom:latitude":38.368944,
+    "geom:longitude":-90.377481,
+    "iso:country":"US",
+    "sg:address":"1060 W Main St",
+    "sg:city":"Imperial",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 464 2094",
+    "sg:postcode":"63052",
+    "sg:province":"MO",
+    "sg:tags":[
+        "grocery",
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85805175,
+        102080787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1pWHBBnPZBdgf97ejU5tXL_38.368944_-90.377481@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462584000,
+    "wof:geomhash":"7eda9c3d3a14ebf7cb3d8e53ff73ca35",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080787,
+            "neighbourhood_id":85805175,
+            "region_id":85688661,
+            "venue_id":773210563
+        }
+    ],
+    "wof:id":773210563,
+    "wof:lastmodified":1462584000,
+    "wof:name":"Citgo",
+    "wof:parent_id":85805175,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocery",
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -90.377481,
+    38.368944,
+    -90.377481,
+    38.368944
+],
+  "geometry": {"coordinates":[-90.377481,38.368944],"type":"Point"}
+}

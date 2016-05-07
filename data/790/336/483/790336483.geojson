@@ -1,0 +1,79 @@
+{
+  "id": 790336483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.251793,38.552324,-90.251793,38.552324",
+    "geom:latitude":38.552324,
+    "geom:longitude":-90.251793,
+    "iso:country":"US",
+    "sg:address":"119 E Loughborough Ave",
+    "sg:city":"St Louis",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 832 3100",
+    "sg:postcode":"63111",
+    "sg:province":"MO",
+    "sg:tags":[
+        "dry",
+        "bulk",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85809597,
+        102191575,
+        404518053,
+        85633793,
+        85971343,
+        102080791,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1T3EtvvKIVMkpCjrMYXNJi_38.552324_-90.251793@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462595036,
+    "wof:geomhash":"a945e65fd1b63fc5b603fb60690a458d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080791,
+            "localadmin_id":404518053,
+            "locality_id":85971343,
+            "neighbourhood_id":85809597,
+            "region_id":85688661,
+            "venue_id":790336483
+        }
+    ],
+    "wof:id":790336483,
+    "wof:lastmodified":1462595036,
+    "wof:name":"Missouri Tank Lines",
+    "wof:parent_id":85809597,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dry",
+        "bulk",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -90.251793,
+    38.552324,
+    -90.251793,
+    38.552324
+],
+  "geometry": {"coordinates":[-90.25179300000001,38.552324],"type":"Point"}
+}

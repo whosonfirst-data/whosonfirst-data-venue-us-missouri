@@ -1,0 +1,88 @@
+{
+  "id": 807097073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.400963,38.739321,-90.400963,38.739321",
+    "geom:latitude":38.739321,
+    "geom:longitude":-90.400963,
+    "iso:country":"US",
+    "sg:address":"11237 Saint Charles Rock Rd",
+    "sg:city":"Bridgeton",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/northwest/96640-ihop/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 739 6964",
+    "sg:postcode":"63044",
+    "sg:province":"MO",
+    "sg:tags":[
+        "sandwich",
+        "salad",
+        "burger",
+        "soup",
+        "american",
+        "steakhouse",
+        "wrap"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85840903,
+        102191575,
+        404517389,
+        85633793,
+        85972265,
+        102086173,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_40dJorZV9OKgl3LFw6Gc7l_38.739206_-90.401522@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462603687,
+    "wof:geomhash":"10dae116384e9d67d1cd34492a28865b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086173,
+            "localadmin_id":404517389,
+            "locality_id":85972265,
+            "neighbourhood_id":85840903,
+            "region_id":85688661,
+            "venue_id":807097073
+        }
+    ],
+    "wof:id":807097073,
+    "wof:lastmodified":1462603687,
+    "wof:name":"IHOP",
+    "wof:parent_id":85840903,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sandwich",
+        "salad",
+        "burger",
+        "soup",
+        "american",
+        "steakhouse",
+        "wrap"
+    ]
+},
+  "bbox": [
+    -90.400963,
+    38.739321,
+    -90.400963,
+    38.739321
+],
+  "geometry": {"coordinates":[-90.400963,38.739321],"type":"Point"}
+}

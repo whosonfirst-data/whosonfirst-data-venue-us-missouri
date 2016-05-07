@@ -1,0 +1,73 @@
+{
+  "id": 790310523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.777976,39.367373,-94.777976,39.367373",
+    "geom:latitude":39.367373,
+    "geom:longitude":-94.777976,
+    "iso:country":"US",
+    "sg:address":"412 Branch St",
+    "sg:city":"Platte City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 858 5525",
+    "sg:postcode":"64079",
+    "sg:province":"MO",
+    "sg:tags":[
+        "hospital",
+        "animal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970739,
+        102085271,
+        85851839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_71GUIdYiCAXuCB9k1JkBCJ_39.367373_-94.777976@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462594850,
+    "wof:geomhash":"144240bf612900e093b54dde12db3ca2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085271,
+            "locality_id":85970739,
+            "neighbourhood_id":85851839,
+            "region_id":85688661,
+            "venue_id":790310523
+        }
+    ],
+    "wof:id":790310523,
+    "wof:lastmodified":1462594850,
+    "wof:name":"Platte City Animal Clinic",
+    "wof:parent_id":85851839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hospital",
+        "animal"
+    ]
+},
+  "bbox": [
+    -94.777976,
+    39.367373,
+    -94.777976,
+    39.367373
+],
+  "geometry": {"coordinates":[-94.777976,39.367373],"type":"Point"}
+}

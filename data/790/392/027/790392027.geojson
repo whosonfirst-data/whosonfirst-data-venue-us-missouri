@@ -1,0 +1,82 @@
+{
+  "id": 790392027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.485361,38.784317,-90.485361,38.784317",
+    "geom:latitude":38.784317,
+    "geom:longitude":-90.485361,
+    "iso:country":"US",
+    "sg:address":"225 N 5th St",
+    "sg:city":"St Charles",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 940 0767",
+    "sg:postcode":"63301",
+    "sg:province":"MO",
+    "sg:tags":[
+        "home",
+        "group",
+        "specialty",
+        "outpatient"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5mP78XUGRdk0MJM6uP5rOw_38.784317_-90.485361@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462595481,
+    "wof:geomhash":"c839da4440c839170e88c89cb25c80f4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":790392027
+        }
+    ],
+    "wof:id":790392027,
+    "wof:lastmodified":1462595481,
+    "wof:name":"Oxford House St Charles",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "group",
+        "specialty",
+        "outpatient"
+    ]
+},
+  "bbox": [
+    -90.485361,
+    38.784317,
+    -90.485361,
+    38.784317
+],
+  "geometry": {"coordinates":[-90.485361,38.784317],"type":"Point"}
+}

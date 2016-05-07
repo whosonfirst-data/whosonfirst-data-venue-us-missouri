@@ -1,0 +1,84 @@
+{
+  "id": 806529173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.443748,39.119916,-94.443748,39.119916",
+    "geom:latitude":39.119916,
+    "geom:longitude":-94.443748,
+    "iso:country":"US",
+    "sg:address":"1000 N Sterling Ave",
+    "sg:city":"Independence",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Petroleum Products",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 252 9400",
+    "sg:postcode":"64054",
+    "sg:province":"MO",
+    "sg:tags":[
+        "mixture",
+        "asphalt",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85810119,
+        102191575,
+        404515661,
+        85633793,
+        85971451,
+        102081227,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2iwyKdbi3gY3BVbOFlLdlf_39.119916_-94.443748@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462598863,
+    "wof:geomhash":"74727f35eedaecfce9e156eab8c632ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081227,
+            "localadmin_id":404515661,
+            "locality_id":85971451,
+            "neighbourhood_id":85810119,
+            "region_id":85688661,
+            "venue_id":806529173
+        }
+    ],
+    "wof:id":806529173,
+    "wof:lastmodified":1462598863,
+    "wof:name":"Koch Materials Company",
+    "wof:parent_id":85810119,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mixture",
+        "asphalt",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -94.443748,
+    39.119916,
+    -94.443748,
+    39.119916
+],
+  "geometry": {"coordinates":[-94.443748,39.119916],"type":"Point"}
+}

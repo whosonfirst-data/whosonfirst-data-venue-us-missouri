@@ -1,0 +1,76 @@
+{
+  "id": 807074441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.415291,37.786451,-90.415291,37.786451",
+    "geom:latitude":37.786451,
+    "geom:longitude":-90.415291,
+    "iso:country":"US",
+    "sg:address":"305e E Karsch Blvd",
+    "sg:city":"Farmington",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/st-francois/83974-dominos-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 756 8966",
+    "sg:postcode":"63640",
+    "sg:province":"MO",
+    "sg:tags":[
+        "american",
+        "wing",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970665,
+        102085297,
+        85816309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1rfG9XuYrU5Cr1OUzDl2XH_37.786451_-90.415291@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462603491,
+    "wof:geomhash":"e2de196f497d3fd6d7187696fd1bc4bd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085297,
+            "locality_id":85970665,
+            "neighbourhood_id":85816309,
+            "region_id":85688661,
+            "venue_id":807074441
+        }
+    ],
+    "wof:id":807074441,
+    "wof:lastmodified":1462603491,
+    "wof:name":"Domino's Pizza",
+    "wof:parent_id":85816309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "wing",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -90.415291,
+    37.786451,
+    -90.415291,
+    37.786451
+],
+  "geometry": {"coordinates":[-90.415291,37.786451],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 773673521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.511199,38.786482,-90.511199,38.786482",
+    "geom:latitude":38.786482,
+    "geom:longitude":-90.511199,
+    "iso:country":"US",
+    "sg:address":"329 Droste Rd",
+    "sg:city":"Saint Charles",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Self-service Laundry",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 724 2077",
+    "sg:postcode":"63301",
+    "sg:province":"MO",
+    "sg:tags":[
+        "coin"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5pku4LyjIqeobOlCNHa2B4_38.786482_-90.511199@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462587490,
+    "wof:geomhash":"0be4d2ac26810385c9b9db363e6efcae",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":773673521
+        }
+    ],
+    "wof:id":773673521,
+    "wof:lastmodified":1462587490,
+    "wof:name":"Primary Colors Laundromat",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "coin"
+    ]
+},
+  "bbox": [
+    -90.511199,
+    38.786482,
+    -90.511199,
+    38.786482
+],
+  "geometry": {"coordinates":[-90.511199,38.786482],"type":"Point"}
+}

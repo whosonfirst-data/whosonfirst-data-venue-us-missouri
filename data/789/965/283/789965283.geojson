@@ -1,0 +1,80 @@
+{
+  "id": 789965283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.901862,39.411069,-94.901862,39.411069",
+    "geom:latitude":39.411069,
+    "geom:longitude":-94.901862,
+    "iso:country":"US",
+    "sg:address":"422 Main St",
+    "sg:city":"Weston",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Home Furnishings",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Gifts & Souvenirs",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 640 9996",
+    "sg:postcode":"64098",
+    "sg:province":"MO",
+    "sg:tags":[
+        "decor",
+        "furniture",
+        "accessory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970739,
+        102085271,
+        85823759
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7N3HgpxQgOHYurNaXn1vku_39.411069_-94.901862@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462592040,
+    "wof:geomhash":"5f894f07a6eba42b1efdeddf7adde190",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085271,
+            "locality_id":85970739,
+            "neighbourhood_id":85823759,
+            "region_id":85688661,
+            "venue_id":789965283
+        }
+    ],
+    "wof:id":789965283,
+    "wof:lastmodified":1462592040,
+    "wof:name":"Weston Grand",
+    "wof:parent_id":85823759,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "decor",
+        "furniture",
+        "accessory"
+    ]
+},
+  "bbox": [
+    -94.901862,
+    39.411069,
+    -94.901862,
+    39.411069
+],
+  "geometry": {"coordinates":[-94.90186199999999,39.411069],"type":"Point"}
+}

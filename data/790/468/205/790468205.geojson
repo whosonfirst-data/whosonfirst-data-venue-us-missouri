@@ -1,0 +1,73 @@
+{
+  "id": 790468205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.358779,39.372008,-94.358779,39.372008",
+    "geom:latitude":39.372008,
+    "geom:longitude":-94.358779,
+    "iso:country":"US",
+    "sg:address":"300 S Prospect St",
+    "sg:city":"Kearney",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 635 6795",
+    "sg:postcode":"64060",
+    "sg:province":"MO",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971507,
+        102086177,
+        85812855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2a8vURMXujSZgsi7WN5OSO_39.372008_-94.358779@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462596077,
+    "wof:geomhash":"2e908100b55d721cd5bfd8254037125a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086177,
+            "locality_id":85971507,
+            "neighbourhood_id":85812855,
+            "region_id":85688661,
+            "venue_id":790468205
+        }
+    ],
+    "wof:id":790468205,
+    "wof:lastmodified":1462596077,
+    "wof:name":"Klepper Plumbing",
+    "wof:parent_id":85812855,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -94.358779,
+    39.372008,
+    -94.358779,
+    39.372008
+],
+  "geometry": {"coordinates":[-94.358779,39.372008],"type":"Point"}
+}

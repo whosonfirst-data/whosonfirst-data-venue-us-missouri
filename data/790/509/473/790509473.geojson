@@ -1,0 +1,71 @@
+{
+  "id": 790509473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.47685,38.801629,-90.47685,38.801629",
+    "geom:latitude":38.801629,
+    "geom:longitude":-90.47685,
+    "iso:country":"US",
+    "sg:address":"2200 N 4th St",
+    "sg:city":"St Charles",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 946 4161",
+    "sg:postcode":"63301",
+    "sg:province":"MO",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1jjmkryMepqAt1exdV8cxG_38.801629_-90.476850@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462596447,
+    "wof:geomhash":"407800c8f75bd0e8494d63e6065b4267",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":790509473
+        }
+    ],
+    "wof:id":790509473,
+    "wof:lastmodified":1462596447,
+    "wof:name":"Villa Roma Apartments",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -90.47685,
+    38.801629,
+    -90.47685,
+    38.801629
+],
+  "geometry": {"coordinates":[-90.47685,38.801629],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 789871849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.690858,39.224847,-94.690858,39.224847",
+    "geom:latitude":39.224847,
+    "geom:longitude":-94.690858,
+    "iso:country":"US",
+    "sg:address":"7123 NW Eastside Dr",
+    "sg:city":"Parkville",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Water",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 741 7790",
+    "sg:postcode":"64152",
+    "sg:province":"MO",
+    "sg:tags":[
+        "company",
+        "sewage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970739,
+        102085271,
+        85852241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5EAygwGvEGzjzKgdWsNQ1d_39.224847_-94.690858@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462591202,
+    "wof:geomhash":"e60a0bdd03c8849c558ad2f005ccc8e4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085271,
+            "locality_id":85970739,
+            "neighbourhood_id":85852241,
+            "region_id":85688661,
+            "venue_id":789871849
+        }
+    ],
+    "wof:id":789871849,
+    "wof:lastmodified":1462591202,
+    "wof:name":"Public Water Supply",
+    "wof:parent_id":85852241,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company",
+        "sewage"
+    ]
+},
+  "bbox": [
+    -94.690858,
+    39.224847,
+    -94.690858,
+    39.224847
+],
+  "geometry": {"coordinates":[-94.69085800000001,39.224847],"type":"Point"}
+}

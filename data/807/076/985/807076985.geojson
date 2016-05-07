@@ -1,0 +1,73 @@
+{
+  "id": 807076985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.267792,39.332267,-94.267792,39.332267",
+    "geom:latitude":39.332267,
+    "geom:longitude":-94.267792,
+    "iso:country":"US",
+    "sg:address":"2221 Happy Ln",
+    "sg:city":"Excelsior Springs",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/fishing-river/194136-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"64024",
+    "sg:province":"MO",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971507,
+        102086177,
+        85812855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7hkiDmDnlEb03l4qQtGtl4_39.332267_-94.267792@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462603510,
+    "wof:geomhash":"95f32d89507bf53d17b789537c4ee16f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086177,
+            "locality_id":85971507,
+            "neighbourhood_id":85812855,
+            "region_id":85688661,
+            "venue_id":807076985
+        }
+    ],
+    "wof:id":807076985,
+    "wof:lastmodified":1462603510,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85812855,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -94.267792,
+    39.332267,
+    -94.267792,
+    39.332267
+],
+  "geometry": {"coordinates":[-94.267792,39.332267],"type":"Point"}
+}

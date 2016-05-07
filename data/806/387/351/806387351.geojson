@@ -1,0 +1,71 @@
+{
+  "id": 806387351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.796682,39.92634,-91.796682,39.92634",
+    "geom:latitude":39.92634,
+    "geom:longitude":-91.796682,
+    "iso:country":"US",
+    "sg:address":"1196 Co Rd 104",
+    "sg:city":"Ewing",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 439 5361",
+    "sg:postcode":"63440",
+    "sg:province":"MO",
+    "sg:tags":[
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688697,
+        85633793,
+        85938427,
+        102086213,
+        85867477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6oWuWbYMETQ6dZmzDspjUH_39.926340_-91.796682@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462597734,
+    "wof:geomhash":"5495ce0b96f8dabbda71a9f3f49737bf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086213,
+            "locality_id":85938427,
+            "neighbourhood_id":85867477,
+            "region_id":85688697,
+            "venue_id":806387351
+        }
+    ],
+    "wof:id":806387351,
+    "wof:lastmodified":1462597734,
+    "wof:name":"Bridgman Trucking",
+    "wof:parent_id":85867477,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -91.796682,
+    39.92634,
+    -91.796682,
+    39.92634
+],
+  "geometry": {"coordinates":[-91.796682,39.92634],"type":"Point"}
+}

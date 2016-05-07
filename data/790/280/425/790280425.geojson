@@ -1,0 +1,73 @@
+{
+  "id": 790280425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.858123,38.820819,-90.858123,38.820819",
+    "geom:latitude":38.820819,
+    "geom:longitude":-90.858123,
+    "iso:country":"US",
+    "sg:address":"460 Shady Ln",
+    "sg:city":"Wentzville",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 466 6411",
+    "sg:postcode":"63385",
+    "sg:province":"MO",
+    "sg:tags":[
+        "state",
+        "commercial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_15zM59xoC4NhMyPinYuVEi_38.820819_-90.858123@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462594612,
+    "wof:geomhash":"4479c1264081ec3d02ec9fbd1949e50f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":790280425
+        }
+    ],
+    "wof:id":790280425,
+    "wof:lastmodified":1462594612,
+    "wof:name":"Bank of America",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "commercial"
+    ]
+},
+  "bbox": [
+    -90.858123,
+    38.820819,
+    -90.858123,
+    38.820819
+],
+  "geometry": {"coordinates":[-90.85812300000001,38.820819],"type":"Point"}
+}

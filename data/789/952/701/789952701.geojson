@@ -1,0 +1,71 @@
+{
+  "id": 789952701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.63761,38.356586,-90.63761,38.356586",
+    "geom:latitude":38.356586,
+    "geom:longitude":-90.63761,
+    "iso:country":"US",
+    "sg:address":"6471 Cedar Hill Rd",
+    "sg:city":"Cedar Hill",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 274 3415",
+    "sg:postcode":"63016",
+    "sg:province":"MO",
+    "sg:tags":[
+        "middle"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971019,
+        102080787,
+        85817237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0SM3qWVl53Ae0PMxXW024B_38.356586_-90.637610@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462591941,
+    "wof:geomhash":"46af396c03fd9461c7aa6cd14de37bb6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080787,
+            "locality_id":85971019,
+            "neighbourhood_id":85817237,
+            "region_id":85688661,
+            "venue_id":789952701
+        }
+    ],
+    "wof:id":789952701,
+    "wof:lastmodified":1462591941,
+    "wof:name":"Cedar Hill Middle School",
+    "wof:parent_id":85817237,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "middle"
+    ]
+},
+  "bbox": [
+    -90.63761,
+    38.356586,
+    -90.63761,
+    38.356586
+],
+  "geometry": {"coordinates":[-90.63761,38.356586],"type":"Point"}
+}

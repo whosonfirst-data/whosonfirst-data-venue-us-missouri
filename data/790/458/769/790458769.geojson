@@ -1,0 +1,71 @@
+{
+  "id": 790458769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.84929,38.81276,-90.84929,38.81276",
+    "geom:latitude":38.81276,
+    "geom:longitude":-90.84929,
+    "iso:country":"US",
+    "sg:address":"501 E Pearce Blvd",
+    "sg:city":"Wentzville",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 327 6463",
+    "sg:postcode":"63385",
+    "sg:province":"MO",
+    "sg:tags":[
+        "newspaper"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0IYQ70y75TgJKlJQ5idP9k_38.812760_-90.849290@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462596002,
+    "wof:geomhash":"472de0ee991102c03ebe447d63988e84",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":790458769
+        }
+    ],
+    "wof:id":790458769,
+    "wof:lastmodified":1462596002,
+    "wof:name":"Wentzville Journal",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "newspaper"
+    ]
+},
+  "bbox": [
+    -90.84929,
+    38.81276,
+    -90.84929,
+    38.81276
+],
+  "geometry": {"coordinates":[-90.84929,38.81276],"type":"Point"}
+}

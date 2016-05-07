@@ -1,0 +1,75 @@
+{
+  "id": 773794271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.244293,38.5899,-90.244293,38.5899",
+    "geom:latitude":38.5899,
+    "geom:longitude":-90.244293,
+    "iso:country":"US",
+    "sg:address":"3721 S Grand Blvd",
+    "sg:city":"St Louis",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 000 1111",
+    "sg:postcode":"63118",
+    "sg:province":"MO",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873693,
+        102191575,
+        404518053,
+        85633793,
+        85971343,
+        102080791,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6QbHgKv4KA0xJgbKrzyXbD_38.589900_-90.244293@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462588426,
+    "wof:geomhash":"990ec02fd7c6d9329bdfd1fb4db0a49b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080791,
+            "localadmin_id":404518053,
+            "locality_id":85971343,
+            "neighbourhood_id":85873693,
+            "region_id":85688661,
+            "venue_id":773794271
+        }
+    ],
+    "wof:id":773794271,
+    "wof:lastmodified":1462588426,
+    "wof:name":"Aldi",
+    "wof:parent_id":85873693,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -90.244293,
+    38.5899,
+    -90.244293,
+    38.5899
+],
+  "geometry": {"coordinates":[-90.244293,38.5899],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 789755369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.68003,38.123001,-92.68003,38.123001",
+    "geom:latitude":38.123001,
+    "geom:longitude":-92.68003,
+    "iso:country":"US",
+    "sg:address":"1087 Armory Dr",
+    "sg:city":"Osage Beach",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 348 0255",
+    "sg:postcode":"65065",
+    "sg:province":"MO",
+    "sg:tags":[
+        "passenger",
+        "car"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85813457,
+        102191575,
+        404516525,
+        85633793,
+        85971261,
+        102087517,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1iN2ydwT3H6l7QCpd8Zh2n_38.123001_-92.680030@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462590293,
+    "wof:geomhash":"6d2508bf31fb9d1d63de5c21c32ef6a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087517,
+            "localadmin_id":404516525,
+            "locality_id":85971261,
+            "neighbourhood_id":85813457,
+            "region_id":85688661,
+            "venue_id":789755369
+        }
+    ],
+    "wof:id":789755369,
+    "wof:lastmodified":1462590293,
+    "wof:name":"X Press Rent A Car Inc",
+    "wof:parent_id":85813457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "passenger",
+        "car"
+    ]
+},
+  "bbox": [
+    -92.68003,
+    38.123001,
+    -92.68003,
+    38.123001
+],
+  "geometry": {"coordinates":[-92.68003,38.123001],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 773182975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.486239,38.798299,-90.486239,38.798299",
+    "geom:latitude":38.798299,
+    "geom:longitude":-90.486239,
+    "iso:country":"US",
+    "sg:address":"1925 W Randolph St",
+    "sg:city":"St Charles",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Florist",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 946 7641",
+    "sg:postcode":"63301",
+    "sg:province":"MO",
+    "sg:website":"www.parkviewgardens.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7JEJVaRjILJDHYGEjoTjPS_38.798299_-90.486239@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462583774,
+    "wof:geomhash":"95d152ff85fe55cd086c5b8ec9861b43",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":773182975
+        }
+    ],
+    "wof:id":773182975,
+    "wof:lastmodified":1462583774,
+    "wof:name":"Parkview Gardens Florist",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.486239,
+    38.798299,
+    -90.486239,
+    38.798299
+],
+  "geometry": {"coordinates":[-90.486239,38.798299],"type":"Point"}
+}

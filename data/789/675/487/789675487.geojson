@@ -1,0 +1,73 @@
+{
+  "id": 789675487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.212211,39.367316,-91.212211,39.367316",
+    "geom:latitude":39.367316,
+    "geom:longitude":-91.212211,
+    "iso:country":"US",
+    "sg:address":"15805 US Hwy 61",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 324 9910",
+    "sg:postcode":"63334",
+    "sg:province":"MO",
+    "sg:tags":[
+        "fabrication",
+        "structural"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971907,
+        102086151,
+        85817909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3hVLB0309VopNGP49VYMSC_39.367316_-91.212211@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462589665,
+    "wof:geomhash":"0e9191258d254d4735f53f946e1d3ccf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086151,
+            "locality_id":85971907,
+            "neighbourhood_id":85817909,
+            "region_id":85688661,
+            "venue_id":789675487
+        }
+    ],
+    "wof:id":789675487,
+    "wof:lastmodified":1462589665,
+    "wof:name":"Welding Plus",
+    "wof:parent_id":85817909,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fabrication",
+        "structural"
+    ]
+},
+  "bbox": [
+    -91.212211,
+    39.367316,
+    -91.212211,
+    39.367316
+],
+  "geometry": {"coordinates":[-91.212211,39.367316],"type":"Point"}
+}

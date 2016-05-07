@@ -1,0 +1,75 @@
+{
+  "id": 790225975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.182087,38.576551,-92.182087,38.576551",
+    "geom:latitude":38.576551,
+    "geom:longitude":-92.182087,
+    "iso:country":"US",
+    "sg:address":"414 W Dunklin St",
+    "sg:city":"Jefferson City",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 636 4101",
+    "sg:postcode":"65101",
+    "sg:province":"MO",
+    "sg:tags":[
+        "electrical",
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970647,
+        102087511,
+        85837745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5lkgAISEDRiRCQgzRgtcrB_38.576551_-92.182087@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462594142,
+    "wof:geomhash":"c0869e2cdad9f59cf61e61af327680b0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087511,
+            "locality_id":85970647,
+            "neighbourhood_id":85837745,
+            "region_id":85688661,
+            "venue_id":790225975
+        }
+    ],
+    "wof:id":790225975,
+    "wof:lastmodified":1462594142,
+    "wof:name":"Schneider Electric Company",
+    "wof:parent_id":85837745,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -92.182087,
+    38.576551,
+    -92.182087,
+    38.576551
+],
+  "geometry": {"coordinates":[-92.182087,38.576551],"type":"Point"}
+}

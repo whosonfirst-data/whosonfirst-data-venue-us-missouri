@@ -1,0 +1,73 @@
+{
+  "id": 773802789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.195858,37.203152,-93.195858,37.203152",
+    "geom:latitude":37.203152,
+    "geom:longitude":-93.195858,
+    "iso:country":"US",
+    "sg:address":"4689 E Blackthorne Ln",
+    "sg:city":"Springfield",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 865 8539",
+    "sg:postcode":"65809",
+    "sg:province":"MO",
+    "sg:tags":[
+        "operator",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971363,
+        102087523,
+        85881121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_43m9cvnSr4MGYWp0aUo5Fo_37.203152_-93.195858@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462588493,
+    "wof:geomhash":"4c21a524d7658f5e2bad51e86a98fb94",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087523,
+            "locality_id":85971363,
+            "neighbourhood_id":85881121,
+            "region_id":85688661,
+            "venue_id":773802789
+        }
+    ],
+    "wof:id":773802789,
+    "wof:lastmodified":1462588493,
+    "wof:name":"Andrew Tiersma",
+    "wof:parent_id":85881121,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -93.195858,
+    37.203152,
+    -93.195858,
+    37.203152
+],
+  "geometry": {"coordinates":[-93.195858,37.203152],"type":"Point"}
+}

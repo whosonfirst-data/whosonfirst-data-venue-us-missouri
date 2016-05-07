@@ -1,0 +1,74 @@
+{
+  "id": 807071297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.070177,39.433835,-91.070177,39.433835",
+    "geom:latitude":39.433835,
+    "geom:longitude":-91.070177,
+    "iso:country":"US",
+    "sg:address":"3313 Georgia St",
+    "sg:city":"Louisiana",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/buffalo/156045-hardees/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 754 5171",
+    "sg:postcode":"63353",
+    "sg:province":"MO",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971907,
+        102086151,
+        85817909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3qwmRtTjxx1wVm5zbvwYJ9_39.433835_-91.070177@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462603455,
+    "wof:geomhash":"30199aa70954550cf62d7a1239966ebd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086151,
+            "locality_id":85971907,
+            "neighbourhood_id":85817909,
+            "region_id":85688661,
+            "venue_id":807071297
+        }
+    ],
+    "wof:id":807071297,
+    "wof:lastmodified":1462603455,
+    "wof:name":"Hardee's",
+    "wof:parent_id":85817909,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -91.070177,
+    39.433835,
+    -91.070177,
+    39.433835
+],
+  "geometry": {"coordinates":[-91.070177,39.433835],"type":"Point"}
+}

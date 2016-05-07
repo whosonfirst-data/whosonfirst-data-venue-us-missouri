@@ -1,0 +1,82 @@
+{
+  "id": 807060389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.6646,38.502819,-90.6646,38.502819",
+    "geom:latitude":38.502819,
+    "geom:longitude":-90.6646,
+    "iso:country":"US",
+    "sg:address":"791 Eureka and Allenton Rd",
+    "sg:city":"Eureka",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/meramec/57108-applebees/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 938 7400",
+    "sg:postcode":"63025",
+    "sg:province":"MO",
+    "sg:tags":[
+        "burger",
+        "american",
+        "sandwich",
+        "soup"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85809151,
+        102191575,
+        404517383,
+        85633793,
+        85972199,
+        102086173,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2RX25JIspXB4vzgj22jTwv_38.502819_-90.664600@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462603374,
+    "wof:geomhash":"59e84a589c641016631c993f4088bed7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086173,
+            "localadmin_id":404517383,
+            "locality_id":85972199,
+            "neighbourhood_id":85809151,
+            "region_id":85688661,
+            "venue_id":807060389
+        }
+    ],
+    "wof:id":807060389,
+    "wof:lastmodified":1462603374,
+    "wof:name":"Applebee's",
+    "wof:parent_id":85809151,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "sandwich",
+        "soup"
+    ]
+},
+  "bbox": [
+    -90.6646,
+    38.502819,
+    -90.6646,
+    38.502819
+],
+  "geometry": {"coordinates":[-90.66459999999999,38.502819],"type":"Point"}
+}

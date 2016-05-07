@@ -1,0 +1,74 @@
+{
+  "id": 790444857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.591593,38.797548,-90.591593,38.797548",
+    "geom:latitude":38.797548,
+    "geom:longitude":-90.591593,
+    "iso:country":"US",
+    "sg:address":"5041 Veterans Memorial Pkwy",
+    "sg:city":"St Charles",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 939 4820",
+    "sg:postcode":"63376",
+    "sg:province":"MO",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "sg:website":"www.metroheart.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7m8WPgsywot7dO3y2QufVw_38.797548_-90.591593@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462595879,
+    "wof:geomhash":"4691591047ca7b1163d117bca6b0dfc0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":790444857
+        }
+    ],
+    "wof:id":790444857,
+    "wof:lastmodified":1462595879,
+    "wof:name":"Metro Heart Group Of St Louis",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -90.591593,
+    38.797548,
+    -90.591593,
+    38.797548
+],
+  "geometry": {"coordinates":[-90.591593,38.797548],"type":"Point"}
+}

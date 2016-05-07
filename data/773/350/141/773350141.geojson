@@ -1,0 +1,74 @@
+{
+  "id": 773350141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.346434,37.124596,-93.346434,37.124596",
+    "geom:latitude":37.124596,
+    "geom:longitude":-93.346434,
+    "iso:country":"US",
+    "sg:address":"3115 W Marty St",
+    "sg:city":"Springfield",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 882 7479",
+    "sg:postcode":"65810",
+    "sg:province":"MO",
+    "sg:tags":[
+        "electrical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85881151,
+        102087523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_11KD4Zw1GAoctA9WEHTnGE_37.124596_-93.346434@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462585047,
+    "wof:geomhash":"88924ee7f9d0ce9dfe5655f9add9d309",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087523,
+            "neighbourhood_id":85881151,
+            "region_id":85688661,
+            "venue_id":773350141
+        }
+    ],
+    "wof:id":773350141,
+    "wof:lastmodified":1462585047,
+    "wof:name":"Advanced Electronics Service",
+    "wof:parent_id":85881151,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical"
+    ]
+},
+  "bbox": [
+    -93.346434,
+    37.124596,
+    -93.346434,
+    37.124596
+],
+  "geometry": {"coordinates":[-93.346434,37.124596],"type":"Point"}
+}

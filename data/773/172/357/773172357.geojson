@@ -1,0 +1,75 @@
+{
+  "id": 773172357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.7564,37.968557,-91.7564,37.968557",
+    "geom:latitude":37.968557,
+    "geom:longitude":-91.7564,
+    "iso:country":"US",
+    "sg:address":"11211 Twitty Dr",
+    "sg:city":"Rolla",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 364 8237",
+    "sg:postcode":"65401",
+    "sg:province":"MO",
+    "sg:tags":[
+        "delivery",
+        "interstate",
+        "package"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970821,
+        102086893,
+        85814531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7hCV6Vcc2Ell3HgBzUwa6S_37.968557_-91.756400@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462583683,
+    "wof:geomhash":"6878f85762c5da0d274410b5177c93fb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086893,
+            "locality_id":85970821,
+            "neighbourhood_id":85814531,
+            "region_id":85688661,
+            "venue_id":773172357
+        }
+    ],
+    "wof:id":773172357,
+    "wof:lastmodified":1462583683,
+    "wof:name":"Fedex",
+    "wof:parent_id":85814531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "delivery",
+        "interstate",
+        "package"
+    ]
+},
+  "bbox": [
+    -91.7564,
+    37.968557,
+    -91.7564,
+    37.968557
+],
+  "geometry": {"coordinates":[-91.7564,37.968557],"type":"Point"}
+}

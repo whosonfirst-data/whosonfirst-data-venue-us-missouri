@@ -1,0 +1,77 @@
+{
+  "id": 807063735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.678332,38.507251,-90.678332,38.507251",
+    "geom:latitude":38.507251,
+    "geom:longitude":-90.678332,
+    "iso:country":"US",
+    "sg:address":"5699 Fox Creek Rd",
+    "sg:city":"Pacific",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/meramec/194269-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"63069",
+    "sg:province":"MO",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85809151,
+        102191575,
+        404517383,
+        85633793,
+        85972199,
+        102086173,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1fAg19MwQSX9dgPDkgLeyb_38.507251_-90.678332@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462603398,
+    "wof:geomhash":"fe56d106a92627cc6bb4b5eea6d2a256",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086173,
+            "localadmin_id":404517383,
+            "locality_id":85972199,
+            "neighbourhood_id":85809151,
+            "region_id":85688661,
+            "venue_id":807063735
+        }
+    ],
+    "wof:id":807063735,
+    "wof:lastmodified":1462603398,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85809151,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -90.678332,
+    38.507251,
+    -90.678332,
+    38.507251
+],
+  "geometry": {"coordinates":[-90.678332,38.507251],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 806573685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.458107,38.581973,-90.458107,38.581973",
+    "geom:latitude":38.581973,
+    "geom:longitude":-90.458107,
+    "iso:country":"US",
+    "sg:address":"12898 Whitehorse Ln",
+    "sg:city":"Saint Louis",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 909 9001",
+    "sg:postcode":"63131",
+    "sg:province":"MO",
+    "sg:tags":[
+        "building",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85839871,
+        102086173
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6kYM5ShTGYYlHZFDFDEwrJ_38.581973_-90.458107@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462599262,
+    "wof:geomhash":"8fd37b70844ab8b242ecefb143e3bfb9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086173,
+            "neighbourhood_id":85839871,
+            "region_id":85688661,
+            "venue_id":806573685
+        }
+    ],
+    "wof:id":806573685,
+    "wof:lastmodified":1462599262,
+    "wof:name":"Flagship Properties",
+    "wof:parent_id":85839871,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -90.458107,
+    38.581973,
+    -90.458107,
+    38.581973
+],
+  "geometry": {"coordinates":[-90.458107,38.581973],"type":"Point"}
+}

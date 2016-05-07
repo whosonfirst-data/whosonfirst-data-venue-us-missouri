@@ -1,0 +1,83 @@
+{
+  "id": 773555783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.2132,38.598077,-90.2132,38.598077",
+    "geom:latitude":38.598077,
+    "geom:longitude":-90.2132,
+    "iso:country":"US",
+    "sg:address":"1127 Pestalozzi St",
+    "sg:city":"St Louis",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Gifts & Souvenirs",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 577 2297",
+    "sg:postcode":"63118",
+    "sg:province":"MO",
+    "sg:tags":[
+        "shop",
+        "brewer"
+    ],
+    "sg:website":"www.budweiser.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85867037,
+        102191575,
+        404518053,
+        85633793,
+        85971343,
+        102080791,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3MA6oUZL2UwJvFsTbUD3Ei_38.598077_-90.213200@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462586613,
+    "wof:geomhash":"e4ebe9cdfaddcaa66801909c696f1bd4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080791,
+            "localadmin_id":404518053,
+            "locality_id":85971343,
+            "neighbourhood_id":85867037,
+            "region_id":85688661,
+            "venue_id":773555783
+        }
+    ],
+    "wof:id":773555783,
+    "wof:lastmodified":1462586613,
+    "wof:name":"Anheuser-Busch Inc",
+    "wof:parent_id":85867037,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "brewer"
+    ]
+},
+  "bbox": [
+    -90.2132,
+    38.598077,
+    -90.2132,
+    38.598077
+],
+  "geometry": {"coordinates":[-90.2132,38.598077],"type":"Point"}
+}

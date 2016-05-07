@@ -1,0 +1,81 @@
+{
+  "id": 807098539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.445153,37.77183,-90.445153,37.77183",
+    "geom:latitude":37.77183,
+    "geom:longitude":-90.445153,
+    "iso:country":"US",
+    "sg:address":"1627 W Columbia St",
+    "sg:city":"Farmington",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/st-francois/291659-spokes-pub--grill/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 756 6220",
+    "sg:postcode":"63640",
+    "sg:province":"MO",
+    "sg:tags":[
+        "food",
+        "american",
+        "pub"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970665,
+        102085297,
+        85816309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2OIGGsOdD1FJgcSsvEfW7Z_37.771747_-90.445523@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462603705,
+    "wof:geomhash":"9ae95ddf9f73757adc777aa2cb89ed2f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085297,
+            "locality_id":85970665,
+            "neighbourhood_id":85816309,
+            "region_id":85688661,
+            "venue_id":807098539
+        }
+    ],
+    "wof:id":807098539,
+    "wof:lastmodified":1462603705,
+    "wof:name":"Spokes Pub & Grill",
+    "wof:parent_id":85816309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "food",
+        "american",
+        "pub"
+    ]
+},
+  "bbox": [
+    -90.445153,
+    37.77183,
+    -90.445153,
+    37.77183
+],
+  "geometry": {"coordinates":[-90.445153,37.77183],"type":"Point"}
+}

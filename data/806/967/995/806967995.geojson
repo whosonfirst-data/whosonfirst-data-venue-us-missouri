@@ -1,0 +1,75 @@
+{
+  "id": 806967995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.569807,39.287376,-94.569807,39.287376",
+    "geom:latitude":39.287376,
+    "geom:longitude":-94.569807,
+    "iso:country":"US",
+    "sg:address":"10614 N Charlotte St",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 734 4212",
+    "sg:postcode":"64155",
+    "sg:province":"MO",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970739,
+        102086177,
+        85836329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2YaT3xsdWJffgkF0sBHiCH_39.287376_-94.569807@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462602591,
+    "wof:geomhash":"22f139add9371a882725c68217e2a274",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086177,
+            "locality_id":85970739,
+            "neighbourhood_id":85836329,
+            "region_id":85688661,
+            "venue_id":806967995
+        }
+    ],
+    "wof:id":806967995,
+    "wof:lastmodified":1462602591,
+    "wof:name":"Galloway Delivery Inc",
+    "wof:parent_id":85836329,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -94.569807,
+    39.287376,
+    -94.569807,
+    39.287376
+],
+  "geometry": {"coordinates":[-94.569807,39.287376],"type":"Point"}
+}

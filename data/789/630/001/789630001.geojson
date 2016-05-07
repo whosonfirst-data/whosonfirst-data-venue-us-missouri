@@ -1,0 +1,71 @@
+{
+  "id": 789630001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.904857,39.371723,-90.904857,39.371723",
+    "geom:latitude":39.371723,
+    "geom:longitude":-90.904857,
+    "iso:country":"US",
+    "sg:address":"109 N 1st St",
+    "sg:city":"Clarksville",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 242 3402",
+    "sg:postcode":"63336",
+    "sg:province":"MO",
+    "sg:tags":[
+        "club"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971907,
+        102086151,
+        85817909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7N8Sed32UsredAG0tyqc0y_39.371723_-90.904857@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462589292,
+    "wof:geomhash":"d3cd3f4670ba23d1f0473a6b87bce62f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086151,
+            "locality_id":85971907,
+            "neighbourhood_id":85817909,
+            "region_id":85688661,
+            "venue_id":789630001
+        }
+    ],
+    "wof:id":789630001,
+    "wof:lastmodified":1462589292,
+    "wof:name":"Veterans Of Foreign Wars",
+    "wof:parent_id":85817909,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "club"
+    ]
+},
+  "bbox": [
+    -90.904857,
+    39.371723,
+    -90.904857,
+    39.371723
+],
+  "geometry": {"coordinates":[-90.90485700000001,39.371723],"type":"Point"}
+}

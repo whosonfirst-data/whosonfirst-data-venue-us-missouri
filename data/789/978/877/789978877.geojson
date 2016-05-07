@@ -1,0 +1,69 @@
+{
+  "id": 789978877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.57527,38.140783,-90.57527,38.140783",
+    "geom:latitude":38.140783,
+    "geom:longitude":-90.57527,
+    "iso:country":"US",
+    "sg:address":"1809 Rock Rd",
+    "sg:city":"De Soto",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Self-service Laundry",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 586 2800",
+    "sg:postcode":"63020",
+    "sg:province":"MO",
+    "sg:tags":[
+        "coin"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85848677,
+        102080787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4jF5A9obXaREIFr8y43jnG_38.140783_-90.575270@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462592158,
+    "wof:geomhash":"0a73b14c30b80cdd08f022af4cc8548e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080787,
+            "neighbourhood_id":85848677,
+            "region_id":85688661,
+            "venue_id":789978877
+        }
+    ],
+    "wof:id":789978877,
+    "wof:lastmodified":1462592158,
+    "wof:name":"Wonder Wash Laundry",
+    "wof:parent_id":85848677,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "coin"
+    ]
+},
+  "bbox": [
+    -90.57527,
+    38.140783,
+    -90.57527,
+    38.140783
+],
+  "geometry": {"coordinates":[-90.57527,38.140783],"type":"Point"}
+}

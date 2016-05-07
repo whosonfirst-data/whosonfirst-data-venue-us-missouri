@@ -1,0 +1,90 @@
+{
+  "id": 806490665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.36117,38.383727,-90.36117,38.383727",
+    "geom:latitude":38.383727,
+    "geom:longitude":-90.36117,
+    "iso:country":"US",
+    "sg:address":"720 Lincoln Dr",
+    "sg:city":"Imperial",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 464 1316",
+    "sg:postcode":"63052",
+    "sg:province":"MO",
+    "sg:tags":[
+        "pet",
+        "boarding",
+        "sitting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420525373,
+        102191575,
+        404518285,
+        85633793,
+        85972523,
+        102080787,
+        85688661,
+        420525431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2E0XA828cyT79E3o7Q1Z5k_38.383727_-90.361170@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462598547,
+    "wof:geomhash":"9d0c1d7d2c1e9400f99c774b1cf57157",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080787,
+            "localadmin_id":404518285,
+            "locality_id":85972523,
+            "neighbourhood_id":420525373,
+            "region_id":85688661,
+            "venue_id":806490665
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080787,
+            "localadmin_id":404518285,
+            "locality_id":85972523,
+            "neighbourhood_id":420525431,
+            "region_id":85688661,
+            "venue_id":806490665
+        }
+    ],
+    "wof:id":806490665,
+    "wof:lastmodified":1462598547,
+    "wof:name":"Cat Chalet",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "boarding",
+        "sitting"
+    ]
+},
+  "bbox": [
+    -90.36117,
+    38.383727,
+    -90.36117,
+    38.383727
+],
+  "geometry": {"coordinates":[-90.36117,38.383727],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 806605741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.326319,38.953185,-92.326319,38.953185",
+    "geom:latitude":38.953185,
+    "geom:longitude":-92.326319,
+    "iso:country":"US",
+    "sg:address":"126 N 10th St",
+    "sg:city":"Columbia",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 874 7282",
+    "sg:postcode":"65201",
+    "sg:province":"MO",
+    "sg:tags":[
+        "bus",
+        "line",
+        "executive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85835171,
+        102191575,
+        404516389,
+        85633793,
+        85970425,
+        102086187,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6kulWJSkwooAX8uiuZ2bOL_38.953185_-92.326319@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462599534,
+    "wof:geomhash":"390efb2f1bbffba691db135caab943b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086187,
+            "localadmin_id":404516389,
+            "locality_id":85970425,
+            "neighbourhood_id":85835171,
+            "region_id":85688661,
+            "venue_id":806605741
+        }
+    ],
+    "wof:id":806605741,
+    "wof:lastmodified":1462599534,
+    "wof:name":"Columbia Transit System",
+    "wof:parent_id":85835171,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bus",
+        "line",
+        "executive"
+    ]
+},
+  "bbox": [
+    -92.326319,
+    38.953185,
+    -92.326319,
+    38.953185
+],
+  "geometry": {"coordinates":[-92.326319,38.953185],"type":"Point"}
+}

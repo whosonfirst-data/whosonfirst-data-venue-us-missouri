@@ -1,0 +1,73 @@
+{
+  "id": 773683001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.151194,37.385671,-93.151194,37.385671",
+    "geom:latitude":37.385671,
+    "geom:longitude":-93.151194,
+    "iso:country":"US",
+    "sg:address":"132 N Main St",
+    "sg:city":"Fair Grove",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 759 2556",
+    "sg:postcode":"65648",
+    "sg:province":"MO",
+    "sg:tags":[
+        "educational",
+        "administrative"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971363,
+        102087523,
+        85881137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ETXGJXnT52PVgJFoKYr5c_37.385671_-93.151194@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462587563,
+    "wof:geomhash":"1b3d6a32193e7a3ab51489624d78afcd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087523,
+            "locality_id":85971363,
+            "neighbourhood_id":85881137,
+            "region_id":85688661,
+            "venue_id":773683001
+        }
+    ],
+    "wof:id":773683001,
+    "wof:lastmodified":1462587563,
+    "wof:name":"Fair Grove Middle School",
+    "wof:parent_id":85881137,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "educational",
+        "administrative"
+    ]
+},
+  "bbox": [
+    -93.151194,
+    37.385671,
+    -93.151194,
+    37.385671
+],
+  "geometry": {"coordinates":[-93.151194,37.385671],"type":"Point"}
+}

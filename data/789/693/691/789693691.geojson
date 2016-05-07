@@ -1,0 +1,73 @@
+{
+  "id": 789693691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.518476,39.806799,-91.518476,39.806799",
+    "geom:latitude":39.806799,
+    "geom:longitude":-91.518476,
+    "iso:country":"US",
+    "sg:address":"409 Sherol Ct",
+    "sg:city":"Palmyra",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 769 3878",
+    "sg:postcode":"63461",
+    "sg:province":"MO",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688697,
+        85633793,
+        85938427,
+        102086213,
+        85867477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4LsAh0vUo2eBxvDgbcJIE2_39.806799_-91.518476@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462589808,
+    "wof:geomhash":"7449fa9acee34f22e67a6945f16bf1dc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086213,
+            "locality_id":85938427,
+            "neighbourhood_id":85867477,
+            "region_id":85688697,
+            "venue_id":789693691
+        }
+    ],
+    "wof:id":789693691,
+    "wof:lastmodified":1462589808,
+    "wof:name":"Sherol Court Apartments",
+    "wof:parent_id":85867477,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -91.518476,
+    39.806799,
+    -91.518476,
+    39.806799
+],
+  "geometry": {"coordinates":[-91.51847600000001,39.806799],"type":"Point"}
+}

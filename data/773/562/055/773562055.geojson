@@ -1,0 +1,78 @@
+{
+  "id": 773562055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.417407,39.839071,-92.417407,39.839071",
+    "geom:latitude":39.839071,
+    "geom:longitude":-92.417407,
+    "iso:country":"US",
+    "sg:address":"23861 Lumber Loop",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 660 239 4843",
+    "sg:postcode":"63530",
+    "sg:province":"MO",
+    "sg:tags":[
+        "concrete",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971149,
+        102086189,
+        85821499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7PwCizgsZfe0K1yUOG6C4C_39.839071_-92.417407@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462586664,
+    "wof:geomhash":"a45a39b77dab5d915bc3b0e092d8e206",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086189,
+            "locality_id":85971149,
+            "neighbourhood_id":85821499,
+            "region_id":85688661,
+            "venue_id":773562055
+        }
+    ],
+    "wof:id":773562055,
+    "wof:lastmodified":1462586664,
+    "wof:name":"Anderson & Sons Concrete Cnstr",
+    "wof:parent_id":85821499,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -92.417407,
+    39.839071,
+    -92.417407,
+    39.839071
+],
+  "geometry": {"coordinates":[-92.417407,39.839071],"type":"Point"}
+}

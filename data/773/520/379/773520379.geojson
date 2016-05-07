@@ -1,0 +1,71 @@
+{
+  "id": 773520379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.778556,37.931354,-91.778556,37.931354",
+    "geom:latitude":37.931354,
+    "geom:longitude":-91.778556,
+    "iso:country":"US",
+    "sg:address":"900 S Bishop Ave",
+    "sg:city":"Rolla",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 000 1111",
+    "sg:postcode":"65401",
+    "sg:province":"MO",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970821,
+        102086893,
+        85814531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2sTWfTyJxjy5Bon34pGppK_37.931354_-91.778556@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462586345,
+    "wof:geomhash":"39859e4f99c91ed61f9ceca0567f635d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086893,
+            "locality_id":85970821,
+            "neighbourhood_id":85814531,
+            "region_id":85688661,
+            "venue_id":773520379
+        }
+    ],
+    "wof:id":773520379,
+    "wof:lastmodified":1462586345,
+    "wof:name":"Aldi",
+    "wof:parent_id":85814531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -91.778556,
+    37.931354,
+    -91.778556,
+    37.931354
+],
+  "geometry": {"coordinates":[-91.77855599999999,37.931354],"type":"Point"}
+}

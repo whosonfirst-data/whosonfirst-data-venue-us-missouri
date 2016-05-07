@@ -1,0 +1,73 @@
+{
+  "id": 806581101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.526146,37.088025,-94.526146,37.088025",
+    "geom:latitude":37.088025,
+    "geom:longitude":-94.526146,
+    "iso:country":"US",
+    "sg:address":"1101 W 4th St",
+    "sg:city":"Joplin",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 623 4549",
+    "sg:postcode":"64801",
+    "sg:province":"MO",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970893,
+        102087525,
+        85810925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7a53wUYfR6l4ABMFFT1Qj7_37.088025_-94.526146@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462599318,
+    "wof:geomhash":"3c231833ffb9e5aedf984ef24d0b7038",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087525,
+            "locality_id":85970893,
+            "neighbourhood_id":85810925,
+            "region_id":85688661,
+            "venue_id":806581101
+        }
+    ],
+    "wof:id":806581101,
+    "wof:lastmodified":1462599318,
+    "wof:name":"Eleven-Eleven Mini Storage",
+    "wof:parent_id":85810925,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [
+    -94.526146,
+    37.088025,
+    -94.526146,
+    37.088025
+],
+  "geometry": {"coordinates":[-94.526146,37.088025],"type":"Point"}
+}

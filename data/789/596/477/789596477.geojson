@@ -1,0 +1,73 @@
+{
+  "id": 789596477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.758963,39.501101,-94.758963,39.501101",
+    "geom:latitude":39.501101,
+    "geom:longitude":-94.758963,
+    "iso:country":"US",
+    "sg:address":"23131 Interurban Rd",
+    "sg:city":"Dearborn",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 450 3724",
+    "sg:postcode":"64439",
+    "sg:province":"MO",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970739,
+        102085271,
+        85851839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_15MxUgxeIEc3xdshGPMGmD_39.501101_-94.758963@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462589031,
+    "wof:geomhash":"e41f04bf29587ade0b196c8518d51f2c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085271,
+            "locality_id":85970739,
+            "neighbourhood_id":85851839,
+            "region_id":85688661,
+            "venue_id":789596477
+        }
+    ],
+    "wof:id":789596477,
+    "wof:lastmodified":1462589031,
+    "wof:name":"Paden Electrical",
+    "wof:parent_id":85851839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -94.758963,
+    39.501101,
+    -94.758963,
+    39.501101
+],
+  "geometry": {"coordinates":[-94.75896299999999,39.501101],"type":"Point"}
+}

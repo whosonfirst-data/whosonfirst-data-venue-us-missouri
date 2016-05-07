@@ -1,0 +1,73 @@
+{
+  "id": 806523835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.509673,38.782633,-90.509673,38.782633",
+    "geom:latitude":38.782633,
+    "geom:longitude":-90.509673,
+    "iso:country":"US",
+    "sg:address":"750 Oak Leaf Dr",
+    "sg:city":"St Charles",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 724 7897",
+    "sg:postcode":"63301",
+    "sg:province":"MO",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2EBFKIOHq6eMZa5viUeJKa_38.782633_-90.509673@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462598815,
+    "wof:geomhash":"a6cd0e6cc5fa3081185f9bb25193c498",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":806523835
+        }
+    ],
+    "wof:id":806523835,
+    "wof:lastmodified":1462598815,
+    "wof:name":"Frank's Plumbing Co",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -90.509673,
+    38.782633,
+    -90.509673,
+    38.782633
+],
+  "geometry": {"coordinates":[-90.50967300000001,38.782633],"type":"Point"}
+}

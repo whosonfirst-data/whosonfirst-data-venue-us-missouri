@@ -1,0 +1,76 @@
+{
+  "id": 789668525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.372826,38.56987,-90.372826,38.56987",
+    "geom:latitude":38.56987,
+    "geom:longitude":-90.372826,
+    "iso:country":"US",
+    "sg:address":"1369 Grant Rd",
+    "sg:city":"St Louis",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 821 8112",
+    "sg:postcode":"63119",
+    "sg:province":"MO",
+    "sg:tags":[
+        "inspection"
+    ],
+    "sg:website":"www.benchmarkinspection.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85858243,
+        102191575,
+        404517253,
+        85633793,
+        85972177,
+        102086173,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7eXTSk7zerP1ulNhN7ptRv_38.569870_-90.372826@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462589617,
+    "wof:geomhash":"f4bbe56fbced4c67b87f7c0ada95cdda",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086173,
+            "localadmin_id":404517253,
+            "locality_id":85972177,
+            "neighbourhood_id":85858243,
+            "region_id":85688661,
+            "venue_id":789668525
+        }
+    ],
+    "wof:id":789668525,
+    "wof:lastmodified":1462589617,
+    "wof:name":"Benchmark Home Inspections",
+    "wof:parent_id":85858243,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "inspection"
+    ]
+},
+  "bbox": [
+    -90.372826,
+    38.56987,
+    -90.372826,
+    38.56987
+],
+  "geometry": {"coordinates":[-90.372826,38.56987],"type":"Point"}
+}

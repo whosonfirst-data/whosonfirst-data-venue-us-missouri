@@ -1,0 +1,75 @@
+{
+  "id": 806804099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.803107,37.992616,-91.803107,37.992616",
+    "geom:latitude":37.992616,
+    "geom:longitude":-91.803107,
+    "iso:country":"US",
+    "sg:address":"11875 Co Rd 8070",
+    "sg:city":"Rolla",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 364 9226",
+    "sg:postcode":"65401",
+    "sg:province":"MO",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970821,
+        102086893,
+        85814531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6C6bXzg41Tp1p6GSunAQov_37.992616_-91.803107@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462601221,
+    "wof:geomhash":"cc781be9c1c2a3427d2b4b956899f031",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086893,
+            "locality_id":85970821,
+            "neighbourhood_id":85814531,
+            "region_id":85688661,
+            "venue_id":806804099
+        }
+    ],
+    "wof:id":806804099,
+    "wof:lastmodified":1462601221,
+    "wof:name":"Dickey's Collision",
+    "wof:parent_id":85814531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -91.803107,
+    37.992616,
+    -91.803107,
+    37.992616
+],
+  "geometry": {"coordinates":[-91.803107,37.992616],"type":"Point"}
+}

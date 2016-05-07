@@ -1,0 +1,86 @@
+{
+  "id": 806896211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.514786,37.053455,-94.514786,37.053455",
+    "geom:latitude":37.053455,
+    "geom:longitude":-94.514786,
+    "iso:country":"US",
+    "sg:address":"3227 S Main St",
+    "sg:city":"Joplin",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 781 7315",
+    "sg:postcode":"64804",
+    "sg:province":"MO",
+    "sg:tags":[
+        "oil"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85885363,
+        102191575,
+        404518215,
+        85633793,
+        85970893,
+        102087525,
+        85688661,
+        85971289,
+        102087471,
+        85814333
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ceZsyZGbz1xFPD8GzwGtL_37.053455_-94.514786@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462601983,
+    "wof:geomhash":"83de2618f160d2ae10138f8dedde6d09",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087525,
+            "localadmin_id":404518215,
+            "locality_id":85970893,
+            "neighbourhood_id":85885363,
+            "region_id":85688661,
+            "venue_id":806896211
+        },
+        {
+            "country_id":85633793,
+            "county_id":102087471,
+            "locality_id":85971289,
+            "neighbourhood_id":85814333,
+            "region_id":85688661,
+            "venue_id":806896211
+        }
+    ],
+    "wof:id":806896211,
+    "wof:lastmodified":1462601983,
+    "wof:name":"Bob's Texaco",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "oil"
+    ]
+},
+  "bbox": [
+    -94.514786,
+    37.053455,
+    -94.514786,
+    37.053455
+],
+  "geometry": {"coordinates":[-94.514786,37.053455],"type":"Point"}
+}

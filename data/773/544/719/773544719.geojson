@@ -1,0 +1,71 @@
+{
+  "id": 773544719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.197475,39.341876,-91.197475,39.341876",
+    "geom:latitude":39.341876,
+    "geom:longitude":-91.197475,
+    "iso:country":"US",
+    "sg:address":"404 W Main St",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Telephone",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 800 235 9800",
+    "sg:postcode":"63334",
+    "sg:province":"MO",
+    "sg:tags":[
+        "communication"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971907,
+        102086151,
+        85817909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2bDjImd5VbB45phAw9GPcZ_39.341876_-91.197475@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462586520,
+    "wof:geomhash":"79c5d259e9e6f5eb715aa88059f3212f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086151,
+            "locality_id":85971907,
+            "neighbourhood_id":85817909,
+            "region_id":85688661,
+            "venue_id":773544719
+        }
+    ],
+    "wof:id":773544719,
+    "wof:lastmodified":1462586520,
+    "wof:name":"Southwestern Bell Telephone LP",
+    "wof:parent_id":85817909,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "communication"
+    ]
+},
+  "bbox": [
+    -91.197475,
+    39.341876,
+    -91.197475,
+    39.341876
+],
+  "geometry": {"coordinates":[-91.197475,39.341876],"type":"Point"}
+}

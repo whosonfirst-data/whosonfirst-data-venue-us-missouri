@@ -1,0 +1,73 @@
+{
+  "id": 806538907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.41635,37.781211,-90.41635,37.781211",
+    "geom:latitude":37.781211,
+    "geom:longitude":-90.41635,
+    "iso:country":"US",
+    "sg:address":"111 N Middle St",
+    "sg:city":"Farmington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 701 0582",
+    "sg:postcode":"63640",
+    "sg:province":"MO",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970665,
+        102085297,
+        85816309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_62dAXK0MqxDifg2on7yMOs_37.781211_-90.416350@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462598945,
+    "wof:geomhash":"65ed90b84749887b930b1fd3c45d06c3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085297,
+            "locality_id":85970665,
+            "neighbourhood_id":85816309,
+            "region_id":85688661,
+            "venue_id":806538907
+        }
+    ],
+    "wof:id":806538907,
+    "wof:lastmodified":1462598945,
+    "wof:name":"Mobile Techs",
+    "wof:parent_id":85816309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -90.41635,
+    37.781211,
+    -90.41635,
+    37.781211
+],
+  "geometry": {"coordinates":[-90.41634999999999,37.781211],"type":"Point"}
+}

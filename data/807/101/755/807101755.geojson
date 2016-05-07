@@ -1,0 +1,78 @@
+{
+  "id": 807101755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.234675,37.180413,-93.234675,37.180413",
+    "geom:latitude":37.180413,
+    "geom:longitude":-93.234675,
+    "iso:country":"US",
+    "sg:address":"3020 E Sunshine St",
+    "sg:city":"Springfield",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/springfield/190890-burger-king/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 886 6472",
+    "sg:postcode":"65804",
+    "sg:province":"MO",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85829759,
+        102191575,
+        404516201,
+        85633793,
+        85971363,
+        102087523,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7lTcOkumd4Y6FSD8WVAoc7_37.180496_-93.233975@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462603751,
+    "wof:geomhash":"a4c2bf19b2ee6d21dc31937107ecff89",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087523,
+            "localadmin_id":404516201,
+            "locality_id":85971363,
+            "neighbourhood_id":85829759,
+            "region_id":85688661,
+            "venue_id":807101755
+        }
+    ],
+    "wof:id":807101755,
+    "wof:lastmodified":1462603751,
+    "wof:name":"Burger King",
+    "wof:parent_id":85829759,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -93.234675,
+    37.180413,
+    -93.234675,
+    37.180413
+],
+  "geometry": {"coordinates":[-93.234675,37.180413],"type":"Point"}
+}

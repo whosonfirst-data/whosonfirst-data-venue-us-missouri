@@ -1,0 +1,83 @@
+{
+  "id": 807223961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.468315,39.026935,-94.468315,39.026935",
+    "geom:latitude":39.026935,
+    "geom:longitude":-94.468315,
+    "iso:country":"US",
+    "sg:address":"9500 E 53rd St",
+    "sg:city":"Raytown",
+    "sg:classifiers":[
+        {
+            "category":"Place Of Worship",
+            "subcategory":"Church",
+            "type":"Public Place"
+        },
+        {
+            "category":"Place Of Worship",
+            "subcategory":"",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 356 3007",
+    "sg:postcode":"64133",
+    "sg:province":"MO",
+    "sg:tags":[
+        "churches-baptist-general",
+        "churches-baptist"
+    ],
+    "sg:website":"http://www.brookingheights.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85867021,
+        102191575,
+        404518075,
+        85633793,
+        85970739,
+        102081227,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2KXqZEhGfdS3igACGAo0iG_39.026935_-94.468315@1303262933"
+    },
+    "wof:country":"US",
+    "wof:created":1462605052,
+    "wof:geomhash":"0edbd48be776983abec6ad2043e485a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081227,
+            "localadmin_id":404518075,
+            "locality_id":85970739,
+            "neighbourhood_id":85867021,
+            "region_id":85688661,
+            "venue_id":807223961
+        }
+    ],
+    "wof:id":807223961,
+    "wof:lastmodified":1462605052,
+    "wof:name":"Brooking Heights Baptist Church",
+    "wof:parent_id":85867021,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "churches-baptist-general",
+        "churches-baptist"
+    ]
+},
+  "bbox": [
+    -94.468315,
+    39.026935,
+    -94.468315,
+    39.026935
+],
+  "geometry": {"coordinates":[-94.468315,39.026935],"type":"Point"}
+}

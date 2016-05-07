@@ -1,0 +1,71 @@
+{
+  "id": 806816855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.15115,37.382721,-93.15115,37.382721",
+    "geom:latitude":37.382721,
+    "geom:longitude":-93.15115,
+    "iso:country":"US",
+    "sg:address":"102 S Main St",
+    "sg:city":"Fair Grove",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 759 9127",
+    "sg:postcode":"65648",
+    "sg:province":"MO",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971363,
+        102087523,
+        85881137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2qqrrhrFFqBR61OW5bUiKz_37.382721_-93.151150@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462601316,
+    "wof:geomhash":"329779a5fa53b286c079752b5e3f9000",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087523,
+            "locality_id":85971363,
+            "neighbourhood_id":85881137,
+            "region_id":85688661,
+            "venue_id":806816855
+        }
+    ],
+    "wof:id":806816855,
+    "wof:lastmodified":1462601316,
+    "wof:name":"Contractors",
+    "wof:parent_id":85881137,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -93.15115,
+    37.382721,
+    -93.15115,
+    37.382721
+],
+  "geometry": {"coordinates":[-93.15115,37.382721],"type":"Point"}
+}

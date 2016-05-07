@@ -1,0 +1,80 @@
+{
+  "id": 806489257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.527157,38.645764,-90.527157,38.645764",
+    "geom:latitude":38.645764,
+    "geom:longitude":-90.527157,
+    "iso:country":"US",
+    "sg:address":"14314 S Outer 40",
+    "sg:city":"Chesterfield",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 275 8557",
+    "sg:postcode":"63017",
+    "sg:province":"MO",
+    "sg:tags":[
+        "drinking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85805465,
+        102191575,
+        404517241,
+        85633793,
+        85972357,
+        102086173,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6zEd34eWp87JkwCjlxE0Nh_38.645764_-90.527157@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462598538,
+    "wof:geomhash":"13e8e9dad21ea7cc7bfc0671c9c2c963",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086173,
+            "localadmin_id":404517241,
+            "locality_id":85972357,
+            "neighbourhood_id":85805465,
+            "region_id":85688661,
+            "venue_id":806489257
+        }
+    ],
+    "wof:id":806489257,
+    "wof:lastmodified":1462598538,
+    "wof:name":"Sunset Bar & Grill",
+    "wof:parent_id":85805465,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drinking"
+    ]
+},
+  "bbox": [
+    -90.527157,
+    38.645764,
+    -90.527157,
+    38.645764
+],
+  "geometry": {"coordinates":[-90.527157,38.645764],"type":"Point"}
+}

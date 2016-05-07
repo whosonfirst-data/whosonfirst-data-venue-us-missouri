@@ -1,0 +1,76 @@
+{
+  "id": 789608093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.68397,38.8032,-90.68397,38.8032",
+    "geom:latitude":38.8032,
+    "geom:longitude":-90.68397,
+    "iso:country":"US",
+    "sg:address":"923 E Terra Ln",
+    "sg:city":"O Fallon",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 240 6095",
+    "sg:postcode":"63366",
+    "sg:province":"MO",
+    "sg:tags":[
+        "engineer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4kqtTqatslfj8Spm5yC323_38.803200_-90.683970@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462589126,
+    "wof:geomhash":"7029329e6cc2951da7363ddb714fccc1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":789608093
+        }
+    ],
+    "wof:id":789608093,
+    "wof:lastmodified":1462589126,
+    "wof:name":"Engineering Systems Inc",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "engineer"
+    ]
+},
+  "bbox": [
+    -90.68397,
+    38.8032,
+    -90.68397,
+    38.8032
+],
+  "geometry": {"coordinates":[-90.68397,38.8032],"type":"Point"}
+}

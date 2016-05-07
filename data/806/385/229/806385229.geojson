@@ -1,0 +1,73 @@
+{
+  "id": 806385229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.482941,38.788004,-90.482941,38.788004",
+    "geom:latitude":38.788004,
+    "geom:longitude":-90.482941,
+    "iso:country":"US",
+    "sg:address":"431 Decatur St",
+    "sg:city":"St Charles",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 946 2713",
+    "sg:postcode":"63301",
+    "sg:province":"MO",
+    "sg:tags":[
+        "organization",
+        "religious"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2wFpqlwMRJUEcRlu9yET7m_38.788004_-90.482941@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462597720,
+    "wof:geomhash":"2c622bdac43d10d839fdb5c8c34a98d3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":806385229
+        }
+    ],
+    "wof:id":806385229,
+    "wof:lastmodified":1462597720,
+    "wof:name":"St Charles Borromeo School",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organization",
+        "religious"
+    ]
+},
+  "bbox": [
+    -90.482941,
+    38.788004,
+    -90.482941,
+    38.788004
+],
+  "geometry": {"coordinates":[-90.482941,38.788004],"type":"Point"}
+}

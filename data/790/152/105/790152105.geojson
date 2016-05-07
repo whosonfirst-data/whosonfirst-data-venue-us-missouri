@@ -1,0 +1,73 @@
+{
+  "id": 790152105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.561031,36.979825,-94.561031,36.979825",
+    "geom:latitude":36.979825,
+    "geom:longitude":-94.561031,
+    "iso:country":"US",
+    "sg:address":"4820 Elm Dr",
+    "sg:city":"Joplin",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 781 0520",
+    "sg:postcode":"64804",
+    "sg:province":"MO",
+    "sg:tags":[
+        "operator",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971289,
+        102087471,
+        85814333
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ibgOfGZOBXDc6griHwx5I_36.979825_-94.561031@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462593520,
+    "wof:geomhash":"599849eba6e13baa0b8ee825889d9258",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087471,
+            "locality_id":85971289,
+            "neighbourhood_id":85814333,
+            "region_id":85688661,
+            "venue_id":790152105
+        }
+    ],
+    "wof:id":790152105,
+    "wof:lastmodified":1462593520,
+    "wof:name":"J & B Trucking",
+    "wof:parent_id":85814333,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -94.561031,
+    36.979825,
+    -94.561031,
+    36.979825
+],
+  "geometry": {"coordinates":[-94.561031,36.979825],"type":"Point"}
+}

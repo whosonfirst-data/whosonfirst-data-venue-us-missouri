@@ -1,0 +1,73 @@
+{
+  "id": 806583639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.895154,39.422384,-94.895154,39.422384",
+    "geom:latitude":39.422384,
+    "geom:longitude":-94.895154,
+    "iso:country":"US",
+    "sg:address":"18205 Library Dr",
+    "sg:city":"Weston",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 640 5521",
+    "sg:postcode":"64098",
+    "sg:province":"MO",
+    "sg:tags":[
+        "postal",
+        "us"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970739,
+        102085271,
+        85823759
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4BWTUYo8VoaBpj8l9eCHG8_39.422384_-94.895154@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462599342,
+    "wof:geomhash":"6d7e10eaa1f6261191bd931d8dca29b4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085271,
+            "locality_id":85970739,
+            "neighbourhood_id":85823759,
+            "region_id":85688661,
+            "venue_id":806583639
+        }
+    ],
+    "wof:id":806583639,
+    "wof:lastmodified":1462599342,
+    "wof:name":"US Post Office",
+    "wof:parent_id":85823759,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "postal",
+        "us"
+    ]
+},
+  "bbox": [
+    -94.895154,
+    39.422384,
+    -94.895154,
+    39.422384
+],
+  "geometry": {"coordinates":[-94.89515400000001,39.422384],"type":"Point"}
+}

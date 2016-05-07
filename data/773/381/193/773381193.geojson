@@ -1,0 +1,84 @@
+{
+  "id": 773381193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.436645,38.602026,-90.436645,38.602026",
+    "geom:latitude":38.602026,
+    "geom:longitude":-90.436645,
+    "iso:country":"US",
+    "sg:address":"12088 Manchester Rd",
+    "sg:city":"St Louis",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Shoe Repair & Shine",
+            "type":"Services"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Shoes",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 965 3112",
+    "sg:postcode":"63131",
+    "sg:province":"MO",
+    "sg:tags":[
+        "repairing",
+        "parlor",
+        "boot"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85858661,
+        102191575,
+        404517203,
+        85633793,
+        85972289,
+        102086173,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3t5gUJwAIKbwJQ4XwHE88C_38.602026_-90.436645@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462585259,
+    "wof:geomhash":"f9a01ad3cfb7c34046f4e0b7242ef76d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086173,
+            "localadmin_id":404517203,
+            "locality_id":85972289,
+            "neighbourhood_id":85858661,
+            "region_id":85688661,
+            "venue_id":773381193
+        }
+    ],
+    "wof:id":773381193,
+    "wof:lastmodified":1462585259,
+    "wof:name":"Des Peres Shoe Repair",
+    "wof:parent_id":85858661,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "parlor",
+        "boot"
+    ]
+},
+  "bbox": [
+    -90.436645,
+    38.602026,
+    -90.436645,
+    38.602026
+],
+  "geometry": {"coordinates":[-90.436645,38.602026],"type":"Point"}
+}

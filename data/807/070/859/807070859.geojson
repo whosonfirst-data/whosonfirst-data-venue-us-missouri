@@ -1,0 +1,72 @@
+{
+  "id": 807070859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.532824,38.785513,-90.532824,38.785513",
+    "geom:latitude":38.785513,
+    "geom:longitude":-90.532824,
+    "iso:country":"US",
+    "sg:address":"1998 Zumbehl Rd",
+    "sg:city":"Saint Charles",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/zumbehl/41801-bob-evans/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 949 0900",
+    "sg:postcode":"63303",
+    "sg:province":"MO",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6wzulkMnYD6qaeSjzpyckx_38.785513_-90.532824@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462603452,
+    "wof:geomhash":"2d77fec390229dee87db9285e79152fa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":807070859
+        }
+    ],
+    "wof:id":807070859,
+    "wof:lastmodified":1462603452,
+    "wof:name":"Bob Evans",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -90.532824,
+    38.785513,
+    -90.532824,
+    38.785513
+],
+  "geometry": {"coordinates":[-90.53282400000001,38.785513],"type":"Point"}
+}

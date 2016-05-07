@@ -1,0 +1,71 @@
+{
+  "id": 773689381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.523159,39.795262,-91.523159,39.795262",
+    "geom:latitude":39.795262,
+    "geom:longitude":-91.523159,
+    "iso:country":"US",
+    "sg:address":"106 W Jefferson St",
+    "sg:city":"Monticello",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 767 5430",
+    "sg:postcode":"63461",
+    "sg:province":"MO",
+    "sg:tags":[
+        "state"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688697,
+        85633793,
+        85938427,
+        102086213,
+        85867477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6tp9WM5JVwJQCFHC0rMIPO_39.795262_-91.523159@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462587610,
+    "wof:geomhash":"7ec4264b0619768896e23a85bd1de085",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086213,
+            "locality_id":85938427,
+            "neighbourhood_id":85867477,
+            "region_id":85688697,
+            "venue_id":773689381
+        }
+    ],
+    "wof:id":773689381,
+    "wof:lastmodified":1462587610,
+    "wof:name":"Mo State Highway Patrol",
+    "wof:parent_id":85867477,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state"
+    ]
+},
+  "bbox": [
+    -91.523159,
+    39.795262,
+    -91.523159,
+    39.795262
+],
+  "geometry": {"coordinates":[-91.52315900000001,39.795262],"type":"Point"}
+}

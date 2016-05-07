@@ -1,0 +1,74 @@
+{
+  "id": 807070127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.5183,38.828564,-90.5183,38.828564",
+    "geom:latitude":38.828564,
+    "geom:longitude":-90.5183,
+    "iso:country":"US",
+    "sg:address":"3821 Elm St",
+    "sg:city":"Saint Charles",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/rivers/201578-sonic/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 925 0044",
+    "sg:postcode":"63301",
+    "sg:province":"MO",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1EZ4cQZbYKFraR0uEUdTun_38.828564_-90.518300@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462603447,
+    "wof:geomhash":"1ca5ab99603a1328f1d92ea4548d7663",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":807070127
+        }
+    ],
+    "wof:id":807070127,
+    "wof:lastmodified":1462603447,
+    "wof:name":"Sonic",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -90.5183,
+    38.828564,
+    -90.5183,
+    38.828564
+],
+  "geometry": {"coordinates":[-90.5183,38.828564],"type":"Point"}
+}

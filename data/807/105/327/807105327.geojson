@@ -1,0 +1,79 @@
+{
+  "id": 807105327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.384377,38.411654,-90.384377,38.411654",
+    "geom:latitude":38.411654,
+    "geom:longitude":-90.384377,
+    "iso:country":"US",
+    "sg:address":"3607 Richardson Square Dr",
+    "sg:city":"Arnold",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        },
+        {
+            "category":"Education",
+            "subcategory":"Preschool",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 464 8111",
+    "sg:postcode":"63010",
+    "sg:province":"MO",
+    "sg:tags":[
+        "kindergarten",
+        "nursery",
+        "day"
+    ],
+    "sg:website":"http://www.lapetite.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85805175,
+        102080787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4IQdvNq0iRO5AzAYdshRh3_38.411654_-90.384377@1303262925"
+    },
+    "wof:country":"US",
+    "wof:created":1462603787,
+    "wof:geomhash":"f9695faa7c9a70c68cf72c76384e0819",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080787,
+            "neighbourhood_id":85805175,
+            "region_id":85688661,
+            "venue_id":807105327
+        }
+    ],
+    "wof:id":807105327,
+    "wof:lastmodified":1462603787,
+    "wof:name":"La Petite Academy",
+    "wof:parent_id":85805175,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "kindergarten",
+        "nursery",
+        "day"
+    ]
+},
+  "bbox": [
+    -90.384377,
+    38.411654,
+    -90.384377,
+    38.411654
+],
+  "geometry": {"coordinates":[-90.384377,38.411654],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 807099717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.66107,39.246831,-94.66107,39.246831",
+    "geom:latitude":39.246831,
+    "geom:longitude":-94.66107,
+    "iso:country":"US",
+    "sg:address":"7007 NW Barry Rd",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/may/37982-minskys-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 741 2737",
+    "sg:postcode":"64153",
+    "sg:province":"MO",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970739,
+        102085271,
+        85851839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4cWmjECJGJlMsHQkfn0PXV_39.246827_-94.661472@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462603718,
+    "wof:geomhash":"5177ecd6ec2306414182c6dbe607f1bf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085271,
+            "locality_id":85970739,
+            "neighbourhood_id":85851839,
+            "region_id":85688661,
+            "venue_id":807099717
+        }
+    ],
+    "wof:id":807099717,
+    "wof:lastmodified":1462603718,
+    "wof:name":"Minsky's Pizza",
+    "wof:parent_id":85851839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -94.66107,
+    39.246831,
+    -94.66107,
+    39.246831
+],
+  "geometry": {"coordinates":[-94.66107,39.246831],"type":"Point"}
+}

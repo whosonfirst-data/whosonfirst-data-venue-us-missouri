@@ -1,0 +1,71 @@
+{
+  "id": 789599865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.390714,38.416404,-90.390714,38.416404",
+    "geom:latitude":38.416404,
+    "geom:longitude":-90.390714,
+    "iso:country":"US",
+    "sg:address":"3850 Vogel Rd",
+    "sg:city":"Arnold",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 287 1717",
+    "sg:postcode":"63010",
+    "sg:province":"MO",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85805175,
+        102080787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5swr8FcNeHH66iY0IsMcBF_38.416404_-90.390714@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462589066,
+    "wof:geomhash":"41101c386b78c2da69b53a1988ebb000",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080787,
+            "neighbourhood_id":85805175,
+            "region_id":85688661,
+            "venue_id":789599865
+        }
+    ],
+    "wof:id":789599865,
+    "wof:lastmodified":1462589066,
+    "wof:name":"STORAGE Banc & Lipton Realty",
+    "wof:parent_id":85805175,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [
+    -90.390714,
+    38.416404,
+    -90.390714,
+    38.416404
+],
+  "geometry": {"coordinates":[-90.390714,38.416404],"type":"Point"}
+}

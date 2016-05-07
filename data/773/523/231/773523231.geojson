@@ -1,0 +1,76 @@
+{
+  "id": 773523231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.379372,39.118441,-94.379372,39.118441",
+    "geom:latitude":39.118441,
+    "geom:longitude":-94.379372,
+    "iso:country":"US",
+    "sg:address":"16220 US Hwy 24",
+    "sg:city":"Independence",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Discount & Variety Stores",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 257 2880",
+    "sg:postcode":"64056",
+    "sg:province":"MO",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971449,
+        102081227,
+        85844675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0vuJuTGYouKtOMnxMpaX4j_39.118441_-94.379372@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462586363,
+    "wof:geomhash":"cdd9617094c87594088696eb2b44e506",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081227,
+            "locality_id":85971449,
+            "neighbourhood_id":85844675,
+            "region_id":85688661,
+            "venue_id":773523231
+        }
+    ],
+    "wof:id":773523231,
+    "wof:lastmodified":1462586363,
+    "wof:name":"Dollar General",
+    "wof:parent_id":85844675,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -94.379372,
+    39.118441,
+    -94.379372,
+    39.118441
+],
+  "geometry": {"coordinates":[-94.379372,39.118441],"type":"Point"}
+}

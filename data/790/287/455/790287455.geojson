@@ -1,0 +1,73 @@
+{
+  "id": 790287455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.642468,38.366562,-90.642468,38.366562",
+    "geom:latitude":38.366562,
+    "geom:longitude":-90.642468,
+    "iso:country":"US",
+    "sg:address":"8425 Schumacher Ln",
+    "sg:city":"Cedar Hill",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 274 0580",
+    "sg:postcode":"63016",
+    "sg:province":"MO",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85805175,
+        102080787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5vKAxf7IFahVc0Hzk3up2e_38.366562_-90.642468@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462594665,
+    "wof:geomhash":"57c997c4efa0350d6700bff5e64c28b4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080787,
+            "neighbourhood_id":85805175,
+            "region_id":85688661,
+            "venue_id":790287455
+        }
+    ],
+    "wof:id":790287455,
+    "wof:lastmodified":1462594665,
+    "wof:name":"Ross Trucking",
+    "wof:parent_id":85805175,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -90.642468,
+    38.366562,
+    -90.642468,
+    38.366562
+],
+  "geometry": {"coordinates":[-90.64246799999999,38.366562],"type":"Point"}
+}

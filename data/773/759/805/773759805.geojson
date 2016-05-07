@@ -1,0 +1,75 @@
+{
+  "id": 773759805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.358939,39.135409,-94.358939,39.135409",
+    "geom:latitude":39.135409,
+    "geom:longitude":-94.358939,
+    "iso:country":"US",
+    "sg:address":"1606 N Ponca Dr",
+    "sg:city":"Independence",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 796 3950",
+    "sg:postcode":"64058",
+    "sg:province":"MO",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971449,
+        102081227,
+        85844675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4nv3r2SuvuTMxJnfarnTdb_39.135409_-94.358939@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462588170,
+    "wof:geomhash":"007ffe6baf89b4903734df6f512768a2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081227,
+            "locality_id":85971449,
+            "neighbourhood_id":85844675,
+            "region_id":85688661,
+            "venue_id":773759805
+        }
+    ],
+    "wof:id":773759805,
+    "wof:lastmodified":1462588170,
+    "wof:name":"Stockbridge Onette Trucking",
+    "wof:parent_id":85844675,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -94.358939,
+    39.135409,
+    -94.358939,
+    39.135409
+],
+  "geometry": {"coordinates":[-94.35893900000001,39.135409],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 790454181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.229504,38.624765,-90.229504,38.624765",
+    "geom:latitude":38.624765,
+    "geom:longitude":-90.229504,
+    "iso:country":"US",
+    "sg:address":"3101 Chouteau Ave",
+    "sg:city":"Saint Louis",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Jail",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 301 4999",
+    "sg:postcode":"63105",
+    "sg:province":"MO",
+    "sg:tags":[
+        "probation",
+        "parole"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85867035,
+        102191575,
+        404518053,
+        85633793,
+        85971343,
+        102080791,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_68QMfrXXSY3P9P46oXqexh_38.624765_-90.229504@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462595951,
+    "wof:geomhash":"461f8ffbc731b9c78d4a86e0ec11d8ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080791,
+            "localadmin_id":404518053,
+            "locality_id":85971343,
+            "neighbourhood_id":85867035,
+            "region_id":85688661,
+            "venue_id":790454181
+        }
+    ],
+    "wof:id":790454181,
+    "wof:lastmodified":1462595951,
+    "wof:name":"District 7s",
+    "wof:parent_id":85867035,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "probation",
+        "parole"
+    ]
+},
+  "bbox": [
+    -90.229504,
+    38.624765,
+    -90.229504,
+    38.624765
+],
+  "geometry": {"coordinates":[-90.22950400000001,38.624765],"type":"Point"}
+}

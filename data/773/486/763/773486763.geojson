@@ -1,0 +1,73 @@
+{
+  "id": 773486763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.51397,39.364775,-94.51397,39.364775",
+    "geom:latitude":39.364775,
+    "geom:longitude":-94.51397,
+    "iso:country":"US",
+    "sg:address":"14921 Green Briar Dr",
+    "sg:city":"Smithville",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 532 5077",
+    "sg:postcode":"64089",
+    "sg:province":"MO",
+    "sg:tags":[
+        "operator",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970739,
+        102086177,
+        85836329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ioM7KL5V0oWGym9Q9giFb_39.364775_-94.513970@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462586118,
+    "wof:geomhash":"836e4f63415af1382ac2d8f4d63356a0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086177,
+            "locality_id":85970739,
+            "neighbourhood_id":85836329,
+            "region_id":85688661,
+            "venue_id":773486763
+        }
+    ],
+    "wof:id":773486763,
+    "wof:lastmodified":1462586118,
+    "wof:name":"Midwest Dedicated Services",
+    "wof:parent_id":85836329,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -94.51397,
+    39.364775,
+    -94.51397,
+    39.364775
+],
+  "geometry": {"coordinates":[-94.51397,39.364775],"type":"Point"}
+}

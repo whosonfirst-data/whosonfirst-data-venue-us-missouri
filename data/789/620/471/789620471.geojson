@@ -1,0 +1,73 @@
+{
+  "id": 789620471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.539073,38.788168,-90.539073,38.788168",
+    "geom:latitude":38.788168,
+    "geom:longitude":-90.539073,
+    "iso:country":"US",
+    "sg:address":"3110 W Clay St",
+    "sg:city":"St Charles",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 946 3866",
+    "sg:postcode":"63301",
+    "sg:province":"MO",
+    "sg:tags":[
+        "drug",
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7IKLYaI9XnAaAOYsR0EBS8_38.788168_-90.539073@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462589221,
+    "wof:geomhash":"75d9ec29d420c32e83191bc32c879bad",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":789620471
+        }
+    ],
+    "wof:id":789620471,
+    "wof:lastmodified":1462589221,
+    "wof:name":"Standard Drug Stores",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drug",
+        "store"
+    ]
+},
+  "bbox": [
+    -90.539073,
+    38.788168,
+    -90.539073,
+    38.788168
+],
+  "geometry": {"coordinates":[-90.539073,38.788168],"type":"Point"}
+}

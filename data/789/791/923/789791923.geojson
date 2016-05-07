@@ -1,0 +1,71 @@
+{
+  "id": 789791923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.567399,37.178581,-94.567399,37.178581",
+    "geom:latitude":37.178581,
+    "geom:longitude":-94.567399,
+    "iso:country":"US",
+    "sg:address":"205 N Roney St",
+    "sg:city":"Carl Junction",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 649 7773",
+    "sg:postcode":"64834",
+    "sg:province":"MO",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970893,
+        102087525,
+        85810925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Bj0aVsBCoecK63pJU3mlE_37.178581_-94.567399@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462590579,
+    "wof:geomhash":"cab12e32142768598489b99c170d0331",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087525,
+            "locality_id":85970893,
+            "neighbourhood_id":85810925,
+            "region_id":85688661,
+            "venue_id":789791923
+        }
+    ],
+    "wof:id":789791923,
+    "wof:lastmodified":1462590579,
+    "wof:name":"Marty's Capri Salon",
+    "wof:parent_id":85810925,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -94.567399,
+    37.178581,
+    -94.567399,
+    37.178581
+],
+  "geometry": {"coordinates":[-94.56739899999999,37.178581],"type":"Point"}
+}

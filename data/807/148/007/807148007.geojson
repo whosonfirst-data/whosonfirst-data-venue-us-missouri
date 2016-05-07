@@ -1,0 +1,87 @@
+{
+  "id": 807148007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.232539,38.641184,-90.232539,38.641184",
+    "geom:latitude":38.641184,
+    "geom:longitude":-90.232539,
+    "iso:country":"US",
+    "sg:address":"3701 Grandel Sq",
+    "sg:city":"Saint Louis",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        },
+        {
+            "category":"Education",
+            "subcategory":"Preschool",
+            "type":"Public Place"
+        },
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 615 3600",
+    "sg:postcode":"63108",
+    "sg:province":"MO",
+    "sg:tags":[
+        "elementary",
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873637,
+        102191575,
+        404518053,
+        85633793,
+        85971343,
+        102080791,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0SXM8SQwD6rUjEpRjTwkcB_38.641184_-90.232539@1303262928"
+    },
+    "wof:country":"US",
+    "wof:created":1462604256,
+    "wof:geomhash":"76bf0f48fedcb82c2d5349eefdc8a652",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080791,
+            "localadmin_id":404518053,
+            "locality_id":85971343,
+            "neighbourhood_id":85873637,
+            "region_id":85688661,
+            "venue_id":807148007
+        }
+    ],
+    "wof:id":807148007,
+    "wof:lastmodified":1462604256,
+    "wof:name":"Discrimination",
+    "wof:parent_id":85873637,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "elementary",
+        "day"
+    ]
+},
+  "bbox": [
+    -90.232539,
+    38.641184,
+    -90.232539,
+    38.641184
+],
+  "geometry": {"coordinates":[-90.232539,38.641184],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 806880487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.228566,37.188745,-93.228566,37.188745",
+    "geom:latitude":37.188745,
+    "geom:longitude":-93.228566,
+    "iso:country":"US",
+    "sg:address":"1255 S John Ave",
+    "sg:city":"Springfield",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 883 8642",
+    "sg:postcode":"65804",
+    "sg:province":"MO",
+    "sg:tags":[
+        "house",
+        "builder"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971363,
+        102087523,
+        85881121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0NnhLeR5MqtNzmOO7O9Nw9_37.188745_-93.228566@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462601860,
+    "wof:geomhash":"04125fdbc5b2a8b8d739fa6594860f75",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087523,
+            "locality_id":85971363,
+            "neighbourhood_id":85881121,
+            "region_id":85688661,
+            "venue_id":806880487
+        }
+    ],
+    "wof:id":806880487,
+    "wof:lastmodified":1462601860,
+    "wof:name":"Boyd Building Company LLC",
+    "wof:parent_id":85881121,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house",
+        "builder"
+    ]
+},
+  "bbox": [
+    -93.228566,
+    37.188745,
+    -93.228566,
+    37.188745
+],
+  "geometry": {"coordinates":[-93.228566,37.188745],"type":"Point"}
+}

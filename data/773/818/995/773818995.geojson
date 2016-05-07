@@ -1,0 +1,73 @@
+{
+  "id": 773818995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.436167,37.780951,-90.436167,37.780951",
+    "geom:latitude":37.780951,
+    "geom:longitude":-90.436167,
+    "iso:country":"US",
+    "sg:address":"1103 W Liberty St",
+    "sg:city":"Farmington",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 756 5298",
+    "sg:postcode":"63640",
+    "sg:province":"MO",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970665,
+        102085297,
+        85816309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4zxuW82z9sluTElaNQKlhB_37.780951_-90.436167@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462588626,
+    "wof:geomhash":"b168c013a291816f1fb1866fee87c231",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085297,
+            "locality_id":85970665,
+            "neighbourhood_id":85816309,
+            "region_id":85688661,
+            "venue_id":773818995
+        }
+    ],
+    "wof:id":773818995,
+    "wof:lastmodified":1462588626,
+    "wof:name":"Comprehensive Cardiovascular",
+    "wof:parent_id":85816309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -90.436167,
+    37.780951,
+    -90.436167,
+    37.780951
+],
+  "geometry": {"coordinates":[-90.436167,37.780951],"type":"Point"}
+}

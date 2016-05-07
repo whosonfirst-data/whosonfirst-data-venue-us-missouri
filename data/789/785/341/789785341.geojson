@@ -1,0 +1,77 @@
+{
+  "id": 789785341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.389087,38.592768,-90.389087,38.592768",
+    "geom:latitude":38.592768,
+    "geom:longitude":-90.389087,
+    "iso:country":"US",
+    "sg:address":"702 Luckystone Ave",
+    "sg:city":"Saint Louis",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 822 5420",
+    "sg:postcode":"63122",
+    "sg:province":"MO",
+    "sg:tags":[
+        "cable",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85858243,
+        102191575,
+        404517253,
+        85633793,
+        85972177,
+        102086173,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_05dBbykdTbXQycGNXOdB5e_38.592768_-90.389087@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462590530,
+    "wof:geomhash":"9a9fe400df6c4a2fc1f4f6fadf37ba5d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086173,
+            "localadmin_id":404517253,
+            "locality_id":85972177,
+            "neighbourhood_id":85858243,
+            "region_id":85688661,
+            "venue_id":789785341
+        }
+    ],
+    "wof:id":789785341,
+    "wof:lastmodified":1462590530,
+    "wof:name":"Shockley Communications",
+    "wof:parent_id":85858243,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cable",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -90.389087,
+    38.592768,
+    -90.389087,
+    38.592768
+],
+  "geometry": {"coordinates":[-90.389087,38.592768],"type":"Point"}
+}

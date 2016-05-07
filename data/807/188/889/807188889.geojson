@@ -1,0 +1,80 @@
+{
+  "id": 807188889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.442144,39.80177,-92.442144,39.80177",
+    "geom:latitude":39.80177,
+    "geom:longitude":-92.442144,
+    "iso:country":"US",
+    "sg:address":"26473 Lynx Ave",
+    "sg:city":"Macon",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 660 385 7000",
+    "sg:postcode":"63552",
+    "sg:province":"MO",
+    "sg:tags":[
+        "fence-sales",
+        "fence",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971149,
+        102086189,
+        85821499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3SZRwWm7oQYtplPD3Uyq2H_39.801770_-92.442144@1303262931"
+    },
+    "wof:country":"US",
+    "wof:created":1462604679,
+    "wof:geomhash":"8120d7c4083e5d25071fa3006ea4637b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086189,
+            "locality_id":85971149,
+            "neighbourhood_id":85821499,
+            "region_id":85688661,
+            "venue_id":807188889
+        }
+    ],
+    "wof:id":807188889,
+    "wof:lastmodified":1462604679,
+    "wof:name":"Fencing Pros",
+    "wof:parent_id":85821499,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fence-sales",
+        "fence",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -92.442144,
+    39.80177,
+    -92.442144,
+    39.80177
+],
+  "geometry": {"coordinates":[-92.442144,39.80177],"type":"Point"}
+}

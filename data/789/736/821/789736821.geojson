@@ -1,0 +1,73 @@
+{
+  "id": 789736821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.605833,38.864785,-90.605833,38.864785",
+    "geom:latitude":38.864785,
+    "geom:longitude":-90.605833,
+    "iso:country":"US",
+    "sg:address":"411 Pecan Ave",
+    "sg:city":"St Charles",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Auto Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 422 8865",
+    "sg:postcode":"63301",
+    "sg:province":"MO",
+    "sg:tags":[
+        "machine",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6NajXV7RBhex90CtQgoYcJ_38.864785_-90.605833@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462590151,
+    "wof:geomhash":"b4d00767917bf012b787c46f26617a98",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":789736821
+        }
+    ],
+    "wof:id":789736821,
+    "wof:lastmodified":1462590151,
+    "wof:name":"Mike Williams Sales",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "shop"
+    ]
+},
+  "bbox": [
+    -90.605833,
+    38.864785,
+    -90.605833,
+    38.864785
+],
+  "geometry": {"coordinates":[-90.605833,38.864785],"type":"Point"}
+}

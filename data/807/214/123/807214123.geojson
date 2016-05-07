@@ -1,0 +1,90 @@
+{
+  "id": 807214123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.341164,39.038219,-94.341164,39.038219",
+    "geom:latitude":39.038219,
+    "geom:longitude":-94.341164,
+    "iso:country":"US",
+    "sg:address":"4200 Little Blue Pkwy",
+    "sg:city":"Independence",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        },
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        },
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 358 5000",
+    "sg:postcode":"64057",
+    "sg:province":"MO",
+    "sg:tags":[
+        "loan",
+        "planner",
+        "mortgage"
+    ],
+    "sg:website":"http://www.blueridgebank.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85847737,
+        102191575,
+        404518081,
+        85633793,
+        85971453,
+        102081227,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7XXj9bOVpRnn1LyVU54FsR_39.038219_-94.341164@1303262932"
+    },
+    "wof:country":"US",
+    "wof:created":1462604939,
+    "wof:geomhash":"63de68d98663c9839f36864d2e98b3ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081227,
+            "localadmin_id":404518081,
+            "locality_id":85971453,
+            "neighbourhood_id":85847737,
+            "region_id":85688661,
+            "venue_id":807214123
+        }
+    ],
+    "wof:id":807214123,
+    "wof:lastmodified":1462604939,
+    "wof:name":"Blue Ridge Bank & Trust Co",
+    "wof:parent_id":85847737,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "loan",
+        "planner",
+        "mortgage"
+    ]
+},
+  "bbox": [
+    -94.341164,
+    39.038219,
+    -94.341164,
+    39.038219
+],
+  "geometry": {"coordinates":[-94.34116400000001,39.038219],"type":"Point"}
+}

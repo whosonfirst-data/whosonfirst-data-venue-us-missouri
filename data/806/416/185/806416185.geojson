@@ -1,0 +1,71 @@
+{
+  "id": 806416185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.131262,38.541852,-92.131262,38.541852",
+    "geom:latitude":38.541852,
+    "geom:longitude":-92.131262,
+    "iso:country":"US",
+    "sg:address":"2914 Bess Hill Rd",
+    "sg:city":"Jefferson City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 635 9993",
+    "sg:postcode":"65101",
+    "sg:province":"MO",
+    "sg:tags":[
+        "appliance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970647,
+        102087511,
+        85837745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ON7Pp2yfreQO6I2gPGtam_38.541852_-92.131262@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462597981,
+    "wof:geomhash":"625117a1bdecccfcacb688ffa9a71255",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087511,
+            "locality_id":85970647,
+            "neighbourhood_id":85837745,
+            "region_id":85688661,
+            "venue_id":806416185
+        }
+    ],
+    "wof:id":806416185,
+    "wof:lastmodified":1462597981,
+    "wof:name":"Knaebel Appliance Repair",
+    "wof:parent_id":85837745,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "appliance"
+    ]
+},
+  "bbox": [
+    -92.131262,
+    38.541852,
+    -92.131262,
+    38.541852
+],
+  "geometry": {"coordinates":[-92.13126200000001,38.541852],"type":"Point"}
+}

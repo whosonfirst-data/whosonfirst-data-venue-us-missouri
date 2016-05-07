@@ -1,0 +1,71 @@
+{
+  "id": 789700345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.184648,38.504187,-92.184648,38.504187",
+    "geom:latitude":38.504187,
+    "geom:longitude":-92.184648,
+    "iso:country":"US",
+    "sg:address":"1200 Somerset Ln",
+    "sg:city":"Jefferson City",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 638 0474",
+    "sg:postcode":"65101",
+    "sg:province":"MO",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970647,
+        102087511,
+        85837745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Omh3DiaI14K5MdmyRfMJ0_38.504187_-92.184648@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462589860,
+    "wof:geomhash":"09a587a8325351f3366b2d9c5ed9e4ff",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087511,
+            "locality_id":85970647,
+            "neighbourhood_id":85837745,
+            "region_id":85688661,
+            "venue_id":789700345
+        }
+    ],
+    "wof:id":789700345,
+    "wof:lastmodified":1462589860,
+    "wof:name":"A C Systems Incorporated",
+    "wof:parent_id":85837745,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -92.184648,
+    38.504187,
+    -92.184648,
+    38.504187
+],
+  "geometry": {"coordinates":[-92.184648,38.504187],"type":"Point"}
+}

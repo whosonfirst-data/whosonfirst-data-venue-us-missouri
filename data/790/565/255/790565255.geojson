@@ -1,0 +1,84 @@
+{
+  "id": 790565255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.577774,39.090707,-94.577774,39.090707",
+    "geom:latitude":39.090707,
+    "geom:longitude":-94.577774,
+    "iso:country":"US",
+    "sg:address":"1809 Locust St",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Motor Vehicles & Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 221 8478",
+    "sg:postcode":"64108",
+    "sg:province":"MO",
+    "sg:tags":[
+        "travel",
+        "trailer",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872019,
+        102191575,
+        404518075,
+        85633793,
+        85970739,
+        102081227,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6fvqPFHJ8ce834IIVJ7YWn_39.090707_-94.577774@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462596918,
+    "wof:geomhash":"7447e325b382766ba00d87849ded7f4a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081227,
+            "localadmin_id":404518075,
+            "locality_id":85970739,
+            "neighbourhood_id":85872019,
+            "region_id":85688661,
+            "venue_id":790565255
+        }
+    ],
+    "wof:id":790565255,
+    "wof:lastmodified":1462596918,
+    "wof:name":"Steversons Trailer Co",
+    "wof:parent_id":85872019,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "travel",
+        "trailer",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -94.577774,
+    39.090707,
+    -94.577774,
+    39.090707
+],
+  "geometry": {"coordinates":[-94.57777400000001,39.090707],"type":"Point"}
+}

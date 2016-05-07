@@ -1,0 +1,67 @@
+{
+  "id": 790410125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.532713,38.785477,-90.532713,38.785477",
+    "geom:latitude":38.785477,
+    "geom:longitude":-90.532713,
+    "iso:country":"US",
+    "sg:address":"1930 Zumbehl Rd",
+    "sg:city":"St Charles",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Hardware",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 925 1195",
+    "sg:postcode":"63303",
+    "sg:province":"MO",
+    "sg:website":"www.sears.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0o9HFaqnbdwWZmInODUolN_38.785477_-90.532713@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462595614,
+    "wof:geomhash":"5f2b71dc3bff970549852f2ca298490c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":790410125
+        }
+    ],
+    "wof:id":790410125,
+    "wof:lastmodified":1462595614,
+    "wof:name":"Sears Hardware Store",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.532713,
+    38.785477,
+    -90.532713,
+    38.785477
+],
+  "geometry": {"coordinates":[-90.532713,38.785477],"type":"Point"}
+}

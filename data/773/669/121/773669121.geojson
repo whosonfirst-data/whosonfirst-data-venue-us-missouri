@@ -1,0 +1,71 @@
+{
+  "id": 773669121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.329435,37.121258,-93.329435,37.121258",
+    "geom:latitude":37.121258,
+    "geom:longitude":-93.329435,
+    "iso:country":"US",
+    "sg:address":"5118 Sterling Ct",
+    "sg:city":"Springfield",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 882 3084",
+    "sg:postcode":"65810",
+    "sg:province":"MO",
+    "sg:tags":[
+        "building",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85881143,
+        102087523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3fcY718WPOkOrNG9rcDIb0_37.121258_-93.329435@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462587460,
+    "wof:geomhash":"1d35149cc1dfbfea179b764587160ff2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087523,
+            "neighbourhood_id":85881143,
+            "region_id":85688661,
+            "venue_id":773669121
+        }
+    ],
+    "wof:id":773669121,
+    "wof:lastmodified":1462587460,
+    "wof:name":"Castlerock Properties",
+    "wof:parent_id":85881143,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -93.329435,
+    37.121258,
+    -93.329435,
+    37.121258
+],
+  "geometry": {"coordinates":[-93.329435,37.121258],"type":"Point"}
+}

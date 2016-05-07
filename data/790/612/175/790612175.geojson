@@ -1,0 +1,73 @@
+{
+  "id": 790612175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.406575,37.781602,-90.406575,37.781602",
+    "geom:latitude":37.781602,
+    "geom:longitude":-90.406575,
+    "iso:country":"US",
+    "sg:address":"1031 E Karsch Blvd",
+    "sg:city":"Farmington",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 756 7880",
+    "sg:postcode":"63640",
+    "sg:province":"MO",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970665,
+        102085297,
+        85816309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_31oNAe3H54hHmcWn2s7CNw_37.781602_-90.406575@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462597321,
+    "wof:geomhash":"eb21ac5a54e981641c878fa9e87b0880",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085297,
+            "locality_id":85970665,
+            "neighbourhood_id":85816309,
+            "region_id":85688661,
+            "venue_id":790612175
+        }
+    ],
+    "wof:id":790612175,
+    "wof:lastmodified":1462597321,
+    "wof:name":"Chand's Medical Office",
+    "wof:parent_id":85816309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -90.406575,
+    37.781602,
+    -90.406575,
+    37.781602
+],
+  "geometry": {"coordinates":[-90.406575,37.781602],"type":"Point"}
+}

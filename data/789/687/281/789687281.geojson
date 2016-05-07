@@ -1,0 +1,73 @@
+{
+  "id": 789687281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.465735,38.765374,-90.465735,38.765374",
+    "geom:latitude":38.765374,
+    "geom:longitude":-90.465735,
+    "iso:country":"US",
+    "sg:address":"13690 Lake Front Dr",
+    "sg:city":"Earth City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 731 4400",
+    "sg:postcode":"63044",
+    "sg:province":"MO",
+    "sg:tags":[
+        "truck",
+        "leasing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972341,
+        102086173,
+        85806637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5488NLeJd4njwS5J3453eg_38.765374_-90.465735@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462589757,
+    "wof:geomhash":"cf3d2c2f250e9d769e1bfa466a85f26d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086173,
+            "locality_id":85972341,
+            "neighbourhood_id":85806637,
+            "region_id":85688661,
+            "venue_id":789687281
+        }
+    ],
+    "wof:id":789687281,
+    "wof:lastmodified":1462589757,
+    "wof:name":"Penske",
+    "wof:parent_id":85806637,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck",
+        "leasing"
+    ]
+},
+  "bbox": [
+    -90.465735,
+    38.765374,
+    -90.465735,
+    38.765374
+],
+  "geometry": {"coordinates":[-90.465735,38.765374],"type":"Point"}
+}

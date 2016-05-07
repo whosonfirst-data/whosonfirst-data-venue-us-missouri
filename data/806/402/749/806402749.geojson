@@ -1,0 +1,71 @@
+{
+  "id": 806402749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.557471,37.14768,-94.557471,37.14768",
+    "geom:latitude":37.14768,
+    "geom:longitude":-94.557471,
+    "iso:country":"US",
+    "sg:address":"27797 Green Hill Ln",
+    "sg:city":"Carl Junction",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 649 7166",
+    "sg:postcode":"64834",
+    "sg:province":"MO",
+    "sg:tags":[
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970893,
+        102087525,
+        85810925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0keRudTGmtx9eBs5yOuGLr_37.147680_-94.557471@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462597859,
+    "wof:geomhash":"67714b75146bd6c48459a9370d190de7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087525,
+            "locality_id":85970893,
+            "neighbourhood_id":85810925,
+            "region_id":85688661,
+            "venue_id":806402749
+        }
+    ],
+    "wof:id":806402749,
+    "wof:lastmodified":1462597859,
+    "wof:name":"H & H Enterprise",
+    "wof:parent_id":85810925,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrecker"
+    ]
+},
+  "bbox": [
+    -94.557471,
+    37.14768,
+    -94.557471,
+    37.14768
+],
+  "geometry": {"coordinates":[-94.55747100000001,37.14768],"type":"Point"}
+}

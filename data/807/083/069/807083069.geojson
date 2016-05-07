@@ -1,0 +1,90 @@
+{
+  "id": 807083069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.587987,39.195914,-94.587987,39.195914",
+    "geom:latitude":39.195914,
+    "geom:longitude":-94.587987,
+    "iso:country":"US",
+    "sg:address":"600 NW Englewood Rd",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/gallatin/185097-side-pockets/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 455 9900",
+    "sg:postcode":"64118",
+    "sg:province":"MO",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420525303,
+        102191575,
+        404518075,
+        85633793,
+        85970739,
+        102081227,
+        85688661,
+        420525395,
+        404517563,
+        85970477,
+        102085271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6wEKnq2XeWvvOTSQFBKTyQ_39.195914_-94.587987@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462603558,
+    "wof:geomhash":"8b283c198d854506114d5de2ec8b0068",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081227,
+            "localadmin_id":404518075,
+            "locality_id":85970739,
+            "neighbourhood_id":420525303,
+            "region_id":85688661,
+            "venue_id":807083069
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085271,
+            "localadmin_id":404517563,
+            "locality_id":85970477,
+            "neighbourhood_id":420525395,
+            "region_id":85688661,
+            "venue_id":807083069
+        }
+    ],
+    "wof:id":807083069,
+    "wof:lastmodified":1462603558,
+    "wof:name":"Side Pockets",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -94.587987,
+    39.195914,
+    -94.587987,
+    39.195914
+],
+  "geometry": {"coordinates":[-94.587987,39.195914],"type":"Point"}
+}

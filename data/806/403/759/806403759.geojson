@@ -1,0 +1,73 @@
+{
+  "id": 806403759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.679609,38.790377,-90.679609,38.790377",
+    "geom:latitude":38.790377,
+    "geom:longitude":-90.679609,
+    "iso:country":"US",
+    "sg:address":"3 Dorchester Ct",
+    "sg:city":"St Peters",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 928 9021",
+    "sg:postcode":"63376",
+    "sg:province":"MO",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ZxVKcMgxS01jouRG2QvHm_38.790377_-90.679609@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462597866,
+    "wof:geomhash":"26b89f080fb48aaa13232f38b11f21a5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":806403759
+        }
+    ],
+    "wof:id":806403759,
+    "wof:lastmodified":1462597866,
+    "wof:name":"Anderson Plumbing Heating",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -90.679609,
+    38.790377,
+    -90.679609,
+    38.790377
+],
+  "geometry": {"coordinates":[-90.679609,38.790377],"type":"Point"}
+}

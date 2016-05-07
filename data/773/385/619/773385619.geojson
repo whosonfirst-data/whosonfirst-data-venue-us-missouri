@@ -1,0 +1,71 @@
+{
+  "id": 773385619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.619745,38.005375,-91.619745,38.005375",
+    "geom:latitude":38.005375,
+    "geom:longitude":-91.619745,
+    "iso:country":"US",
+    "sg:address":"108 N Outer Rd",
+    "sg:city":"Saint James",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 265 3917",
+    "sg:postcode":"65559",
+    "sg:province":"MO",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970819,
+        102086893,
+        85847353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6lGP1EUktXCwZPbhNHWG80_38.005375_-91.619745@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462585293,
+    "wof:geomhash":"4960a0b7aa65beb1d925dc70b8a6a128",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086893,
+            "locality_id":85970819,
+            "neighbourhood_id":85847353,
+            "region_id":85688661,
+            "venue_id":773385619
+        }
+    ],
+    "wof:id":773385619,
+    "wof:lastmodified":1462585293,
+    "wof:name":"McDonalds",
+    "wof:parent_id":85847353,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -91.619745,
+    38.005375,
+    -91.619745,
+    38.005375
+],
+  "geometry": {"coordinates":[-91.61974499999999,38.005375],"type":"Point"}
+}

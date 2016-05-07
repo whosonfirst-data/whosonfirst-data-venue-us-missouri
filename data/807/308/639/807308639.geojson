@@ -1,0 +1,73 @@
+{
+  "id": 807308639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.268951,37.240211,-93.268951,37.240211",
+    "geom:latitude":37.240211,
+    "geom:longitude":-93.268951,
+    "iso:country":"US",
+    "sg:address":"1445 E Kearney St",
+    "sg:city":"Springfield",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 882 5913",
+    "sg:postcode":"65803",
+    "sg:province":"MO",
+    "sg:tags":[
+        "hair",
+        "stylist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971363,
+        102087523,
+        85881137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_38XsITZcL59G5D6QBT5IP3_37.240211_-93.268951@1303262938"
+    },
+    "wof:country":"US",
+    "wof:created":1462605945,
+    "wof:geomhash":"1dc47fe7471733263ecc5398e78f4a50",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087523,
+            "locality_id":85971363,
+            "neighbourhood_id":85881137,
+            "region_id":85688661,
+            "venue_id":807308639
+        }
+    ],
+    "wof:id":807308639,
+    "wof:lastmodified":1462605945,
+    "wof:name":"Classic Salon",
+    "wof:parent_id":85881137,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hair",
+        "stylist"
+    ]
+},
+  "bbox": [
+    -93.268951,
+    37.240211,
+    -93.268951,
+    37.240211
+],
+  "geometry": {"coordinates":[-93.268951,37.240211],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 789830627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.775213,37.944514,-91.775213,37.944514",
+    "geom:latitude":37.944514,
+    "geom:longitude":-91.775213,
+    "iso:country":"US",
+    "sg:address":"16795 State Hwy E",
+    "sg:city":"Rolla",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Campground",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 458 2125",
+    "sg:postcode":"65401",
+    "sg:province":"MO",
+    "sg:tags":[
+        "camp"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970821,
+        102086893,
+        85814531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_12dnmad7Bf3WxveOOOjt0R_37.944514_-91.775213@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462590876,
+    "wof:geomhash":"cbd6d13e723c7816f26595afb8ea4e4d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086893,
+            "locality_id":85970821,
+            "neighbourhood_id":85814531,
+            "region_id":85688661,
+            "venue_id":789830627
+        }
+    ],
+    "wof:id":789830627,
+    "wof:lastmodified":1462590876,
+    "wof:name":"Bear River Ranch",
+    "wof:parent_id":85814531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "camp"
+    ]
+},
+  "bbox": [
+    -91.775213,
+    37.944514,
+    -91.775213,
+    37.944514
+],
+  "geometry": {"coordinates":[-91.77521299999999,37.944514],"type":"Point"}
+}

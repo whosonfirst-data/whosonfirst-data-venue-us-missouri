@@ -1,0 +1,71 @@
+{
+  "id": 773190131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.468244,38.568674,-90.468244,38.568674",
+    "geom:latitude":38.568674,
+    "geom:longitude":-90.468244,
+    "iso:country":"US",
+    "sg:address":"13458 Big Bend Rd",
+    "sg:city":"Saint Louis",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 225 8500",
+    "sg:postcode":"63122",
+    "sg:province":"MO",
+    "sg:tags":[
+        "body",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85839871,
+        102086173
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7X2faaE3UF8etuQ1XqsWYz_38.568674_-90.468244@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462583850,
+    "wof:geomhash":"e4d649a85469c39d0723480836fd5758",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086173,
+            "neighbourhood_id":85839871,
+            "region_id":85688661,
+            "venue_id":773190131
+        }
+    ],
+    "wof:id":773190131,
+    "wof:lastmodified":1462583850,
+    "wof:name":"Westwood Automotive Inc",
+    "wof:parent_id":85839871,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "general"
+    ]
+},
+  "bbox": [
+    -90.468244,
+    38.568674,
+    -90.468244,
+    38.568674
+],
+  "geometry": {"coordinates":[-90.468244,38.568674],"type":"Point"}
+}

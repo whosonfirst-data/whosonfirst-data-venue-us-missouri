@@ -1,0 +1,73 @@
+{
+  "id": 790151709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.776302,37.912924,-91.776302,37.912924",
+    "geom:latitude":37.912924,
+    "geom:longitude":-91.776302,
+    "iso:country":"US",
+    "sg:address":"12859 US Hwy 63",
+    "sg:city":"Rolla",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 368 2808",
+    "sg:postcode":"65401",
+    "sg:province":"MO",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970821,
+        102086893,
+        85814531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_72SC8P1FNYOHp0mbG8MjvU_37.912924_-91.776302@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462593517,
+    "wof:geomhash":"4259fb5f28dc068b8971014e0de0ae3c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086893,
+            "locality_id":85970821,
+            "neighbourhood_id":85814531,
+            "region_id":85688661,
+            "venue_id":790151709
+        }
+    ],
+    "wof:id":790151709,
+    "wof:lastmodified":1462593517,
+    "wof:name":"Car Care",
+    "wof:parent_id":85814531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -91.776302,
+    37.912924,
+    -91.776302,
+    37.912924
+],
+  "geometry": {"coordinates":[-91.776302,37.912924],"type":"Point"}
+}

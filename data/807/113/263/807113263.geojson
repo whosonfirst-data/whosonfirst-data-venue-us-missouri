@@ -1,0 +1,78 @@
+{
+  "id": 807113263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.611541,38.433103,-90.611541,38.433103",
+    "geom:latitude":38.433103,
+    "geom:longitude":-90.611541,
+    "iso:country":"US",
+    "sg:address":"157 Shady Hollow Dr",
+    "sg:city":"Eureka",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 587 3834",
+    "sg:postcode":"63025",
+    "sg:province":"MO",
+    "sg:tags":[
+        "cleaner",
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971019,
+        102080787,
+        85817237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1wFLQxWD7cuAsJBGrY3WMP_38.433103_-90.611541@1303262925"
+    },
+    "wof:country":"US",
+    "wof:created":1462603873,
+    "wof:geomhash":"ec4259e1764f42cde5ede303bd639f18",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080787,
+            "locality_id":85971019,
+            "neighbourhood_id":85817237,
+            "region_id":85688661,
+            "venue_id":807113263
+        }
+    ],
+    "wof:id":807113263,
+    "wof:lastmodified":1462603873,
+    "wof:name":"Unlimited Cleaning",
+    "wof:parent_id":85817237,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaner",
+        "house"
+    ]
+},
+  "bbox": [
+    -90.611541,
+    38.433103,
+    -90.611541,
+    38.433103
+],
+  "geometry": {"coordinates":[-90.611541,38.433103],"type":"Point"}
+}

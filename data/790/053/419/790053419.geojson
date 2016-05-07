@@ -1,0 +1,73 @@
+{
+  "id": 790053419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.083746,38.530654,-92.083746,38.530654",
+    "geom:latitude":38.530654,
+    "geom:longitude":-92.083746,
+    "iso:country":"US",
+    "sg:address":"6702 Liberty Rd",
+    "sg:city":"Jefferson City",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 690 6722",
+    "sg:postcode":"65101",
+    "sg:province":"MO",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970647,
+        102087511,
+        85837745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5n34sJ3osSDIv64bNsQ1Uc_38.530654_-92.083746@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462592752,
+    "wof:geomhash":"722be862e58d39e5b5f5a2a37c211c4a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087511,
+            "locality_id":85970647,
+            "neighbourhood_id":85837745,
+            "region_id":85688661,
+            "venue_id":790053419
+        }
+    ],
+    "wof:id":790053419,
+    "wof:lastmodified":1462592752,
+    "wof:name":"Liberty Storage",
+    "wof:parent_id":85837745,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [
+    -92.083746,
+    38.530654,
+    -92.083746,
+    38.530654
+],
+  "geometry": {"coordinates":[-92.083746,38.530654],"type":"Point"}
+}

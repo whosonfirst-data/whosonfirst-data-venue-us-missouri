@@ -1,0 +1,83 @@
+{
+  "id": 807165965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.211462,38.588788,-90.211462,38.588788",
+    "geom:latitude":38.588788,
+    "geom:longitude":-90.211462,
+    "iso:country":"US",
+    "sg:address":"3213-15 Cherokee St",
+    "sg:city":"St. Louis",
+    "sg:classifiers":[
+        {
+            "category":"Arts & Performance",
+            "subcategory":"Music",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Books",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 288 0712",
+    "sg:postcode":"63118",
+    "sg:province":"MO",
+    "sg:tags":[
+        "bookstore",
+        "venue"
+    ],
+    "sg:website":"www.archivescribe.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873687,
+        102191575,
+        404518053,
+        85633793,
+        85971343,
+        102080791,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3cdHZ6uKfxcbdj38WJBAtm_38.588788_-90.211462@1303262929"
+    },
+    "wof:country":"US",
+    "wof:created":1462604437,
+    "wof:geomhash":"e642d494fd18007ca68073821de20ddc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080791,
+            "localadmin_id":404518053,
+            "locality_id":85971343,
+            "neighbourhood_id":85873687,
+            "region_id":85688661,
+            "venue_id":807165965
+        }
+    ],
+    "wof:id":807165965,
+    "wof:lastmodified":1462604437,
+    "wof:name":"The Archive",
+    "wof:parent_id":85873687,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bookstore",
+        "venue"
+    ]
+},
+  "bbox": [
+    -90.211462,
+    38.588788,
+    -90.211462,
+    38.588788
+],
+  "geometry": {"coordinates":[-90.211462,38.588788],"type":"Point"}
+}

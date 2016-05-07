@@ -1,0 +1,73 @@
+{
+  "id": 773218255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.545125,37.01679,-94.545125,37.01679",
+    "geom:latitude":37.01679,
+    "geom:longitude":-94.545125,
+    "iso:country":"US",
+    "sg:address":"4066 Coyote Dr",
+    "sg:city":"Joplin",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 627 0965",
+    "sg:postcode":"64804",
+    "sg:province":"MO",
+    "sg:tags":[
+        "truck",
+        "cleaning"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971289,
+        102087471,
+        85814333
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_03RUyeOyaTiMkOsoCgcpwA_37.016790_-94.545125@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462584062,
+    "wof:geomhash":"336844ba9692bd36783280eb3e2c8f3d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087471,
+            "locality_id":85971289,
+            "neighbourhood_id":85814333,
+            "region_id":85688661,
+            "venue_id":773218255
+        }
+    ],
+    "wof:id":773218255,
+    "wof:lastmodified":1462584062,
+    "wof:name":"Peterbilt",
+    "wof:parent_id":85814333,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck",
+        "cleaning"
+    ]
+},
+  "bbox": [
+    -94.545125,
+    37.01679,
+    -94.545125,
+    37.01679
+],
+  "geometry": {"coordinates":[-94.545125,37.01679],"type":"Point"}
+}

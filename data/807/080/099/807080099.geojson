@@ -1,0 +1,78 @@
+{
+  "id": 807080099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.587726,39.10347,-94.587726,39.10347",
+    "geom:latitude":39.10347,
+    "geom:longitude":-94.587726,
+    "iso:country":"US",
+    "sg:address":"905 Broadway Blvd",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/kaw/149007-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 421 7827",
+    "sg:postcode":"64105",
+    "sg:province":"MO",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872005,
+        102191575,
+        404518075,
+        85633793,
+        85970739,
+        102081227,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3d2MmRGrywiKKdQW2DPyli_39.103470_-94.587726@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462603533,
+    "wof:geomhash":"b012016f6eb1c782d1f18dd4a4a2d0eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081227,
+            "localadmin_id":404518075,
+            "locality_id":85970739,
+            "neighbourhood_id":85872005,
+            "region_id":85688661,
+            "venue_id":807080099
+        }
+    ],
+    "wof:id":807080099,
+    "wof:lastmodified":1462603533,
+    "wof:name":"Subway",
+    "wof:parent_id":85872005,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -94.587726,
+    39.10347,
+    -94.587726,
+    39.10347
+],
+  "geometry": {"coordinates":[-94.587726,39.10347],"type":"Point"}
+}

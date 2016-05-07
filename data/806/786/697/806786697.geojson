@@ -1,0 +1,78 @@
+{
+  "id": 806786697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.489952,38.809381,-90.489952,38.809381",
+    "geom:latitude":38.809381,
+    "geom:longitude":-90.489952,
+    "iso:country":"US",
+    "sg:address":"30 Lark Ave",
+    "sg:city":"St Charles",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Chemicals & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 946 8095",
+    "sg:postcode":"63301",
+    "sg:province":"MO",
+    "sg:tags":[
+        "grocery",
+        "spice"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2OwTxA8pNbEzTzTxnyvXY0_38.809381_-90.489952@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462601074,
+    "wof:geomhash":"ae66935566ba41f9e2376319021f1812",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":806786697
+        }
+    ],
+    "wof:id":806786697,
+    "wof:lastmodified":1462601074,
+    "wof:name":"Watkins Quality Products",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocery",
+        "spice"
+    ]
+},
+  "bbox": [
+    -90.489952,
+    38.809381,
+    -90.489952,
+    38.809381
+],
+  "geometry": {"coordinates":[-90.489952,38.809381],"type":"Point"}
+}

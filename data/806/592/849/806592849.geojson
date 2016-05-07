@@ -1,0 +1,71 @@
+{
+  "id": 806592849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.196265,39.341883,-91.196265,39.341883",
+    "geom:latitude":39.341883,
+    "geom:longitude":-91.196265,
+    "iso:country":"US",
+    "sg:address":"210 W Main St",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Funeral Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 324 3311",
+    "sg:postcode":"63334",
+    "sg:province":"MO",
+    "sg:tags":[
+        "mortuary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971907,
+        102086151,
+        85817909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2p2A3NI7qbmZwRL2W6gz6B_39.341883_-91.196265@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462599419,
+    "wof:geomhash":"401db20ab8c16a12f43b8ab1483c2797",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086151,
+            "locality_id":85971907,
+            "neighbourhood_id":85817909,
+            "region_id":85688661,
+            "venue_id":806592849
+        }
+    ],
+    "wof:id":806592849,
+    "wof:lastmodified":1462599419,
+    "wof:name":"Kirks Funeral Home",
+    "wof:parent_id":85817909,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mortuary"
+    ]
+},
+  "bbox": [
+    -91.196265,
+    39.341883,
+    -91.196265,
+    39.341883
+],
+  "geometry": {"coordinates":[-91.196265,39.341883],"type":"Point"}
+}

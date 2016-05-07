@@ -1,0 +1,71 @@
+{
+  "id": 806722027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.128797,38.55736,-92.128797,38.55736",
+    "geom:latitude":38.55736,
+    "geom:longitude":-92.128797,
+    "iso:country":"US",
+    "sg:address":"2511 E McCarty St",
+    "sg:city":"Jefferson City",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 636 7143",
+    "sg:postcode":"65101",
+    "sg:province":"MO",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970647,
+        102087511,
+        85837745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5vESG0Y460osOSHXoSgOIt_38.557360_-92.128797@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462600521,
+    "wof:geomhash":"658e5646d16a44ed5fa4b2b99824371b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087511,
+            "locality_id":85970647,
+            "neighbourhood_id":85837745,
+            "region_id":85688661,
+            "venue_id":806722027
+        }
+    ],
+    "wof:id":806722027,
+    "wof:lastmodified":1462600521,
+    "wof:name":"East End Storage",
+    "wof:parent_id":85837745,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -92.128797,
+    38.55736,
+    -92.128797,
+    38.55736
+],
+  "geometry": {"coordinates":[-92.12879700000001,38.55736],"type":"Point"}
+}

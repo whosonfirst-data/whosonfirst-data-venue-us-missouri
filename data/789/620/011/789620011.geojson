@@ -1,0 +1,71 @@
+{
+  "id": 789620011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.575288,38.787107,-90.575288,38.787107",
+    "geom:latitude":38.787107,
+    "geom:longitude":-90.575288,
+    "iso:country":"US",
+    "sg:address":"40 Gailwood Dr",
+    "sg:city":"Saint Peters",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 936 8900",
+    "sg:postcode":"63376",
+    "sg:province":"MO",
+    "sg:tags":[
+        "business"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2w2Ip0wZa4phCLkWje2hb8_38.787107_-90.575288@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462589218,
+    "wof:geomhash":"199f877ed9044476fc8d2cb46ff0aecc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":789620011
+        }
+    ],
+    "wof:id":789620011,
+    "wof:lastmodified":1462589218,
+    "wof:name":"Coyne Inspection Group",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "business"
+    ]
+},
+  "bbox": [
+    -90.575288,
+    38.787107,
+    -90.575288,
+    38.787107
+],
+  "geometry": {"coordinates":[-90.575288,38.787107],"type":"Point"}
+}

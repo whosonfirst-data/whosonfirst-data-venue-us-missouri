@@ -1,0 +1,73 @@
+{
+  "id": 773612623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.352075,39.117349,-94.352075,39.117349",
+    "geom:latitude":39.117349,
+    "geom:longitude":-94.352075,
+    "iso:country":"US",
+    "sg:address":"19001 Susquehanna Ridge",
+    "sg:city":"Independence",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 796 0353",
+    "sg:postcode":"64056",
+    "sg:province":"MO",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971449,
+        102081227,
+        85844675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5DmBHD5cMLHc04CNKVTocg_39.117349_-94.352075@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462587030,
+    "wof:geomhash":"57585618b9fcce7ea4c13e8156a6e305",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081227,
+            "locality_id":85971449,
+            "neighbourhood_id":85844675,
+            "region_id":85688661,
+            "venue_id":773612623
+        }
+    ],
+    "wof:id":773612623,
+    "wof:lastmodified":1462587030,
+    "wof:name":"Stones Wiring",
+    "wof:parent_id":85844675,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -94.352075,
+    39.117349,
+    -94.352075,
+    39.117349
+],
+  "geometry": {"coordinates":[-94.352075,39.117349],"type":"Point"}
+}

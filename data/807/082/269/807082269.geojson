@@ -1,0 +1,76 @@
+{
+  "id": 807082269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.587409,39.034864,-94.587409,39.034864",
+    "geom:latitude":39.034864,
+    "geom:longitude":-94.587409,
+    "iso:country":"US",
+    "sg:address":"5101 Main St",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/kaw/12100-osteria-il-centro/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 561 2369",
+    "sg:postcode":"64112",
+    "sg:province":"MO",
+    "sg:tags":[
+        "italian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872031,
+        102191575,
+        404518075,
+        85633793,
+        85970739,
+        102081227,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_380p8lgoiP2oKLloA2zd6t_39.034864_-94.587409@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462603552,
+    "wof:geomhash":"4031c86dad9cd8ebcb3657db022b3174",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081227,
+            "localadmin_id":404518075,
+            "locality_id":85970739,
+            "neighbourhood_id":85872031,
+            "region_id":85688661,
+            "venue_id":807082269
+        }
+    ],
+    "wof:id":807082269,
+    "wof:lastmodified":1462603552,
+    "wof:name":"Osteria Il Centro",
+    "wof:parent_id":85872031,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "italian"
+    ]
+},
+  "bbox": [
+    -94.587409,
+    39.034864,
+    -94.587409,
+    39.034864
+],
+  "geometry": {"coordinates":[-94.58740899999999,39.034864],"type":"Point"}
+}

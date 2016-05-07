@@ -1,0 +1,71 @@
+{
+  "id": 773840509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.331972,37.158727,-93.331972,37.158727",
+    "geom:latitude":37.158727,
+    "geom:longitude":-93.331972,
+    "iso:country":"US",
+    "sg:address":"3120 S Scenic Ave",
+    "sg:city":"Springfield",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 888 0290",
+    "sg:postcode":"65807",
+    "sg:province":"MO",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85881151,
+        102087523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1P6oWNU2Pg8VrKsXogaLGy_37.158727_-93.331972@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462588822,
+    "wof:geomhash":"0c3984e3d07de893e9f401921c234be5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087523,
+            "neighbourhood_id":85881151,
+            "region_id":85688661,
+            "venue_id":773840509
+        }
+    ],
+    "wof:id":773840509,
+    "wof:lastmodified":1462588822,
+    "wof:name":"Southwest Storage",
+    "wof:parent_id":85881151,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [
+    -93.331972,
+    37.158727,
+    -93.331972,
+    37.158727
+],
+  "geometry": {"coordinates":[-93.33197199999999,37.158727],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 807083545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.503663,39.031928,-94.503663,39.031928",
+    "geom:latitude":39.031928,
+    "geom:longitude":-94.503663,
+    "iso:country":"US",
+    "sg:address":"5111 Ararat Dr",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/blue/65793-pizza-hut/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 921 2057",
+    "sg:postcode":"64129",
+    "sg:province":"MO",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85867021,
+        102191575,
+        404518075,
+        85633793,
+        85970739,
+        102081227,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7KwbgaCpmNCS4xbVflxa8M_39.031928_-94.503663@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462603562,
+    "wof:geomhash":"79b503ea557f7dd42a491eda28c77152",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081227,
+            "localadmin_id":404518075,
+            "locality_id":85970739,
+            "neighbourhood_id":85867021,
+            "region_id":85688661,
+            "venue_id":807083545
+        }
+    ],
+    "wof:id":807083545,
+    "wof:lastmodified":1462603562,
+    "wof:name":"Pizza Hut",
+    "wof:parent_id":85867021,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -94.503663,
+    39.031928,
+    -94.503663,
+    39.031928
+],
+  "geometry": {"coordinates":[-94.503663,39.031928],"type":"Point"}
+}

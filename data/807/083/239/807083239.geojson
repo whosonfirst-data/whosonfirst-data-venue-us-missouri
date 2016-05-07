@@ -1,0 +1,80 @@
+{
+  "id": 807083239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.548639,39.198543,-94.548639,39.198543",
+    "geom:latitude":39.198543,
+    "geom:longitude":-94.548639,
+    "iso:country":"US",
+    "sg:address":"5753 NE Antioch Rd",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/gallatin/122184-quiznos-sub/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 453 9000",
+    "sg:postcode":"64119",
+    "sg:province":"MO",
+    "sg:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85818319,
+        102191575,
+        404518075,
+        85633793,
+        85970739,
+        102081227,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1mijUy6fYE1nUVL69CXcFa_39.198543_-94.548639@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462603560,
+    "wof:geomhash":"34a198b1d3209fe5e8d4598db240141d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081227,
+            "localadmin_id":404518075,
+            "locality_id":85970739,
+            "neighbourhood_id":85818319,
+            "region_id":85688661,
+            "venue_id":807083239
+        }
+    ],
+    "wof:id":807083239,
+    "wof:lastmodified":1462603560,
+    "wof:name":"Quiznos Sub",
+    "wof:parent_id":85818319,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -94.548639,
+    39.198543,
+    -94.548639,
+    39.198543
+],
+  "geometry": {"coordinates":[-94.54863899999999,39.198543],"type":"Point"}
+}

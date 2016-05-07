@@ -1,0 +1,86 @@
+{
+  "id": 790204523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.246481,37.239651,-93.246481,37.239651",
+    "geom:latitude":37.239651,
+    "geom:longitude":-93.246481,
+    "iso:country":"US",
+    "sg:address":"2425 E Kearney St",
+    "sg:city":"Springfield",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        },
+        {
+            "category":"Airline",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 862 5078",
+    "sg:postcode":"65803",
+    "sg:province":"MO",
+    "sg:tags":[
+        "courier",
+        "air",
+        "delivery",
+        "operator",
+        "trucking",
+        "local"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971363,
+        102087523,
+        85881137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5WbIdD7aIdanwq2UvO7qdr_37.239651_-93.246481@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462593990,
+    "wof:geomhash":"db52436602723a7d25660abc24849c8c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087523,
+            "locality_id":85971363,
+            "neighbourhood_id":85881137,
+            "region_id":85688661,
+            "venue_id":790204523
+        }
+    ],
+    "wof:id":790204523,
+    "wof:lastmodified":1462593990,
+    "wof:name":"Greyhound Package Express",
+    "wof:parent_id":85881137,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "courier",
+        "air",
+        "delivery",
+        "operator",
+        "trucking",
+        "local"
+    ]
+},
+  "bbox": [
+    -93.246481,
+    37.239651,
+    -93.246481,
+    37.239651
+],
+  "geometry": {"coordinates":[-93.246481,37.239651],"type":"Point"}
+}

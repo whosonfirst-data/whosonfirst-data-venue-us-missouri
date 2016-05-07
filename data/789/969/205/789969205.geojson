@@ -1,0 +1,73 @@
+{
+  "id": 789969205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.826435,38.805377,-90.826435,38.805377",
+    "geom:latitude":38.805377,
+    "geom:longitude":-90.826435,
+    "iso:country":"US",
+    "sg:address":"1094 S Callahan Rd",
+    "sg:city":"Wentzville",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 332 0639",
+    "sg:postcode":"63385",
+    "sg:province":"MO",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2CBUApaTqODADEKnTa7OOu_38.805377_-90.826435@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462592075,
+    "wof:geomhash":"cf4a5e50f338980a1f8f2de8478dbe40",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":789969205
+        }
+    ],
+    "wof:id":789969205,
+    "wof:lastmodified":1462592075,
+    "wof:name":"Lock Tight Storage",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [
+    -90.826435,
+    38.805377,
+    -90.826435,
+    38.805377
+],
+  "geometry": {"coordinates":[-90.826435,38.805377],"type":"Point"}
+}

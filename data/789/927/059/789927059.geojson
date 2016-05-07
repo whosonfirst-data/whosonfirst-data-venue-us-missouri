@@ -1,0 +1,82 @@
+{
+  "id": 789927059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.562036,38.23465,-90.562036,38.23465",
+    "geom:latitude":38.23465,
+    "geom:longitude":-90.562036,
+    "iso:country":"US",
+    "sg:address":"10510 State Hwy 21",
+    "sg:city":"Hillsboro",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 789 9803",
+    "sg:postcode":"63050",
+    "sg:province":"MO",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "station",
+        "gasoline",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85848677,
+        102080787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2QqjRGMu5dfc23jA8Sbest_38.234650_-90.562036@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462591688,
+    "wof:geomhash":"36e50f04f3ba8d7a6cd4f6d898708f07",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080787,
+            "neighbourhood_id":85848677,
+            "region_id":85688661,
+            "venue_id":789927059
+        }
+    ],
+    "wof:id":789927059,
+    "wof:lastmodified":1462591688,
+    "wof:name":"Franken's Auto Repair Inc",
+    "wof:parent_id":85848677,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "station",
+        "gasoline",
+        "general"
+    ]
+},
+  "bbox": [
+    -90.562036,
+    38.23465,
+    -90.562036,
+    38.23465
+],
+  "geometry": {"coordinates":[-90.56203600000001,38.23465],"type":"Point"}
+}

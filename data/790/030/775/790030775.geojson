@@ -1,0 +1,71 @@
+{
+  "id": 790030775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.345276,39.131779,-94.345276,39.131779",
+    "geom:latitude":39.131779,
+    "geom:longitude":-94.345276,
+    "iso:country":"US",
+    "sg:address":"1612 Glen Ellyn St",
+    "sg:city":"Independence",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 796 9037",
+    "sg:postcode":"64056",
+    "sg:province":"MO",
+    "sg:tags":[
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971449,
+        102081227,
+        85844675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5PIUUTuuXiPLntOz4ycsHA_39.131779_-94.345276@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462592578,
+    "wof:geomhash":"354d791c76e6eda49bad5e87f3d7dc0c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081227,
+            "locality_id":85971449,
+            "neighbourhood_id":85844675,
+            "region_id":85688661,
+            "venue_id":790030775
+        }
+    ],
+    "wof:id":790030775,
+    "wof:lastmodified":1462592578,
+    "wof:name":"Heartland Home Cleaning",
+    "wof:parent_id":85844675,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -94.345276,
+    39.131779,
+    -94.345276,
+    39.131779
+],
+  "geometry": {"coordinates":[-94.345276,39.131779],"type":"Point"}
+}

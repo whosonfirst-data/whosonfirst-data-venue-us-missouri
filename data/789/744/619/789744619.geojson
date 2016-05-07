@@ -1,0 +1,77 @@
+{
+  "id": 789744619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.193722,38.630971,-90.193722,38.630971",
+    "geom:latitude":38.630971,
+    "geom:longitude":-90.193722,
+    "iso:country":"US",
+    "sg:address":"530 N 10th St",
+    "sg:city":"St Louis",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 436 6476",
+    "sg:postcode":"63101",
+    "sg:province":"MO",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873643,
+        102191575,
+        404518053,
+        85633793,
+        85971343,
+        102080791,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_06VV4qDKFVDUFOsHAcyV0P_38.630971_-90.193722@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462590215,
+    "wof:geomhash":"5a61c724e033eddb3499fbea01904f4b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080791,
+            "localadmin_id":404518053,
+            "locality_id":85971343,
+            "neighbourhood_id":85873643,
+            "region_id":85688661,
+            "venue_id":789744619
+        }
+    ],
+    "wof:id":789744619,
+    "wof:lastmodified":1462590215,
+    "wof:name":"Briner Electric",
+    "wof:parent_id":85873643,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -90.193722,
+    38.630971,
+    -90.193722,
+    38.630971
+],
+  "geometry": {"coordinates":[-90.19372199999999,38.630971],"type":"Point"}
+}

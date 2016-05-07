@@ -1,0 +1,71 @@
+{
+  "id": 807210349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.337916,39.437361,-94.337916,39.437361",
+    "geom:latitude":39.437361,
+    "geom:longitude":-94.337916,
+    "iso:country":"US",
+    "sg:address":"19616 NE 190th St",
+    "sg:city":"Holt",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 320 3474",
+    "sg:postcode":"64048",
+    "sg:province":"MO",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971507,
+        102086177,
+        85812855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5lqREc6dbVlf0vDSAdU0Ss_39.437361_-94.337916@1303262932"
+    },
+    "wof:country":"US",
+    "wof:created":1462604903,
+    "wof:geomhash":"eecd0f442fbcd6744683e07c81bd17f6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086177,
+            "locality_id":85971507,
+            "neighbourhood_id":85812855,
+            "region_id":85688661,
+            "venue_id":807210349
+        }
+    ],
+    "wof:id":807210349,
+    "wof:lastmodified":1462604903,
+    "wof:name":"D. E. Jackson, DVM",
+    "wof:parent_id":85812855,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -94.337916,
+    39.437361,
+    -94.337916,
+    39.437361
+],
+  "geometry": {"coordinates":[-94.33791600000001,39.437361],"type":"Point"}
+}

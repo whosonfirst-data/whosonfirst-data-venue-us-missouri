@@ -1,0 +1,75 @@
+{
+  "id": 773421121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.471744,38.767282,-90.471744,38.767282",
+    "geom:latitude":38.767282,
+    "geom:longitude":-90.471744,
+    "iso:country":"US",
+    "sg:address":"13878 Parksted Dr",
+    "sg:city":"Earth City",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 298 9911",
+    "sg:postcode":"63044",
+    "sg:province":"MO",
+    "sg:tags":[
+        "terminal",
+        "truck",
+        "facility"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972341,
+        102086173,
+        85806637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7UIwzPNy0oVhKmCjMaMU3p_38.767282_-90.471744@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462585582,
+    "wof:geomhash":"45f5b2ed9d36f029cf54931ba48989df",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086173,
+            "locality_id":85972341,
+            "neighbourhood_id":85806637,
+            "region_id":85688661,
+            "venue_id":773421121
+        }
+    ],
+    "wof:id":773421121,
+    "wof:lastmodified":1462585582,
+    "wof:name":"Winwell Distribution Inc",
+    "wof:parent_id":85806637,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "terminal",
+        "truck",
+        "facility"
+    ]
+},
+  "bbox": [
+    -90.471744,
+    38.767282,
+    -90.471744,
+    38.767282
+],
+  "geometry": {"coordinates":[-90.471744,38.767282],"type":"Point"}
+}

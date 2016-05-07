@@ -1,0 +1,73 @@
+{
+  "id": 789896819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.615404,37.998457,-91.615404,37.998457",
+    "geom:latitude":37.998457,
+    "geom:longitude":-91.615404,
+    "iso:country":"US",
+    "sg:address":"107 W Eldon St",
+    "sg:city":"St James",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 265 1818",
+    "sg:postcode":"65559",
+    "sg:province":"MO",
+    "sg:tags":[
+        "clinic",
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970819,
+        102086893,
+        85847353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2gOmzsK7q8xLU4W90ktIsU_37.998457_-91.615404@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462591418,
+    "wof:geomhash":"565c58910b8505bd12c4e5777a6948bf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086893,
+            "locality_id":85970819,
+            "neighbourhood_id":85847353,
+            "region_id":85688661,
+            "venue_id":789896819
+        }
+    ],
+    "wof:id":789896819,
+    "wof:lastmodified":1462591418,
+    "wof:name":"Saint John Clinic",
+    "wof:parent_id":85847353,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic",
+        "medical"
+    ]
+},
+  "bbox": [
+    -91.615404,
+    37.998457,
+    -91.615404,
+    37.998457
+],
+  "geometry": {"coordinates":[-91.615404,37.998457],"type":"Point"}
+}

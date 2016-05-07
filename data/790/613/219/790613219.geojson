@@ -1,0 +1,79 @@
+{
+  "id": 790613219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.210102,38.616277,-90.210102,38.616277",
+    "geom:latitude":38.616277,
+    "geom:longitude":-90.210102,
+    "iso:country":"US",
+    "sg:address":"1412 Dolman St",
+    "sg:city":"St Louis",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 241 1401",
+    "sg:postcode":"63104",
+    "sg:province":"MO",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873663,
+        102191575,
+        404518053,
+        85633793,
+        85971343,
+        102080791,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_25QhIkw04BPENR7tTj0B3v_38.616277_-90.210102@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462597335,
+    "wof:geomhash":"e8247795d408a2e62957b3a6d82f56a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080791,
+            "localadmin_id":404518053,
+            "locality_id":85971343,
+            "neighbourhood_id":85873663,
+            "region_id":85688661,
+            "venue_id":790613219
+        }
+    ],
+    "wof:id":790613219,
+    "wof:lastmodified":1462597335,
+    "wof:name":"Enders Auto Repair",
+    "wof:parent_id":85873663,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ]
+},
+  "bbox": [
+    -90.210102,
+    38.616277,
+    -90.210102,
+    38.616277
+],
+  "geometry": {"coordinates":[-90.21010200000001,38.616277],"type":"Point"}
+}

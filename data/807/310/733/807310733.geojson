@@ -1,0 +1,81 @@
+{
+  "id": 807310733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.267115,37.147025,-93.267115,37.147025",
+    "geom:latitude":37.147025,
+    "geom:longitude":-93.267115,
+    "iso:country":"US",
+    "sg:address":"1630 E Primrose St",
+    "sg:city":"Springfield",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 885 4700",
+    "sg:postcode":"65804",
+    "sg:province":"MO",
+    "sg:tags":[
+        "medical"
+    ],
+    "sg:website":"http://www.selectmedicalcorp.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85881149,
+        102191575,
+        404516201,
+        85633793,
+        85971363,
+        102087523,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_71oJUNmcpe5p4TSmflaxmR_37.147025_-93.267115@1303262938"
+    },
+    "wof:country":"US",
+    "wof:created":1462605964,
+    "wof:geomhash":"52dc37069a38beb75c34f3536f398348",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087523,
+            "localadmin_id":404516201,
+            "locality_id":85971363,
+            "neighbourhood_id":85881149,
+            "region_id":85688661,
+            "venue_id":807310733
+        }
+    ],
+    "wof:id":807310733,
+    "wof:lastmodified":1462605964,
+    "wof:name":"Select Specialty Hospital Springfield",
+    "wof:parent_id":85881149,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -93.267115,
+    37.147025,
+    -93.267115,
+    37.147025
+],
+  "geometry": {"coordinates":[-93.267115,37.147025],"type":"Point"}
+}

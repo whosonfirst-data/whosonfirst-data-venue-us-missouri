@@ -1,0 +1,82 @@
+{
+  "id": 807190765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.413389,37.79384,-90.413389,37.79384",
+    "geom:latitude":37.79384,
+    "geom:longitude":-90.413389,
+    "iso:country":"US",
+    "sg:address":"209 Gendale St",
+    "sg:city":"Farmington",
+    "sg:classifiers":[
+        {
+            "category":"Transit Center",
+            "subcategory":"Freight",
+            "type":"Transportation"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 756 9375",
+    "sg:postcode":"63640",
+    "sg:province":"MO",
+    "sg:tags":[
+        "excavation",
+        "trucking-light",
+        "hauling",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970665,
+        102085297,
+        85816309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_03N9umRU9Rec3lUripDNqI_37.793840_-90.413389@1303262931"
+    },
+    "wof:country":"US",
+    "wof:created":1462604697,
+    "wof:geomhash":"e0c6434d41616ab8fe1a7c962ecd4f17",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085297,
+            "locality_id":85970665,
+            "neighbourhood_id":85816309,
+            "region_id":85688661,
+            "venue_id":807190765
+        }
+    ],
+    "wof:id":807190765,
+    "wof:lastmodified":1462604697,
+    "wof:name":"Pullam & Son Hauling",
+    "wof:parent_id":85816309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavation",
+        "trucking-light",
+        "hauling",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -90.413389,
+    37.79384,
+    -90.413389,
+    37.79384
+],
+  "geometry": {"coordinates":[-90.413389,37.79384],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 789875195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.422544,37.782001,-90.422544,37.782001",
+    "geom:latitude":37.782001,
+    "geom:longitude":-90.422544,
+    "iso:country":"US",
+    "sg:address":"106 N Franklin St",
+    "sg:city":"Farmington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 756 0324",
+    "sg:postcode":"63640",
+    "sg:province":"MO",
+    "sg:tags":[
+        "polishing",
+        "carwash",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970665,
+        102085297,
+        85816309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_14Xo77c2IBqr5386h8wmKp_37.782001_-90.422544@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462591227,
+    "wof:geomhash":"c5a7056c4758b400fda224e1d351fbdc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085297,
+            "locality_id":85970665,
+            "neighbourhood_id":85816309,
+            "region_id":85688661,
+            "venue_id":789875195
+        }
+    ],
+    "wof:id":789875195,
+    "wof:lastmodified":1462591227,
+    "wof:name":"Radar's Detail Shop",
+    "wof:parent_id":85816309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "polishing",
+        "carwash",
+        "washing"
+    ]
+},
+  "bbox": [
+    -90.422544,
+    37.782001,
+    -90.422544,
+    37.782001
+],
+  "geometry": {"coordinates":[-90.422544,37.782001],"type":"Point"}
+}

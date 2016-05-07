@@ -1,0 +1,73 @@
+{
+  "id": 773790441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.745171,37.954449,-91.745171,37.954449",
+    "geom:latitude":37.954449,
+    "geom:longitude":-91.745171,
+    "iso:country":"US",
+    "sg:address":"1400 Independence Rd",
+    "sg:city":"Rolla",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 341 3531",
+    "sg:postcode":"65401",
+    "sg:province":"MO",
+    "sg:tags":[
+        "building",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970821,
+        102086893,
+        85814531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2vcTxyTddPTClPGWvkwqJ2_37.954449_-91.745171@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462588392,
+    "wof:geomhash":"bb2f7cc961334d8a2a3b44d8cf7aae80",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086893,
+            "locality_id":85970821,
+            "neighbourhood_id":85814531,
+            "region_id":85688661,
+            "venue_id":773790441
+        }
+    ],
+    "wof:id":773790441,
+    "wof:lastmodified":1462588392,
+    "wof:name":"H & H Rolla",
+    "wof:parent_id":85814531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -91.745171,
+    37.954449,
+    -91.745171,
+    37.954449
+],
+  "geometry": {"coordinates":[-91.745171,37.954449],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 806672387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.740113,39.838802,-91.740113,39.838802",
+    "geom:latitude":39.838802,
+    "geom:longitude":-91.740113,
+    "iso:country":"US",
+    "sg:address":"2230 State Hwy 168",
+    "sg:city":"Philadelphia",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 439 5512",
+    "sg:postcode":"63463",
+    "sg:province":"MO",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688697,
+        85633793,
+        85938427,
+        102086213,
+        85867477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5WSO2zi7BtH3YknAnJdR9p_39.838802_-91.740113@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462600103,
+    "wof:geomhash":"22819202d277b2f14ee283bc9ca9cfaf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086213,
+            "locality_id":85938427,
+            "neighbourhood_id":85867477,
+            "region_id":85688697,
+            "venue_id":806672387
+        }
+    ],
+    "wof:id":806672387,
+    "wof:lastmodified":1462600103,
+    "wof:name":"Marion Co R 11 Rural Fire Dept",
+    "wof:parent_id":85867477,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -91.740113,
+    39.838802,
+    -91.740113,
+    39.838802
+],
+  "geometry": {"coordinates":[-91.74011299999999,39.838802],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 789810873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.32168,37.166696,-93.32168,37.166696",
+    "geom:latitude":37.166696,
+    "geom:longitude":-93.32168,
+    "iso:country":"US",
+    "sg:address":"2220 W Sunset St",
+    "sg:city":"Springfield",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 887 7525",
+    "sg:postcode":"65807",
+    "sg:province":"MO",
+    "sg:tags":[
+        "home",
+        "infusion",
+        "pharmacy"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85881151,
+        102087523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_36Fhx7sx4V55tivmFUv7qY_37.166696_-93.321680@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462590720,
+    "wof:geomhash":"3d575e97220169f986ade961b5a9b381",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087523,
+            "neighbourhood_id":85881151,
+            "region_id":85688661,
+            "venue_id":789810873
+        }
+    ],
+    "wof:id":789810873,
+    "wof:lastmodified":1462590720,
+    "wof:name":"Cox Home Parenteral Services",
+    "wof:parent_id":85881151,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "infusion",
+        "pharmacy"
+    ]
+},
+  "bbox": [
+    -93.32168,
+    37.166696,
+    -93.32168,
+    37.166696
+],
+  "geometry": {"coordinates":[-93.32168,37.166696],"type":"Point"}
+}

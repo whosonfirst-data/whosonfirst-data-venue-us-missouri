@@ -1,0 +1,71 @@
+{
+  "id": 790435775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.900584,39.42322,-94.900584,39.42322",
+    "geom:latitude":39.42322,
+    "geom:longitude":-94.900584,
+    "iso:country":"US",
+    "sg:address":"18325 Co Rd H",
+    "sg:city":"Weston",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 640 2724",
+    "sg:postcode":"64098",
+    "sg:province":"MO",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970739,
+        102085271,
+        85823759
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_26MlkrrE6wYfwSq6BRHQ9J_39.423220_-94.900584@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462595810,
+    "wof:geomhash":"7c605bb5825ee9f2912bc0a420f108c2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085271,
+            "locality_id":85970739,
+            "neighbourhood_id":85823759,
+            "region_id":85688661,
+            "venue_id":790435775
+        }
+    ],
+    "wof:id":790435775,
+    "wof:lastmodified":1462595810,
+    "wof:name":"Weston City Fire Dept",
+    "wof:parent_id":85823759,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -94.900584,
+    39.42322,
+    -94.900584,
+    39.42322
+],
+  "geometry": {"coordinates":[-94.90058399999999,39.42322],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 807069995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.50827,38.780123,-90.50827,38.780123",
+    "geom:latitude":38.780123,
+    "geom:longitude":-90.50827,
+    "iso:country":"US",
+    "sg:address":"2218 1st Capitol Dr",
+    "sg:city":"Saint Charles",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/frontier/80638-papa-johns-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 724 1700",
+    "sg:postcode":"63301",
+    "sg:province":"MO",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ZaZ12KOO9nWojEMkGvvmv_38.780123_-90.508270@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462603445,
+    "wof:geomhash":"a24031549b1fa2252031f3031beeafe5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":807069995
+        }
+    ],
+    "wof:id":807069995,
+    "wof:lastmodified":1462603445,
+    "wof:name":"Papa John's Pizza",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -90.50827,
+    38.780123,
+    -90.50827,
+    38.780123
+],
+  "geometry": {"coordinates":[-90.50827,38.780123],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 807160097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.238519,38.680944,-90.238519,38.680944",
+    "geom:latitude":38.680944,
+    "geom:longitude":-90.238519,
+    "iso:country":"US",
+    "sg:address":"4720 Carter Ave",
+    "sg:city":"Saint Louis",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        },
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 389 0401",
+    "sg:postcode":"63115",
+    "sg:province":"MO",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420525471,
+        102191575,
+        404518053,
+        85633793,
+        85971343,
+        102080791,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0TXPZ85q88wjmE05PXmQ6F_38.680944_-90.238519@1303262929"
+    },
+    "wof:country":"US",
+    "wof:created":1462604380,
+    "wof:geomhash":"3dc71e2b82e73ef67614e3851ecba45c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080791,
+            "localadmin_id":404518053,
+            "locality_id":85971343,
+            "neighbourhood_id":420525471,
+            "region_id":85688661,
+            "venue_id":807160097
+        }
+    ],
+    "wof:id":807160097,
+    "wof:lastmodified":1462604380,
+    "wof:name":"Schools",
+    "wof:parent_id":420525471,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.238519,
+    38.680944,
+    -90.238519,
+    38.680944
+],
+  "geometry": {"coordinates":[-90.238519,38.680944],"type":"Point"}
+}

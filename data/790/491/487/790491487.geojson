@@ -1,0 +1,75 @@
+{
+  "id": 790491487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.74245,37.949298,-91.74245,37.949298",
+    "geom:latitude":37.949298,
+    "geom:longitude":-91.74245,
+    "iso:country":"US",
+    "sg:address":"803 Wakefield Dr",
+    "sg:city":"Rolla",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 364 6059",
+    "sg:postcode":"65401",
+    "sg:province":"MO",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970821,
+        102086893,
+        85814531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0OXvdMh2HdRPWfM1nHYNtH_37.949298_-91.742450@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462596301,
+    "wof:geomhash":"db6b2b8cd87034e774b18a7d5aa94bbd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086893,
+            "locality_id":85970821,
+            "neighbourhood_id":85814531,
+            "region_id":85688661,
+            "venue_id":790491487
+        }
+    ],
+    "wof:id":790491487,
+    "wof:lastmodified":1462596301,
+    "wof:name":"C & D Trucking",
+    "wof:parent_id":85814531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -91.74245,
+    37.949298,
+    -91.74245,
+    37.949298
+],
+  "geometry": {"coordinates":[-91.74245000000001,37.949298],"type":"Point"}
+}

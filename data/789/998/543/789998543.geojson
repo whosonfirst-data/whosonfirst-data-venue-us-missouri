@@ -1,0 +1,71 @@
+{
+  "id": 789998543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.655336,38.791591,-90.655336,38.791591",
+    "geom:latitude":38.791591,
+    "geom:longitude":-90.655336,
+    "iso:country":"US",
+    "sg:address":"48 Douglas Dr W",
+    "sg:city":"Saint Peters",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 278 3271",
+    "sg:postcode":"63376",
+    "sg:province":"MO",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4zZy2boPxVvv5uPzqrbFxV_38.791591_-90.655336@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462592319,
+    "wof:geomhash":"97795e8c310119ffd2ff82d89e842c56",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":789998543
+        }
+    ],
+    "wof:id":789998543,
+    "wof:lastmodified":1462592319,
+    "wof:name":"D&P Heating & Cooling",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -90.655336,
+    38.791591,
+    -90.655336,
+    38.791591
+],
+  "geometry": {"coordinates":[-90.65533600000001,38.791591],"type":"Point"}
+}

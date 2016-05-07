@@ -1,0 +1,71 @@
+{
+  "id": 790559053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.360868,39.364179,-94.360868,39.364179",
+    "geom:latitude":39.364179,
+    "geom:longitude":-94.360868,
+    "iso:country":"US",
+    "sg:address":"902 S Jefferson St",
+    "sg:city":"Kearney",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 628 4113",
+    "sg:postcode":"64060",
+    "sg:province":"MO",
+    "sg:tags":[
+        "elementary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971507,
+        102086177,
+        85812855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5hWhhboNhYUafGrDCQQ6va_39.364179_-94.360868@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462596869,
+    "wof:geomhash":"5cc13a5e30b5e1fd57c63aa20eb447e7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086177,
+            "locality_id":85971507,
+            "neighbourhood_id":85812855,
+            "region_id":85688661,
+            "venue_id":790559053
+        }
+    ],
+    "wof:id":790559053,
+    "wof:lastmodified":1462596869,
+    "wof:name":"Kearney Elementary School",
+    "wof:parent_id":85812855,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "elementary"
+    ]
+},
+  "bbox": [
+    -94.360868,
+    39.364179,
+    -94.360868,
+    39.364179
+],
+  "geometry": {"coordinates":[-94.360868,39.364179],"type":"Point"}
+}

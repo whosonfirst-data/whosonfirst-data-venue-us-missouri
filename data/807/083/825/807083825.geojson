@@ -1,0 +1,78 @@
+{
+  "id": 807083825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.476698,38.997176,-94.476698,38.997176",
+    "geom:latitude":38.997176,
+    "geom:longitude":-94.476698,
+    "iso:country":"US",
+    "sg:address":"9014 E State Route 350",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/brooking/201658-sonic/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 353 1053",
+    "sg:postcode":"64133",
+    "sg:province":"MO",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85871965,
+        102191575,
+        404517999,
+        85633793,
+        85971471,
+        102081227,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1EokPGHjsDKRMWP0ZTjjTf_38.997176_-94.476698@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462603564,
+    "wof:geomhash":"b334f150e730ad3096ea40fdb9b57a73",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081227,
+            "localadmin_id":404517999,
+            "locality_id":85971471,
+            "neighbourhood_id":85871965,
+            "region_id":85688661,
+            "venue_id":807083825
+        }
+    ],
+    "wof:id":807083825,
+    "wof:lastmodified":1462603564,
+    "wof:name":"Sonic",
+    "wof:parent_id":85871965,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -94.476698,
+    38.997176,
+    -94.476698,
+    38.997176
+],
+  "geometry": {"coordinates":[-94.476698,38.997176],"type":"Point"}
+}

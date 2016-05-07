@@ -1,0 +1,71 @@
+{
+  "id": 789983993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.524348,39.795874,-91.524348,39.795874",
+    "geom:latitude":39.795874,
+    "geom:longitude":-91.524348,
+    "iso:country":"US",
+    "sg:address":"522 S Dickerson St",
+    "sg:city":"Palmyra",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 769 2262",
+    "sg:postcode":"63461",
+    "sg:province":"MO",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688697,
+        85633793,
+        85938427,
+        102086213,
+        85867477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_31pG74V466UgJZpFOyfzFx_39.795874_-91.524348@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462592201,
+    "wof:geomhash":"9c5485e0f6f2ebce5a8da9500f1834ab",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086213,
+            "locality_id":85938427,
+            "neighbourhood_id":85867477,
+            "region_id":85688697,
+            "venue_id":789983993
+        }
+    ],
+    "wof:id":789983993,
+    "wof:lastmodified":1462592201,
+    "wof:name":"W Thomas Lemons DDS",
+    "wof:parent_id":85867477,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -91.524348,
+    39.795874,
+    -91.524348,
+    39.795874
+],
+  "geometry": {"coordinates":[-91.524348,39.795874],"type":"Point"}
+}

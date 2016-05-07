@@ -1,0 +1,73 @@
+{
+  "id": 773337449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.395213,38.479299,-90.395213,38.479299",
+    "geom:latitude":38.479299,
+    "geom:longitude":-90.395213,
+    "iso:country":"US",
+    "sg:address":"5467 Butler Hill Rd",
+    "sg:city":"St Louis",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 842 4363",
+    "sg:postcode":"63128",
+    "sg:province":"MO",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971021,
+        102080787,
+        85832925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3v5nlBmqvPhqlN6nogHZxl_38.479299_-90.395213@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462584965,
+    "wof:geomhash":"d5a023e773a05458aef3e66ad8f3f862",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080787,
+            "locality_id":85971021,
+            "neighbourhood_id":85832925,
+            "region_id":85688661,
+            "venue_id":773337449
+        }
+    ],
+    "wof:id":773337449,
+    "wof:lastmodified":1462584965,
+    "wof:name":"Design Electric Inc",
+    "wof:parent_id":85832925,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -90.395213,
+    38.479299,
+    -90.395213,
+    38.479299
+],
+  "geometry": {"coordinates":[-90.395213,38.479299],"type":"Point"}
+}

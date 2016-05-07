@@ -1,0 +1,83 @@
+{
+  "id": 790591027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.50645,39.130286,-94.50645,39.130286",
+    "geom:latitude":39.130286,
+    "geom:longitude":-94.50645,
+    "iso:country":"US",
+    "sg:address":"6401 E Front St",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 241 0603",
+    "sg:postcode":"64120",
+    "sg:province":"MO",
+    "sg:tags":[
+        "clinic",
+        "medical"
+    ],
+    "sg:website":"www.concentra.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85871999,
+        102191575,
+        404518075,
+        85633793,
+        85970739,
+        102081227,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0D5TmV2VSWESWHcYK7PyEq_39.130286_-94.506450@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462597132,
+    "wof:geomhash":"4f366222c5f97a6aa0a1c789cdfe3fae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081227,
+            "localadmin_id":404518075,
+            "locality_id":85970739,
+            "neighbourhood_id":85871999,
+            "region_id":85688661,
+            "venue_id":790591027
+        }
+    ],
+    "wof:id":790591027,
+    "wof:lastmodified":1462597132,
+    "wof:name":"Concentra Medical Centers",
+    "wof:parent_id":85871999,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic",
+        "medical"
+    ]
+},
+  "bbox": [
+    -94.50645,
+    39.130286,
+    -94.50645,
+    39.130286
+],
+  "geometry": {"coordinates":[-94.50645,39.130286],"type":"Point"}
+}

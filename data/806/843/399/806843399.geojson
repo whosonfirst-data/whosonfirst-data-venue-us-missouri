@@ -1,0 +1,84 @@
+{
+  "id": 806843399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.259774,38.541485,-90.259774,38.541485",
+    "geom:latitude":38.541485,
+    "geom:longitude":-90.259774,
+    "iso:country":"US",
+    "sg:address":"8129 Reilly Ave",
+    "sg:city":"St Louis",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 631 0004",
+    "sg:postcode":"63111",
+    "sg:province":"MO",
+    "sg:tags":[
+        "car",
+        "drinking",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873703,
+        102191575,
+        404518053,
+        85633793,
+        85971343,
+        102080791,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7MObb2ibsG54rK27Mtfdyc_38.541485_-90.259774@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462601552,
+    "wof:geomhash":"4261cdbe26abb516925489ab477e913d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080791,
+            "localadmin_id":404518053,
+            "locality_id":85971343,
+            "neighbourhood_id":85873703,
+            "region_id":85688661,
+            "venue_id":806843399
+        }
+    ],
+    "wof:id":806843399,
+    "wof:lastmodified":1462601552,
+    "wof:name":"Bada Bings",
+    "wof:parent_id":85873703,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "drinking",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -90.259774,
+    38.541485,
+    -90.259774,
+    38.541485
+],
+  "geometry": {"coordinates":[-90.25977399999999,38.541485],"type":"Point"}
+}

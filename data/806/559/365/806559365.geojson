@@ -1,0 +1,71 @@
+{
+  "id": 806559365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.627118,37.769327,-90.627118,37.769327",
+    "geom:latitude":37.769327,
+    "geom:longitude":-90.627118,
+    "iso:country":"US",
+    "sg:address":"1008 Cherry St",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 734 6033",
+    "sg:postcode":"63624",
+    "sg:province":"MO",
+    "sg:tags":[
+        "military"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970665,
+        102085297,
+        85816309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7fvSUvGtXGTzoMBimRMLjq_37.769327_-90.627118@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462599119,
+    "wof:geomhash":"2ac4f9459dbed0d7822788ff7dc204ed",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085297,
+            "locality_id":85970665,
+            "neighbourhood_id":85816309,
+            "region_id":85688661,
+            "venue_id":806559365
+        }
+    ],
+    "wof:id":806559365,
+    "wof:lastmodified":1462599119,
+    "wof:name":"Veterans Of Foreign Wars",
+    "wof:parent_id":85816309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "military"
+    ]
+},
+  "bbox": [
+    -90.627118,
+    37.769327,
+    -90.627118,
+    37.769327
+],
+  "geometry": {"coordinates":[-90.627118,37.769327],"type":"Point"}
+}

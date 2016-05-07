@@ -1,0 +1,78 @@
+{
+  "id": 807098567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.419073,37.779612,-90.419073,37.779612",
+    "geom:latitude":37.779612,
+    "geom:longitude":-90.419073,
+    "iso:country":"US",
+    "sg:address":"84 S Henry St",
+    "sg:city":"Farmington",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/st-francois/225282-caseys-general-store/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"63640",
+    "sg:province":"MO",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970665,
+        102085297,
+        85816309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_54Inus0nlJ8xUpJ3REDnZx_37.779582_-90.419025@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462603705,
+    "wof:geomhash":"ece59d0104b1c408075347bb4b228c51",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085297,
+            "locality_id":85970665,
+            "neighbourhood_id":85816309,
+            "region_id":85688661,
+            "venue_id":807098567
+        }
+    ],
+    "wof:id":807098567,
+    "wof:lastmodified":1462603705,
+    "wof:name":"Casey's General Store",
+    "wof:parent_id":85816309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -90.419073,
+    37.779612,
+    -90.419073,
+    37.779612
+],
+  "geometry": {"coordinates":[-90.419073,37.779612],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 773352303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.258534,37.221864,-93.258534,37.221864",
+    "geom:latitude":37.221864,
+    "geom:longitude":-93.258534,
+    "iso:country":"US",
+    "sg:address":"1907 E Bergman St",
+    "sg:city":"Springfield",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 865 5561",
+    "sg:postcode":"65802",
+    "sg:province":"MO",
+    "sg:tags":[
+        "contractor"
+    ],
+    "sg:website":"www.hertz.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971363,
+        102087523,
+        85881137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Af96V6F4L0wzyCV7C5B1P_37.221864_-93.258534@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462585062,
+    "wof:geomhash":"ec8882c4ad661cdfd42556d9ce877fc5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087523,
+            "locality_id":85971363,
+            "neighbourhood_id":85881137,
+            "region_id":85688661,
+            "venue_id":773352303
+        }
+    ],
+    "wof:id":773352303,
+    "wof:lastmodified":1462585062,
+    "wof:name":"Hertz Contractors Supply",
+    "wof:parent_id":85881137,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -93.258534,
+    37.221864,
+    -93.258534,
+    37.221864
+],
+  "geometry": {"coordinates":[-93.258534,37.221864],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 807084115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.642488,39.210506,-94.642488,39.210506",
+    "geom:latitude":39.210506,
+    "geom:longitude":-94.642488,
+    "iso:country":"US",
+    "sg:address":"5353 NW 64th St",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/fox/194214-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"64151",
+    "sg:province":"MO",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85840629,
+        102191575,
+        404517567,
+        85633793,
+        85970495,
+        102085271,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1zYw719sN8uo2SdlX7n1af_39.210506_-94.642488@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462603567,
+    "wof:geomhash":"cb3b8fd96ecc20b578673db414f48ae9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085271,
+            "localadmin_id":404517567,
+            "locality_id":85970495,
+            "neighbourhood_id":85840629,
+            "region_id":85688661,
+            "venue_id":807084115
+        }
+    ],
+    "wof:id":807084115,
+    "wof:lastmodified":1462603567,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85840629,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -94.642488,
+    39.210506,
+    -94.642488,
+    39.210506
+],
+  "geometry": {"coordinates":[-94.642488,39.210506],"type":"Point"}
+}

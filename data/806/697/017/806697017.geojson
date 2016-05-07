@@ -1,0 +1,71 @@
+{
+  "id": 806697017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.582273,39.387049,-94.582273,39.387049",
+    "geom:latitude":39.387049,
+    "geom:longitude":-94.582273,
+    "iso:country":"US",
+    "sg:address":"107 W Main St",
+    "sg:city":"Smithville",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 532 0500",
+    "sg:postcode":"64089",
+    "sg:province":"MO",
+    "sg:tags":[
+        "protection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970739,
+        102086177,
+        85836329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1HgsmaKmndLxvhIgRRu2W3_39.387049_-94.582273@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462600311,
+    "wof:geomhash":"d7307f56973aaf88f4f2b6828ebfb9e7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086177,
+            "locality_id":85970739,
+            "neighbourhood_id":85836329,
+            "region_id":85688661,
+            "venue_id":806697017
+        }
+    ],
+    "wof:id":806697017,
+    "wof:lastmodified":1462600311,
+    "wof:name":"Police Department",
+    "wof:parent_id":85836329,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "protection"
+    ]
+},
+  "bbox": [
+    -94.582273,
+    39.387049,
+    -94.582273,
+    39.387049
+],
+  "geometry": {"coordinates":[-94.582273,39.387049],"type":"Point"}
+}

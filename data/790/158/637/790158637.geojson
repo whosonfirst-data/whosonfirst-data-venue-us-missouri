@@ -1,0 +1,91 @@
+{
+  "id": 790158637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.360196,38.474386,-90.360196,38.474386",
+    "geom:latitude":38.474386,
+    "geom:longitude":-90.360196,
+    "iso:country":"US",
+    "sg:address":"4380 Hawkins Glen Way",
+    "sg:city":"St Louis",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Advertising",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 892 5300",
+    "sg:postcode":"63129",
+    "sg:province":"MO",
+    "sg:tags":[
+        "communication"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85885365,
+        102191575,
+        404517459,
+        85633793,
+        85972631,
+        102086173,
+        85688661,
+        85971021,
+        102080787,
+        85832925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1UKoFQfTXlJDRG6vN88lBi_38.474386_-90.360196@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462593582,
+    "wof:geomhash":"768bb091936bb8bd05a06e317089bd42",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086173,
+            "localadmin_id":404517459,
+            "locality_id":85972631,
+            "neighbourhood_id":85885365,
+            "region_id":85688661,
+            "venue_id":790158637
+        },
+        {
+            "country_id":85633793,
+            "county_id":102080787,
+            "locality_id":85971021,
+            "neighbourhood_id":85832925,
+            "region_id":85688661,
+            "venue_id":790158637
+        }
+    ],
+    "wof:id":790158637,
+    "wof:lastmodified":1462593582,
+    "wof:name":"Mediacan Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "communication"
+    ]
+},
+  "bbox": [
+    -90.360196,
+    38.474386,
+    -90.360196,
+    38.474386
+],
+  "geometry": {"coordinates":[-90.360196,38.474386],"type":"Point"}
+}

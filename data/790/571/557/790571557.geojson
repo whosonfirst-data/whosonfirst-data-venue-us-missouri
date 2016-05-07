@@ -1,0 +1,71 @@
+{
+  "id": 790571557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.295195,37.164794,-93.295195,37.164794",
+    "geom:latitude":37.164794,
+    "geom:longitude":-93.295195,
+    "iso:country":"US",
+    "sg:address":"2750 S Campbell Ave",
+    "sg:city":"Springfield",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 269 2281",
+    "sg:postcode":"65807",
+    "sg:province":"MO",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85881151,
+        102087523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Jgrcu2v3PSt3nvhuPJh5R_37.164794_-93.295195@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462596972,
+    "wof:geomhash":"b673743e093bc9784a588fb9653c4762",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087523,
+            "neighbourhood_id":85881151,
+            "region_id":85688661,
+            "venue_id":790571557
+        }
+    ],
+    "wof:id":790571557,
+    "wof:lastmodified":1462596972,
+    "wof:name":"Springfield Family Physicians",
+    "wof:parent_id":85881151,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -93.295195,
+    37.164794,
+    -93.295195,
+    37.164794
+],
+  "geometry": {"coordinates":[-93.29519500000001,37.164794],"type":"Point"}
+}

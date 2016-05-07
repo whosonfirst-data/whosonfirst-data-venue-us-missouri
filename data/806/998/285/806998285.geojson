@@ -1,0 +1,87 @@
+{
+  "id": 806998285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.504716,37.06864,-94.504716,37.06864",
+    "geom:latitude":37.06864,
+    "geom:longitude":-94.504716,
+    "iso:country":"US",
+    "sg:address":"2104 Indiana Ave",
+    "sg:city":"Joplin",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 625 5230",
+    "sg:postcode":"64804",
+    "sg:province":"MO",
+    "sg:tags":[
+        "high"
+    ],
+    "sg:website":"http://www.joplin.k12.mo.us",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85885363,
+        102191575,
+        404518215,
+        85633793,
+        85970893,
+        102087525,
+        85688661,
+        420525385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0qadnuHjaHMmQITpuNSqvs_37.068237_-94.504809@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1462602847,
+    "wof:geomhash":"9cbd95e4363e4276e3b3b0f62a6309f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087525,
+            "localadmin_id":404518215,
+            "locality_id":85970893,
+            "neighbourhood_id":85885363,
+            "region_id":85688661,
+            "venue_id":806998285
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087525,
+            "localadmin_id":404518215,
+            "locality_id":85970893,
+            "neighbourhood_id":420525385,
+            "region_id":85688661,
+            "venue_id":806998285
+        }
+    ],
+    "wof:id":806998285,
+    "wof:lastmodified":1462602847,
+    "wof:name":"Joplin High School",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "high"
+    ]
+},
+  "bbox": [
+    -94.504716,
+    37.06864,
+    -94.504716,
+    37.06864
+],
+  "geometry": {"coordinates":[-94.504716,37.06864],"type":"Point"}
+}

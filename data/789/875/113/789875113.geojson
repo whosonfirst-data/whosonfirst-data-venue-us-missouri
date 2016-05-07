@@ -1,0 +1,75 @@
+{
+  "id": 789875113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.583414,39.394572,-94.583414,39.394572",
+    "geom:latitude":39.394572,
+    "geom:longitude":-94.583414,
+    "iso:country":"US",
+    "sg:address":"513 US Hwy 169",
+    "sg:city":"Smithville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 532 0739",
+    "sg:postcode":"64089",
+    "sg:province":"MO",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970739,
+        102086177,
+        85836329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0S8f4v0OJaZOklEPnTf4o8_39.394572_-94.583414@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462591226,
+    "wof:geomhash":"c0d7469675eb0c31f896f254f19c7277",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086177,
+            "locality_id":85970739,
+            "neighbourhood_id":85836329,
+            "region_id":85688661,
+            "venue_id":789875113
+        }
+    ],
+    "wof:id":789875113,
+    "wof:lastmodified":1462591226,
+    "wof:name":"Ultimate Autobody & Chassis",
+    "wof:parent_id":85836329,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -94.583414,
+    39.394572,
+    -94.583414,
+    39.394572
+],
+  "geometry": {"coordinates":[-94.583414,39.394572],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 773254703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.561432,39.706489,-91.561432,39.706489",
+    "geom:latitude":39.706489,
+    "geom:longitude":-91.561432,
+    "iso:country":"US",
+    "sg:address":"6596 Co Rd 263",
+    "sg:city":"Hannibal",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 248 0795",
+    "sg:postcode":"63461",
+    "sg:province":"MO",
+    "sg:tags":[
+        "appliance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688697,
+        85633793,
+        85938427,
+        102086213,
+        85867477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3XV6IThIgwvbGZl7ps08Ai_39.706489_-91.561432@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462584327,
+    "wof:geomhash":"0f206712767ea7a17702224268fefb79",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086213,
+            "locality_id":85938427,
+            "neighbourhood_id":85867477,
+            "region_id":85688697,
+            "venue_id":773254703
+        }
+    ],
+    "wof:id":773254703,
+    "wof:lastmodified":1462584327,
+    "wof:name":"Sweet Appliance Repair",
+    "wof:parent_id":85867477,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "appliance"
+    ]
+},
+  "bbox": [
+    -91.561432,
+    39.706489,
+    -91.561432,
+    39.706489
+],
+  "geometry": {"coordinates":[-91.561432,39.706489],"type":"Point"}
+}

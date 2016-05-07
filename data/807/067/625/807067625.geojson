@@ -1,0 +1,74 @@
+{
+  "id": 807067625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.356484,38.48688,-90.356484,38.48688",
+    "geom:latitude":38.48688,
+    "geom:longitude":-90.356484,
+    "iso:country":"US",
+    "sg:address":"4305 Butler Hill Rd",
+    "sg:city":"Saint Louis",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/tesson-ferry/148768-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 892 9300",
+    "sg:postcode":"63128",
+    "sg:province":"MO",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971021,
+        102080787,
+        85832925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1DAVyycLoI3sh3doe9RZK3_38.486880_-90.356484@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462603427,
+    "wof:geomhash":"4f70064064937d154c28301bd1ac6245",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080787,
+            "locality_id":85971021,
+            "neighbourhood_id":85832925,
+            "region_id":85688661,
+            "venue_id":807067625
+        }
+    ],
+    "wof:id":807067625,
+    "wof:lastmodified":1462603427,
+    "wof:name":"Subway",
+    "wof:parent_id":85832925,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -90.356484,
+    38.48688,
+    -90.356484,
+    38.48688
+],
+  "geometry": {"coordinates":[-90.35648399999999,38.48688],"type":"Point"}
+}

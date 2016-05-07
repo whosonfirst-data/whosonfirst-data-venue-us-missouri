@@ -1,0 +1,76 @@
+{
+  "id": 807169605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.305378,38.706816,-90.305378,38.706816",
+    "geom:latitude":38.706816,
+    "geom:longitude":-90.305378,
+    "iso:country":"US",
+    "sg:address":"7800 Natural Bridge Rd",
+    "sg:city":"Saint Louis",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"University",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 516 5131",
+    "sg:postcode":"63121",
+    "sg:province":"MO",
+    "sg:tags":[
+        "college"
+    ],
+    "sg:website":"www.umsl.edu",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85803359,
+        102191575,
+        404515929,
+        85633793,
+        85972327,
+        102086173,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2cCJm0ilqWxpZSYGsEXnsL_38.706816_-90.305378@1303262929"
+    },
+    "wof:country":"US",
+    "wof:created":1462604481,
+    "wof:geomhash":"494e6fed9f49c06e6b058bf91b99709c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086173,
+            "localadmin_id":404515929,
+            "locality_id":85972327,
+            "neighbourhood_id":85803359,
+            "region_id":85688661,
+            "venue_id":807169605
+        }
+    ],
+    "wof:id":807169605,
+    "wof:lastmodified":1462604481,
+    "wof:name":"University of Missouri-St Louis",
+    "wof:parent_id":85803359,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "college"
+    ]
+},
+  "bbox": [
+    -90.305378,
+    38.706816,
+    -90.305378,
+    38.706816
+],
+  "geometry": {"coordinates":[-90.305378,38.706816],"type":"Point"}
+}

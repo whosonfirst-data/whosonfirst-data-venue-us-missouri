@@ -1,0 +1,71 @@
+{
+  "id": 789845907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.605975,36.841422,-94.605975,36.841422",
+    "geom:latitude":36.841422,
+    "geom:longitude":-94.605975,
+    "iso:country":"US",
+    "sg:address":"1116 Oneida St",
+    "sg:city":"Seneca",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 776 8650",
+    "sg:postcode":"64865",
+    "sg:province":"MO",
+    "sg:tags":[
+        "tire"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971289,
+        102087471,
+        85814333
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7UtzfDzCGJj5muHz59juTl_36.841422_-94.605975@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462590998,
+    "wof:geomhash":"346185bd6861882044f0afa3d02a0e70",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087471,
+            "locality_id":85971289,
+            "neighbourhood_id":85814333,
+            "region_id":85688661,
+            "venue_id":789845907
+        }
+    ],
+    "wof:id":789845907,
+    "wof:lastmodified":1462590998,
+    "wof:name":"Seneca Tire Service",
+    "wof:parent_id":85814333,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tire"
+    ]
+},
+  "bbox": [
+    -94.605975,
+    36.841422,
+    -94.605975,
+    36.841422
+],
+  "geometry": {"coordinates":[-94.605975,36.841422],"type":"Point"}
+}

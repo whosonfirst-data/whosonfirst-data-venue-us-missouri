@@ -1,0 +1,76 @@
+{
+  "id": 806883295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.466331,38.188349,-90.466331,38.188349",
+    "geom:latitude":38.188349,
+    "geom:longitude":-90.466331,
+    "iso:country":"US",
+    "sg:address":"3355 Watson Rd",
+    "sg:city":"Festus",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 931 1818",
+    "sg:postcode":"63028",
+    "sg:province":"MO",
+    "sg:tags":[
+        "garbage",
+        "collection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85848677,
+        102080787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2UhhpWZnAFDbrZJDEEC09K_38.188349_-90.466331@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462601880,
+    "wof:geomhash":"905cd317429e9d0d6d582ce28e20db1f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080787,
+            "neighbourhood_id":85848677,
+            "region_id":85688661,
+            "venue_id":806883295
+        }
+    ],
+    "wof:id":806883295,
+    "wof:lastmodified":1462601880,
+    "wof:name":"County Container Services Inc",
+    "wof:parent_id":85848677,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garbage",
+        "collection"
+    ]
+},
+  "bbox": [
+    -90.466331,
+    38.188349,
+    -90.466331,
+    38.188349
+],
+  "geometry": {"coordinates":[-90.466331,38.188349],"type":"Point"}
+}

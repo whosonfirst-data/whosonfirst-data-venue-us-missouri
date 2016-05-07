@@ -1,0 +1,71 @@
+{
+  "id": 789594105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.364297,38.466931,-90.364297,38.466931",
+    "geom:latitude":38.466931,
+    "geom:longitude":-90.364297,
+    "iso:country":"US",
+    "sg:address":"4331 Meadowgreen Trails Dr",
+    "sg:city":"Saint Louis",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 743 4561",
+    "sg:postcode":"63129",
+    "sg:province":"MO",
+    "sg:tags":[
+        "arrangement"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971021,
+        102080787,
+        85832925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1rIPT41bKjO4IPT4ypqDqj_38.466931_-90.364297@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462589014,
+    "wof:geomhash":"d978dbdc6f9a6b8da24e2b8a4fb4ffd8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080787,
+            "locality_id":85971021,
+            "neighbourhood_id":85832925,
+            "region_id":85688661,
+            "venue_id":789594105
+        }
+    ],
+    "wof:id":789594105,
+    "wof:lastmodified":1462589014,
+    "wof:name":"Gateway Freightways Inc",
+    "wof:parent_id":85832925,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "arrangement"
+    ]
+},
+  "bbox": [
+    -90.364297,
+    38.466931,
+    -90.364297,
+    38.466931
+],
+  "geometry": {"coordinates":[-90.36429699999999,38.466931],"type":"Point"}
+}

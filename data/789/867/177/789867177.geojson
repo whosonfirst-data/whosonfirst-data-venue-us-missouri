@@ -1,0 +1,75 @@
+{
+  "id": 789867177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.531984,38.783927,-90.531984,38.783927",
+    "geom:latitude":38.783927,
+    "geom:longitude":-90.531984,
+    "iso:country":"US",
+    "sg:address":"2739 Bogey Rd",
+    "sg:city":"Saint Charles",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 925 1606",
+    "sg:postcode":"63303",
+    "sg:province":"MO",
+    "sg:tags":[
+        "grocery",
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ASaJDbjhaNIyUGARgv3Mj_38.783927_-90.531984@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462591162,
+    "wof:geomhash":"86b631def5a8b64f7cb02fc7cfd192cb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":789867177
+        }
+    ],
+    "wof:id":789867177,
+    "wof:lastmodified":1462591162,
+    "wof:name":"Citgo",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocery",
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -90.531984,
+    38.783927,
+    -90.531984,
+    38.783927
+],
+  "geometry": {"coordinates":[-90.53198399999999,38.783927],"type":"Point"}
+}

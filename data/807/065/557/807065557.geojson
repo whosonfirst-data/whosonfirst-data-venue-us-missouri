@@ -1,0 +1,77 @@
+{
+  "id": 807065557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.247679,38.627885,-90.247679,38.627885",
+    "geom:latitude":38.627885,
+    "geom:longitude":-90.247679,
+    "iso:country":"US",
+    "sg:address":"1002 S Vandeventer Ave ",
+    "sg:city":"Saint Louis",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/st-louis/240985-white-castle/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"63110",
+    "sg:province":"MO",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873649,
+        102191575,
+        404518053,
+        85633793,
+        85971343,
+        102080791,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4X73WdmiBNMdjkZGY4nlzP_38.627885_-90.247679@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462603412,
+    "wof:geomhash":"2a4dea1e18e1af0eaa96fb7724a66e83",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080791,
+            "localadmin_id":404518053,
+            "locality_id":85971343,
+            "neighbourhood_id":85873649,
+            "region_id":85688661,
+            "venue_id":807065557
+        }
+    ],
+    "wof:id":807065557,
+    "wof:lastmodified":1462603412,
+    "wof:name":"White Castle",
+    "wof:parent_id":85873649,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -90.247679,
+    38.627885,
+    -90.247679,
+    38.627885
+],
+  "geometry": {"coordinates":[-90.24767900000001,38.627885],"type":"Point"}
+}

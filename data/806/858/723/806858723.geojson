@@ -1,0 +1,86 @@
+{
+  "id": 806858723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.259541,37.188934,-93.259541,37.188934",
+    "geom:latitude":37.188934,
+    "geom:longitude":-93.259541,
+    "iso:country":"US",
+    "sg:address":"1927 E Bennett St",
+    "sg:city":"Springfield",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Hardware",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 881 2480",
+    "sg:postcode":"65804",
+    "sg:province":"MO",
+    "sg:tags":[
+        "interior",
+        "consultant",
+        "design",
+        "decorator"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85881147,
+        102191575,
+        404516201,
+        85633793,
+        85971363,
+        102087523,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2aUnvgciJxDVNGxp22y0qj_37.188934_-93.259541@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462601680,
+    "wof:geomhash":"86ad82eb1d9f742da2449b35331065e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087523,
+            "localadmin_id":404516201,
+            "locality_id":85971363,
+            "neighbourhood_id":85881147,
+            "region_id":85688661,
+            "venue_id":806858723
+        }
+    ],
+    "wof:id":806858723,
+    "wof:lastmodified":1462601680,
+    "wof:name":"Markley Hardware Inc",
+    "wof:parent_id":85881147,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "interior",
+        "consultant",
+        "design",
+        "decorator"
+    ]
+},
+  "bbox": [
+    -93.259541,
+    37.188934,
+    -93.259541,
+    37.188934
+],
+  "geometry": {"coordinates":[-93.259541,37.188934],"type":"Point"}
+}

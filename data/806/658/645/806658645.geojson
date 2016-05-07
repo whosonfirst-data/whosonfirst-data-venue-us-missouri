@@ -1,0 +1,79 @@
+{
+  "id": 806658645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.490047,38.5992,-90.490047,38.5992",
+    "geom:latitude":38.5992,
+    "geom:longitude":-90.490047,
+    "iso:country":"US",
+    "sg:address":"460 Sovereign Ct",
+    "sg:city":"Ballwin",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 207 1970",
+    "sg:postcode":"63011",
+    "sg:province":"MO",
+    "sg:tags":[
+        "passenger",
+        "leasing",
+        "car"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85802943,
+        102191575,
+        404517387,
+        85633793,
+        85972231,
+        102086173,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6hCIvW4nKqKYR66JLbt7Ig_38.599200_-90.490047@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462599983,
+    "wof:geomhash":"604f609f8541a5ca1c875852afb4c268",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086173,
+            "localadmin_id":404517387,
+            "locality_id":85972231,
+            "neighbourhood_id":85802943,
+            "region_id":85688661,
+            "venue_id":806658645
+        }
+    ],
+    "wof:id":806658645,
+    "wof:lastmodified":1462599983,
+    "wof:name":"Advantage Leasing",
+    "wof:parent_id":85802943,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "passenger",
+        "leasing",
+        "car"
+    ]
+},
+  "bbox": [
+    -90.490047,
+    38.5992,
+    -90.490047,
+    38.5992
+],
+  "geometry": {"coordinates":[-90.490047,38.5992],"type":"Point"}
+}

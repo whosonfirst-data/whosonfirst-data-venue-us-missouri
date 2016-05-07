@@ -1,0 +1,73 @@
+{
+  "id": 789626657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.120631,37.268727,-93.120631,37.268727",
+    "geom:latitude":37.268727,
+    "geom:longitude":-93.120631,
+    "iso:country":"US",
+    "sg:address":"225 W Pine St",
+    "sg:city":"Strafford",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 736 3383",
+    "sg:postcode":"65757",
+    "sg:province":"MO",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971363,
+        102087523,
+        85881137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6qUpdG11hmvToL7usxwFvQ_37.268727_-93.120631@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462589269,
+    "wof:geomhash":"8d691bd7f7eadef308f4daa83cc08925",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087523,
+            "locality_id":85971363,
+            "neighbourhood_id":85881137,
+            "region_id":85688661,
+            "venue_id":789626657
+        }
+    ],
+    "wof:id":789626657,
+    "wof:lastmodified":1462589269,
+    "wof:name":"Strafford Senior Citizens APT",
+    "wof:parent_id":85881137,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -93.120631,
+    37.268727,
+    -93.120631,
+    37.268727
+],
+  "geometry": {"coordinates":[-93.120631,37.268727],"type":"Point"}
+}

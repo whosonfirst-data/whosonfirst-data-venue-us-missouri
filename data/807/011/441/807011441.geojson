@@ -1,0 +1,88 @@
+{
+  "id": 807011441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.51358,38.621239,-90.51358,38.621239",
+    "geom:latitude":38.621239,
+    "geom:longitude":-90.51358,
+    "iso:country":"US",
+    "sg:address":"998 Woods Mill Rd",
+    "sg:city":"Ballwin",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        },
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Gym",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 207 3001",
+    "sg:postcode":"63011",
+    "sg:province":"MO",
+    "sg:tags":[
+        "fitness",
+        "spa",
+        "physical",
+        "day",
+        "facility"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85831197,
+        102191575,
+        404517315,
+        85633793,
+        85972301,
+        102086173,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2AxemkF7t2yVCMWPuak3hx_38.621372_-90.513667@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1462602955,
+    "wof:geomhash":"f1d18418184fae1c111e37590176d134",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086173,
+            "localadmin_id":404517315,
+            "locality_id":85972301,
+            "neighbourhood_id":85831197,
+            "region_id":85688661,
+            "venue_id":807011441
+        }
+    ],
+    "wof:id":807011441,
+    "wof:lastmodified":1462602955,
+    "wof:name":"Solace Spa At Wellbridge",
+    "wof:parent_id":85831197,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fitness",
+        "spa",
+        "physical",
+        "day",
+        "facility"
+    ]
+},
+  "bbox": [
+    -90.51358,
+    38.621239,
+    -90.51358,
+    38.621239
+],
+  "geometry": {"coordinates":[-90.51358,38.621239],"type":"Point"}
+}

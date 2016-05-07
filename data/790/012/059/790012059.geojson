@@ -1,0 +1,71 @@
+{
+  "id": 790012059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.18989,39.33341,-91.18989,39.33341",
+    "geom:latitude":39.33341,
+    "geom:longitude":-91.18989,
+    "iso:country":"US",
+    "sg:address":"1212 US Hwy 61 Bus",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 324 2422",
+    "sg:postcode":"63334",
+    "sg:province":"MO",
+    "sg:tags":[
+        "body"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971907,
+        102086151,
+        85817909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7PC19hFl3ll1WU4sysLwUq_39.333410_-91.189890@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462592422,
+    "wof:geomhash":"422e8eebbe155c0e642a99a22dd02e19",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086151,
+            "locality_id":85971907,
+            "neighbourhood_id":85817909,
+            "region_id":85688661,
+            "venue_id":790012059
+        }
+    ],
+    "wof:id":790012059,
+    "wof:lastmodified":1462592422,
+    "wof:name":"Dawson Collision Center",
+    "wof:parent_id":85817909,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body"
+    ]
+},
+  "bbox": [
+    -91.18989,
+    39.33341,
+    -91.18989,
+    39.33341
+],
+  "geometry": {"coordinates":[-91.18989000000001,39.33341],"type":"Point"}
+}

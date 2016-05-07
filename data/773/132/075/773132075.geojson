@@ -1,0 +1,94 @@
+{
+  "id": 773132075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.419339,39.244919,-94.419339,39.244919",
+    "geom:latitude":39.244919,
+    "geom:longitude":-94.419339,
+    "iso:country":"US",
+    "sg:address":"14 S Water St",
+    "sg:city":"Liberty",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Jail",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 792 7625",
+    "sg:postcode":"64068",
+    "sg:province":"MO",
+    "sg:tags":[
+        "county",
+        "govt",
+        "center",
+        "detention",
+        "institution"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420525367,
+        102191575,
+        404516717,
+        85633793,
+        85972461,
+        102086177,
+        85688661,
+        420525305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3qjeFXVbBwtxWqyElnrI67_39.244919_-94.419339@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462583372,
+    "wof:geomhash":"e67cc0a44a2e6129658ae60c5c05a81f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086177,
+            "localadmin_id":404516717,
+            "locality_id":85972461,
+            "neighbourhood_id":420525367,
+            "region_id":85688661,
+            "venue_id":773132075
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086177,
+            "localadmin_id":404516717,
+            "locality_id":85972461,
+            "neighbourhood_id":420525305,
+            "region_id":85688661,
+            "venue_id":773132075
+        }
+    ],
+    "wof:id":773132075,
+    "wof:lastmodified":1462583372,
+    "wof:name":"Clay County Detention Center",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "county",
+        "govt",
+        "center",
+        "detention",
+        "institution"
+    ]
+},
+  "bbox": [
+    -94.419339,
+    39.244919,
+    -94.419339,
+    39.244919
+],
+  "geometry": {"coordinates":[-94.41933899999999,39.244919],"type":"Point"}
+}

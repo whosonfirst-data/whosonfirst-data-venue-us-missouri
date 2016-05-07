@@ -1,0 +1,80 @@
+{
+  "id": 807099605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.504297,39.129854,-94.504297,39.129854",
+    "geom:latitude":39.129854,
+    "geom:longitude":-94.504297,
+    "iso:country":"US",
+    "sg:address":"6515 E Front St",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/blue/182541-wendys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 231 6167",
+    "sg:postcode":"64120",
+    "sg:province":"MO",
+    "sg:tags":[
+        "burger",
+        "american",
+        "soup"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85871999,
+        102191575,
+        404518075,
+        85633793,
+        85970739,
+        102081227,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7C0UweRghoPTvJ2Wxg2sqB_39.130154_-94.504699@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462603717,
+    "wof:geomhash":"a7e365fe8f8ed5430ebb16eb8a2d7115",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081227,
+            "localadmin_id":404518075,
+            "locality_id":85970739,
+            "neighbourhood_id":85871999,
+            "region_id":85688661,
+            "venue_id":807099605
+        }
+    ],
+    "wof:id":807099605,
+    "wof:lastmodified":1462603717,
+    "wof:name":"Wendy's",
+    "wof:parent_id":85871999,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "soup"
+    ]
+},
+  "bbox": [
+    -94.504297,
+    39.129854,
+    -94.504297,
+    39.129854
+],
+  "geometry": {"coordinates":[-94.50429699999999,39.129854],"type":"Point"}
+}

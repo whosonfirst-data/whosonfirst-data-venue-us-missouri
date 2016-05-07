@@ -1,0 +1,89 @@
+{
+  "id": 790249695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.354948,38.466545,-90.354948,38.466545",
+    "geom:latitude":38.466545,
+    "geom:longitude":-90.354948,
+    "iso:country":"US",
+    "sg:address":"5411 Jedmed Ct",
+    "sg:city":"St Louis",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 892 6909",
+    "sg:postcode":"63129",
+    "sg:province":"MO",
+    "sg:tags":[
+        "instruction",
+        "gymnastic"
+    ],
+    "sg:website":"www.barrongymnastics.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85885365,
+        102191575,
+        404517459,
+        85633793,
+        85972631,
+        102086173,
+        85688661,
+        85971021,
+        102080787,
+        85832925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2MEltkrzO11FzDp0SlLWJQ_38.466545_-90.354948@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462594337,
+    "wof:geomhash":"72c3f7f3419284c1ad10775b569938e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086173,
+            "localadmin_id":404517459,
+            "locality_id":85972631,
+            "neighbourhood_id":85885365,
+            "region_id":85688661,
+            "venue_id":790249695
+        },
+        {
+            "country_id":85633793,
+            "county_id":102080787,
+            "locality_id":85971021,
+            "neighbourhood_id":85832925,
+            "region_id":85688661,
+            "venue_id":790249695
+        }
+    ],
+    "wof:id":790249695,
+    "wof:lastmodified":1462594337,
+    "wof:name":"Barron Gymnastics",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instruction",
+        "gymnastic"
+    ]
+},
+  "bbox": [
+    -90.354948,
+    38.466545,
+    -90.354948,
+    38.466545
+],
+  "geometry": {"coordinates":[-90.35494799999999,38.466545],"type":"Point"}
+}

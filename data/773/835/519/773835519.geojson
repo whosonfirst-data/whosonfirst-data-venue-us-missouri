@@ -1,0 +1,71 @@
+{
+  "id": 773835519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.349087,39.701909,-91.349087,39.701909",
+    "geom:latitude":39.701909,
+    "geom:longitude":-91.349087,
+    "iso:country":"US",
+    "sg:address":"419 Riverside St",
+    "sg:city":"Hannibal",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 221 1286",
+    "sg:postcode":"63401",
+    "sg:province":"MO",
+    "sg:tags":[
+        "appliance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688697,
+        85633793,
+        85938427,
+        102086213,
+        85867477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5OfIbiG3EzgKT2kDjPoXgQ_39.701909_-91.349087@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462588768,
+    "wof:geomhash":"bab524ecd131fec4a63e81685c4d3db9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086213,
+            "locality_id":85938427,
+            "neighbourhood_id":85867477,
+            "region_id":85688697,
+            "venue_id":773835519
+        }
+    ],
+    "wof:id":773835519,
+    "wof:lastmodified":1462588768,
+    "wof:name":"Larry's Household Refrig",
+    "wof:parent_id":85867477,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "appliance"
+    ]
+},
+  "bbox": [
+    -91.349087,
+    39.701909,
+    -91.349087,
+    39.701909
+],
+  "geometry": {"coordinates":[-91.349087,39.701909],"type":"Point"}
+}

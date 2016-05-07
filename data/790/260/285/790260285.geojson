@@ -1,0 +1,71 @@
+{
+  "id": 790260285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.779449,39.270543,-94.779449,39.270543",
+    "geom:latitude":39.270543,
+    "geom:longitude":-94.779449,
+    "iso:country":"US",
+    "sg:address":"9825 NW Hillsboro Rd",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 918 2964",
+    "sg:postcode":"64153",
+    "sg:province":"MO",
+    "sg:tags":[
+        "septic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970739,
+        102085271,
+        85823759
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1zvaSTjsEI666VyBAQksOU_39.270543_-94.779449@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462594423,
+    "wof:geomhash":"6e13bbe8a55f1c595d8a680c476c84d8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085271,
+            "locality_id":85970739,
+            "neighbourhood_id":85823759,
+            "region_id":85688661,
+            "venue_id":790260285
+        }
+    ],
+    "wof:id":790260285,
+    "wof:lastmodified":1462594423,
+    "wof:name":"Tom's Septic Svc",
+    "wof:parent_id":85823759,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "septic"
+    ]
+},
+  "bbox": [
+    -94.779449,
+    39.270543,
+    -94.779449,
+    39.270543
+],
+  "geometry": {"coordinates":[-94.779449,39.270543],"type":"Point"}
+}

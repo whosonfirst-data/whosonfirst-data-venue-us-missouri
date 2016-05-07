@@ -1,0 +1,84 @@
+{
+  "id": 807003249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.312897,38.613201,-90.312897,38.613201",
+    "geom:latitude":38.613201,
+    "geom:longitude":-90.312897,
+    "iso:country":"US",
+    "sg:address":"7227 Southwest Ave",
+    "sg:city":"Saint Louis",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 647 0234",
+    "sg:postcode":"63143",
+    "sg:province":"MO",
+    "sg:tags":[
+        "cleaner",
+        "plant",
+        "curtain",
+        "drapery",
+        "drycleaning"
+    ],
+    "sg:website":"www.morgenthalers.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85817813,
+        102191575,
+        404518053,
+        85633793,
+        85971343,
+        102080791,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1e59N9QB4pnxttvp8zT6LV_38.613332_-90.313533@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1462602885,
+    "wof:geomhash":"631c440875cc34a675191b76db1d69ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080791,
+            "localadmin_id":404518053,
+            "locality_id":85971343,
+            "neighbourhood_id":85817813,
+            "region_id":85688661,
+            "venue_id":807003249
+        }
+    ],
+    "wof:id":807003249,
+    "wof:lastmodified":1462602885,
+    "wof:name":"Morgenthaler's Drapery Cleaners",
+    "wof:parent_id":85817813,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaner",
+        "plant",
+        "curtain",
+        "drapery",
+        "drycleaning"
+    ]
+},
+  "bbox": [
+    -90.312897,
+    38.613201,
+    -90.312897,
+    38.613201
+],
+  "geometry": {"coordinates":[-90.31289700000001,38.613201],"type":"Point"}
+}

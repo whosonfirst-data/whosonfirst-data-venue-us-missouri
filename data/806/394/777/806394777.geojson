@@ -1,0 +1,79 @@
+{
+  "id": 806394777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.311293,38.747308,-90.311293,38.747308",
+    "geom:latitude":38.747308,
+    "geom:longitude":-90.311293,
+    "iso:country":"US",
+    "sg:address":"505 Airport Rd",
+    "sg:city":"Ferguson",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 521 8222",
+    "sg:postcode":"63135",
+    "sg:province":"MO",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85859027,
+        102191575,
+        404517247,
+        85633793,
+        85972205,
+        102086173,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Ro7g2EGztw4Q2AxVT6VEK_38.747308_-90.311293@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462597790,
+    "wof:geomhash":"8a0a69e493927105c87b052b6bd1cc71",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086173,
+            "localadmin_id":404517247,
+            "locality_id":85972205,
+            "neighbourhood_id":85859027,
+            "region_id":85688661,
+            "venue_id":806394777
+        }
+    ],
+    "wof:id":806394777,
+    "wof:lastmodified":1462597790,
+    "wof:name":"Ferguson Automotive",
+    "wof:parent_id":85859027,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ]
+},
+  "bbox": [
+    -90.311293,
+    38.747308,
+    -90.311293,
+    38.747308
+],
+  "geometry": {"coordinates":[-90.31129300000001,38.747308],"type":"Point"}
+}

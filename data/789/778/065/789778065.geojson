@@ -1,0 +1,75 @@
+{
+  "id": 789778065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.51315,38.784159,-90.51315,38.784159",
+    "geom:latitude":38.784159,
+    "geom:longitude":-90.51315,
+    "iso:country":"US",
+    "sg:address":"2472 W Clay St",
+    "sg:city":"St Charles",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 949 5666",
+    "sg:postcode":"63301",
+    "sg:province":"MO",
+    "sg:tags":[
+        "lounge",
+        "drinking",
+        "cocktail"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5kJqSR3pI3qygphp3RyEFd_38.784159_-90.513150@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462590461,
+    "wof:geomhash":"27e37ba0f96dc36882c93a76069ddd37",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":789778065
+        }
+    ],
+    "wof:id":789778065,
+    "wof:lastmodified":1462590461,
+    "wof:name":"Greiner's Pub",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lounge",
+        "drinking",
+        "cocktail"
+    ]
+},
+  "bbox": [
+    -90.51315,
+    38.784159,
+    -90.51315,
+    38.784159
+],
+  "geometry": {"coordinates":[-90.51315,38.784159],"type":"Point"}
+}

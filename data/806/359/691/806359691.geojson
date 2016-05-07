@@ -1,0 +1,90 @@
+{
+  "id": 806359691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.354663,38.472751,-90.354663,38.472751",
+    "geom:latitude":38.472751,
+    "geom:longitude":-90.354663,
+    "iso:country":"US",
+    "sg:address":"5799 Wickershire Ln",
+    "sg:city":"Saint Louis",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Groceries",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 416 7253",
+    "sg:postcode":"63129",
+    "sg:province":"MO",
+    "sg:tags":[
+        "bakery",
+        "dist",
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85885365,
+        102191575,
+        404517459,
+        85633793,
+        85972631,
+        102086173,
+        85688661,
+        85971021,
+        102080787,
+        85832925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7J6eRGfDIDy93YJVROeyAW_38.472751_-90.354663@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462597505,
+    "wof:geomhash":"636ab326b7588b9babc1a42e75e6a70c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086173,
+            "localadmin_id":404517459,
+            "locality_id":85972631,
+            "neighbourhood_id":85885365,
+            "region_id":85688661,
+            "venue_id":806359691
+        },
+        {
+            "country_id":85633793,
+            "county_id":102080787,
+            "locality_id":85971021,
+            "neighbourhood_id":85832925,
+            "region_id":85688661,
+            "venue_id":806359691
+        }
+    ],
+    "wof:id":806359691,
+    "wof:lastmodified":1462597505,
+    "wof:name":"Welker Distributing Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bakery",
+        "dist",
+        "product"
+    ]
+},
+  "bbox": [
+    -90.354663,
+    38.472751,
+    -90.354663,
+    38.472751
+],
+  "geometry": {"coordinates":[-90.354663,38.472751],"type":"Point"}
+}

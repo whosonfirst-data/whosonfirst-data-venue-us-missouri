@@ -1,0 +1,73 @@
+{
+  "id": 789719603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.341241,37.19883,-93.341241,37.19883",
+    "geom:latitude":37.19883,
+    "geom:longitude":-93.341241,
+    "iso:country":"US",
+    "sg:address":"3255 W Lombard St",
+    "sg:city":"Springfield",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 865 9434",
+    "sg:postcode":"65802",
+    "sg:province":"MO",
+    "sg:tags":[
+        "operator",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971363,
+        102087523,
+        85836941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6tkHwoDOYtfCBgzjFL6ryg_37.198830_-93.341241@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462590010,
+    "wof:geomhash":"8b66953a38d51d6362eefcaf2a21bf41",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087523,
+            "locality_id":85971363,
+            "neighbourhood_id":85836941,
+            "region_id":85688661,
+            "venue_id":789719603
+        }
+    ],
+    "wof:id":789719603,
+    "wof:lastmodified":1462590010,
+    "wof:name":"Richard Nelson",
+    "wof:parent_id":85836941,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -93.341241,
+    37.19883,
+    -93.341241,
+    37.19883
+],
+  "geometry": {"coordinates":[-93.341241,37.19883],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 807071665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.69979,38.817199,-90.69979,38.817199",
+    "geom:latitude":38.817199,
+    "geom:longitude":-90.69979,
+    "iso:country":"US",
+    "sg:address":"624 N Main St",
+    "sg:city":"O Fallon",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/wentzville/51443-dos-primos/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 978 0130",
+    "sg:postcode":"63366",
+    "sg:province":"MO",
+    "sg:tags":[
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1GaCq2XwdGFlUagZde7DsS_38.817199_-90.699790@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462603458,
+    "wof:geomhash":"f3f75c2ef38ce95a5314e7b5339b59d9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":807071665
+        }
+    ],
+    "wof:id":807071665,
+    "wof:lastmodified":1462603458,
+    "wof:name":"Dos Primos",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican"
+    ]
+},
+  "bbox": [
+    -90.69979,
+    38.817199,
+    -90.69979,
+    38.817199
+],
+  "geometry": {"coordinates":[-90.69978999999999,38.817199],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 773648125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.416343,37.780708,-90.416343,37.780708",
+    "geom:latitude":37.780708,
+    "geom:longitude":-90.416343,
+    "iso:country":"US",
+    "sg:address":"401 E Liberty St",
+    "sg:city":"Farmington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 756 5130",
+    "sg:postcode":"63640",
+    "sg:province":"MO",
+    "sg:tags":[
+        "marking",
+        "maintenance",
+        "parking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970665,
+        102085297,
+        85816309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7j4yu8v27tMD7VerAsUu8E_37.780708_-90.416343@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462587315,
+    "wof:geomhash":"66edf8eb5a73a3dee3adc3bdfc4ec310",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085297,
+            "locality_id":85970665,
+            "neighbourhood_id":85816309,
+            "region_id":85688661,
+            "venue_id":773648125
+        }
+    ],
+    "wof:id":773648125,
+    "wof:lastmodified":1462587315,
+    "wof:name":"Farmington Street Dept",
+    "wof:parent_id":85816309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "marking",
+        "maintenance",
+        "parking"
+    ]
+},
+  "bbox": [
+    -90.416343,
+    37.780708,
+    -90.416343,
+    37.780708
+],
+  "geometry": {"coordinates":[-90.416343,37.780708],"type":"Point"}
+}

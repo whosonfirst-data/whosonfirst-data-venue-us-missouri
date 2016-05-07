@@ -1,0 +1,71 @@
+{
+  "id": 806475513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.183953,38.563072,-92.183953,38.563072",
+    "geom:latitude":38.563072,
+    "geom:longitude":-92.183953,
+    "iso:country":"US",
+    "sg:address":"1338 Monroe St",
+    "sg:city":"Jefferson City",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 694 0041",
+    "sg:postcode":"65101",
+    "sg:province":"MO",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970647,
+        102087511,
+        85837745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1t3MLJGEao6sg29kDn1kTH_38.563072_-92.183953@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462598427,
+    "wof:geomhash":"806a7b8c90e0662e910a9526c661ee60",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087511,
+            "locality_id":85970647,
+            "neighbourhood_id":85837745,
+            "region_id":85688661,
+            "venue_id":806475513
+        }
+    ],
+    "wof:id":806475513,
+    "wof:lastmodified":1462598427,
+    "wof:name":"Thomas Heating & AC & Shtmtl",
+    "wof:parent_id":85837745,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -92.183953,
+    38.563072,
+    -92.183953,
+    38.563072
+],
+  "geometry": {"coordinates":[-92.183953,38.563072],"type":"Point"}
+}

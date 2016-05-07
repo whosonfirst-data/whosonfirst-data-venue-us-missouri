@@ -1,0 +1,73 @@
+{
+  "id": 807098331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.606216,38.790273,-90.606216,38.790273",
+    "geom:latitude":38.790273,
+    "geom:longitude":-90.606216,
+    "iso:country":"US",
+    "sg:address":"199 Spencer Rd",
+    "sg:city":"Saint Peters",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/ofallon/194322-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"63376",
+    "sg:province":"MO",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4G6OVpn3iHurFRlRUedQ7k_38.790162_-90.606025@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462603702,
+    "wof:geomhash":"1490885087db9357bf568044085a8c30",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":807098331
+        }
+    ],
+    "wof:id":807098331,
+    "wof:lastmodified":1462603702,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -90.606216,
+    38.790273,
+    -90.606216,
+    38.790273
+],
+  "geometry": {"coordinates":[-90.606216,38.790273],"type":"Point"}
+}

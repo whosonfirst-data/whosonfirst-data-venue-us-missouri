@@ -1,0 +1,71 @@
+{
+  "id": 773294575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.243031,37.239611,-93.243031,37.239611",
+    "geom:latitude":37.239611,
+    "geom:longitude":-93.243031,
+    "iso:country":"US",
+    "sg:address":"2461 N Neergard Ave",
+    "sg:city":"Springfield",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 832 9494",
+    "sg:postcode":"65803",
+    "sg:province":"MO",
+    "sg:tags":[
+        "truck"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971363,
+        102087523,
+        85881137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4iDS32RLVl3vWL60WDyUqG_37.239611_-93.243031@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462584635,
+    "wof:geomhash":"cb901f70fc19afa5b4d415091f856644",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087523,
+            "locality_id":85971363,
+            "neighbourhood_id":85881137,
+            "region_id":85688661,
+            "venue_id":773294575
+        }
+    ],
+    "wof:id":773294575,
+    "wof:lastmodified":1462584635,
+    "wof:name":"Penske",
+    "wof:parent_id":85881137,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck"
+    ]
+},
+  "bbox": [
+    -93.243031,
+    37.239611,
+    -93.243031,
+    37.239611
+],
+  "geometry": {"coordinates":[-93.243031,37.239611],"type":"Point"}
+}

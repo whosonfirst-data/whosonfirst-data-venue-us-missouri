@@ -1,0 +1,71 @@
+{
+  "id": 806677105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.180225,38.584499,-92.180225,38.584499",
+    "geom:latitude":38.584499,
+    "geom:longitude":-92.180225,
+    "iso:country":"US",
+    "sg:address":"702 W Main St",
+    "sg:city":"Jefferson City",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 636 7913",
+    "sg:postcode":"65101",
+    "sg:province":"MO",
+    "sg:tags":[
+        "tavern"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970647,
+        102087511,
+        85837745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_74wP3Zl9y7PGzFfHxRMjj6_38.584499_-92.180225@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462600146,
+    "wof:geomhash":"230d968d2fc0e9d8fdfa17dc92dc5b44",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087511,
+            "locality_id":85970647,
+            "neighbourhood_id":85837745,
+            "region_id":85688661,
+            "venue_id":806677105
+        }
+    ],
+    "wof:id":806677105,
+    "wof:lastmodified":1462600146,
+    "wof:name":"Pats Place",
+    "wof:parent_id":85837745,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tavern"
+    ]
+},
+  "bbox": [
+    -92.180225,
+    38.584499,
+    -92.180225,
+    38.584499
+],
+  "geometry": {"coordinates":[-92.18022499999999,38.584499],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 789619805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.483512,36.546827,-94.483512,36.546827",
+    "geom:latitude":36.546827,
+    "geom:longitude":-94.483512,
+    "iso:country":"US",
+    "sg:address":"201 Railroad St",
+    "sg:city":"Noel",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 475 3696",
+    "sg:postcode":"64854",
+    "sg:province":"MO",
+    "sg:tags":[
+        "city"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972127,
+        102085305,
+        85850627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_72iYv3jVeZ2Y2AyFvDiUob_36.546827_-94.483512@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462589215,
+    "wof:geomhash":"02b90701a6052e3a22e02d1d28966e11",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085305,
+            "locality_id":85972127,
+            "neighbourhood_id":85850627,
+            "region_id":85688661,
+            "venue_id":789619805
+        }
+    ],
+    "wof:id":789619805,
+    "wof:lastmodified":1462589215,
+    "wof:name":"Noel City Hall",
+    "wof:parent_id":85850627,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "city"
+    ]
+},
+  "bbox": [
+    -94.483512,
+    36.546827,
+    -94.483512,
+    36.546827
+],
+  "geometry": {"coordinates":[-94.483512,36.546827],"type":"Point"}
+}

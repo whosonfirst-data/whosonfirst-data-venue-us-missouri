@@ -1,0 +1,69 @@
+{
+  "id": 773665321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.557005,38.121811,-90.557005,38.121811",
+    "geom:latitude":38.121811,
+    "geom:longitude":-90.557005,
+    "iso:country":"US",
+    "sg:address":"1549 Shepard Dr",
+    "sg:city":"De Soto",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 586 3519",
+    "sg:postcode":"63020",
+    "sg:province":"MO",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85848677,
+        102080787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1TrZVcXCu813HjBxon79x8_38.121811_-90.557005@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462587436,
+    "wof:geomhash":"f12c2aed1f450ae8f3892e3fe8ed5cef",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080787,
+            "neighbourhood_id":85848677,
+            "region_id":85688661,
+            "venue_id":773665321
+        }
+    ],
+    "wof:id":773665321,
+    "wof:lastmodified":1462587436,
+    "wof:name":"Parkview Apartments",
+    "wof:parent_id":85848677,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -90.557005,
+    38.121811,
+    -90.557005,
+    38.121811
+],
+  "geometry": {"coordinates":[-90.557005,38.121811],"type":"Point"}
+}

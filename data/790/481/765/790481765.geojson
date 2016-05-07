@@ -1,0 +1,71 @@
+{
+  "id": 790481765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.396125,38.478386,-90.396125,38.478386",
+    "geom:latitude":38.478386,
+    "geom:longitude":-90.396125,
+    "iso:country":"US",
+    "sg:address":"13502 Becker Place Dr",
+    "sg:city":"Saint Louis",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 849 3491",
+    "sg:postcode":"63128",
+    "sg:province":"MO",
+    "sg:tags":[
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971021,
+        102080787,
+        85832925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7jLhUi7ok2lZOZXR0aj8iK_38.478386_-90.396125@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462596208,
+    "wof:geomhash":"aac25c5970c070985e718fbbb5559d8d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080787,
+            "locality_id":85971021,
+            "neighbourhood_id":85832925,
+            "region_id":85688661,
+            "venue_id":790481765
+        }
+    ],
+    "wof:id":790481765,
+    "wof:lastmodified":1462596208,
+    "wof:name":"Smartclean Commercial Cleaning",
+    "wof:parent_id":85832925,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -90.396125,
+    38.478386,
+    -90.396125,
+    38.478386
+],
+  "geometry": {"coordinates":[-90.396125,38.478386],"type":"Point"}
+}

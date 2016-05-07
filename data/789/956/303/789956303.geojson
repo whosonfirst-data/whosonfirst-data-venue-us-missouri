@@ -1,0 +1,71 @@
+{
+  "id": 789956303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.553803,38.139052,-90.553803,38.139052",
+    "geom:latitude":38.139052,
+    "geom:longitude":-90.553803,
+    "iso:country":"US",
+    "sg:address":"108 Easton St",
+    "sg:city":"De Soto",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 586 2226",
+    "sg:postcode":"63020",
+    "sg:province":"MO",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85848677,
+        102080787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5mZ1UgtbXhyw9wD2HwKcbV_38.139052_-90.553803@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462591969,
+    "wof:geomhash":"3e9c3c6557d8421f0b3cfb9bb05fda8a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080787,
+            "neighbourhood_id":85848677,
+            "region_id":85688661,
+            "venue_id":789956303
+        }
+    ],
+    "wof:id":789956303,
+    "wof:lastmodified":1462591969,
+    "wof:name":"Tariq Manzoor MD",
+    "wof:parent_id":85848677,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -90.553803,
+    38.139052,
+    -90.553803,
+    38.139052
+],
+  "geometry": {"coordinates":[-90.553803,38.139052],"type":"Point"}
+}

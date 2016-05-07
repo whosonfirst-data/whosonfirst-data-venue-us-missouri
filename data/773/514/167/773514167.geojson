@@ -1,0 +1,88 @@
+{
+  "id": 773514167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.355124,38.713444,-90.355124,38.713444",
+    "geom:latitude":38.713444,
+    "geom:longitude":-90.355124,
+    "iso:country":"US",
+    "sg:address":"9037 Saint Charles Rock Rd",
+    "sg:city":"St Louis",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 426 0200",
+    "sg:postcode":"63114",
+    "sg:province":"MO",
+    "sg:tags":[
+        "product",
+        "management",
+        "commercial",
+        "energy",
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85847351,
+        102191575,
+        404517201,
+        85633793,
+        85972285,
+        102086173,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7J4NfT53fSRcGLWDAWNN58_38.713444_-90.355124@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462586302,
+    "wof:geomhash":"e62d5e6f375e9cdc7e77601c36262d79",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086173,
+            "localadmin_id":404517201,
+            "locality_id":85972285,
+            "neighbourhood_id":85847351,
+            "region_id":85688661,
+            "venue_id":773514167
+        }
+    ],
+    "wof:id":773514167,
+    "wof:lastmodified":1462586302,
+    "wof:name":"Energy Express",
+    "wof:parent_id":85847351,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product",
+        "management",
+        "commercial",
+        "energy",
+        "system"
+    ]
+},
+  "bbox": [
+    -90.355124,
+    38.713444,
+    -90.355124,
+    38.713444
+],
+  "geometry": {"coordinates":[-90.355124,38.713444],"type":"Point"}
+}

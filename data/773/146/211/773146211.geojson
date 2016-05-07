@@ -1,0 +1,75 @@
+{
+  "id": 773146211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.683638,39.189764,-94.683638,39.189764",
+    "geom:latitude":39.189764,
+    "geom:longitude":-94.683638,
+    "iso:country":"US",
+    "sg:address":"103 Main St",
+    "sg:city":"Parkville",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 546 3236",
+    "sg:postcode":"64152",
+    "sg:province":"MO",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85840629,
+        102191575,
+        404517567,
+        85633793,
+        85970495,
+        102085271,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1dHJd322BkJ2cuLJm3DXZd_39.189764_-94.683638@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462583476,
+    "wof:geomhash":"c03b8e8d755759755ff6014ea6805481",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085271,
+            "localadmin_id":404517567,
+            "locality_id":85970495,
+            "neighbourhood_id":85840629,
+            "region_id":85688661,
+            "venue_id":773146211
+        }
+    ],
+    "wof:id":773146211,
+    "wof:lastmodified":1462583476,
+    "wof:name":"South Platte Fire Protection",
+    "wof:parent_id":85840629,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -94.683638,
+    39.189764,
+    -94.683638,
+    39.189764
+],
+  "geometry": {"coordinates":[-94.683638,39.189764],"type":"Point"}
+}

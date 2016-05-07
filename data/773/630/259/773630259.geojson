@@ -1,0 +1,73 @@
+{
+  "id": 773630259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.380796,38.41132,-90.380796,38.41132",
+    "geom:latitude":38.41132,
+    "geom:longitude":-90.380796,
+    "iso:country":"US",
+    "sg:address":"3700 Jeffco Blvd",
+    "sg:city":"Arnold",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 461 1721",
+    "sg:postcode":"63010",
+    "sg:province":"MO",
+    "sg:tags":[
+        "grocery",
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85805175,
+        102080787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5gz7OPCcvnMC7bz2vjhJLn_38.411320_-90.380796@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462587174,
+    "wof:geomhash":"cb4cbee8d1e10243ed66a93c0c9cb79a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080787,
+            "neighbourhood_id":85805175,
+            "region_id":85688661,
+            "venue_id":773630259
+        }
+    ],
+    "wof:id":773630259,
+    "wof:lastmodified":1462587174,
+    "wof:name":"Quiktrip",
+    "wof:parent_id":85805175,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocery",
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -90.380796,
+    38.41132,
+    -90.380796,
+    38.41132
+],
+  "geometry": {"coordinates":[-90.380796,38.41132],"type":"Point"}
+}

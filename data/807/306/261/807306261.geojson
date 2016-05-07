@@ -1,0 +1,85 @@
+{
+  "id": 807306261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.222974,37.209519,-93.222974,37.209519",
+    "geom:latitude":37.209519,
+    "geom:longitude":-93.222974,
+    "iso:country":"US",
+    "sg:address":"3465 W Chestnut Expy",
+    "sg:city":"Springfield",
+    "sg:classifiers":[
+        {
+            "category":"Fast Food",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 862 1214",
+    "sg:postcode":"65802",
+    "sg:province":"MO",
+    "sg:tags":[
+        "american",
+        "hot",
+        "hamburger",
+        "dog",
+        "take"
+    ],
+    "sg:website":"http://www.hardees.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971363,
+        102087523,
+        85881137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5AHwPImleFtU19eTArSsew_37.209519_-93.222974@1303262938"
+    },
+    "wof:country":"US",
+    "wof:created":1462605919,
+    "wof:geomhash":"7c65515792f341f3c271c961ad41e188",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087523,
+            "locality_id":85971363,
+            "neighbourhood_id":85881137,
+            "region_id":85688661,
+            "venue_id":807306261
+        }
+    ],
+    "wof:id":807306261,
+    "wof:lastmodified":1462605919,
+    "wof:name":"Hardee's",
+    "wof:parent_id":85881137,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "hot",
+        "hamburger",
+        "dog",
+        "take"
+    ]
+},
+  "bbox": [
+    -93.222974,
+    37.209519,
+    -93.222974,
+    37.209519
+],
+  "geometry": {"coordinates":[-93.22297399999999,37.209519],"type":"Point"}
+}

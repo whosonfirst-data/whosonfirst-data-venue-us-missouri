@@ -1,0 +1,72 @@
+{
+  "id": 807094085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.349612,37.212246,-93.349612,37.212246",
+    "geom:latitude":37.212246,
+    "geom:longitude":-93.349612,
+    "iso:country":"US",
+    "sg:address":"3511 W Chestnut Expy",
+    "sg:city":"Springfield",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/springfield/195694-taco-bell/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 865 4572",
+    "sg:postcode":"65802",
+    "sg:province":"MO",
+    "sg:tags":[
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971363,
+        102087523,
+        85836941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Rzg5vgFdhsmntlTB3coSZ_37.212246_-93.349612@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462603655,
+    "wof:geomhash":"f97c4bf43f6deaccfd13bdb075c7bd4a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087523,
+            "locality_id":85971363,
+            "neighbourhood_id":85836941,
+            "region_id":85688661,
+            "venue_id":807094085
+        }
+    ],
+    "wof:id":807094085,
+    "wof:lastmodified":1462603655,
+    "wof:name":"Taco Bell",
+    "wof:parent_id":85836941,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican"
+    ]
+},
+  "bbox": [
+    -93.349612,
+    37.212246,
+    -93.349612,
+    37.212246
+],
+  "geometry": {"coordinates":[-93.34961199999999,37.212246],"type":"Point"}
+}

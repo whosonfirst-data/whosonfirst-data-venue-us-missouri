@@ -1,0 +1,73 @@
+{
+  "id": 789894527,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.395059,38.478334,-90.395059,38.478334",
+    "geom:latitude":38.478334,
+    "geom:longitude":-90.395059,
+    "iso:country":"US",
+    "sg:address":"13580 Tesson Ferry Rd",
+    "sg:city":"Sappington",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 849 9990",
+    "sg:postcode":"63128",
+    "sg:province":"MO",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971021,
+        102080787,
+        85832925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0bkR8QUh1xhk9pDd0CzsyL_38.478334_-90.395059@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462591402,
+    "wof:geomhash":"c63f3f4efade762dfc082fd388a7418f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080787,
+            "locality_id":85971021,
+            "neighbourhood_id":85832925,
+            "region_id":85688661,
+            "venue_id":789894527
+        }
+    ],
+    "wof:id":789894527,
+    "wof:lastmodified":1462591402,
+    "wof:name":"Custom Cruisers Sales Svc",
+    "wof:parent_id":85832925,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -90.395059,
+    38.478334,
+    -90.395059,
+    38.478334
+],
+  "geometry": {"coordinates":[-90.395059,38.478334],"type":"Point"}
+}

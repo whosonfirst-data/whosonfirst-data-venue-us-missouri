@@ -1,0 +1,75 @@
+{
+  "id": 806379811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.283819,38.624558,-90.283819,38.624558",
+    "geom:latitude":38.624558,
+    "geom:longitude":-90.283819,
+    "iso:country":"US",
+    "sg:address":"5745 Dale Ave",
+    "sg:city":"Saint Louis",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 645 5556",
+    "sg:postcode":"63110",
+    "sg:province":"MO",
+    "sg:tags":[
+        "body"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420525483,
+        102191575,
+        404518053,
+        85633793,
+        85971343,
+        102080791,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6HZz9q5qST7n704zbyJKmh_38.624558_-90.283819@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462597671,
+    "wof:geomhash":"ce086806f65ab91fca42db37808a085d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080791,
+            "localadmin_id":404518053,
+            "locality_id":85971343,
+            "neighbourhood_id":420525483,
+            "region_id":85688661,
+            "venue_id":806379811
+        }
+    ],
+    "wof:id":806379811,
+    "wof:lastmodified":1462597671,
+    "wof:name":"Verhoff Auto Body Inc",
+    "wof:parent_id":420525483,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body"
+    ]
+},
+  "bbox": [
+    -90.283819,
+    38.624558,
+    -90.283819,
+    38.624558
+],
+  "geometry": {"coordinates":[-90.28381899999999,38.624558],"type":"Point"}
+}

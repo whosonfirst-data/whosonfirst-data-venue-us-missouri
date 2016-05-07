@@ -1,0 +1,67 @@
+{
+  "id": 806676383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.87521,38.81296,-90.87521,38.81296",
+    "geom:latitude":38.81296,
+    "geom:longitude":-90.87521,
+    "iso:country":"US",
+    "sg:address":"1991 Wentzville Pkwy",
+    "sg:city":"Wentzville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 327 7960",
+    "sg:postcode":"63385",
+    "sg:province":"MO",
+    "sg:website":"www.pizzahut.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6qblPRe7fPSS8Ll3PegaQt_38.812960_-90.875210@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462600139,
+    "wof:geomhash":"183cc80b4863691e97e162f3cc713550",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":806676383
+        }
+    ],
+    "wof:id":806676383,
+    "wof:lastmodified":1462600139,
+    "wof:name":"Pizza Hut",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.87521,
+    38.81296,
+    -90.87521,
+    38.81296
+],
+  "geometry": {"coordinates":[-90.87521,38.81296],"type":"Point"}
+}

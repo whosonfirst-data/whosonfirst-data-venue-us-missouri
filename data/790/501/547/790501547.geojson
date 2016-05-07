@@ -1,0 +1,75 @@
+{
+  "id": 790501547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.552536,39.055335,-94.552536,39.055335",
+    "geom:latitude":39.055335,
+    "geom:longitude":-94.552536,
+    "iso:country":"US",
+    "sg:address":"2611 E 39 St",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 861 9438",
+    "sg:postcode":"64128",
+    "sg:province":"MO",
+    "sg:tags":[
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872023,
+        102191575,
+        404518075,
+        85633793,
+        85970739,
+        102081227,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5cUB7sDH3Us9M86WOqorNO_39.055335_-94.552536@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462596380,
+    "wof:geomhash":"07cc6353af33a6c59118293d0b8d326f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081227,
+            "localadmin_id":404518075,
+            "locality_id":85970739,
+            "neighbourhood_id":85872023,
+            "region_id":85688661,
+            "venue_id":790501547
+        }
+    ],
+    "wof:id":790501547,
+    "wof:lastmodified":1462596380,
+    "wof:name":"Clark's Tow",
+    "wof:parent_id":85872023,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrecker"
+    ]
+},
+  "bbox": [
+    -94.552536,
+    39.055335,
+    -94.552536,
+    39.055335
+],
+  "geometry": {"coordinates":[-94.552536,39.055335],"type":"Point"}
+}

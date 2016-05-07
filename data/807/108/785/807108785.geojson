@@ -1,0 +1,93 @@
+{
+  "id": 807108785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.519328,38.620576,-90.519328,38.620576",
+    "geom:latitude":38.620576,
+    "geom:longitude":-90.519328,
+    "iso:country":"US",
+    "sg:address":"1272 Town And Country Crossing Dr",
+    "sg:city":"Chesterfield",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Discount & Variety Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 591 0234",
+    "sg:postcode":"63017",
+    "sg:province":"MO",
+    "sg:tags":[
+        "clothing",
+        "merchandise"
+    ],
+    "sg:website":"http://www.target.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85831197,
+        102191575,
+        404517315,
+        85633793,
+        85972301,
+        102086173,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_24wx5qWfLLzoTuMh6jibIH_38.620576_-90.519328@1303262925"
+    },
+    "wof:country":"US",
+    "wof:created":1462603822,
+    "wof:geomhash":"4beafc68be65124601bdcb4dfd1a3bf8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086173,
+            "localadmin_id":404517315,
+            "locality_id":85972301,
+            "neighbourhood_id":85831197,
+            "region_id":85688661,
+            "venue_id":807108785
+        }
+    ],
+    "wof:id":807108785,
+    "wof:lastmodified":1462603822,
+    "wof:name":"Target",
+    "wof:parent_id":85831197,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clothing",
+        "merchandise"
+    ]
+},
+  "bbox": [
+    -90.519328,
+    38.620576,
+    -90.519328,
+    38.620576
+],
+  "geometry": {"coordinates":[-90.519328,38.620576],"type":"Point"}
+}

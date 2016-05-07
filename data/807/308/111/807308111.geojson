@@ -1,0 +1,87 @@
+{
+  "id": 807308111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.25148,37.225199,-93.25148,37.225199",
+    "geom:latitude":37.225199,
+    "geom:longitude":-93.25148,
+    "iso:country":"US",
+    "sg:address":"2153 E Division St A",
+    "sg:city":"Springfield",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Motor Vehicles & Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 866 2220",
+    "sg:postcode":"65803",
+    "sg:province":"MO",
+    "sg:tags":[
+        "automobile",
+        "engines-diesel",
+        "injection",
+        "engines-diesel-fuel"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971363,
+        102087523,
+        85881137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2tCshtVLadr8LrohVOGQsA_37.225199_-93.251480@1303262938"
+    },
+    "wof:country":"US",
+    "wof:created":1462605938,
+    "wof:geomhash":"e7c715b3e23a55ff646f30fff626cb2e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087523,
+            "locality_id":85971363,
+            "neighbourhood_id":85881137,
+            "region_id":85688661,
+            "venue_id":807308111
+        }
+    ],
+    "wof:id":807308111,
+    "wof:lastmodified":1462605938,
+    "wof:name":"Northeast Diesel Service of Springfield",
+    "wof:parent_id":85881137,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "engines-diesel",
+        "injection",
+        "engines-diesel-fuel"
+    ]
+},
+  "bbox": [
+    -93.25148,
+    37.225199,
+    -93.25148,
+    37.225199
+],
+  "geometry": {"coordinates":[-93.25148,37.225199],"type":"Point"}
+}

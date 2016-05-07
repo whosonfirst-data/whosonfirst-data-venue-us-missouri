@@ -1,0 +1,71 @@
+{
+  "id": 807011125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.42147,37.778281,-90.42147,37.778281",
+    "geom:latitude":37.778281,
+    "geom:longitude":-90.42147,
+    "iso:country":"US",
+    "sg:address":"13 W 2nd St",
+    "sg:city":"Farmington",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 756 4560",
+    "sg:postcode":"63640",
+    "sg:province":"MO",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970665,
+        102085297,
+        85816309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_28S5mSVvNvWkni5Q7fL5cA_37.778405_-90.422103@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1462602952,
+    "wof:geomhash":"209206100b47e768112aecd008e39d49",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085297,
+            "locality_id":85970665,
+            "neighbourhood_id":85816309,
+            "region_id":85688661,
+            "venue_id":807011125
+        }
+    ],
+    "wof:id":807011125,
+    "wof:lastmodified":1462602952,
+    "wof:name":"Vicki's Beauty Shop",
+    "wof:parent_id":85816309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -90.42147,
+    37.778281,
+    -90.42147,
+    37.778281
+],
+  "geometry": {"coordinates":[-90.42147,37.778281],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 806360887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.583765,39.412191,-94.583765,39.412191",
+    "geom:latitude":39.412191,
+    "geom:longitude":-94.583765,
+    "iso:country":"US",
+    "sg:address":"1514 US Hwy 169",
+    "sg:city":"Smithville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 532 0130",
+    "sg:postcode":"64089",
+    "sg:province":"MO",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970739,
+        102086177,
+        85836329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4k21EXdbzWOKkBG9U1CvZH_39.412191_-94.583765@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462597513,
+    "wof:geomhash":"cac43de7f43cd183705aee2d61c81887",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086177,
+            "locality_id":85970739,
+            "neighbourhood_id":85836329,
+            "region_id":85688661,
+            "venue_id":806360887
+        }
+    ],
+    "wof:id":806360887,
+    "wof:lastmodified":1462597513,
+    "wof:name":"Smithville Animal Hospital",
+    "wof:parent_id":85836329,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -94.583765,
+    39.412191,
+    -94.583765,
+    39.412191
+],
+  "geometry": {"coordinates":[-94.583765,39.412191],"type":"Point"}
+}

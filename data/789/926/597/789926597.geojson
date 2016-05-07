@@ -1,0 +1,73 @@
+{
+  "id": 789926597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.700191,38.802167,-90.700191,38.802167",
+    "geom:latitude":38.802167,
+    "geom:longitude":-90.700191,
+    "iso:country":"US",
+    "sg:address":"715 Hwy K",
+    "sg:city":"O Fallon",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 978 4868",
+    "sg:postcode":"63366",
+    "sg:province":"MO",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5QcFRuzrhPHBri7qFPYcc6_38.802167_-90.700191@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462591683,
+    "wof:geomhash":"6e6325d64822be24736d4c36e30396dc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":789926597
+        }
+    ],
+    "wof:id":789926597,
+    "wof:lastmodified":1462591683,
+    "wof:name":"Meineke Car Care Ctr",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -90.700191,
+    38.802167,
+    -90.700191,
+    38.802167
+],
+  "geometry": {"coordinates":[-90.700191,38.802167],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 789750015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.301708,36.994739,-93.301708,36.994739",
+    "geom:latitude":36.994739,
+    "geom:longitude":-93.301708,
+    "iso:country":"US",
+    "sg:address":"1715 Deer Ridge Dr",
+    "sg:city":"Nixa",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 725 4295",
+    "sg:postcode":"65714",
+    "sg:province":"MO",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971577,
+        102087497,
+        85809751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2iwtuMdy9AFdTygWH35Ffb_36.994739_-93.301708@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462590253,
+    "wof:geomhash":"a43c432ab9badaf4ecf226a3e284e988",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087497,
+            "locality_id":85971577,
+            "neighbourhood_id":85809751,
+            "region_id":85688661,
+            "venue_id":789750015
+        }
+    ],
+    "wof:id":789750015,
+    "wof:lastmodified":1462590253,
+    "wof:name":"Phil Young Construction",
+    "wof:parent_id":85809751,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -93.301708,
+    36.994739,
+    -93.301708,
+    36.994739
+],
+  "geometry": {"coordinates":[-93.301708,36.994739],"type":"Point"}
+}

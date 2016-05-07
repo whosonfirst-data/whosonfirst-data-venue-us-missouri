@@ -1,0 +1,71 @@
+{
+  "id": 806701291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.36231,38.485648,-90.36231,38.485648",
+    "geom:latitude":38.485648,
+    "geom:longitude":-90.36231,
+    "iso:country":"US",
+    "sg:address":"4446 Butler Hill Rd",
+    "sg:city":"Saint Louis",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 487 3700",
+    "sg:postcode":"63128",
+    "sg:province":"MO",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971021,
+        102080787,
+        85832925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6GgomWAjlOlcZqPRDQBqS9_38.485648_-90.362310@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462600349,
+    "wof:geomhash":"101e41cb9491eafcb8d364dc2a1586db",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080787,
+            "locality_id":85971021,
+            "neighbourhood_id":85832925,
+            "region_id":85688661,
+            "venue_id":806701291
+        }
+    ],
+    "wof:id":806701291,
+    "wof:lastmodified":1462600349,
+    "wof:name":"Dunrite Auto Detailing",
+    "wof:parent_id":85832925,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -90.36231,
+    38.485648,
+    -90.36231,
+    38.485648
+],
+  "geometry": {"coordinates":[-90.36230999999999,38.485648],"type":"Point"}
+}

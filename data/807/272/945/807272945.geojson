@@ -1,0 +1,84 @@
+{
+  "id": 807272945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.771606,37.949181,-91.771606,37.949181",
+    "geom:latitude":37.949181,
+    "geom:longitude":-91.771606,
+    "iso:country":"US",
+    "sg:address":"702 N Pine St",
+    "sg:city":"Rolla",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 364 0515",
+    "sg:postcode":"65401",
+    "sg:province":"MO",
+    "sg:tags":[
+        "vacancy",
+        "apartment",
+        "rental",
+        "finder",
+        "listing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970821,
+        102086893,
+        85814531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6TfwTNisx6kwrLMEXVuiE1_37.949181_-91.771606@1303262936"
+    },
+    "wof:country":"US",
+    "wof:created":1462605573,
+    "wof:geomhash":"c627c9cff915edfc97330e7defa1aa42",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086893,
+            "locality_id":85970821,
+            "neighbourhood_id":85814531,
+            "region_id":85688661,
+            "venue_id":807272945
+        }
+    ],
+    "wof:id":807272945,
+    "wof:lastmodified":1462605573,
+    "wof:name":"Oak Ridge Apartments",
+    "wof:parent_id":85814531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "vacancy",
+        "apartment",
+        "rental",
+        "finder",
+        "listing"
+    ]
+},
+  "bbox": [
+    -91.771606,
+    37.949181,
+    -91.771606,
+    37.949181
+],
+  "geometry": {"coordinates":[-91.77160600000001,37.949181],"type":"Point"}
+}

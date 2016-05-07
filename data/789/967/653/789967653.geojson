@@ -1,0 +1,71 @@
+{
+  "id": 789967653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.220953,37.180252,-93.220953,37.180252",
+    "geom:latitude":37.180252,
+    "geom:longitude":-93.220953,
+    "iso:country":"US",
+    "sg:address":"3627 E Sunshine St",
+    "sg:city":"Springfield",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 883 5354",
+    "sg:postcode":"65809",
+    "sg:province":"MO",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971363,
+        102087523,
+        85881121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3pNDUfs7qu8kQLsTCtm3zU_37.180252_-93.220953@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462592064,
+    "wof:geomhash":"8a5a2140e61a105296c6c356598b435c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087523,
+            "locality_id":85971363,
+            "neighbourhood_id":85881121,
+            "region_id":85688661,
+            "venue_id":789967653
+        }
+    ],
+    "wof:id":789967653,
+    "wof:lastmodified":1462592064,
+    "wof:name":"Eastgate Mini-Storage",
+    "wof:parent_id":85881121,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -93.220953,
+    37.180252,
+    -93.220953,
+    37.180252
+],
+  "geometry": {"coordinates":[-93.22095299999999,37.180252],"type":"Point"}
+}

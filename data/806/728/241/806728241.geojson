@@ -1,0 +1,77 @@
+{
+  "id": 806728241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.361839,38.705187,-90.361839,38.705187",
+    "geom:latitude":38.705187,
+    "geom:longitude":-90.361839,
+    "iso:country":"US",
+    "sg:address":"9440 Midland Blvd",
+    "sg:city":"Overland",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 426 3300",
+    "sg:postcode":"63114",
+    "sg:province":"MO",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85847351,
+        102191575,
+        404517201,
+        85633793,
+        85972285,
+        102086173,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5tIon18UNiYixdNl8uEVWB_38.705187_-90.361839@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462600568,
+    "wof:geomhash":"d0a2860c36466e4430eb4abd32091218",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086173,
+            "localadmin_id":404517201,
+            "locality_id":85972285,
+            "neighbourhood_id":85847351,
+            "region_id":85688661,
+            "venue_id":806728241
+        }
+    ],
+    "wof:id":806728241,
+    "wof:lastmodified":1462600568,
+    "wof:name":"Overland Institute Of Health",
+    "wof:parent_id":85847351,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -90.361839,
+    38.705187,
+    -90.361839,
+    38.705187
+],
+  "geometry": {"coordinates":[-90.361839,38.705187],"type":"Point"}
+}

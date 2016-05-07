@@ -1,0 +1,73 @@
+{
+  "id": 773175691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.779736,39.367385,-94.779736,39.367385",
+    "geom:latitude":39.367385,
+    "geom:longitude":-94.779736,
+    "iso:country":"US",
+    "sg:address":"312 Branch St",
+    "sg:city":"Platte City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 858 5535",
+    "sg:postcode":"64079",
+    "sg:province":"MO",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970739,
+        102085271,
+        85851839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_32QrwmBoR32FU9CopkVco6_39.367385_-94.779736@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462583704,
+    "wof:geomhash":"03fb28964460f0ae39a317f122333a88",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085271,
+            "locality_id":85970739,
+            "neighbourhood_id":85851839,
+            "region_id":85688661,
+            "venue_id":773175691
+        }
+    ],
+    "wof:id":773175691,
+    "wof:lastmodified":1462583704,
+    "wof:name":"Hometown Auto Repair",
+    "wof:parent_id":85851839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -94.779736,
+    39.367385,
+    -94.779736,
+    39.367385
+],
+  "geometry": {"coordinates":[-94.779736,39.367385],"type":"Point"}
+}

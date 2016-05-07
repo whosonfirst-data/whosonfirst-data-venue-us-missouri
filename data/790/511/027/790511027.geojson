@@ -1,0 +1,73 @@
+{
+  "id": 790511027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.344231,39.353939,-94.344231,39.353939",
+    "geom:latitude":39.353939,
+    "geom:longitude":-94.344231,
+    "iso:country":"US",
+    "sg:address":"1004 Madelyn Dr",
+    "sg:city":"Kearney",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 628 4545",
+    "sg:postcode":"64060",
+    "sg:province":"MO",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971507,
+        102086177,
+        85812855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6dYh3iOthBMA1MvKmRE1gH_39.353939_-94.344231@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462596460,
+    "wof:geomhash":"8dd3b26e0d08b77e27dc638e41d573ee",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086177,
+            "locality_id":85971507,
+            "neighbourhood_id":85812855,
+            "region_id":85688661,
+            "venue_id":790511027
+        }
+    ],
+    "wof:id":790511027,
+    "wof:lastmodified":1462596460,
+    "wof:name":"Sierra Plumbing",
+    "wof:parent_id":85812855,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -94.344231,
+    39.353939,
+    -94.344231,
+    39.353939
+],
+  "geometry": {"coordinates":[-94.34423099999999,39.353939],"type":"Point"}
+}

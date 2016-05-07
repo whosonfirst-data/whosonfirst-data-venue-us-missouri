@@ -1,0 +1,73 @@
+{
+  "id": 790358575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.381228,38.40917,-90.381228,38.40917",
+    "geom:latitude":38.40917,
+    "geom:longitude":-90.381228,
+    "iso:country":"US",
+    "sg:address":"3895 Jeffco Blvd",
+    "sg:city":"Arnold",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 532 4099",
+    "sg:postcode":"63010",
+    "sg:province":"MO",
+    "sg:tags":[
+        "detection",
+        "equipment",
+        "drug"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85805175,
+        102080787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_75pXQqwTxKQq6fSOYFG9NJ_38.409170_-90.381228@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462595214,
+    "wof:geomhash":"ec396fac0c63778f191654e3417f5eb4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080787,
+            "neighbourhood_id":85805175,
+            "region_id":85688661,
+            "venue_id":790358575
+        }
+    ],
+    "wof:id":790358575,
+    "wof:lastmodified":1462595214,
+    "wof:name":"St Louis MRO Assoc",
+    "wof:parent_id":85805175,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "detection",
+        "equipment",
+        "drug"
+    ]
+},
+  "bbox": [
+    -90.381228,
+    38.40917,
+    -90.381228,
+    38.40917
+],
+  "geometry": {"coordinates":[-90.38122799999999,38.40917],"type":"Point"}
+}

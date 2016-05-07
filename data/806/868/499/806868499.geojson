@@ -1,0 +1,73 @@
+{
+  "id": 806868499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.51108,37.131448,-94.51108,37.131448",
+    "geom:latitude":37.131448,
+    "geom:longitude":-94.51108,
+    "iso:country":"US",
+    "sg:address":"24971 Betty Rose Ln",
+    "sg:city":"Joplin",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 782 5060",
+    "sg:postcode":"64801",
+    "sg:province":"MO",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970893,
+        102087525,
+        85810925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1jxdA6oLVfaKmbVa416efC_37.131448_-94.511080@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462601760,
+    "wof:geomhash":"2612b367cbf10c27937efe90eae2533b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087525,
+            "locality_id":85970893,
+            "neighbourhood_id":85810925,
+            "region_id":85688661,
+            "venue_id":806868499
+        }
+    ],
+    "wof:id":806868499,
+    "wof:lastmodified":1462601760,
+    "wof:name":"Airport Village Apartments",
+    "wof:parent_id":85810925,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -94.51108,
+    37.131448,
+    -94.51108,
+    37.131448
+],
+  "geometry": {"coordinates":[-94.51108000000001,37.131448],"type":"Point"}
+}

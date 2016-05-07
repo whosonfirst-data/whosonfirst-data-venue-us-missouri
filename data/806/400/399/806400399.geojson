@@ -1,0 +1,73 @@
+{
+  "id": 806400399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.489111,39.091778,-94.489111,39.091778",
+    "geom:latitude":39.091778,
+    "geom:longitude":-94.489111,
+    "iso:country":"US",
+    "sg:address":"1512 Tullis Ave",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 241 4166",
+    "sg:postcode":"64126",
+    "sg:province":"MO",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970739,
+        102081227,
+        85810269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2n5sf4LF6ALtBRvT3urCY6_39.091778_-94.489111@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462597842,
+    "wof:geomhash":"5e205d6ea1a09d1c5c3904cc7e504578",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081227,
+            "locality_id":85970739,
+            "neighbourhood_id":85810269,
+            "region_id":85688661,
+            "venue_id":806400399
+        }
+    ],
+    "wof:id":806400399,
+    "wof:lastmodified":1462597842,
+    "wof:name":"Truman Road Auto Service Ctr",
+    "wof:parent_id":85810269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -94.489111,
+    39.091778,
+    -94.489111,
+    39.091778
+],
+  "geometry": {"coordinates":[-94.48911099999999,39.091778],"type":"Point"}
+}

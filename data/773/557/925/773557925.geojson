@@ -1,0 +1,71 @@
+{
+  "id": 773557925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.521704,39.799726,-91.521704,39.799726",
+    "geom:latitude":39.799726,
+    "geom:longitude":-91.521704,
+    "iso:country":"US",
+    "sg:address":"216 E Main Cross St",
+    "sg:city":"Palmyra",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 769 2737",
+    "sg:postcode":"63461",
+    "sg:province":"MO",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688697,
+        85633793,
+        85938427,
+        102086213,
+        85867477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0dHGt64GuwTzv1MRiQlWYs_39.799726_-91.521704@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462586632,
+    "wof:geomhash":"a8cbc69359c3d149f751ec2794642bf9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086213,
+            "locality_id":85938427,
+            "neighbourhood_id":85867477,
+            "region_id":85688697,
+            "venue_id":773557925
+        }
+    ],
+    "wof:id":773557925,
+    "wof:lastmodified":1462586632,
+    "wof:name":"M & S Auto Repair",
+    "wof:parent_id":85867477,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -91.521704,
+    39.799726,
+    -91.521704,
+    39.799726
+],
+  "geometry": {"coordinates":[-91.521704,39.799726],"type":"Point"}
+}

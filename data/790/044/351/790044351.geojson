@@ -1,0 +1,76 @@
+{
+  "id": 790044351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.482634,38.778954,-90.482634,38.778954",
+    "geom:latitude":38.778954,
+    "geom:longitude":-90.482634,
+    "iso:country":"US",
+    "sg:address":"325 S Main St",
+    "sg:city":"St Charles",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 949 8899",
+    "sg:postcode":"63301",
+    "sg:province":"MO",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_75eg9FgSRFvjf7mgTEA7iS_38.778954_-90.482634@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462592674,
+    "wof:geomhash":"37bc2c657028ae9be206456d50795b14",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":790044351
+        }
+    ],
+    "wof:id":790044351,
+    "wof:lastmodified":1462592674,
+    "wof:name":"Hamilton House",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -90.482634,
+    38.778954,
+    -90.482634,
+    38.778954
+],
+  "geometry": {"coordinates":[-90.482634,38.778954],"type":"Point"}
+}

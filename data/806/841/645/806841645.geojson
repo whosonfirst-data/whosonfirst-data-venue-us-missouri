@@ -1,0 +1,80 @@
+{
+  "id": 806841645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.259912,38.689324,-90.259912,38.689324",
+    "geom:latitude":38.689324,
+    "geom:longitude":-90.259912,
+    "iso:country":"US",
+    "sg:address":"2 Union 70 Center Dr",
+    "sg:city":"St Louis",
+    "sg:classifiers":[
+        {
+            "category":"Bus Charters",
+            "subcategory":"",
+            "type":"Transportation"
+        },
+        {
+            "category":"School Buses",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 389 1111",
+    "sg:postcode":"63120",
+    "sg:province":"MO",
+    "sg:tags":[
+        "rental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873709,
+        102191575,
+        404518053,
+        85633793,
+        85971343,
+        102080791,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2bevZOg9gEycKiI51NvBOt_38.689324_-90.259912@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462601521,
+    "wof:geomhash":"b1138669fadcd2cc5942836a41444f54",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080791,
+            "localadmin_id":404518053,
+            "locality_id":85971343,
+            "neighbourhood_id":85873709,
+            "region_id":85688661,
+            "venue_id":806841645
+        }
+    ],
+    "wof:id":806841645,
+    "wof:lastmodified":1462601521,
+    "wof:name":"Laidlaw Transit Inc",
+    "wof:parent_id":85873709,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "rental"
+    ]
+},
+  "bbox": [
+    -90.259912,
+    38.689324,
+    -90.259912,
+    38.689324
+],
+  "geometry": {"coordinates":[-90.259912,38.689324],"type":"Point"}
+}

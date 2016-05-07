@@ -1,0 +1,70 @@
+{
+  "id": 789890123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.135485,37.774103,-92.135485,37.774103",
+    "geom:latitude":37.774103,
+    "geom:longitude":-92.135485,
+    "iso:country":"US",
+    "sg:address":"8 Burr Pl",
+    "sg:city":"Fort Leonard Wood",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 329 2868",
+    "sg:postcode":"65473",
+    "sg:province":"MO",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85822351,
+        102191575,
+        404517689,
+        85633793,
+        85971093,
+        102086161,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ZxWqSbz8y2ADWSwjwdJ3U_37.774103_-92.135485@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462591372,
+    "wof:geomhash":"ce68bab4ad56719c3deccc14759c4cde",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086161,
+            "localadmin_id":404517689,
+            "locality_id":85971093,
+            "neighbourhood_id":85822351,
+            "region_id":85688661,
+            "venue_id":789890123
+        }
+    ],
+    "wof:id":789890123,
+    "wof:lastmodified":1462591372,
+    "wof:name":"Rainbow of Fun",
+    "wof:parent_id":85822351,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -92.135485,
+    37.774103,
+    -92.135485,
+    37.774103
+],
+  "geometry": {"coordinates":[-92.135485,37.774103],"type":"Point"}
+}

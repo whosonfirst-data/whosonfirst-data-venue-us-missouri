@@ -1,0 +1,71 @@
+{
+  "id": 773447437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.568174,38.802385,-90.568174,38.802385",
+    "geom:latitude":38.802385,
+    "geom:longitude":-90.568174,
+    "iso:country":"US",
+    "sg:address":"3594 Compton Pkwy",
+    "sg:city":"Saint Charles",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 443 1900",
+    "sg:postcode":"63301",
+    "sg:province":"MO",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ONqOHztouaAopAQJmuOg4_38.802385_-90.568174@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462585819,
+    "wof:geomhash":"1bddc15522a0f23391f79c2d0fb7d925",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":773447437
+        }
+    ],
+    "wof:id":773447437,
+    "wof:lastmodified":1462585819,
+    "wof:name":"Bob Marquart Masonry",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -90.568174,
+    38.802385,
+    -90.568174,
+    38.802385
+],
+  "geometry": {"coordinates":[-90.568174,38.802385],"type":"Point"}
+}

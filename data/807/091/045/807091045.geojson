@@ -1,0 +1,73 @@
+{
+  "id": 807091045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.785071,37.944426,-91.785071,37.944426",
+    "geom:latitude":37.944426,
+    "geom:longitude":-91.785071,
+    "iso:country":"US",
+    "sg:address":"1106 Kingshighway St",
+    "sg:city":"Rolla",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/rolla/194289-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"65401",
+    "sg:province":"MO",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970821,
+        102086893,
+        85814531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_40ITo6Ssorxogr5sfqHpVx_37.944426_-91.785071@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462603627,
+    "wof:geomhash":"6dcb4f59b71289091190c2d542072692",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086893,
+            "locality_id":85970821,
+            "neighbourhood_id":85814531,
+            "region_id":85688661,
+            "venue_id":807091045
+        }
+    ],
+    "wof:id":807091045,
+    "wof:lastmodified":1462603627,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85814531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -91.785071,
+    37.944426,
+    -91.785071,
+    37.944426
+],
+  "geometry": {"coordinates":[-91.785071,37.944426],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 807075475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.541775,37.214138,-89.541775,37.214138",
+    "geom:latitude":37.214138,
+    "geom:longitude":-89.541775,
+    "iso:country":"US",
+    "sg:address":"2614 Main St",
+    "sg:city":"Scott City",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/kelso/190887-burger-king/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 264 3244",
+    "sg:postcode":"63780",
+    "sg:province":"MO",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971719,
+        102087505,
+        85826755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5WffizHBqHDfONlu3JOMIO_37.214138_-89.541775@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462603498,
+    "wof:geomhash":"8c2d72dc9f752734f3e9bb31481e3e2d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087505,
+            "locality_id":85971719,
+            "neighbourhood_id":85826755,
+            "region_id":85688661,
+            "venue_id":807075475
+        }
+    ],
+    "wof:id":807075475,
+    "wof:lastmodified":1462603498,
+    "wof:name":"Burger King",
+    "wof:parent_id":85826755,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -89.541775,
+    37.214138,
+    -89.541775,
+    37.214138
+],
+  "geometry": {"coordinates":[-89.541775,37.214138],"type":"Point"}
+}

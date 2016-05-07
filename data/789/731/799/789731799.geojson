@@ -1,0 +1,73 @@
+{
+  "id": 789731799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.859029,38.810359,-90.859029,38.810359",
+    "geom:latitude":38.810359,
+    "geom:longitude":-90.859029,
+    "iso:country":"US",
+    "sg:address":"600 W Pearce Blvd",
+    "sg:city":"Wentzville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 639 6940",
+    "sg:postcode":"63385",
+    "sg:province":"MO",
+    "sg:tags":[
+        "roofing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7YxNKHQPmt9gtsm9XwdXl1_38.810359_-90.859029@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462590115,
+    "wof:geomhash":"5dbc17a4b3b3b62035f2de695e3b95fe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":789731799
+        }
+    ],
+    "wof:id":789731799,
+    "wof:lastmodified":1462590115,
+    "wof:name":"Stephen Baumstark Roofing",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "roofing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -90.859029,
+    38.810359,
+    -90.859029,
+    38.810359
+],
+  "geometry": {"coordinates":[-90.85902900000001,38.810359],"type":"Point"}
+}

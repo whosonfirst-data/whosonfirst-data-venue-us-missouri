@@ -1,0 +1,101 @@
+{
+  "id": 807253185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.317039,38.95068,-92.317039,38.95068",
+    "geom:latitude":38.95068,
+    "geom:longitude":-92.317039,
+    "iso:country":"US",
+    "sg:address":"1600 E Broadway",
+    "sg:city":"Columbia",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Job Training",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        },
+        {
+            "category":"Community Center",
+            "subcategory":"",
+            "type":"Public Place"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 815 6211",
+    "sg:postcode":"65201",
+    "sg:province":"MO",
+    "sg:tags":[
+        "nursing",
+        "homes-skilled",
+        "facility",
+        "medical",
+        "ambulance",
+        "surgery"
+    ],
+    "sg:website":"http://www.boone.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85835171,
+        102191575,
+        404516389,
+        85633793,
+        85970425,
+        102086187,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0uYLZOHyEwjTG9jjAEExA0_38.950680_-92.317039@1303262935"
+    },
+    "wof:country":"US",
+    "wof:created":1462605360,
+    "wof:geomhash":"7de847cae089e4ee0e458903da13c8ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086187,
+            "localadmin_id":404516389,
+            "locality_id":85970425,
+            "neighbourhood_id":85835171,
+            "region_id":85688661,
+            "venue_id":807253185
+        }
+    ],
+    "wof:id":807253185,
+    "wof:lastmodified":1462605360,
+    "wof:name":"Boone Hospital Center",
+    "wof:parent_id":85835171,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "nursing",
+        "homes-skilled",
+        "facility",
+        "medical",
+        "ambulance",
+        "surgery"
+    ]
+},
+  "bbox": [
+    -92.317039,
+    38.95068,
+    -92.317039,
+    38.95068
+],
+  "geometry": {"coordinates":[-92.31703899999999,38.95068],"type":"Point"}
+}

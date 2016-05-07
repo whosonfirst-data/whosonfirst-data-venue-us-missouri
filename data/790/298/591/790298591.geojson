@@ -1,0 +1,80 @@
+{
+  "id": 790298591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.639688,38.50648,-90.639688,38.50648",
+    "geom:latitude":38.50648,
+    "geom:longitude":-90.639688,
+    "iso:country":"US",
+    "sg:address":"101 Hilltop Village Center Dr",
+    "sg:city":"Eureka",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Discount & Variety Stores",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 938 9055",
+    "sg:postcode":"63025",
+    "sg:province":"MO",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85809151,
+        102191575,
+        404517383,
+        85633793,
+        85972199,
+        102086173,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_74JV3QgoVMFp4GMmNitP94_38.506480_-90.639688@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462594759,
+    "wof:geomhash":"3bec92eef302c001ff34b31d38253fdb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086173,
+            "localadmin_id":404517383,
+            "locality_id":85972199,
+            "neighbourhood_id":85809151,
+            "region_id":85688661,
+            "venue_id":790298591
+        }
+    ],
+    "wof:id":790298591,
+    "wof:lastmodified":1462594759,
+    "wof:name":"Ben Franklin",
+    "wof:parent_id":85809151,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -90.639688,
+    38.50648,
+    -90.639688,
+    38.50648
+],
+  "geometry": {"coordinates":[-90.63968800000001,38.50648],"type":"Point"}
+}

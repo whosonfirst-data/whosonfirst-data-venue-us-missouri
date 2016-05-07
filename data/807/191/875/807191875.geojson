@@ -1,0 +1,87 @@
+{
+  "id": 807191875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.41983,37.781078,-90.41983,37.781078",
+    "geom:latitude":37.781078,
+    "geom:longitude":-90.41983,
+    "iso:country":"US",
+    "sg:address":"101 E Liberty St",
+    "sg:city":"Farmington",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Painting Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Hardware",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 756 6001",
+    "sg:postcode":"63640",
+    "sg:province":"MO",
+    "sg:tags":[
+        "paint",
+        "wallpaper",
+        "store",
+        "wallcoverings"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970665,
+        102085297,
+        85816309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_31gu0ZuzRfOLXmgMJZz7sX_37.781078_-90.419830@1303262931"
+    },
+    "wof:country":"US",
+    "wof:created":1462604708,
+    "wof:geomhash":"d5688ec47da85520a9a53f5a2228f2f7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085297,
+            "locality_id":85970665,
+            "neighbourhood_id":85816309,
+            "region_id":85688661,
+            "venue_id":807191875
+        }
+    ],
+    "wof:id":807191875,
+    "wof:lastmodified":1462604708,
+    "wof:name":"Plummer's Hardware",
+    "wof:parent_id":85816309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "paint",
+        "wallpaper",
+        "store",
+        "wallcoverings"
+    ]
+},
+  "bbox": [
+    -90.41983,
+    37.781078,
+    -90.41983,
+    37.781078
+],
+  "geometry": {"coordinates":[-90.41983,37.781078],"type":"Point"}
+}

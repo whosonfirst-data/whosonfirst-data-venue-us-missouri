@@ -1,0 +1,73 @@
+{
+  "id": 806689483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.257812,37.225006,-93.257812,37.225006",
+    "geom:latitude":37.225006,
+    "geom:longitude":-93.257812,
+    "iso:country":"US",
+    "sg:address":"1323 N Nias Ave",
+    "sg:city":"Springfield",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 933 5471",
+    "sg:postcode":"65802",
+    "sg:province":"MO",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971363,
+        102087523,
+        85881137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4xo5tN4l28oEfdvnUmK50e_37.225006_-93.257812@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462600250,
+    "wof:geomhash":"92e4246224f7f9a45af8f588614c4960",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087523,
+            "locality_id":85971363,
+            "neighbourhood_id":85881137,
+            "region_id":85688661,
+            "venue_id":806689483
+        }
+    ],
+    "wof:id":806689483,
+    "wof:lastmodified":1462600250,
+    "wof:name":"Price Electric Co",
+    "wof:parent_id":85881137,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -93.257812,
+    37.225006,
+    -93.257812,
+    37.225006
+],
+  "geometry": {"coordinates":[-93.257812,37.225006],"type":"Point"}
+}

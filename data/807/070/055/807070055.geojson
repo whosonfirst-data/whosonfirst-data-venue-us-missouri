@@ -1,0 +1,74 @@
+{
+  "id": 807070055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.47506,38.805936,-90.47506,38.805936",
+    "geom:latitude":38.805936,
+    "geom:longitude":-90.47506,
+    "iso:country":"US",
+    "sg:address":"301 Little Hills Industrial Blvd",
+    "sg:city":"Saint Charles",
+    "sg:classifiers":[
+        {
+            "category":"Ice Cream",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/rivers/168069-dairy-queen/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 947 7900",
+    "sg:postcode":"63301",
+    "sg:province":"MO",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_18sjI0aCTa1SgCg2MmPF97_38.805936_-90.475060@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462603446,
+    "wof:geomhash":"0f99fd28f2fc17118b384cba82e81506",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":807070055
+        }
+    ],
+    "wof:id":807070055,
+    "wof:lastmodified":1462603446,
+    "wof:name":"Dairy Queen",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -90.47506,
+    38.805936,
+    -90.47506,
+    38.805936
+],
+  "geometry": {"coordinates":[-90.47506,38.805936],"type":"Point"}
+}

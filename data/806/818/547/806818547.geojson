@@ -1,0 +1,73 @@
+{
+  "id": 806818547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.614933,37.997467,-91.614933,37.997467",
+    "geom:latitude":37.997467,
+    "geom:longitude":-91.614933,
+    "iso:country":"US",
+    "sg:address":"125 W Springfield St",
+    "sg:city":"St James",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 265 3321",
+    "sg:postcode":"65559",
+    "sg:province":"MO",
+    "sg:tags":[
+        "newspaper",
+        "typesetting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970819,
+        102086893,
+        85847353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5qjnwkdytVJZDry1tc1Uml_37.997467_-91.614933@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462601329,
+    "wof:geomhash":"db0501acaf87b33b59e351f98152c385",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086893,
+            "locality_id":85970819,
+            "neighbourhood_id":85847353,
+            "region_id":85688661,
+            "venue_id":806818547
+        }
+    ],
+    "wof:id":806818547,
+    "wof:lastmodified":1462601329,
+    "wof:name":"St James Leader Journal",
+    "wof:parent_id":85847353,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "newspaper",
+        "typesetting"
+    ]
+},
+  "bbox": [
+    -91.614933,
+    37.997467,
+    -91.614933,
+    37.997467
+],
+  "geometry": {"coordinates":[-91.61493299999999,37.997467],"type":"Point"}
+}

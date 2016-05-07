@@ -1,0 +1,71 @@
+{
+  "id": 789768737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.488325,38.799347,-90.488325,38.799347",
+    "geom:latitude":38.799347,
+    "geom:longitude":-90.488325,
+    "iso:country":"US",
+    "sg:address":"12 Oxford Pl",
+    "sg:city":"St Charles",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Photofinishing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 947 0205",
+    "sg:postcode":"63301",
+    "sg:province":"MO",
+    "sg:tags":[
+        "photo"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3yYYTcSFoFMNHsA56epvCi_38.799347_-90.488325@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462590393,
+    "wof:geomhash":"dc21c8864e496a08911085ea37c04cc0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":789768737
+        }
+    ],
+    "wof:id":789768737,
+    "wof:lastmodified":1462590393,
+    "wof:name":"Pixelography Co",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "photo"
+    ]
+},
+  "bbox": [
+    -90.488325,
+    38.799347,
+    -90.488325,
+    38.799347
+],
+  "geometry": {"coordinates":[-90.488325,38.799347],"type":"Point"}
+}

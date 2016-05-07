@@ -1,0 +1,77 @@
+{
+  "id": 789921037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.463542,39.929414,-91.463542,39.929414",
+    "geom:latitude":39.929414,
+    "geom:longitude":-91.463542,
+    "iso:country":"US",
+    "sg:address":"8009 US Hwy 24",
+    "sg:city":"Taylor",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 393 2316",
+    "sg:postcode":"63471",
+    "sg:province":"MO",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688697,
+        85633793,
+        85938427,
+        102086213,
+        85867477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5arU048o2c5FYhwrE6GUJi_39.929414_-91.463542@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462591634,
+    "wof:geomhash":"eb14190de737e28fe46cb34f4c17d4fc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086213,
+            "locality_id":85938427,
+            "neighbourhood_id":85867477,
+            "region_id":85688697,
+            "venue_id":789921037
+        }
+    ],
+    "wof:id":789921037,
+    "wof:lastmodified":1462591634,
+    "wof:name":"Bob's Auto Body",
+    "wof:parent_id":85867477,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting",
+        "general"
+    ]
+},
+  "bbox": [
+    -91.463542,
+    39.929414,
+    -91.463542,
+    39.929414
+],
+  "geometry": {"coordinates":[-91.463542,39.929414],"type":"Point"}
+}

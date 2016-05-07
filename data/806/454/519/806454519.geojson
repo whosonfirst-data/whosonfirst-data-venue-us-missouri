@@ -1,0 +1,77 @@
+{
+  "id": 806454519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.466715,39.098645,-94.466715,39.098645",
+    "geom:latitude":39.098645,
+    "geom:longitude":-94.466715,
+    "iso:country":"US",
+    "sg:address":"1138 S Glenwood Ave",
+    "sg:city":"Independence",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 510 2307",
+    "sg:postcode":"64053",
+    "sg:province":"MO",
+    "sg:tags":[
+        "glass",
+        "replacement"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85835775,
+        102191575,
+        404515661,
+        85633793,
+        85971449,
+        102081227,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2zQwiV51Ai4F4YgrC8GkTp_39.098645_-94.466715@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462598274,
+    "wof:geomhash":"c71a5b1050651695446d73d5b98204f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081227,
+            "localadmin_id":404515661,
+            "locality_id":85971449,
+            "neighbourhood_id":85835775,
+            "region_id":85688661,
+            "venue_id":806454519
+        }
+    ],
+    "wof:id":806454519,
+    "wof:lastmodified":1462598274,
+    "wof:name":"Auto Glass Only",
+    "wof:parent_id":85835775,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "glass",
+        "replacement"
+    ]
+},
+  "bbox": [
+    -94.466715,
+    39.098645,
+    -94.466715,
+    39.098645
+],
+  "geometry": {"coordinates":[-94.46671499999999,39.098645],"type":"Point"}
+}

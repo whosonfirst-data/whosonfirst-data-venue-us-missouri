@@ -1,0 +1,80 @@
+{
+  "id": 789626761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.382265,38.597023,-90.382265,38.597023",
+    "geom:latitude":38.597023,
+    "geom:longitude":-90.382265,
+    "iso:country":"US",
+    "sg:address":"810 Lisa Kay",
+    "sg:city":"St Louis",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 965 4663",
+    "sg:postcode":"63122",
+    "sg:province":"MO",
+    "sg:tags":[
+        "inspection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85858243,
+        102191575,
+        404517253,
+        85633793,
+        85972177,
+        102086173,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_60qm5g87QyPt5rkRHKYsEi_38.597023_-90.382265@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462589269,
+    "wof:geomhash":"11945e0cdf461b01d9aa1fcd05f876b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086173,
+            "localadmin_id":404517253,
+            "locality_id":85972177,
+            "neighbourhood_id":85858243,
+            "region_id":85688661,
+            "venue_id":789626761
+        }
+    ],
+    "wof:id":789626761,
+    "wof:lastmodified":1462589269,
+    "wof:name":"Andover Inspection Services",
+    "wof:parent_id":85858243,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "inspection"
+    ]
+},
+  "bbox": [
+    -90.382265,
+    38.597023,
+    -90.382265,
+    38.597023
+],
+  "geometry": {"coordinates":[-90.382265,38.597023],"type":"Point"}
+}

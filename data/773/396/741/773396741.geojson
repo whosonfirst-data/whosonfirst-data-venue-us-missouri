@@ -1,0 +1,71 @@
+{
+  "id": 773396741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.255141,38.710235,-92.255141,38.710235",
+    "geom:latitude":38.710235,
+    "geom:longitude":-92.255141,
+    "iso:country":"US",
+    "sg:address":"19700 N Mount Pleasant Rd",
+    "sg:city":"Hartsburg",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 636 8858",
+    "sg:postcode":"65039",
+    "sg:province":"MO",
+    "sg:tags":[
+        "sheriff"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970417,
+        102086187,
+        85811227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6kC7Hdp9udEDeaBnzxnUiC_38.710235_-92.255141@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462585376,
+    "wof:geomhash":"97bfb50bc3784883209fb55568c2b684",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086187,
+            "locality_id":85970417,
+            "neighbourhood_id":85811227,
+            "region_id":85688661,
+            "venue_id":773396741
+        }
+    ],
+    "wof:id":773396741,
+    "wof:lastmodified":1462585376,
+    "wof:name":"Boone County Sheriffs Dept",
+    "wof:parent_id":85811227,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sheriff"
+    ]
+},
+  "bbox": [
+    -92.255141,
+    38.710235,
+    -92.255141,
+    38.710235
+],
+  "geometry": {"coordinates":[-92.25514099999999,38.710235],"type":"Point"}
+}

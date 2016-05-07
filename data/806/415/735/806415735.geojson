@@ -1,0 +1,79 @@
+{
+  "id": 806415735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.222595,38.605204,-90.222595,38.605204",
+    "geom:latitude":38.605204,
+    "geom:longitude":-90.222595,
+    "iso:country":"US",
+    "sg:address":"2327 Gravois Ave",
+    "sg:city":"St Louis",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 771 5142",
+    "sg:postcode":"63104",
+    "sg:province":"MO",
+    "sg:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873675,
+        102191575,
+        404518053,
+        85633793,
+        85971343,
+        102080791,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0g3AwFnGuzwY3bDg0L2xM6_38.605204_-90.222595@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462597979,
+    "wof:geomhash":"f6d071658a90b1836916adb442bd5e87",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080791,
+            "localadmin_id":404518053,
+            "locality_id":85971343,
+            "neighbourhood_id":85873675,
+            "region_id":85688661,
+            "venue_id":806415735
+        }
+    ],
+    "wof:id":806415735,
+    "wof:lastmodified":1462597979,
+    "wof:name":"U-Haul Co",
+    "wof:parent_id":85873675,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ]
+},
+  "bbox": [
+    -90.222595,
+    38.605204,
+    -90.222595,
+    38.605204
+],
+  "geometry": {"coordinates":[-90.222595,38.605204],"type":"Point"}
+}

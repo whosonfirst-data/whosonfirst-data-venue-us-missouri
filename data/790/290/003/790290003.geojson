@@ -1,0 +1,73 @@
+{
+  "id": 790290003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.460855,37.807965,-90.460855,37.807965",
+    "geom:latitude":37.807965,
+    "geom:longitude":-90.460855,
+    "iso:country":"US",
+    "sg:address":"4353 Michael Ln",
+    "sg:city":"Farmington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 760 9115",
+    "sg:postcode":"63640",
+    "sg:province":"MO",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970665,
+        102085297,
+        85816309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0LNk4fxl6qApMYKNGdnm5V_37.807965_-90.460855@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462594682,
+    "wof:geomhash":"573e77b7b747c59ffd3cefe8dac02c7e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085297,
+            "locality_id":85970665,
+            "neighbourhood_id":85816309,
+            "region_id":85688661,
+            "venue_id":790290003
+        }
+    ],
+    "wof:id":790290003,
+    "wof:lastmodified":1462594682,
+    "wof:name":"Dolan & Sons Plumbing",
+    "wof:parent_id":85816309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -90.460855,
+    37.807965,
+    -90.460855,
+    37.807965
+],
+  "geometry": {"coordinates":[-90.460855,37.807965],"type":"Point"}
+}

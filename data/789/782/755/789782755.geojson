@@ -1,0 +1,71 @@
+{
+  "id": 789782755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.476975,39.091746,-94.476975,39.091746",
+    "geom:latitude":39.091746,
+    "geom:longitude":-94.476975,
+    "iso:country":"US",
+    "sg:address":"525 Stone Arch Dr",
+    "sg:city":"Independence",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 833 2112",
+    "sg:postcode":"64052",
+    "sg:province":"MO",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970739,
+        102081227,
+        85810269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6urKkJ62fck2qWDxtAwbx5_39.091746_-94.476975@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462590511,
+    "wof:geomhash":"60a96b8a5763110fcb712da2094ad850",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081227,
+            "locality_id":85970739,
+            "neighbourhood_id":85810269,
+            "region_id":85688661,
+            "venue_id":789782755
+        }
+    ],
+    "wof:id":789782755,
+    "wof:lastmodified":1462590511,
+    "wof:name":"Cimarron Apartments",
+    "wof:parent_id":85810269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -94.476975,
+    39.091746,
+    -94.476975,
+    39.091746
+],
+  "geometry": {"coordinates":[-94.476975,39.091746],"type":"Point"}
+}

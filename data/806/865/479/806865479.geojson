@@ -1,0 +1,73 @@
+{
+  "id": 806865479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.768642,37.947732,-91.768642,37.947732",
+    "geom:latitude":37.947732,
+    "geom:longitude":-91.768642,
+    "iso:country":"US",
+    "sg:address":"206 E 5th St",
+    "sg:city":"Rolla",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 364 9900",
+    "sg:postcode":"65401",
+    "sg:province":"MO",
+    "sg:tags":[
+        "nurse",
+        "registry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970821,
+        102086893,
+        85814531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7S0IxwEcbudKkekJuHjNOs_37.947732_-91.768642@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462601737,
+    "wof:geomhash":"23810ba0656d0b65eda862c1e48fa3d7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086893,
+            "locality_id":85970821,
+            "neighbourhood_id":85814531,
+            "region_id":85688661,
+            "venue_id":806865479
+        }
+    ],
+    "wof:id":806865479,
+    "wof:lastmodified":1462601737,
+    "wof:name":"Nurses For Newborns Foundation",
+    "wof:parent_id":85814531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "nurse",
+        "registry"
+    ]
+},
+  "bbox": [
+    -91.768642,
+    37.947732,
+    -91.768642,
+    37.947732
+],
+  "geometry": {"coordinates":[-91.768642,37.947732],"type":"Point"}
+}

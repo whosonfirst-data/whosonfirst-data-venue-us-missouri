@@ -1,0 +1,74 @@
+{
+  "id": 807098465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.523048,39.798619,-91.523048,39.798619",
+    "geom:latitude":39.798619,
+    "geom:longitude":-91.523048,
+    "iso:country":"US",
+    "sg:address":"214 S Main St",
+    "sg:city":"Palmyra",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/liberty/68987-breadeaux-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 769 2671",
+    "sg:postcode":"63461",
+    "sg:province":"MO",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688697,
+        85633793,
+        85938427,
+        102086213,
+        85867477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0D1279Sb7AMqSFbKdtDBOI_39.798636_-91.523143@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462603704,
+    "wof:geomhash":"c95eae953d007167f3d6130555873a65",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086213,
+            "locality_id":85938427,
+            "neighbourhood_id":85867477,
+            "region_id":85688697,
+            "venue_id":807098465
+        }
+    ],
+    "wof:id":807098465,
+    "wof:lastmodified":1462603704,
+    "wof:name":"Breadeaux Pizza",
+    "wof:parent_id":85867477,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -91.523048,
+    39.798619,
+    -91.523048,
+    39.798619
+],
+  "geometry": {"coordinates":[-91.523048,39.798619],"type":"Point"}
+}

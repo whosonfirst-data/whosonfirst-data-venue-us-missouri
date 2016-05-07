@@ -1,0 +1,74 @@
+{
+  "id": 807073547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.852123,38.821695,-90.852123,38.821695",
+    "geom:latitude":38.821695,
+    "geom:longitude":-90.852123,
+    "iso:country":"US",
+    "sg:address":"1944 Wentzville Pkwy",
+    "sg:city":"Wentzville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/wentzville/156102-hardees/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 332 5683",
+    "sg:postcode":"63385",
+    "sg:province":"MO",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1N2b8bd5eP204fbMJHIcz1_38.821695_-90.852123@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462603484,
+    "wof:geomhash":"b8b37c77e089833f3e95a9625d5855ea",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":807073547
+        }
+    ],
+    "wof:id":807073547,
+    "wof:lastmodified":1462603484,
+    "wof:name":"Hardee's",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -90.852123,
+    38.821695,
+    -90.852123,
+    38.821695
+],
+  "geometry": {"coordinates":[-90.85212300000001,38.821695],"type":"Point"}
+}

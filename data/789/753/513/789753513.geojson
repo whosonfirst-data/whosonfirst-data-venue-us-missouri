@@ -1,0 +1,73 @@
+{
+  "id": 789753513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.466267,38.787361,-90.466267,38.787361",
+    "geom:latitude":38.787361,
+    "geom:longitude":-90.466267,
+    "iso:country":"US",
+    "sg:address":"14537 Missouri Bottom Rd",
+    "sg:city":"Bridgeton",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Auto Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 739 0266",
+    "sg:postcode":"63044",
+    "sg:province":"MO",
+    "sg:tags":[
+        "automobile",
+        "rebuilt"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972341,
+        102086173,
+        85806637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1yiSK8YopYS5XllP5lKFP8_38.787361_-90.466267@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462590280,
+    "wof:geomhash":"e4da728492b559e5b635c88022d19bd2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086173,
+            "locality_id":85972341,
+            "neighbourhood_id":85806637,
+            "region_id":85688661,
+            "venue_id":789753513
+        }
+    ],
+    "wof:id":789753513,
+    "wof:lastmodified":1462590280,
+    "wof:name":"Bob's Auto Parts Co",
+    "wof:parent_id":85806637,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "rebuilt"
+    ]
+},
+  "bbox": [
+    -90.466267,
+    38.787361,
+    -90.466267,
+    38.787361
+],
+  "geometry": {"coordinates":[-90.466267,38.787361],"type":"Point"}
+}

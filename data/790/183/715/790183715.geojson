@@ -1,0 +1,71 @@
+{
+  "id": 790183715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.61137,38.001401,-91.61137,38.001401",
+    "geom:latitude":38.001401,
+    "geom:longitude":-91.61137,
+    "iso:country":"US",
+    "sg:address":"320 E James Blvd",
+    "sg:city":"Saint James",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 265 8983",
+    "sg:postcode":"65559",
+    "sg:province":"MO",
+    "sg:tags":[
+        "truck"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970819,
+        102086893,
+        85847353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2071fGUcloa8BniMlwXo3z_38.001401_-91.611370@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462593805,
+    "wof:geomhash":"f2c60c3ecdefece8da5178b8eb53963d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086893,
+            "locality_id":85970819,
+            "neighbourhood_id":85847353,
+            "region_id":85688661,
+            "venue_id":790183715
+        }
+    ],
+    "wof:id":790183715,
+    "wof:lastmodified":1462593805,
+    "wof:name":"U-Haul",
+    "wof:parent_id":85847353,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck"
+    ]
+},
+  "bbox": [
+    -91.61137,
+    38.001401,
+    -91.61137,
+    38.001401
+],
+  "geometry": {"coordinates":[-91.61136999999999,38.001401],"type":"Point"}
+}

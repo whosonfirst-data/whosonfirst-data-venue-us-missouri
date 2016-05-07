@@ -1,0 +1,71 @@
+{
+  "id": 806671923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.230596,37.239124,-93.230596,37.239124",
+    "geom:latitude":37.239124,
+    "geom:longitude":-93.230596,
+    "iso:country":"US",
+    "sg:address":"3131 E Kearney St",
+    "sg:city":"Springfield",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 895 6868",
+    "sg:postcode":"65803",
+    "sg:province":"MO",
+    "sg:tags":[
+        "state"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971363,
+        102087523,
+        85881137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7OlWuUN01bvYrzIdhKEGyL_37.239124_-93.230596@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462600099,
+    "wof:geomhash":"da7bd4bef91fe33aa3f0005f7b5031bf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087523,
+            "locality_id":85971363,
+            "neighbourhood_id":85881137,
+            "region_id":85688661,
+            "venue_id":806671923
+        }
+    ],
+    "wof:id":806671923,
+    "wof:lastmodified":1462600099,
+    "wof:name":"Highway Patrol",
+    "wof:parent_id":85881137,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state"
+    ]
+},
+  "bbox": [
+    -93.230596,
+    37.239124,
+    -93.230596,
+    37.239124
+],
+  "geometry": {"coordinates":[-93.23059600000001,37.239124],"type":"Point"}
+}

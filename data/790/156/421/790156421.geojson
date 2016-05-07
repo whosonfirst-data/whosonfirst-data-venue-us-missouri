@@ -1,0 +1,82 @@
+{
+  "id": 790156421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.174752,38.570974,-92.174752,38.570974",
+    "geom:latitude":38.570974,
+    "geom:longitude":-92.174752,
+    "iso:country":"US",
+    "sg:address":"716 Monroe St",
+    "sg:city":"Jefferson City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 634 0082",
+    "sg:postcode":"65101",
+    "sg:province":"MO",
+    "sg:tags":[
+        "automotive",
+        "detail",
+        "clean",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970647,
+        102087511,
+        85837745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_17IMFpSVsuAdXkVLee5EyW_38.570974_-92.174752@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462593566,
+    "wof:geomhash":"0269981bc2322b2c3e6c4d923ecce358",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087511,
+            "locality_id":85970647,
+            "neighbourhood_id":85837745,
+            "region_id":85688661,
+            "venue_id":790156421
+        }
+    ],
+    "wof:id":790156421,
+    "wof:lastmodified":1462593566,
+    "wof:name":"Joe's Auto Detailing Shop",
+    "wof:parent_id":85837745,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive",
+        "detail",
+        "clean",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -92.174752,
+    38.570974,
+    -92.174752,
+    38.570974
+],
+  "geometry": {"coordinates":[-92.174752,38.570974],"type":"Point"}
+}

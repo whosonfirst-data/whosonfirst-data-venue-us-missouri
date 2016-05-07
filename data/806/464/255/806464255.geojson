@@ -1,0 +1,75 @@
+{
+  "id": 806464255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.302923,38.745128,-90.302923,38.745128",
+    "geom:latitude":38.745128,
+    "geom:longitude":-90.302923,
+    "iso:country":"US",
+    "sg:address":"100 Church St",
+    "sg:city":"Ferguson",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 521 0259",
+    "sg:postcode":"63135",
+    "sg:province":"MO",
+    "sg:tags":[
+        "baker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85859027,
+        102191575,
+        404517247,
+        85633793,
+        85972205,
+        102086173,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0KXvC48R4X1bdRaf0s5ZwA_38.745128_-90.302923@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462598349,
+    "wof:geomhash":"e3c02547e26d5e8f606872303714401a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086173,
+            "localadmin_id":404517247,
+            "locality_id":85972205,
+            "neighbourhood_id":85859027,
+            "region_id":85688661,
+            "venue_id":806464255
+        }
+    ],
+    "wof:id":806464255,
+    "wof:lastmodified":1462598349,
+    "wof:name":"Spencer's Bakery",
+    "wof:parent_id":85859027,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "baker"
+    ]
+},
+  "bbox": [
+    -90.302923,
+    38.745128,
+    -90.302923,
+    38.745128
+],
+  "geometry": {"coordinates":[-90.30292300000001,38.745128],"type":"Point"}
+}

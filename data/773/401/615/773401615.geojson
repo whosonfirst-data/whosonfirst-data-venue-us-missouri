@@ -1,0 +1,71 @@
+{
+  "id": 773401615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.388155,38.498978,-90.388155,38.498978",
+    "geom:latitude":38.498978,
+    "geom:longitude":-90.388155,
+    "iso:country":"US",
+    "sg:address":"10051 Canterbury Farms Ct",
+    "sg:city":"Sappington",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 843 8515",
+    "sg:postcode":"63128",
+    "sg:province":"MO",
+    "sg:tags":[
+        "appraiser"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971021,
+        102080787,
+        85832925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0UfIZNZ52uOOATAk3la9rb_38.498978_-90.388155@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462585413,
+    "wof:geomhash":"b48ec9dd30a716e4590d2150988376c1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080787,
+            "locality_id":85971021,
+            "neighbourhood_id":85832925,
+            "region_id":85688661,
+            "venue_id":773401615
+        }
+    ],
+    "wof:id":773401615,
+    "wof:lastmodified":1462585413,
+    "wof:name":"Dean's Appraisal",
+    "wof:parent_id":85832925,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "appraiser"
+    ]
+},
+  "bbox": [
+    -90.388155,
+    38.498978,
+    -90.388155,
+    38.498978
+],
+  "geometry": {"coordinates":[-90.388155,38.498978],"type":"Point"}
+}

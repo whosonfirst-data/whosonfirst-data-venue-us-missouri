@@ -1,0 +1,66 @@
+{
+  "id": 789739671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.671357,39.247069,-94.671357,39.247069",
+    "geom:latitude":39.247069,
+    "geom:longitude":-94.671357,
+    "iso:country":"US",
+    "sg:address":"8515 N Pomona Ave",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 454 0001",
+    "sg:postcode":"64153",
+    "sg:province":"MO",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970739,
+        102085271,
+        85852241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4TvMVbJTr9xcn51ku3OgVC_39.247069_-94.671357@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462590170,
+    "wof:geomhash":"dcbb572c45b9bbe14c11ef0ea8b0a5b8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085271,
+            "locality_id":85970739,
+            "neighbourhood_id":85852241,
+            "region_id":85688661,
+            "venue_id":789739671
+        }
+    ],
+    "wof:id":789739671,
+    "wof:lastmodified":1462590170,
+    "wof:name":"Jersey Boyz Deli and Subs",
+    "wof:parent_id":85852241,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -94.671357,
+    39.247069,
+    -94.671357,
+    39.247069
+],
+  "geometry": {"coordinates":[-94.671357,39.247069],"type":"Point"}
+}

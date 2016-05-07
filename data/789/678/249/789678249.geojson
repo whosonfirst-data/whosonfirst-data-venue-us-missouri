@@ -1,0 +1,73 @@
+{
+  "id": 789678249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.718144,38.799379,-90.718144,38.799379",
+    "geom:latitude":38.799379,
+    "geom:longitude":-90.718144,
+    "iso:country":"US",
+    "sg:address":"853 Mid Point Dr",
+    "sg:city":"O Fallon",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 240 9995",
+    "sg:postcode":"63366",
+    "sg:province":"MO",
+    "sg:tags":[
+        "heating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ydgJw8OrIlSh9gqj3RcH1_38.799379_-90.718144@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462589687,
+    "wof:geomhash":"6275de128e64a09442372663f514fe93",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":789678249
+        }
+    ],
+    "wof:id":789678249,
+    "wof:lastmodified":1462589687,
+    "wof:name":"A Precision Air Heating & Cool",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "heating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -90.718144,
+    38.799379,
+    -90.718144,
+    38.799379
+],
+  "geometry": {"coordinates":[-90.718144,38.799379],"type":"Point"}
+}

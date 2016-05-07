@@ -1,0 +1,76 @@
+{
+  "id": 807069171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.302051,38.618758,-90.302051,38.618758",
+    "geom:latitude":38.618758,
+    "geom:longitude":-90.302051,
+    "iso:country":"US",
+    "sg:address":"6660 Manchester Ave",
+    "sg:city":"Saint Louis",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/st-louis/195684-taco-bell/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 647 2993",
+    "sg:postcode":"63139",
+    "sg:province":"MO",
+    "sg:tags":[
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85805777,
+        102191575,
+        404518053,
+        85633793,
+        85971343,
+        102080791,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2P2BfIsuOc8oVDjOzMlAhX_38.618758_-90.302051@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462603439,
+    "wof:geomhash":"5d99378064cb0a5b47f7109d3fd7fe23",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080791,
+            "localadmin_id":404518053,
+            "locality_id":85971343,
+            "neighbourhood_id":85805777,
+            "region_id":85688661,
+            "venue_id":807069171
+        }
+    ],
+    "wof:id":807069171,
+    "wof:lastmodified":1462603439,
+    "wof:name":"Taco Bell",
+    "wof:parent_id":85805777,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican"
+    ]
+},
+  "bbox": [
+    -90.302051,
+    38.618758,
+    -90.302051,
+    38.618758
+],
+  "geometry": {"coordinates":[-90.30205100000001,38.618758],"type":"Point"}
+}

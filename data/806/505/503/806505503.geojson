@@ -1,0 +1,75 @@
+{
+  "id": 806505503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.381534,38.495052,-90.381534,38.495052",
+    "geom:latitude":38.495052,
+    "geom:longitude":-90.381534,
+    "iso:country":"US",
+    "sg:address":"12968 Tesson Ferry Rd",
+    "sg:city":"Sappington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 849 1476",
+    "sg:postcode":"63128",
+    "sg:province":"MO",
+    "sg:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971021,
+        102080787,
+        85832925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5LsRsM3sTGw31QUiSpwtuQ_38.495052_-90.381534@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462598676,
+    "wof:geomhash":"4f10f4fe30e50a5aabfd73c73154c219",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080787,
+            "locality_id":85971021,
+            "neighbourhood_id":85832925,
+            "region_id":85688661,
+            "venue_id":806505503
+        }
+    ],
+    "wof:id":806505503,
+    "wof:lastmodified":1462598676,
+    "wof:name":"Pet Studio",
+    "wof:parent_id":85832925,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ]
+},
+  "bbox": [
+    -90.381534,
+    38.495052,
+    -90.381534,
+    38.495052
+],
+  "geometry": {"coordinates":[-90.381534,38.495052],"type":"Point"}
+}

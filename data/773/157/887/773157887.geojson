@@ -1,0 +1,73 @@
+{
+  "id": 773157887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.255882,38.697586,-92.255882,38.697586",
+    "geom:latitude":38.697586,
+    "geom:longitude":-92.255882,
+    "iso:country":"US",
+    "sg:address":"21340 S Mount Pleasant Rd",
+    "sg:city":"Hartsburg",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 636 5350",
+    "sg:postcode":"65039",
+    "sg:province":"MO",
+    "sg:tags":[
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970417,
+        102086187,
+        85811227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_062Qqa7l2qOiHlVt4IWv2t_38.697586_-92.255882@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462583576,
+    "wof:geomhash":"d415da58b9a2f2f338dbf0ecbbc670b5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086187,
+            "locality_id":85970417,
+            "neighbourhood_id":85811227,
+            "region_id":85688661,
+            "venue_id":773157887
+        }
+    ],
+    "wof:id":773157887,
+    "wof:lastmodified":1462583576,
+    "wof:name":"Conoco",
+    "wof:parent_id":85811227,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -92.255882,
+    38.697586,
+    -92.255882,
+    38.697586
+],
+  "geometry": {"coordinates":[-92.255882,38.697586],"type":"Point"}
+}

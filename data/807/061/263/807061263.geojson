@@ -1,0 +1,77 @@
+{
+  "id": 807061263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.349045,38.812397,-90.349045,38.812397",
+    "geom:latitude":38.812397,
+    "geom:longitude":-90.349045,
+    "iso:country":"US",
+    "sg:address":"1090 Shackelford Rd",
+    "sg:city":"Florissant",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/lewis-and-clark/194148-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"63031",
+    "sg:province":"MO",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85813019,
+        102191575,
+        404517467,
+        85633793,
+        85972639,
+        102086173,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1cru4WqtnRMasaPkYXdZbl_38.812397_-90.349045@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462603380,
+    "wof:geomhash":"19029a4ac7aa6bc5493e58dcb1a4c54a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086173,
+            "localadmin_id":404517467,
+            "locality_id":85972639,
+            "neighbourhood_id":85813019,
+            "region_id":85688661,
+            "venue_id":807061263
+        }
+    ],
+    "wof:id":807061263,
+    "wof:lastmodified":1462603380,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85813019,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -90.349045,
+    38.812397,
+    -90.349045,
+    38.812397
+],
+  "geometry": {"coordinates":[-90.349045,38.812397],"type":"Point"}
+}

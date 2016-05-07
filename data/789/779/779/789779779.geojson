@@ -1,0 +1,75 @@
+{
+  "id": 789779779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.487658,36.545539,-94.487658,36.545539",
+    "geom:latitude":36.545539,
+    "geom:longitude":-94.487658,
+    "iso:country":"US",
+    "sg:address":"201 Main St",
+    "sg:city":"Noel",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 475 3466",
+    "sg:postcode":"64854",
+    "sg:province":"MO",
+    "sg:tags":[
+        "muffler",
+        "exhaust",
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972127,
+        102085305,
+        85850627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_54fOX0d3A4cacJQRUC21p7_36.545539_-94.487658@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462590478,
+    "wof:geomhash":"c20d95118bb0d8ff57261ea938d09ca6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085305,
+            "locality_id":85972127,
+            "neighbourhood_id":85850627,
+            "region_id":85688661,
+            "venue_id":789779779
+        }
+    ],
+    "wof:id":789779779,
+    "wof:lastmodified":1462590478,
+    "wof:name":"Lonnie's 66",
+    "wof:parent_id":85850627,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "muffler",
+        "exhaust",
+        "system"
+    ]
+},
+  "bbox": [
+    -94.487658,
+    36.545539,
+    -94.487658,
+    36.545539
+],
+  "geometry": {"coordinates":[-94.487658,36.545539],"type":"Point"}
+}

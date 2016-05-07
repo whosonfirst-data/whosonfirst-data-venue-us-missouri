@@ -1,0 +1,78 @@
+{
+  "id": 789679849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.35803,38.485762,-90.35803,38.485762",
+    "geom:latitude":38.485762,
+    "geom:longitude":-90.35803,
+    "iso:country":"US",
+    "sg:address":"4333 Butler Hill Rd",
+    "sg:city":"St Louis",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 894 1227",
+    "sg:postcode":"63128",
+    "sg:province":"MO",
+    "sg:tags":[
+        "grocer",
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971021,
+        102080787,
+        85832925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_58pXhZwPeXVPdmgNjSsD4m_38.485762_-90.358030@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462589700,
+    "wof:geomhash":"9c28b9a189ba6b424b543614e6fe3b2c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080787,
+            "locality_id":85971021,
+            "neighbourhood_id":85832925,
+            "region_id":85688661,
+            "venue_id":789679849
+        }
+    ],
+    "wof:id":789679849,
+    "wof:lastmodified":1462589700,
+    "wof:name":"Schnucks",
+    "wof:parent_id":85832925,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer",
+        "eating"
+    ]
+},
+  "bbox": [
+    -90.35803,
+    38.485762,
+    -90.35803,
+    38.485762
+],
+  "geometry": {"coordinates":[-90.35803,38.485762],"type":"Point"}
+}

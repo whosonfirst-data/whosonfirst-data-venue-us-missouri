@@ -1,0 +1,71 @@
+{
+  "id": 773148431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.733952,39.838601,-91.733952,39.838601",
+    "geom:latitude":39.838601,
+    "geom:longitude":-91.733952,
+    "iso:country":"US",
+    "sg:address":"2361 State Hwy 168",
+    "sg:city":"Philadelphia",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 439 5202",
+    "sg:postcode":"63463",
+    "sg:province":"MO",
+    "sg:tags":[
+        "ambulance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688697,
+        85633793,
+        85938427,
+        102086213,
+        85867477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3r48icDFjHcNPq6aHg4WAp_39.838601_-91.733952@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462583492,
+    "wof:geomhash":"db4fbaaf2048f1dd88d9fad48ac6146b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086213,
+            "locality_id":85938427,
+            "neighbourhood_id":85867477,
+            "region_id":85688697,
+            "venue_id":773148431
+        }
+    ],
+    "wof:id":773148431,
+    "wof:lastmodified":1462583492,
+    "wof:name":"Marion County Ambulance",
+    "wof:parent_id":85867477,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ambulance"
+    ]
+},
+  "bbox": [
+    -91.733952,
+    39.838601,
+    -91.733952,
+    39.838601
+],
+  "geometry": {"coordinates":[-91.733952,39.838601],"type":"Point"}
+}

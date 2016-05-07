@@ -1,0 +1,73 @@
+{
+  "id": 773173805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.50698,38.774753,-90.50698,38.774753",
+    "geom:latitude":38.774753,
+    "geom:longitude":-90.50698,
+    "iso:country":"US",
+    "sg:address":"1650 Boonslick Rd",
+    "sg:city":"Saint Charles",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 949 7400",
+    "sg:postcode":"63301",
+    "sg:province":"MO",
+    "sg:tags":[
+        "specialty",
+        "outpatient"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7RfuGIbr6LaEeB7poU9bBR_38.774753_-90.506980@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462583693,
+    "wof:geomhash":"f58ecaf15c8e681e43bc417c0e63649d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":773173805
+        }
+    ],
+    "wof:id":773173805,
+    "wof:lastmodified":1462583693,
+    "wof:name":"St Chrles Cnty Fmly Plg Clinic",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "specialty",
+        "outpatient"
+    ]
+},
+  "bbox": [
+    -90.50698,
+    38.774753,
+    -90.50698,
+    38.774753
+],
+  "geometry": {"coordinates":[-90.50698,38.774753],"type":"Point"}
+}

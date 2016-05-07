@@ -1,0 +1,79 @@
+{
+  "id": 806815753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.301307,38.863214,-90.301307,38.863214",
+    "geom:latitude":38.863214,
+    "geom:longitude":-90.301307,
+    "iso:country":"US",
+    "sg:address":"210 Quindaro Dr",
+    "sg:city":"Florissant",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 837 6242",
+    "sg:postcode":"63034",
+    "sg:province":"MO",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85813019,
+        102191575,
+        404517467,
+        85633793,
+        85972639,
+        102086173,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2tIxBmybFcsfXlkC1syy0Y_38.863214_-90.301307@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462601309,
+    "wof:geomhash":"3c24c099cbc5577590111b2f2b96a32f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086173,
+            "localadmin_id":404517467,
+            "locality_id":85972639,
+            "neighbourhood_id":85813019,
+            "region_id":85688661,
+            "venue_id":806815753
+        }
+    ],
+    "wof:id":806815753,
+    "wof:lastmodified":1462601309,
+    "wof:name":"County Delivery Service",
+    "wof:parent_id":85813019,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -90.301307,
+    38.863214,
+    -90.301307,
+    38.863214
+],
+  "geometry": {"coordinates":[-90.30130699999999,38.863214],"type":"Point"}
+}

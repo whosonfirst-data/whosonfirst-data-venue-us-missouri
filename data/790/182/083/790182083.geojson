@@ -1,0 +1,86 @@
+{
+  "id": 790182083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.400551,38.772867,-90.400551,38.772867",
+    "geom:latitude":38.772867,
+    "geom:longitude":-90.400551,
+    "iso:country":"US",
+    "sg:address":"12529 Missouri Bottom Rd",
+    "sg:city":"Hazelwood",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Garden Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 739 4101",
+    "sg:postcode":"63042",
+    "sg:province":"MO",
+    "sg:tags":[
+        "engine",
+        "small",
+        "lawn",
+        "mower"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85836381,
+        102191575,
+        404517389,
+        85633793,
+        85972341,
+        102086173,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1cCM2i1CubMleyjOcEjbLI_38.772867_-90.400551@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462593790,
+    "wof:geomhash":"515caa5157f4fde834337ae9dd42406d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086173,
+            "localadmin_id":404517389,
+            "locality_id":85972341,
+            "neighbourhood_id":85836381,
+            "region_id":85688661,
+            "venue_id":790182083
+        }
+    ],
+    "wof:id":790182083,
+    "wof:lastmodified":1462593790,
+    "wof:name":"Finke Brothers Lawn Mower Repr",
+    "wof:parent_id":85836381,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "engine",
+        "small",
+        "lawn",
+        "mower"
+    ]
+},
+  "bbox": [
+    -90.400551,
+    38.772867,
+    -90.400551,
+    38.772867
+],
+  "geometry": {"coordinates":[-90.40055099999999,38.772867],"type":"Point"}
+}

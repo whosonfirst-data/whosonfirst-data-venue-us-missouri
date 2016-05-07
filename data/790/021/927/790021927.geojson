@@ -1,0 +1,71 @@
+{
+  "id": 790021927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.479501,39.901582,-92.479501,39.901582",
+    "geom:latitude":39.901582,
+    "geom:longitude":-92.479501,
+    "iso:country":"US",
+    "sg:address":"706 N Atterberry St",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 660 239 4411",
+    "sg:postcode":"63530",
+    "sg:province":"MO",
+    "sg:tags":[
+        "transportation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971149,
+        102086189,
+        85821499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7XqE8ShjN1znwb6NqGnSBp_39.901582_-92.479501@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462592505,
+    "wof:geomhash":"05d06a760f4f72785eeda28f2402a026",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086189,
+            "locality_id":85971149,
+            "neighbourhood_id":85821499,
+            "region_id":85688661,
+            "venue_id":790021927
+        }
+    ],
+    "wof:id":790021927,
+    "wof:lastmodified":1462592505,
+    "wof:name":"Highway & Transportation Dept",
+    "wof:parent_id":85821499,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transportation"
+    ]
+},
+  "bbox": [
+    -92.479501,
+    39.901582,
+    -92.479501,
+    39.901582
+],
+  "geometry": {"coordinates":[-92.479501,39.901582],"type":"Point"}
+}

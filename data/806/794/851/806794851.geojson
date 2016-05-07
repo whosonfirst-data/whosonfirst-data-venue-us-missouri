@@ -1,0 +1,75 @@
+{
+  "id": 806794851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.187852,38.630807,-90.187852,38.630807",
+    "geom:latitude":38.630807,
+    "geom:longitude":-90.187852,
+    "iso:country":"US",
+    "sg:address":"405 Lucas Ave",
+    "sg:city":"St Louis",
+    "sg:classifiers":[
+        {
+            "category":"Parking",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 421 4740",
+    "sg:postcode":"63102",
+    "sg:province":"MO",
+    "sg:tags":[
+        "garage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873643,
+        102191575,
+        404518053,
+        85633793,
+        85971343,
+        102080791,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0uoGZjPw4iqTi824MvCkZR_38.630807_-90.187852@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462601141,
+    "wof:geomhash":"a804785b81d552da484d5d9ba9d18167",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080791,
+            "localadmin_id":404518053,
+            "locality_id":85971343,
+            "neighbourhood_id":85873643,
+            "region_id":85688661,
+            "venue_id":806794851
+        }
+    ],
+    "wof:id":806794851,
+    "wof:lastmodified":1462601141,
+    "wof:name":"Mac Parking Lot",
+    "wof:parent_id":85873643,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garage"
+    ]
+},
+  "bbox": [
+    -90.187852,
+    38.630807,
+    -90.187852,
+    38.630807
+],
+  "geometry": {"coordinates":[-90.18785200000001,38.630807],"type":"Point"}
+}

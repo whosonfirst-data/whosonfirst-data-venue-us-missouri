@@ -1,0 +1,80 @@
+{
+  "id": 789692421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.582946,38.800119,-90.582946,38.800119",
+    "geom:latitude":38.800119,
+    "geom:longitude":-90.582946,
+    "iso:country":"US",
+    "sg:address":"55 Cherokee Dr",
+    "sg:city":"St Peters",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Metals & Minerals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 928 1023",
+    "sg:postcode":"63376",
+    "sg:province":"MO",
+    "sg:tags":[
+        "cover",
+        "center",
+        "manhole"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_25LNQJgCKCpuQIN1p6KqHL_38.800119_-90.582946@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462589794,
+    "wof:geomhash":"8c03795303ebe0e85afba57d7f08926d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":789692421
+        }
+    ],
+    "wof:id":789692421,
+    "wof:lastmodified":1462589794,
+    "wof:name":"Neenah Foundry Company",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cover",
+        "center",
+        "manhole"
+    ]
+},
+  "bbox": [
+    -90.582946,
+    38.800119,
+    -90.582946,
+    38.800119
+],
+  "geometry": {"coordinates":[-90.58294600000001,38.800119],"type":"Point"}
+}

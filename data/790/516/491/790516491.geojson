@@ -1,0 +1,73 @@
+{
+  "id": 790516491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.754885,37.93839,-91.754885,37.93839",
+    "geom:latitude":37.93839,
+    "geom:longitude":-91.754885,
+    "iso:country":"US",
+    "sg:address":"1212 State Hwy 72",
+    "sg:city":"Rolla",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 426 6071",
+    "sg:postcode":"65401",
+    "sg:province":"MO",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970821,
+        102086893,
+        85814531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3KZCJarY5kgTrkwdO19pBz_37.938390_-91.754885@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462596501,
+    "wof:geomhash":"6c2ae6f8b70fa897b5fd5d20585c7200",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086893,
+            "locality_id":85970821,
+            "neighbourhood_id":85814531,
+            "region_id":85688661,
+            "venue_id":790516491
+        }
+    ],
+    "wof:id":790516491,
+    "wof:lastmodified":1462596501,
+    "wof:name":"Rolla Radiology Group",
+    "wof:parent_id":85814531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -91.754885,
+    37.93839,
+    -91.754885,
+    37.93839
+],
+  "geometry": {"coordinates":[-91.754885,37.93839],"type":"Point"}
+}

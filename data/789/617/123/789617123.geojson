@@ -1,0 +1,75 @@
+{
+  "id": 789617123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.234302,38.454346,-92.234302,38.454346",
+    "geom:latitude":38.454346,
+    "geom:longitude":-92.234302,
+    "iso:country":"US",
+    "sg:address":"1714 Honey Creek Rd",
+    "sg:city":"Jefferson City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 496 3138",
+    "sg:postcode":"65101",
+    "sg:province":"MO",
+    "sg:tags":[
+        "pet",
+        "boarding",
+        "sitting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970647,
+        102087519,
+        85847491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0kIf2wxsNNpDr9fH0Rt7Fc_38.454346_-92.234302@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462589197,
+    "wof:geomhash":"b16e0dd9ba53b46c4568660e711e3058",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087519,
+            "locality_id":85970647,
+            "neighbourhood_id":85847491,
+            "region_id":85688661,
+            "venue_id":789617123
+        }
+    ],
+    "wof:id":789617123,
+    "wof:lastmodified":1462589197,
+    "wof:name":"Honey Creek Pet Boarding Inc",
+    "wof:parent_id":85847491,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "boarding",
+        "sitting"
+    ]
+},
+  "bbox": [
+    -92.234302,
+    38.454346,
+    -92.234302,
+    38.454346
+],
+  "geometry": {"coordinates":[-92.234302,38.454346],"type":"Point"}
+}

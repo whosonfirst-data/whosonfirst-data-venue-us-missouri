@@ -1,0 +1,74 @@
+{
+  "id": 807091031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.780883,37.945783,-91.780883,37.945783",
+    "geom:latitude":37.945783,
+    "geom:longitude":-91.780883,
+    "iso:country":"US",
+    "sg:address":"1022 Kingshighway St",
+    "sg:city":"Rolla",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/rolla/190847-burger-king/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 364 7725",
+    "sg:postcode":"65401",
+    "sg:province":"MO",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970821,
+        102086893,
+        85814531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_59GWZUHcdIS9tqZk2sw8kb_37.945783_-91.780883@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462603627,
+    "wof:geomhash":"186ea37d24f3fe8e738085f3b1d1df3e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086893,
+            "locality_id":85970821,
+            "neighbourhood_id":85814531,
+            "region_id":85688661,
+            "venue_id":807091031
+        }
+    ],
+    "wof:id":807091031,
+    "wof:lastmodified":1462603627,
+    "wof:name":"Burger King",
+    "wof:parent_id":85814531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -91.780883,
+    37.945783,
+    -91.780883,
+    37.945783
+],
+  "geometry": {"coordinates":[-91.780883,37.945783],"type":"Point"}
+}

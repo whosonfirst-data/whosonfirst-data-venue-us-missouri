@@ -1,0 +1,73 @@
+{
+  "id": 789956111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.17841,38.573762,-92.17841,38.573762",
+    "geom:latitude":38.573762,
+    "geom:longitude":-92.17841,
+    "iso:country":"US",
+    "sg:address":"705 Washington St",
+    "sg:city":"Jefferson City",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Durable Goods & Equipment",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 636 2222",
+    "sg:postcode":"65101",
+    "sg:province":"MO",
+    "sg:tags":[
+        "fire",
+        "extinguisher"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970647,
+        102087511,
+        85837745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6gdypRFHB5CSIvhT4A5ESR_38.573762_-92.178410@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462591968,
+    "wof:geomhash":"ed42ce5e8ab970782ee19dcb7a84f9ac",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087511,
+            "locality_id":85970647,
+            "neighbourhood_id":85837745,
+            "region_id":85688661,
+            "venue_id":789956111
+        }
+    ],
+    "wof:id":789956111,
+    "wof:lastmodified":1462591968,
+    "wof:name":"J C Fire Specialists",
+    "wof:parent_id":85837745,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fire",
+        "extinguisher"
+    ]
+},
+  "bbox": [
+    -92.17841,
+    38.573762,
+    -92.17841,
+    38.573762
+],
+  "geometry": {"coordinates":[-92.17841,38.573762],"type":"Point"}
+}

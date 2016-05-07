@@ -1,0 +1,79 @@
+{
+  "id": 806872381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.315344,38.69155,-90.315344,38.69155",
+    "geom:latitude":38.69155,
+    "geom:longitude":-90.315344,
+    "iso:country":"US",
+    "sg:address":"7502 Saint Charles Rock Rd",
+    "sg:city":"St Louis",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 725 3141",
+    "sg:postcode":"63133",
+    "sg:province":"MO",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85803359,
+        102191575,
+        404515929,
+        85633793,
+        85972327,
+        102086173,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2stCQ6uICwP4auwgwJeNQW_38.691550_-90.315344@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462601788,
+    "wof:geomhash":"e93908ffe33252e0b8bb3c3c75221837",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086173,
+            "localadmin_id":404515929,
+            "locality_id":85972327,
+            "neighbourhood_id":85803359,
+            "region_id":85688661,
+            "venue_id":806872381
+        }
+    ],
+    "wof:id":806872381,
+    "wof:lastmodified":1462601788,
+    "wof:name":"Arizona Auto Repair & Sales",
+    "wof:parent_id":85803359,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ]
+},
+  "bbox": [
+    -90.315344,
+    38.69155,
+    -90.315344,
+    38.69155
+],
+  "geometry": {"coordinates":[-90.315344,38.69155],"type":"Point"}
+}

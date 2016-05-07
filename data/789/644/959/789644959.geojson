@@ -1,0 +1,71 @@
+{
+  "id": 789644959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.284475,37.044986,-93.284475,37.044986",
+    "geom:latitude":37.044986,
+    "geom:longitude":-93.284475,
+    "iso:country":"US",
+    "sg:address":"206 Eastwood Dr",
+    "sg:city":"Nixa",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 725 2573",
+    "sg:postcode":"65714",
+    "sg:province":"MO",
+    "sg:tags":[
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971577,
+        102087497,
+        85809751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4nezBot3CiD5MGfX3INwf0_37.044986_-93.284475@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462589409,
+    "wof:geomhash":"19f8eba0fb77e4983c1f177ac422e5ed",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087497,
+            "locality_id":85971577,
+            "neighbourhood_id":85809751,
+            "region_id":85688661,
+            "venue_id":789644959
+        }
+    ],
+    "wof:id":789644959,
+    "wof:lastmodified":1462589409,
+    "wof:name":"Cooper Trucking",
+    "wof:parent_id":85809751,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -93.284475,
+    37.044986,
+    -93.284475,
+    37.044986
+],
+  "geometry": {"coordinates":[-93.284475,37.044986],"type":"Point"}
+}

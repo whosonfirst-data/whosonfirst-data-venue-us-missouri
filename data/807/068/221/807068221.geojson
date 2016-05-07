@@ -1,0 +1,74 @@
+{
+  "id": 807068221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.46573,38.601127,-90.46573,38.601127",
+    "geom:latitude":38.601127,
+    "geom:longitude":-90.46573,
+    "iso:country":"US",
+    "sg:address":"13275 Manchester Rd",
+    "sg:city":"Saint Louis",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/missouri-river/42759-st-louis-bread-co/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 821 1112",
+    "sg:postcode":"63131",
+    "sg:province":"MO",
+    "sg:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85839871,
+        102086173
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1iiy6M4J3sv1YqnhG6n31J_38.601127_-90.465730@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462603432,
+    "wof:geomhash":"b29a8d1f317ed76a0f57a59b89354999",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086173,
+            "neighbourhood_id":85839871,
+            "region_id":85688661,
+            "venue_id":807068221
+        }
+    ],
+    "wof:id":807068221,
+    "wof:lastmodified":1462603432,
+    "wof:name":"St. Louis Bread Co.",
+    "wof:parent_id":85839871,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -90.46573,
+    38.601127,
+    -90.46573,
+    38.601127
+],
+  "geometry": {"coordinates":[-90.46572999999999,38.601127],"type":"Point"}
+}

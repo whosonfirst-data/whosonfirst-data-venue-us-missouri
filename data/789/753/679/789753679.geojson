@@ -1,0 +1,73 @@
+{
+  "id": 789753679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.771399,37.911279,-91.771399,37.911279",
+    "geom:latitude":37.911279,
+    "geom:longitude":-91.771399,
+    "iso:country":"US",
+    "sg:address":"12814 Co Rd 5030",
+    "sg:city":"Rolla",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Scrap",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 368 3688",
+    "sg:postcode":"65401",
+    "sg:province":"MO",
+    "sg:tags":[
+        "recycling",
+        "center"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970821,
+        102086893,
+        85814531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0bX0CIWApb4LaVijbdtH2m_37.911279_-91.771399@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462590281,
+    "wof:geomhash":"9c951ca1a987dff19d64feac8b9f1dd2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086893,
+            "locality_id":85970821,
+            "neighbourhood_id":85814531,
+            "region_id":85688661,
+            "venue_id":789753679
+        }
+    ],
+    "wof:id":789753679,
+    "wof:lastmodified":1462590281,
+    "wof:name":"Recycling Works",
+    "wof:parent_id":85814531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "recycling",
+        "center"
+    ]
+},
+  "bbox": [
+    -91.771399,
+    37.911279,
+    -91.771399,
+    37.911279
+],
+  "geometry": {"coordinates":[-91.771399,37.911279],"type":"Point"}
+}

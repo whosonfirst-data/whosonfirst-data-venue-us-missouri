@@ -1,0 +1,82 @@
+{
+  "id": 807030275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.217201,38.660301,-90.217201,38.660301",
+    "geom:latitude":38.660301,
+    "geom:longitude":-90.217201,
+    "iso:country":"US",
+    "sg:address":"3608 N Grand Blvd",
+    "sg:city":"Saint Louis",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 535 6555",
+    "sg:postcode":"63107",
+    "sg:province":"MO",
+    "sg:tags":[
+        "shop",
+        "pawnbroker",
+        "pawn",
+        "pawnshop"
+    ],
+    "sg:website":"www.firstcash.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873619,
+        102191575,
+        404518053,
+        85633793,
+        85971343,
+        102080791,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4GTAkpNOLWFx7neuipcCDN_38.660496_-90.217071@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1462603126,
+    "wof:geomhash":"3bd1c432c361a5824ddd27f2652e883e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080791,
+            "localadmin_id":404518053,
+            "locality_id":85971343,
+            "neighbourhood_id":85873619,
+            "region_id":85688661,
+            "venue_id":807030275
+        }
+    ],
+    "wof:id":807030275,
+    "wof:lastmodified":1462603126,
+    "wof:name":"First Cash Pawn",
+    "wof:parent_id":85873619,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "pawnbroker",
+        "pawn",
+        "pawnshop"
+    ]
+},
+  "bbox": [
+    -90.217201,
+    38.660301,
+    -90.217201,
+    38.660301
+],
+  "geometry": {"coordinates":[-90.217201,38.660301],"type":"Point"}
+}

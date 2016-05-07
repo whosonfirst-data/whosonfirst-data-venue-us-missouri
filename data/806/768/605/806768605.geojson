@@ -1,0 +1,69 @@
+{
+  "id": 806768605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.330199,37.1333,-93.330199,37.1333",
+    "geom:latitude":37.1333,
+    "geom:longitude":-93.330199,
+    "iso:country":"US",
+    "sg:address":"2574 W Buena Vista St",
+    "sg:city":"Springfield",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 881 8836",
+    "sg:postcode":"65810",
+    "sg:province":"MO",
+    "sg:tags":[
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85881151,
+        102087523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6oNK0XRbmlOWXm4BGSKZE0_37.133300_-93.330199@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462600916,
+    "wof:geomhash":"2fa782e15c47fd81739811f6133dc508",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087523,
+            "neighbourhood_id":85881151,
+            "region_id":85688661,
+            "venue_id":806768605
+        }
+    ],
+    "wof:id":806768605,
+    "wof:lastmodified":1462600916,
+    "wof:name":"House Cleaning Plus",
+    "wof:parent_id":85881151,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -93.330199,
+    37.1333,
+    -93.330199,
+    37.1333
+],
+  "geometry": {"coordinates":[-93.33019899999999,37.1333],"type":"Point"}
+}

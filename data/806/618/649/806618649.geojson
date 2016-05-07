@@ -1,0 +1,71 @@
+{
+  "id": 806618649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.240125,39.350335,-94.240125,39.350335",
+    "geom:latitude":39.350335,
+    "geom:longitude":-94.240125,
+    "iso:country":"US",
+    "sg:address":"309 Virginia Rd",
+    "sg:city":"Excelsior Springs",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 630 0676",
+    "sg:postcode":"64024",
+    "sg:province":"MO",
+    "sg:tags":[
+        "residential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971507,
+        102086177,
+        85822189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3bC71eCY5fuxJNfinsAhwB_39.350335_-94.240125@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462599642,
+    "wof:geomhash":"494b7c8e2d8bad11fabb0784065c3659",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086177,
+            "locality_id":85971507,
+            "neighbourhood_id":85822189,
+            "region_id":85688661,
+            "venue_id":806618649
+        }
+    ],
+    "wof:id":806618649,
+    "wof:lastmodified":1462599642,
+    "wof:name":"McCoy Construction",
+    "wof:parent_id":85822189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential"
+    ]
+},
+  "bbox": [
+    -94.240125,
+    39.350335,
+    -94.240125,
+    39.350335
+],
+  "geometry": {"coordinates":[-94.24012500000001,39.350335],"type":"Point"}
+}

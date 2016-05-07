@@ -1,0 +1,77 @@
+{
+  "id": 806386769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.415023,38.74483,-90.415023,38.74483",
+    "geom:latitude":38.74483,
+    "geom:longitude":-90.415023,
+    "iso:country":"US",
+    "sg:address":"11905 Saint Charles Rock Rd",
+    "sg:city":"Bridgeton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 739 0444",
+    "sg:postcode":"63044",
+    "sg:province":"MO",
+    "sg:tags":[
+        "veterinarian",
+        "animal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85836381,
+        102191575,
+        404517389,
+        85633793,
+        85972341,
+        102086173,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0XDPqTyGt6EcVJcYru8jfS_38.744830_-90.415023@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462597730,
+    "wof:geomhash":"dfe636dfa0506f2e348f3eed78ef4dcb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086173,
+            "localadmin_id":404517389,
+            "locality_id":85972341,
+            "neighbourhood_id":85836381,
+            "region_id":85688661,
+            "venue_id":806386769
+        }
+    ],
+    "wof:id":806386769,
+    "wof:lastmodified":1462597730,
+    "wof:name":"Northwest Animal Hospital",
+    "wof:parent_id":85836381,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian",
+        "animal"
+    ]
+},
+  "bbox": [
+    -90.415023,
+    38.74483,
+    -90.415023,
+    38.74483
+],
+  "geometry": {"coordinates":[-90.41502300000001,38.74483],"type":"Point"}
+}

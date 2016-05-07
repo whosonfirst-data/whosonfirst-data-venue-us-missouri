@@ -1,0 +1,80 @@
+{
+  "id": 806631125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.333121,38.478422,-90.333121,38.478422",
+    "geom:latitude":38.478422,
+    "geom:longitude":-90.333121,
+    "iso:country":"US",
+    "sg:address":"3219 Patterson Place Dr",
+    "sg:city":"St Louis",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 487 5050",
+    "sg:postcode":"63129",
+    "sg:province":"MO",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85885365,
+        102191575,
+        404517459,
+        85633793,
+        85972631,
+        102086173,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1OvmRn8PzGtebfQnPljHp1_38.478422_-90.333121@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462599748,
+    "wof:geomhash":"8e25dfb150c6493cef1c3436355443e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086173,
+            "localadmin_id":404517459,
+            "locality_id":85972631,
+            "neighbourhood_id":85885365,
+            "region_id":85688661,
+            "venue_id":806631125
+        }
+    ],
+    "wof:id":806631125,
+    "wof:lastmodified":1462599748,
+    "wof:name":"Patterson Place Apartments",
+    "wof:parent_id":85885365,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -90.333121,
+    38.478422,
+    -90.333121,
+    38.478422
+],
+  "geometry": {"coordinates":[-90.33312100000001,38.478422],"type":"Point"}
+}

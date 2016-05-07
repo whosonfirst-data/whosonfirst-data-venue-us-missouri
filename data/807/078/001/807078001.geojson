@@ -1,0 +1,84 @@
+{
+  "id": 807078001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.372821,39.119799,-94.372821,39.119799",
+    "geom:latitude":39.119799,
+    "geom:longitude":-94.372821,
+    "iso:country":"US",
+    "sg:address":"17301 E Us Highway 24",
+    "sg:city":"Independence",
+    "sg:classifiers":[
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Donuts",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/blue/230983-daylight-donuts/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 257 5400",
+    "sg:postcode":"64056",
+    "sg:province":"MO",
+    "sg:tags":[
+        "american",
+        "pastry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971449,
+        102081227,
+        85844675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4WC6X0G153el3IcnafIjvc_39.119799_-94.372821@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462603517,
+    "wof:geomhash":"804e0223b6dbed6bc63f71f194e569e7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081227,
+            "locality_id":85971449,
+            "neighbourhood_id":85844675,
+            "region_id":85688661,
+            "venue_id":807078001
+        }
+    ],
+    "wof:id":807078001,
+    "wof:lastmodified":1462603517,
+    "wof:name":"Daylight Donuts",
+    "wof:parent_id":85844675,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pastry"
+    ]
+},
+  "bbox": [
+    -94.372821,
+    39.119799,
+    -94.372821,
+    39.119799
+],
+  "geometry": {"coordinates":[-94.372821,39.119799],"type":"Point"}
+}

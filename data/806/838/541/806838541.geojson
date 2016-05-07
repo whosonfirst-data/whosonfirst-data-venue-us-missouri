@@ -1,0 +1,80 @@
+{
+  "id": 806838541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.608948,38.789213,-90.608948,38.789213",
+    "geom:latitude":38.789213,
+    "geom:longitude":-90.608948,
+    "iso:country":"US",
+    "sg:address":"7833 Mexico Rd",
+    "sg:city":"St Peters",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 397 6561",
+    "sg:postcode":"63376",
+    "sg:province":"MO",
+    "sg:tags":[
+        "store",
+        "miscellaneous",
+        "drug"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7eicT5x1mArmmNQVJOdV44_38.789213_-90.608948@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462601498,
+    "wof:geomhash":"958bb82822c6b0fc0e0d952d1ff1aced",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":806838541
+        }
+    ],
+    "wof:id":806838541,
+    "wof:lastmodified":1462601498,
+    "wof:name":"Medicine Shoppe",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "store",
+        "miscellaneous",
+        "drug"
+    ]
+},
+  "bbox": [
+    -90.608948,
+    38.789213,
+    -90.608948,
+    38.789213
+],
+  "geometry": {"coordinates":[-90.608948,38.789213],"type":"Point"}
+}

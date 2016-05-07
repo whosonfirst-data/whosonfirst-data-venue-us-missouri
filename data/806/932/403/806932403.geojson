@@ -1,0 +1,76 @@
+{
+  "id": 806932403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.479659,38.786931,-90.479659,38.786931",
+    "geom:latitude":38.786931,
+    "geom:longitude":-90.479659,
+    "iso:country":"US",
+    "sg:address":"620 N 2nd St",
+    "sg:city":"St Charles",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 940 5396",
+    "sg:postcode":"63301",
+    "sg:province":"MO",
+    "sg:tags":[
+        "car",
+        "railroad",
+        "leasing"
+    ],
+    "sg:website":"www.americanrailcar.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6TifpnvjwR2bQFrwiT3qmD_38.786931_-90.479659@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462602293,
+    "wof:geomhash":"e17a1ab0ef216eb44aa493e3e1317ad1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":806932403
+        }
+    ],
+    "wof:id":806932403,
+    "wof:lastmodified":1462602293,
+    "wof:name":"American Railcar",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "railroad",
+        "leasing"
+    ]
+},
+  "bbox": [
+    -90.479659,
+    38.786931,
+    -90.479659,
+    38.786931
+],
+  "geometry": {"coordinates":[-90.479659,38.786931],"type":"Point"}
+}

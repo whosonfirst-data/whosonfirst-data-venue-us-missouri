@@ -1,0 +1,81 @@
+{
+  "id": 773813779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.435752,38.567356,-90.435752,38.567356",
+    "geom:latitude":38.567356,
+    "geom:longitude":-90.435752,
+    "iso:country":"US",
+    "sg:address":"12221 Big Bend Rd",
+    "sg:city":"Saint Louis",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 966 2628",
+    "sg:postcode":"63122",
+    "sg:province":"MO",
+    "sg:tags":[
+        "operator",
+        "local",
+        "courier",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85858661,
+        102191575,
+        404517203,
+        85633793,
+        85972289,
+        102086173,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0iOBWyWTK6Bp5ZYB4RnD7R_38.567356_-90.435752@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462588582,
+    "wof:geomhash":"b1ce37d7f60daf3d280d04ec5241ae1a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086173,
+            "localadmin_id":404517203,
+            "locality_id":85972289,
+            "neighbourhood_id":85858661,
+            "region_id":85688661,
+            "venue_id":773813779
+        }
+    ],
+    "wof:id":773813779,
+    "wof:lastmodified":1462588582,
+    "wof:name":"Coat & Tie Courier",
+    "wof:parent_id":85858661,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "courier",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -90.435752,
+    38.567356,
+    -90.435752,
+    38.567356
+],
+  "geometry": {"coordinates":[-90.43575199999999,38.567356],"type":"Point"}
+}

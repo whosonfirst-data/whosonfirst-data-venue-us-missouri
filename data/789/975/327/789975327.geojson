@@ -1,0 +1,86 @@
+{
+  "id": 789975327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.527068,37.050959,-94.527068,37.050959",
+    "geom:latitude":37.050959,
+    "geom:longitude":-94.527068,
+    "iso:country":"US",
+    "sg:address":"1020 McIntosh Circle Dr",
+    "sg:city":"Joplin",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 623 1670",
+    "sg:postcode":"64804",
+    "sg:province":"MO",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85885363,
+        102191575,
+        404518215,
+        85633793,
+        85970893,
+        102087525,
+        85688661,
+        85971289,
+        102087471,
+        85814333
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4YHaEnxIhUHfcoKjTQ9zdm_37.050959_-94.527068@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462592131,
+    "wof:geomhash":"9fc70a044a3c78e327d693de79b747ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087525,
+            "localadmin_id":404518215,
+            "locality_id":85970893,
+            "neighbourhood_id":85885363,
+            "region_id":85688661,
+            "venue_id":789975327
+        },
+        {
+            "country_id":85633793,
+            "county_id":102087471,
+            "locality_id":85971289,
+            "neighbourhood_id":85814333,
+            "region_id":85688661,
+            "venue_id":789975327
+        }
+    ],
+    "wof:id":789975327,
+    "wof:lastmodified":1462592131,
+    "wof:name":"Jeffrey A Greenberg MD",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -94.527068,
+    37.050959,
+    -94.527068,
+    37.050959
+],
+  "geometry": {"coordinates":[-94.527068,37.050959],"type":"Point"}
+}

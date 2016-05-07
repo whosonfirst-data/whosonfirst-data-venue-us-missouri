@@ -1,0 +1,71 @@
+{
+  "id": 789856607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.234901,37.20991,-93.234901,37.20991",
+    "geom:latitude":37.20991,
+    "geom:longitude":-93.234901,
+    "iso:country":"US",
+    "sg:address":"2953 E Chestnut Expy",
+    "sg:city":"Springfield",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 863 6246",
+    "sg:postcode":"65802",
+    "sg:province":"MO",
+    "sg:tags":[
+        "delivery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971363,
+        102087523,
+        85881137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_10IbZgwIoLXQOZu6rfHCNQ_37.209910_-93.234901@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462591078,
+    "wof:geomhash":"1cc18edd4354e68d0f2da32183d422fa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087523,
+            "locality_id":85971363,
+            "neighbourhood_id":85881137,
+            "region_id":85688661,
+            "venue_id":789856607
+        }
+    ],
+    "wof:id":789856607,
+    "wof:lastmodified":1462591078,
+    "wof:name":"Ed Scott Express Inc",
+    "wof:parent_id":85881137,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "delivery"
+    ]
+},
+  "bbox": [
+    -93.234901,
+    37.20991,
+    -93.234901,
+    37.20991
+],
+  "geometry": {"coordinates":[-93.23490099999999,37.20991],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 807157839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.280867,38.643989,-90.280867,38.643989",
+    "geom:latitude":38.643989,
+    "geom:longitude":-90.280867,
+    "iso:country":"US",
+    "sg:address":"5595 Grand Dr",
+    "sg:city":"Saint Louis",
+    "sg:classifiers":[
+        {
+            "category":"Park",
+            "subcategory":"",
+            "type":"Public Place"
+        },
+        {
+            "category":"Recreation",
+            "subcategory":"Playground",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 367 7275",
+    "sg:postcode":"63112",
+    "sg:province":"MO",
+    "sg:website":"stlouis.missouri.org/citygov/par...",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873633,
+        102191575,
+        404518053,
+        85633793,
+        85971343,
+        102080791,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_363YnuLFctGPTY4ssr5Voc_38.643989_-90.280867@1303262929"
+    },
+    "wof:country":"US",
+    "wof:created":1462604349,
+    "wof:geomhash":"8b129f95f503d48c9b75f60e92aeb832",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080791,
+            "localadmin_id":404518053,
+            "locality_id":85971343,
+            "neighbourhood_id":85873633,
+            "region_id":85688661,
+            "venue_id":807157839
+        }
+    ],
+    "wof:id":807157839,
+    "wof:lastmodified":1462604349,
+    "wof:name":"Forest Park Turtle Playground",
+    "wof:parent_id":85873633,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.280867,
+    38.643989,
+    -90.280867,
+    38.643989
+],
+  "geometry": {"coordinates":[-90.280867,38.643989],"type":"Point"}
+}

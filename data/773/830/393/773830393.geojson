@@ -1,0 +1,74 @@
+{
+  "id": 773830393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.467039,38.588855,-90.467039,38.588855",
+    "geom:latitude":38.588855,
+    "geom:longitude":-90.467039,
+    "iso:country":"US",
+    "sg:address":"2417 Fairoyal Dr",
+    "sg:city":"St Louis",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 909 6683",
+    "sg:postcode":"63131",
+    "sg:province":"MO",
+    "sg:tags":[
+        "mover"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85839871,
+        102086173
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5iXv9lKyzqKtBtY22azfsh_38.588855_-90.467039@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462588723,
+    "wof:geomhash":"cd411b40ed1735f6b47a7ea4bff7080d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086173,
+            "neighbourhood_id":85839871,
+            "region_id":85688661,
+            "venue_id":773830393
+        }
+    ],
+    "wof:id":773830393,
+    "wof:lastmodified":1462588723,
+    "wof:name":"Ace Worldwide",
+    "wof:parent_id":85839871,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mover"
+    ]
+},
+  "bbox": [
+    -90.467039,
+    38.588855,
+    -90.467039,
+    38.588855
+],
+  "geometry": {"coordinates":[-90.467039,38.588855],"type":"Point"}
+}

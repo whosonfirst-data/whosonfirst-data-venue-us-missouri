@@ -1,0 +1,71 @@
+{
+  "id": 806704535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.553664,37.07668,-94.553664,37.07668",
+    "geom:latitude":37.07668,
+    "geom:longitude":-94.553664,
+    "iso:country":"US",
+    "sg:address":"3026 W 14th St",
+    "sg:city":"Joplin",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 782 6722",
+    "sg:postcode":"64801",
+    "sg:province":"MO",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970893,
+        102087525,
+        85810925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6nZeVzcjZToUg1XEbPvLC0_37.076680_-94.553664@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462600372,
+    "wof:geomhash":"e42052091c71c3b48bd890d54439ca9d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087525,
+            "locality_id":85970893,
+            "neighbourhood_id":85810925,
+            "region_id":85688661,
+            "venue_id":806704535
+        }
+    ],
+    "wof:id":806704535,
+    "wof:lastmodified":1462600372,
+    "wof:name":"Turner Plumbing",
+    "wof:parent_id":85810925,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -94.553664,
+    37.07668,
+    -94.553664,
+    37.07668
+],
+  "geometry": {"coordinates":[-94.553664,37.07668],"type":"Point"}
+}

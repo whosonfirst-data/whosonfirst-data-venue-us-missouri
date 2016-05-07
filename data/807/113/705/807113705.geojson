@@ -1,0 +1,86 @@
+{
+  "id": 807113705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.629379,38.48933,-90.629379,38.48933",
+    "geom:latitude":38.48933,
+    "geom:longitude":-90.629379,
+    "iso:country":"US",
+    "sg:address":"700 Niehoff Dr Ste E",
+    "sg:city":"Eureka",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        },
+        {
+            "category":"Community Center",
+            "subcategory":"Social",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 587 2551",
+    "sg:postcode":"63025",
+    "sg:province":"MO",
+    "sg:tags":[
+        "information",
+        "welfare",
+        "smoker",
+        "treatment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85809151,
+        102191575,
+        404517383,
+        85633793,
+        85972199,
+        102086173,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5LMt0fQPw4odMbZAWJUaqF_38.489330_-90.629379@1303262925"
+    },
+    "wof:country":"US",
+    "wof:created":1462603877,
+    "wof:geomhash":"e806d1cf125600304b74b7ca14142de4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086173,
+            "localadmin_id":404517383,
+            "locality_id":85972199,
+            "neighbourhood_id":85809151,
+            "region_id":85688661,
+            "venue_id":807113705
+        }
+    ],
+    "wof:id":807113705,
+    "wof:lastmodified":1462603877,
+    "wof:name":"Healing Laser Clinics",
+    "wof:parent_id":85809151,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "information",
+        "welfare",
+        "smoker",
+        "treatment"
+    ]
+},
+  "bbox": [
+    -90.629379,
+    38.48933,
+    -90.629379,
+    38.48933
+],
+  "geometry": {"coordinates":[-90.629379,38.48933],"type":"Point"}
+}

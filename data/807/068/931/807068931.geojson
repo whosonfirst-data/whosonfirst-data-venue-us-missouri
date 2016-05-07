@@ -1,0 +1,93 @@
+{
+  "id": 807068931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.278898,38.745553,-90.278898,38.745553",
+    "geom:latitude":38.745553,
+    "geom:longitude":-90.278898,
+    "iso:country":"US",
+    "sg:address":"9806 W Florissant Ave",
+    "sg:city":"Saint Louis",
+    "sg:classifiers":[
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Bagels",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Donuts",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/norwood/133254-dunkin-donuts/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 869 3679",
+    "sg:postcode":"63136",
+    "sg:province":"MO",
+    "sg:tags":[
+        "american",
+        "pastry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85859027,
+        102191575,
+        404517247,
+        85633793,
+        85972205,
+        102086173,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3OKDHeGTWekFcrU24yaQjE_38.745553_-90.278898@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462603437,
+    "wof:geomhash":"b7bccad55a85aa6965b9cc1966c81b84",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086173,
+            "localadmin_id":404517247,
+            "locality_id":85972205,
+            "neighbourhood_id":85859027,
+            "region_id":85688661,
+            "venue_id":807068931
+        }
+    ],
+    "wof:id":807068931,
+    "wof:lastmodified":1462603437,
+    "wof:name":"Dunkin' Donuts",
+    "wof:parent_id":85859027,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pastry"
+    ]
+},
+  "bbox": [
+    -90.278898,
+    38.745553,
+    -90.278898,
+    38.745553
+],
+  "geometry": {"coordinates":[-90.278898,38.745553],"type":"Point"}
+}

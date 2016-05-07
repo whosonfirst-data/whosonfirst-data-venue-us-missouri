@@ -1,0 +1,73 @@
+{
+  "id": 806462265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.489066,38.781881,-90.489066,38.781881",
+    "geom:latitude":38.781881,
+    "geom:longitude":-90.489066,
+    "iso:country":"US",
+    "sg:address":"546 First Capitol Dr",
+    "sg:city":"St Charles",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 255 0699",
+    "sg:postcode":"63301",
+    "sg:province":"MO",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Mb9rh3yOvA2voI5NYZjI2_38.781881_-90.489066@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462598334,
+    "wof:geomhash":"0758b1fd709bbb7b0c163a027bfc6aaf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":806462265
+        }
+    ],
+    "wof:id":806462265,
+    "wof:lastmodified":1462598334,
+    "wof:name":"Allied Behavioral Consultants",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -90.489066,
+    38.781881,
+    -90.489066,
+    38.781881
+],
+  "geometry": {"coordinates":[-90.48906599999999,38.781881],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 789659481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.699135,38.809793,-90.699135,38.809793",
+    "geom:latitude":38.809793,
+    "geom:longitude":-90.699135,
+    "iso:country":"US",
+    "sg:address":"209 E Elm St",
+    "sg:city":"O Fallon",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 978 3820",
+    "sg:postcode":"63366",
+    "sg:province":"MO",
+    "sg:tags":[
+        "home",
+        "builder"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Nmp0QczmsdjNtnJEDF7l1_38.809793_-90.699135@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462589525,
+    "wof:geomhash":"269bb31d3316bdd5d078689b7aa3e914",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":789659481
+        }
+    ],
+    "wof:id":789659481,
+    "wof:lastmodified":1462589525,
+    "wof:name":"Taylor Homes",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "builder"
+    ]
+},
+  "bbox": [
+    -90.699135,
+    38.809793,
+    -90.699135,
+    38.809793
+],
+  "geometry": {"coordinates":[-90.699135,38.809793],"type":"Point"}
+}

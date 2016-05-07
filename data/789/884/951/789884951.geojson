@@ -1,0 +1,73 @@
+{
+  "id": 789884951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.682119,39.310066,-94.682119,39.310066",
+    "geom:latitude":39.310066,
+    "geom:longitude":-94.682119,
+    "iso:country":"US",
+    "sg:address":"11920 NW Ambassador Dr",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 891 9220",
+    "sg:postcode":"64153",
+    "sg:province":"MO",
+    "sg:tags":[
+        "passenger",
+        "car"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970739,
+        102085271,
+        85851839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0mpYUesRzI2S6hFVpugqrm_39.310066_-94.682119@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462591331,
+    "wof:geomhash":"114b86f9d9b96adccc7458de8717f1a7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085271,
+            "locality_id":85970739,
+            "neighbourhood_id":85851839,
+            "region_id":85688661,
+            "venue_id":789884951
+        }
+    ],
+    "wof:id":789884951,
+    "wof:lastmodified":1462591331,
+    "wof:name":"Enterprise Fleet Services Kans",
+    "wof:parent_id":85851839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "passenger",
+        "car"
+    ]
+},
+  "bbox": [
+    -94.682119,
+    39.310066,
+    -94.682119,
+    39.310066
+],
+  "geometry": {"coordinates":[-94.682119,39.310066],"type":"Point"}
+}

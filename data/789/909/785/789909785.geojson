@@ -1,0 +1,73 @@
+{
+  "id": 789909785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.725599,38.877939,-90.725599,38.877939",
+    "geom:latitude":38.877939,
+    "geom:longitude":-90.725599,
+    "iso:country":"US",
+    "sg:address":"3940 Hwy 79",
+    "sg:city":"O Fallon",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 566 6658",
+    "sg:postcode":"63366",
+    "sg:province":"MO",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2BKVNt9yQvrTo7Er9AfTqr_38.877939_-90.725599@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462591538,
+    "wof:geomhash":"6d8bc15c3ce11e4895aa2140d0c765b7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":789909785
+        }
+    ],
+    "wof:id":789909785,
+    "wof:lastmodified":1462591538,
+    "wof:name":"Car Haven",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -90.725599,
+    38.877939,
+    -90.725599,
+    38.877939
+],
+  "geometry": {"coordinates":[-90.725599,38.877939],"type":"Point"}
+}

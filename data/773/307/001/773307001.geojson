@@ -1,0 +1,77 @@
+{
+  "id": 773307001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.405619,38.632921,-90.405619,38.632921",
+    "geom:latitude":38.632921,
+    "geom:longitude":-90.405619,
+    "iso:country":"US",
+    "sg:address":"10212 Clayton Rd",
+    "sg:city":"Saint Louis",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Retail Goods",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 997 3939",
+    "sg:postcode":"63124",
+    "sg:province":"MO",
+    "sg:tags":[
+        "product",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85867981,
+        102191575,
+        404517387,
+        85633793,
+        85972223,
+        102086173,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1qAmB0DvBAUmGhrtMafRUN_38.632921_-90.405619@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462584738,
+    "wof:geomhash":"59a34d942d90cef907dff9a3c17ee5ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086173,
+            "localadmin_id":404517387,
+            "locality_id":85972223,
+            "neighbourhood_id":85867981,
+            "region_id":85688661,
+            "venue_id":773307001
+        }
+    ],
+    "wof:id":773307001,
+    "wof:lastmodified":1462584738,
+    "wof:name":"Doctor Industries",
+    "wof:parent_id":85867981,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -90.405619,
+    38.632921,
+    -90.405619,
+    38.632921
+],
+  "geometry": {"coordinates":[-90.405619,38.632921],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 789999447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.349112,38.485134,-90.349112,38.485134",
+    "geom:latitude":38.485134,
+    "geom:longitude":-90.349112,
+    "iso:country":"US",
+    "sg:address":"5159 Lemay Ferry Rd",
+    "sg:city":"St Louis",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 487 6566",
+    "sg:postcode":"63129",
+    "sg:province":"MO",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971021,
+        102080787,
+        85832925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ylB7Y0Bztjwu7HA6ooNAo_38.485134_-90.349112@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462592325,
+    "wof:geomhash":"09ae32489738ffe1e840bef9318ce2e0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080787,
+            "locality_id":85971021,
+            "neighbourhood_id":85832925,
+            "region_id":85688661,
+            "venue_id":789999447
+        }
+    ],
+    "wof:id":789999447,
+    "wof:lastmodified":1462592325,
+    "wof:name":"Ljubija European Food Market",
+    "wof:parent_id":85832925,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -90.349112,
+    38.485134,
+    -90.349112,
+    38.485134
+],
+  "geometry": {"coordinates":[-90.34911200000001,38.485134],"type":"Point"}
+}

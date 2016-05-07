@@ -1,0 +1,71 @@
+{
+  "id": 790012729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.47835,38.816416,-90.47835,38.816416",
+    "geom:latitude":38.816416,
+    "geom:longitude":-90.47835,
+    "iso:country":"US",
+    "sg:address":"400 North Dr",
+    "sg:city":"St Charles",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 949 3390",
+    "sg:postcode":"63301",
+    "sg:province":"MO",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4XKZcocARX8CXzWVhstTVo_38.816416_-90.478350@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462592426,
+    "wof:geomhash":"2670200e252723648d8149f44dfdd29b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":790012729
+        }
+    ],
+    "wof:id":790012729,
+    "wof:lastmodified":1462592426,
+    "wof:name":"St Charles Fire Station #4",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -90.47835,
+    38.816416,
+    -90.47835,
+    38.816416
+],
+  "geometry": {"coordinates":[-90.47835000000001,38.816416],"type":"Point"}
+}

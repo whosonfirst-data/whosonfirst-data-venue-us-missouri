@@ -1,0 +1,75 @@
+{
+  "id": 806948045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.477409,38.596337,-90.477409,38.596337",
+    "geom:latitude":38.596337,
+    "geom:longitude":-90.477409,
+    "iso:country":"US",
+    "sg:address":"13645 Manchester Rd",
+    "sg:city":"St Louis",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 965 2242",
+    "sg:postcode":"63131",
+    "sg:province":"MO",
+    "sg:tags":[
+        "transmission"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85802943,
+        102191575,
+        404517387,
+        85633793,
+        85972231,
+        102086173,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4OQiyU4F75pbYtdWHRnqFZ_38.596337_-90.477409@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462602422,
+    "wof:geomhash":"e536a2493284729ce9a80fc51bfe2232",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086173,
+            "localadmin_id":404517387,
+            "locality_id":85972231,
+            "neighbourhood_id":85802943,
+            "region_id":85688661,
+            "venue_id":806948045
+        }
+    ],
+    "wof:id":806948045,
+    "wof:lastmodified":1462602422,
+    "wof:name":"Austin Transmission",
+    "wof:parent_id":85802943,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission"
+    ]
+},
+  "bbox": [
+    -90.477409,
+    38.596337,
+    -90.477409,
+    38.596337
+],
+  "geometry": {"coordinates":[-90.47740899999999,38.596337],"type":"Point"}
+}

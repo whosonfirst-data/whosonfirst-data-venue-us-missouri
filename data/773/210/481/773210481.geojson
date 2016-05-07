@@ -1,0 +1,75 @@
+{
+  "id": 773210481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.35479,37.213899,-93.35479,37.213899",
+    "geom:latitude":37.213899,
+    "geom:longitude":-93.35479,
+    "iso:country":"US",
+    "sg:address":"3600 W Waddill St",
+    "sg:city":"Springfield",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 831 7172",
+    "sg:postcode":"65802",
+    "sg:province":"MO",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971363,
+        102087523,
+        85836941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0OFbH4M3gmHV0Nb95in5Ez_37.213899_-93.354790@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462584000,
+    "wof:geomhash":"c46e2c7454367c2a999a83f5b552c7b5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087523,
+            "locality_id":85971363,
+            "neighbourhood_id":85836941,
+            "region_id":85688661,
+            "venue_id":773210481
+        }
+    ],
+    "wof:id":773210481,
+    "wof:lastmodified":1462584000,
+    "wof:name":"Lucas Auto Body",
+    "wof:parent_id":85836941,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -93.35479,
+    37.213899,
+    -93.35479,
+    37.213899
+],
+  "geometry": {"coordinates":[-93.35478999999999,37.213899],"type":"Point"}
+}

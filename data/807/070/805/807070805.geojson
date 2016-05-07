@@ -1,0 +1,74 @@
+{
+  "id": 807070805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.532588,38.783233,-90.532588,38.783233",
+    "geom:latitude":38.783233,
+    "geom:longitude":-90.532588,
+    "iso:country":"US",
+    "sg:address":"2023 Zumbehl Rd",
+    "sg:city":"Saint Charles",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/zumbehl/156069-hardees/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 724 9912",
+    "sg:postcode":"63303",
+    "sg:province":"MO",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_44Zin5HYZhNlpgNy5Kg6bl_38.783233_-90.532588@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462603452,
+    "wof:geomhash":"a29a940b36e3dcc435064e1ac87bc99b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":807070805
+        }
+    ],
+    "wof:id":807070805,
+    "wof:lastmodified":1462603452,
+    "wof:name":"Hardee's",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -90.532588,
+    38.783233,
+    -90.532588,
+    38.783233
+],
+  "geometry": {"coordinates":[-90.532588,38.783233],"type":"Point"}
+}

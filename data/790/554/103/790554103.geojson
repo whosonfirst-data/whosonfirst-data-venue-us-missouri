@@ -1,0 +1,75 @@
+{
+  "id": 790554103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.276039,38.588729,-90.276039,38.588729",
+    "geom:latitude":38.588729,
+    "geom:longitude":-90.276039,
+    "iso:country":"US",
+    "sg:address":"4901 Sutherland Ave",
+    "sg:city":"St Louis",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        },
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 752 9908",
+    "sg:postcode":"63109",
+    "sg:province":"MO",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85850281,
+        102191575,
+        404518053,
+        85633793,
+        85971343,
+        102080791,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4W3jWBff9VYdbbiEF0F5lo_38.588729_-90.276039@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462596830,
+    "wof:geomhash":"085047842fe1d909df9860fce549e595",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080791,
+            "localadmin_id":404518053,
+            "locality_id":85971343,
+            "neighbourhood_id":85850281,
+            "region_id":85688661,
+            "venue_id":790554103
+        }
+    ],
+    "wof:id":790554103,
+    "wof:lastmodified":1462596830,
+    "wof:name":"Southside Regional PSR",
+    "wof:parent_id":85850281,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.276039,
+    38.588729,
+    -90.276039,
+    38.588729
+],
+  "geometry": {"coordinates":[-90.276039,38.588729],"type":"Point"}
+}

@@ -1,0 +1,89 @@
+{
+  "id": 807256415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.333654,38.971931,-92.333654,38.971931",
+    "geom:latitude":38.971931,
+    "geom:longitude":-92.333654,
+    "iso:country":"US",
+    "sg:address":"1906 N Providence Rd # 4",
+    "sg:city":"Columbia",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Beauty & Cosmetics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 443 4583",
+    "sg:postcode":"65202",
+    "sg:province":"MO",
+    "sg:tags":[
+        "equipment",
+        "salons-equipment",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85835171,
+        102191575,
+        404516389,
+        85633793,
+        85970425,
+        102086187,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_43GNZLqcCqb86M1pbDB2CS_38.971931_-92.333654@1303262935"
+    },
+    "wof:country":"US",
+    "wof:created":1462605392,
+    "wof:geomhash":"845e416123ecc7905f7425b1ff55dae8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086187,
+            "localadmin_id":404516389,
+            "locality_id":85970425,
+            "neighbourhood_id":85835171,
+            "region_id":85688661,
+            "venue_id":807256415
+        }
+    ],
+    "wof:id":807256415,
+    "wof:lastmodified":1462605392,
+    "wof:name":"Peels Salon Services",
+    "wof:parent_id":85835171,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "salons-equipment",
+        "supply"
+    ]
+},
+  "bbox": [
+    -92.333654,
+    38.971931,
+    -92.333654,
+    38.971931
+],
+  "geometry": {"coordinates":[-92.333654,38.971931],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 773786447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.291475,38.608389,-90.291475,38.608389",
+    "geom:latitude":38.608389,
+    "geom:longitude":-90.291475,
+    "iso:country":"US",
+    "sg:address":"3023 Watson Rd",
+    "sg:city":"St Louis",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 644 5860",
+    "sg:postcode":"63139",
+    "sg:province":"MO",
+    "sg:tags":[
+        "janitor",
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85811407,
+        102191575,
+        404518053,
+        85633793,
+        85971343,
+        102080791,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5mFIWzD3eg1PyDRTPfAgbV_38.608389_-90.291475@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462588363,
+    "wof:geomhash":"84d3b3f348cdf6fade3a7d2ee6c7eb97",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080791,
+            "localadmin_id":404518053,
+            "locality_id":85971343,
+            "neighbourhood_id":85811407,
+            "region_id":85688661,
+            "venue_id":773786447
+        }
+    ],
+    "wof:id":773786447,
+    "wof:lastmodified":1462588363,
+    "wof:name":"Midwest Building Maintenance",
+    "wof:parent_id":85811407,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitor",
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -90.291475,
+    38.608389,
+    -90.291475,
+    38.608389
+],
+  "geometry": {"coordinates":[-90.29147500000001,38.608389],"type":"Point"}
+}

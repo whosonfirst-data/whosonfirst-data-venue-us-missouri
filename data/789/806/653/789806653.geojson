@@ -1,0 +1,71 @@
+{
+  "id": 789806653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.177281,38.572702,-92.177281,38.572702",
+    "geom:latitude":38.572702,
+    "geom:longitude":-92.177281,
+    "iso:country":"US",
+    "sg:address":"721 Jefferson St",
+    "sg:city":"Jefferson City",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 635 9297",
+    "sg:postcode":"65101",
+    "sg:province":"MO",
+    "sg:tags":[
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970647,
+        102087511,
+        85837745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_13CC8xhhy4ZQQEpEdJoXvr_38.572702_-92.177281@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462590690,
+    "wof:geomhash":"b2d78e2705c2fe5280bf5b885d67d4ef",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087511,
+            "locality_id":85970647,
+            "neighbourhood_id":85837745,
+            "region_id":85688661,
+            "venue_id":789806653
+        }
+    ],
+    "wof:id":789806653,
+    "wof:lastmodified":1462590690,
+    "wof:name":"B G Maintenance",
+    "wof:parent_id":85837745,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -92.177281,
+    38.572702,
+    -92.177281,
+    38.572702
+],
+  "geometry": {"coordinates":[-92.17728099999999,38.572702],"type":"Point"}
+}

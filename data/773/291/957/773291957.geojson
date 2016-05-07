@@ -1,0 +1,82 @@
+{
+  "id": 773291957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.558727,38.806447,-90.558727,38.806447",
+    "geom:latitude":38.806447,
+    "geom:longitude":-90.558727,
+    "iso:country":"US",
+    "sg:address":"12 Brookwood Ct",
+    "sg:city":"St Charles",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Furniture",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 949 2738",
+    "sg:postcode":"63301",
+    "sg:province":"MO",
+    "sg:tags":[
+        "water",
+        "equipment",
+        "conditioning",
+        "softening"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0tMtc3SsM79srCdo114zRt_38.806447_-90.558727@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462584615,
+    "wof:geomhash":"a607da27c9122ce9469184eb768d5d79",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":773291957
+        }
+    ],
+    "wof:id":773291957,
+    "wof:lastmodified":1462584615,
+    "wof:name":"Bachman Water Conditioning",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "water",
+        "equipment",
+        "conditioning",
+        "softening"
+    ]
+},
+  "bbox": [
+    -90.558727,
+    38.806447,
+    -90.558727,
+    38.806447
+],
+  "geometry": {"coordinates":[-90.558727,38.806447],"type":"Point"}
+}

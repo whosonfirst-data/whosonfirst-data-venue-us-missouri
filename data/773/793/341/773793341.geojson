@@ -1,0 +1,71 @@
+{
+  "id": 773793341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.193706,39.344449,-91.193706,39.344449",
+    "geom:latitude":39.344449,
+    "geom:longitude":-91.193706,
+    "iso:country":"US",
+    "sg:address":"61 W Locust St",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 324 3407",
+    "sg:postcode":"63334",
+    "sg:province":"MO",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971907,
+        102086151,
+        85817909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0MLdPUvNI4dO9YHNGO3Piw_39.344449_-91.193706@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462588413,
+    "wof:geomhash":"95ad1af38e7f81b0819a4a942b86987f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086151,
+            "locality_id":85971907,
+            "neighbourhood_id":85817909,
+            "region_id":85688661,
+            "venue_id":773793341
+        }
+    ],
+    "wof:id":773793341,
+    "wof:lastmodified":1462588413,
+    "wof:name":"Dairy Queen",
+    "wof:parent_id":85817909,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -91.193706,
+    39.344449,
+    -91.193706,
+    39.344449
+],
+  "geometry": {"coordinates":[-91.19370600000001,39.344449],"type":"Point"}
+}

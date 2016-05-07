@@ -1,0 +1,77 @@
+{
+  "id": 806462403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.481143,38.635846,-90.481143,38.635846",
+    "geom:latitude":38.635846,
+    "geom:longitude":-90.481143,
+    "iso:country":"US",
+    "sg:address":"1020 S Mason Rd",
+    "sg:city":"St Louis",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 996 3050",
+    "sg:postcode":"63141",
+    "sg:province":"MO",
+    "sg:tags":[
+        "therapist",
+        "physical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85802943,
+        102191575,
+        404517387,
+        85633793,
+        85972231,
+        102086173,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7M0nP8DVvysFTJH1a3Ck3L_38.635846_-90.481143@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462598335,
+    "wof:geomhash":"ce8c99bb964b4ba2d3f42be1d9908025",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086173,
+            "localadmin_id":404517387,
+            "locality_id":85972231,
+            "neighbourhood_id":85802943,
+            "region_id":85688661,
+            "venue_id":806462403
+        }
+    ],
+    "wof:id":806462403,
+    "wof:lastmodified":1462598335,
+    "wof:name":"Barnes-Jewish West County Hosp",
+    "wof:parent_id":85802943,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "therapist",
+        "physical"
+    ]
+},
+  "bbox": [
+    -90.481143,
+    38.635846,
+    -90.481143,
+    38.635846
+],
+  "geometry": {"coordinates":[-90.481143,38.635846],"type":"Point"}
+}

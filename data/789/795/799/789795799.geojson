@@ -1,0 +1,71 @@
+{
+  "id": 789795799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.474918,39.89771,-92.474918,39.89771",
+    "geom:latitude":39.89771,
+    "geom:longitude":-92.474918,
+    "iso:country":"US",
+    "sg:address":"403 E Marion St",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 660 239 4890",
+    "sg:postcode":"63530",
+    "sg:province":"MO",
+    "sg:tags":[
+        "city"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971149,
+        102086189,
+        85821499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1JZcd5oCSeDk5cZ41QqczR_39.897710_-92.474918@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462590610,
+    "wof:geomhash":"a19c0ff8280c85c120c60ca11867b28e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086189,
+            "locality_id":85971149,
+            "neighbourhood_id":85821499,
+            "region_id":85688661,
+            "venue_id":789795799
+        }
+    ],
+    "wof:id":789795799,
+    "wof:lastmodified":1462590610,
+    "wof:name":"Atlanta City Hall",
+    "wof:parent_id":85821499,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "city"
+    ]
+},
+  "bbox": [
+    -92.474918,
+    39.89771,
+    -92.474918,
+    39.89771
+],
+  "geometry": {"coordinates":[-92.474918,39.89771],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 789723041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.165506,38.574902,-92.165506,38.574902",
+    "geom:latitude":38.574902,
+    "geom:longitude":-92.165506,
+    "iso:country":"US",
+    "sg:address":"100 Jackson St",
+    "sg:city":"Jefferson City",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 634 2563",
+    "sg:postcode":"65101",
+    "sg:province":"MO",
+    "sg:tags":[
+        "attorney"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970647,
+        102087511,
+        85837745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_06PjuCIjbdRb1UN8kKSQ6D_38.574902_-92.165506@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462590046,
+    "wof:geomhash":"d6ba0ebea9e26c6bdc314553457aa78f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087511,
+            "locality_id":85970647,
+            "neighbourhood_id":85837745,
+            "region_id":85688661,
+            "venue_id":789723041
+        }
+    ],
+    "wof:id":789723041,
+    "wof:lastmodified":1462590046,
+    "wof:name":"Lake John H",
+    "wof:parent_id":85837745,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "attorney"
+    ]
+},
+  "bbox": [
+    -92.165506,
+    38.574902,
+    -92.165506,
+    38.574902
+],
+  "geometry": {"coordinates":[-92.16550599999999,38.574902],"type":"Point"}
+}

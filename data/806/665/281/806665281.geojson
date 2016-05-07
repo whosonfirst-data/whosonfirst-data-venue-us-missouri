@@ -1,0 +1,73 @@
+{
+  "id": 806665281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.339725,38.479921,-90.339725,38.479921",
+    "geom:latitude":38.479921,
+    "geom:longitude":-90.339725,
+    "iso:country":"US",
+    "sg:address":"3550 Crowndun Dr",
+    "sg:city":"St Louis",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 894 0788",
+    "sg:postcode":"63129",
+    "sg:province":"MO",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971021,
+        102080787,
+        85832925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1iHDxgljMVPUGzY4SDW2Cb_38.479921_-90.339725@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462600042,
+    "wof:geomhash":"fae5b01b4575ac7f58413a0b56f0f440",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080787,
+            "locality_id":85971021,
+            "neighbourhood_id":85832925,
+            "region_id":85688661,
+            "venue_id":806665281
+        }
+    ],
+    "wof:id":806665281,
+    "wof:lastmodified":1462600042,
+    "wof:name":"Hampton Medical Devices",
+    "wof:parent_id":85832925,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -90.339725,
+    38.479921,
+    -90.339725,
+    38.479921
+],
+  "geometry": {"coordinates":[-90.339725,38.479921],"type":"Point"}
+}

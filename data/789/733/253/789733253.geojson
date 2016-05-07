@@ -1,0 +1,81 @@
+{
+  "id": 789733253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.423305,39.22909,-94.423305,39.22909",
+    "geom:latitude":39.22909,
+    "geom:longitude":-94.423305,
+    "iso:country":"US",
+    "sg:address":"1603 Johnston St",
+    "sg:city":"Liberty",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 407 1264",
+    "sg:postcode":"64068",
+    "sg:province":"MO",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420525367,
+        102191575,
+        404516717,
+        85633793,
+        85972461,
+        102086177,
+        85688661,
+        420525305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2HWoftHFa7ZVwNDHPxrC14_39.229090_-94.423305@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462590126,
+    "wof:geomhash":"559ac65574ccd25e7cccc4477bc6436d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086177,
+            "localadmin_id":404516717,
+            "locality_id":85972461,
+            "neighbourhood_id":420525367,
+            "region_id":85688661,
+            "venue_id":789733253
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086177,
+            "localadmin_id":404516717,
+            "locality_id":85972461,
+            "neighbourhood_id":420525305,
+            "region_id":85688661,
+            "venue_id":789733253
+        }
+    ],
+    "wof:id":789733253,
+    "wof:lastmodified":1462590126,
+    "wof:name":"Veterans of Foreign Wars",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -94.423305,
+    39.22909,
+    -94.423305,
+    39.22909
+],
+  "geometry": {"coordinates":[-94.423305,39.22909],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 806503223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.83586,38.81658,-90.83586,38.81658",
+    "geom:latitude":38.81658,
+    "geom:longitude":-90.83586,
+    "iso:country":"US",
+    "sg:address":"1395 E Pearce Blvd",
+    "sg:city":"Wentzville",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Labor Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 327 5796",
+    "sg:postcode":"63385",
+    "sg:province":"MO",
+    "sg:tags":[
+        "union"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3KsYdN8VPh74tmEQ7W58wB_38.816580_-90.835860@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462598659,
+    "wof:geomhash":"97aac83e7de12cfa166fa1ba8c6251ab",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":806503223
+        }
+    ],
+    "wof:id":806503223,
+    "wof:lastmodified":1462598659,
+    "wof:name":"United Auto Workers Local 2250",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "union"
+    ]
+},
+  "bbox": [
+    -90.83586,
+    38.81658,
+    -90.83586,
+    38.81658
+],
+  "geometry": {"coordinates":[-90.83586,38.81658],"type":"Point"}
+}

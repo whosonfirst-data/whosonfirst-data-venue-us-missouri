@@ -1,0 +1,71 @@
+{
+  "id": 789606895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.175766,38.574192,-92.175766,38.574192",
+    "geom:latitude":38.574192,
+    "geom:longitude":-92.175766,
+    "iso:country":"US",
+    "sg:address":"604 Jefferson St",
+    "sg:city":"Jefferson City",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 636 5259",
+    "sg:postcode":"65101",
+    "sg:province":"MO",
+    "sg:tags":[
+        "bottler"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970647,
+        102087511,
+        85837745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2con1oV7ktS7hikDCHhkpT_38.574192_-92.175766@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462589116,
+    "wof:geomhash":"ae6c94f0c24dd0968e3ba61dfc80ba8c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087511,
+            "locality_id":85970647,
+            "neighbourhood_id":85837745,
+            "region_id":85688661,
+            "venue_id":789606895
+        }
+    ],
+    "wof:id":789606895,
+    "wof:lastmodified":1462589116,
+    "wof:name":"Coca-Cola Bottling Co",
+    "wof:parent_id":85837745,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bottler"
+    ]
+},
+  "bbox": [
+    -92.175766,
+    38.574192,
+    -92.175766,
+    38.574192
+],
+  "geometry": {"coordinates":[-92.175766,38.574192],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 807058417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.384986,38.413829,-90.384986,38.413829",
+    "geom:latitude":38.413829,
+    "geom:longitude":-90.384986,
+    "iso:country":"US",
+    "sg:address":"1959 Richardson Rd",
+    "sg:city":"Arnold",
+    "sg:classifiers":[
+        {
+            "category":"Ice Cream",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/arnold/167985-dairy-queen/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 464 6900",
+    "sg:postcode":"63010",
+    "sg:province":"MO",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85805175,
+        102080787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_08avaAySGet1sD0MVzub9k_38.413829_-90.384986@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462603358,
+    "wof:geomhash":"273acb8ade4152aaa652d3f2aee31d62",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080787,
+            "neighbourhood_id":85805175,
+            "region_id":85688661,
+            "venue_id":807058417
+        }
+    ],
+    "wof:id":807058417,
+    "wof:lastmodified":1462603358,
+    "wof:name":"Dairy Queen",
+    "wof:parent_id":85805175,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -90.384986,
+    38.413829,
+    -90.384986,
+    38.413829
+],
+  "geometry": {"coordinates":[-90.384986,38.413829],"type":"Point"}
+}

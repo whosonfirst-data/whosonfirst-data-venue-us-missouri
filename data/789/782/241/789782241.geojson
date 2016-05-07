@@ -1,0 +1,75 @@
+{
+  "id": 789782241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.577396,39.127983,-94.577396,39.127983",
+    "geom:latitude":39.127983,
+    "geom:longitude":-94.577396,
+    "iso:country":"US",
+    "sg:address":"1041 Swift Ave",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 283 0625",
+    "sg:postcode":"64116",
+    "sg:province":"MO",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85823983,
+        102191575,
+        404516715,
+        85633793,
+        85972453,
+        102086177,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ErDvI2UJDEuf1nHSfSMp1_39.127983_-94.577396@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462590507,
+    "wof:geomhash":"ddb12f17ad48b7da6c8101c372bf46cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086177,
+            "localadmin_id":404516715,
+            "locality_id":85972453,
+            "neighbourhood_id":85823983,
+            "region_id":85688661,
+            "venue_id":789782241
+        }
+    ],
+    "wof:id":789782241,
+    "wof:lastmodified":1462590507,
+    "wof:name":"Burlington Auto Repair",
+    "wof:parent_id":85823983,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -94.577396,
+    39.127983,
+    -94.577396,
+    39.127983
+],
+  "geometry": {"coordinates":[-94.57739599999999,39.127983],"type":"Point"}
+}

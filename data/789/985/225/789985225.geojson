@@ -1,0 +1,75 @@
+{
+  "id": 789985225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.243521,38.572494,-90.243521,38.572494",
+    "geom:latitude":38.572494,
+    "geom:longitude":-90.243521,
+    "iso:country":"US",
+    "sg:address":"3202 Pulaski St",
+    "sg:city":"St Louis",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 481 2486",
+    "sg:postcode":"63111",
+    "sg:province":"MO",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873693,
+        102191575,
+        404518053,
+        85633793,
+        85971343,
+        102080791,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4f8HIwY8F8iVnElSlMSkiV_38.572494_-90.243521@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462592210,
+    "wof:geomhash":"f2b77a7822f7870423d7263c226073b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080791,
+            "localadmin_id":404518053,
+            "locality_id":85971343,
+            "neighbourhood_id":85873693,
+            "region_id":85688661,
+            "venue_id":789985225
+        }
+    ],
+    "wof:id":789985225,
+    "wof:lastmodified":1462592210,
+    "wof:name":"Saint Hedwig Catholic Church",
+    "wof:parent_id":85873693,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -90.243521,
+    38.572494,
+    -90.243521,
+    38.572494
+],
+  "geometry": {"coordinates":[-90.243521,38.572494],"type":"Point"}
+}

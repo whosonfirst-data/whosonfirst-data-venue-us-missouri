@@ -1,0 +1,71 @@
+{
+  "id": 789799331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.223019,37.174222,-93.223019,37.174222",
+    "geom:latitude":37.174222,
+    "geom:longitude":-93.223019,
+    "iso:country":"US",
+    "sg:address":"2135 S Eastgate Ave",
+    "sg:city":"Springfield",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Medical Equipment & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 888 0122",
+    "sg:postcode":"65809",
+    "sg:province":"MO",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85881129,
+        102087523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Q2dPmhMPwKgo47xeCzUgC_37.174222_-93.223019@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462590636,
+    "wof:geomhash":"af7e5dfa0b37f4fb1e2b25933496c8d6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087523,
+            "neighbourhood_id":85881129,
+            "region_id":85688661,
+            "venue_id":789799331
+        }
+    ],
+    "wof:id":789799331,
+    "wof:lastmodified":1462590636,
+    "wof:name":"Personal Empowerment Tech",
+    "wof:parent_id":85881129,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -93.223019,
+    37.174222,
+    -93.223019,
+    37.174222
+],
+  "geometry": {"coordinates":[-93.22301899999999,37.174222],"type":"Point"}
+}

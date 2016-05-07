@@ -1,0 +1,75 @@
+{
+  "id": 773481001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.199121,38.666525,-90.199121,38.666525",
+    "geom:latitude":38.666525,
+    "geom:longitude":-90.199121,
+    "iso:country":"US",
+    "sg:address":"3930 N 9th St",
+    "sg:city":"St Louis",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 436 6699",
+    "sg:postcode":"63147",
+    "sg:province":"MO",
+    "sg:tags":[
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873609,
+        102191575,
+        404518053,
+        85633793,
+        85971343,
+        102080791,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2zyOvFp9PjtC0WpZZ3wesh_38.666525_-90.199121@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462586079,
+    "wof:geomhash":"efa34a0d71c81cc7dd962e39421975c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080791,
+            "localadmin_id":404518053,
+            "locality_id":85971343,
+            "neighbourhood_id":85873609,
+            "region_id":85688661,
+            "venue_id":773481001
+        }
+    ],
+    "wof:id":773481001,
+    "wof:lastmodified":1462586079,
+    "wof:name":"Double L Towing",
+    "wof:parent_id":85873609,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrecker"
+    ]
+},
+  "bbox": [
+    -90.199121,
+    38.666525,
+    -90.199121,
+    38.666525
+],
+  "geometry": {"coordinates":[-90.19912100000001,38.666525],"type":"Point"}
+}

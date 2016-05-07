@@ -1,0 +1,74 @@
+{
+  "id": 789739297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.174203,38.578146,-92.174203,38.578146",
+    "geom:latitude":38.578146,
+    "geom:longitude":-92.174203,
+    "iso:country":"US",
+    "sg:address":"207 W High St",
+    "sg:city":"Jefferson City",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Court House",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 751 3321",
+    "sg:postcode":"65101",
+    "sg:province":"MO",
+    "sg:tags":[
+        "state",
+        "counsel"
+    ],
+    "sg:website":"www.ago.mo.gov",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970647,
+        102087511,
+        85837745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_194R5uGb9oXshTrn1pl1yU_38.578146_-92.174203@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462590168,
+    "wof:geomhash":"4cd695a02a2ba7fb101219d7fc939a40",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087511,
+            "locality_id":85970647,
+            "neighbourhood_id":85837745,
+            "region_id":85688661,
+            "venue_id":789739297
+        }
+    ],
+    "wof:id":789739297,
+    "wof:lastmodified":1462590168,
+    "wof:name":"Attorney General",
+    "wof:parent_id":85837745,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "counsel"
+    ]
+},
+  "bbox": [
+    -92.174203,
+    38.578146,
+    -92.174203,
+    38.578146
+],
+  "geometry": {"coordinates":[-92.17420300000001,38.578146],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 789960881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.384076,38.533443,-90.384076,38.533443",
+    "geom:latitude":38.533443,
+    "geom:longitude":-90.384076,
+    "iso:country":"US",
+    "sg:address":"11600 Gravois Rd",
+    "sg:city":"Sappington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 842 3177",
+    "sg:postcode":"63126",
+    "sg:province":"MO",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85858243,
+        102191575,
+        404517253,
+        85633793,
+        85972177,
+        102086173,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4v4XQHB2lS1C6mdlgCDbzK_38.533443_-90.384076@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462592006,
+    "wof:geomhash":"c268b5f9b781c824cc168fa2c0bb526c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086173,
+            "localadmin_id":404517253,
+            "locality_id":85972177,
+            "neighbourhood_id":85858243,
+            "region_id":85688661,
+            "venue_id":789960881
+        }
+    ],
+    "wof:id":789960881,
+    "wof:lastmodified":1462592006,
+    "wof:name":"Bauer Automotive",
+    "wof:parent_id":85858243,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -90.384076,
+    38.533443,
+    -90.384076,
+    38.533443
+],
+  "geometry": {"coordinates":[-90.38407599999999,38.533443],"type":"Point"}
+}

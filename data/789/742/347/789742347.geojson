@@ -1,0 +1,71 @@
+{
+  "id": 789742347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.492885,40.022315,-92.492885,40.022315",
+    "geom:latitude":40.022315,
+    "geom:longitude":-92.492885,
+    "iso:country":"US",
+    "sg:address":"119 W Sanders St",
+    "sg:city":"La Plata",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 660 332 4969",
+    "sg:postcode":"63549",
+    "sg:province":"MO",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971149,
+        102086189,
+        85821499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Nr6aNjBK4u4dnNYlmIN9j_40.022315_-92.492885@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462590194,
+    "wof:geomhash":"e407d295489225c13b14f6f7e3195e84",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086189,
+            "locality_id":85971149,
+            "neighbourhood_id":85821499,
+            "region_id":85688661,
+            "venue_id":789742347
+        }
+    ],
+    "wof:id":789742347,
+    "wof:lastmodified":1462590194,
+    "wof:name":"Long Branch Dental Group",
+    "wof:parent_id":85821499,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -92.492885,
+    40.022315,
+    -92.492885,
+    40.022315
+],
+  "geometry": {"coordinates":[-92.492885,40.022315],"type":"Point"}
+}

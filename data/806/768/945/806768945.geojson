@@ -1,0 +1,75 @@
+{
+  "id": 806768945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.68365,39.191435,-94.68365,39.191435",
+    "geom:latitude":39.191435,
+    "geom:longitude":-94.68365,
+    "iso:country":"US",
+    "sg:address":"407 Main St",
+    "sg:city":"Parkville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 505 9445",
+    "sg:postcode":"64152",
+    "sg:province":"MO",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85840629,
+        102191575,
+        404517567,
+        85633793,
+        85970495,
+        102085271,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5nIbdxlMdijYCX5IRoETYF_39.191435_-94.683650@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462600919,
+    "wof:geomhash":"847f42d04758cef1a7a0106c50c7fd0f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085271,
+            "localadmin_id":404517567,
+            "locality_id":85970495,
+            "neighbourhood_id":85840629,
+            "region_id":85688661,
+            "venue_id":806768945
+        }
+    ],
+    "wof:id":806768945,
+    "wof:lastmodified":1462600919,
+    "wof:name":"Parkville Dental",
+    "wof:parent_id":85840629,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -94.68365,
+    39.191435,
+    -94.68365,
+    39.191435
+],
+  "geometry": {"coordinates":[-94.68365,39.191435],"type":"Point"}
+}

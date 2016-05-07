@@ -1,0 +1,78 @@
+{
+  "id": 807090007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.369184,38.959188,-92.369184,38.959188",
+    "geom:latitude":38.959188,
+    "geom:longitude":-92.369184,
+    "iso:country":"US",
+    "sg:address":"310 Tiger Ln",
+    "sg:city":"Columbia",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/missouri/148595-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 447 2170",
+    "sg:postcode":"65203",
+    "sg:province":"MO",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85835171,
+        102191575,
+        404516389,
+        85633793,
+        85970425,
+        102086187,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_43GUeBVVbhD7mtktVtHFOw_38.959188_-92.369184@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462603616,
+    "wof:geomhash":"b93cae811ce92ccc652f41e9f7d78759",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086187,
+            "localadmin_id":404516389,
+            "locality_id":85970425,
+            "neighbourhood_id":85835171,
+            "region_id":85688661,
+            "venue_id":807090007
+        }
+    ],
+    "wof:id":807090007,
+    "wof:lastmodified":1462603616,
+    "wof:name":"Subway",
+    "wof:parent_id":85835171,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -92.369184,
+    38.959188,
+    -92.369184,
+    38.959188
+],
+  "geometry": {"coordinates":[-92.369184,38.959188],"type":"Point"}
+}

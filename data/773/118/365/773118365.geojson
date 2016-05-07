@@ -1,0 +1,75 @@
+{
+  "id": 773118365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.531675,39.101897,-94.531675,39.101897",
+    "geom:latitude":39.101897,
+    "geom:longitude":-94.531675,
+    "iso:country":"US",
+    "sg:address":"4201 E 9 St",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 231 8100",
+    "sg:postcode":"64124",
+    "sg:province":"MO",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85871999,
+        102191575,
+        404518075,
+        85633793,
+        85970739,
+        102081227,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1QOVXveTg8PgdlUARiBC00_39.101897_-94.531675@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462583285,
+    "wof:geomhash":"a96e807b1543538859227d236fac856b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081227,
+            "localadmin_id":404518075,
+            "locality_id":85970739,
+            "neighbourhood_id":85871999,
+            "region_id":85688661,
+            "venue_id":773118365
+        }
+    ],
+    "wof:id":773118365,
+    "wof:lastmodified":1462583285,
+    "wof:name":"Joe's Market",
+    "wof:parent_id":85871999,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -94.531675,
+    39.101897,
+    -94.531675,
+    39.101897
+],
+  "geometry": {"coordinates":[-94.53167500000001,39.101897],"type":"Point"}
+}

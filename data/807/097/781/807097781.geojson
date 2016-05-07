@@ -1,0 +1,72 @@
+{
+  "id": 807097781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.383302,38.489506,-90.383302,38.489506",
+    "geom:latitude":38.489506,
+    "geom:longitude":-90.383302,
+    "iso:country":"US",
+    "sg:address":"13119 Tesson Ferry Rd",
+    "sg:city":"Saint Louis",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/tesson-ferry/195674-taco-bell/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 842 0171",
+    "sg:postcode":"63128",
+    "sg:province":"MO",
+    "sg:tags":[
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971021,
+        102080787,
+        85832925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3n7kNrYKYphXytz9bKLe4L_38.489093_-90.383127@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462603695,
+    "wof:geomhash":"b95f7064c5877ca1bd5ffd6b88a4a635",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080787,
+            "locality_id":85971021,
+            "neighbourhood_id":85832925,
+            "region_id":85688661,
+            "venue_id":807097781
+        }
+    ],
+    "wof:id":807097781,
+    "wof:lastmodified":1462603695,
+    "wof:name":"Taco Bell",
+    "wof:parent_id":85832925,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican"
+    ]
+},
+  "bbox": [
+    -90.383302,
+    38.489506,
+    -90.383302,
+    38.489506
+],
+  "geometry": {"coordinates":[-90.383302,38.489506],"type":"Point"}
+}

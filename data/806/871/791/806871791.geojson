@@ -1,0 +1,71 @@
+{
+  "id": 806871791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.514969,39.795395,-91.514969,39.795395",
+    "geom:latitude":39.795395,
+    "geom:longitude":-91.514969,
+    "iso:country":"US",
+    "sg:address":"2 Industrial Dr",
+    "sg:city":"Hannibal",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Natural Gas",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 221 1964",
+    "sg:postcode":"63461",
+    "sg:province":"MO",
+    "sg:tags":[
+        "distribution"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688697,
+        85633793,
+        85938427,
+        102086213,
+        85867477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Kue9qunyEmsizCffrXAXY_39.795395_-91.514969@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462601785,
+    "wof:geomhash":"87553950d23ea7583f65953e9395af02",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086213,
+            "locality_id":85938427,
+            "neighbourhood_id":85867477,
+            "region_id":85688697,
+            "venue_id":806871791
+        }
+    ],
+    "wof:id":806871791,
+    "wof:lastmodified":1462601785,
+    "wof:name":"Atmos Energy Corporation",
+    "wof:parent_id":85867477,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "distribution"
+    ]
+},
+  "bbox": [
+    -91.514969,
+    39.795395,
+    -91.514969,
+    39.795395
+],
+  "geometry": {"coordinates":[-91.51496899999999,39.795395],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 806866249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.57452,38.79887,-90.57452,38.79887",
+    "geom:latitude":38.79887,
+    "geom:longitude":-90.57452,
+    "iso:country":"US",
+    "sg:address":"4160 Industrial Dr",
+    "sg:city":"St Peters",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 477 3200",
+    "sg:postcode":"63376",
+    "sg:province":"MO",
+    "sg:tags":[
+        "laboratory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7hDozRxaMGdOFW0wR3Izwj_38.798870_-90.574520@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462601743,
+    "wof:geomhash":"30b017220b74c504371f5ac1768d54f7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":806866249
+        }
+    ],
+    "wof:id":806866249,
+    "wof:lastmodified":1462601743,
+    "wof:name":"Omni Sports Plex LLC",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory"
+    ]
+},
+  "bbox": [
+    -90.57452,
+    38.79887,
+    -90.57452,
+    38.79887
+],
+  "geometry": {"coordinates":[-90.57452000000001,38.79887],"type":"Point"}
+}

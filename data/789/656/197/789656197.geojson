@@ -1,0 +1,73 @@
+{
+  "id": 789656197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.503095,38.804176,-90.503095,38.804176",
+    "geom:latitude":38.804176,
+    "geom:longitude":-90.503095,
+    "iso:country":"US",
+    "sg:address":"2925 Elmcrest Dr",
+    "sg:city":"St Charles",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 946 5178",
+    "sg:postcode":"63301",
+    "sg:province":"MO",
+    "sg:tags":[
+        "instruction",
+        "driving"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7KEtVKAdpVIRY8U6t16wkV_38.804176_-90.503095@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462589502,
+    "wof:geomhash":"11dda8018402403c6cf9aab56f2a94e2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":789656197
+        }
+    ],
+    "wof:id":789656197,
+    "wof:lastmodified":1462589502,
+    "wof:name":"St Charles Driving School",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instruction",
+        "driving"
+    ]
+},
+  "bbox": [
+    -90.503095,
+    38.804176,
+    -90.503095,
+    38.804176
+],
+  "geometry": {"coordinates":[-90.503095,38.804176],"type":"Point"}
+}

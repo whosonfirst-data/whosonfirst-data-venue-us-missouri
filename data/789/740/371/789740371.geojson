@@ -1,0 +1,71 @@
+{
+  "id": 789740371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.446303,38.78079,-90.446303,38.78079",
+    "geom:latitude":38.78079,
+    "geom:longitude":-90.446303,
+    "iso:country":"US",
+    "sg:address":"324 Rock Industrial Park Dr",
+    "sg:city":"Bridgeton",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 770 9398",
+    "sg:postcode":"63044",
+    "sg:province":"MO",
+    "sg:tags":[
+        "delivery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972341,
+        102086173,
+        85806637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_123sBYRFrQ3RB9MeUXomIK_38.780790_-90.446303@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462590180,
+    "wof:geomhash":"850bbd8c94cebb0f7e3d12d03f1ef8f5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086173,
+            "locality_id":85972341,
+            "neighbourhood_id":85806637,
+            "region_id":85688661,
+            "venue_id":789740371
+        }
+    ],
+    "wof:id":789740371,
+    "wof:lastmodified":1462590180,
+    "wof:name":"CSI Delivery Svc",
+    "wof:parent_id":85806637,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "delivery"
+    ]
+},
+  "bbox": [
+    -90.446303,
+    38.78079,
+    -90.446303,
+    38.78079
+],
+  "geometry": {"coordinates":[-90.446303,38.78079],"type":"Point"}
+}

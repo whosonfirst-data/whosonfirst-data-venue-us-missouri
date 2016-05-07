@@ -1,0 +1,71 @@
+{
+  "id": 790160807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.180436,38.56795,-92.180436,38.56795",
+    "geom:latitude":38.56795,
+    "geom:longitude":-92.180436,
+    "iso:country":"US",
+    "sg:address":"204 E Franklin St",
+    "sg:city":"Jefferson City",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 635 4399",
+    "sg:postcode":"65101",
+    "sg:province":"MO",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970647,
+        102087511,
+        85837745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4IVnd5FGLlTjoydkRPQaXH_38.567950_-92.180436@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462593600,
+    "wof:geomhash":"21503f865321340524d84fb66d4e7b3b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087511,
+            "locality_id":85970647,
+            "neighbourhood_id":85837745,
+            "region_id":85688661,
+            "venue_id":790160807
+        }
+    ],
+    "wof:id":790160807,
+    "wof:lastmodified":1462593600,
+    "wof:name":"Quality Exteriors",
+    "wof:parent_id":85837745,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -92.180436,
+    38.56795,
+    -92.180436,
+    38.56795
+],
+  "geometry": {"coordinates":[-92.180436,38.56795],"type":"Point"}
+}

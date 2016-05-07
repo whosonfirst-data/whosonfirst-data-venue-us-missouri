@@ -1,0 +1,71 @@
+{
+  "id": 790613417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.245335,39.33839,-94.245335,39.33839",
+    "geom:latitude":39.33839,
+    "geom:longitude":-94.245335,
+    "iso:country":"US",
+    "sg:address":"1645 Kearney Rd",
+    "sg:city":"Excelsior Spgs",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 630 1900",
+    "sg:postcode":"64024",
+    "sg:province":"MO",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971507,
+        102086177,
+        85812855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5oCJaWAroFcQhPOZFDumP4_39.338390_-94.245335@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462597337,
+    "wof:geomhash":"105246e6f1808dd676647e1c8541db58",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086177,
+            "locality_id":85971507,
+            "neighbourhood_id":85812855,
+            "region_id":85688661,
+            "venue_id":790613417
+        }
+    ],
+    "wof:id":790613417,
+    "wof:lastmodified":1462597337,
+    "wof:name":"Price Chopper",
+    "wof:parent_id":85812855,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -94.245335,
+    39.33839,
+    -94.245335,
+    39.33839
+],
+  "geometry": {"coordinates":[-94.245335,39.33839],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 773502115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.555358,38.13316,-90.555358,38.13316",
+    "geom:latitude":38.13316,
+    "geom:longitude":-90.555358,
+    "iso:country":"US",
+    "sg:address":"711 E Main St",
+    "sg:city":"De Soto",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 586 0653",
+    "sg:postcode":"63020",
+    "sg:province":"MO",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85848677,
+        102080787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6uPrI6XiCxkmE5mI1HEYfD_38.133160_-90.555358@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462586219,
+    "wof:geomhash":"415aa138546daa6e3c5797a23d700c0e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080787,
+            "neighbourhood_id":85848677,
+            "region_id":85688661,
+            "venue_id":773502115
+        }
+    ],
+    "wof:id":773502115,
+    "wof:lastmodified":1462586219,
+    "wof:name":"Terry's Auto Repair",
+    "wof:parent_id":85848677,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ]
+},
+  "bbox": [
+    -90.555358,
+    38.13316,
+    -90.555358,
+    38.13316
+],
+  "geometry": {"coordinates":[-90.555358,38.13316],"type":"Point"}
+}

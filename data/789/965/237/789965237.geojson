@@ -1,0 +1,77 @@
+{
+  "id": 789965237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.276706,38.675844,-90.276706,38.675844",
+    "geom:latitude":38.675844,
+    "geom:longitude":-90.276706,
+    "iso:country":"US",
+    "sg:address":"2508 Goodfellow Blvd",
+    "sg:city":"Saint Louis",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 383 7540",
+    "sg:postcode":"63112",
+    "sg:province":"MO",
+    "sg:tags":[
+        "drycleaning",
+        "plant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873615,
+        102191575,
+        404518053,
+        85633793,
+        85971343,
+        102080791,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_08jzwNgxL5lI9mxjiVLqJT_38.675844_-90.276706@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462592039,
+    "wof:geomhash":"89f0869e21677b27dbb1df8a980cb99f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080791,
+            "localadmin_id":404518053,
+            "locality_id":85971343,
+            "neighbourhood_id":85873615,
+            "region_id":85688661,
+            "venue_id":789965237
+        }
+    ],
+    "wof:id":789965237,
+    "wof:lastmodified":1462592039,
+    "wof:name":"Goodfellows Dry Clg & Fashions",
+    "wof:parent_id":85873615,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drycleaning",
+        "plant"
+    ]
+},
+  "bbox": [
+    -90.276706,
+    38.675844,
+    -90.276706,
+    38.675844
+],
+  "geometry": {"coordinates":[-90.276706,38.675844],"type":"Point"}
+}

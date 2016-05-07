@@ -1,0 +1,73 @@
+{
+  "id": 806385901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.31093,37.24567,-93.31093,37.24567",
+    "geom:latitude":37.24567,
+    "geom:longitude":-93.31093,
+    "iso:country":"US",
+    "sg:address":"2711 N Kansas Expy",
+    "sg:city":"Springfield",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Theater",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 864 4190",
+    "sg:postcode":"65803",
+    "sg:province":"MO",
+    "sg:tags":[
+        "motion",
+        "picture"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971363,
+        102087523,
+        85881139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3KXO74FBwj388CTLeTcemz_37.245670_-93.310930@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462597724,
+    "wof:geomhash":"cc2d8fb00e1937624a9a2e16527cc45c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087523,
+            "locality_id":85971363,
+            "neighbourhood_id":85881139,
+            "region_id":85688661,
+            "venue_id":806385901
+        }
+    ],
+    "wof:id":806385901,
+    "wof:lastmodified":1462597724,
+    "wof:name":"Town & Country 6 Theater",
+    "wof:parent_id":85881139,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "motion",
+        "picture"
+    ]
+},
+  "bbox": [
+    -93.31093,
+    37.24567,
+    -93.31093,
+    37.24567
+],
+  "geometry": {"coordinates":[-93.31093,37.24567],"type":"Point"}
+}

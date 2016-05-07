@@ -1,0 +1,71 @@
+{
+  "id": 807058667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.383065,38.410292,-90.383065,38.410292",
+    "geom:latitude":38.410292,
+    "geom:longitude":-90.383065,
+    "iso:country":"US",
+    "sg:address":"1906 Richardson Rd",
+    "sg:city":"Arnold",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/arnold/240973-white-castle/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"63010",
+    "sg:province":"MO",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85805175,
+        102080787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0k2eKTPMgmeGBwvk6LBE9w_38.410292_-90.383065@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462603360,
+    "wof:geomhash":"4432f14725412488e1b1431ea0bce783",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080787,
+            "neighbourhood_id":85805175,
+            "region_id":85688661,
+            "venue_id":807058667
+        }
+    ],
+    "wof:id":807058667,
+    "wof:lastmodified":1462603360,
+    "wof:name":"White Castle",
+    "wof:parent_id":85805175,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -90.383065,
+    38.410292,
+    -90.383065,
+    38.410292
+],
+  "geometry": {"coordinates":[-90.383065,38.410292],"type":"Point"}
+}

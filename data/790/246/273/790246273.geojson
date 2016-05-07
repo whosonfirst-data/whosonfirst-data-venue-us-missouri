@@ -1,0 +1,75 @@
+{
+  "id": 790246273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.366331,37.231409,-93.366331,37.231409",
+    "geom:latitude":37.231409,
+    "geom:longitude":-93.366331,
+    "iso:country":"US",
+    "sg:address":"2006 N Farm Rd 123",
+    "sg:city":"Springfield",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 869 7433",
+    "sg:postcode":"65802",
+    "sg:province":"MO",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971363,
+        102087523,
+        85881139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3qri7q05BsChZUlpPHmmij_37.231409_-93.366331@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462594297,
+    "wof:geomhash":"50b8602489b6dae75b81e62e36c28fd9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087523,
+            "locality_id":85971363,
+            "neighbourhood_id":85881139,
+            "region_id":85688661,
+            "venue_id":790246273
+        }
+    ],
+    "wof:id":790246273,
+    "wof:lastmodified":1462594297,
+    "wof:name":"Fine Ride",
+    "wof:parent_id":85881139,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -93.366331,
+    37.231409,
+    -93.366331,
+    37.231409
+],
+  "geometry": {"coordinates":[-93.366331,37.231409],"type":"Point"}
+}

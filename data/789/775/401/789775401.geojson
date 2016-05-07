@@ -1,0 +1,71 @@
+{
+  "id": 789775401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.6262,38.786205,-90.6262,38.786205",
+    "geom:latitude":38.786205,
+    "geom:longitude":-90.6262,
+    "iso:country":"US",
+    "sg:address":"591 Mid Rivers Mall Dr",
+    "sg:city":"Saint Peters",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Travel Agent",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 279 2299",
+    "sg:postcode":"63376",
+    "sg:province":"MO",
+    "sg:tags":[
+        "agency"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0uEo03xttevsw8YxgntCt0_38.786205_-90.626200@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462590443,
+    "wof:geomhash":"2d1e49e6091f1dc18ae600d2a571fecb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":789775401
+        }
+    ],
+    "wof:id":789775401,
+    "wof:lastmodified":1462590443,
+    "wof:name":"A A A Travel Agency",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agency"
+    ]
+},
+  "bbox": [
+    -90.6262,
+    38.786205,
+    -90.6262,
+    38.786205
+],
+  "geometry": {"coordinates":[-90.6262,38.786205],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 806938683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.304249,38.556408,-92.304249,38.556408",
+    "geom:latitude":38.556408,
+    "geom:longitude":-92.304249,
+    "iso:country":"US",
+    "sg:address":"1801 Scruggs Ln",
+    "sg:city":"Lohman",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 893 3939",
+    "sg:postcode":"65053",
+    "sg:province":"MO",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970647,
+        102087519,
+        85847491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1b34djeZeNSp68e1S54lFW_38.556408_-92.304249@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462602350,
+    "wof:geomhash":"083078d91617985e660f67657131ee6c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087519,
+            "locality_id":85970647,
+            "neighbourhood_id":85847491,
+            "region_id":85688661,
+            "venue_id":806938683
+        }
+    ],
+    "wof:id":806938683,
+    "wof:lastmodified":1462602350,
+    "wof:name":"Jerry K OBanion Dr",
+    "wof:parent_id":85847491,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -92.304249,
+    38.556408,
+    -92.304249,
+    38.556408
+],
+  "geometry": {"coordinates":[-92.304249,38.556408],"type":"Point"}
+}

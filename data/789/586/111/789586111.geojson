@@ -1,0 +1,71 @@
+{
+  "id": 789586111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.844767,39.429885,-94.844767,39.429885",
+    "geom:latitude":39.429885,
+    "geom:longitude":-94.844767,
+    "iso:country":"US",
+    "sg:address":"18775 Lober Rd",
+    "sg:city":"Weston",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Telephone",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 640 5704",
+    "sg:postcode":"64098",
+    "sg:province":"MO",
+    "sg:tags":[
+        "communications"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970739,
+        102085271,
+        85851839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1OoXg2oBXopvNLKZUMlSZC_39.429885_-94.844767@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462588957,
+    "wof:geomhash":"e405345440b41757d0c2759ed3d2b7b6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085271,
+            "locality_id":85970739,
+            "neighbourhood_id":85851839,
+            "region_id":85688661,
+            "venue_id":789586111
+        }
+    ],
+    "wof:id":789586111,
+    "wof:lastmodified":1462588957,
+    "wof:name":"Sprint",
+    "wof:parent_id":85851839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "communications"
+    ]
+},
+  "bbox": [
+    -94.844767,
+    39.429885,
+    -94.844767,
+    39.429885
+],
+  "geometry": {"coordinates":[-94.844767,39.429885],"type":"Point"}
+}

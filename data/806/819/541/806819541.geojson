@@ -1,0 +1,71 @@
+{
+  "id": 806819541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.194147,39.343949,-91.194147,39.343949",
+    "geom:latitude":39.343949,
+    "geom:longitude":-91.194147,
+    "iso:country":"US",
+    "sg:address":"255 N Main Cross St",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 324 2440",
+    "sg:postcode":"63334",
+    "sg:province":"MO",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971907,
+        102086151,
+        85817909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0iGYi1ZbBzEJ0tGUsERh9v_39.343949_-91.194147@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462601336,
+    "wof:geomhash":"a485e92e02cfa87c69480e4fd3dd736b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086151,
+            "locality_id":85971907,
+            "neighbourhood_id":85817909,
+            "region_id":85688661,
+            "venue_id":806819541
+        }
+    ],
+    "wof:id":806819541,
+    "wof:lastmodified":1462601336,
+    "wof:name":"Glens Auto Repair",
+    "wof:parent_id":85817909,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -91.194147,
+    39.343949,
+    -91.194147,
+    39.343949
+],
+  "geometry": {"coordinates":[-91.194147,39.343949],"type":"Point"}
+}

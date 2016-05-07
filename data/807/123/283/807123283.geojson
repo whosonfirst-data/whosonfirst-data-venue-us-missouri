@@ -1,0 +1,86 @@
+{
+  "id": 807123283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.402152,38.742355,-90.402152,38.742355",
+    "geom:latitude":38.742355,
+    "geom:longitude":-90.402152,
+    "iso:country":"US",
+    "sg:address":"3990 Fee Fee Rd",
+    "sg:city":"Bridgeton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 429 4500",
+    "sg:postcode":"63044",
+    "sg:province":"MO",
+    "sg:tags":[
+        "cleaner",
+        "repairer",
+        "sewer",
+        "plumbing-drain"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85840903,
+        102191575,
+        404517389,
+        85633793,
+        85972265,
+        102086173,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_05bCi2pcORJO5dmIoOx8Zk_38.742355_-90.402152@1303262926"
+    },
+    "wof:country":"US",
+    "wof:created":1462603979,
+    "wof:geomhash":"34a69ef8ba65fbeb2fc0dce4c000ec75",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086173,
+            "localadmin_id":404517389,
+            "locality_id":85972265,
+            "neighbourhood_id":85840903,
+            "region_id":85688661,
+            "venue_id":807123283
+        }
+    ],
+    "wof:id":807123283,
+    "wof:lastmodified":1462603979,
+    "wof:name":"City County Sewer Svc",
+    "wof:parent_id":85840903,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaner",
+        "repairer",
+        "sewer",
+        "plumbing-drain"
+    ]
+},
+  "bbox": [
+    -90.402152,
+    38.742355,
+    -90.402152,
+    38.742355
+],
+  "geometry": {"coordinates":[-90.402152,38.742355],"type":"Point"}
+}

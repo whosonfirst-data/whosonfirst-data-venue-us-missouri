@@ -1,0 +1,71 @@
+{
+  "id": 789872595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.179621,38.574799,-92.179621,38.574799",
+    "geom:latitude":38.574799,
+    "geom:longitude":-92.179621,
+    "iso:country":"US",
+    "sg:address":"206 W Dunklin St",
+    "sg:city":"Jefferson City",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 635 4645",
+    "sg:postcode":"65101",
+    "sg:province":"MO",
+    "sg:tags":[
+        "broker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970647,
+        102087511,
+        85837745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4cv1iqBIvzaSkYSibFz7vM_38.574799_-92.179621@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462591207,
+    "wof:geomhash":"af25ca5d5d7b5b5e291e01fceaa55bdf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087511,
+            "locality_id":85970647,
+            "neighbourhood_id":85837745,
+            "region_id":85688661,
+            "venue_id":789872595
+        }
+    ],
+    "wof:id":789872595,
+    "wof:lastmodified":1462591207,
+    "wof:name":"Shelter Insurance",
+    "wof:parent_id":85837745,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "broker"
+    ]
+},
+  "bbox": [
+    -92.179621,
+    38.574799,
+    -92.179621,
+    38.574799
+],
+  "geometry": {"coordinates":[-92.179621,38.574799],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 789836693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.627471,39.189875,-94.627471,39.189875",
+    "geom:latitude":39.189875,
+    "geom:longitude":-94.627471,
+    "iso:country":"US",
+    "sg:address":"5420 NW Hillside Dr",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 741 0245",
+    "sg:postcode":"64151",
+    "sg:province":"MO",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420525395,
+        102191575,
+        404517563,
+        85633793,
+        85970477,
+        102085271,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2T28J9E5dZqm5sf3bigTYJ_39.189875_-94.627471@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462590919,
+    "wof:geomhash":"71e5b40d5296c8406d047c74b5d47ccd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085271,
+            "localadmin_id":404517563,
+            "locality_id":85970477,
+            "neighbourhood_id":420525395,
+            "region_id":85688661,
+            "venue_id":789836693
+        }
+    ],
+    "wof:id":789836693,
+    "wof:lastmodified":1462590919,
+    "wof:name":"Eiken Trucking",
+    "wof:parent_id":420525395,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -94.627471,
+    39.189875,
+    -94.627471,
+    39.189875
+],
+  "geometry": {"coordinates":[-94.627471,39.189875],"type":"Point"}
+}

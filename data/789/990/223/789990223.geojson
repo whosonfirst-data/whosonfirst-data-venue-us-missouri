@@ -1,0 +1,75 @@
+{
+  "id": 789990223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.446967,38.535194,-90.446967,38.535194",
+    "geom:latitude":38.535194,
+    "geom:longitude":-90.446967,
+    "iso:country":"US",
+    "sg:address":"1546 Fencorp Ct",
+    "sg:city":"Fenton",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 326 4100",
+    "sg:postcode":"63026",
+    "sg:province":"MO",
+    "sg:tags":[
+        "baker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85858661,
+        102191575,
+        404517203,
+        85633793,
+        85972289,
+        102086173,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6V04c2jH26DHHBVLZ9eXDg_38.535194_-90.446967@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462592248,
+    "wof:geomhash":"99b7e0059399b874701b02cb7d20ce0b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086173,
+            "localadmin_id":404517203,
+            "locality_id":85972289,
+            "neighbourhood_id":85858661,
+            "region_id":85688661,
+            "venue_id":789990223
+        }
+    ],
+    "wof:id":789990223,
+    "wof:lastmodified":1462592248,
+    "wof:name":"Pepperidge Farm Inc",
+    "wof:parent_id":85858661,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "baker"
+    ]
+},
+  "bbox": [
+    -90.446967,
+    38.535194,
+    -90.446967,
+    38.535194
+],
+  "geometry": {"coordinates":[-90.446967,38.535194],"type":"Point"}
+}

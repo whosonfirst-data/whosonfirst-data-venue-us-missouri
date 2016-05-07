@@ -1,0 +1,71 @@
+{
+  "id": 789604951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.167749,38.568813,-92.167749,38.568813",
+    "geom:latitude":38.568813,
+    "geom:longitude":-92.167749,
+    "iso:country":"US",
+    "sg:address":"631 Lafayette St",
+    "sg:city":"Jefferson City",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 635 8349",
+    "sg:postcode":"65101",
+    "sg:province":"MO",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970647,
+        102087511,
+        85837745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ir357P10bq1objxembcJh_38.568813_-92.167749@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462589103,
+    "wof:geomhash":"f6f14333a9393367e04efb0fbcd393d6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087511,
+            "locality_id":85970647,
+            "neighbourhood_id":85837745,
+            "region_id":85688661,
+            "venue_id":789604951
+        }
+    ],
+    "wof:id":789604951,
+    "wof:lastmodified":1462589103,
+    "wof:name":"Second Christian Church",
+    "wof:parent_id":85837745,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -92.167749,
+    38.568813,
+    -92.167749,
+    38.568813
+],
+  "geometry": {"coordinates":[-92.167749,38.568813],"type":"Point"}
+}

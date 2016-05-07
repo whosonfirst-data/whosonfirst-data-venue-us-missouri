@@ -1,0 +1,71 @@
+{
+  "id": 789611713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.617512,38.10799,-90.617512,38.10799",
+    "geom:latitude":38.10799,
+    "geom:longitude":-90.617512,
+    "iso:country":"US",
+    "sg:address":"13909 State Rte 21",
+    "sg:city":"De Soto",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 586 3572",
+    "sg:postcode":"63020",
+    "sg:province":"MO",
+    "sg:tags":[
+        "hospital",
+        "animal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85848677,
+        102080787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_50lARogwVXxRhOChSY85yb_38.107990_-90.617512@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462589150,
+    "wof:geomhash":"eb15a0a0bec7d62f963aabbc421c2187",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080787,
+            "neighbourhood_id":85848677,
+            "region_id":85688661,
+            "venue_id":789611713
+        }
+    ],
+    "wof:id":789611713,
+    "wof:lastmodified":1462589150,
+    "wof:name":"De Soto Veterinary Hospital",
+    "wof:parent_id":85848677,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hospital",
+        "animal"
+    ]
+},
+  "bbox": [
+    -90.617512,
+    38.10799,
+    -90.617512,
+    38.10799
+],
+  "geometry": {"coordinates":[-90.617512,38.10799],"type":"Point"}
+}

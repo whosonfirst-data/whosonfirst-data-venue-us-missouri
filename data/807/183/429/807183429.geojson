@@ -1,0 +1,86 @@
+{
+  "id": 807183429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.850336,38.820046,-90.850336,38.820046",
+    "geom:latitude":38.820046,
+    "geom:longitude":-90.850336,
+    "iso:country":"US",
+    "sg:address":"909 Main Plaza Dr",
+    "sg:city":"Wentzville",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"Lounge",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 332 3626",
+    "sg:postcode":"63385",
+    "sg:province":"MO",
+    "sg:tags":[
+        "grill",
+        "brew",
+        "cocktail"
+    ],
+    "sg:website":"http://www.theicehouse.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0vQTXuIkfGvta9omU4WuMa_38.820046_-90.850336@1303262930"
+    },
+    "wof:country":"US",
+    "wof:created":1462604619,
+    "wof:geomhash":"0e85e42a78fcdf19aafa8c9f132e5a9b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":807183429
+        }
+    ],
+    "wof:id":807183429,
+    "wof:lastmodified":1462604619,
+    "wof:name":"The Ice House Bar & Grill",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grill",
+        "brew",
+        "cocktail"
+    ]
+},
+  "bbox": [
+    -90.850336,
+    38.820046,
+    -90.850336,
+    38.820046
+],
+  "geometry": {"coordinates":[-90.850336,38.820046],"type":"Point"}
+}

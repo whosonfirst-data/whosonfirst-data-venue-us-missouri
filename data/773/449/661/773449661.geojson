@@ -1,0 +1,71 @@
+{
+  "id": 773449661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.563519,37.176784,-94.563519,37.176784",
+    "geom:latitude":37.176784,
+    "geom:longitude":-94.563519,
+    "iso:country":"US",
+    "sg:address":"200 E Pennell St",
+    "sg:city":"Carl Junction",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 649 7524",
+    "sg:postcode":"64834",
+    "sg:province":"MO",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970893,
+        102087525,
+        85810925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0XduoUHU6J9crW2gOEJOVq_37.176784_-94.563519@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462585834,
+    "wof:geomhash":"76218da07319ac6c759ddfdcf5c3bf00",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087525,
+            "locality_id":85970893,
+            "neighbourhood_id":85810925,
+            "region_id":85688661,
+            "venue_id":773449661
+        }
+    ],
+    "wof:id":773449661,
+    "wof:lastmodified":1462585834,
+    "wof:name":"Fire Departments",
+    "wof:parent_id":85810925,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -94.563519,
+    37.176784,
+    -94.563519,
+    37.176784
+],
+  "geometry": {"coordinates":[-94.563519,37.176784],"type":"Point"}
+}

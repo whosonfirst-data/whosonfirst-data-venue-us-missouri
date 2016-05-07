@@ -1,0 +1,82 @@
+{
+  "id": 806920537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.147756,38.551192,-92.147756,38.551192",
+    "geom:latitude":38.551192,
+    "geom:longitude":-92.147756,
+    "iso:country":"US",
+    "sg:address":"821 Eastland Dr",
+    "sg:city":"Jefferson City",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Music",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 635 3373",
+    "sg:postcode":"65101",
+    "sg:province":"MO",
+    "sg:tags":[
+        "video",
+        "disc",
+        "tape",
+        "cassette"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970647,
+        102087511,
+        85837745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5pQD98cGNHTgmf6T64C39h_38.551192_-92.147756@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462602178,
+    "wof:geomhash":"fb9ed93d28f57e4e04ca546e9ac49283",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087511,
+            "locality_id":85970647,
+            "neighbourhood_id":85837745,
+            "region_id":85688661,
+            "venue_id":806920537
+        }
+    ],
+    "wof:id":806920537,
+    "wof:lastmodified":1462602178,
+    "wof:name":"Plaza Video & Training",
+    "wof:parent_id":85837745,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "video",
+        "disc",
+        "tape",
+        "cassette"
+    ]
+},
+  "bbox": [
+    -92.147756,
+    38.551192,
+    -92.147756,
+    38.551192
+],
+  "geometry": {"coordinates":[-92.147756,38.551192],"type":"Point"}
+}

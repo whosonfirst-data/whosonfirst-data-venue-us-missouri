@@ -1,0 +1,86 @@
+{
+  "id": 789646165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.254457,38.553894,-90.254457,38.553894",
+    "geom:latitude":38.553894,
+    "geom:longitude":-90.254457,
+    "iso:country":"US",
+    "sg:address":"318 Loughborough Ave",
+    "sg:city":"St Louis",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 481 6626",
+    "sg:postcode":"63111",
+    "sg:province":"MO",
+    "sg:tags":[
+        "glass",
+        "window",
+        "plate",
+        "replacement"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85809597,
+        102191575,
+        404518053,
+        85633793,
+        85971343,
+        102080791,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3GtcBlnxadp7Um8ErMBGFJ_38.553894_-90.254457@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462589417,
+    "wof:geomhash":"235e2b0ed4fa81ece90d833acf0194ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080791,
+            "localadmin_id":404518053,
+            "locality_id":85971343,
+            "neighbourhood_id":85809597,
+            "region_id":85688661,
+            "venue_id":789646165
+        }
+    ],
+    "wof:id":789646165,
+    "wof:lastmodified":1462589417,
+    "wof:name":"Loughborough Auto Glass Co",
+    "wof:parent_id":85809597,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "glass",
+        "window",
+        "plate",
+        "replacement"
+    ]
+},
+  "bbox": [
+    -90.254457,
+    38.553894,
+    -90.254457,
+    38.553894
+],
+  "geometry": {"coordinates":[-90.254457,38.553894],"type":"Point"}
+}

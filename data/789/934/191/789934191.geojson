@@ -1,0 +1,71 @@
+{
+  "id": 789934191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.881037,37.940179,-91.881037,37.940179",
+    "geom:latitude":37.940179,
+    "geom:longitude":-91.881037,
+    "iso:country":"US",
+    "sg:address":"349 Eisenhower St",
+    "sg:city":"Rolla",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 762 3513",
+    "sg:postcode":"65401",
+    "sg:province":"MO",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970821,
+        102086893,
+        85814531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_13pW5wzmyrkOKP9xLkaN2H_37.940179_-91.881037@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462591742,
+    "wof:geomhash":"a812b016227e8044dec6e5e4054446b0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086893,
+            "locality_id":85970821,
+            "neighbourhood_id":85814531,
+            "region_id":85688661,
+            "venue_id":789934191
+        }
+    ],
+    "wof:id":789934191,
+    "wof:lastmodified":1462591742,
+    "wof:name":"A Shear Event",
+    "wof:parent_id":85814531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -91.881037,
+    37.940179,
+    -91.881037,
+    37.940179
+],
+  "geometry": {"coordinates":[-91.88103700000001,37.940179],"type":"Point"}
+}

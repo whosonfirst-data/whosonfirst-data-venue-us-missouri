@@ -1,0 +1,73 @@
+{
+  "id": 806371051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.724266,38.004259,-91.724266,38.004259",
+    "geom:latitude":38.004259,
+    "geom:longitude":-91.724266,
+    "iso:country":"US",
+    "sg:address":"11046 Pinedale Dr",
+    "sg:city":"Rolla",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 364 6817",
+    "sg:postcode":"65401",
+    "sg:province":"MO",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970821,
+        102086893,
+        85814531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1jjO7La0gXnudMXYsL6Ff4_38.004259_-91.724266@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462597606,
+    "wof:geomhash":"bed172b4c97fcf2398a6cd23f734ed18",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086893,
+            "locality_id":85970821,
+            "neighbourhood_id":85814531,
+            "region_id":85688661,
+            "venue_id":806371051
+        }
+    ],
+    "wof:id":806371051,
+    "wof:lastmodified":1462597606,
+    "wof:name":"Scott's Plumbing & Sewers",
+    "wof:parent_id":85814531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -91.724266,
+    38.004259,
+    -91.724266,
+    38.004259
+],
+  "geometry": {"coordinates":[-91.724266,38.004259],"type":"Point"}
+}

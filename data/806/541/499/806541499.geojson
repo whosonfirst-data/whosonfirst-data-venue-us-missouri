@@ -1,0 +1,73 @@
+{
+  "id": 806541499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.577289,38.793569,-90.577289,38.793569",
+    "geom:latitude":38.793569,
+    "geom:longitude":-90.577289,
+    "iso:country":"US",
+    "sg:address":"10 Hospital Dr",
+    "sg:city":"St Peters",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 928 4556",
+    "sg:postcode":"63376",
+    "sg:province":"MO",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5pOXoaqoDALQSyiVkibWI3_38.793569_-90.577289@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462598970,
+    "wof:geomhash":"210d55c2654fc1b3448f2a42e95a83e6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":806541499
+        }
+    ],
+    "wof:id":806541499,
+    "wof:lastmodified":1462598970,
+    "wof:name":"Cardiology Diagnostics LTD",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -90.577289,
+    38.793569,
+    -90.577289,
+    38.793569
+],
+  "geometry": {"coordinates":[-90.57728899999999,38.793569],"type":"Point"}
+}

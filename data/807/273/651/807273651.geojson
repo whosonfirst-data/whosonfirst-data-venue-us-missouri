@@ -1,0 +1,86 @@
+{
+  "id": 807273651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.783813,37.95142,-91.783813,37.95142",
+    "geom:latitude":37.95142,
+    "geom:longitude":-91.783813,
+    "iso:country":"US",
+    "sg:address":"1000 W 10th St",
+    "sg:city":"Rolla",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 364 2200",
+    "sg:postcode":"65401",
+    "sg:province":"MO",
+    "sg:tags":[
+        "physician",
+        "family",
+        "medical",
+        "practice",
+        "surgeons",
+        "medicine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970821,
+        102086893,
+        85814531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0zjqPmMKmi099CDL0rAhfN_37.951420_-91.783813@1303262936"
+    },
+    "wof:country":"US",
+    "wof:created":1462605580,
+    "wof:geomhash":"cea526560db8b44d260c0445fe15f0c3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086893,
+            "locality_id":85970821,
+            "neighbourhood_id":85814531,
+            "region_id":85688661,
+            "venue_id":807273651
+        }
+    ],
+    "wof:id":807273651,
+    "wof:lastmodified":1462605580,
+    "wof:name":"Central Missouri Pain Clinic",
+    "wof:parent_id":85814531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "family",
+        "medical",
+        "practice",
+        "surgeons",
+        "medicine"
+    ]
+},
+  "bbox": [
+    -91.783813,
+    37.95142,
+    -91.783813,
+    37.95142
+],
+  "geometry": {"coordinates":[-91.78381299999999,37.95142],"type":"Point"}
+}

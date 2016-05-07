@@ -1,0 +1,96 @@
+{
+  "id": 789742789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.348706,38.461349,-90.348706,38.461349",
+    "geom:latitude":38.461349,
+    "geom:longitude":-90.348706,
+    "iso:country":"US",
+    "sg:address":"4855 Baumgartner Rd",
+    "sg:city":"St Louis",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Glass & Minerals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 892 7400",
+    "sg:postcode":"63129",
+    "sg:province":"MO",
+    "sg:tags":[
+        "product",
+        "mfg",
+        "concrete",
+        "brick",
+        "prod",
+        "block"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85885365,
+        102191575,
+        404517459,
+        85633793,
+        85972631,
+        102086173,
+        85688661,
+        85971021,
+        102080787,
+        85832925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2a2cJ6YJ1UhLxBRacjG1fQ_38.461349_-90.348706@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462590198,
+    "wof:geomhash":"be775f606b9de0c9f92cfb9bd694a3af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086173,
+            "localadmin_id":404517459,
+            "locality_id":85972631,
+            "neighbourhood_id":85885365,
+            "region_id":85688661,
+            "venue_id":789742789
+        },
+        {
+            "country_id":85633793,
+            "county_id":102080787,
+            "locality_id":85971021,
+            "neighbourhood_id":85832925,
+            "region_id":85688661,
+            "venue_id":789742789
+        }
+    ],
+    "wof:id":789742789,
+    "wof:lastmodified":1462590198,
+    "wof:name":"Beco Concrete Products Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product",
+        "mfg",
+        "concrete",
+        "brick",
+        "prod",
+        "block"
+    ]
+},
+  "bbox": [
+    -90.348706,
+    38.461349,
+    -90.348706,
+    38.461349
+],
+  "geometry": {"coordinates":[-90.34870600000001,38.461349],"type":"Point"}
+}

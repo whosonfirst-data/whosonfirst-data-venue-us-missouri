@@ -1,0 +1,71 @@
+{
+  "id": 790600033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.440483,37.219556,-93.440483,37.219556",
+    "geom:latitude":37.219556,
+    "geom:longitude":-93.440483,
+    "iso:country":"US",
+    "sg:address":"918 N Farm Rd 97",
+    "sg:city":"Springfield",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 862 3202",
+    "sg:postcode":"65802",
+    "sg:province":"MO",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971363,
+        102087523,
+        85881139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0X1u9u2KLgvRUjgjM6HIHU_37.219556_-93.440483@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462597226,
+    "wof:geomhash":"556174115119c114fc675a7121f0eb17",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087523,
+            "locality_id":85971363,
+            "neighbourhood_id":85881139,
+            "region_id":85688661,
+            "venue_id":790600033
+        }
+    ],
+    "wof:id":790600033,
+    "wof:lastmodified":1462597226,
+    "wof:name":"J C Heating & Air Conditioning",
+    "wof:parent_id":85881139,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -93.440483,
+    37.219556,
+    -93.440483,
+    37.219556
+],
+  "geometry": {"coordinates":[-93.440483,37.219556],"type":"Point"}
+}

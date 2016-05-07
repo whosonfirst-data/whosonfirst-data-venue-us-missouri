@@ -1,0 +1,71 @@
+{
+  "id": 806926677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.561587,38.792798,-90.561587,38.792798",
+    "geom:latitude":38.792798,
+    "geom:longitude":-90.561587,
+    "iso:country":"US",
+    "sg:address":"3990 W Clay St",
+    "sg:city":"Saint Charles",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 896 0006",
+    "sg:postcode":"63301",
+    "sg:province":"MO",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3XmCjEjDALpfhgKPkVA54o_38.792798_-90.561587@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462602246,
+    "wof:geomhash":"809c42d190b011755d507e8dac65b0bd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":806926677
+        }
+    ],
+    "wof:id":806926677,
+    "wof:lastmodified":1462602246,
+    "wof:name":"K Bar Construction",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -90.561587,
+    38.792798,
+    -90.561587,
+    38.792798
+],
+  "geometry": {"coordinates":[-90.561587,38.792798],"type":"Point"}
+}

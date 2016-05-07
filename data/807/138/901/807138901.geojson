@@ -1,0 +1,70 @@
+{
+  "id": 807138901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.220505,38.606035,-90.220505,38.606035",
+    "geom:latitude":38.606035,
+    "geom:longitude":-90.220505,
+    "iso:country":"US",
+    "sg:address":"2236 Gravois Ave",
+    "sg:city":"Saint Louis",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 772 8130",
+    "sg:postcode":"63104",
+    "sg:province":"MO",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873675,
+        102191575,
+        404518053,
+        85633793,
+        85971343,
+        102080791,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_34iY47rGXuAA52ntQaM6xs_38.606035_-90.220505@1303262927"
+    },
+    "wof:country":"US",
+    "wof:created":1462604148,
+    "wof:geomhash":"65211dfde88ef6d86239be4976d5bb77",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080791,
+            "localadmin_id":404518053,
+            "locality_id":85971343,
+            "neighbourhood_id":85873675,
+            "region_id":85688661,
+            "venue_id":807138901
+        }
+    ],
+    "wof:id":807138901,
+    "wof:lastmodified":1462604148,
+    "wof:name":"Mike's Transmission & Auto Service",
+    "wof:parent_id":85873675,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.220505,
+    38.606035,
+    -90.220505,
+    38.606035
+],
+  "geometry": {"coordinates":[-90.220505,38.606035],"type":"Point"}
+}

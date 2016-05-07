@@ -1,0 +1,77 @@
+{
+  "id": 806535731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.488315,38.966147,-94.488315,38.966147",
+    "geom:latitude":38.966147,
+    "geom:longitude":-94.488315,
+    "iso:country":"US",
+    "sg:address":"8201 E 87 St",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 765 7979",
+    "sg:postcode":"64138",
+    "sg:province":"MO",
+    "sg:tags":[
+        "hospital",
+        "animal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85871963,
+        102191575,
+        404518075,
+        85633793,
+        85970739,
+        102081227,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Yb9x99P93IaATTnLjTTWb_38.966147_-94.488315@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462598921,
+    "wof:geomhash":"7432a56ff2d82b8df562b8b8e03b76e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081227,
+            "localadmin_id":404518075,
+            "locality_id":85970739,
+            "neighbourhood_id":85871963,
+            "region_id":85688661,
+            "venue_id":806535731
+        }
+    ],
+    "wof:id":806535731,
+    "wof:lastmodified":1462598921,
+    "wof:name":"Bannister Veterinary Clinic",
+    "wof:parent_id":85871963,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hospital",
+        "animal"
+    ]
+},
+  "bbox": [
+    -94.488315,
+    38.966147,
+    -94.488315,
+    38.966147
+],
+  "geometry": {"coordinates":[-94.488315,38.966147],"type":"Point"}
+}

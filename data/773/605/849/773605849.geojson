@@ -1,0 +1,71 @@
+{
+  "id": 773605849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.296002,37.147669,-93.296002,37.147669",
+    "geom:latitude":37.147669,
+    "geom:longitude":-93.296002,
+    "iso:country":"US",
+    "sg:address":"3655 S Campbell Ave",
+    "sg:city":"Springfield",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 882 2088",
+    "sg:postcode":"65807",
+    "sg:province":"MO",
+    "sg:tags":[
+        "renting",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85881143,
+        102087523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2jzUWfUKpZNkeQ3uhpWehU_37.147669_-93.296002@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462586981,
+    "wof:geomhash":"3ea8e206984ba9fc5d6d3a065e7e1bcf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087523,
+            "neighbourhood_id":85881143,
+            "region_id":85688661,
+            "venue_id":773605849
+        }
+    ],
+    "wof:id":773605849,
+    "wof:lastmodified":1462586981,
+    "wof:name":"Enterprise Rent-A-Car",
+    "wof:parent_id":85881143,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -93.296002,
+    37.147669,
+    -93.296002,
+    37.147669
+],
+  "geometry": {"coordinates":[-93.296002,37.147669],"type":"Point"}
+}

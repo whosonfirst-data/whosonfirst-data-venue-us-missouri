@@ -1,0 +1,71 @@
+{
+  "id": 789751469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.902674,39.411596,-94.902674,39.411596",
+    "geom:latitude":39.411596,
+    "geom:longitude":-94.902674,
+    "iso:country":"US",
+    "sg:address":"717 Thomas St",
+    "sg:city":"Weston",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 640 9940",
+    "sg:postcode":"64098",
+    "sg:province":"MO",
+    "sg:tags":[
+        "attorney"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970739,
+        102085271,
+        85823759
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6LeKNBz3Gt9taFuw3lKHoK_39.411596_-94.902674@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462590263,
+    "wof:geomhash":"0fd10c4356cbd507138757cdad5da99a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085271,
+            "locality_id":85970739,
+            "neighbourhood_id":85823759,
+            "region_id":85688661,
+            "venue_id":789751469
+        }
+    ],
+    "wof:id":789751469,
+    "wof:lastmodified":1462590263,
+    "wof:name":"Summers & Johnson",
+    "wof:parent_id":85823759,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "attorney"
+    ]
+},
+  "bbox": [
+    -94.902674,
+    39.411596,
+    -94.902674,
+    39.411596
+],
+  "geometry": {"coordinates":[-94.902674,39.411596],"type":"Point"}
+}

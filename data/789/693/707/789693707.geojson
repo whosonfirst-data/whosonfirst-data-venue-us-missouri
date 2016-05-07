@@ -1,0 +1,79 @@
+{
+  "id": 789693707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.379922,36.87087,-94.379922,36.87087",
+    "geom:latitude":36.87087,
+    "geom:longitude":-94.379922,
+    "iso:country":"US",
+    "sg:address":"117 N Neosho Blvd",
+    "sg:city":"Neosho",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 455 1065",
+    "sg:postcode":"64850",
+    "sg:province":"MO",
+    "sg:tags":[
+        "muffler",
+        "exhaust",
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85821247,
+        102191575,
+        404517035,
+        85633793,
+        85971317,
+        102087471,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0cxt6ovu72Tun1jpMs67PF_36.870870_-94.379922@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462589808,
+    "wof:geomhash":"b30dc702c2c8f3799ae4070e46705c8a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087471,
+            "localadmin_id":404517035,
+            "locality_id":85971317,
+            "neighbourhood_id":85821247,
+            "region_id":85688661,
+            "venue_id":789693707
+        }
+    ],
+    "wof:id":789693707,
+    "wof:lastmodified":1462589808,
+    "wof:name":"Performance Muffler",
+    "wof:parent_id":85821247,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "muffler",
+        "exhaust",
+        "system"
+    ]
+},
+  "bbox": [
+    -94.379922,
+    36.87087,
+    -94.379922,
+    36.87087
+],
+  "geometry": {"coordinates":[-94.37992199999999,36.87087],"type":"Point"}
+}

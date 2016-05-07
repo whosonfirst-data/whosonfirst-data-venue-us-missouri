@@ -1,0 +1,78 @@
+{
+  "id": 806682679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.610686,38.009337,-91.610686,38.009337",
+    "geom:latitude":38.009337,
+    "geom:longitude":-91.610686,
+    "iso:country":"US",
+    "sg:address":"540 Sidney St",
+    "sg:city":"St James",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 265 7912",
+    "sg:postcode":"65559",
+    "sg:province":"MO",
+    "sg:tags":[
+        "mfg",
+        "retail",
+        "winery",
+        "wine"
+    ],
+    "sg:website":"www.stjameswinery.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970819,
+        102086893,
+        85847353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ZzTCL1QtJYzH7BV2TXh46_38.009337_-91.610686@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462600192,
+    "wof:geomhash":"fddab138204e9bec01b280a5c6079da2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086893,
+            "locality_id":85970819,
+            "neighbourhood_id":85847353,
+            "region_id":85688661,
+            "venue_id":806682679
+        }
+    ],
+    "wof:id":806682679,
+    "wof:lastmodified":1462600192,
+    "wof:name":"St James Winery Inc",
+    "wof:parent_id":85847353,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mfg",
+        "retail",
+        "winery",
+        "wine"
+    ]
+},
+  "bbox": [
+    -91.610686,
+    38.009337,
+    -91.610686,
+    38.009337
+],
+  "geometry": {"coordinates":[-91.610686,38.009337],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 773706073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.521987,39.795238,-91.521987,39.795238",
+    "geom:latitude":39.795238,
+    "geom:longitude":-91.521987,
+    "iso:country":"US",
+    "sg:address":"108 E Jefferson St",
+    "sg:city":"Monticello",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 767 5366",
+    "sg:postcode":"63461",
+    "sg:province":"MO",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688697,
+        85633793,
+        85938427,
+        102086213,
+        85867477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5VrcmxRze7jtziefDWY8ap_39.795238_-91.521987@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462587766,
+    "wof:geomhash":"cb78f3fd591c7eff62c907712066030e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086213,
+            "locality_id":85938427,
+            "neighbourhood_id":85867477,
+            "region_id":85688697,
+            "venue_id":773706073
+        }
+    ],
+    "wof:id":773706073,
+    "wof:lastmodified":1462587766,
+    "wof:name":"Monticello Volunteer Fire Dept",
+    "wof:parent_id":85867477,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -91.521987,
+    39.795238,
+    -91.521987,
+    39.795238
+],
+  "geometry": {"coordinates":[-91.521987,39.795238],"type":"Point"}
+}

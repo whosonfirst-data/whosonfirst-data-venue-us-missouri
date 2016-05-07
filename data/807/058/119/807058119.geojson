@@ -1,0 +1,76 @@
+{
+  "id": 807058119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.579061,38.66818,-90.579061,38.66818",
+    "geom:latitude":38.66818,
+    "geom:longitude":-90.579061,
+    "iso:country":"US",
+    "sg:address":"17164 Chesterfield Airport Rd",
+    "sg:city":"Chesterfield",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/chesterfield/42218-bob-evans/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 536 6992",
+    "sg:postcode":"63005",
+    "sg:province":"MO",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85805465,
+        102191575,
+        404517241,
+        85633793,
+        85972357,
+        102086173,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Qa2Voy9silRTXkPlNkDvC_38.668180_-90.579061@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462603356,
+    "wof:geomhash":"b12bfdc01e4d2faf2aeded46f0a65d7e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086173,
+            "localadmin_id":404517241,
+            "locality_id":85972357,
+            "neighbourhood_id":85805465,
+            "region_id":85688661,
+            "venue_id":807058119
+        }
+    ],
+    "wof:id":807058119,
+    "wof:lastmodified":1462603356,
+    "wof:name":"Bob Evans",
+    "wof:parent_id":85805465,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -90.579061,
+    38.66818,
+    -90.579061,
+    38.66818
+],
+  "geometry": {"coordinates":[-90.579061,38.66818],"type":"Point"}
+}

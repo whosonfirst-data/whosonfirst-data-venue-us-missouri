@@ -1,0 +1,73 @@
+{
+  "id": 806766151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.361167,38.487542,-90.361167,38.487542",
+    "geom:latitude":38.487542,
+    "geom:longitude":-90.361167,
+    "iso:country":"US",
+    "sg:address":"5102 Butler Hill Ct",
+    "sg:city":"Saint Louis",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 892 9372",
+    "sg:postcode":"63128",
+    "sg:province":"MO",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971021,
+        102080787,
+        85832925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2t6EXEUwC1ctZw4P3mKncv_38.487542_-90.361167@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462600894,
+    "wof:geomhash":"9eb4aec0190049f5a7891d2b50a3f98f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080787,
+            "locality_id":85971021,
+            "neighbourhood_id":85832925,
+            "region_id":85688661,
+            "venue_id":806766151
+        }
+    ],
+    "wof:id":806766151,
+    "wof:lastmodified":1462600894,
+    "wof:name":"Mt Vernon Apartments",
+    "wof:parent_id":85832925,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -90.361167,
+    38.487542,
+    -90.361167,
+    38.487542
+],
+  "geometry": {"coordinates":[-90.36116699999999,38.487542],"type":"Point"}
+}

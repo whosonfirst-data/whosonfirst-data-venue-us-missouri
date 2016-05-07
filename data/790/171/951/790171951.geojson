@@ -1,0 +1,83 @@
+{
+  "id": 790171951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.341462,38.725978,-90.341462,38.725978",
+    "geom:latitude":38.725978,
+    "geom:longitude":-90.341462,
+    "iso:country":"US",
+    "sg:address":"9300 Natural Bridge Rd",
+    "sg:city":"Berkeley",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 426 3900",
+    "sg:postcode":"63134",
+    "sg:province":"MO",
+    "sg:tags":[
+        "truck",
+        "lease"
+    ],
+    "sg:website":"www.gatewaycityintl.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85847351,
+        102191575,
+        404517201,
+        85633793,
+        85972285,
+        102086173,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ya8yxQEdYZYC47COQgBVt_38.725978_-90.341462@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462593710,
+    "wof:geomhash":"8c7132932fb8dd5b77845fc8bbcad400",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086173,
+            "localadmin_id":404517201,
+            "locality_id":85972285,
+            "neighbourhood_id":85847351,
+            "region_id":85688661,
+            "venue_id":790171951
+        }
+    ],
+    "wof:id":790171951,
+    "wof:lastmodified":1462593710,
+    "wof:name":"Airport Trucks Inc",
+    "wof:parent_id":85847351,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck",
+        "lease"
+    ]
+},
+  "bbox": [
+    -90.341462,
+    38.725978,
+    -90.341462,
+    38.725978
+],
+  "geometry": {"coordinates":[-90.34146200000001,38.725978],"type":"Point"}
+}

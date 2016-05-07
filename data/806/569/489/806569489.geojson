@@ -1,0 +1,73 @@
+{
+  "id": 806569489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.638667,38.786429,-90.638667,38.786429",
+    "geom:latitude":38.786429,
+    "geom:longitude":-90.638667,
+    "iso:country":"US",
+    "sg:address":"515 Pioneer Dr",
+    "sg:city":"St Peters",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 397 1280",
+    "sg:postcode":"63376",
+    "sg:province":"MO",
+    "sg:tags":[
+        "instruction",
+        "music"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7S1Q55BNuHjRstzdJnrKGQ_38.786429_-90.638667@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462599201,
+    "wof:geomhash":"f098bdddc75257a0ebf9e498944bb314",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":806569489
+        }
+    ],
+    "wof:id":806569489,
+    "wof:lastmodified":1462599201,
+    "wof:name":"Denny's Music Studio",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instruction",
+        "music"
+    ]
+},
+  "bbox": [
+    -90.638667,
+    38.786429,
+    -90.638667,
+    38.786429
+],
+  "geometry": {"coordinates":[-90.638667,38.786429],"type":"Point"}
+}

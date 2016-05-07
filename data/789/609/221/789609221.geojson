@@ -1,0 +1,71 @@
+{
+  "id": 789609221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.483898,38.776473,-90.483898,38.776473",
+    "geom:latitude":38.776473,
+    "geom:longitude":-90.483898,
+    "iso:country":"US",
+    "sg:address":"603 S Main St",
+    "sg:city":"St Charles",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 940 0266",
+    "sg:postcode":"63301",
+    "sg:province":"MO",
+    "sg:tags":[
+        "antique"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5BC6350dM9q1aOtpinaa6R_38.776473_-90.483898@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462589133,
+    "wof:geomhash":"5b7bf0556a520c9c1a678728d95c43d9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":789609221
+        }
+    ],
+    "wof:id":789609221,
+    "wof:lastmodified":1462589133,
+    "wof:name":"Maison Rive",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "antique"
+    ]
+},
+  "bbox": [
+    -90.483898,
+    38.776473,
+    -90.483898,
+    38.776473
+],
+  "geometry": {"coordinates":[-90.483898,38.776473],"type":"Point"}
+}

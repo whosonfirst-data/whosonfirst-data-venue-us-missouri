@@ -1,0 +1,71 @@
+{
+  "id": 790335601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.52546,38.077213,-91.52546,38.077213",
+    "geom:latitude":38.077213,
+    "geom:longitude":-91.52546,
+    "iso:country":"US",
+    "sg:address":"18600 Johnson Rd",
+    "sg:city":"Saint James",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 885 4391",
+    "sg:postcode":"65559",
+    "sg:province":"MO",
+    "sg:tags":[
+        "electrical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970819,
+        102086893,
+        85847353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2EmACgdn3xDIbSLAcK8gBn_38.077213_-91.525460@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462595030,
+    "wof:geomhash":"680070a1313f08675350ef14fab937bb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086893,
+            "locality_id":85970819,
+            "neighbourhood_id":85847353,
+            "region_id":85688661,
+            "venue_id":790335601
+        }
+    ],
+    "wof:id":790335601,
+    "wof:lastmodified":1462595030,
+    "wof:name":"Wilson Appliance",
+    "wof:parent_id":85847353,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical"
+    ]
+},
+  "bbox": [
+    -91.52546,
+    38.077213,
+    -91.52546,
+    38.077213
+],
+  "geometry": {"coordinates":[-91.52546,38.077213],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 807093949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.287992,37.216042,-93.287992,37.216042",
+    "geom:latitude":37.216042,
+    "geom:longitude":-93.287992,
+    "iso:country":"US",
+    "sg:address":"731 N Benton Ave",
+    "sg:city":"Springfield",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/springfield/148672-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 869 7777",
+    "sg:postcode":"65802",
+    "sg:province":"MO",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85881135,
+        102191575,
+        404516201,
+        85633793,
+        85971363,
+        102087523,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7bfuS7t1H3zTVNdNe4uxXs_37.216042_-93.287992@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462603653,
+    "wof:geomhash":"8270d81bc3625d96d322e877fee18ee0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087523,
+            "localadmin_id":404516201,
+            "locality_id":85971363,
+            "neighbourhood_id":85881135,
+            "region_id":85688661,
+            "venue_id":807093949
+        }
+    ],
+    "wof:id":807093949,
+    "wof:lastmodified":1462603653,
+    "wof:name":"Subway",
+    "wof:parent_id":85881135,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -93.287992,
+    37.216042,
+    -93.287992,
+    37.216042
+],
+  "geometry": {"coordinates":[-93.287992,37.216042],"type":"Point"}
+}

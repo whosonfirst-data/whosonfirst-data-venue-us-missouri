@@ -1,0 +1,71 @@
+{
+  "id": 806596347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.522969,39.805139,-91.522969,39.805139",
+    "geom:latitude":39.805139,
+    "geom:longitude":-91.522969,
+    "iso:country":"US",
+    "sg:address":"614 N Main St",
+    "sg:city":"Palmyra",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 769 3253",
+    "sg:postcode":"63461",
+    "sg:province":"MO",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688697,
+        85633793,
+        85938427,
+        102086213,
+        85867477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1FZiS53ubORwDFBLEu9lp5_39.805139_-91.522969@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462599454,
+    "wof:geomhash":"b55c9fae14eac8bab310b61cec9309fb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086213,
+            "locality_id":85938427,
+            "neighbourhood_id":85867477,
+            "region_id":85688697,
+            "venue_id":806596347
+        }
+    ],
+    "wof:id":806596347,
+    "wof:lastmodified":1462599454,
+    "wof:name":"Allens Garage",
+    "wof:parent_id":85867477,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -91.522969,
+    39.805139,
+    -91.522969,
+    39.805139
+],
+  "geometry": {"coordinates":[-91.522969,39.805139],"type":"Point"}
+}

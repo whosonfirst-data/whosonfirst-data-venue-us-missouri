@@ -1,0 +1,72 @@
+{
+  "id": 806734641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.525105,38.778473,-90.525105,38.778473",
+    "geom:latitude":38.778473,
+    "geom:longitude":-90.525105,
+    "iso:country":"US",
+    "sg:address":"1650 Hawks Nest Dr",
+    "sg:city":"St Charles",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 949 3392",
+    "sg:postcode":"63303",
+    "sg:province":"MO",
+    "sg:tags":[
+        "department"
+    ],
+    "sg:website":"www.stcharlescity.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6hMgMJp60bq9yJKlVO8tfZ_38.778473_-90.525105@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462600621,
+    "wof:geomhash":"1b676cc76bb60b2d1aec89f59fc01979",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":806734641
+        }
+    ],
+    "wof:id":806734641,
+    "wof:lastmodified":1462600621,
+    "wof:name":"St Charles Fire Station 5",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -90.525105,
+    38.778473,
+    -90.525105,
+    38.778473
+],
+  "geometry": {"coordinates":[-90.525105,38.778473],"type":"Point"}
+}

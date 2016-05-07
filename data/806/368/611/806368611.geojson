@@ -1,0 +1,89 @@
+{
+  "id": 806368611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.599448,39.182658,-94.599448,39.182658",
+    "geom:latitude":39.182658,
+    "geom:longitude":-94.599448,
+    "iso:country":"US",
+    "sg:address":"1508 NW Vivion Rd",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 567 3905",
+    "sg:postcode":"64118",
+    "sg:province":"MO",
+    "sg:tags":[
+        "laboratory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420525303,
+        102191575,
+        404518075,
+        85633793,
+        85970739,
+        102081227,
+        85688661,
+        420525395,
+        404517563,
+        85970477,
+        102085271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ARbaF5c0KdGx9THvaSJVb_39.182658_-94.599448@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462597588,
+    "wof:geomhash":"59ed027f4ade45cb1ebf3dfd87a40be3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081227,
+            "localadmin_id":404518075,
+            "locality_id":85970739,
+            "neighbourhood_id":420525303,
+            "region_id":85688661,
+            "venue_id":806368611
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085271,
+            "localadmin_id":404517563,
+            "locality_id":85970477,
+            "neighbourhood_id":420525395,
+            "region_id":85688661,
+            "venue_id":806368611
+        }
+    ],
+    "wof:id":806368611,
+    "wof:lastmodified":1462597588,
+    "wof:name":"Quest Diagnostics",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory"
+    ]
+},
+  "bbox": [
+    -94.599448,
+    39.182658,
+    -94.599448,
+    39.182658
+],
+  "geometry": {"coordinates":[-94.599448,39.182658],"type":"Point"}
+}

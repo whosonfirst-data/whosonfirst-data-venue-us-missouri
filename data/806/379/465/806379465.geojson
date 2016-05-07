@@ -1,0 +1,75 @@
+{
+  "id": 806379465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.720698,39.297881,-94.720698,39.297881",
+    "geom:latitude":39.297881,
+    "geom:longitude":-94.720698,
+    "iso:country":"US",
+    "sg:address":"1 Amsterdam Cir",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Airline",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 243 5992",
+    "sg:postcode":"64153",
+    "sg:province":"MO",
+    "sg:tags":[
+        "cargo",
+        "air"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102533051,
+        85688661,
+        85633793,
+        85970739,
+        102085271,
+        85851839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1KLTClQfe7BZZXUvA7CmRa_39.297881_-94.720698@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462597669,
+    "wof:geomhash":"b2b79796d17c06378cc2de04edc291f8",
+    "wof:hierarchy":[
+        {
+            "campus_id":102533051,
+            "country_id":85633793,
+            "county_id":102085271,
+            "locality_id":85970739,
+            "neighbourhood_id":85851839,
+            "region_id":85688661,
+            "venue_id":806379465
+        }
+    ],
+    "wof:id":806379465,
+    "wof:lastmodified":1462597669,
+    "wof:name":"Air Midwest Express",
+    "wof:parent_id":102533051,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cargo",
+        "air"
+    ]
+},
+  "bbox": [
+    -94.720698,
+    39.297881,
+    -94.720698,
+    39.297881
+],
+  "geometry": {"coordinates":[-94.720698,39.297881],"type":"Point"}
+}

@@ -1,0 +1,84 @@
+{
+  "id": 790578821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.198491,38.610133,-90.198491,38.610133",
+    "geom:latitude":38.610133,
+    "geom:longitude":-90.198491,
+    "iso:country":"US",
+    "sg:address":"1608 S Broadway",
+    "sg:city":"St Louis",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Painting Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 621 8965",
+    "sg:postcode":"63104",
+    "sg:province":"MO",
+    "sg:tags":[
+        "paint",
+        "floor",
+        "covering"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873665,
+        102191575,
+        404518053,
+        85633793,
+        85971343,
+        102080791,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Oy3LVN0y4r6Mhqm6Xl3Jb_38.610133_-90.198491@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462597028,
+    "wof:geomhash":"3647b39a70e399cb1c42445890ad90ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080791,
+            "localadmin_id":404518053,
+            "locality_id":85971343,
+            "neighbourhood_id":85873665,
+            "region_id":85688661,
+            "venue_id":790578821
+        }
+    ],
+    "wof:id":790578821,
+    "wof:lastmodified":1462597028,
+    "wof:name":"Sherwin-Williams Paints",
+    "wof:parent_id":85873665,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "paint",
+        "floor",
+        "covering"
+    ]
+},
+  "bbox": [
+    -90.198491,
+    38.610133,
+    -90.198491,
+    38.610133
+],
+  "geometry": {"coordinates":[-90.198491,38.610133],"type":"Point"}
+}

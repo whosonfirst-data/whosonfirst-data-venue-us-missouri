@@ -1,0 +1,73 @@
+{
+  "id": 806407697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.195323,39.342737,-91.195323,39.342737",
+    "geom:latitude":39.342737,
+    "geom:longitude":-91.195323,
+    "iso:country":"US",
+    "sg:address":"8 N Court St",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 324 2112",
+    "sg:postcode":"63334",
+    "sg:province":"MO",
+    "sg:tags":[
+        "drug",
+        "merchandise"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971907,
+        102086151,
+        85817909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0grn7DkutQ00iZU7KIHqgj_39.342737_-91.195323@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462597894,
+    "wof:geomhash":"48fc49445eac555a5744566be882d7e2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086151,
+            "locality_id":85971907,
+            "neighbourhood_id":85817909,
+            "region_id":85688661,
+            "venue_id":806407697
+        }
+    ],
+    "wof:id":806407697,
+    "wof:lastmodified":1462597894,
+    "wof:name":"Bowling Green Pharmacy Inc",
+    "wof:parent_id":85817909,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drug",
+        "merchandise"
+    ]
+},
+  "bbox": [
+    -91.195323,
+    39.342737,
+    -91.195323,
+    39.342737
+],
+  "geometry": {"coordinates":[-91.195323,39.342737],"type":"Point"}
+}

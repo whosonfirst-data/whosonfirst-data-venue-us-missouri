@@ -1,0 +1,91 @@
+{
+  "id": 807174469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.288478,38.623168,-90.288478,38.623168",
+    "geom:latitude":38.623168,
+    "geom:longitude":-90.288478,
+    "iso:country":"US",
+    "sg:address":"1615 Hampton Ave",
+    "sg:city":"Saint Louis",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 645 2648",
+    "sg:postcode":"63139",
+    "sg:province":"MO",
+    "sg:tags":[
+        "high",
+        "middle",
+        "elementary"
+    ],
+    "sg:website":"www.slps.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873705,
+        102191575,
+        404518053,
+        85633793,
+        85971343,
+        102080791,
+        85688661,
+        420525483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2mIYokUAxR5Liux4bo5Aek_38.623168_-90.288478@1303262930"
+    },
+    "wof:country":"US",
+    "wof:created":1462604531,
+    "wof:geomhash":"7836957d67dab5eec9b86ebc1a949cc3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080791,
+            "localadmin_id":404518053,
+            "locality_id":85971343,
+            "neighbourhood_id":85873705,
+            "region_id":85688661,
+            "venue_id":807174469
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080791,
+            "localadmin_id":404518053,
+            "locality_id":85971343,
+            "neighbourhood_id":420525483,
+            "region_id":85688661,
+            "venue_id":807174469
+        }
+    ],
+    "wof:id":807174469,
+    "wof:lastmodified":1462604531,
+    "wof:name":"St Louis Public Schools",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "high",
+        "middle",
+        "elementary"
+    ]
+},
+  "bbox": [
+    -90.288478,
+    38.623168,
+    -90.288478,
+    38.623168
+],
+  "geometry": {"coordinates":[-90.288478,38.623168],"type":"Point"}
+}

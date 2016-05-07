@@ -1,0 +1,71 @@
+{
+  "id": 790570735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.416096,37.779304,-90.416096,37.779304",
+    "geom:latitude":37.779304,
+    "geom:longitude":-90.416096,
+    "iso:country":"US",
+    "sg:address":"476 Sainte Genevieve Ave",
+    "sg:city":"Sainte Genevieve",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 883 5335",
+    "sg:postcode":"63640",
+    "sg:province":"MO",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970665,
+        102085297,
+        85816309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7JCcaNLiD347XrnR6kfIiQ_37.779304_-90.416096@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462596966,
+    "wof:geomhash":"210e4e7b1f02143ff433763c8fa2dc48",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085297,
+            "locality_id":85970665,
+            "neighbourhood_id":85816309,
+            "region_id":85688661,
+            "venue_id":790570735
+        }
+    ],
+    "wof:id":790570735,
+    "wof:lastmodified":1462596966,
+    "wof:name":"New York Life",
+    "wof:parent_id":85816309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -90.416096,
+    37.779304,
+    -90.416096,
+    37.779304
+],
+  "geometry": {"coordinates":[-90.416096,37.779304],"type":"Point"}
+}

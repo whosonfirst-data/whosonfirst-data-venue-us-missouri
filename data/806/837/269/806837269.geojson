@@ -1,0 +1,71 @@
+{
+  "id": 806837269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.511099,38.786361,-90.511099,38.786361",
+    "geom:latitude":38.786361,
+    "geom:longitude":-90.511099,
+    "iso:country":"US",
+    "sg:address":"313 Droste Rd",
+    "sg:city":"St Charles",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 925 1991",
+    "sg:postcode":"63301",
+    "sg:province":"MO",
+    "sg:tags":[
+        "loan"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2CUnERAroBbRy06vOcrXDJ_38.786361_-90.511099@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462601485,
+    "wof:geomhash":"89979fdb2b3578dec7e7b2b7e204ffaa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":806837269
+        }
+    ],
+    "wof:id":806837269,
+    "wof:lastmodified":1462601485,
+    "wof:name":"World Finance Corp",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "loan"
+    ]
+},
+  "bbox": [
+    -90.511099,
+    38.786361,
+    -90.511099,
+    38.786361
+],
+  "geometry": {"coordinates":[-90.511099,38.786361],"type":"Point"}
+}

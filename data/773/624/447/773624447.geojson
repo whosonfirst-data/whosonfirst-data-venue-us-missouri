@@ -1,0 +1,75 @@
+{
+  "id": 773624447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.19315,39.336989,-91.19315,39.336989",
+    "geom:latitude":39.336989,
+    "geom:longitude":-91.19315,
+    "iso:country":"US",
+    "sg:address":"19 W Adams St",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 324 3547",
+    "sg:postcode":"63334",
+    "sg:province":"MO",
+    "sg:tags":[
+        "marking",
+        "maintenance",
+        "parking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971907,
+        102086151,
+        85817909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1QVFY0kK8jdRVHqqWvjSLi_39.336989_-91.193150@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462587126,
+    "wof:geomhash":"c20a17183bd913f4ef2642e2cf1069ab",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086151,
+            "locality_id":85971907,
+            "neighbourhood_id":85817909,
+            "region_id":85688661,
+            "venue_id":773624447
+        }
+    ],
+    "wof:id":773624447,
+    "wof:lastmodified":1462587126,
+    "wof:name":"Street Dept",
+    "wof:parent_id":85817909,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "marking",
+        "maintenance",
+        "parking"
+    ]
+},
+  "bbox": [
+    -91.19315,
+    39.336989,
+    -91.19315,
+    39.336989
+],
+  "geometry": {"coordinates":[-91.19315,39.336989],"type":"Point"}
+}

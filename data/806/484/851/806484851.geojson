@@ -1,0 +1,84 @@
+{
+  "id": 806484851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.464433,38.985445,-94.464433,38.985445",
+    "geom:latitude":38.985445,
+    "geom:longitude":-94.464433,
+    "iso:country":"US",
+    "sg:address":"7609 S Raytown Rd",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Hardware",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 313 5000",
+    "sg:postcode":"64138",
+    "sg:province":"MO",
+    "sg:tags":[
+        "plumbing",
+        "fixture",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85871965,
+        102191575,
+        404517999,
+        85633793,
+        85971471,
+        102081227,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5pNDvyIJtDaBWQPSain6kD_38.985445_-94.464433@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462598505,
+    "wof:geomhash":"053b1ac759b86aeb761e774ee16123de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081227,
+            "localadmin_id":404517999,
+            "locality_id":85971471,
+            "neighbourhood_id":85871965,
+            "region_id":85688661,
+            "venue_id":806484851
+        }
+    ],
+    "wof:id":806484851,
+    "wof:lastmodified":1462598505,
+    "wof:name":"Graham Plumbing Supply",
+    "wof:parent_id":85871965,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "fixture",
+        "supply"
+    ]
+},
+  "bbox": [
+    -94.464433,
+    38.985445,
+    -94.464433,
+    38.985445
+],
+  "geometry": {"coordinates":[-94.464433,38.985445],"type":"Point"}
+}

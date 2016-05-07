@@ -1,0 +1,78 @@
+{
+  "id": 806441243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.287532,37.715686,-90.287532,37.715686",
+    "geom:latitude":37.715686,
+    "geom:longitude":-90.287532,
+    "iso:country":"US",
+    "sg:address":"1902 Wesley Chapel Rd",
+    "sg:city":"Farmington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 760 1960",
+    "sg:postcode":"63640",
+    "sg:province":"MO",
+    "sg:tags":[
+        "saddlery",
+        "harness"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970665,
+        102085297,
+        85816309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_228DML34NtQEfsliYLfW22_37.715686_-90.287532@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462598177,
+    "wof:geomhash":"60556df4e7ba4346266fc3eb3b438c5a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085297,
+            "locality_id":85970665,
+            "neighbourhood_id":85816309,
+            "region_id":85688661,
+            "venue_id":806441243
+        }
+    ],
+    "wof:id":806441243,
+    "wof:lastmodified":1462598177,
+    "wof:name":"Kinkead's Leather Works",
+    "wof:parent_id":85816309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "saddlery",
+        "harness"
+    ]
+},
+  "bbox": [
+    -90.287532,
+    37.715686,
+    -90.287532,
+    37.715686
+],
+  "geometry": {"coordinates":[-90.287532,37.715686],"type":"Point"}
+}

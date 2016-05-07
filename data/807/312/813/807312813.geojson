@@ -1,0 +1,86 @@
+{
+  "id": 807312813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.286938,37.199919,-93.286938,37.199919",
+    "geom:latitude":37.199919,
+    "geom:longitude":-93.286938,
+    "iso:country":"US",
+    "sg:address":"816 S Kimbrough Ave",
+    "sg:city":"Springfield",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 831 6207",
+    "sg:postcode":"65806",
+    "sg:province":"MO",
+    "sg:tags":[
+        "vacancy",
+        "apartment",
+        "rental",
+        "listing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85881125,
+        102191575,
+        404516201,
+        85633793,
+        85971363,
+        102087523,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4gNfugwIhsH7yk1x60lfIj_37.199919_-93.286938@1303262939"
+    },
+    "wof:country":"US",
+    "wof:created":1462605989,
+    "wof:geomhash":"3c1d04ce2a3211e69d2cc6a96ce2c776",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087523,
+            "localadmin_id":404516201,
+            "locality_id":85971363,
+            "neighbourhood_id":85881125,
+            "region_id":85688661,
+            "venue_id":807312813
+        }
+    ],
+    "wof:id":807312813,
+    "wof:lastmodified":1462605989,
+    "wof:name":"Magers Apartments",
+    "wof:parent_id":85881125,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "vacancy",
+        "apartment",
+        "rental",
+        "listing"
+    ]
+},
+  "bbox": [
+    -93.286938,
+    37.199919,
+    -93.286938,
+    37.199919
+],
+  "geometry": {"coordinates":[-93.28693800000001,37.199919],"type":"Point"}
+}

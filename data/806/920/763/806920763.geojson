@@ -1,0 +1,88 @@
+{
+  "id": 806920763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.345645,38.395108,-90.345645,38.395108",
+    "geom:latitude":38.395108,
+    "geom:longitude":-90.345645,
+    "iso:country":"US",
+    "sg:address":"110 Dickerman Ct",
+    "sg:city":"Arnold",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 464 2142",
+    "sg:postcode":"63010",
+    "sg:province":"MO",
+    "sg:tags":[
+        "operator",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420525373,
+        102191575,
+        404518285,
+        85633793,
+        85972523,
+        102080787,
+        85688661,
+        420525431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Yg6AbSPUmtsxoWOTP9sUX_38.395108_-90.345645@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462602195,
+    "wof:geomhash":"09eed5ff54dcd64dc8e45fc2b7d76bde",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080787,
+            "localadmin_id":404518285,
+            "locality_id":85972523,
+            "neighbourhood_id":420525373,
+            "region_id":85688661,
+            "venue_id":806920763
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080787,
+            "localadmin_id":404518285,
+            "locality_id":85972523,
+            "neighbourhood_id":420525431,
+            "region_id":85688661,
+            "venue_id":806920763
+        }
+    ],
+    "wof:id":806920763,
+    "wof:lastmodified":1462602195,
+    "wof:name":"Dickerman Hauling",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -90.345645,
+    38.395108,
+    -90.345645,
+    38.395108
+],
+  "geometry": {"coordinates":[-90.345645,38.395108],"type":"Point"}
+}

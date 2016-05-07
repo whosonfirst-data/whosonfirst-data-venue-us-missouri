@@ -1,0 +1,72 @@
+{
+  "id": 806514907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.761491,37.957873,-91.761491,37.957873",
+    "geom:latitude":37.957873,
+    "geom:longitude":-91.761491,
+    "iso:country":"US",
+    "sg:address":"901 E 18th St",
+    "sg:city":"Rolla",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 341 2211",
+    "sg:postcode":"65401",
+    "sg:province":"MO",
+    "sg:tags":[
+        "department"
+    ],
+    "sg:website":"www.rollanet.org/~rrfpa",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970821,
+        102086893,
+        85814531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ClwGWlUTJB9rniuaLGILf_37.957873_-91.761491@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462598752,
+    "wof:geomhash":"83ddc996f909b02062bcd28f3ed4a9df",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086893,
+            "locality_id":85970821,
+            "neighbourhood_id":85814531,
+            "region_id":85688661,
+            "venue_id":806514907
+        }
+    ],
+    "wof:id":806514907,
+    "wof:lastmodified":1462598752,
+    "wof:name":"Rolla Rural Fire Dept",
+    "wof:parent_id":85814531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -91.761491,
+    37.957873,
+    -91.761491,
+    37.957873
+],
+  "geometry": {"coordinates":[-91.76149100000001,37.957873],"type":"Point"}
+}

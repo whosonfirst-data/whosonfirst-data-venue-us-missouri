@@ -1,0 +1,71 @@
+{
+  "id": 806819655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.501019,38.795851,-90.501019,38.795851",
+    "geom:latitude":38.795851,
+    "geom:longitude":-90.501019,
+    "iso:country":"US",
+    "sg:address":"2200 Elm St",
+    "sg:city":"St Charles",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 724 7656",
+    "sg:postcode":"63301",
+    "sg:province":"MO",
+    "sg:tags":[
+        "oil"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_70wAFlYzRnCEHF0TGMXut2_38.795851_-90.501019@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462601342,
+    "wof:geomhash":"fe1ab2a5c43ab31fc2a81cb914d3a4b3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":806819655
+        }
+    ],
+    "wof:id":806819655,
+    "wof:lastmodified":1462601342,
+    "wof:name":"Shell",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "oil"
+    ]
+},
+  "bbox": [
+    -90.501019,
+    38.795851,
+    -90.501019,
+    38.795851
+],
+  "geometry": {"coordinates":[-90.501019,38.795851],"type":"Point"}
+}

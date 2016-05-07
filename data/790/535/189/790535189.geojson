@@ -1,0 +1,71 @@
+{
+  "id": 790535189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.359909,37.166051,-93.359909,37.166051",
+    "geom:latitude":37.166051,
+    "geom:longitude":-93.359909,
+    "iso:country":"US",
+    "sg:address":"2736 S Jonathan Ave",
+    "sg:city":"Springfield",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 887 5540",
+    "sg:postcode":"65807",
+    "sg:province":"MO",
+    "sg:tags":[
+        "residential",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85881151,
+        102087523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1iPeY1AyDouVvGooWnl15j_37.166051_-93.359909@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462596664,
+    "wof:geomhash":"1f80350888a223373bf475fad850155b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087523,
+            "neighbourhood_id":85881151,
+            "region_id":85688661,
+            "venue_id":790535189
+        }
+    ],
+    "wof:id":790535189,
+    "wof:lastmodified":1462596664,
+    "wof:name":"Bob Doran Construction",
+    "wof:parent_id":85881151,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -93.359909,
+    37.166051,
+    -93.359909,
+    37.166051
+],
+  "geometry": {"coordinates":[-93.359909,37.166051],"type":"Point"}
+}

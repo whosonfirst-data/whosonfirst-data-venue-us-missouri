@@ -1,0 +1,75 @@
+{
+  "id": 789931801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.39433,39.458736,-91.39433,39.458736",
+    "geom:latitude":39.458736,
+    "geom:longitude":-91.39433,
+    "iso:country":"US",
+    "sg:address":"9282 Pike 12",
+    "sg:city":"Frankford",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Livestock Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 784 2510",
+    "sg:postcode":"63441",
+    "sg:province":"MO",
+    "sg:tags":[
+        "beef",
+        "feedlot",
+        "cattle"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971907,
+        102086151,
+        85817909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Cuulz11GccIt276tjhbrE_39.458736_-91.394330@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462591723,
+    "wof:geomhash":"d2e23f847f512b4e7a641fa339ce4c63",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086151,
+            "locality_id":85971907,
+            "neighbourhood_id":85817909,
+            "region_id":85688661,
+            "venue_id":789931801
+        }
+    ],
+    "wof:id":789931801,
+    "wof:lastmodified":1462591723,
+    "wof:name":"Robert Jennings",
+    "wof:parent_id":85817909,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "beef",
+        "feedlot",
+        "cattle"
+    ]
+},
+  "bbox": [
+    -91.39433,
+    39.458736,
+    -91.39433,
+    39.458736
+],
+  "geometry": {"coordinates":[-91.39433,39.458736],"type":"Point"}
+}

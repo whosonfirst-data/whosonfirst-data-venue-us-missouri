@@ -1,0 +1,73 @@
+{
+  "id": 789874321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.369267,39.128021,-94.369267,39.128021",
+    "geom:latitude":39.128021,
+    "geom:longitude":-94.369267,
+    "iso:country":"US",
+    "sg:address":"1111 Redwood Dr",
+    "sg:city":"Independence",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 257 5432",
+    "sg:postcode":"64056",
+    "sg:province":"MO",
+    "sg:tags":[
+        "laboratory",
+        "dental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971449,
+        102081227,
+        85844675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4CjQmn0GxIXMlacppOypqo_39.128021_-94.369267@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462591219,
+    "wof:geomhash":"1d04edf9f501aae2132eb22d8f11df36",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081227,
+            "locality_id":85971449,
+            "neighbourhood_id":85844675,
+            "region_id":85688661,
+            "venue_id":789874321
+        }
+    ],
+    "wof:id":789874321,
+    "wof:lastmodified":1462591219,
+    "wof:name":"Barbara R Skelton",
+    "wof:parent_id":85844675,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory",
+        "dental"
+    ]
+},
+  "bbox": [
+    -94.369267,
+    39.128021,
+    -94.369267,
+    39.128021
+],
+  "geometry": {"coordinates":[-94.36926699999999,39.128021],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 807097107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.581231,38.41288,-90.581231,38.41288",
+    "geom:latitude":38.41288,
+    "geom:longitude":-90.581231,
+    "iso:country":"US",
+    "sg:address":"4699 Gravois Rd",
+    "sg:city":"House Springs",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/high-ridge/156023-hardees/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 671 0502",
+    "sg:postcode":"63051",
+    "sg:province":"MO",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971019,
+        102080787,
+        85817237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5YnhnWD8C9XXx6UvaOi3oB_38.412436_-90.581080@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462603687,
+    "wof:geomhash":"b684b17d3b23421d2276432dcddef4ed",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080787,
+            "locality_id":85971019,
+            "neighbourhood_id":85817237,
+            "region_id":85688661,
+            "venue_id":807097107
+        }
+    ],
+    "wof:id":807097107,
+    "wof:lastmodified":1462603687,
+    "wof:name":"Hardee's",
+    "wof:parent_id":85817237,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -90.581231,
+    38.41288,
+    -90.581231,
+    38.41288
+],
+  "geometry": {"coordinates":[-90.581231,38.41288],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 806986317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.780313,39.354203,-94.780313,39.354203",
+    "geom:latitude":39.354203,
+    "geom:longitude":-94.780313,
+    "iso:country":"US",
+    "sg:address":"1808 Gates Dr",
+    "sg:city":"Platte City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 858 2960",
+    "sg:postcode":"64079",
+    "sg:province":"MO",
+    "sg:tags":[
+        "appliance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970739,
+        102085271,
+        85823759
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1drxBbasJvd2ImrYuQO7IF_39.354203_-94.780313@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462602747,
+    "wof:geomhash":"c828d89b780d87b7618419b6c8c1637b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085271,
+            "locality_id":85970739,
+            "neighbourhood_id":85823759,
+            "region_id":85688661,
+            "venue_id":806986317
+        }
+    ],
+    "wof:id":806986317,
+    "wof:lastmodified":1462602747,
+    "wof:name":"Aable Cooling Refrigeration",
+    "wof:parent_id":85823759,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "appliance"
+    ]
+},
+  "bbox": [
+    -94.780313,
+    39.354203,
+    -94.780313,
+    39.354203
+],
+  "geometry": {"coordinates":[-94.78031300000001,39.354203],"type":"Point"}
+}

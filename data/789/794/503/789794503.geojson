@@ -1,0 +1,71 @@
+{
+  "id": 789794503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.160691,39.068533,-92.160691,39.068533",
+    "geom:latitude":39.068533,
+    "geom:longitude":-92.160691,
+    "iso:country":"US",
+    "sg:address":"11802 Timmons Rd",
+    "sg:city":"Centralia",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 696 2303",
+    "sg:postcode":"65240",
+    "sg:province":"MO",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970425,
+        102086187,
+        85851713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1njjgDLuCI8PgSLA956LNh_39.068533_-92.160691@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462590601,
+    "wof:geomhash":"4b321b48948a1999afdf92d807448e69",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086187,
+            "locality_id":85970425,
+            "neighbourhood_id":85851713,
+            "region_id":85688661,
+            "venue_id":789794503
+        }
+    ],
+    "wof:id":789794503,
+    "wof:lastmodified":1462590601,
+    "wof:name":"Clinical Health Service LLC",
+    "wof:parent_id":85851713,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -92.160691,
+    39.068533,
+    -92.160691,
+    39.068533
+],
+  "geometry": {"coordinates":[-92.160691,39.068533],"type":"Point"}
+}

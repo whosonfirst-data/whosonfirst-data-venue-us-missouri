@@ -1,0 +1,76 @@
+{
+  "id": 789920617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.579096,38.62689,-90.579096,38.62689",
+    "geom:latitude":38.62689,
+    "geom:longitude":-90.579096,
+    "iso:country":"US",
+    "sg:address":"42 Clarkson Wilson Center",
+    "sg:city":"Chesterfield",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 537 0550",
+    "sg:postcode":"63017",
+    "sg:province":"MO",
+    "sg:tags":[
+        "pizza"
+    ],
+    "sg:website":"www.pizzahut.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85805465,
+        102191575,
+        404517241,
+        85633793,
+        85972357,
+        102086173,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0snO1EJEa1gpUlKLbMO0If_38.626890_-90.579096@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462591632,
+    "wof:geomhash":"ca6e3776e9a29c9ad13f8f04e6fd25b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086173,
+            "localadmin_id":404517241,
+            "locality_id":85972357,
+            "neighbourhood_id":85805465,
+            "region_id":85688661,
+            "venue_id":789920617
+        }
+    ],
+    "wof:id":789920617,
+    "wof:lastmodified":1462591632,
+    "wof:name":"Pizza Hut",
+    "wof:parent_id":85805465,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pizza"
+    ]
+},
+  "bbox": [
+    -90.579096,
+    38.62689,
+    -90.579096,
+    38.62689
+],
+  "geometry": {"coordinates":[-90.57909600000001,38.62689],"type":"Point"}
+}

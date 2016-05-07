@@ -1,0 +1,89 @@
+{
+  "id": 789683075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.394854,38.681392,-90.394854,38.681392",
+    "geom:latitude":38.681392,
+    "geom:longitude":-90.394854,
+    "iso:country":"US",
+    "sg:address":"10666 Gateway Blvd",
+    "sg:city":"St Louis",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Electronics",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 432 5588",
+    "sg:postcode":"63132",
+    "sg:province":"MO",
+    "sg:tags":[
+        "control",
+        "p",
+        "security",
+        "system",
+        "mfg"
+    ],
+    "sg:website":"www.acsi-inc.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85803699,
+        102191575,
+        404517323,
+        85633793,
+        85972315,
+        102086173,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2EeqAdbRegZNbW2VfBlluL_38.681392_-90.394854@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462589724,
+    "wof:geomhash":"70885bee1ed9b9ea8b66723b94f83702",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086173,
+            "localadmin_id":404517323,
+            "locality_id":85972315,
+            "neighbourhood_id":85803699,
+            "region_id":85688661,
+            "venue_id":789683075
+        }
+    ],
+    "wof:id":789683075,
+    "wof:lastmodified":1462589724,
+    "wof:name":"Architectural Control Systems",
+    "wof:parent_id":85803699,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "control",
+        "p",
+        "security",
+        "system",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -90.394854,
+    38.681392,
+    -90.394854,
+    38.681392
+],
+  "geometry": {"coordinates":[-90.394854,38.681392],"type":"Point"}
+}

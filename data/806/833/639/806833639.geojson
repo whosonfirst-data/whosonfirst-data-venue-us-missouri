@@ -1,0 +1,66 @@
+{
+  "id": 806833639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.532039,38.790141,-90.532039,38.790141",
+    "geom:latitude":38.790141,
+    "geom:longitude":-90.532039,
+    "iso:country":"US",
+    "sg:address":"2125 Zumbehl Rd",
+    "sg:city":"St Charles",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 724 5178",
+    "sg:postcode":"63303",
+    "sg:province":"MO",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0M8EMZ7lFJzODMefUZajPq_38.790141_-90.532039@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462601454,
+    "wof:geomhash":"bbab57cca1fe718e6b4d83ed4ea8cf7c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":806833639
+        }
+    ],
+    "wof:id":806833639,
+    "wof:lastmodified":1462601454,
+    "wof:name":"NYC Trends",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.532039,
+    38.790141,
+    -90.532039,
+    38.790141
+],
+  "geometry": {"coordinates":[-90.532039,38.790141],"type":"Point"}
+}

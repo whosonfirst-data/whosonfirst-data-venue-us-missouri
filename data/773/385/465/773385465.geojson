@@ -1,0 +1,73 @@
+{
+  "id": 773385465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.60548,38.78931,-90.60548,38.78931",
+    "geom:latitude":38.78931,
+    "geom:longitude":-90.60548,
+    "iso:country":"US",
+    "sg:address":"265 Spencer Rd",
+    "sg:city":"St Peters",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 441 6662",
+    "sg:postcode":"63376",
+    "sg:province":"MO",
+    "sg:tags":[
+        "home",
+        "residential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Hz2ovZwDHOOPpSao29G71_38.789310_-90.605480@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462585292,
+    "wof:geomhash":"e90851d83bc126fb754db2ec70ad6135",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":773385465
+        }
+    ],
+    "wof:id":773385465,
+    "wof:lastmodified":1462585292,
+    "wof:name":"Spencer Place Assisted Living",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "residential"
+    ]
+},
+  "bbox": [
+    -90.60548,
+    38.78931,
+    -90.60548,
+    38.78931
+],
+  "geometry": {"coordinates":[-90.60548,38.78931],"type":"Point"}
+}

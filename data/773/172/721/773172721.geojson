@@ -1,0 +1,75 @@
+{
+  "id": 773172721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.503539,38.551053,-90.503539,38.551053",
+    "geom:latitude":38.551053,
+    "geom:longitude":-90.503539,
+    "iso:country":"US",
+    "sg:address":"298 Vance Rd",
+    "sg:city":"Valley Park",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 225 1155",
+    "sg:postcode":"63088",
+    "sg:province":"MO",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85841473,
+        102191575,
+        404517461,
+        85633793,
+        85972241,
+        102086173,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_473L8TftLIxSoyUyI8Zaa3_38.551053_-90.503539@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462583686,
+    "wof:geomhash":"60dbbed44330bd6b263fc164ce1d4ab1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086173,
+            "localadmin_id":404517461,
+            "locality_id":85972241,
+            "neighbourhood_id":85841473,
+            "region_id":85688661,
+            "venue_id":773172721
+        }
+    ],
+    "wof:id":773172721,
+    "wof:lastmodified":1462583686,
+    "wof:name":"Valley Veterinary Clinic",
+    "wof:parent_id":85841473,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -90.503539,
+    38.551053,
+    -90.503539,
+    38.551053
+],
+  "geometry": {"coordinates":[-90.503539,38.551053],"type":"Point"}
+}

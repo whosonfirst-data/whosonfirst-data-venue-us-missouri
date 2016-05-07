@@ -1,0 +1,71 @@
+{
+  "id": 806744521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.362049,39.379287,-94.362049,39.379287",
+    "geom:latitude":39.379287,
+    "geom:longitude":-94.362049,
+    "iso:country":"US",
+    "sg:address":"107 Frank St",
+    "sg:city":"Kearney",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 628 2924",
+    "sg:postcode":"64060",
+    "sg:province":"MO",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971507,
+        102086177,
+        85812855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7BZo75ywWJm0KNUA2eWeTl_39.379287_-94.362049@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462600719,
+    "wof:geomhash":"4f55e697a1a6208ca1707d80e7984968",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086177,
+            "locality_id":85971507,
+            "neighbourhood_id":85812855,
+            "region_id":85688661,
+            "venue_id":806744521
+        }
+    ],
+    "wof:id":806744521,
+    "wof:lastmodified":1462600719,
+    "wof:name":"Bowers & Son Construction Co",
+    "wof:parent_id":85812855,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -94.362049,
+    39.379287,
+    -94.362049,
+    39.379287
+],
+  "geometry": {"coordinates":[-94.362049,39.379287],"type":"Point"}
+}

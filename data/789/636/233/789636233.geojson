@@ -1,0 +1,75 @@
+{
+  "id": 789636233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.383655,38.486237,-90.383655,38.486237",
+    "geom:latitude":38.486237,
+    "geom:longitude":-90.383655,
+    "iso:country":"US",
+    "sg:address":"13131 Tesson Ferry Rd",
+    "sg:city":"Sappington",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 843 5800",
+    "sg:postcode":"63128",
+    "sg:province":"MO",
+    "sg:tags":[
+        "physician",
+        "surgeon",
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971021,
+        102080787,
+        85832925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4zCtxrqvYj7VpzMRE9NpC4_38.486237_-90.383655@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462589347,
+    "wof:geomhash":"e0eb6a588d0b68b2157415c32b7a9a78",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080787,
+            "locality_id":85971021,
+            "neighbourhood_id":85832925,
+            "region_id":85688661,
+            "venue_id":789636233
+        }
+    ],
+    "wof:id":789636233,
+    "wof:lastmodified":1462589347,
+    "wof:name":"South County Eye Care",
+    "wof:parent_id":85832925,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon",
+        "medical"
+    ]
+},
+  "bbox": [
+    -90.383655,
+    38.486237,
+    -90.383655,
+    38.486237
+],
+  "geometry": {"coordinates":[-90.383655,38.486237],"type":"Point"}
+}

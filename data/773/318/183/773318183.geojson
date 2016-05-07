@@ -1,0 +1,75 @@
+{
+  "id": 773318183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.583825,39.416177,-94.583825,39.416177",
+    "geom:latitude":39.416177,
+    "geom:longitude":-94.583825,
+    "iso:country":"US",
+    "sg:address":"1706 US Hwy 169",
+    "sg:city":"Smithville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 532 0000",
+    "sg:postcode":"64089",
+    "sg:province":"MO",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970739,
+        102086177,
+        85836329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7hNF2wJfCRx0r7HveWnWhK_39.416177_-94.583825@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462584831,
+    "wof:geomhash":"6018685b01fa9e1a1075d70edd239141",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086177,
+            "locality_id":85970739,
+            "neighbourhood_id":85836329,
+            "region_id":85688661,
+            "venue_id":773318183
+        }
+    ],
+    "wof:id":773318183,
+    "wof:lastmodified":1462584831,
+    "wof:name":"A & B Carstar Collision",
+    "wof:parent_id":85836329,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -94.583825,
+    39.416177,
+    -94.583825,
+    39.416177
+],
+  "geometry": {"coordinates":[-94.583825,39.416177],"type":"Point"}
+}

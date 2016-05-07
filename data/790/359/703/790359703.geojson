@@ -1,0 +1,71 @@
+{
+  "id": 790359703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.744366,39.453389,-94.744366,39.453389",
+    "geom:latitude":39.453389,
+    "geom:longitude":-94.744366,
+    "iso:country":"US",
+    "sg:address":"307 Ruth St",
+    "sg:city":"Camden Point",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Nursery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 445 3516",
+    "sg:postcode":"64018",
+    "sg:province":"MO",
+    "sg:tags":[
+        "greenhouse"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970739,
+        102085271,
+        85851839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_73Iq4EtvZEMk8uBuUlbmxC_39.453389_-94.744366@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462595222,
+    "wof:geomhash":"68130ce549d05cd468f61ff33825eb44",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085271,
+            "locality_id":85970739,
+            "neighbourhood_id":85851839,
+            "region_id":85688661,
+            "venue_id":790359703
+        }
+    ],
+    "wof:id":790359703,
+    "wof:lastmodified":1462595222,
+    "wof:name":"Nancy's Greenhouse",
+    "wof:parent_id":85851839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "greenhouse"
+    ]
+},
+  "bbox": [
+    -94.744366,
+    39.453389,
+    -94.744366,
+    39.453389
+],
+  "geometry": {"coordinates":[-94.744366,39.453389],"type":"Point"}
+}

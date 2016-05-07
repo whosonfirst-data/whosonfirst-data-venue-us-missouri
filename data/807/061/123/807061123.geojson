@@ -1,0 +1,77 @@
+{
+  "id": 807061123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.388209,38.215198,-90.388209,38.215198",
+    "geom:latitude":38.215198,
+    "geom:longitude":-90.388209,
+    "iso:country":"US",
+    "sg:address":"515 S Truman Blvd",
+    "sg:city":"Festus",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/river-view/194146-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"63028",
+    "sg:province":"MO",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420525375,
+        102191575,
+        404518225,
+        85633793,
+        85971003,
+        102080787,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0in5Q03I4sOGzOGPv4xHTP_38.215198_-90.388209@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462603379,
+    "wof:geomhash":"2ab3551ef406dee59847f9b351b6ccc0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080787,
+            "localadmin_id":404518225,
+            "locality_id":85971003,
+            "neighbourhood_id":420525375,
+            "region_id":85688661,
+            "venue_id":807061123
+        }
+    ],
+    "wof:id":807061123,
+    "wof:lastmodified":1462603379,
+    "wof:name":"McDonald's",
+    "wof:parent_id":420525375,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -90.388209,
+    38.215198,
+    -90.388209,
+    38.215198
+],
+  "geometry": {"coordinates":[-90.388209,38.215198],"type":"Point"}
+}

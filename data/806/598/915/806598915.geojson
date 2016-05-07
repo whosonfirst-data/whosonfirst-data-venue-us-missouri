@@ -1,0 +1,67 @@
+{
+  "id": 806598915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.4816,38.783339,-90.4816,38.783339",
+    "geom:latitude":38.783339,
+    "geom:longitude":-90.4816,
+    "iso:country":"US",
+    "sg:address":"201 N 2nd St",
+    "sg:city":"St Charles",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 949 7470",
+    "sg:postcode":"63301",
+    "sg:province":"MO",
+    "sg:website":"www.saintcharlescounty.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6fxqGl6u4XiI6BHlx6wtjl_38.783339_-90.481600@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462599478,
+    "wof:geomhash":"1785593396c470a8c22cd30aa47f809b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":806598915
+        }
+    ],
+    "wof:id":806598915,
+    "wof:lastmodified":1462599478,
+    "wof:name":"St Charles County Collector",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.4816,
+    38.783339,
+    -90.4816,
+    38.783339
+],
+  "geometry": {"coordinates":[-90.4816,38.783339],"type":"Point"}
+}

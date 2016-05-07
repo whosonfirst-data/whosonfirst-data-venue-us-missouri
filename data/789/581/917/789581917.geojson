@@ -1,0 +1,73 @@
+{
+  "id": 789581917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.442327,38.77218,-90.442327,38.77218",
+    "geom:latitude":38.77218,
+    "geom:longitude":-90.442327,
+    "iso:country":"US",
+    "sg:address":"13001 Saint Charles Rock Rd",
+    "sg:city":"Bridgeton",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 291 7113",
+    "sg:postcode":"63044",
+    "sg:province":"MO",
+    "sg:tags":[
+        "instrument",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972341,
+        102086173,
+        85806637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4qZG1ulVunVS77ryngJBEC_38.772180_-90.442327@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462588917,
+    "wof:geomhash":"2b660e426d7e066ce3f348bcf268683d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086173,
+            "locality_id":85972341,
+            "neighbourhood_id":85806637,
+            "region_id":85688661,
+            "venue_id":789581917
+        }
+    ],
+    "wof:id":789581917,
+    "wof:lastmodified":1462588917,
+    "wof:name":"Mallinckrodt Inc",
+    "wof:parent_id":85806637,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instrument",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -90.442327,
+    38.77218,
+    -90.442327,
+    38.77218
+],
+  "geometry": {"coordinates":[-90.44232700000001,38.77218],"type":"Point"}
+}

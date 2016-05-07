@@ -1,0 +1,72 @@
+{
+  "id": 807060251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.577556,38.14995,-90.577556,38.14995",
+    "geom:latitude":38.14995,
+    "geom:longitude":-90.577556,
+    "iso:country":"US",
+    "sg:address":"12862 State Route 21",
+    "sg:city":"De Soto",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/valle/201558-sonic/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 586 6645",
+    "sg:postcode":"63020",
+    "sg:province":"MO",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85848677,
+        102080787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3XSzWlsKxT6Hck1wUJPehu_38.149950_-90.577556@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462603373,
+    "wof:geomhash":"97fca1b2c0dd2f4056c7e24d4929bb38",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080787,
+            "neighbourhood_id":85848677,
+            "region_id":85688661,
+            "venue_id":807060251
+        }
+    ],
+    "wof:id":807060251,
+    "wof:lastmodified":1462603373,
+    "wof:name":"Sonic",
+    "wof:parent_id":85848677,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -90.577556,
+    38.14995,
+    -90.577556,
+    38.14995
+],
+  "geometry": {"coordinates":[-90.577556,38.14995],"type":"Point"}
+}

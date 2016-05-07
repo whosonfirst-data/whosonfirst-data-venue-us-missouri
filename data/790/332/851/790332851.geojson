@@ -1,0 +1,75 @@
+{
+  "id": 790332851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.759256,39.339427,-94.759256,39.339427",
+    "geom:latitude":39.339427,
+    "geom:longitude":-94.759256,
+    "iso:country":"US",
+    "sg:address":"15505 NW 136th St",
+    "sg:city":"Platte City",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 858 4472",
+    "sg:postcode":"64079",
+    "sg:province":"MO",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970739,
+        102085271,
+        85823759
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_45C9XL9yyY7SSvE6qmV38R_39.339427_-94.759256@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462595012,
+    "wof:geomhash":"85f0b87defe31bfb3500c92b4957b560",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085271,
+            "locality_id":85970739,
+            "neighbourhood_id":85823759,
+            "region_id":85688661,
+            "venue_id":790332851
+        }
+    ],
+    "wof:id":790332851,
+    "wof:lastmodified":1462595012,
+    "wof:name":"Wise Trucking",
+    "wof:parent_id":85823759,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -94.759256,
+    39.339427,
+    -94.759256,
+    39.339427
+],
+  "geometry": {"coordinates":[-94.75925599999999,39.339427],"type":"Point"}
+}

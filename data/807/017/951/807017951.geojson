@@ -1,0 +1,71 @@
+{
+  "id": 807017951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.362377,39.37067,-94.362377,39.37067",
+    "geom:latitude":39.37067,
+    "geom:longitude":-94.362377,
+    "iso:country":"US",
+    "sg:address":"301 S Jefferson St",
+    "sg:city":"Kearney",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 628 6868",
+    "sg:postcode":"64060",
+    "sg:province":"MO",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971507,
+        102086177,
+        85812855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ysmOkgOj1XGBQFQ7B4ST6_39.370421_-94.362322@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1462603010,
+    "wof:geomhash":"a32ef57b7b41954be30c5de36479770f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086177,
+            "locality_id":85971507,
+            "neighbourhood_id":85812855,
+            "region_id":85688661,
+            "venue_id":807017951
+        }
+    ],
+    "wof:id":807017951,
+    "wof:lastmodified":1462603010,
+    "wof:name":"W R Reed Dds",
+    "wof:parent_id":85812855,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -94.362377,
+    39.37067,
+    -94.362377,
+    39.37067
+],
+  "geometry": {"coordinates":[-94.362377,39.37067],"type":"Point"}
+}

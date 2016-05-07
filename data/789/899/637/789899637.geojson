@@ -1,0 +1,75 @@
+{
+  "id": 789899637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.354362,39.367805,-94.354362,39.367805",
+    "geom:latitude":39.367805,
+    "geom:longitude":-94.354362,
+    "iso:country":"US",
+    "sg:address":"600 State Hwy 92",
+    "sg:city":"Kearney",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 628 6101",
+    "sg:postcode":"64060",
+    "sg:province":"MO",
+    "sg:tags":[
+        "plaza",
+        "truck",
+        "stops"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971507,
+        102086177,
+        85812855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3mGI6wAnQVsPma4RyClY61_39.367805_-94.354362@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462591443,
+    "wof:geomhash":"86f7bbec755cc3104770d41c2c41fd40",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086177,
+            "locality_id":85971507,
+            "neighbourhood_id":85812855,
+            "region_id":85688661,
+            "venue_id":789899637
+        }
+    ],
+    "wof:id":789899637,
+    "wof:lastmodified":1462591443,
+    "wof:name":"Kearney Truck Plaza",
+    "wof:parent_id":85812855,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plaza",
+        "truck",
+        "stops"
+    ]
+},
+  "bbox": [
+    -94.354362,
+    39.367805,
+    -94.354362,
+    39.367805
+],
+  "geometry": {"coordinates":[-94.35436199999999,39.367805],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 806502335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.704347,38.808615,-90.704347,38.808615",
+    "geom:latitude":38.808615,
+    "geom:longitude":-90.704347,
+    "iso:country":"US",
+    "sg:address":"400 Church St",
+    "sg:city":"O Fallon",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 240 1050",
+    "sg:postcode":"63366",
+    "sg:province":"MO",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_52pqARQ2XvTGrPGN2CCxcO_38.808615_-90.704347@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462598649,
+    "wof:geomhash":"89adc7664bcff220943e7d292bda589f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":806502335
+        }
+    ],
+    "wof:id":806502335,
+    "wof:lastmodified":1462598649,
+    "wof:name":"Hillside Auto Repair",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -90.704347,
+    38.808615,
+    -90.704347,
+    38.808615
+],
+  "geometry": {"coordinates":[-90.704347,38.808615],"type":"Point"}
+}

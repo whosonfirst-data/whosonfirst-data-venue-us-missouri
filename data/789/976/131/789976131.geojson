@@ -1,0 +1,66 @@
+{
+  "id": 789976131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.56177,38.796783,-90.56177,38.796783",
+    "geom:latitude":38.796783,
+    "geom:longitude":-90.56177,
+    "iso:country":"US",
+    "sg:address":"3401 Harry S Truman Blvd",
+    "sg:city":"St Charles",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 946 0669",
+    "sg:postcode":"63301",
+    "sg:province":"MO",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3GjsGMEtsBw0QJ3es2BjMm_38.796783_-90.561770@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462592138,
+    "wof:geomhash":"28f33e8ee01f0125f0ebaf256b234181",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":789976131
+        }
+    ],
+    "wof:id":789976131,
+    "wof:lastmodified":1462592138,
+    "wof:name":"Convenient Food Mart",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.56177,
+    38.796783,
+    -90.56177,
+    38.796783
+],
+  "geometry": {"coordinates":[-90.56177,38.796783],"type":"Point"}
+}

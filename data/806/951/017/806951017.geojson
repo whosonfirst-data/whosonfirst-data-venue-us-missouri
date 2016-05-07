@@ -1,0 +1,74 @@
+{
+  "id": 806951017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.379301,38.413176,-90.379301,38.413176",
+    "geom:latitude":38.413176,
+    "geom:longitude":-90.379301,
+    "iso:country":"US",
+    "sg:address":"3520 Jeffco Blvd",
+    "sg:city":"Arnold",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Surveying",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 894 7055",
+    "sg:postcode":"63010",
+    "sg:province":"MO",
+    "sg:tags":[
+        "engineer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85805175,
+        102080787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3srHilyg71Q9O5P8mr0dYX_38.413176_-90.379301@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462602450,
+    "wof:geomhash":"6bf3e8f1b3a4c4e7c02f336b889baad7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080787,
+            "neighbourhood_id":85805175,
+            "region_id":85688661,
+            "venue_id":806951017
+        }
+    ],
+    "wof:id":806951017,
+    "wof:lastmodified":1462602450,
+    "wof:name":"Fribis Engineering Inc",
+    "wof:parent_id":85805175,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "engineer"
+    ]
+},
+  "bbox": [
+    -90.379301,
+    38.413176,
+    -90.379301,
+    38.413176
+],
+  "geometry": {"coordinates":[-90.379301,38.413176],"type":"Point"}
+}

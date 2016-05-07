@@ -1,0 +1,89 @@
+{
+  "id": 807103239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.624399,38.662904,-90.624399,38.662904",
+    "geom:latitude":38.662904,
+    "geom:longitude":-90.624399,
+    "iso:country":"US",
+    "sg:address":"527 Trade Center Blvd",
+    "sg:city":"Chesterfield",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 449 0133",
+    "sg:postcode":"63005",
+    "sg:province":"MO",
+    "sg:tags":[
+        "machine",
+        "automobile",
+        "machinery-rebuild"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85834749,
+        102191575,
+        404517241,
+        85633793,
+        85972357,
+        102086173,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_77AcSPVKp2DcHPzKqzaXFS_38.662904_-90.624399@1303262924"
+    },
+    "wof:country":"US",
+    "wof:created":1462603766,
+    "wof:geomhash":"4ce98d7a84f9f581ef63211b4478ffce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086173,
+            "localadmin_id":404517241,
+            "locality_id":85972357,
+            "neighbourhood_id":85834749,
+            "region_id":85688661,
+            "venue_id":807103239
+        }
+    ],
+    "wof:id":807103239,
+    "wof:lastmodified":1462603766,
+    "wof:name":"Fab Lab Inc",
+    "wof:parent_id":85834749,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "automobile",
+        "machinery-rebuild"
+    ]
+},
+  "bbox": [
+    -90.624399,
+    38.662904,
+    -90.624399,
+    38.662904
+],
+  "geometry": {"coordinates":[-90.624399,38.662904],"type":"Point"}
+}

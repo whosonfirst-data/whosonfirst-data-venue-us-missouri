@@ -1,0 +1,73 @@
+{
+  "id": 773508955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.418605,37.238682,-93.418605,37.238682",
+    "geom:latitude":37.238682,
+    "geom:longitude":-93.418605,
+    "iso:country":"US",
+    "sg:address":"2101 N Farm Rd 101",
+    "sg:city":"Springfield",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Catalog Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 882 1141",
+    "sg:postcode":"65802",
+    "sg:province":"MO",
+    "sg:tags":[
+        "magazine",
+        "book"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971363,
+        102087523,
+        85881139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6uef1aiNcOz68Lli8F6HpP_37.238682_-93.418605@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462586265,
+    "wof:geomhash":"e54fa23be7fa70db3fce64914f6d5fa0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087523,
+            "locality_id":85971363,
+            "neighbourhood_id":85881139,
+            "region_id":85688661,
+            "venue_id":773508955
+        }
+    ],
+    "wof:id":773508955,
+    "wof:lastmodified":1462586265,
+    "wof:name":"Heritage Book Store",
+    "wof:parent_id":85881139,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "magazine",
+        "book"
+    ]
+},
+  "bbox": [
+    -93.418605,
+    37.238682,
+    -93.418605,
+    37.238682
+],
+  "geometry": {"coordinates":[-93.418605,37.238682],"type":"Point"}
+}

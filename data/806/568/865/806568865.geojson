@@ -1,0 +1,71 @@
+{
+  "id": 806568865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.527077,38.779221,-90.527077,38.779221",
+    "geom:latitude":38.779221,
+    "geom:longitude":-90.527077,
+    "iso:country":"US",
+    "sg:address":"1105 King Dr",
+    "sg:city":"Saint Charles",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Telephone",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 940 7201",
+    "sg:postcode":"63303",
+    "sg:province":"MO",
+    "sg:tags":[
+        "communications"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5iNzqELUbvZbZTz6GDQ1XB_38.779221_-90.527077@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462599196,
+    "wof:geomhash":"2cd68d041ed6770beb645de919a0f31a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":806568865
+        }
+    ],
+    "wof:id":806568865,
+    "wof:lastmodified":1462599196,
+    "wof:name":"Dan Hooten",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "communications"
+    ]
+},
+  "bbox": [
+    -90.527077,
+    38.779221,
+    -90.527077,
+    38.779221
+],
+  "geometry": {"coordinates":[-90.52707700000001,38.779221],"type":"Point"}
+}

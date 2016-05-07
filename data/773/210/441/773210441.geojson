@@ -1,0 +1,75 @@
+{
+  "id": 773210441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.587299,36.89317,-94.587299,36.89317",
+    "geom:latitude":36.89317,
+    "geom:longitude":-94.587299,
+    "iso:country":"US",
+    "sg:address":"12250 State Hwy 43",
+    "sg:city":"Seneca",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 776 8350",
+    "sg:postcode":"64865",
+    "sg:province":"MO",
+    "sg:tags":[
+        "pet",
+        "boarding",
+        "sitting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971289,
+        102087471,
+        85814333
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0enYlcxJG9uK9tQb3eVYVs_36.893170_-94.587299@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462584000,
+    "wof:geomhash":"56e594abe46f4c1761401e6454f1e60c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087471,
+            "locality_id":85971289,
+            "neighbourhood_id":85814333,
+            "region_id":85688661,
+            "venue_id":773210441
+        }
+    ],
+    "wof:id":773210441,
+    "wof:lastmodified":1462584000,
+    "wof:name":"Bond's Kennels",
+    "wof:parent_id":85814333,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "boarding",
+        "sitting"
+    ]
+},
+  "bbox": [
+    -94.587299,
+    36.89317,
+    -94.587299,
+    36.89317
+],
+  "geometry": {"coordinates":[-94.587299,36.89317],"type":"Point"}
+}

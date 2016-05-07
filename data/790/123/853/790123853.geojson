@@ -1,0 +1,73 @@
+{
+  "id": 790123853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.730143,38.804051,-90.730143,38.804051",
+    "geom:latitude":38.804051,
+    "geom:longitude":-90.730143,
+    "iso:country":"US",
+    "sg:address":"1160 W Terra Ln",
+    "sg:city":"O Fallon",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 240 1661",
+    "sg:postcode":"63366",
+    "sg:province":"MO",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ld7LpbEAtgfYBu7DLnoSR_38.804051_-90.730143@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462593320,
+    "wof:geomhash":"4df0fdde8ac762cc41e4f7f1f82fae79",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":790123853
+        }
+    ],
+    "wof:id":790123853,
+    "wof:lastmodified":1462593320,
+    "wof:name":"Kirk's Electric Inc",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -90.730143,
+    38.804051,
+    -90.730143,
+    38.804051
+],
+  "geometry": {"coordinates":[-90.730143,38.804051],"type":"Point"}
+}

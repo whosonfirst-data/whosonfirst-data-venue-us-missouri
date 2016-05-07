@@ -1,0 +1,71 @@
+{
+  "id": 790274989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.53251,38.046821,-90.53251,38.046821",
+    "geom:latitude":38.046821,
+    "geom:longitude":-90.53251,
+    "iso:country":"US",
+    "sg:address":"4243 Old Rd",
+    "sg:city":"De Soto",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 586 3916",
+    "sg:postcode":"63020",
+    "sg:province":"MO",
+    "sg:tags":[
+        "laboratory",
+        "dental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85848677,
+        102080787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4d2ajwtwWzeBqkmhvchCUB_38.046821_-90.532510@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462594549,
+    "wof:geomhash":"864f74801eb53cf022c628c657b83556",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080787,
+            "neighbourhood_id":85848677,
+            "region_id":85688661,
+            "venue_id":790274989
+        }
+    ],
+    "wof:id":790274989,
+    "wof:lastmodified":1462594549,
+    "wof:name":"Custom Fit Dental Lab",
+    "wof:parent_id":85848677,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory",
+        "dental"
+    ]
+},
+  "bbox": [
+    -90.53251,
+    38.046821,
+    -90.53251,
+    38.046821
+],
+  "geometry": {"coordinates":[-90.53251,38.046821],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 773653417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.586454,38.80015,-90.586454,38.80015",
+    "geom:latitude":38.80015,
+    "geom:longitude":-90.586454,
+    "iso:country":"US",
+    "sg:address":"25 Cherokee Dr",
+    "sg:city":"Saint Peters",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 240 2345",
+    "sg:postcode":"63376",
+    "sg:province":"MO",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5nvEmXE82qNpRFrEdvHyDR_38.800150_-90.586454@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462587350,
+    "wof:geomhash":"5109373e30d1f4d187155bfb9b3acc2e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":773653417
+        }
+    ],
+    "wof:id":773653417,
+    "wof:lastmodified":1462587350,
+    "wof:name":"Commercial Fire Protection LLC",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -90.586454,
+    38.80015,
+    -90.586454,
+    38.80015
+],
+  "geometry": {"coordinates":[-90.586454,38.80015],"type":"Point"}
+}

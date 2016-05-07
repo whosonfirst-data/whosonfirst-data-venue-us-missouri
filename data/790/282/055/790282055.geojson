@@ -1,0 +1,73 @@
+{
+  "id": 790282055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.193221,38.552392,-92.193221,38.552392",
+    "geom:latitude":38.552392,
+    "geom:longitude":-92.193221,
+    "iso:country":"US",
+    "sg:address":"505 Ellis Blvd",
+    "sg:city":"Jefferson City",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 636 4141",
+    "sg:postcode":"65101",
+    "sg:province":"MO",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970647,
+        102087511,
+        85837745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0FgB3HHiltW6R7foJ0dLo6_38.552392_-92.193221@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462594625,
+    "wof:geomhash":"63f8afe0f46b53bea4aa642d7df4ffb4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087511,
+            "locality_id":85970647,
+            "neighbourhood_id":85837745,
+            "region_id":85688661,
+            "venue_id":790282055
+        }
+    ],
+    "wof:id":790282055,
+    "wof:lastmodified":1462594625,
+    "wof:name":"Broadmoor Apartments",
+    "wof:parent_id":85837745,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -92.193221,
+    38.552392,
+    -92.193221,
+    38.552392
+],
+  "geometry": {"coordinates":[-92.19322099999999,38.552392],"type":"Point"}
+}

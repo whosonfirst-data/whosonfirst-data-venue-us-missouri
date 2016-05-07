@@ -1,0 +1,75 @@
+{
+  "id": 773753965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.711979,39.294104,-94.711979,39.294104",
+    "geom:latitude":39.294104,
+    "geom:longitude":-94.711979,
+    "iso:country":"US",
+    "sg:address":"56 Beirut Cir",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Airline",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 243 6568",
+    "sg:postcode":"64153",
+    "sg:province":"MO",
+    "sg:tags":[
+        "scheduled",
+        "air"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102533051,
+        85688661,
+        85633793,
+        85970739,
+        102085271,
+        85851839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4xx9TvlMjJ2MgasUF4kcoF_39.294104_-94.711979@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462588125,
+    "wof:geomhash":"9f4dcd10e7b75eea999e1590dca43d76",
+    "wof:hierarchy":[
+        {
+            "campus_id":102533051,
+            "country_id":85633793,
+            "county_id":102085271,
+            "locality_id":85970739,
+            "neighbourhood_id":85851839,
+            "region_id":85688661,
+            "venue_id":773753965
+        }
+    ],
+    "wof:id":773753965,
+    "wof:lastmodified":1462588125,
+    "wof:name":"UAL Corporation",
+    "wof:parent_id":102533051,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "scheduled",
+        "air"
+    ]
+},
+  "bbox": [
+    -94.711979,
+    39.294104,
+    -94.711979,
+    39.294104
+],
+  "geometry": {"coordinates":[-94.711979,39.294104],"type":"Point"}
+}

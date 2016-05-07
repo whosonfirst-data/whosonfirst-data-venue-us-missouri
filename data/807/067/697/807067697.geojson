@@ -1,0 +1,76 @@
+{
+  "id": 807067697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.304779,38.473258,-90.304779,38.473258",
+    "geom:latitude":38.473258,
+    "geom:longitude":-90.304779,
+    "iso:country":"US",
+    "sg:address":"5453 Telegraph Rd",
+    "sg:city":"Saint Louis",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/oakville/195676-taco-bell/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 892 4412",
+    "sg:postcode":"63129",
+    "sg:province":"MO",
+    "sg:tags":[
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85885365,
+        102191575,
+        404517459,
+        85633793,
+        85972631,
+        102086173,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ZndkMjrzMgahxje5r0zek_38.473258_-90.304779@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462603428,
+    "wof:geomhash":"7951a7d9f9ed5b398dbc21a164e5701b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086173,
+            "localadmin_id":404517459,
+            "locality_id":85972631,
+            "neighbourhood_id":85885365,
+            "region_id":85688661,
+            "venue_id":807067697
+        }
+    ],
+    "wof:id":807067697,
+    "wof:lastmodified":1462603428,
+    "wof:name":"Taco Bell",
+    "wof:parent_id":85885365,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican"
+    ]
+},
+  "bbox": [
+    -90.304779,
+    38.473258,
+    -90.304779,
+    38.473258
+],
+  "geometry": {"coordinates":[-90.304779,38.473258],"type":"Point"}
+}

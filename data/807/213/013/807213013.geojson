@@ -1,0 +1,95 @@
+{
+  "id": 807213013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.379662,39.072151,-94.379662,39.072151",
+    "geom:latitude":39.072151,
+    "geom:longitude":-94.379662,
+    "iso:country":"US",
+    "sg:address":"16801 E Gudgell Rd",
+    "sg:city":"Independence",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        },
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Atm",
+            "type":"Services"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 373 7179",
+    "sg:postcode":"64055",
+    "sg:province":"MO",
+    "sg:tags":[
+        "money",
+        "location",
+        "order"
+    ],
+    "sg:website":"http://www.7-eleven.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85816457,
+        102191575,
+        404515661,
+        85633793,
+        85971449,
+        102081227,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ncGSJ413EsOKgIbl6XzNh_39.072151_-94.379662@1303262932"
+    },
+    "wof:country":"US",
+    "wof:created":1462604929,
+    "wof:geomhash":"0a9f6d303d0211d6b930ede4e0e429d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081227,
+            "localadmin_id":404515661,
+            "locality_id":85971449,
+            "neighbourhood_id":85816457,
+            "region_id":85688661,
+            "venue_id":807213013
+        }
+    ],
+    "wof:id":807213013,
+    "wof:lastmodified":1462604929,
+    "wof:name":"7-Eleven",
+    "wof:parent_id":85816457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "money",
+        "location",
+        "order"
+    ]
+},
+  "bbox": [
+    -94.379662,
+    39.072151,
+    -94.379662,
+    39.072151
+],
+  "geometry": {"coordinates":[-94.379662,39.072151],"type":"Point"}
+}

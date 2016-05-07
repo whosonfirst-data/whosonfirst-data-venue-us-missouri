@@ -1,0 +1,82 @@
+{
+  "id": 806953195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.475036,38.796803,-90.475036,38.796803",
+    "geom:latitude":38.796803,
+    "geom:longitude":-90.475036,
+    "iso:country":"US",
+    "sg:address":"205 Tecumseh St",
+    "sg:city":"St Charles",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 946 9122",
+    "sg:postcode":"63301",
+    "sg:province":"MO",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ueBEwdORXbj3WxShzy9Zx_38.796803_-90.475036@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462602471,
+    "wof:geomhash":"166c28b77e09d56fd98ac729abdbc1f7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":806953195
+        }
+    ],
+    "wof:id":806953195,
+    "wof:lastmodified":1462602471,
+    "wof:name":"Wiegmann Services",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -90.475036,
+    38.796803,
+    -90.475036,
+    38.796803
+],
+  "geometry": {"coordinates":[-90.475036,38.796803],"type":"Point"}
+}

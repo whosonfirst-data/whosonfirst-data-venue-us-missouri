@@ -1,0 +1,71 @@
+{
+  "id": 773099169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.378571,38.406392,-90.378571,38.406392",
+    "geom:latitude":38.406392,
+    "geom:longitude":-90.378571,
+    "iso:country":"US",
+    "sg:address":"3910 Jeffco Blvd",
+    "sg:city":"Arnold",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 464 4113",
+    "sg:postcode":"63010",
+    "sg:province":"MO",
+    "sg:tags":[
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85805175,
+        102080787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_52A1pkvd4AMnjb0zIXqgwH_38.406392_-90.378571@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462583146,
+    "wof:geomhash":"1d1178bb006b861af806c7fb9181cc56",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080787,
+            "neighbourhood_id":85805175,
+            "region_id":85688661,
+            "venue_id":773099169
+        }
+    ],
+    "wof:id":773099169,
+    "wof:lastmodified":1462583146,
+    "wof:name":"Coastal Mart Inc",
+    "wof:parent_id":85805175,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -90.378571,
+    38.406392,
+    -90.378571,
+    38.406392
+],
+  "geometry": {"coordinates":[-90.37857099999999,38.406392],"type":"Point"}
+}

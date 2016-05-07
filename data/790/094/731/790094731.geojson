@@ -1,0 +1,73 @@
+{
+  "id": 790094731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.430652,37.300054,-93.430652,37.300054",
+    "geom:latitude":37.300054,
+    "geom:longitude":-93.430652,
+    "iso:country":"US",
+    "sg:address":"416 S Main St",
+    "sg:city":"Willard",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 742 4386",
+    "sg:postcode":"65781",
+    "sg:province":"MO",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971363,
+        102087523,
+        85881139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3krZOWNUS4X1X8XOrPrrpk_37.300054_-93.430652@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462593088,
+    "wof:geomhash":"bad8fe4cab3d0ceaa836e669e2681a3d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087523,
+            "locality_id":85971363,
+            "neighbourhood_id":85881139,
+            "region_id":85688661,
+            "venue_id":790094731
+        }
+    ],
+    "wof:id":790094731,
+    "wof:lastmodified":1462593088,
+    "wof:name":"Apple Drive Apartments",
+    "wof:parent_id":85881139,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -93.430652,
+    37.300054,
+    -93.430652,
+    37.300054
+],
+  "geometry": {"coordinates":[-93.43065199999999,37.300054],"type":"Point"}
+}

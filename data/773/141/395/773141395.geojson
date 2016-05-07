@@ -1,0 +1,77 @@
+{
+  "id": 773141395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.280452,38.573856,-90.280452,38.573856",
+    "geom:latitude":38.573856,
+    "geom:longitude":-90.280452,
+    "iso:country":"US",
+    "sg:address":"6257 Gravois Ave",
+    "sg:city":"St Louis",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 353 1803",
+    "sg:postcode":"63116",
+    "sg:province":"MO",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873695,
+        102191575,
+        404518053,
+        85633793,
+        85971343,
+        102080791,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2zUpgoS8tQo1KNrfKzUY6Q_38.573856_-90.280452@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462583445,
+    "wof:geomhash":"b3163e5d4a529fe99dc4e29da4cc8df5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080791,
+            "localadmin_id":404518053,
+            "locality_id":85971343,
+            "neighbourhood_id":85873695,
+            "region_id":85688661,
+            "venue_id":773141395
+        }
+    ],
+    "wof:id":773141395,
+    "wof:lastmodified":1462583445,
+    "wof:name":"Akers Automotive Svc",
+    "wof:parent_id":85873695,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -90.280452,
+    38.573856,
+    -90.280452,
+    38.573856
+],
+  "geometry": {"coordinates":[-90.280452,38.573856],"type":"Point"}
+}

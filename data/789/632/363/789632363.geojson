@@ -1,0 +1,73 @@
+{
+  "id": 789632363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.296002,37.147669,-93.296002,37.147669",
+    "geom:latitude":37.147669,
+    "geom:longitude":-93.296002,
+    "iso:country":"US",
+    "sg:address":"3655 S Campbell Ave",
+    "sg:city":"Springfield",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 619 4568",
+    "sg:postcode":"65807",
+    "sg:province":"MO",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85881143,
+        102087523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4NBIiHUmyx6ZWcOmATcX3V_37.147669_-93.296002@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462589314,
+    "wof:geomhash":"3ea8e206984ba9fc5d6d3a065e7e1bcf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087523,
+            "neighbourhood_id":85881143,
+            "region_id":85688661,
+            "venue_id":789632363
+        }
+    ],
+    "wof:id":789632363,
+    "wof:lastmodified":1462589314,
+    "wof:name":"Auto Dent Sculpting Pro",
+    "wof:parent_id":85881143,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -93.296002,
+    37.147669,
+    -93.296002,
+    37.147669
+],
+  "geometry": {"coordinates":[-93.296002,37.147669],"type":"Point"}
+}

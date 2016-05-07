@@ -1,0 +1,73 @@
+{
+  "id": 789864317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.340999,37.197635,-93.340999,37.197635",
+    "geom:latitude":37.197635,
+    "geom:longitude":-93.340999,
+    "iso:country":"US",
+    "sg:address":"3105 W Grand St",
+    "sg:city":"Springfield",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 818 4454",
+    "sg:postcode":"65802",
+    "sg:province":"MO",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971363,
+        102087523,
+        85836941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0hGXdU4xHf9TqTeEaLultQ_37.197635_-93.340999@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462591142,
+    "wof:geomhash":"be712e6022af73b34dee876dce0dddc4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087523,
+            "locality_id":85971363,
+            "neighbourhood_id":85836941,
+            "region_id":85688661,
+            "venue_id":789864317
+        }
+    ],
+    "wof:id":789864317,
+    "wof:lastmodified":1462591142,
+    "wof:name":"Mike Hayden Contractor",
+    "wof:parent_id":85836941,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -93.340999,
+    37.197635,
+    -93.340999,
+    37.197635
+],
+  "geometry": {"coordinates":[-93.340999,37.197635],"type":"Point"}
+}

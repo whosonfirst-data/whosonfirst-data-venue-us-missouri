@@ -1,0 +1,72 @@
+{
+  "id": 807058583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.375939,38.400903,-90.375939,38.400903",
+    "geom:latitude":38.400903,
+    "geom:longitude":-90.375939,
+    "iso:country":"US",
+    "sg:address":"4 Village Plz",
+    "sg:city":"Arnold",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/windsor/148693-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 461 1006",
+    "sg:postcode":"63010",
+    "sg:province":"MO",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85805175,
+        102080787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Kl013P68yokMjzyyWgyZE_38.400903_-90.375939@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462603360,
+    "wof:geomhash":"32f7b691193f3605d388b8a348cce92f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080787,
+            "neighbourhood_id":85805175,
+            "region_id":85688661,
+            "venue_id":807058583
+        }
+    ],
+    "wof:id":807058583,
+    "wof:lastmodified":1462603360,
+    "wof:name":"Subway",
+    "wof:parent_id":85805175,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -90.375939,
+    38.400903,
+    -90.375939,
+    38.400903
+],
+  "geometry": {"coordinates":[-90.375939,38.400903],"type":"Point"}
+}

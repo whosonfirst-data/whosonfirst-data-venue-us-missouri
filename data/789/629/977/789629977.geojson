@@ -1,0 +1,71 @@
+{
+  "id": 789629977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.34543,37.20484,-93.34543,37.20484",
+    "geom:latitude":37.20484,
+    "geom:longitude":-93.34543,
+    "iso:country":"US",
+    "sg:address":"3405 W Mount Vernon St",
+    "sg:city":"Springfield",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 864 6473",
+    "sg:postcode":"65802",
+    "sg:province":"MO",
+    "sg:tags":[
+        "skilled"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971363,
+        102087523,
+        85836941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1fCK4OHm0bb9UnVgg3kLgx_37.204840_-93.345430@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462589292,
+    "wof:geomhash":"d8ff3095cb2f92d30afe09fd8f4fc725",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087523,
+            "locality_id":85971363,
+            "neighbourhood_id":85836941,
+            "region_id":85688661,
+            "venue_id":789629977
+        }
+    ],
+    "wof:id":789629977,
+    "wof:lastmodified":1462589292,
+    "wof:name":"West Park Manor",
+    "wof:parent_id":85836941,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "skilled"
+    ]
+},
+  "bbox": [
+    -93.34543,
+    37.20484,
+    -93.34543,
+    37.20484
+],
+  "geometry": {"coordinates":[-93.34542999999999,37.20484],"type":"Point"}
+}

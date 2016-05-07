@@ -1,0 +1,73 @@
+{
+  "id": 790367105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.803763,39.774134,-91.803763,39.774134",
+    "geom:latitude":39.774134,
+    "geom:longitude":-91.803763,
+    "iso:country":"US",
+    "sg:address":"905 State Hwy C",
+    "sg:city":"Monroe City",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 735 2506",
+    "sg:postcode":"63456",
+    "sg:province":"MO",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688697,
+        85633793,
+        85938427,
+        102086213,
+        85867477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_62p8blbNSlZR3ljqTCXU2w_39.774134_-91.803763@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462595283,
+    "wof:geomhash":"272327b44ac249eb513ada17e885d4eb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086213,
+            "locality_id":85938427,
+            "neighbourhood_id":85867477,
+            "region_id":85688697,
+            "venue_id":790367105
+        }
+    ],
+    "wof:id":790367105,
+    "wof:lastmodified":1462595283,
+    "wof:name":"Monroe City Family Practice",
+    "wof:parent_id":85867477,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -91.803763,
+    39.774134,
+    -91.803763,
+    39.774134
+],
+  "geometry": {"coordinates":[-91.803763,39.774134],"type":"Point"}
+}

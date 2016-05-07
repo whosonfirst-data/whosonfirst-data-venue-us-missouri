@@ -1,0 +1,75 @@
+{
+  "id": 806566349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.398613,37.774188,-90.398613,37.774188",
+    "geom:latitude":37.774188,
+    "geom:longitude":-90.398613,
+    "iso:country":"US",
+    "sg:address":"1180 Old Jackson Rd",
+    "sg:city":"Farmington",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 760 1700",
+    "sg:postcode":"63640",
+    "sg:province":"MO",
+    "sg:tags":[
+        "skilled",
+        "home",
+        "convalescent"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970665,
+        102085297,
+        85816309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Kv2GLYpMScd7DGShma5Ib_37.774188_-90.398613@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462599177,
+    "wof:geomhash":"1ff21354167681effcafb13693c7224c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085297,
+            "locality_id":85970665,
+            "neighbourhood_id":85816309,
+            "region_id":85688661,
+            "venue_id":806566349
+        }
+    ],
+    "wof:id":806566349,
+    "wof:lastmodified":1462599177,
+    "wof:name":"Saint Francois Manor Inc",
+    "wof:parent_id":85816309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "skilled",
+        "home",
+        "convalescent"
+    ]
+},
+  "bbox": [
+    -90.398613,
+    37.774188,
+    -90.398613,
+    37.774188
+],
+  "geometry": {"coordinates":[-90.398613,37.774188],"type":"Point"}
+}

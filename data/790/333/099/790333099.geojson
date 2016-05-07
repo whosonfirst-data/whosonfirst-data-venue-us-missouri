@@ -1,0 +1,73 @@
+{
+  "id": 790333099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.569087,38.800961,-90.569087,38.800961",
+    "geom:latitude":38.800961,
+    "geom:longitude":-90.569087,
+    "iso:country":"US",
+    "sg:address":"4174 Ehlmann Rd",
+    "sg:city":"Saint Peters",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 733 0808",
+    "sg:postcode":"63376",
+    "sg:province":"MO",
+    "sg:tags":[
+        "glass",
+        "replacement"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_508eglz7yKha0TJ41RZNI1_38.800961_-90.569087@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462595014,
+    "wof:geomhash":"fa3fddc262c2204c6e7ca7a821106cf6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":790333099
+        }
+    ],
+    "wof:id":790333099,
+    "wof:lastmodified":1462595014,
+    "wof:name":"Bachman Auto Glass LLC",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "glass",
+        "replacement"
+    ]
+},
+  "bbox": [
+    -90.569087,
+    38.800961,
+    -90.569087,
+    38.800961
+],
+  "geometry": {"coordinates":[-90.569087,38.800961],"type":"Point"}
+}

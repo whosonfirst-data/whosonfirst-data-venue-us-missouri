@@ -1,0 +1,87 @@
+{
+  "id": 807245437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.395751,36.807504,-94.395751,36.807504",
+    "geom:latitude":36.807504,
+    "geom:longitude":-94.395751,
+    "iso:country":"US",
+    "sg:address":"18702 Highway 59",
+    "sg:city":"Neosho",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Fuel Oil & Lpg",
+            "type":"Services"
+        },
+        {
+            "category":"Utilities",
+            "subcategory":"Natural Gas",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 466 4050",
+    "sg:postcode":"64850",
+    "sg:province":"MO",
+    "sg:tags":[
+        "propane",
+        "bulk",
+        "petroleum-bottled",
+        "gas-liquefied"
+    ],
+    "sg:website":"http://www.amerigas.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85821247,
+        102191575,
+        404517035,
+        85633793,
+        85971317,
+        102087471,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2T5gVXgfiz5LJV9ojwjaFF_36.807504_-94.395751@1303262934"
+    },
+    "wof:country":"US",
+    "wof:created":1462605280,
+    "wof:geomhash":"71b675e0ca002dcbe930c317eab71b1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087471,
+            "localadmin_id":404517035,
+            "locality_id":85971317,
+            "neighbourhood_id":85821247,
+            "region_id":85688661,
+            "venue_id":807245437
+        }
+    ],
+    "wof:id":807245437,
+    "wof:lastmodified":1462605280,
+    "wof:name":"Amerigas",
+    "wof:parent_id":85821247,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "propane",
+        "bulk",
+        "petroleum-bottled",
+        "gas-liquefied"
+    ]
+},
+  "bbox": [
+    -94.395751,
+    36.807504,
+    -94.395751,
+    36.807504
+],
+  "geometry": {"coordinates":[-94.395751,36.807504],"type":"Point"}
+}

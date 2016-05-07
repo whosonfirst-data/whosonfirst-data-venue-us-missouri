@@ -1,0 +1,81 @@
+{
+  "id": 806993385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.386745,38.409598,-90.386745,38.409598",
+    "geom:latitude":38.409598,
+    "geom:longitude":-90.386745,
+    "iso:country":"US",
+    "sg:address":"1930 Meyer Drury Dr",
+    "sg:city":"Arnold",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"College",
+            "type":"Public Place"
+        },
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 888 334 0337",
+    "sg:postcode":"63010",
+    "sg:province":"MO",
+    "sg:tags":[
+        "technical",
+        "academic",
+        "vocational",
+        "business"
+    ],
+    "sg:website":"http://stlouis.citysearch.com/profile/external/5706055/arnold_mo/itt_technical_institute.html?publisher=yellowpages&reference_id=1&placement=ypwebsitemip",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85805175,
+        102080787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0AqmDkV1Jllksbu7CEnlU8_38.410190_-90.387021@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1462602801,
+    "wof:geomhash":"7234d80ee24f5f33d02f303b862189b4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080787,
+            "neighbourhood_id":85805175,
+            "region_id":85688661,
+            "venue_id":806993385
+        }
+    ],
+    "wof:id":806993385,
+    "wof:lastmodified":1462602801,
+    "wof:name":"ITT TECHNICAL INSTITUTE",
+    "wof:parent_id":85805175,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "technical",
+        "academic",
+        "vocational",
+        "business"
+    ]
+},
+  "bbox": [
+    -90.386745,
+    38.409598,
+    -90.386745,
+    38.409598
+],
+  "geometry": {"coordinates":[-90.386745,38.409598],"type":"Point"}
+}

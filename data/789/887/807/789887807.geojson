@@ -1,0 +1,77 @@
+{
+  "id": 789887807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.589713,39.246281,-94.589713,39.246281",
+    "geom:latitude":39.246281,
+    "geom:longitude":-94.589713,
+    "iso:country":"US",
+    "sg:address":"403 NW Barry Rd",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 468 8996",
+    "sg:postcode":"64155",
+    "sg:province":"MO",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85804625,
+        102191575,
+        404518075,
+        85633793,
+        85970739,
+        102081227,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1X0o18r3QckRXVLCg4l3w6_39.246281_-94.589713@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462591352,
+    "wof:geomhash":"8ae105399c6c44bfbf264b08e8deb0a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081227,
+            "localadmin_id":404518075,
+            "locality_id":85970739,
+            "neighbourhood_id":85804625,
+            "region_id":85688661,
+            "venue_id":789887807
+        }
+    ],
+    "wof:id":789887807,
+    "wof:lastmodified":1462591352,
+    "wof:name":"Meineke Car Care Ctr",
+    "wof:parent_id":85804625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -94.589713,
+    39.246281,
+    -94.589713,
+    39.246281
+],
+  "geometry": {"coordinates":[-94.589713,39.246281],"type":"Point"}
+}

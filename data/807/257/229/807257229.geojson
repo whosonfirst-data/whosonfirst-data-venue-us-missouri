@@ -1,0 +1,78 @@
+{
+  "id": 807257229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.268251,38.97883,-92.268251,38.97883",
+    "geom:latitude":38.97883,
+    "geom:longitude":-92.268251,
+    "iso:country":"US",
+    "sg:address":"4601 Oakview Dr",
+    "sg:city":"Columbia",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 819 0801",
+    "sg:postcode":"65202",
+    "sg:province":"MO",
+    "sg:tags":[
+        "cleaner",
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970425,
+        102086187,
+        85851713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2waUFTTiVO6n345t4Mn9n0_38.978830_-92.268251@1303262935"
+    },
+    "wof:country":"US",
+    "wof:created":1462605403,
+    "wof:geomhash":"686c8d522a3115fb70d3412bd901770a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086187,
+            "locality_id":85970425,
+            "neighbourhood_id":85851713,
+            "region_id":85688661,
+            "venue_id":807257229
+        }
+    ],
+    "wof:id":807257229,
+    "wof:lastmodified":1462605403,
+    "wof:name":"Crystal House Cleaning",
+    "wof:parent_id":85851713,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaner",
+        "house"
+    ]
+},
+  "bbox": [
+    -92.268251,
+    38.97883,
+    -92.268251,
+    38.97883
+],
+  "geometry": {"coordinates":[-92.26825100000001,38.97883],"type":"Point"}
+}

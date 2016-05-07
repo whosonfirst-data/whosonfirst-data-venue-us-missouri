@@ -1,0 +1,71 @@
+{
+  "id": 773539247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.477602,38.798975,-90.477602,38.798975",
+    "geom:latitude":38.798975,
+    "geom:longitude":-90.477602,
+    "iso:country":"US",
+    "sg:address":"425 Transit St",
+    "sg:city":"St Charles",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 949 2777",
+    "sg:postcode":"63301",
+    "sg:province":"MO",
+    "sg:tags":[
+        "transmission"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1qFwmUESqRsQChIQZWN7eL_38.798975_-90.477602@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462586473,
+    "wof:geomhash":"370acd35fab9281349ad8e4596939517",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":773539247
+        }
+    ],
+    "wof:id":773539247,
+    "wof:lastmodified":1462586473,
+    "wof:name":"Gateway Transmission Supply",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission"
+    ]
+},
+  "bbox": [
+    -90.477602,
+    38.798975,
+    -90.477602,
+    38.798975
+],
+  "geometry": {"coordinates":[-90.477602,38.798975],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 789622259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.533741,39.148945,-94.533741,39.148945",
+    "geom:latitude":39.148945,
+    "geom:longitude":-94.533741,
+    "iso:country":"US",
+    "sg:address":"2604 NE Industrial Dr",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 471 1493",
+    "sg:postcode":"64117",
+    "sg:province":"MO",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85835371,
+        102191575,
+        404518075,
+        85633793,
+        85970739,
+        102081227,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0qbVCIaerw5KcW61cETH1h_39.148945_-94.533741@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462589237,
+    "wof:geomhash":"cf093cfc22a2f98bcf4e587a29dca6e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081227,
+            "localadmin_id":404518075,
+            "locality_id":85970739,
+            "neighbourhood_id":85835371,
+            "region_id":85688661,
+            "venue_id":789622259
+        }
+    ],
+    "wof:id":789622259,
+    "wof:lastmodified":1462589237,
+    "wof:name":"Directory Distributing Assoc",
+    "wof:parent_id":85835371,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -94.533741,
+    39.148945,
+    -94.533741,
+    39.148945
+],
+  "geometry": {"coordinates":[-94.53374100000001,39.148945],"type":"Point"}
+}

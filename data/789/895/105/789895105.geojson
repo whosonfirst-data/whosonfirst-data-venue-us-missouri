@@ -1,0 +1,74 @@
+{
+  "id": 789895105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.572987,38.794842,-90.572987,38.794842",
+    "geom:latitude":38.794842,
+    "geom:longitude":-90.572987,
+    "iso:country":"US",
+    "sg:address":"4104 N Cloverleaf Dr",
+    "sg:city":"St Peters",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 447 4414",
+    "sg:postcode":"63376",
+    "sg:province":"MO",
+    "sg:tags":[
+        "merchandise",
+        "furniture"
+    ],
+    "sg:website":"www.coats.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1h1W8p6SjuVTZB92Rwbrxl_38.794842_-90.572987@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462591406,
+    "wof:geomhash":"adfc661ec4d917e76127a07453f72c19",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":789895105
+        }
+    ],
+    "wof:id":789895105,
+    "wof:lastmodified":1462591406,
+    "wof:name":"Burlington Coat Factory",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "merchandise",
+        "furniture"
+    ]
+},
+  "bbox": [
+    -90.572987,
+    38.794842,
+    -90.572987,
+    38.794842
+],
+  "geometry": {"coordinates":[-90.572987,38.794842],"type":"Point"}
+}

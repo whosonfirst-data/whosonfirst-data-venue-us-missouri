@@ -1,0 +1,75 @@
+{
+  "id": 789888203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.428353,37.304896,-93.428353,37.304896",
+    "geom:latitude":37.304896,
+    "geom:longitude":-93.428353,
+    "iso:country":"US",
+    "sg:address":"108 W Jackson St",
+    "sg:city":"Willard",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 742 0467",
+    "sg:postcode":"65781",
+    "sg:province":"MO",
+    "sg:tags":[
+        "marking",
+        "maintenance",
+        "parking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971363,
+        102087523,
+        85881139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1h8RPh2AWPAifSpO8YvJce_37.304896_-93.428353@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462591354,
+    "wof:geomhash":"d79f0964aa0f8dd3590cd9ce9edc3bd9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087523,
+            "locality_id":85971363,
+            "neighbourhood_id":85881139,
+            "region_id":85688661,
+            "venue_id":789888203
+        }
+    ],
+    "wof:id":789888203,
+    "wof:lastmodified":1462591354,
+    "wof:name":"Willard Public Works Dept",
+    "wof:parent_id":85881139,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "marking",
+        "maintenance",
+        "parking"
+    ]
+},
+  "bbox": [
+    -93.428353,
+    37.304896,
+    -93.428353,
+    37.304896
+],
+  "geometry": {"coordinates":[-93.428353,37.304896],"type":"Point"}
+}

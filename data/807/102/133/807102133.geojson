@@ -1,0 +1,81 @@
+{
+  "id": 807102133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.295789,37.138895,-93.295789,37.138895",
+    "geom:latitude":37.138895,
+    "geom:longitude":-93.295789,
+    "iso:country":"US",
+    "sg:address":"4150 S Campbell Ave",
+    "sg:city":"Springfield",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Ice Cream",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/springfield/168095-dairy-queen/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 886 2253",
+    "sg:postcode":"65807",
+    "sg:province":"MO",
+    "sg:tags":[
+        "burger",
+        "american",
+        "ice",
+        "cream"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85881143,
+        102087523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1613nM1Go06HTxVgqXSogH_37.139070_-93.296250@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462603755,
+    "wof:geomhash":"bf9390a647466dc90045e9229d7bcf28",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087523,
+            "neighbourhood_id":85881143,
+            "region_id":85688661,
+            "venue_id":807102133
+        }
+    ],
+    "wof:id":807102133,
+    "wof:lastmodified":1462603755,
+    "wof:name":"Dairy Queen",
+    "wof:parent_id":85881143,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "ice",
+        "cream"
+    ]
+},
+  "bbox": [
+    -93.295789,
+    37.138895,
+    -93.295789,
+    37.138895
+],
+  "geometry": {"coordinates":[-93.295789,37.138895],"type":"Point"}
+}

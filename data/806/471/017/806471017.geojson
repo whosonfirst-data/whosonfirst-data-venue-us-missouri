@@ -1,0 +1,75 @@
+{
+  "id": 806471017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.532743,37.093242,-94.532743,37.093242",
+    "geom:latitude":37.093242,
+    "geom:longitude":-94.532743,
+    "iso:country":"US",
+    "sg:address":"1704 W B St",
+    "sg:city":"Joplin",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 781 9660",
+    "sg:postcode":"64801",
+    "sg:province":"MO",
+    "sg:tags":[
+        "renting",
+        "leasing",
+        "trailer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970893,
+        102087525,
+        85810925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6wzfzK8WgsRTdKzclWsFup_37.093242_-94.532743@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462598396,
+    "wof:geomhash":"3a9f1945ce9203b7974f96c29efdac27",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087525,
+            "locality_id":85970893,
+            "neighbourhood_id":85810925,
+            "region_id":85688661,
+            "venue_id":806471017
+        }
+    ],
+    "wof:id":806471017,
+    "wof:lastmodified":1462598396,
+    "wof:name":"U-Haul Co",
+    "wof:parent_id":85810925,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "leasing",
+        "trailer"
+    ]
+},
+  "bbox": [
+    -94.532743,
+    37.093242,
+    -94.532743,
+    37.093242
+],
+  "geometry": {"coordinates":[-94.532743,37.093242],"type":"Point"}
+}

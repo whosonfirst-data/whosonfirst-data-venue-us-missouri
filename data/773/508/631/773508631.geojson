@@ -1,0 +1,78 @@
+{
+  "id": 773508631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.229929,38.713955,-90.229929,38.713955",
+    "geom:latitude":38.713955,
+    "geom:longitude":-90.229929,
+    "iso:country":"US",
+    "sg:address":"8390 N Broadway",
+    "sg:city":"St Louis",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 381 2881",
+    "sg:postcode":"63147",
+    "sg:province":"MO",
+    "sg:tags":[
+        "postal",
+        "us"
+    ],
+    "sg:website":"www.usps.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85804181,
+        102191575,
+        404518053,
+        85633793,
+        85971343,
+        102080791,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4rg4uzAtPnrC9LKV7AA6sG_38.713955_-90.229929@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462586263,
+    "wof:geomhash":"af1277369046751f7bc25015de39e1c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080791,
+            "localadmin_id":404518053,
+            "locality_id":85971343,
+            "neighbourhood_id":85804181,
+            "region_id":85688661,
+            "venue_id":773508631
+        }
+    ],
+    "wof:id":773508631,
+    "wof:lastmodified":1462586263,
+    "wof:name":"US Post Office",
+    "wof:parent_id":85804181,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "postal",
+        "us"
+    ]
+},
+  "bbox": [
+    -90.229929,
+    38.713955,
+    -90.229929,
+    38.713955
+],
+  "geometry": {"coordinates":[-90.229929,38.713955],"type":"Point"}
+}

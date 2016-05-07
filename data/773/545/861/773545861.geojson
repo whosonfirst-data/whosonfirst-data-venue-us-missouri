@@ -1,0 +1,73 @@
+{
+  "id": 773545861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.400266,38.497482,-90.400266,38.497482",
+    "geom:latitude":38.497482,
+    "geom:longitude":-90.400266,
+    "iso:country":"US",
+    "sg:address":"5544 Robert Wood Dr",
+    "sg:city":"St Louis",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 842 0327",
+    "sg:postcode":"63128",
+    "sg:province":"MO",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971021,
+        102080787,
+        85832925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ClOEiq2VuFLQBUAknGNTJ_38.497482_-90.400266@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462586533,
+    "wof:geomhash":"9d2c41f96d564f01376277759b6f855f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080787,
+            "locality_id":85971021,
+            "neighbourhood_id":85832925,
+            "region_id":85688661,
+            "venue_id":773545861
+        }
+    ],
+    "wof:id":773545861,
+    "wof:lastmodified":1462586533,
+    "wof:name":"Krause Surgical Corp",
+    "wof:parent_id":85832925,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -90.400266,
+    38.497482,
+    -90.400266,
+    38.497482
+],
+  "geometry": {"coordinates":[-90.400266,38.497482],"type":"Point"}
+}

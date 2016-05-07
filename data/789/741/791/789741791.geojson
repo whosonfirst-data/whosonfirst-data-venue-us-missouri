@@ -1,0 +1,75 @@
+{
+  "id": 789741791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.775927,37.911754,-91.775927,37.911754",
+    "geom:latitude":37.911754,
+    "geom:longitude":-91.775927,
+    "iso:country":"US",
+    "sg:address":"12975 US Hwy 63",
+    "sg:city":"Rolla",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 341 3828",
+    "sg:postcode":"65401",
+    "sg:province":"MO",
+    "sg:tags":[
+        "car",
+        "used",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970821,
+        102086893,
+        85814531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4VofPZ8bjXqqFnlNXY36Kg_37.911754_-91.775927@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462590190,
+    "wof:geomhash":"10875408518f525da61f4309578ff5e7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086893,
+            "locality_id":85970821,
+            "neighbourhood_id":85814531,
+            "region_id":85688661,
+            "venue_id":789741791
+        }
+    ],
+    "wof:id":789741791,
+    "wof:lastmodified":1462590190,
+    "wof:name":"Tim's Used Cars",
+    "wof:parent_id":85814531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "used",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -91.775927,
+    37.911754,
+    -91.775927,
+    37.911754
+],
+  "geometry": {"coordinates":[-91.775927,37.911754],"type":"Point"}
+}

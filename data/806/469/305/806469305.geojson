@@ -1,0 +1,75 @@
+{
+  "id": 806469305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.586303,39.994336,-92.586303,39.994336",
+    "geom:latitude":39.994336,
+    "geom:longitude":-92.586303,
+    "iso:country":"US",
+    "sg:address":"24095 Iris St",
+    "sg:city":"La Plata",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Livestock Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 660 332 7567",
+    "sg:postcode":"63549",
+    "sg:province":"MO",
+    "sg:tags":[
+        "beef",
+        "feedlot",
+        "cattle"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971149,
+        102086189,
+        85821499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5aYurs3WESoghMSag8Jhha_39.994336_-92.586303@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462598384,
+    "wof:geomhash":"995c3aca4126fa07ee6ffeca93aec013",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086189,
+            "locality_id":85971149,
+            "neighbourhood_id":85821499,
+            "region_id":85688661,
+            "venue_id":806469305
+        }
+    ],
+    "wof:id":806469305,
+    "wof:lastmodified":1462598384,
+    "wof:name":"Henry Hall",
+    "wof:parent_id":85821499,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "beef",
+        "feedlot",
+        "cattle"
+    ]
+},
+  "bbox": [
+    -92.586303,
+    39.994336,
+    -92.586303,
+    39.994336
+],
+  "geometry": {"coordinates":[-92.586303,39.994336],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 789697501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.181474,38.583467,-92.181474,38.583467",
+    "geom:latitude":38.583467,
+    "geom:longitude":-92.181474,
+    "iso:country":"US",
+    "sg:address":"701 W High St",
+    "sg:city":"Jefferson City",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 636 5996",
+    "sg:postcode":"65101",
+    "sg:province":"MO",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970647,
+        102087511,
+        85837745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3czQKfyNGyyfkGx0OZteMc_38.583467_-92.181474@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462589841,
+    "wof:geomhash":"9a2ad19e3b54e9b637e115cbe5d7001d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087511,
+            "locality_id":85970647,
+            "neighbourhood_id":85837745,
+            "region_id":85688661,
+            "venue_id":789697501
+        }
+    ],
+    "wof:id":789697501,
+    "wof:lastmodified":1462589841,
+    "wof:name":"Mark D Winton MD",
+    "wof:parent_id":85837745,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -92.181474,
+    38.583467,
+    -92.181474,
+    38.583467
+],
+  "geometry": {"coordinates":[-92.18147399999999,38.583467],"type":"Point"}
+}

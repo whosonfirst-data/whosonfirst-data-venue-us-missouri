@@ -1,0 +1,78 @@
+{
+  "id": 807065285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.261647,38.643871,-90.261647,38.643871",
+    "geom:latitude":38.643871,
+    "geom:longitude":-90.261647,
+    "iso:country":"US",
+    "sg:address":"226 N Euclid Ave",
+    "sg:city":"Saint Louis",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/st-louis/35799-cecil-whitakers-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 367 5300",
+    "sg:postcode":"63108",
+    "sg:province":"MO",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85867031,
+        102191575,
+        404518053,
+        85633793,
+        85971343,
+        102080791,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Ym7CSSxfwBNLxJxO3ZwyM_38.643871_-90.261647@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462603410,
+    "wof:geomhash":"2c301db8fe02b04d978d5e1bcb410864",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080791,
+            "localadmin_id":404518053,
+            "locality_id":85971343,
+            "neighbourhood_id":85867031,
+            "region_id":85688661,
+            "venue_id":807065285
+        }
+    ],
+    "wof:id":807065285,
+    "wof:lastmodified":1462603410,
+    "wof:name":"Cecil Whitakers Pizza",
+    "wof:parent_id":85867031,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -90.261647,
+    38.643871,
+    -90.261647,
+    38.643871
+],
+  "geometry": {"coordinates":[-90.261647,38.643871],"type":"Point"}
+}

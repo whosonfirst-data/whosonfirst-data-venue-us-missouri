@@ -1,0 +1,71 @@
+{
+  "id": 789793807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.568262,39.296922,-94.568262,39.296922",
+    "geom:latitude":39.296922,
+    "geom:longitude":-94.568262,
+    "iso:country":"US",
+    "sg:address":"1001 NE 112th Ter",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 734 5466",
+    "sg:postcode":"64155",
+    "sg:province":"MO",
+    "sg:tags":[
+        "limousine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970739,
+        102086177,
+        85836329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0dNY1Oyfbwl4okzOcIekKk_39.296922_-94.568262@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462590593,
+    "wof:geomhash":"b91af01c6fe81f58ea341750d216ffde",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086177,
+            "locality_id":85970739,
+            "neighbourhood_id":85836329,
+            "region_id":85688661,
+            "venue_id":789793807
+        }
+    ],
+    "wof:id":789793807,
+    "wof:lastmodified":1462590593,
+    "wof:name":"Kansas City Corporate Coach",
+    "wof:parent_id":85836329,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "limousine"
+    ]
+},
+  "bbox": [
+    -94.568262,
+    39.296922,
+    -94.568262,
+    39.296922
+],
+  "geometry": {"coordinates":[-94.568262,39.296922],"type":"Point"}
+}

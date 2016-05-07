@@ -1,0 +1,71 @@
+{
+  "id": 789940425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.908158,38.796565,-90.908158,38.796565",
+    "geom:latitude":38.796565,
+    "geom:longitude":-90.908158,
+    "iso:country":"US",
+    "sg:address":"1232 S Pointe Prairie Rd",
+    "sg:city":"Wentzville",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Developer",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 327 4657",
+    "sg:postcode":"63385",
+    "sg:province":"MO",
+    "sg:tags":[
+        "cemetery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_40GYNnh1eBYyF4UQGZPIbi_38.796565_-90.908158@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462591790,
+    "wof:geomhash":"c153db0f55d144c3e52c6af31984b1de",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":789940425
+        }
+    ],
+    "wof:id":789940425,
+    "wof:lastmodified":1462591790,
+    "wof:name":"South Linn Cemetery",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cemetery"
+    ]
+},
+  "bbox": [
+    -90.908158,
+    38.796565,
+    -90.908158,
+    38.796565
+],
+  "geometry": {"coordinates":[-90.908158,38.796565],"type":"Point"}
+}

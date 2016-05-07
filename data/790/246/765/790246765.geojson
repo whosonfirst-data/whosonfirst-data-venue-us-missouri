@@ -1,0 +1,71 @@
+{
+  "id": 790246765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.525471,39.800389,-91.525471,39.800389",
+    "geom:latitude":39.800389,
+    "geom:longitude":-91.525471,
+    "iso:country":"US",
+    "sg:address":"120 N Spring St",
+    "sg:city":"Palmyra",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 769 3430",
+    "sg:postcode":"63461",
+    "sg:province":"MO",
+    "sg:tags":[
+        "blacksmith"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688697,
+        85633793,
+        85938427,
+        102086213,
+        85867477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0oj1bM5N5DNcqv2vI8lgCK_39.800389_-91.525471@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462594308,
+    "wof:geomhash":"a5f55a2a33101d3b1ecacb59d80fd438",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086213,
+            "locality_id":85938427,
+            "neighbourhood_id":85867477,
+            "region_id":85688697,
+            "venue_id":790246765
+        }
+    ],
+    "wof:id":790246765,
+    "wof:lastmodified":1462594308,
+    "wof:name":"Schaeffer's Blacksmith",
+    "wof:parent_id":85867477,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "blacksmith"
+    ]
+},
+  "bbox": [
+    -91.525471,
+    39.800389,
+    -91.525471,
+    39.800389
+],
+  "geometry": {"coordinates":[-91.525471,39.800389],"type":"Point"}
+}

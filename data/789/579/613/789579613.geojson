@@ -1,0 +1,78 @@
+{
+  "id": 789579613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.472764,38.930503,-90.472764,38.930503",
+    "geom:latitude":38.930503,
+    "geom:longitude":-90.472764,
+    "iso:country":"US",
+    "sg:address":"6171 Hwy V",
+    "sg:city":"St Charles",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Boat Sales",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 250 3500",
+    "sg:postcode":"63301",
+    "sg:province":"MO",
+    "sg:tags":[
+        "yacht",
+        "broker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1BWW2FsP4IECIQYOPtGQuQ_38.930503_-90.472764@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462588900,
+    "wof:geomhash":"a0de45ef21128c93f6c47d6404cee18f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":789579613
+        }
+    ],
+    "wof:id":789579613,
+    "wof:lastmodified":1462588900,
+    "wof:name":"Safe Harbor Yacht Sales",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "yacht",
+        "broker"
+    ]
+},
+  "bbox": [
+    -90.472764,
+    38.930503,
+    -90.472764,
+    38.930503
+],
+  "geometry": {"coordinates":[-90.472764,38.930503],"type":"Point"}
+}

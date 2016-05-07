@@ -1,0 +1,74 @@
+{
+  "id": 807091103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.752432,37.962619,-91.752432,37.962619",
+    "geom:latitude":37.962619,
+    "geom:longitude":-91.752432,
+    "iso:country":"US",
+    "sg:address":"1997 Forum Dr",
+    "sg:city":"Rolla",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/rolla/148617-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 426 5585",
+    "sg:postcode":"65401",
+    "sg:province":"MO",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970821,
+        102086893,
+        85814531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_37K6ntrSHkHHzmBMO8DqRe_37.962619_-91.752432@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462603628,
+    "wof:geomhash":"21ce47aced7396d52efa2dea1c07823d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086893,
+            "locality_id":85970821,
+            "neighbourhood_id":85814531,
+            "region_id":85688661,
+            "venue_id":807091103
+        }
+    ],
+    "wof:id":807091103,
+    "wof:lastmodified":1462603628,
+    "wof:name":"Subway",
+    "wof:parent_id":85814531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -91.752432,
+    37.962619,
+    -91.752432,
+    37.962619
+],
+  "geometry": {"coordinates":[-91.752432,37.962619],"type":"Point"}
+}

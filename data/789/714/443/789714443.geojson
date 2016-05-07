@@ -1,0 +1,73 @@
+{
+  "id": 789714443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.6813,38.803373,-90.6813,38.803373",
+    "geom:latitude":38.803373,
+    "geom:longitude":-90.6813,
+    "iso:country":"US",
+    "sg:address":"1055 E Terra Ln",
+    "sg:city":"O Fallon",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 272 6161",
+    "sg:postcode":"63366",
+    "sg:province":"MO",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3DGxCgtK0FvmqfjCifZgsk_38.803373_-90.681300@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462589970,
+    "wof:geomhash":"3ffa51317e0caae8d6f5da0d19cf082c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":789714443
+        }
+    ],
+    "wof:id":789714443,
+    "wof:lastmodified":1462589970,
+    "wof:name":"John Anzalone DO",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -90.6813,
+    38.803373,
+    -90.6813,
+    38.803373
+],
+  "geometry": {"coordinates":[-90.68129999999999,38.803373],"type":"Point"}
+}

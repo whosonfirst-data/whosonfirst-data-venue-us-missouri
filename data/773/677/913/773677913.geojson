@@ -1,0 +1,71 @@
+{
+  "id": 773677913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.362446,37.214145,-93.362446,37.214145",
+    "geom:latitude":37.214145,
+    "geom:longitude":-93.362446,
+    "iso:country":"US",
+    "sg:address":"505 N Orchard Crest Ave",
+    "sg:city":"Springfield",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 831 3116",
+    "sg:postcode":"65802",
+    "sg:province":"MO",
+    "sg:tags":[
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971363,
+        102087523,
+        85836941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_69ogvAO4zPDeNTcCRWCrI0_37.214145_-93.362446@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462587521,
+    "wof:geomhash":"561cd1b6dc56bea0c62ecf1f37908292",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087523,
+            "locality_id":85971363,
+            "neighbourhood_id":85836941,
+            "region_id":85688661,
+            "venue_id":773677913
+        }
+    ],
+    "wof:id":773677913,
+    "wof:lastmodified":1462587521,
+    "wof:name":"Pioneer Transport",
+    "wof:parent_id":85836941,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -93.362446,
+    37.214145,
+    -93.362446,
+    37.214145
+],
+  "geometry": {"coordinates":[-93.36244600000001,37.214145],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 789763787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.588077,38.794348,-90.588077,38.794348",
+    "geom:latitude":38.794348,
+    "geom:longitude":-90.588077,
+    "iso:country":"US",
+    "sg:address":"112 Piper Hills Dr",
+    "sg:city":"Saint Peters",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 928 1036",
+    "sg:postcode":"63376",
+    "sg:province":"MO",
+    "sg:tags":[
+        "specialty",
+        "outpatient"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5t8EEysl61FeAEeGPGTjfQ_38.794348_-90.588077@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462590358,
+    "wof:geomhash":"2a2eb325e22e1695ecd53812ae74fab9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":789763787
+        }
+    ],
+    "wof:id":789763787,
+    "wof:lastmodified":1462590358,
+    "wof:name":"HealthSouth",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "specialty",
+        "outpatient"
+    ]
+},
+  "bbox": [
+    -90.588077,
+    38.794348,
+    -90.588077,
+    38.794348
+],
+  "geometry": {"coordinates":[-90.588077,38.794348],"type":"Point"}
+}

@@ -1,0 +1,86 @@
+{
+  "id": 806490751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.398953,38.683952,-90.398953,38.683952",
+    "geom:latitude":38.683952,
+    "geom:longitude":-90.398953,
+    "iso:country":"US",
+    "sg:address":"10838 Ambassador Blvd",
+    "sg:city":"St Louis",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 994 7545",
+    "sg:postcode":"63132",
+    "sg:province":"MO",
+    "sg:tags":[
+        "drink",
+        "soft",
+        "related",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85803699,
+        102191575,
+        404517323,
+        85633793,
+        85972315,
+        102086173,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3s2nKoWNFWGJIMmS4TU1cb_38.683952_-90.398953@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462598548,
+    "wof:geomhash":"b3211b481b6d553a95387fd08e566911",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086173,
+            "localadmin_id":404517323,
+            "locality_id":85972315,
+            "neighbourhood_id":85803699,
+            "region_id":85688661,
+            "venue_id":806490751
+        }
+    ],
+    "wof:id":806490751,
+    "wof:lastmodified":1462598548,
+    "wof:name":"Cott Beverage Inc",
+    "wof:parent_id":85803699,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drink",
+        "soft",
+        "related",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -90.398953,
+    38.683952,
+    -90.398953,
+    38.683952
+],
+  "geometry": {"coordinates":[-90.39895300000001,38.683952],"type":"Point"}
+}

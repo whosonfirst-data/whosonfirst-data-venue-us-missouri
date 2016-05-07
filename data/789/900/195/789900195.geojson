@@ -1,0 +1,73 @@
+{
+  "id": 789900195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.029192,39.313879,-91.029192,39.313879",
+    "geom:latitude":39.313879,
+    "geom:longitude":-91.029192,
+    "iso:country":"US",
+    "sg:address":"24030 Pike 265",
+    "sg:city":"Clarksville",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 754 3239",
+    "sg:postcode":"63336",
+    "sg:province":"MO",
+    "sg:tags":[
+        "property",
+        "lessor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971907,
+        102086151,
+        85817909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3GDbZEcB4bjuo54F6JCcso_39.313879_-91.029192@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462591448,
+    "wof:geomhash":"e5fe7c4087070a20e48b742db83ab73b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086151,
+            "locality_id":85971907,
+            "neighbourhood_id":85817909,
+            "region_id":85688661,
+            "venue_id":789900195
+        }
+    ],
+    "wof:id":789900195,
+    "wof:lastmodified":1462591448,
+    "wof:name":"Charles Palmer",
+    "wof:parent_id":85817909,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "property",
+        "lessor"
+    ]
+},
+  "bbox": [
+    -91.029192,
+    39.313879,
+    -91.029192,
+    39.313879
+],
+  "geometry": {"coordinates":[-91.02919199999999,39.313879],"type":"Point"}
+}

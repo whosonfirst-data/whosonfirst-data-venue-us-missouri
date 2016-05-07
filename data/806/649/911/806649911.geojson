@@ -1,0 +1,73 @@
+{
+  "id": 806649911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.356149,39.367904,-94.356149,39.367904",
+    "geom:latitude":39.367904,
+    "geom:longitude":-94.356149,
+    "iso:country":"US",
+    "sg:address":"410 E 6th St",
+    "sg:city":"Kearney",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 628 4873",
+    "sg:postcode":"64060",
+    "sg:province":"MO",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971507,
+        102086177,
+        85812855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Qb8BVh7HySlNd1Yyi7wwU_39.367904_-94.356149@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462599905,
+    "wof:geomhash":"b6115c51d6b88de40e087024e5a302a7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086177,
+            "locality_id":85971507,
+            "neighbourhood_id":85812855,
+            "region_id":85688661,
+            "venue_id":806649911
+        }
+    ],
+    "wof:id":806649911,
+    "wof:lastmodified":1462599905,
+    "wof:name":"Wood-Way Storage",
+    "wof:parent_id":85812855,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [
+    -94.356149,
+    39.367904,
+    -94.356149,
+    39.367904
+],
+  "geometry": {"coordinates":[-94.356149,39.367904],"type":"Point"}
+}

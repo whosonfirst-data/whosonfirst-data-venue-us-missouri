@@ -1,0 +1,75 @@
+{
+  "id": 773634703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.31532,38.585476,-90.31532,38.585476",
+    "geom:latitude":38.585476,
+    "geom:longitude":-90.31532,
+    "iso:country":"US",
+    "sg:address":"7057 Chippewa St",
+    "sg:city":"St Louis",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 647 8180",
+    "sg:postcode":"63109",
+    "sg:province":"MO",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873685,
+        102191575,
+        404518053,
+        85633793,
+        85971343,
+        102080791,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1g0fxzIl3slh7jjk4kAaaw_38.585476_-90.315320@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462587207,
+    "wof:geomhash":"e1de9d4b61dd4fbead4253a6ef7fa597",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080791,
+            "localadmin_id":404518053,
+            "locality_id":85971343,
+            "neighbourhood_id":85873685,
+            "region_id":85688661,
+            "venue_id":773634703
+        }
+    ],
+    "wof:id":773634703,
+    "wof:lastmodified":1462587207,
+    "wof:name":"Schnucks",
+    "wof:parent_id":85873685,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -90.31532,
+    38.585476,
+    -90.31532,
+    38.585476
+],
+  "geometry": {"coordinates":[-90.31532,38.585476],"type":"Point"}
+}

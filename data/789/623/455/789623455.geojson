@@ -1,0 +1,71 @@
+{
+  "id": 789623455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.376426,39.367841,-94.376426,39.367841",
+    "geom:latitude":39.367841,
+    "geom:longitude":-94.376426,
+    "iso:country":"US",
+    "sg:address":"911 State Hwy 92",
+    "sg:city":"Kearney",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 903 3050",
+    "sg:postcode":"64060",
+    "sg:province":"MO",
+    "sg:tags":[
+        "loan"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971507,
+        102086177,
+        85812855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5GDABDxCKSyFNcu6SQyHbP_39.367841_-94.376426@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462589246,
+    "wof:geomhash":"6566ee4ec3ff8e6259cf64799116aef6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086177,
+            "locality_id":85971507,
+            "neighbourhood_id":85812855,
+            "region_id":85688661,
+            "venue_id":789623455
+        }
+    ],
+    "wof:id":789623455,
+    "wof:lastmodified":1462589246,
+    "wof:name":"First Missouri Lending",
+    "wof:parent_id":85812855,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "loan"
+    ]
+},
+  "bbox": [
+    -94.376426,
+    39.367841,
+    -94.376426,
+    39.367841
+],
+  "geometry": {"coordinates":[-94.376426,39.367841],"type":"Point"}
+}

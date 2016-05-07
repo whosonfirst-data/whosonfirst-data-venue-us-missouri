@@ -1,0 +1,72 @@
+{
+  "id": 807069765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.481508,38.780939,-90.481508,38.780939",
+    "geom:latitude":38.780939,
+    "geom:longitude":-90.481508,
+    "iso:country":"US",
+    "sg:address":"108 S Main St",
+    "sg:city":"Saint Charles",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/rivers/41904-frankie-toccos-pizzeria/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 947 7007",
+    "sg:postcode":"63301",
+    "sg:province":"MO",
+    "sg:tags":[
+        "italian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1o06GCa5T3VXkHAAo9CZbj_38.780939_-90.481508@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462603444,
+    "wof:geomhash":"7388416945531c01b286fd386237496e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":807069765
+        }
+    ],
+    "wof:id":807069765,
+    "wof:lastmodified":1462603444,
+    "wof:name":"Frankie Tocco's Pizzeria",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "italian"
+    ]
+},
+  "bbox": [
+    -90.481508,
+    38.780939,
+    -90.481508,
+    38.780939
+],
+  "geometry": {"coordinates":[-90.48150800000001,38.780939],"type":"Point"}
+}

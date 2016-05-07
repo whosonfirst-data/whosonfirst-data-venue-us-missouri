@@ -1,0 +1,77 @@
+{
+  "id": 807098835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.305142,39.032359,-94.305142,39.032359",
+    "geom:latitude":39.032359,
+    "geom:longitude":-94.305142,
+    "iso:country":"US",
+    "sg:address":"1515 NW Woods Chapel Rd",
+    "sg:city":"Blue Springs",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/sni-a-bar/194083-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"64015",
+    "sg:province":"MO",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85847737,
+        102191575,
+        404518081,
+        85633793,
+        85971453,
+        102081227,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5xouahZjcKUhmGgJWFttIR_39.032855_-94.305236@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462603708,
+    "wof:geomhash":"7763c24656f2e12e0a285a51861ba1cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081227,
+            "localadmin_id":404518081,
+            "locality_id":85971453,
+            "neighbourhood_id":85847737,
+            "region_id":85688661,
+            "venue_id":807098835
+        }
+    ],
+    "wof:id":807098835,
+    "wof:lastmodified":1462603708,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85847737,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -94.305142,
+    39.032359,
+    -94.305142,
+    39.032359
+],
+  "geometry": {"coordinates":[-94.305142,39.032359],"type":"Point"}
+}

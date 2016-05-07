@@ -1,0 +1,73 @@
+{
+  "id": 773490475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.43825,37.29997,-93.43825,37.29997",
+    "geom:latitude":37.29997,
+    "geom:longitude":-93.43825,
+    "iso:country":"US",
+    "sg:address":"400 Walnut Ln",
+    "sg:city":"Willard",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 742 3593",
+    "sg:postcode":"65781",
+    "sg:province":"MO",
+    "sg:tags":[
+        "home",
+        "convalescent"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971363,
+        102087523,
+        85881139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0d8MLlGmMeTCSp0S7oIsMZ_37.299970_-93.438250@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462586141,
+    "wof:geomhash":"bf12049c2faa99cacfe7e32902b44f00",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087523,
+            "locality_id":85971363,
+            "neighbourhood_id":85881139,
+            "region_id":85688661,
+            "venue_id":773490475
+        }
+    ],
+    "wof:id":773490475,
+    "wof:lastmodified":1462586141,
+    "wof:name":"Willard Care Ctr",
+    "wof:parent_id":85881139,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "convalescent"
+    ]
+},
+  "bbox": [
+    -93.43825,
+    37.29997,
+    -93.43825,
+    37.29997
+],
+  "geometry": {"coordinates":[-93.43825,37.29997],"type":"Point"}
+}

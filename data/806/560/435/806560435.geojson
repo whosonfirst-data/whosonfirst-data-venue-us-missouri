@@ -1,0 +1,73 @@
+{
+  "id": 806560435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.742487,39.354193,-94.742487,39.354193",
+    "geom:latitude":39.354193,
+    "geom:longitude":-94.742487,
+    "iso:country":"US",
+    "sg:address":"14205 State Hwy 92",
+    "sg:city":"Platte City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 858 3112",
+    "sg:postcode":"64079",
+    "sg:province":"MO",
+    "sg:tags":[
+        "hospital",
+        "animal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970739,
+        102085271,
+        85851839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3mHvZHdS876XIvvBUe8W2e_39.354193_-94.742487@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462599131,
+    "wof:geomhash":"9ffbd31a009f4740d546a3669e814803",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085271,
+            "locality_id":85970739,
+            "neighbourhood_id":85851839,
+            "region_id":85688661,
+            "venue_id":806560435
+        }
+    ],
+    "wof:id":806560435,
+    "wof:lastmodified":1462599131,
+    "wof:name":"Jackson Animal Clinic",
+    "wof:parent_id":85851839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hospital",
+        "animal"
+    ]
+},
+  "bbox": [
+    -94.742487,
+    39.354193,
+    -94.742487,
+    39.354193
+],
+  "geometry": {"coordinates":[-94.742487,39.354193],"type":"Point"}
+}

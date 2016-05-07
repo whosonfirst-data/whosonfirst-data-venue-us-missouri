@@ -1,0 +1,71 @@
+{
+  "id": 789876445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.51202,38.805619,-90.51202,38.805619",
+    "geom:latitude":38.805619,
+    "geom:longitude":-90.51202,
+    "iso:country":"US",
+    "sg:address":"124 Hunters Ridge Rd",
+    "sg:city":"Saint Charles",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 946 4949",
+    "sg:postcode":"63301",
+    "sg:province":"MO",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5JbK3SDqJrKQUbp177WcFd_38.805619_-90.512020@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462591247,
+    "wof:geomhash":"e51cf39cf6f42395cd405a7ade270468",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":789876445
+        }
+    ],
+    "wof:id":789876445,
+    "wof:lastmodified":1462591247,
+    "wof:name":"Laramie Drywall Inc",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -90.51202,
+    38.805619,
+    -90.51202,
+    38.805619
+],
+  "geometry": {"coordinates":[-90.51202000000001,38.805619],"type":"Point"}
+}

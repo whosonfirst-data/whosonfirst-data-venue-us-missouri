@@ -1,0 +1,73 @@
+{
+  "id": 789709961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.623138,38.803317,-90.623138,38.803317",
+    "geom:latitude":38.803317,
+    "geom:longitude":-90.623138,
+    "iso:country":"US",
+    "sg:address":"305 Depot St",
+    "sg:city":"St Peters",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Detective & Security Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 397 8639",
+    "sg:postcode":"63376",
+    "sg:province":"MO",
+    "sg:tags":[
+        "guard",
+        "patrol"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2k0kJlaG55Wf2POXLZvqKq_38.803317_-90.623138@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462589933,
+    "wof:geomhash":"6ca4216ea43a51cfb1c05c61b6e2424b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":789709961
+        }
+    ],
+    "wof:id":789709961,
+    "wof:lastmodified":1462589933,
+    "wof:name":"St Charles Security Svc Inc",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "guard",
+        "patrol"
+    ]
+},
+  "bbox": [
+    -90.623138,
+    38.803317,
+    -90.623138,
+    38.803317
+],
+  "geometry": {"coordinates":[-90.623138,38.803317],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 773703393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.485689,38.78074,-90.485689,38.78074",
+    "geom:latitude":38.78074,
+    "geom:longitude":-90.485689,
+    "iso:country":"US",
+    "sg:address":"300 First Capitol Dr",
+    "sg:city":"St Charles",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 621 3378",
+    "sg:postcode":"63301",
+    "sg:province":"MO",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1qTCJwtQwLZmk6U5puCKgJ_38.780740_-90.485689@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462587749,
+    "wof:geomhash":"6a7661352e34a46f55894a00d62d58a3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":773703393
+        }
+    ],
+    "wof:id":773703393,
+    "wof:lastmodified":1462587749,
+    "wof:name":"Munir I Malik MD",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -90.485689,
+    38.78074,
+    -90.485689,
+    38.78074
+],
+  "geometry": {"coordinates":[-90.48568899999999,38.78074],"type":"Point"}
+}

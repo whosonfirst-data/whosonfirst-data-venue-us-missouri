@@ -1,0 +1,73 @@
+{
+  "id": 789893405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.161129,37.327875,-93.161129,37.327875",
+    "geom:latitude":37.327875,
+    "geom:longitude":-93.161129,
+    "iso:country":"US",
+    "sg:address":"7338 N Farm Rd 209",
+    "sg:city":"Strafford",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 736 9552",
+    "sg:postcode":"65757",
+    "sg:province":"MO",
+    "sg:tags":[
+        "residential",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971363,
+        102087523,
+        85881137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5k0dbVLGtGsWL7WDrLrpu9_37.327875_-93.161129@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462591394,
+    "wof:geomhash":"377503b1b5ce3983429291290dbb40fb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087523,
+            "locality_id":85971363,
+            "neighbourhood_id":85881137,
+            "region_id":85688661,
+            "venue_id":789893405
+        }
+    ],
+    "wof:id":789893405,
+    "wof:lastmodified":1462591394,
+    "wof:name":"ABC Construction Inc",
+    "wof:parent_id":85881137,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -93.161129,
+    37.327875,
+    -93.161129,
+    37.327875
+],
+  "geometry": {"coordinates":[-93.161129,37.327875],"type":"Point"}
+}

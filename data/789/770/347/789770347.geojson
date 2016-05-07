@@ -1,0 +1,84 @@
+{
+  "id": 789770347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.231012,38.62495,-90.231012,38.62495",
+    "geom:latitude":38.62495,
+    "geom:longitude":-90.231012,
+    "iso:country":"US",
+    "sg:address":"3325 Chouteau Ave",
+    "sg:city":"St Louis",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Scrap",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 773 1777",
+    "sg:postcode":"63103",
+    "sg:province":"MO",
+    "sg:tags":[
+        "recycling",
+        "center",
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85867035,
+        102191575,
+        404518053,
+        85633793,
+        85971343,
+        102080791,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ovw1v8uWpZm1ZAlVNVEOa_38.624950_-90.231012@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462590404,
+    "wof:geomhash":"cfff8045a440eed7948bf312c6d369d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080791,
+            "localadmin_id":404518053,
+            "locality_id":85971343,
+            "neighbourhood_id":85867035,
+            "region_id":85688661,
+            "venue_id":789770347
+        }
+    ],
+    "wof:id":789770347,
+    "wof:lastmodified":1462590404,
+    "wof:name":"Can Man Recycling",
+    "wof:parent_id":85867035,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "recycling",
+        "center",
+        "system"
+    ]
+},
+  "bbox": [
+    -90.231012,
+    38.62495,
+    -90.231012,
+    38.62495
+],
+  "geometry": {"coordinates":[-90.23101200000001,38.62495],"type":"Point"}
+}

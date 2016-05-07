@@ -1,0 +1,71 @@
+{
+  "id": 789843473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.48622,38.782695,-90.48622,38.782695",
+    "geom:latitude":38.782695,
+    "geom:longitude":-90.48622,
+    "iso:country":"US",
+    "sg:address":"143 S 5th St",
+    "sg:city":"St Charles",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 946 3711",
+    "sg:postcode":"63301",
+    "sg:province":"MO",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4QUr09yQSv5bfrtcrkvfAS_38.782695_-90.486220@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462590977,
+    "wof:geomhash":"cef3f0fbeb2bd5af3dd0d4baa286444b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":789843473
+        }
+    ],
+    "wof:id":789843473,
+    "wof:lastmodified":1462590977,
+    "wof:name":"Fresh & Friendly Housekeeping",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -90.48622,
+    38.782695,
+    -90.48622,
+    38.782695
+],
+  "geometry": {"coordinates":[-90.48622,38.782695],"type":"Point"}
+}

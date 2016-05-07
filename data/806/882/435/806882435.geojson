@@ -1,0 +1,73 @@
+{
+  "id": 806882435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.781911,37.901379,-91.781911,37.901379",
+    "geom:latitude":37.901379,
+    "geom:longitude":-91.781911,
+    "iso:country":"US",
+    "sg:address":"13458 US Hwy 63",
+    "sg:city":"Rolla",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 364 5372",
+    "sg:postcode":"65401",
+    "sg:province":"MO",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970821,
+        102086893,
+        85814531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3T0s4EGh2fYUl8sv3MXIDv_37.901379_-91.781911@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462601874,
+    "wof:geomhash":"b5de49f5609bdad4778a20c046fb0dea",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086893,
+            "locality_id":85970821,
+            "neighbourhood_id":85814531,
+            "region_id":85688661,
+            "venue_id":806882435
+        }
+    ],
+    "wof:id":806882435,
+    "wof:lastmodified":1462601874,
+    "wof:name":"Lewis Garage",
+    "wof:parent_id":85814531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -91.781911,
+    37.901379,
+    -91.781911,
+    37.901379
+],
+  "geometry": {"coordinates":[-91.78191099999999,37.901379],"type":"Point"}
+}

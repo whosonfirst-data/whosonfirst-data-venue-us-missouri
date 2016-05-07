@@ -1,0 +1,75 @@
+{
+  "id": 773084335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.303147,38.74002,-90.303147,38.74002",
+    "geom:latitude":38.74002,
+    "geom:longitude":-90.303147,
+    "iso:country":"US",
+    "sg:address":"222 S Florissant Rd",
+    "sg:city":"Ferguson",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 524 5282",
+    "sg:postcode":"63135",
+    "sg:province":"MO",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85859027,
+        102191575,
+        404517247,
+        85633793,
+        85972205,
+        102086173,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2kfj4sGCo7FLmo3kTx0lbH_38.740020_-90.303147@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462583041,
+    "wof:geomhash":"aa23035fd6f6b6546279826b78671073",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086173,
+            "localadmin_id":404517247,
+            "locality_id":85972205,
+            "neighbourhood_id":85859027,
+            "region_id":85688661,
+            "venue_id":773084335
+        }
+    ],
+    "wof:id":773084335,
+    "wof:lastmodified":1462583041,
+    "wof:name":"Ferguson Police Records",
+    "wof:parent_id":85859027,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -90.303147,
+    38.74002,
+    -90.303147,
+    38.74002
+],
+  "geometry": {"coordinates":[-90.303147,38.74002],"type":"Point"}
+}

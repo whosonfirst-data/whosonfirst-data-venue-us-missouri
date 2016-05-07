@@ -1,0 +1,71 @@
+{
+  "id": 806927107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.147802,38.546947,-92.147802,38.546947",
+    "geom:latitude":38.546947,
+    "geom:longitude":-92.147802,
+    "iso:country":"US",
+    "sg:address":"2016 Schotthill Woods Dr",
+    "sg:city":"Jefferson City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 634 5045",
+    "sg:postcode":"65101",
+    "sg:province":"MO",
+    "sg:tags":[
+        "carwash"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970647,
+        102087511,
+        85837745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0osDeQiAB377iOMT2eZ6Tc_38.546947_-92.147802@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462602249,
+    "wof:geomhash":"0ce7b83f9b06e9e6473dec828b45f1f9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087511,
+            "locality_id":85970647,
+            "neighbourhood_id":85837745,
+            "region_id":85688661,
+            "venue_id":806927107
+        }
+    ],
+    "wof:id":806927107,
+    "wof:lastmodified":1462602249,
+    "wof:name":"East End Car Wash",
+    "wof:parent_id":85837745,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carwash"
+    ]
+},
+  "bbox": [
+    -92.147802,
+    38.546947,
+    -92.147802,
+    38.546947
+],
+  "geometry": {"coordinates":[-92.147802,38.546947],"type":"Point"}
+}

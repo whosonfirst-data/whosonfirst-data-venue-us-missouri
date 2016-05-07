@@ -1,0 +1,73 @@
+{
+  "id": 806488291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.358462,38.485775,-90.358462,38.485775",
+    "geom:latitude":38.485775,
+    "geom:longitude":-90.358462,
+    "iso:country":"US",
+    "sg:address":"4317 Butler Hill Rd",
+    "sg:city":"Saint Louis",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 487 0829",
+    "sg:postcode":"63128",
+    "sg:province":"MO",
+    "sg:tags":[
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971021,
+        102080787,
+        85832925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_29rURbr9RtMladBaq8SCh3_38.485775_-90.358462@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462598530,
+    "wof:geomhash":"3350b94e15c8ffa073dc8dd1394e2b6a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080787,
+            "locality_id":85971021,
+            "neighbourhood_id":85832925,
+            "region_id":85688661,
+            "venue_id":806488291
+        }
+    ],
+    "wof:id":806488291,
+    "wof:lastmodified":1462598530,
+    "wof:name":"Sinclair Marketing",
+    "wof:parent_id":85832925,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -90.358462,
+    38.485775,
+    -90.358462,
+    38.485775
+],
+  "geometry": {"coordinates":[-90.358462,38.485775],"type":"Point"}
+}

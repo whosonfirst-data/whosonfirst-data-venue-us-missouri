@@ -1,0 +1,87 @@
+{
+  "id": 789695537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.281979,38.623245,-90.281979,38.623245",
+    "geom:latitude":38.623245,
+    "geom:longitude":-90.281979,
+    "iso:country":"US",
+    "sg:address":"5731 Manchester Ave",
+    "sg:city":"St Louis",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Soap",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 647 1888",
+    "sg:postcode":"63110",
+    "sg:province":"MO",
+    "sg:tags":[
+        "detergent",
+        "cleaning",
+        "maintenance",
+        "mfg"
+    ],
+    "sg:website":"www.chemcoinc.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420525483,
+        102191575,
+        404518053,
+        85633793,
+        85971343,
+        102080791,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1pswY9z4EOBSiVjErithhK_38.623245_-90.281979@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462589822,
+    "wof:geomhash":"7995f1df190bc470650591e4f80ee8d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080791,
+            "localadmin_id":404518053,
+            "locality_id":85971343,
+            "neighbourhood_id":420525483,
+            "region_id":85688661,
+            "venue_id":789695537
+        }
+    ],
+    "wof:id":789695537,
+    "wof:lastmodified":1462589822,
+    "wof:name":"Chemco Industries Incorporated",
+    "wof:parent_id":420525483,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "detergent",
+        "cleaning",
+        "maintenance",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -90.281979,
+    38.623245,
+    -90.281979,
+    38.623245
+],
+  "geometry": {"coordinates":[-90.28197900000001,38.623245],"type":"Point"}
+}

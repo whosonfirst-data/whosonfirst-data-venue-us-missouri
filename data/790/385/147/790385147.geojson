@@ -1,0 +1,73 @@
+{
+  "id": 790385147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.495991,39.34824,-93.495991,39.34824",
+    "geom:latitude":39.34824,
+    "geom:longitude":-93.495991,
+    "iso:country":"US",
+    "sg:address":"812 S Main St",
+    "sg:city":"Carrollton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 660 542 2744",
+    "sg:postcode":"64633",
+    "sg:province":"MO",
+    "sg:tags":[
+        "muffler",
+        "exhaust",
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85849541,
+        102085313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2mFzkwKeB1kQztUDscKqIJ_39.348240_-93.495991@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462595423,
+    "wof:geomhash":"60ed82264284ee8cf4e0d38e249a9fef",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085313,
+            "neighbourhood_id":85849541,
+            "region_id":85688661,
+            "venue_id":790385147
+        }
+    ],
+    "wof:id":790385147,
+    "wof:lastmodified":1462595423,
+    "wof:name":"Troy's Muffler Shop",
+    "wof:parent_id":85849541,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "muffler",
+        "exhaust",
+        "system"
+    ]
+},
+  "bbox": [
+    -93.495991,
+    39.34824,
+    -93.495991,
+    39.34824
+],
+  "geometry": {"coordinates":[-93.495991,39.34824],"type":"Point"}
+}

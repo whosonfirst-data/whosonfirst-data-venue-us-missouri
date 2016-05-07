@@ -1,0 +1,73 @@
+{
+  "id": 806712755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.901409,39.411583,-94.901409,39.411583",
+    "geom:latitude":39.411583,
+    "geom:longitude":-94.901409,
+    "iso:country":"US",
+    "sg:address":"526 Main St",
+    "sg:city":"Weston",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 640 5711",
+    "sg:postcode":"64098",
+    "sg:province":"MO",
+    "sg:tags":[
+        "authorities",
+        "housing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970739,
+        102085271,
+        85823759
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7fmaxbG0yILY93lTkrnOly_39.411583_-94.901409@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462600440,
+    "wof:geomhash":"89218b8a15430c7dbdefeb074463878a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085271,
+            "locality_id":85970739,
+            "neighbourhood_id":85823759,
+            "region_id":85688661,
+            "venue_id":806712755
+        }
+    ],
+    "wof:id":806712755,
+    "wof:lastmodified":1462600440,
+    "wof:name":"Housing Authority City-WSTN",
+    "wof:parent_id":85823759,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "authorities",
+        "housing"
+    ]
+},
+  "bbox": [
+    -94.901409,
+    39.411583,
+    -94.901409,
+    39.411583
+],
+  "geometry": {"coordinates":[-94.901409,39.411583],"type":"Point"}
+}

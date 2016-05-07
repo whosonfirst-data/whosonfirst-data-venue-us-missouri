@@ -1,0 +1,72 @@
+{
+  "id": 806651845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.458087,38.602145,-90.458087,38.602145",
+    "geom:latitude":38.602145,
+    "geom:longitude":-90.458087,
+    "iso:country":"US",
+    "sg:address":"12852 Manchester Rd",
+    "sg:city":"St Louis",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Medical Equipment & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 965 9300",
+    "sg:postcode":"63131",
+    "sg:province":"MO",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "sg:website":"www.medi-equip.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85839871,
+        102086173
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_01RF2yqZBXeYiAPslmVZyi_38.602145_-90.458087@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462599923,
+    "wof:geomhash":"e4d8993f14e727038f21415508e4eafc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086173,
+            "neighbourhood_id":85839871,
+            "region_id":85688661,
+            "venue_id":806651845
+        }
+    ],
+    "wof:id":806651845,
+    "wof:lastmodified":1462599923,
+    "wof:name":"Mediequip Inc",
+    "wof:parent_id":85839871,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -90.458087,
+    38.602145,
+    -90.458087,
+    38.602145
+],
+  "geometry": {"coordinates":[-90.45808700000001,38.602145],"type":"Point"}
+}

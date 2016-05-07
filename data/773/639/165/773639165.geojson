@@ -1,0 +1,71 @@
+{
+  "id": 773639165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.853148,38.811472,-90.853148,38.811472",
+    "geom:latitude":38.811472,
+    "geom:longitude":-90.853148,
+    "iso:country":"US",
+    "sg:address":"13 W Allen St",
+    "sg:city":"Wentzville",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 327 6418",
+    "sg:postcode":"63385",
+    "sg:province":"MO",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Wohd0fWlQ7LniKPG7V23U_38.811472_-90.853148@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462587240,
+    "wof:geomhash":"8f2e89d049d06ee611b50eb0e24be9e3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":773639165
+        }
+    ],
+    "wof:id":773639165,
+    "wof:lastmodified":1462587240,
+    "wof:name":"J & R Barber Shop",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -90.853148,
+    38.811472,
+    -90.853148,
+    38.811472
+],
+  "geometry": {"coordinates":[-90.853148,38.811472],"type":"Point"}
+}

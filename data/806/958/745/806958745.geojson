@@ -1,0 +1,66 @@
+{
+  "id": 806958745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.86255,38.81031,-90.86255,38.81031",
+    "geom:latitude":38.81031,
+    "geom:longitude":-90.86255,
+    "iso:country":"US",
+    "sg:address":"700 W Pearce Blvd",
+    "sg:city":"Wentzville",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 639 5388",
+    "sg:postcode":"63385",
+    "sg:province":"MO",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4I3n2d77WMaXtFfJBIg6Da_38.810310_-90.862550@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462602515,
+    "wof:geomhash":"bae8053332cc9a89e44c1b0fb992e63a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":806958745
+        }
+    ],
+    "wof:id":806958745,
+    "wof:lastmodified":1462602515,
+    "wof:name":"Wentzville Custom Computers",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.86255,
+    38.81031,
+    -90.86255,
+    38.81031
+],
+  "geometry": {"coordinates":[-90.86255,38.81031],"type":"Point"}
+}

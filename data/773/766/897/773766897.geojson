@@ -1,0 +1,73 @@
+{
+  "id": 773766897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.783359,39.370298,-94.783359,39.370298",
+    "geom:latitude":39.370298,
+    "geom:longitude":-94.783359,
+    "iso:country":"US",
+    "sg:address":"128 Main St",
+    "sg:city":"Platte City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 858 4747",
+    "sg:postcode":"64079",
+    "sg:province":"MO",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970739,
+        102085271,
+        85851839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_17XPyp4okggkbJEEh1tFbe_39.370298_-94.783359@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462588219,
+    "wof:geomhash":"4699f7af23bf5839c7499393316c1e6a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085271,
+            "locality_id":85970739,
+            "neighbourhood_id":85851839,
+            "region_id":85688661,
+            "venue_id":773766897
+        }
+    ],
+    "wof:id":773766897,
+    "wof:lastmodified":1462588219,
+    "wof:name":"Andy's Forgein Cars",
+    "wof:parent_id":85851839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -94.783359,
+    39.370298,
+    -94.783359,
+    39.370298
+],
+  "geometry": {"coordinates":[-94.783359,39.370298],"type":"Point"}
+}

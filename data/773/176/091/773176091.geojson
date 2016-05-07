@@ -1,0 +1,76 @@
+{
+  "id": 773176091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.514015,38.819905,-90.514015,38.819905",
+    "geom:latitude":38.819905,
+    "geom:longitude":-90.514015,
+    "iso:country":"US",
+    "sg:address":"3739 Elm St",
+    "sg:city":"St Charles",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 916 4848",
+    "sg:postcode":"63301",
+    "sg:province":"MO",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_00uTIHe8ip9XdZMMdoM69s_38.819905_-90.514015@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462583708,
+    "wof:geomhash":"d3714210e8cf054d44fa721af7503adb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":773176091
+        }
+    ],
+    "wof:id":773176091,
+    "wof:lastmodified":1462583708,
+    "wof:name":"Elm Street Dental",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -90.514015,
+    38.819905,
+    -90.514015,
+    38.819905
+],
+  "geometry": {"coordinates":[-90.514015,38.819905],"type":"Point"}
+}

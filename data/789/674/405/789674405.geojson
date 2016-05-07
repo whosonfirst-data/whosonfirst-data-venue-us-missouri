@@ -1,0 +1,73 @@
+{
+  "id": 789674405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.456178,38.787204,-90.456178,38.787204",
+    "geom:latitude":38.787204,
+    "geom:longitude":-90.456178,
+    "iso:country":"US",
+    "sg:address":"13875 Corporate Woods Trl",
+    "sg:city":"Bridgeton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 298 0484",
+    "sg:postcode":"63044",
+    "sg:province":"MO",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972341,
+        102086173,
+        85806637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_60eK3lpTzQoaVLlqBQEGMf_38.787204_-90.456178@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462589658,
+    "wof:geomhash":"b4f7bc54636e10bfdba2ccf63dd3868f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086173,
+            "locality_id":85972341,
+            "neighbourhood_id":85806637,
+            "region_id":85688661,
+            "venue_id":789674405
+        }
+    ],
+    "wof:id":789674405,
+    "wof:lastmodified":1462589658,
+    "wof:name":"First Vehicle Svc",
+    "wof:parent_id":85806637,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -90.456178,
+    38.787204,
+    -90.456178,
+    38.787204
+],
+  "geometry": {"coordinates":[-90.45617799999999,38.787204],"type":"Point"}
+}

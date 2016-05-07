@@ -1,0 +1,66 @@
+{
+  "id": 806810605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.695315,38.806675,-90.695315,38.806675",
+    "geom:latitude":38.806675,
+    "geom:longitude":-90.695315,
+    "iso:country":"US",
+    "sg:address":"110 E Pitman St",
+    "sg:city":"O Fallon",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Chiropractor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 272 4625",
+    "sg:postcode":"63366",
+    "sg:province":"MO",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5OBLRxGQxS4lbYkN23fA9p_38.806675_-90.695315@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462601269,
+    "wof:geomhash":"292fe3174f5f668053768cb29027b1cd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":806810605
+        }
+    ],
+    "wof:id":806810605,
+    "wof:lastmodified":1462601269,
+    "wof:name":"O'Fallon Chiropractic Ctr",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.695315,
+    38.806675,
+    -90.695315,
+    38.806675
+],
+  "geometry": {"coordinates":[-90.69531499999999,38.806675],"type":"Point"}
+}

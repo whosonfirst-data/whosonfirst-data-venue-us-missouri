@@ -1,0 +1,74 @@
+{
+  "id": 807033485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.365248,39.372896,-94.365248,39.372896",
+    "geom:latitude":39.372896,
+    "geom:longitude":-94.365248,
+    "iso:country":"US",
+    "sg:address":"301 W Washington St",
+    "sg:city":"Kearney",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Professional Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 628 4548",
+    "sg:postcode":"64060",
+    "sg:province":"MO",
+    "sg:tags":[
+        "military",
+        "veteran"
+    ],
+    "sg:website":"http://www.vfw.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971507,
+        102086177,
+        85812855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4tKCuE4dBChFo2dyDujIDv_39.372903_-94.365555@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1462603151,
+    "wof:geomhash":"ad5b725493c178edfc7325e3e96dbefc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086177,
+            "locality_id":85971507,
+            "neighbourhood_id":85812855,
+            "region_id":85688661,
+            "venue_id":807033485
+        }
+    ],
+    "wof:id":807033485,
+    "wof:lastmodified":1462603151,
+    "wof:name":"Veterans of Foreign Wars",
+    "wof:parent_id":85812855,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "military",
+        "veteran"
+    ]
+},
+  "bbox": [
+    -94.365248,
+    39.372896,
+    -94.365248,
+    39.372896
+],
+  "geometry": {"coordinates":[-94.36524799999999,39.372896],"type":"Point"}
+}

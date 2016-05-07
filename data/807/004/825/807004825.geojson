@@ -1,0 +1,73 @@
+{
+  "id": 807004825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.371722,38.403373,-90.371722,38.403373",
+    "geom:latitude":38.403373,
+    "geom:longitude":-90.371722,
+    "iso:country":"US",
+    "sg:address":"928 Grape Arbor Dr",
+    "sg:city":"Arnold",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 464 2626",
+    "sg:postcode":"63010",
+    "sg:province":"MO",
+    "sg:tags":[
+        "contractor",
+        "painting",
+        "hanging"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85805175,
+        102080787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1jsGUvYHEk9PMqj2CrGYSZ_38.403471_-90.371628@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1462602897,
+    "wof:geomhash":"903a7ebd31dc3d1045d40ffd0022f6a4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080787,
+            "neighbourhood_id":85805175,
+            "region_id":85688661,
+            "venue_id":807004825
+        }
+    ],
+    "wof:id":807004825,
+    "wof:lastmodified":1462602897,
+    "wof:name":"Cannon Painting",
+    "wof:parent_id":85805175,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor",
+        "painting",
+        "hanging"
+    ]
+},
+  "bbox": [
+    -90.371722,
+    38.403373,
+    -90.371722,
+    38.403373
+],
+  "geometry": {"coordinates":[-90.37172200000001,38.403373],"type":"Point"}
+}

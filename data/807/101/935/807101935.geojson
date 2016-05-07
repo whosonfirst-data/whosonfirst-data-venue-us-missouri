@@ -1,0 +1,85 @@
+{
+  "id": 807101935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.276471,37.209343,-93.276471,37.209343",
+    "geom:latitude":37.209343,
+    "geom:longitude":-93.276471,
+    "iso:country":"US",
+    "sg:address":"1158 E Saint Louis St",
+    "sg:city":"Springfield",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Ice Cream",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/springfield/92634-steak-n-shake/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 866 6109",
+    "sg:postcode":"65806",
+    "sg:province":"MO",
+    "sg:tags":[
+        "american",
+        "ice",
+        "cream"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85881157,
+        102191575,
+        404516201,
+        85633793,
+        85971363,
+        102087523,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5tnupPED3BbxwiGDat9CIO_37.209445_-93.277266@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1462603754,
+    "wof:geomhash":"aea5a20c579fcda61ea180fcd2aee428",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087523,
+            "localadmin_id":404516201,
+            "locality_id":85971363,
+            "neighbourhood_id":85881157,
+            "region_id":85688661,
+            "venue_id":807101935
+        }
+    ],
+    "wof:id":807101935,
+    "wof:lastmodified":1462603754,
+    "wof:name":"Steak 'n Shake",
+    "wof:parent_id":85881157,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "ice",
+        "cream"
+    ]
+},
+  "bbox": [
+    -93.276471,
+    37.209343,
+    -93.276471,
+    37.209343
+],
+  "geometry": {"coordinates":[-93.276471,37.209343],"type":"Point"}
+}

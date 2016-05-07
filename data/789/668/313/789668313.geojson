@@ -1,0 +1,75 @@
+{
+  "id": 789668313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.29209,37.22691,-93.29209,37.22691",
+    "geom:latitude":37.22691,
+    "geom:longitude":-93.29209,
+    "iso:country":"US",
+    "sg:address":"1505 N Boonville Ave",
+    "sg:city":"Springfield",
+    "sg:classifiers":[
+        {
+            "category":"Bus Station",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 831 8782",
+    "sg:postcode":"65803",
+    "sg:province":"MO",
+    "sg:tags":[
+        "facility"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85881135,
+        102191575,
+        404516201,
+        85633793,
+        85971363,
+        102087523,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1cd9OBj57kk9sejBctJv2g_37.226910_-93.292090@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462589616,
+    "wof:geomhash":"e287cf605e4427bea630a59054058f66",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087523,
+            "localadmin_id":404516201,
+            "locality_id":85971363,
+            "neighbourhood_id":85881135,
+            "region_id":85688661,
+            "venue_id":789668313
+        }
+    ],
+    "wof:id":789668313,
+    "wof:lastmodified":1462589616,
+    "wof:name":"City Utilities of Springfield",
+    "wof:parent_id":85881135,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "facility"
+    ]
+},
+  "bbox": [
+    -93.29209,
+    37.22691,
+    -93.29209,
+    37.22691
+],
+  "geometry": {"coordinates":[-93.29209,37.22691],"type":"Point"}
+}

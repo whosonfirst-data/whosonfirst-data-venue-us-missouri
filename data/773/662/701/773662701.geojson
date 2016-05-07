@@ -1,0 +1,71 @@
+{
+  "id": 773662701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.60789,38.78882,-90.60789,38.78882",
+    "geom:latitude":38.78882,
+    "geom:longitude":-90.60789,
+    "iso:country":"US",
+    "sg:address":"100 Vanderbilt Blvd",
+    "sg:city":"St Peters",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 928 0064",
+    "sg:postcode":"63376",
+    "sg:province":"MO",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0wDLUsAlnIFKsQdiSExyAx_38.788820_-90.607890@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462587418,
+    "wof:geomhash":"ac72280a4c5294337564bde2241afa5f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":773662701
+        }
+    ],
+    "wof:id":773662701,
+    "wof:lastmodified":1462587418,
+    "wof:name":"Vanderbilt Apartments",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -90.60789,
+    38.78882,
+    -90.60789,
+    38.78882
+],
+  "geometry": {"coordinates":[-90.60789,38.78882],"type":"Point"}
+}

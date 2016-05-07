@@ -1,0 +1,85 @@
+{
+  "id": 807099577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.575389,39.234406,-94.575389,39.234406",
+    "geom:latitude":39.234406,
+    "geom:longitude":-94.575389,
+    "iso:country":"US",
+    "sg:address":"7711 N Oak Trfy",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Ice Cream",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/gallatin/243309-baskin-robbins/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 436 2309",
+    "sg:postcode":"64118",
+    "sg:province":"MO",
+    "sg:tags":[
+        "american",
+        "ice",
+        "cream"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85852163,
+        102191575,
+        404516715,
+        85633793,
+        85972467,
+        102086177,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0r9KgCDOg1gYWFPu74VRBC_39.234296_-94.575982@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462603716,
+    "wof:geomhash":"9b8d2c4e2ccead1eddb6235f24a080d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086177,
+            "localadmin_id":404516715,
+            "locality_id":85972467,
+            "neighbourhood_id":85852163,
+            "region_id":85688661,
+            "venue_id":807099577
+        }
+    ],
+    "wof:id":807099577,
+    "wof:lastmodified":1462603716,
+    "wof:name":"Baskin-Robbins",
+    "wof:parent_id":85852163,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "ice",
+        "cream"
+    ]
+},
+  "bbox": [
+    -94.575389,
+    39.234406,
+    -94.575389,
+    39.234406
+],
+  "geometry": {"coordinates":[-94.575389,39.234406],"type":"Point"}
+}

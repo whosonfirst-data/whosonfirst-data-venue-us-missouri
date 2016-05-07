@@ -1,0 +1,71 @@
+{
+  "id": 789856295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.166292,38.57221,-92.166292,38.57221",
+    "geom:latitude":38.57221,
+    "geom:longitude":-92.166292,
+    "iso:country":"US",
+    "sg:address":"320 Marshall St",
+    "sg:city":"Jefferson City",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 636 7741",
+    "sg:postcode":"65101",
+    "sg:province":"MO",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970647,
+        102087511,
+        85837745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4pycH1yg4iJFjlDdaYULo4_38.572210_-92.166292@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462591076,
+    "wof:geomhash":"cdcf6db6ad6113f459386868517c4440",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087511,
+            "locality_id":85970647,
+            "neighbourhood_id":85837745,
+            "region_id":85688661,
+            "venue_id":789856295
+        }
+    ],
+    "wof:id":789856295,
+    "wof:lastmodified":1462591076,
+    "wof:name":"East End Salon",
+    "wof:parent_id":85837745,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -92.166292,
+    38.57221,
+    -92.166292,
+    38.57221
+],
+  "geometry": {"coordinates":[-92.166292,38.57221],"type":"Point"}
+}

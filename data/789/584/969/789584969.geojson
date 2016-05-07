@@ -1,0 +1,81 @@
+{
+  "id": 789584969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.311668,38.747245,-90.311668,38.747245",
+    "geom:latitude":38.747245,
+    "geom:longitude":-90.311668,
+    "iso:country":"US",
+    "sg:address":"483 Airport Rd",
+    "sg:city":"Ferguson",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 524 0707",
+    "sg:postcode":"63135",
+    "sg:province":"MO",
+    "sg:tags":[
+        "pet",
+        "veterinarian",
+        "for",
+        "animal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85859027,
+        102191575,
+        404517247,
+        85633793,
+        85972205,
+        102086173,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7LJruRjGivy9zMIOfQR4No_38.747245_-90.311668@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462588948,
+    "wof:geomhash":"cd64d498eaf5b952b0a7dc9d51763c19",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086173,
+            "localadmin_id":404517247,
+            "locality_id":85972205,
+            "neighbourhood_id":85859027,
+            "region_id":85688661,
+            "venue_id":789584969
+        }
+    ],
+    "wof:id":789584969,
+    "wof:lastmodified":1462588948,
+    "wof:name":"Ferguson Animal Hospital Inc",
+    "wof:parent_id":85859027,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "veterinarian",
+        "for",
+        "animal"
+    ]
+},
+  "bbox": [
+    -90.311668,
+    38.747245,
+    -90.311668,
+    38.747245
+],
+  "geometry": {"coordinates":[-90.311668,38.747245],"type":"Point"}
+}

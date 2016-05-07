@@ -1,0 +1,78 @@
+{
+  "id": 806829325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.53285,38.785949,-90.53285,38.785949",
+    "geom:latitude":38.785949,
+    "geom:longitude":-90.53285,
+    "iso:country":"US",
+    "sg:address":"1950 Zumbehl Rd",
+    "sg:city":"St Charles",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 723 8310",
+    "sg:postcode":"63303",
+    "sg:province":"MO",
+    "sg:tags":[
+        "grocer",
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1kebPQMzTSccAx5HM8hexI_38.785949_-90.532850@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462601419,
+    "wof:geomhash":"281823b16e690b63cb1b77e64bcf230d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":806829325
+        }
+    ],
+    "wof:id":806829325,
+    "wof:lastmodified":1462601419,
+    "wof:name":"Schnucks",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer",
+        "eating"
+    ]
+},
+  "bbox": [
+    -90.53285,
+    38.785949,
+    -90.53285,
+    38.785949
+],
+  "geometry": {"coordinates":[-90.53285,38.785949],"type":"Point"}
+}

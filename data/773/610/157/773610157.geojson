@@ -1,0 +1,73 @@
+{
+  "id": 773610157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.38808,38.1721,-90.38808,38.1721",
+    "geom:latitude":38.1721,
+    "geom:longitude":-90.38808,
+    "iso:country":"US",
+    "sg:address":"29 Howe Xing",
+    "sg:city":"Festus",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 931 6432",
+    "sg:postcode":"63028",
+    "sg:province":"MO",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85848677,
+        102080787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4cLnzwbe30cOVxXomGf3LM_38.172100_-90.388080@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462587014,
+    "wof:geomhash":"64d4130a7364fdef6cb64e38b1652f67",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080787,
+            "neighbourhood_id":85848677,
+            "region_id":85688661,
+            "venue_id":773610157
+        }
+    ],
+    "wof:id":773610157,
+    "wof:lastmodified":1462587014,
+    "wof:name":"Null Hauling",
+    "wof:parent_id":85848677,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -90.38808,
+    38.1721,
+    -90.38808,
+    38.1721
+],
+  "geometry": {"coordinates":[-90.38808,38.1721],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 789638387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.558743,38.592914,-90.558743,38.592914",
+    "geom:latitude":38.592914,
+    "geom:longitude":-90.558743,
+    "iso:country":"US",
+    "sg:address":"15372 Manchester Rd",
+    "sg:city":"Ballwin",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 227 9443",
+    "sg:postcode":"63011",
+    "sg:province":"MO",
+    "sg:tags":[
+        "cleaners"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85831197,
+        102191575,
+        404517315,
+        85633793,
+        85972301,
+        102086173,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0xxGcWn12u4GU7HG9V6lsF_38.592914_-90.558743@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462589363,
+    "wof:geomhash":"dbf041fa2e0d642bbcaf5d926c84e53b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086173,
+            "localadmin_id":404517315,
+            "locality_id":85972301,
+            "neighbourhood_id":85831197,
+            "region_id":85688661,
+            "venue_id":789638387
+        }
+    ],
+    "wof:id":789638387,
+    "wof:lastmodified":1462589363,
+    "wof:name":"American Cleaners",
+    "wof:parent_id":85831197,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners"
+    ]
+},
+  "bbox": [
+    -90.558743,
+    38.592914,
+    -90.558743,
+    38.592914
+],
+  "geometry": {"coordinates":[-90.55874300000001,38.592914],"type":"Point"}
+}

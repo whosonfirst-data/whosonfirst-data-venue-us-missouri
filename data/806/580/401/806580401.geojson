@@ -1,0 +1,72 @@
+{
+  "id": 806580401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.375553,38.399514,-90.375553,38.399514",
+    "geom:latitude":38.399514,
+    "geom:longitude":-90.375553,
+    "iso:country":"US",
+    "sg:address":"4190 Jeffco Blvd",
+    "sg:city":"Arnold",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 464 7900",
+    "sg:postcode":"63010",
+    "sg:province":"MO",
+    "sg:tags":[
+        "pavement",
+        "marking"
+    ],
+    "sg:website":"www.flyerstriping.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85805175,
+        102080787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2yOKTmUk3tLJX9HDCKmFg7_38.399514_-90.375553@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462599312,
+    "wof:geomhash":"edddae5426cf0adb26506d1d5c55dd5d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080787,
+            "neighbourhood_id":85805175,
+            "region_id":85688661,
+            "venue_id":806580401
+        }
+    ],
+    "wof:id":806580401,
+    "wof:lastmodified":1462599312,
+    "wof:name":"Flyer Striping",
+    "wof:parent_id":85805175,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pavement",
+        "marking"
+    ]
+},
+  "bbox": [
+    -90.375553,
+    38.399514,
+    -90.375553,
+    38.399514
+],
+  "geometry": {"coordinates":[-90.375553,38.399514],"type":"Point"}
+}

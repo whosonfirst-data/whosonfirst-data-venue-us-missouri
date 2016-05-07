@@ -1,0 +1,74 @@
+{
+  "id": 807047383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.360329,39.367882,-94.360329,39.367882",
+    "geom:latitude":39.367882,
+    "geom:longitude":-94.360329,
+    "iso:country":"US",
+    "sg:address":"201 E 6th St",
+    "sg:city":"Kearney",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 628 4122",
+    "sg:postcode":"64060",
+    "sg:province":"MO",
+    "sg:tags":[
+        "department",
+        "protection"
+    ],
+    "sg:website":"http://www.ci.kearney.mo.us",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971507,
+        102086177,
+        85812855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6iJ9uAfBNYIOCrdof35gDR_39.367875_-94.360323@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1462603268,
+    "wof:geomhash":"a89186da9d03c9a4b3ae04e68383e67f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086177,
+            "locality_id":85971507,
+            "neighbourhood_id":85812855,
+            "region_id":85688661,
+            "venue_id":807047383
+        }
+    ],
+    "wof:id":807047383,
+    "wof:lastmodified":1462603268,
+    "wof:name":"Kearney Fire And Rescue Protection District",
+    "wof:parent_id":85812855,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department",
+        "protection"
+    ]
+},
+  "bbox": [
+    -94.360329,
+    39.367882,
+    -94.360329,
+    39.367882
+],
+  "geometry": {"coordinates":[-94.36032899999999,39.367882],"type":"Point"}
+}

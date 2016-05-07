@@ -1,0 +1,73 @@
+{
+  "id": 806587799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.224522,37.195826,-93.224522,37.195826",
+    "geom:latitude":37.195826,
+    "geom:longitude":-93.224522,
+    "iso:country":"US",
+    "sg:address":"3501 E Lombard St",
+    "sg:city":"Springfield",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 877 0989",
+    "sg:postcode":"65809",
+    "sg:province":"MO",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971363,
+        102087523,
+        85881121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3nJiSrzueOS1AaOcbJVfK4_37.195826_-93.224522@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462599380,
+    "wof:geomhash":"ba0c80e54bcb55024880ad5135e57bde",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087523,
+            "locality_id":85971363,
+            "neighbourhood_id":85881121,
+            "region_id":85688661,
+            "venue_id":806587799
+        }
+    ],
+    "wof:id":806587799,
+    "wof:lastmodified":1462599380,
+    "wof:name":"Lombard Heights Apartments",
+    "wof:parent_id":85881121,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -93.224522,
+    37.195826,
+    -93.224522,
+    37.195826
+],
+  "geometry": {"coordinates":[-93.22452199999999,37.195826],"type":"Point"}
+}

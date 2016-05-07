@@ -1,0 +1,85 @@
+{
+  "id": 789614333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.519333,39.068851,-94.519333,39.068851",
+    "geom:latitude":39.068851,
+    "geom:longitude":-94.519333,
+    "iso:country":"US",
+    "sg:address":"5510 E 31 St",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Detective & Security Services",
+            "type":"Services"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Electrical",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 861 1500",
+    "sg:postcode":"64128",
+    "sg:province":"MO",
+    "sg:tags":[
+        "alarm",
+        "burglar",
+        "system"
+    ],
+    "sg:website":"www.alarmcentral.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85867021,
+        102191575,
+        404518075,
+        85633793,
+        85970739,
+        102081227,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6xmNVtQa64bN4dNGhawHNL_39.068851_-94.519333@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462589168,
+    "wof:geomhash":"5f64b7218e62dee0e1dfd9032220bbff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081227,
+            "localadmin_id":404518075,
+            "locality_id":85970739,
+            "neighbourhood_id":85867021,
+            "region_id":85688661,
+            "venue_id":789614333
+        }
+    ],
+    "wof:id":789614333,
+    "wof:lastmodified":1462589168,
+    "wof:name":"Alarm Central LLC",
+    "wof:parent_id":85867021,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "alarm",
+        "burglar",
+        "system"
+    ]
+},
+  "bbox": [
+    -94.519333,
+    39.068851,
+    -94.519333,
+    39.068851
+],
+  "geometry": {"coordinates":[-94.519333,39.068851],"type":"Point"}
+}

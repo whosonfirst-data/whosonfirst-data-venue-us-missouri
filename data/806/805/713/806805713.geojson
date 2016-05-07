@@ -1,0 +1,73 @@
+{
+  "id": 806805713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.191007,39.335096,-91.191007,39.335096",
+    "geom:latitude":39.335096,
+    "geom:longitude":-91.191007,
+    "iso:country":"US",
+    "sg:address":"119 E Park Dr",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 324 3902",
+    "sg:postcode":"63334",
+    "sg:province":"MO",
+    "sg:tags":[
+        "department",
+        "highway"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971907,
+        102086151,
+        85817909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3AUje99EnGF1r23rxSzh8l_39.335096_-91.191007@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462601233,
+    "wof:geomhash":"1279b457284479366957263f9aa5b33c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086151,
+            "locality_id":85971907,
+            "neighbourhood_id":85817909,
+            "region_id":85688661,
+            "venue_id":806805713
+        }
+    ],
+    "wof:id":806805713,
+    "wof:lastmodified":1462601233,
+    "wof:name":"Highway Department",
+    "wof:parent_id":85817909,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department",
+        "highway"
+    ]
+},
+  "bbox": [
+    -91.191007,
+    39.335096,
+    -91.191007,
+    39.335096
+],
+  "geometry": {"coordinates":[-91.191007,39.335096],"type":"Point"}
+}

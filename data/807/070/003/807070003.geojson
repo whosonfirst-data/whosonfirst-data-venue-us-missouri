@@ -1,0 +1,74 @@
+{
+  "id": 807070003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.515697,38.785425,-90.515697,38.785425",
+    "geom:latitude":38.785425,
+    "geom:longitude":-90.515697,
+    "iso:country":"US",
+    "sg:address":"1201 S Duchesne Dr",
+    "sg:city":"St Charles",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/lindenwood/41883-king-edwards-chicken/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 946 3660",
+    "sg:postcode":"63301",
+    "sg:province":"MO",
+    "sg:tags":[
+        "chicken",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2s0BNPWWrr1WJYgNEtWYys_38.785425_-90.515697@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462603445,
+    "wof:geomhash":"c10bd14635e7051423a2d813a8fa08d1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":807070003
+        }
+    ],
+    "wof:id":807070003,
+    "wof:lastmodified":1462603445,
+    "wof:name":"King Edward's Chicken",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "chicken",
+        "american"
+    ]
+},
+  "bbox": [
+    -90.515697,
+    38.785425,
+    -90.515697,
+    38.785425
+],
+  "geometry": {"coordinates":[-90.515697,38.785425],"type":"Point"}
+}

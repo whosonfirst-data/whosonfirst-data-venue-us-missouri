@@ -1,0 +1,73 @@
+{
+  "id": 773361341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.491909,38.780178,-90.491909,38.780178",
+    "geom:latitude":38.780178,
+    "geom:longitude":-90.491909,
+    "iso:country":"US",
+    "sg:address":"409 Johns Dr",
+    "sg:city":"Vandalia",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 594 3869",
+    "sg:postcode":"63301",
+    "sg:province":"MO",
+    "sg:tags":[
+        "operator",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6KVZWlsruvNYOpMB6V70Im_38.780178_-90.491909@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462585123,
+    "wof:geomhash":"9a14641627dd9505e244a2badc3428b9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":773361341
+        }
+    ],
+    "wof:id":773361341,
+    "wof:lastmodified":1462585123,
+    "wof:name":"Landers Trucking",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -90.491909,
+    38.780178,
+    -90.491909,
+    38.780178
+],
+  "geometry": {"coordinates":[-90.49190900000001,38.780178],"type":"Point"}
+}

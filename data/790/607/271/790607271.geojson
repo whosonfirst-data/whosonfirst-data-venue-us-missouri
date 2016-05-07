@@ -1,0 +1,71 @@
+{
+  "id": 790607271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.194322,39.341897,-91.194322,39.341897",
+    "geom:latitude":39.341897,
+    "geom:longitude":-91.194322,
+    "iso:country":"US",
+    "sg:address":"114 W Main St",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 324 6442",
+    "sg:postcode":"63334",
+    "sg:province":"MO",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971907,
+        102086151,
+        85817909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7DYHn83tUHNAc9W7Vo4fpj_39.341897_-91.194322@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462597281,
+    "wof:geomhash":"4755d38e464c3d122369211d29782f03",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086151,
+            "locality_id":85971907,
+            "neighbourhood_id":85817909,
+            "region_id":85688661,
+            "venue_id":790607271
+        }
+    ],
+    "wof:id":790607271,
+    "wof:lastmodified":1462597281,
+    "wof:name":"Dos Primos",
+    "wof:parent_id":85817909,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -91.194322,
+    39.341897,
+    -91.194322,
+    39.341897
+],
+  "geometry": {"coordinates":[-91.194322,39.341897],"type":"Point"}
+}

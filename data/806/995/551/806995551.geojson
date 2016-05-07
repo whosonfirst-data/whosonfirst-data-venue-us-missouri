@@ -1,0 +1,84 @@
+{
+  "id": 806995551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.222397,38.631199,-90.222397,38.631199",
+    "geom:latitude":38.631199,
+    "geom:longitude":-90.222397,
+    "iso:country":"US",
+    "sg:address":"2906 Market St",
+    "sg:city":"Saint Louis",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 652 3354",
+    "sg:postcode":"63103",
+    "sg:province":"MO",
+    "sg:tags":[
+        "deli",
+        "delicatessen",
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85867035,
+        102191575,
+        404518053,
+        85633793,
+        85971343,
+        102080791,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0i2YtD6BG6c87L3r8eRm4w_38.630986_-90.223172@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1462602817,
+    "wof:geomhash":"1e67c838660bc0881b8e6729fe514563",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080791,
+            "localadmin_id":404518053,
+            "locality_id":85971343,
+            "neighbourhood_id":85867035,
+            "region_id":85688661,
+            "venue_id":806995551
+        }
+    ],
+    "wof:id":806995551,
+    "wof:lastmodified":1462602817,
+    "wof:name":"Market Street Deli",
+    "wof:parent_id":85867035,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "deli",
+        "delicatessen",
+        "eating"
+    ]
+},
+  "bbox": [
+    -90.222397,
+    38.631199,
+    -90.222397,
+    38.631199
+],
+  "geometry": {"coordinates":[-90.222397,38.631199],"type":"Point"}
+}

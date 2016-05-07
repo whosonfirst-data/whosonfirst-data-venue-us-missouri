@@ -1,0 +1,73 @@
+{
+  "id": 789695501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.183158,38.5677,-92.183158,38.5677",
+    "geom:latitude":38.5677,
+    "geom:longitude":-92.183158,
+    "iso:country":"US",
+    "sg:address":"1233 Jefferson St",
+    "sg:city":"Jefferson City",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Research",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 634 5555",
+    "sg:postcode":"65101",
+    "sg:province":"MO",
+    "sg:tags":[
+        "development",
+        "laboratory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970647,
+        102087511,
+        85837745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4PtebXY4X9PUYJcptHxXiw_38.567700_-92.183158@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462589822,
+    "wof:geomhash":"e09d2ffc2ce0d34296a9edabd9b38f86",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087511,
+            "locality_id":85970647,
+            "neighbourhood_id":85837745,
+            "region_id":85688661,
+            "venue_id":789695501
+        }
+    ],
+    "wof:id":789695501,
+    "wof:lastmodified":1462589822,
+    "wof:name":"Clinical Research Of The Ozark",
+    "wof:parent_id":85837745,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "development",
+        "laboratory"
+    ]
+},
+  "bbox": [
+    -92.183158,
+    38.5677,
+    -92.183158,
+    38.5677
+],
+  "geometry": {"coordinates":[-92.18315800000001,38.5677],"type":"Point"}
+}

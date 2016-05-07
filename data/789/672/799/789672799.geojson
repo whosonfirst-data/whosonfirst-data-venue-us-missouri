@@ -1,0 +1,73 @@
+{
+  "id": 789672799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.789283,37.943282,-91.789283,37.943282",
+    "geom:latitude":37.943282,
+    "geom:longitude":-91.789283,
+    "iso:country":"US",
+    "sg:address":"103 Bridge School Rd",
+    "sg:city":"Rolla",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 458 4343",
+    "sg:postcode":"65401",
+    "sg:province":"MO",
+    "sg:tags":[
+        "p",
+        "drinking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970821,
+        102086893,
+        85814531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2wwuKTJWBs2FDZtHzx53U5_37.943282_-91.789283@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462589647,
+    "wof:geomhash":"2e045d7934ef12b16dfc8da91d823540",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086893,
+            "locality_id":85970821,
+            "neighbourhood_id":85814531,
+            "region_id":85688661,
+            "venue_id":789672799
+        }
+    ],
+    "wof:id":789672799,
+    "wof:lastmodified":1462589647,
+    "wof:name":"Tater Patch",
+    "wof:parent_id":85814531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "p",
+        "drinking"
+    ]
+},
+  "bbox": [
+    -91.789283,
+    37.943282,
+    -91.789283,
+    37.943282
+],
+  "geometry": {"coordinates":[-91.789283,37.943282],"type":"Point"}
+}

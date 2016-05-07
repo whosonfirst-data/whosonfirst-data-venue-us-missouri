@@ -1,0 +1,76 @@
+{
+  "id": 790274933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.484424,38.77545,-90.484424,38.77545",
+    "geom:latitude":38.77545,
+    "geom:longitude":-90.484424,
+    "iso:country":"US",
+    "sg:address":"703 S Main St",
+    "sg:city":"St Charles",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Groceries",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 946 2245",
+    "sg:postcode":"63301",
+    "sg:province":"MO",
+    "sg:tags":[
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4TtfZa3DxK48b7f17OxwQm_38.775450_-90.484424@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462594549,
+    "wof:geomhash":"37bf6c32a4355e4eb6d44663907f6ac7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":790274933
+        }
+    ],
+    "wof:id":790274933,
+    "wof:lastmodified":1462594549,
+    "wof:name":"English Shop",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [
+    -90.484424,
+    38.77545,
+    -90.484424,
+    38.77545
+],
+  "geometry": {"coordinates":[-90.484424,38.77545],"type":"Point"}
+}

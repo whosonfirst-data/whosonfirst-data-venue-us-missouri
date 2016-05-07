@@ -1,0 +1,71 @@
+{
+  "id": 789777645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.223251,39.344773,-94.223251,39.344773",
+    "geom:latitude":39.344773,
+    "geom:longitude":-94.223251,
+    "iso:country":"US",
+    "sg:address":"408 N Main St",
+    "sg:city":"Excelsior Spgs",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 637 1944",
+    "sg:postcode":"64024",
+    "sg:province":"MO",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971507,
+        102086177,
+        85822189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1k7QGcPNxDIYZSCfOkhq3l_39.344773_-94.223251@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462590458,
+    "wof:geomhash":"b38608a6409ec127cca9a64148bcd143",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086177,
+            "locality_id":85971507,
+            "neighbourhood_id":85822189,
+            "region_id":85688661,
+            "venue_id":789777645
+        }
+    ],
+    "wof:id":789777645,
+    "wof:lastmodified":1462590458,
+    "wof:name":"Ben Day Fellowship Hall",
+    "wof:parent_id":85822189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -94.223251,
+    39.344773,
+    -94.223251,
+    39.344773
+],
+  "geometry": {"coordinates":[-94.223251,39.344773],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 806590109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.692531,37.805595,-91.692531,37.805595",
+    "geom:latitude":37.805595,
+    "geom:longitude":-91.692531,
+    "iso:country":"US",
+    "sg:address":"13775 Co Rd 5480",
+    "sg:city":"Rolla",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 308 1371",
+    "sg:postcode":"65401",
+    "sg:province":"MO",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970821,
+        102086893,
+        85814531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5taFChjq9fiSOK4qSKpGU3_37.805595_-91.692531@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462599400,
+    "wof:geomhash":"a738c12ba952c175affd0fa1fc071775",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086893,
+            "locality_id":85970821,
+            "neighbourhood_id":85814531,
+            "region_id":85688661,
+            "venue_id":806590109
+        }
+    ],
+    "wof:id":806590109,
+    "wof:lastmodified":1462599400,
+    "wof:name":"Bentley Construction",
+    "wof:parent_id":85814531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -91.692531,
+    37.805595,
+    -91.692531,
+    37.805595
+],
+  "geometry": {"coordinates":[-91.692531,37.805595],"type":"Point"}
+}

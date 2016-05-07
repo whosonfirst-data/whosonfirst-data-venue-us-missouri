@@ -1,0 +1,71 @@
+{
+  "id": 806588849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.37555,38.397012,-90.37555,38.397012",
+    "geom:latitude":38.397012,
+    "geom:longitude":-90.37555,
+    "iso:country":"US",
+    "sg:address":"4317 Jeffco Blvd",
+    "sg:city":"Arnold",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 467 5544",
+    "sg:postcode":"63010",
+    "sg:province":"MO",
+    "sg:tags":[
+        "automotive",
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85805175,
+        102080787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1slgRuaT6tUVeQlPqDebtC_38.397012_-90.375550@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462599390,
+    "wof:geomhash":"920e7e5f3276867f7ce744f3beab9e38",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080787,
+            "neighbourhood_id":85805175,
+            "region_id":85688661,
+            "venue_id":806588849
+        }
+    ],
+    "wof:id":806588849,
+    "wof:lastmodified":1462599390,
+    "wof:name":"Tony's Towing",
+    "wof:parent_id":85805175,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive",
+        "wrecker"
+    ]
+},
+  "bbox": [
+    -90.37555,
+    38.397012,
+    -90.37555,
+    38.397012
+],
+  "geometry": {"coordinates":[-90.37555,38.397012],"type":"Point"}
+}

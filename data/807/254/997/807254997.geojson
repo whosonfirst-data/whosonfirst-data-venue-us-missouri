@@ -1,0 +1,82 @@
+{
+  "id": 807254997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.330544,38.92358,-92.330544,38.92358",
+    "geom:latitude":38.92358,
+    "geom:longitude":-92.330544,
+    "iso:country":"US",
+    "sg:address":"2303 Umc Dr",
+    "sg:city":"Columbia",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 823 9480",
+    "sg:postcode":"65201",
+    "sg:province":"MO",
+    "sg:tags":[
+        "maintenance",
+        "cleaners-interior"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85835171,
+        102191575,
+        404516389,
+        85633793,
+        85970425,
+        102086187,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6HmLM0nqrX3eaxLgUTXiAL_38.923580_-92.330544@1303262935"
+    },
+    "wof:country":"US",
+    "wof:created":1462605379,
+    "wof:geomhash":"2246b8a0ccdf9387a4c9f5b9f18b40c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086187,
+            "localadmin_id":404516389,
+            "locality_id":85970425,
+            "neighbourhood_id":85835171,
+            "region_id":85688661,
+            "venue_id":807254997
+        }
+    ],
+    "wof:id":807254997,
+    "wof:lastmodified":1462605379,
+    "wof:name":"Boone Cleaning & Maintenance",
+    "wof:parent_id":85835171,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance",
+        "cleaners-interior"
+    ]
+},
+  "bbox": [
+    -92.330544,
+    38.92358,
+    -92.330544,
+    38.92358
+],
+  "geometry": {"coordinates":[-92.330544,38.92358],"type":"Point"}
+}

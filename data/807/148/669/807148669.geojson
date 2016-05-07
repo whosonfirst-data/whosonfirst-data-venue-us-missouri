@@ -1,0 +1,83 @@
+{
+  "id": 807148669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.242069,38.638031,-90.242069,38.638031",
+    "geom:latitude":38.638031,
+    "geom:longitude":-90.242069,
+    "iso:country":"US",
+    "sg:address":"3919 W Pine Blvd",
+    "sg:city":"Saint Louis",
+    "sg:classifiers":[
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 531 7500",
+    "sg:postcode":"63108",
+    "sg:province":"MO",
+    "sg:tags":[
+        "new",
+        "american"
+    ],
+    "sg:website":"www.cafeventana.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873637,
+        102191575,
+        404518053,
+        85633793,
+        85971343,
+        102080791,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1g85ky37U9UPTqnjO6PsEd_38.638031_-90.242069@1303262928"
+    },
+    "wof:country":"US",
+    "wof:created":1462604262,
+    "wof:geomhash":"a549dd79248ba8a8b94a4869acb1fdfc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080791,
+            "localadmin_id":404518053,
+            "locality_id":85971343,
+            "neighbourhood_id":85873637,
+            "region_id":85688661,
+            "venue_id":807148669
+        }
+    ],
+    "wof:id":807148669,
+    "wof:lastmodified":1462604262,
+    "wof:name":"Caf? Ventana",
+    "wof:parent_id":85873637,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "new",
+        "american"
+    ]
+},
+  "bbox": [
+    -90.242069,
+    38.638031,
+    -90.242069,
+    38.638031
+],
+  "geometry": {"coordinates":[-90.242069,38.638031],"type":"Point"}
+}

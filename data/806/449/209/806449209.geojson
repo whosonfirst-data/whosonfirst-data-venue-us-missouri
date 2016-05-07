@@ -1,0 +1,71 @@
+{
+  "id": 806449209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.771435,37.952288,-91.771435,37.952288",
+    "geom:latitude":37.952288,
+    "geom:longitude":-91.771435,
+    "iso:country":"US",
+    "sg:address":"1004 N Pine St",
+    "sg:city":"Rolla",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 364 7803",
+    "sg:postcode":"65401",
+    "sg:province":"MO",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970821,
+        102086893,
+        85814531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_37gO5SuoXSZupY79ws3KUE_37.952288_-91.771435@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462598239,
+    "wof:geomhash":"96d920db1471f92fe0149913936ca75f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086893,
+            "locality_id":85970821,
+            "neighbourhood_id":85814531,
+            "region_id":85688661,
+            "venue_id":806449209
+        }
+    ],
+    "wof:id":806449209,
+    "wof:lastmodified":1462598239,
+    "wof:name":"Downtown Barber Shop",
+    "wof:parent_id":85814531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -91.771435,
+    37.952288,
+    -91.771435,
+    37.952288
+],
+  "geometry": {"coordinates":[-91.771435,37.952288],"type":"Point"}
+}

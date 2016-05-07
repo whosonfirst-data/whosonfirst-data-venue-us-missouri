@@ -1,0 +1,82 @@
+{
+  "id": 807088629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.195388,38.555837,-92.195388,38.555837",
+    "geom:latitude":38.555837,
+    "geom:longitude":-92.195388,
+    "iso:country":"US",
+    "sg:address":"1722 Jefferson St",
+    "sg:city":"Jefferson City",
+    "sg:classifiers":[
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/jefferson/102293-perkins-restaurant--bakery/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 636 2430",
+    "sg:postcode":"65109",
+    "sg:province":"MO",
+    "sg:tags":[
+        "sandwich",
+        "salad",
+        "soup",
+        "american",
+        "pastry",
+        "wrap"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970647,
+        102087511,
+        85837745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Ct35mtEbY4kQhUqdyyESm_38.555837_-92.195388@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462603605,
+    "wof:geomhash":"d4398cf0439a176f906dea38a3f86911",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087511,
+            "locality_id":85970647,
+            "neighbourhood_id":85837745,
+            "region_id":85688661,
+            "venue_id":807088629
+        }
+    ],
+    "wof:id":807088629,
+    "wof:lastmodified":1462603605,
+    "wof:name":"Perkins Restaurant & Bakery",
+    "wof:parent_id":85837745,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sandwich",
+        "salad",
+        "soup",
+        "american",
+        "pastry",
+        "wrap"
+    ]
+},
+  "bbox": [
+    -92.195388,
+    38.555837,
+    -92.195388,
+    38.555837
+],
+  "geometry": {"coordinates":[-92.19538799999999,38.555837],"type":"Point"}
+}

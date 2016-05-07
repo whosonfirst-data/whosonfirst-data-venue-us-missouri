@@ -1,0 +1,71 @@
+{
+  "id": 790337731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.523157,39.79776,-91.523157,39.79776",
+    "geom:latitude":39.79776,
+    "geom:longitude":-91.523157,
+    "iso:country":"US",
+    "sg:address":"310 S Main St",
+    "sg:city":"Palmyra",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 769 4423",
+    "sg:postcode":"63461",
+    "sg:province":"MO",
+    "sg:tags":[
+        "cleaners"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688697,
+        85633793,
+        85938427,
+        102086213,
+        85867477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5jCworcUNlAUSpIzlr3cuP_39.797760_-91.523157@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462595045,
+    "wof:geomhash":"c70d8a4f320064da2b5208641ba89afb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086213,
+            "locality_id":85938427,
+            "neighbourhood_id":85867477,
+            "region_id":85688697,
+            "venue_id":790337731
+        }
+    ],
+    "wof:id":790337731,
+    "wof:lastmodified":1462595045,
+    "wof:name":"Nemo Cleaners",
+    "wof:parent_id":85867477,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners"
+    ]
+},
+  "bbox": [
+    -91.523157,
+    39.79776,
+    -91.523157,
+    39.79776
+],
+  "geometry": {"coordinates":[-91.523157,39.79776],"type":"Point"}
+}

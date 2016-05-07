@@ -1,0 +1,67 @@
+{
+  "id": 789868987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.616741,36.516399,-94.616741,36.516399",
+    "geom:latitude":36.516399,
+    "geom:longitude":-94.616741,
+    "iso:country":"US",
+    "sg:address":"411 Academy St",
+    "sg:city":"South West City",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 762 3251",
+    "sg:postcode":"64863",
+    "sg:province":"MO",
+    "sg:website":"www.mcdonaldco.k12.mo.us",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972127,
+        102085305,
+        85850627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5L6ziIgKY0v9ZFJnUTRg9h_36.516399_-94.616741@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462591176,
+    "wof:geomhash":"1df00eea47f342bdf41468f7999ed4fb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085305,
+            "locality_id":85972127,
+            "neighbourhood_id":85850627,
+            "region_id":85688661,
+            "venue_id":789868987
+        }
+    ],
+    "wof:id":789868987,
+    "wof:lastmodified":1462591176,
+    "wof:name":"South West City Elementary",
+    "wof:parent_id":85850627,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -94.616741,
+    36.516399,
+    -94.616741,
+    36.516399
+],
+  "geometry": {"coordinates":[-94.616741,36.516399],"type":"Point"}
+}

@@ -1,0 +1,85 @@
+{
+  "id": 807190959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.441443,37.778263,-90.441443,37.778263",
+    "geom:latitude":37.778263,
+    "geom:longitude":-90.441443,
+    "iso:country":"US",
+    "sg:address":"1265 Doctors Dr",
+    "sg:city":"Farmington",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 760 0751",
+    "sg:postcode":"63640",
+    "sg:province":"MO",
+    "sg:tags":[
+        "home",
+        "medical",
+        "eldercare-home"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970665,
+        102085297,
+        85816309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7SuJThdbK4MckhNfZWoUa0_37.778263_-90.441443@1303262931"
+    },
+    "wof:country":"US",
+    "wof:created":1462604699,
+    "wof:geomhash":"f5ad64e9970ea0d9baf73caa58c28719",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085297,
+            "locality_id":85970665,
+            "neighbourhood_id":85816309,
+            "region_id":85688661,
+            "venue_id":807190959
+        }
+    ],
+    "wof:id":807190959,
+    "wof:lastmodified":1462604699,
+    "wof:name":"Harden Healthcare Services",
+    "wof:parent_id":85816309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "medical",
+        "eldercare-home"
+    ]
+},
+  "bbox": [
+    -90.441443,
+    37.778263,
+    -90.441443,
+    37.778263
+],
+  "geometry": {"coordinates":[-90.44144300000001,37.778263],"type":"Point"}
+}

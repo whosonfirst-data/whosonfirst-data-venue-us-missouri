@@ -1,0 +1,71 @@
+{
+  "id": 773829937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.902523,39.411675,-94.902523,39.411675",
+    "geom:latitude":39.411675,
+    "geom:longitude":-94.902523,
+    "iso:country":"US",
+    "sg:address":"724 Thomas St",
+    "sg:city":"Weston",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 640 2455",
+    "sg:postcode":"64098",
+    "sg:province":"MO",
+    "sg:tags":[
+        "protection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970739,
+        102085271,
+        85823759
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Sl6JVZZwpFeGkpZN6boBc_39.411675_-94.902523@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462588720,
+    "wof:geomhash":"ec6ba0d3194576b0bb4cfd82da11fd83",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085271,
+            "locality_id":85970739,
+            "neighbourhood_id":85823759,
+            "region_id":85688661,
+            "venue_id":773829937
+        }
+    ],
+    "wof:id":773829937,
+    "wof:lastmodified":1462588720,
+    "wof:name":"Weston Missouri Police",
+    "wof:parent_id":85823759,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "protection"
+    ]
+},
+  "bbox": [
+    -94.902523,
+    39.411675,
+    -94.902523,
+    39.411675
+],
+  "geometry": {"coordinates":[-94.902523,39.411675],"type":"Point"}
+}

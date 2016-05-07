@@ -1,0 +1,75 @@
+{
+  "id": 806980813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.201283,38.630395,-90.201283,38.630395",
+    "geom:latitude":38.630395,
+    "geom:longitude":-90.201283,
+    "iso:country":"US",
+    "sg:address":"1430 Olive St",
+    "sg:city":"Saint Louis",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 613 7334",
+    "sg:postcode":"63103",
+    "sg:province":"MO",
+    "sg:tags":[
+        "protection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873645,
+        102191575,
+        404518053,
+        85633793,
+        85971343,
+        102080791,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Ugk54JHM59EOM2QW56ZTE_38.630395_-90.201283@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462602696,
+    "wof:geomhash":"70b7363f4bd10767b433058c7b90adc7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080791,
+            "localadmin_id":404518053,
+            "locality_id":85971343,
+            "neighbourhood_id":85873645,
+            "region_id":85688661,
+            "venue_id":806980813
+        }
+    ],
+    "wof:id":806980813,
+    "wof:lastmodified":1462602696,
+    "wof:name":"City Marshals Office",
+    "wof:parent_id":85873645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "protection"
+    ]
+},
+  "bbox": [
+    -90.201283,
+    38.630395,
+    -90.201283,
+    38.630395
+],
+  "geometry": {"coordinates":[-90.201283,38.630395],"type":"Point"}
+}

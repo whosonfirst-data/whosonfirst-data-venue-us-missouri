@@ -1,0 +1,94 @@
+{
+  "id": 806728893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.355049,38.466411,-90.355049,38.466411",
+    "geom:latitude":38.466411,
+    "geom:longitude":-90.355049,
+    "iso:country":"US",
+    "sg:address":"5416 Jedmed Ct",
+    "sg:city":"St Louis",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Medical Equipment & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 845 3770",
+    "sg:postcode":"63129",
+    "sg:province":"MO",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "sg:website":"www.jedmed.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85885365,
+        102191575,
+        404517459,
+        85633793,
+        85972631,
+        102086173,
+        85688661,
+        85971021,
+        102080787,
+        85832925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2aeXwIMU8nPxAu6ifGOD8z_38.466411_-90.355049@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462600573,
+    "wof:geomhash":"9b6e199936e2646b220763432405c561",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086173,
+            "localadmin_id":404517459,
+            "locality_id":85972631,
+            "neighbourhood_id":85885365,
+            "region_id":85688661,
+            "venue_id":806728893
+        },
+        {
+            "country_id":85633793,
+            "county_id":102080787,
+            "locality_id":85971021,
+            "neighbourhood_id":85832925,
+            "region_id":85688661,
+            "venue_id":806728893
+        }
+    ],
+    "wof:id":806728893,
+    "wof:lastmodified":1462600573,
+    "wof:name":"Jedmed Instrument Company",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -90.355049,
+    38.466411,
+    -90.355049,
+    38.466411
+],
+  "geometry": {"coordinates":[-90.35504899999999,38.466411],"type":"Point"}
+}

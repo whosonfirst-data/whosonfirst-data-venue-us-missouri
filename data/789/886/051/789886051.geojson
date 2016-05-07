@@ -1,0 +1,75 @@
+{
+  "id": 789886051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.340916,37.226867,-93.340916,37.226867",
+    "geom:latitude":37.226867,
+    "geom:longitude":-93.340916,
+    "iso:country":"US",
+    "sg:address":"3241 W Division St",
+    "sg:city":"Springfield",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Scrap",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 869 6633",
+    "sg:postcode":"65802",
+    "sg:province":"MO",
+    "sg:tags":[
+        "steel",
+        "metal",
+        "iron"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971363,
+        102087523,
+        85881139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7NqEgcB9FtQu2m4DIDyEhc_37.226867_-93.340916@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462591338,
+    "wof:geomhash":"47df7a3ac0e1e86f13bef942a8da299d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087523,
+            "locality_id":85971363,
+            "neighbourhood_id":85881139,
+            "region_id":85688661,
+            "venue_id":789886051
+        }
+    ],
+    "wof:id":789886051,
+    "wof:lastmodified":1462591338,
+    "wof:name":"Bob's Scrap Metal Processing",
+    "wof:parent_id":85881139,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "steel",
+        "metal",
+        "iron"
+    ]
+},
+  "bbox": [
+    -93.340916,
+    37.226867,
+    -93.340916,
+    37.226867
+],
+  "geometry": {"coordinates":[-93.34091600000001,37.226867],"type":"Point"}
+}

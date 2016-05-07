@@ -1,0 +1,83 @@
+{
+  "id": 789757613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.253413,38.62236,-90.253413,38.62236",
+    "geom:latitude":38.62236,
+    "geom:longitude":-90.253413,
+    "iso:country":"US",
+    "sg:address":"1100 Central Industrial Ave",
+    "sg:city":"St Louis",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 771 6600",
+    "sg:postcode":"63110",
+    "sg:province":"MO",
+    "sg:tags":[
+        "gd",
+        "detergent",
+        "mfg",
+        "industrial",
+        "inorganic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873657,
+        102191575,
+        404518053,
+        85633793,
+        85971343,
+        102080791,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1u6pBuIvFlbVEkB3EvfpkP_38.622360_-90.253413@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462590312,
+    "wof:geomhash":"81443a6cb93f82c1c7519a47d39d716a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080791,
+            "localadmin_id":404518053,
+            "locality_id":85971343,
+            "neighbourhood_id":85873657,
+            "region_id":85688661,
+            "venue_id":789757613
+        }
+    ],
+    "wof:id":789757613,
+    "wof:lastmodified":1462590312,
+    "wof:name":"Intercon Chemical Company",
+    "wof:parent_id":85873657,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "gd",
+        "detergent",
+        "mfg",
+        "industrial",
+        "inorganic"
+    ]
+},
+  "bbox": [
+    -90.253413,
+    38.62236,
+    -90.253413,
+    38.62236
+],
+  "geometry": {"coordinates":[-90.25341299999999,38.62236],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 807066143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.242386,38.60215,-90.242386,38.60215",
+    "geom:latitude":38.60215,
+    "geom:longitude":-90.242386,
+    "iso:country":"US",
+    "sg:address":"3114 S Grand Blvd",
+    "sg:city":"Saint Louis",
+    "sg:classifiers":[
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/st-louis/105891-panera-bread/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 772 5300",
+    "sg:postcode":"63118",
+    "sg:province":"MO",
+    "sg:tags":[
+        "american",
+        "sandwich",
+        "pastry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873677,
+        102191575,
+        404518053,
+        85633793,
+        85971343,
+        102080791,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ClwStRz0HvHB8rYy1n662_38.602150_-90.242386@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462603417,
+    "wof:geomhash":"7bac68a4e19bd94daa7271da2419eb0b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080791,
+            "localadmin_id":404518053,
+            "locality_id":85971343,
+            "neighbourhood_id":85873677,
+            "region_id":85688661,
+            "venue_id":807066143
+        }
+    ],
+    "wof:id":807066143,
+    "wof:lastmodified":1462603417,
+    "wof:name":"Panera Bread",
+    "wof:parent_id":85873677,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich",
+        "pastry"
+    ]
+},
+  "bbox": [
+    -90.242386,
+    38.60215,
+    -90.242386,
+    38.60215
+],
+  "geometry": {"coordinates":[-90.242386,38.60215],"type":"Point"}
+}

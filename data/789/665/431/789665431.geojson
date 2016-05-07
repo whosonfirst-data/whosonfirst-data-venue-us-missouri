@@ -1,0 +1,75 @@
+{
+  "id": 789665431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.55729,39.156319,-94.55729,39.156319",
+    "geom:latitude":39.156319,
+    "geom:longitude":-94.55729,
+    "iso:country":"US",
+    "sg:address":"3401 N Chippewa Dr",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 452 6477",
+    "sg:postcode":"64116",
+    "sg:province":"MO",
+    "sg:tags":[
+        "airport"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85867025,
+        102191575,
+        404518075,
+        85633793,
+        85970739,
+        102081227,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3yZax5wXAc1aHROOCYYBSM_39.156319_-94.557290@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462589596,
+    "wof:geomhash":"1bca12b704834f4d72ae5090b1c09c5d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081227,
+            "localadmin_id":404518075,
+            "locality_id":85970739,
+            "neighbourhood_id":85867025,
+            "region_id":85688661,
+            "venue_id":789665431
+        }
+    ],
+    "wof:id":789665431,
+    "wof:lastmodified":1462589596,
+    "wof:name":"Aaron's Airport Svc",
+    "wof:parent_id":85867025,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -94.55729,
+    39.156319,
+    -94.55729,
+    39.156319
+],
+  "geometry": {"coordinates":[-94.55728999999999,39.156319],"type":"Point"}
+}

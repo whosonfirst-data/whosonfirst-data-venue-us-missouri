@@ -1,0 +1,78 @@
+{
+  "id": 806779637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.479281,38.813392,-90.479281,38.813392",
+    "geom:latitude":38.813392,
+    "geom:longitude":-90.479281,
+    "iso:country":"US",
+    "sg:address":"248 Hughes Ln",
+    "sg:city":"St Charles",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Testing Lab",
+            "type":"Services"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 949 5835",
+    "sg:postcode":"63301",
+    "sg:province":"MO",
+    "sg:tags":[
+        "laboratory",
+        "electronics"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7FAjlfc2Wwyx3kBUBPAQer_38.813392_-90.479281@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462601012,
+    "wof:geomhash":"25bcd7f96273fff87eec6dd4eaa95616",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":806779637
+        }
+    ],
+    "wof:id":806779637,
+    "wof:lastmodified":1462601012,
+    "wof:name":"Eltek International Labs",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory",
+        "electronics"
+    ]
+},
+  "bbox": [
+    -90.479281,
+    38.813392,
+    -90.479281,
+    38.813392
+],
+  "geometry": {"coordinates":[-90.479281,38.813392],"type":"Point"}
+}

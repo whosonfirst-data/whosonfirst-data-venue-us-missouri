@@ -1,0 +1,71 @@
+{
+  "id": 790327357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.438414,37.789576,-90.438414,37.789576",
+    "geom:latitude":37.789576,
+    "geom:longitude":-90.438414,
+    "iso:country":"US",
+    "sg:address":"620 Maple Valley Dr",
+    "sg:city":"Farmington",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 760 1111",
+    "sg:postcode":"63640",
+    "sg:province":"MO",
+    "sg:tags":[
+        "cardiology"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970665,
+        102085297,
+        85816309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5tGkajhm9StzRVrVjivdDk_37.789576_-90.438414@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462594972,
+    "wof:geomhash":"18e33813770ebf2d586bf0e14cc9be54",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085297,
+            "locality_id":85970665,
+            "neighbourhood_id":85816309,
+            "region_id":85688661,
+            "venue_id":790327357
+        }
+    ],
+    "wof:id":790327357,
+    "wof:lastmodified":1462594972,
+    "wof:name":"Heart Health Center PC",
+    "wof:parent_id":85816309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cardiology"
+    ]
+},
+  "bbox": [
+    -90.438414,
+    37.789576,
+    -90.438414,
+    37.789576
+],
+  "geometry": {"coordinates":[-90.43841399999999,37.789576],"type":"Point"}
+}

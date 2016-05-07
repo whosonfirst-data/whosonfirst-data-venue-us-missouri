@@ -1,0 +1,77 @@
+{
+  "id": 789758835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.387656,38.673629,-90.387656,38.673629",
+    "geom:latitude":38.673629,
+    "geom:longitude":-90.387656,
+    "iso:country":"US",
+    "sg:address":"9621 Olive Blvd",
+    "sg:city":"Olivette",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 994 0058",
+    "sg:postcode":"63132",
+    "sg:province":"MO",
+    "sg:tags":[
+        "postal",
+        "us"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85803699,
+        102191575,
+        404517323,
+        85633793,
+        85972315,
+        102086173,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_01dog2ASYFjdJIeKhzOm6E_38.673629_-90.387656@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462590321,
+    "wof:geomhash":"a25c9d9f1526ede2ec8e4fbd76c5806c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086173,
+            "localadmin_id":404517323,
+            "locality_id":85972315,
+            "neighbourhood_id":85803699,
+            "region_id":85688661,
+            "venue_id":789758835
+        }
+    ],
+    "wof:id":789758835,
+    "wof:lastmodified":1462590321,
+    "wof:name":"US Post Office",
+    "wof:parent_id":85803699,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "postal",
+        "us"
+    ]
+},
+  "bbox": [
+    -90.387656,
+    38.673629,
+    -90.387656,
+    38.673629
+],
+  "geometry": {"coordinates":[-90.38765600000001,38.673629],"type":"Point"}
+}

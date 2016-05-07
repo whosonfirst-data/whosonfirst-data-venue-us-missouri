@@ -1,0 +1,88 @@
+{
+  "id": 807059891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.564721,38.649359,-90.564721,38.649359",
+    "geom:latitude":38.649359,
+    "geom:longitude":-90.564721,
+    "iso:country":"US",
+    "sg:address":"284 Chesterfield Mall",
+    "sg:city":"Chesterfield",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/chesterfield/35841-california-pizza-kitchen/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 536 6910",
+    "sg:postcode":"63017",
+    "sg:province":"MO",
+    "sg:tags":[
+        "sandwich",
+        "salad",
+        "soup",
+        "american",
+        "pasta",
+        "californian",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85805465,
+        102191575,
+        404517241,
+        85633793,
+        85972357,
+        102086173,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_404G3MdJepjWZFDHIhPDo3_38.649359_-90.564721@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462603370,
+    "wof:geomhash":"ba02cc5c880de506f79a1848bb67daba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086173,
+            "localadmin_id":404517241,
+            "locality_id":85972357,
+            "neighbourhood_id":85805465,
+            "region_id":85688661,
+            "venue_id":807059891
+        }
+    ],
+    "wof:id":807059891,
+    "wof:lastmodified":1462603370,
+    "wof:name":"California Pizza Kitchen",
+    "wof:parent_id":85805465,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sandwich",
+        "salad",
+        "soup",
+        "american",
+        "pasta",
+        "californian",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -90.564721,
+    38.649359,
+    -90.564721,
+    38.649359
+],
+  "geometry": {"coordinates":[-90.56472100000001,38.649359],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 789697163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.207725,37.8272,-92.207725,37.8272",
+    "geom:latitude":37.8272,
+    "geom:longitude":-92.207725,
+    "iso:country":"US",
+    "sg:address":"209 Old Rte 66",
+    "sg:city":"Waynesville",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Hazard Insurance",
+            "type":"Services"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 774 6951",
+    "sg:postcode":"65583",
+    "sg:province":"MO",
+    "sg:tags":[
+        "bond"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85822351,
+        102191575,
+        404517689,
+        85633793,
+        85971093,
+        102086161,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3uEpkEy60lNpGa0nql1Bwu_37.827200_-92.207725@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462589838,
+    "wof:geomhash":"252d9643aa978cb8e7bfe62afdc7c039",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086161,
+            "localadmin_id":404517689,
+            "locality_id":85971093,
+            "neighbourhood_id":85822351,
+            "region_id":85688661,
+            "venue_id":789697163
+        }
+    ],
+    "wof:id":789697163,
+    "wof:lastmodified":1462589838,
+    "wof:name":"Missouri Bail Bonding",
+    "wof:parent_id":85822351,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bond"
+    ]
+},
+  "bbox": [
+    -92.207725,
+    37.8272,
+    -92.207725,
+    37.8272
+],
+  "geometry": {"coordinates":[-92.207725,37.8272],"type":"Point"}
+}

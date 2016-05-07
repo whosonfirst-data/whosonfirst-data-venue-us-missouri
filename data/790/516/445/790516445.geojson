@@ -1,0 +1,84 @@
+{
+  "id": 790516445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.505319,38.812412,-90.505319,38.812412",
+    "geom:latitude":38.812412,
+    "geom:longitude":-90.505319,
+    "iso:country":"US",
+    "sg:address":"3328 W Adams St",
+    "sg:city":"St Charles",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        },
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 949 5050",
+    "sg:postcode":"63301",
+    "sg:province":"MO",
+    "sg:tags":[
+        "operator",
+        "local",
+        "garbage",
+        "collection",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2unAC7g75nx6FLBpNpx1y9_38.812412_-90.505319@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462596501,
+    "wof:geomhash":"e2fa9957a2292c8ad67c443055fd6e14",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":790516445
+        }
+    ],
+    "wof:id":790516445,
+    "wof:lastmodified":1462596501,
+    "wof:name":"J & K Hauling",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "garbage",
+        "collection",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -90.505319,
+    38.812412,
+    -90.505319,
+    38.812412
+],
+  "geometry": {"coordinates":[-90.505319,38.812412],"type":"Point"}
+}

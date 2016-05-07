@@ -1,0 +1,75 @@
+{
+  "id": 773530303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.535153,39.078325,-94.535153,39.078325",
+    "geom:latitude":39.078325,
+    "geom:longitude":-94.535153,
+    "iso:country":"US",
+    "sg:address":"2500 Norton Ave",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 861 0361",
+    "sg:postcode":"64127",
+    "sg:province":"MO",
+    "sg:tags":[
+        "towing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872027,
+        102191575,
+        404518075,
+        85633793,
+        85970739,
+        102081227,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2xvgWq4ACsqwZzmg7fAKSE_39.078325_-94.535153@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462586417,
+    "wof:geomhash":"ccf10b36619224e65fb2ad4fb93657e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081227,
+            "localadmin_id":404518075,
+            "locality_id":85970739,
+            "neighbourhood_id":85872027,
+            "region_id":85688661,
+            "venue_id":773530303
+        }
+    ],
+    "wof:id":773530303,
+    "wof:lastmodified":1462586417,
+    "wof:name":"Dynamic Tow",
+    "wof:parent_id":85872027,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "towing"
+    ]
+},
+  "bbox": [
+    -94.535153,
+    39.078325,
+    -94.535153,
+    39.078325
+],
+  "geometry": {"coordinates":[-94.53515299999999,39.078325],"type":"Point"}
+}

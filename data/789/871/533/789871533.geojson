@@ -1,0 +1,75 @@
+{
+  "id": 789871533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.776118,37.9125,-91.776118,37.9125",
+    "geom:latitude":37.9125,
+    "geom:longitude":-91.776118,
+    "iso:country":"US",
+    "sg:address":"12901 US Hwy 63",
+    "sg:city":"Rolla",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 364 1020",
+    "sg:postcode":"65401",
+    "sg:province":"MO",
+    "sg:tags":[
+        "water",
+        "well",
+        "drilling"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970821,
+        102086893,
+        85814531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5B7y8sVIqknLF2ysWPVWLr_37.912500_-91.776118@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462591199,
+    "wof:geomhash":"062710f1c488370bb664411d99242f5b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086893,
+            "locality_id":85970821,
+            "neighbourhood_id":85814531,
+            "region_id":85688661,
+            "venue_id":789871533
+        }
+    ],
+    "wof:id":789871533,
+    "wof:lastmodified":1462591199,
+    "wof:name":"Tenco Drilling & Pump Co",
+    "wof:parent_id":85814531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "water",
+        "well",
+        "drilling"
+    ]
+},
+  "bbox": [
+    -91.776118,
+    37.9125,
+    -91.776118,
+    37.9125
+],
+  "geometry": {"coordinates":[-91.776118,37.9125],"type":"Point"}
+}

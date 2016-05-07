@@ -1,0 +1,78 @@
+{
+  "id": 790309921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.36659,37.22304,-93.36659,37.22304",
+    "geom:latitude":37.22304,
+    "geom:longitude":-93.36659,
+    "iso:country":"US",
+    "sg:address":"1223 N Farm Rd 123",
+    "sg:city":"Springfield",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 864 4574",
+    "sg:postcode":"65802",
+    "sg:province":"MO",
+    "sg:tags":[
+        "system",
+        "blower"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971363,
+        102087523,
+        85836941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_67NV8dsJG3zGVCCUBnMK3Y_37.223040_-93.366590@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462594846,
+    "wof:geomhash":"50b98aff9e5e142c54727888dad322ba",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087523,
+            "locality_id":85971363,
+            "neighbourhood_id":85836941,
+            "region_id":85688661,
+            "venue_id":790309921
+        }
+    ],
+    "wof:id":790309921,
+    "wof:lastmodified":1462594846,
+    "wof:name":"Central Blower Repair",
+    "wof:parent_id":85836941,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "system",
+        "blower"
+    ]
+},
+  "bbox": [
+    -93.36659,
+    37.22304,
+    -93.36659,
+    37.22304
+],
+  "geometry": {"coordinates":[-93.36659,37.22304],"type":"Point"}
+}

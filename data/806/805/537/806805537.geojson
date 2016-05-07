@@ -1,0 +1,74 @@
+{
+  "id": 806805537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.456375,38.562945,-90.456375,38.562945",
+    "geom:latitude":38.562945,
+    "geom:longitude":-90.456375,
+    "iso:country":"US",
+    "sg:address":"3500 Scarlet Oak Blvd",
+    "sg:city":"St Louis",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Electronics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 343 8518",
+    "sg:postcode":"63122",
+    "sg:province":"MO",
+    "sg:tags":[
+        "coil",
+        "transformer",
+        "electronic"
+    ],
+    "sg:website":"www.crmagnetics.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85839871,
+        102086173
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_33yXAbudKCoVMvAnUeofbb_38.562945_-90.456375@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462601231,
+    "wof:geomhash":"fbe759f978b82cb7948afd9f85c5db3b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086173,
+            "neighbourhood_id":85839871,
+            "region_id":85688661,
+            "venue_id":806805537
+        }
+    ],
+    "wof:id":806805537,
+    "wof:lastmodified":1462601231,
+    "wof:name":"C R Magnetics",
+    "wof:parent_id":85839871,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "coil",
+        "transformer",
+        "electronic"
+    ]
+},
+  "bbox": [
+    -90.456375,
+    38.562945,
+    -90.456375,
+    38.562945
+],
+  "geometry": {"coordinates":[-90.45637499999999,38.562945],"type":"Point"}
+}

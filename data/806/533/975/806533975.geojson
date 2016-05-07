@@ -1,0 +1,75 @@
+{
+  "id": 806533975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.543608,38.805992,-90.543608,38.805992",
+    "geom:latitude":38.805992,
+    "geom:longitude":-90.543608,
+    "iso:country":"US",
+    "sg:address":"2864 Penbroke Ln",
+    "sg:city":"Saint Charles",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 946 6183",
+    "sg:postcode":"63301",
+    "sg:province":"MO",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5TiJ8P0hzWIX9H1gnV8iZe_38.805992_-90.543608@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462598903,
+    "wof:geomhash":"350bf8dab123231bc5e95bddcbfc1391",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":806533975
+        }
+    ],
+    "wof:id":806533975,
+    "wof:lastmodified":1462598903,
+    "wof:name":"Bryant Trucking Co",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -90.543608,
+    38.805992,
+    -90.543608,
+    38.805992
+],
+  "geometry": {"coordinates":[-90.54360800000001,38.805992],"type":"Point"}
+}

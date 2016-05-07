@@ -1,0 +1,81 @@
+{
+  "id": 807101617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.311061,37.243749,-93.311061,37.243749",
+    "geom:latitude":37.243749,
+    "geom:longitude":-93.311061,
+    "iso:country":"US",
+    "sg:address":"2555 N Kansas Expy",
+    "sg:city":"Springfield",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Ice Cream",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/springfield/218798-braums-ice-cream--dairy-stores/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 831 9210",
+    "sg:postcode":"65803",
+    "sg:province":"MO",
+    "sg:tags":[
+        "american",
+        "ice",
+        "cream"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971363,
+        102087523,
+        85881139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6O5enn4MNi2iPytcqTMSbg_37.243714_-93.311071@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462603750,
+    "wof:geomhash":"a992574e2d5a5b3d5da6b134e8c9acd1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087523,
+            "locality_id":85971363,
+            "neighbourhood_id":85881139,
+            "region_id":85688661,
+            "venue_id":807101617
+        }
+    ],
+    "wof:id":807101617,
+    "wof:lastmodified":1462603750,
+    "wof:name":"Braum's Ice Cream & Dairy Stores",
+    "wof:parent_id":85881139,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "ice",
+        "cream"
+    ]
+},
+  "bbox": [
+    -93.311061,
+    37.243749,
+    -93.311061,
+    37.243749
+],
+  "geometry": {"coordinates":[-93.311061,37.243749],"type":"Point"}
+}

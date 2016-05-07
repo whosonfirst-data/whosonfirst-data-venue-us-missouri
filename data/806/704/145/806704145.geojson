@@ -1,0 +1,71 @@
+{
+  "id": 806704145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.392562,38.415293,-90.392562,38.415293",
+    "geom:latitude":38.415293,
+    "geom:longitude":-90.392562,
+    "iso:country":"US",
+    "sg:address":"3780 Vogel Rd",
+    "sg:city":"Arnold",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 962 6363",
+    "sg:postcode":"63010",
+    "sg:province":"MO",
+    "sg:tags":[
+        "financial",
+        "institution"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85805175,
+        102080787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_32LRcJKhg3Nz3bm3Ob9PHC_38.415293_-90.392562@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462600370,
+    "wof:geomhash":"a32b5886a512d78b5c36be72196a23ae",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080787,
+            "neighbourhood_id":85805175,
+            "region_id":85688661,
+            "venue_id":806704145
+        }
+    ],
+    "wof:id":806704145,
+    "wof:lastmodified":1462600370,
+    "wof:name":"Arsenal Credit Union",
+    "wof:parent_id":85805175,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "financial",
+        "institution"
+    ]
+},
+  "bbox": [
+    -90.392562,
+    38.415293,
+    -90.392562,
+    38.415293
+],
+  "geometry": {"coordinates":[-90.392562,38.415293],"type":"Point"}
+}

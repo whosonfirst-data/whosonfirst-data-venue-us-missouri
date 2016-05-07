@@ -1,0 +1,73 @@
+{
+  "id": 773326767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.491798,39.328029,-94.491798,39.328029",
+    "geom:latitude":39.328029,
+    "geom:longitude":-94.491798,
+    "iso:country":"US",
+    "sg:address":"13023 N Eastern Ave",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 781 8422",
+    "sg:postcode":"64166",
+    "sg:province":"MO",
+    "sg:tags":[
+        "operator",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970739,
+        102086177,
+        85836329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6uTHTdnMgpxMNmVJJKLhMo_39.328029_-94.491798@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462584885,
+    "wof:geomhash":"d3a3360591011818ca137ed9f247bb2b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086177,
+            "locality_id":85970739,
+            "neighbourhood_id":85836329,
+            "region_id":85688661,
+            "venue_id":773326767
+        }
+    ],
+    "wof:id":773326767,
+    "wof:lastmodified":1462584885,
+    "wof:name":"Daniel E Deal",
+    "wof:parent_id":85836329,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -94.491798,
+    39.328029,
+    -94.491798,
+    39.328029
+],
+  "geometry": {"coordinates":[-94.491798,39.328029],"type":"Point"}
+}

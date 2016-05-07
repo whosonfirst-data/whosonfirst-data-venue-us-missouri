@@ -1,0 +1,88 @@
+{
+  "id": 807011935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.211098,38.632702,-90.211098,38.632702",
+    "geom:latitude":38.632702,
+    "geom:longitude":-90.211098,
+    "iso:country":"US",
+    "sg:address":"321 N 22nd St",
+    "sg:city":"Saint Louis",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Drugs",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 421 0300",
+    "sg:postcode":"63103",
+    "sg:province":"MO",
+    "sg:tags":[
+        "preparation",
+        "pharmaceutical",
+        "product",
+        "drugstore",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873645,
+        102191575,
+        404518053,
+        85633793,
+        85971343,
+        102080791,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2CQDjo5FRPYYF9t9LTU5hB_38.632778_-90.211074@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1462602960,
+    "wof:geomhash":"f4e9961f9e91f4c3067384c65107ad46",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080791,
+            "localadmin_id":404518053,
+            "locality_id":85971343,
+            "neighbourhood_id":85873645,
+            "region_id":85688661,
+            "venue_id":807011935
+        }
+    ],
+    "wof:id":807011935,
+    "wof:lastmodified":1462602960,
+    "wof:name":"Performance Products Inc",
+    "wof:parent_id":85873645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "preparation",
+        "pharmaceutical",
+        "product",
+        "drugstore",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -90.211098,
+    38.632702,
+    -90.211098,
+    38.632702
+],
+  "geometry": {"coordinates":[-90.21109800000001,38.632702],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 789879423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.866004,38.810184,-90.866004,38.810184",
+    "geom:latitude":38.810184,
+    "geom:longitude":-90.866004,
+    "iso:country":"US",
+    "sg:address":"1126 W Pearce Blvd",
+    "sg:city":"Wentzville",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 327 7000",
+    "sg:postcode":"63385",
+    "sg:province":"MO",
+    "sg:tags":[
+        "stock",
+        "bond"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_17eUt5ElQcDzvscGjPuApM_38.810184_-90.866004@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462591285,
+    "wof:geomhash":"c93ba6d3a1c27277cb707bbbb2ab6ee4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":789879423
+        }
+    ],
+    "wof:id":789879423,
+    "wof:lastmodified":1462591285,
+    "wof:name":"Edward Jones Co",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "stock",
+        "bond"
+    ]
+},
+  "bbox": [
+    -90.866004,
+    38.810184,
+    -90.866004,
+    38.810184
+],
+  "geometry": {"coordinates":[-90.866004,38.810184],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 773209903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.429377,37.771791,-90.429377,37.771791",
+    "geom:latitude":37.771791,
+    "geom:longitude":-90.429377,
+    "iso:country":"US",
+    "sg:address":"1012 Perrine Rd",
+    "sg:city":"Farmington",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 756 5550",
+    "sg:postcode":"63640",
+    "sg:province":"MO",
+    "sg:tags":[
+        "repair",
+        "medical",
+        "electrical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970665,
+        102085297,
+        85816309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6vXxNcAjky7gxRdQuNVaeY_37.771791_-90.429377@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462583996,
+    "wof:geomhash":"38c63d49d6ae8c772f14b8628e0a19c6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085297,
+            "locality_id":85970665,
+            "neighbourhood_id":85816309,
+            "region_id":85688661,
+            "venue_id":773209903
+        }
+    ],
+    "wof:id":773209903,
+    "wof:lastmodified":1462583996,
+    "wof:name":"Heartland Hearing",
+    "wof:parent_id":85816309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair",
+        "medical",
+        "electrical"
+    ]
+},
+  "bbox": [
+    -90.429377,
+    37.771791,
+    -90.429377,
+    37.771791
+],
+  "geometry": {"coordinates":[-90.429377,37.771791],"type":"Point"}
+}

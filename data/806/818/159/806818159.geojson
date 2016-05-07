@@ -1,0 +1,71 @@
+{
+  "id": 806818159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.37345,39.119815,-94.37345,39.119815",
+    "geom:latitude":39.119815,
+    "geom:longitude":-94.37345,
+    "iso:country":"US",
+    "sg:address":"17300 US Hwy 24",
+    "sg:city":"Independence",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 257 0464",
+    "sg:postcode":"64056",
+    "sg:province":"MO",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971449,
+        102081227,
+        85844675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_36QkVL7K7rLleXdwKo0EmZ_39.119815_-94.373450@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462601326,
+    "wof:geomhash":"ba403ad47f9b1ce7a02fef80323baf9b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081227,
+            "locality_id":85971449,
+            "neighbourhood_id":85844675,
+            "region_id":85688661,
+            "venue_id":806818159
+        }
+    ],
+    "wof:id":806818159,
+    "wof:lastmodified":1462601326,
+    "wof:name":"Fairview 66 Service",
+    "wof:parent_id":85844675,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -94.37345,
+    39.119815,
+    -94.37345,
+    39.119815
+],
+  "geometry": {"coordinates":[-94.37345000000001,39.119815],"type":"Point"}
+}

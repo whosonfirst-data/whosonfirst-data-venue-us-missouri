@@ -1,0 +1,71 @@
+{
+  "id": 789695801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.175828,38.574134,-92.175828,38.574134",
+    "geom:latitude":38.574134,
+    "geom:longitude":-92.175828,
+    "iso:country":"US",
+    "sg:address":"610 Jefferson St",
+    "sg:city":"Jefferson City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 635 4091",
+    "sg:postcode":"65101",
+    "sg:province":"MO",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970647,
+        102087511,
+        85837745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0t8iIvWnP0qmh3BzoF1gug_38.574134_-92.175828@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462589825,
+    "wof:geomhash":"f5179addeafb333463bce399f21ce627",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087511,
+            "locality_id":85970647,
+            "neighbourhood_id":85837745,
+            "region_id":85688661,
+            "venue_id":789695801
+        }
+    ],
+    "wof:id":789695801,
+    "wof:lastmodified":1462589825,
+    "wof:name":"J & D Bicycle Shop",
+    "wof:parent_id":85837745,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -92.175828,
+    38.574134,
+    -92.175828,
+    38.574134
+],
+  "geometry": {"coordinates":[-92.175828,38.574134],"type":"Point"}
+}

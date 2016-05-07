@@ -1,0 +1,78 @@
+{
+  "id": 790520623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.513983,38.788638,-90.513983,38.788638",
+    "geom:latitude":38.788638,
+    "geom:longitude":-90.513983,
+    "iso:country":"US",
+    "sg:address":"1001 S Duchesne Dr",
+    "sg:city":"St Charles",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 947 0920",
+    "sg:postcode":"63301",
+    "sg:province":"MO",
+    "sg:tags":[
+        "drinking",
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ihgS7nebLdjiei2YZYCBB_38.788638_-90.513983@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462596547,
+    "wof:geomhash":"4a7d82caa98582d786d03b318f232200",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":790520623
+        }
+    ],
+    "wof:id":790520623,
+    "wof:lastmodified":1462596547,
+    "wof:name":"Duchesne Bar & Grill",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drinking",
+        "eating"
+    ]
+},
+  "bbox": [
+    -90.513983,
+    38.788638,
+    -90.513983,
+    38.788638
+],
+  "geometry": {"coordinates":[-90.513983,38.788638],"type":"Point"}
+}

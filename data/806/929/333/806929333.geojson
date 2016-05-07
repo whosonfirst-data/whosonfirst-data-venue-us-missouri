@@ -1,0 +1,71 @@
+{
+  "id": 806929333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.354519,39.710179,-91.354519,39.710179",
+    "geom:latitude":39.710179,
+    "geom:longitude":-91.354519,
+    "iso:country":"US",
+    "sg:address":"101 Broadway",
+    "sg:city":"Hannibal",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"Marina",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 406 1272",
+    "sg:postcode":"63401",
+    "sg:province":"MO",
+    "sg:tags":[
+        "operation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688697,
+        85633793,
+        85938427,
+        102086213,
+        85867477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4t6wMWhnQOupyOjMhoSl2L_39.710179_-91.354519@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462602270,
+    "wof:geomhash":"e0852be2ed81eacae33b166d7caba7d3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086213,
+            "locality_id":85938427,
+            "neighbourhood_id":85867477,
+            "region_id":85688697,
+            "venue_id":806929333
+        }
+    ],
+    "wof:id":806929333,
+    "wof:lastmodified":1462602270,
+    "wof:name":"Hannibal Boat Harbor",
+    "wof:parent_id":85867477,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operation"
+    ]
+},
+  "bbox": [
+    -91.354519,
+    39.710179,
+    -91.354519,
+    39.710179
+],
+  "geometry": {"coordinates":[-91.354519,39.710179],"type":"Point"}
+}

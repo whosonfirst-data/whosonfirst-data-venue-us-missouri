@@ -1,0 +1,80 @@
+{
+  "id": 773765763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.187714,38.638276,-90.187714,38.638276",
+    "geom:latitude":38.638276,
+    "geom:longitude":-90.187714,
+    "iso:country":"US",
+    "sg:address":"1308 N 7th St",
+    "sg:city":"St Louis",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 621 3868",
+    "sg:postcode":"63106",
+    "sg:province":"MO",
+    "sg:tags":[
+        "tire"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873643,
+        102191575,
+        404518053,
+        85633793,
+        85971343,
+        102080791,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6oer1ZW9dOgXnHqaIluOhE_38.638276_-90.187714@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462588212,
+    "wof:geomhash":"499874b25124c3fef0264dba36097501",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080791,
+            "localadmin_id":404518053,
+            "locality_id":85971343,
+            "neighbourhood_id":85873643,
+            "region_id":85688661,
+            "venue_id":773765763
+        }
+    ],
+    "wof:id":773765763,
+    "wof:lastmodified":1462588212,
+    "wof:name":"Community Tire Retreading",
+    "wof:parent_id":85873643,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tire"
+    ]
+},
+  "bbox": [
+    -90.187714,
+    38.638276,
+    -90.187714,
+    38.638276
+],
+  "geometry": {"coordinates":[-90.187714,38.638276],"type":"Point"}
+}

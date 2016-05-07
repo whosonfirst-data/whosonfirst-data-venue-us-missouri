@@ -1,0 +1,75 @@
+{
+  "id": 773705693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.212888,38.622862,-90.212888,38.622862",
+    "geom:latitude":38.622862,
+    "geom:longitude":-90.212888,
+    "iso:country":"US",
+    "sg:address":"800 S 21st St",
+    "sg:city":"Saint Louis",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Electric",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 554 2173",
+    "sg:postcode":"63103",
+    "sg:province":"MO",
+    "sg:tags":[
+        "gas"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873661,
+        102191575,
+        404518053,
+        85633793,
+        85971343,
+        102080791,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4BFe9BBqCk3kloPXj2Hrdr_38.622862_-90.212888@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462587764,
+    "wof:geomhash":"36536c896209328cbbd50600fc6d960f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080791,
+            "localadmin_id":404518053,
+            "locality_id":85971343,
+            "neighbourhood_id":85873661,
+            "region_id":85688661,
+            "venue_id":773705693
+        }
+    ],
+    "wof:id":773705693,
+    "wof:lastmodified":1462587764,
+    "wof:name":"Union Electric",
+    "wof:parent_id":85873661,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "gas"
+    ]
+},
+  "bbox": [
+    -90.212888,
+    38.622862,
+    -90.212888,
+    38.622862
+],
+  "geometry": {"coordinates":[-90.21288800000001,38.622862],"type":"Point"}
+}

@@ -1,0 +1,111 @@
+{
+  "id": 807217935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.438036,39.245505,-94.438036,39.245505",
+    "geom:latitude":39.245505,
+    "geom:longitude":-94.438036,
+    "iso:country":"US",
+    "sg:address":"1131 W Kansas St",
+    "sg:city":"Liberty",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        },
+        {
+            "category":"Community Center",
+            "subcategory":"",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 792 5577",
+    "sg:postcode":"64068",
+    "sg:province":"MO",
+    "sg:tags":[
+        "physician",
+        "medical",
+        "surgeons",
+        "internal",
+        "osteopathic",
+        "treatment",
+        "medicine",
+        "manipulative"
+    ],
+    "sg:website":"http://www.boulwaremedicalclinic.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420525367,
+        102191575,
+        404516717,
+        85633793,
+        85972461,
+        102086177,
+        85688661,
+        420525305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0gtjLJSYRYsX3jKauGeiy5_39.245505_-94.438036@1303262932"
+    },
+    "wof:country":"US",
+    "wof:created":1462604980,
+    "wof:geomhash":"60514343cbaacd4a86c76013419a228d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086177,
+            "localadmin_id":404516717,
+            "locality_id":85972461,
+            "neighbourhood_id":420525367,
+            "region_id":85688661,
+            "venue_id":807217935
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086177,
+            "localadmin_id":404516717,
+            "locality_id":85972461,
+            "neighbourhood_id":420525305,
+            "region_id":85688661,
+            "venue_id":807217935
+        }
+    ],
+    "wof:id":807217935,
+    "wof:lastmodified":1462604980,
+    "wof:name":"Boulware Medical Center",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "medical",
+        "surgeons",
+        "internal",
+        "osteopathic",
+        "treatment",
+        "medicine",
+        "manipulative"
+    ]
+},
+  "bbox": [
+    -94.438036,
+    39.245505,
+    -94.438036,
+    39.245505
+],
+  "geometry": {"coordinates":[-94.438036,39.245505],"type":"Point"}
+}

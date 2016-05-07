@@ -1,0 +1,71 @@
+{
+  "id": 773755603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.228409,37.180485,-93.228409,37.180485",
+    "geom:latitude":37.180485,
+    "geom:longitude":-93.228409,
+    "iso:country":"US",
+    "sg:address":"3235 E Sunshine St",
+    "sg:city":"Springfield",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 889 0090",
+    "sg:postcode":"65804",
+    "sg:province":"MO",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971363,
+        102087523,
+        85881121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0EAB2E7V0s6Lke6eB9iEe8_37.180485_-93.228409@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462588136,
+    "wof:geomhash":"7371c4957cb2baacac672aa5bea6ab3f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087523,
+            "locality_id":85971363,
+            "neighbourhood_id":85881121,
+            "region_id":85688661,
+            "venue_id":773755603
+        }
+    ],
+    "wof:id":773755603,
+    "wof:lastmodified":1462588136,
+    "wof:name":"Sunshine Animal Hospital",
+    "wof:parent_id":85881121,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -93.228409,
+    37.180485,
+    -93.228409,
+    37.180485
+],
+  "geometry": {"coordinates":[-93.228409,37.180485],"type":"Point"}
+}

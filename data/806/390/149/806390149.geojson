@@ -1,0 +1,75 @@
+{
+  "id": 806390149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.430035,38.749485,-90.430035,38.749485",
+    "geom:latitude":38.749485,
+    "geom:longitude":-90.430035,
+    "iso:country":"US",
+    "sg:address":"12303 de Paul Dr",
+    "sg:city":"Bridgeton",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 344 6000",
+    "sg:postcode":"63044",
+    "sg:province":"MO",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85836381,
+        102191575,
+        404517389,
+        85633793,
+        85972341,
+        102086173,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4bOBEc41Qufa98x5Y7diVN_38.749485_-90.430035@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462597753,
+    "wof:geomhash":"0d412136c442a19d3424a29fdfe45fb2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086173,
+            "localadmin_id":404517389,
+            "locality_id":85972341,
+            "neighbourhood_id":85836381,
+            "region_id":85688661,
+            "venue_id":806390149
+        }
+    ],
+    "wof:id":806390149,
+    "wof:lastmodified":1462597753,
+    "wof:name":"Depaul Health Center",
+    "wof:parent_id":85836381,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -90.430035,
+    38.749485,
+    -90.430035,
+    38.749485
+],
+  "geometry": {"coordinates":[-90.430035,38.749485],"type":"Point"}
+}

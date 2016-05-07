@@ -1,0 +1,75 @@
+{
+  "id": 789755101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.395397,38.908385,-94.395397,38.908385",
+    "geom:latitude":38.908385,
+    "geom:longitude":-94.395397,
+    "iso:country":"US",
+    "sg:address":"430 SW Ward Rd",
+    "sg:city":"Lees Summit",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 347 9100",
+    "sg:postcode":"64081",
+    "sg:province":"MO",
+    "sg:tags":[
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85849825,
+        102191575,
+        404518079,
+        85633793,
+        85970737,
+        102081227,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2iUkjDxjewyDda8Bd1dLYN_38.908385_-94.395397@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462590292,
+    "wof:geomhash":"5e637544ffb1b7f37e913b2d45c2ffea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081227,
+            "localadmin_id":404518079,
+            "locality_id":85970737,
+            "neighbourhood_id":85849825,
+            "region_id":85688661,
+            "venue_id":789755101
+        }
+    ],
+    "wof:id":789755101,
+    "wof:lastmodified":1462590292,
+    "wof:name":"Pizza World",
+    "wof:parent_id":85849825,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pizza"
+    ]
+},
+  "bbox": [
+    -94.395397,
+    38.908385,
+    -94.395397,
+    38.908385
+],
+  "geometry": {"coordinates":[-94.395397,38.908385],"type":"Point"}
+}

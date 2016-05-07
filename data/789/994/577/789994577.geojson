@@ -1,0 +1,71 @@
+{
+  "id": 789994577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.162333,38.567941,-92.162333,38.567941",
+    "geom:latitude":38.567941,
+    "geom:longitude":-92.162333,
+    "iso:country":"US",
+    "sg:address":"1015 E McCarty St",
+    "sg:city":"Jefferson City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 634 4464",
+    "sg:postcode":"65101",
+    "sg:province":"MO",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970647,
+        102087511,
+        85837745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7YkuiHu0hifPsnL97xUgKI_38.567941_-92.162333@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462592285,
+    "wof:geomhash":"818f967c5d4187e05862a301fc890e52",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087511,
+            "locality_id":85970647,
+            "neighbourhood_id":85837745,
+            "region_id":85688661,
+            "venue_id":789994577
+        }
+    ],
+    "wof:id":789994577,
+    "wof:lastmodified":1462592285,
+    "wof:name":"Als Tire Service",
+    "wof:parent_id":85837745,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -92.162333,
+    38.567941,
+    -92.162333,
+    38.567941
+],
+  "geometry": {"coordinates":[-92.162333,38.567941],"type":"Point"}
+}

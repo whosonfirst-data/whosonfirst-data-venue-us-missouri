@@ -1,0 +1,70 @@
+{
+  "id": 807058621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.384555,38.412378,-90.384555,38.412378",
+    "geom:latitude":38.412378,
+    "geom:longitude":-90.384555,
+    "iso:country":"US",
+    "sg:address":"1932 Richardson Rd",
+    "sg:city":"Arnold",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/arnold/195552-taco-bell/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 467 5077",
+    "sg:postcode":"63010",
+    "sg:province":"MO",
+    "sg:tags":[
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85805175,
+        102080787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0n5opGRr5hr51Cl0ZdFWHX_38.412378_-90.384555@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462603360,
+    "wof:geomhash":"0379a1ebb48b66c858635fef6e436cb8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080787,
+            "neighbourhood_id":85805175,
+            "region_id":85688661,
+            "venue_id":807058621
+        }
+    ],
+    "wof:id":807058621,
+    "wof:lastmodified":1462603360,
+    "wof:name":"Taco Bell",
+    "wof:parent_id":85805175,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican"
+    ]
+},
+  "bbox": [
+    -90.384555,
+    38.412378,
+    -90.384555,
+    38.412378
+],
+  "geometry": {"coordinates":[-90.38455500000001,38.412378],"type":"Point"}
+}

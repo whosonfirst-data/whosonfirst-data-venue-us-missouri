@@ -1,0 +1,77 @@
+{
+  "id": 807065279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.243602,38.639479,-90.243602,38.639479",
+    "geom:latitude":38.639479,
+    "geom:longitude":-90.243602,
+    "iso:country":"US",
+    "sg:address":"4006 Lindell Blvd",
+    "sg:city":"Saint Louis",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/st-louis/194307-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"63108",
+    "sg:province":"MO",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873637,
+        102191575,
+        404518053,
+        85633793,
+        85971343,
+        102080791,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4cyhHVCLcPK3RXAsq15QTD_38.639479_-90.243602@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462603410,
+    "wof:geomhash":"1192c4594bb397184634ff7808298746",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080791,
+            "localadmin_id":404518053,
+            "locality_id":85971343,
+            "neighbourhood_id":85873637,
+            "region_id":85688661,
+            "venue_id":807065279
+        }
+    ],
+    "wof:id":807065279,
+    "wof:lastmodified":1462603410,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85873637,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -90.243602,
+    38.639479,
+    -90.243602,
+    38.639479
+],
+  "geometry": {"coordinates":[-90.243602,38.639479],"type":"Point"}
+}

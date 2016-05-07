@@ -1,0 +1,80 @@
+{
+  "id": 807064957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.240235,38.612679,-90.240235,38.612679",
+    "geom:latitude":38.612679,
+    "geom:longitude":-90.240235,
+    "iso:country":"US",
+    "sg:address":"2121 S Grand Blvd",
+    "sg:city":"Saint Louis",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/st-louis/165358-del-taco/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 534 1424",
+    "sg:postcode":"63104",
+    "sg:province":"MO",
+    "sg:tags":[
+        "american",
+        "mexican",
+        "tex-mex"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873673,
+        102191575,
+        404518053,
+        85633793,
+        85971343,
+        102080791,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2cpHAbHF69CosUlQWpURhh_38.612679_-90.240235@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462603408,
+    "wof:geomhash":"d572ead0b03074c6d1ec58588ebe87f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080791,
+            "localadmin_id":404518053,
+            "locality_id":85971343,
+            "neighbourhood_id":85873673,
+            "region_id":85688661,
+            "venue_id":807064957
+        }
+    ],
+    "wof:id":807064957,
+    "wof:lastmodified":1462603408,
+    "wof:name":"Del Taco",
+    "wof:parent_id":85873673,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "mexican",
+        "tex-mex"
+    ]
+},
+  "bbox": [
+    -90.240235,
+    38.612679,
+    -90.240235,
+    38.612679
+],
+  "geometry": {"coordinates":[-90.240235,38.612679],"type":"Point"}
+}

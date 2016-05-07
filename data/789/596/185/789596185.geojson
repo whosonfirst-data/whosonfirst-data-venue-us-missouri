@@ -1,0 +1,86 @@
+{
+  "id": 789596185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.330533,37.197464,-93.330533,37.197464",
+    "geom:latitude":37.197464,
+    "geom:longitude":-93.330533,
+    "iso:country":"US",
+    "sg:address":"2621 W Grand St",
+    "sg:city":"Springfield",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Motor Vehicles & Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 869 7809",
+    "sg:postcode":"65802",
+    "sg:province":"MO",
+    "sg:tags":[
+        "body",
+        "mfg",
+        "truck",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85881165,
+        102191575,
+        404516201,
+        85633793,
+        85971363,
+        102087523,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3XDOSUA53BIvVadDjKJTNB_37.197464_-93.330533@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462589029,
+    "wof:geomhash":"5facd19c17d52101d70ac32d3e14b415",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087523,
+            "localadmin_id":404516201,
+            "locality_id":85971363,
+            "neighbourhood_id":85881165,
+            "region_id":85688661,
+            "venue_id":789596185
+        }
+    ],
+    "wof:id":789596185,
+    "wof:lastmodified":1462589029,
+    "wof:name":"Martin Body Company Inc",
+    "wof:parent_id":85881165,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "mfg",
+        "truck",
+        "general"
+    ]
+},
+  "bbox": [
+    -93.330533,
+    37.197464,
+    -93.330533,
+    37.197464
+],
+  "geometry": {"coordinates":[-93.330533,37.197464],"type":"Point"}
+}

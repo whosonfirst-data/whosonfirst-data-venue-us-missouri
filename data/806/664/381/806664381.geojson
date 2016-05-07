@@ -1,0 +1,77 @@
+{
+  "id": 806664381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.19577,38.628618,-90.19577,38.628618",
+    "geom:latitude":38.628618,
+    "geom:longitude":-90.19577,
+    "iso:country":"US",
+    "sg:address":"1010 Pine St",
+    "sg:city":"St Louis",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Dance Studio",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 235 6784",
+    "sg:postcode":"63101",
+    "sg:province":"MO",
+    "sg:tags":[
+        "instruction",
+        "dancing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85867033,
+        102191575,
+        404518053,
+        85633793,
+        85971343,
+        102080791,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5hxYmhuKtH8zKNg5E6Ml1g_38.628618_-90.195770@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462600035,
+    "wof:geomhash":"000d9b7a3f508824110fd4f86c2fa4d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080791,
+            "localadmin_id":404518053,
+            "locality_id":85971343,
+            "neighbourhood_id":85867033,
+            "region_id":85688661,
+            "venue_id":806664381
+        }
+    ],
+    "wof:id":806664381,
+    "wof:lastmodified":1462600035,
+    "wof:name":"LA Quinta Dance Studio",
+    "wof:parent_id":85867033,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instruction",
+        "dancing"
+    ]
+},
+  "bbox": [
+    -90.19577,
+    38.628618,
+    -90.19577,
+    38.628618
+],
+  "geometry": {"coordinates":[-90.19577,38.628618],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 806819099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.746477,37.951414,-91.746477,37.951414",
+    "geom:latitude":37.951414,
+    "geom:longitude":-91.746477,
+    "iso:country":"US",
+    "sg:address":"1490 E 10th St",
+    "sg:city":"Rolla",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 364 3989",
+    "sg:postcode":"65401",
+    "sg:province":"MO",
+    "sg:tags":[
+        "department"
+    ],
+    "sg:website":"www.rollacity.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970821,
+        102086893,
+        85814531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4chJaTuCQxxzkOVd0qakJl_37.951414_-91.746477@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462601333,
+    "wof:geomhash":"04fb0ec7126421d9350ddf8d48b18da4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086893,
+            "locality_id":85970821,
+            "neighbourhood_id":85814531,
+            "region_id":85688661,
+            "venue_id":806819099
+        }
+    ],
+    "wof:id":806819099,
+    "wof:lastmodified":1462601333,
+    "wof:name":"Rolla Fire Dept",
+    "wof:parent_id":85814531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -91.746477,
+    37.951414,
+    -91.746477,
+    37.951414
+],
+  "geometry": {"coordinates":[-91.746477,37.951414],"type":"Point"}
+}

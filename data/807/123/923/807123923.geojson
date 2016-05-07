@@ -1,0 +1,75 @@
+{
+  "id": 807123923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.573513,38.208312,-90.573513,38.208312",
+    "geom:latitude":38.208312,
+    "geom:longitude":-90.573513,
+    "iso:country":"US",
+    "sg:address":"11267 Highway 21",
+    "sg:city":"Hillsboro",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 789 3366",
+    "sg:postcode":"63050",
+    "sg:province":"MO",
+    "sg:tags":[
+        "clinic",
+        "hospital",
+        "veterinarian",
+        "specialty"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85848677,
+        102080787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_47IQDQ6QCDHWRRVhs2jV6Y_38.208312_-90.573513@1303262926"
+    },
+    "wof:country":"US",
+    "wof:created":1462603990,
+    "wof:geomhash":"50d4479d9bd546b04b68bf35724b1167",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080787,
+            "neighbourhood_id":85848677,
+            "region_id":85688661,
+            "venue_id":807123923
+        }
+    ],
+    "wof:id":807123923,
+    "wof:lastmodified":1462603990,
+    "wof:name":"Reed, Leslie A",
+    "wof:parent_id":85848677,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic",
+        "hospital",
+        "veterinarian",
+        "specialty"
+    ]
+},
+  "bbox": [
+    -90.573513,
+    38.208312,
+    -90.573513,
+    38.208312
+],
+  "geometry": {"coordinates":[-90.57351300000001,38.208312],"type":"Point"}
+}

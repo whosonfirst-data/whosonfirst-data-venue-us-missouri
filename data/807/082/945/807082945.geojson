@@ -1,0 +1,80 @@
+{
+  "id": 807082945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.496238,39.168742,-94.496238,39.168742",
+    "geom:latitude":39.168742,
+    "geom:longitude":-94.496238,
+    "iso:country":"US",
+    "sg:address":"4201 N Corrington Ave",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/chouteau/182448-wendys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 455 2849",
+    "sg:postcode":"64117",
+    "sg:province":"MO",
+    "sg:tags":[
+        "burger",
+        "american",
+        "soup"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85858321,
+        102191575,
+        404518075,
+        85633793,
+        85970739,
+        102081227,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_401nD846aSRMcE257tggDx_39.168742_-94.496238@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462603558,
+    "wof:geomhash":"d0328d6674e4fb4c1afd46fd4e825a25",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081227,
+            "localadmin_id":404518075,
+            "locality_id":85970739,
+            "neighbourhood_id":85858321,
+            "region_id":85688661,
+            "venue_id":807082945
+        }
+    ],
+    "wof:id":807082945,
+    "wof:lastmodified":1462603558,
+    "wof:name":"Wendy's",
+    "wof:parent_id":85858321,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "soup"
+    ]
+},
+  "bbox": [
+    -94.496238,
+    39.168742,
+    -94.496238,
+    39.168742
+],
+  "geometry": {"coordinates":[-94.49623800000001,39.168742],"type":"Point"}
+}

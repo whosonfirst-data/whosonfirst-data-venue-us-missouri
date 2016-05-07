@@ -1,0 +1,73 @@
+{
+  "id": 773209403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.747659,38.023079,-91.747659,38.023079",
+    "geom:latitude":38.023079,
+    "geom:longitude":-91.747659,
+    "iso:country":"US",
+    "sg:address":"14397 Co Rd 2030",
+    "sg:city":"Rolla",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 341 2190",
+    "sg:postcode":"65401",
+    "sg:province":"MO",
+    "sg:tags":[
+        "garbage",
+        "collection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970821,
+        102086893,
+        85814531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4cnRZjJoIKS7PlIV84vNwW_38.023079_-91.747659@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462583993,
+    "wof:geomhash":"bef84642e5bfa6bae464887b7bf9daf7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086893,
+            "locality_id":85970821,
+            "neighbourhood_id":85814531,
+            "region_id":85688661,
+            "venue_id":773209403
+        }
+    ],
+    "wof:id":773209403,
+    "wof:lastmodified":1462583993,
+    "wof:name":"County Trash Svc",
+    "wof:parent_id":85814531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garbage",
+        "collection"
+    ]
+},
+  "bbox": [
+    -91.747659,
+    38.023079,
+    -91.747659,
+    38.023079
+],
+  "geometry": {"coordinates":[-91.747659,38.023079],"type":"Point"}
+}

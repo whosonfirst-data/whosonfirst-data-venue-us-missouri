@@ -1,0 +1,77 @@
+{
+  "id": 807074219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.512366,37.874658,-90.512366,37.874658",
+    "geom:latitude":37.874658,
+    "geom:longitude":-90.512366,
+    "iso:country":"US",
+    "sg:address":"411 N State St",
+    "sg:city":"Park Hills",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/randolph/194129-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"63601",
+    "sg:province":"MO",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420525419,
+        102191575,
+        404517197,
+        85633793,
+        85970625,
+        102085297,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6gAxNhQSxBjjrENSXSab7j_37.874658_-90.512366@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462603489,
+    "wof:geomhash":"78ca6ffc683cc849249eb653542d38bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085297,
+            "localadmin_id":404517197,
+            "locality_id":85970625,
+            "neighbourhood_id":420525419,
+            "region_id":85688661,
+            "venue_id":807074219
+        }
+    ],
+    "wof:id":807074219,
+    "wof:lastmodified":1462603489,
+    "wof:name":"McDonald's",
+    "wof:parent_id":420525419,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -90.512366,
+    37.874658,
+    -90.512366,
+    37.874658
+],
+  "geometry": {"coordinates":[-90.512366,37.874658],"type":"Point"}
+}

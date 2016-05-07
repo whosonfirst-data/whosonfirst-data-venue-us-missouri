@@ -1,0 +1,73 @@
+{
+  "id": 806355359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.144601,38.549185,-92.144601,38.549185",
+    "geom:latitude":38.549185,
+    "geom:longitude":-92.144601,
+    "iso:country":"US",
+    "sg:address":"2207 Expressview Dr",
+    "sg:city":"Jefferson City",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 635 0024",
+    "sg:postcode":"65101",
+    "sg:province":"MO",
+    "sg:tags":[
+        "excavation",
+        "sanitary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970647,
+        102087511,
+        85837745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0goueaqzr252TORaqqolK6_38.549185_-92.144601@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462597473,
+    "wof:geomhash":"0c5fd22ed994cfa8086d70cc59869af9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087511,
+            "locality_id":85970647,
+            "neighbourhood_id":85837745,
+            "region_id":85688661,
+            "venue_id":806355359
+        }
+    ],
+    "wof:id":806355359,
+    "wof:lastmodified":1462597473,
+    "wof:name":"Ridenhour Excavating",
+    "wof:parent_id":85837745,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavation",
+        "sanitary"
+    ]
+},
+  "bbox": [
+    -92.144601,
+    38.549185,
+    -92.144601,
+    38.549185
+],
+  "geometry": {"coordinates":[-92.14460099999999,38.549185],"type":"Point"}
+}

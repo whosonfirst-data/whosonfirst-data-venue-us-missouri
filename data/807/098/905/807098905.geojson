@@ -1,0 +1,78 @@
+{
+  "id": 807098905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.414953,39.049459,-94.414953,39.049459",
+    "geom:latitude":39.049459,
+    "geom:longitude":-94.414953,
+    "iso:country":"US",
+    "sg:address":"3939 S Noland Rd",
+    "sg:city":"Independence",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/blue/11609-dennys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 836 2255",
+    "sg:postcode":"64055",
+    "sg:province":"MO",
+    "sg:tags":[
+        "american",
+        "diner"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85871965,
+        102191575,
+        404517999,
+        85633793,
+        85971471,
+        102081227,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5yAqQozzJ3EWIsuLl0tmD9_39.049048_-94.414996@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462603709,
+    "wof:geomhash":"cd19eb036fcabb955e43302da3045c36",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081227,
+            "localadmin_id":404517999,
+            "locality_id":85971471,
+            "neighbourhood_id":85871965,
+            "region_id":85688661,
+            "venue_id":807098905
+        }
+    ],
+    "wof:id":807098905,
+    "wof:lastmodified":1462603709,
+    "wof:name":"Denny's",
+    "wof:parent_id":85871965,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "diner"
+    ]
+},
+  "bbox": [
+    -94.414953,
+    39.049459,
+    -94.414953,
+    39.049459
+],
+  "geometry": {"coordinates":[-94.414953,39.049459],"type":"Point"}
+}

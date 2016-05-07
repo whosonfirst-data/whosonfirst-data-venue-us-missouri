@@ -1,0 +1,78 @@
+{
+  "id": 807081451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.593419,39.053482,-94.593419,39.053482",
+    "geom:latitude":39.053482,
+    "geom:longitude":-94.593419,
+    "iso:country":"US",
+    "sg:address":"4037 Mill St",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/kaw/86620-imos-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 931 4667",
+    "sg:postcode":"64111",
+    "sg:province":"MO",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85857131,
+        102191575,
+        404518075,
+        85633793,
+        85970739,
+        102081227,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_68ARxfYBKggMgoADKcAXf9_39.053482_-94.593419@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462603544,
+    "wof:geomhash":"017a4be3400802f292a57f3252471d8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081227,
+            "localadmin_id":404518075,
+            "locality_id":85970739,
+            "neighbourhood_id":85857131,
+            "region_id":85688661,
+            "venue_id":807081451
+        }
+    ],
+    "wof:id":807081451,
+    "wof:lastmodified":1462603544,
+    "wof:name":"Imo's Pizza",
+    "wof:parent_id":85857131,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -94.593419,
+    39.053482,
+    -94.593419,
+    39.053482
+],
+  "geometry": {"coordinates":[-94.593419,39.053482],"type":"Point"}
+}

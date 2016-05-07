@@ -1,0 +1,71 @@
+{
+  "id": 773771725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.364089,38.480562,-90.364089,38.480562",
+    "geom:latitude":38.480562,
+    "geom:longitude":-90.364089,
+    "iso:country":"US",
+    "sg:address":"5450 Cherryview Ln",
+    "sg:city":"Saint Louis",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 544 0077",
+    "sg:postcode":"63128",
+    "sg:province":"MO",
+    "sg:tags":[
+        "body"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971021,
+        102080787,
+        85832925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6WInXR3O7UU71ePHfEyK5N_38.480562_-90.364089@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462588254,
+    "wof:geomhash":"ffc8e9b2d66a79dd0c9f1eeb4f25bfbe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080787,
+            "locality_id":85971021,
+            "neighbourhood_id":85832925,
+            "region_id":85688661,
+            "venue_id":773771725
+        }
+    ],
+    "wof:id":773771725,
+    "wof:lastmodified":1462588254,
+    "wof:name":"Jimmys Auto Top",
+    "wof:parent_id":85832925,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body"
+    ]
+},
+  "bbox": [
+    -90.364089,
+    38.480562,
+    -90.364089,
+    38.480562
+],
+  "geometry": {"coordinates":[-90.36408900000001,38.480562],"type":"Point"}
+}

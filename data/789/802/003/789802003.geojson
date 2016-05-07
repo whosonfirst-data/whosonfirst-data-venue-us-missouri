@@ -1,0 +1,75 @@
+{
+  "id": 789802003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.266411,37.210984,-93.266411,37.210984",
+    "geom:latitude":37.210984,
+    "geom:longitude":-93.266411,
+    "iso:country":"US",
+    "sg:address":"1544 E Trafficway St",
+    "sg:city":"Springfield",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 864 9990",
+    "sg:postcode":"65802",
+    "sg:province":"MO",
+    "sg:tags":[
+        "laboratory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85881157,
+        102191575,
+        404516201,
+        85633793,
+        85971363,
+        102087523,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Z0A1CvtmhbIuHm7L8wrEj_37.210984_-93.266411@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462590655,
+    "wof:geomhash":"c18257c3799db5ddfadf691f093b4466",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087523,
+            "localadmin_id":404516201,
+            "locality_id":85971363,
+            "neighbourhood_id":85881157,
+            "region_id":85688661,
+            "venue_id":789802003
+        }
+    ],
+    "wof:id":789802003,
+    "wof:lastmodified":1462590655,
+    "wof:name":"Quality Dental Lab",
+    "wof:parent_id":85881157,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory"
+    ]
+},
+  "bbox": [
+    -93.266411,
+    37.210984,
+    -93.266411,
+    37.210984
+],
+  "geometry": {"coordinates":[-93.26641100000001,37.210984],"type":"Point"}
+}

@@ -1,0 +1,86 @@
+{
+  "id": 806511055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.683718,39.1909,-94.683718,39.1909",
+    "geom:latitude":39.1909,
+    "geom:longitude":-94.683718,
+    "iso:country":"US",
+    "sg:address":"300 Main St",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Home Furnishings",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 746 9506",
+    "sg:postcode":"64152",
+    "sg:province":"MO",
+    "sg:tags":[
+        "interior",
+        "consultant",
+        "design",
+        "decorator"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85840629,
+        102191575,
+        404517567,
+        85633793,
+        85970495,
+        102085271,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0mkURJ5TJL0XOlM2DiZgt3_39.190900_-94.683718@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462598724,
+    "wof:geomhash":"060b012490d52c5eb3a9510a7a2f4ba8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085271,
+            "localadmin_id":404517567,
+            "locality_id":85970495,
+            "neighbourhood_id":85840629,
+            "region_id":85688661,
+            "venue_id":806511055
+        }
+    ],
+    "wof:id":806511055,
+    "wof:lastmodified":1462598724,
+    "wof:name":"Rivendell",
+    "wof:parent_id":85840629,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "interior",
+        "consultant",
+        "design",
+        "decorator"
+    ]
+},
+  "bbox": [
+    -94.683718,
+    39.1909,
+    -94.683718,
+    39.1909
+],
+  "geometry": {"coordinates":[-94.683718,39.1909],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 807273311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.77655,37.956718,-91.77655,37.956718",
+    "geom:latitude":37.956718,
+    "geom:longitude":-91.77655,
+    "iso:country":"US",
+    "sg:address":"1501 N Bishop Ave",
+    "sg:city":"Rolla",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 341 9946",
+    "sg:postcode":"65401",
+    "sg:province":"MO",
+    "sg:tags":[
+        "truck",
+        "leasing",
+        "car"
+    ],
+    "sg:website":"http://www.enterprise.com/car_rental/deeplinkmap.do?gpbr=519A&bid=004&cnty=US&arc=YPTRL01&cm_mmc=Yellowpages.com-_-IYP-_-Tradelisting-_-branch",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970821,
+        102086893,
+        85814531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1hFJwFBn6FzzjQSPVTg0FW_37.956718_-91.776550@1303262936"
+    },
+    "wof:country":"US",
+    "wof:created":1462605577,
+    "wof:geomhash":"3bb8bb190022c93d37a7d8b1d81be522",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086893,
+            "locality_id":85970821,
+            "neighbourhood_id":85814531,
+            "region_id":85688661,
+            "venue_id":807273311
+        }
+    ],
+    "wof:id":807273311,
+    "wof:lastmodified":1462605577,
+    "wof:name":"Enterprise Rent-A-Car",
+    "wof:parent_id":85814531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck",
+        "leasing",
+        "car"
+    ]
+},
+  "bbox": [
+    -91.77655,
+    37.956718,
+    -91.77655,
+    37.956718
+],
+  "geometry": {"coordinates":[-91.77655,37.956718],"type":"Point"}
+}

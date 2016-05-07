@@ -1,0 +1,71 @@
+{
+  "id": 789729623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.228055,37.204291,-93.228055,37.204291",
+    "geom:latitude":37.204291,
+    "geom:longitude":-93.228055,
+    "iso:country":"US",
+    "sg:address":"537 S Ingram Mill Ave",
+    "sg:city":"Springfield",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 865 2176",
+    "sg:postcode":"65802",
+    "sg:province":"MO",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971363,
+        102087523,
+        85881137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0n2QpsOQTleLhYMjoqi3ga_37.204291_-93.228055@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462590101,
+    "wof:geomhash":"84ec1589f877bf5e1f7f658d591074c1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087523,
+            "locality_id":85971363,
+            "neighbourhood_id":85881137,
+            "region_id":85688661,
+            "venue_id":789729623
+        }
+    ],
+    "wof:id":789729623,
+    "wof:lastmodified":1462590101,
+    "wof:name":"Launch Pad",
+    "wof:parent_id":85881137,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -93.228055,
+    37.204291,
+    -93.228055,
+    37.204291
+],
+  "geometry": {"coordinates":[-93.228055,37.204291],"type":"Point"}
+}

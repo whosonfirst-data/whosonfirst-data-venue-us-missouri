@@ -1,0 +1,86 @@
+{
+  "id": 807208825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.518545,38.897579,-94.518545,38.897579",
+    "geom:latitude":38.897579,
+    "geom:longitude":-94.518545,
+    "iso:country":"US",
+    "sg:address":"6522 E 125th St",
+    "sg:city":"Grandview",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 765 5322",
+    "sg:postcode":"64030",
+    "sg:province":"MO",
+    "sg:tags":[
+        "vacancy",
+        "apartment",
+        "rental",
+        "listing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85871945,
+        102191575,
+        404518085,
+        85633793,
+        85971459,
+        102081227,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0hkvYT9ip0xEGMMTstxQmr_38.897579_-94.518545@1303262932"
+    },
+    "wof:country":"US",
+    "wof:created":1462604887,
+    "wof:geomhash":"dc9964f363814e8f81dfc0ebc5eec835",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081227,
+            "localadmin_id":404518085,
+            "locality_id":85971459,
+            "neighbourhood_id":85871945,
+            "region_id":85688661,
+            "venue_id":807208825
+        }
+    ],
+    "wof:id":807208825,
+    "wof:lastmodified":1462604887,
+    "wof:name":"Candlelight Apartments",
+    "wof:parent_id":85871945,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "vacancy",
+        "apartment",
+        "rental",
+        "listing"
+    ]
+},
+  "bbox": [
+    -94.518545,
+    38.897579,
+    -94.518545,
+    38.897579
+],
+  "geometry": {"coordinates":[-94.518545,38.897579],"type":"Point"}
+}

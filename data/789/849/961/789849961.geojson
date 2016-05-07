@@ -1,0 +1,71 @@
+{
+  "id": 789849961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.777737,37.935396,-91.777737,37.935396",
+    "geom:latitude":37.935396,
+    "geom:longitude":-91.777737,
+    "iso:country":"US",
+    "sg:address":"640 US Hwy 63",
+    "sg:city":"Rolla",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 634 6115",
+    "sg:postcode":"65401",
+    "sg:province":"MO",
+    "sg:tags":[
+        "mover"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970821,
+        102086893,
+        85814531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5K04zoSxuiQveT2WKuryWp_37.935396_-91.777737@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462591026,
+    "wof:geomhash":"2a9156ef73cc67dbdbc4190f3551e80c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086893,
+            "locality_id":85970821,
+            "neighbourhood_id":85814531,
+            "region_id":85688661,
+            "venue_id":789849961
+        }
+    ],
+    "wof:id":789849961,
+    "wof:lastmodified":1462591026,
+    "wof:name":"Atlas Van Lines",
+    "wof:parent_id":85814531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mover"
+    ]
+},
+  "bbox": [
+    -91.777737,
+    37.935396,
+    -91.777737,
+    37.935396
+],
+  "geometry": {"coordinates":[-91.777737,37.935396],"type":"Point"}
+}

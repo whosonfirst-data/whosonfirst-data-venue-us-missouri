@@ -1,0 +1,75 @@
+{
+  "id": 806587675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.243002,38.573974,-90.243002,38.573974",
+    "geom:latitude":38.573974,
+    "geom:longitude":-90.243002,
+    "iso:country":"US",
+    "sg:address":"4552 Virginia Ave",
+    "sg:city":"St Louis",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 352 3835",
+    "sg:postcode":"63111",
+    "sg:province":"MO",
+    "sg:tags":[
+        "janitor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873693,
+        102191575,
+        404518053,
+        85633793,
+        85971343,
+        102080791,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6jStqoUU2e4P58FgL15xX0_38.573974_-90.243002@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462599379,
+    "wof:geomhash":"d04a4c227bbedff932661a6bfa8f2b35",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080791,
+            "localadmin_id":404518053,
+            "locality_id":85971343,
+            "neighbourhood_id":85873693,
+            "region_id":85688661,
+            "venue_id":806587675
+        }
+    ],
+    "wof:id":806587675,
+    "wof:lastmodified":1462599379,
+    "wof:name":"Hart Cleaning Svc",
+    "wof:parent_id":85873693,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitor"
+    ]
+},
+  "bbox": [
+    -90.243002,
+    38.573974,
+    -90.243002,
+    38.573974
+],
+  "geometry": {"coordinates":[-90.243002,38.573974],"type":"Point"}
+}

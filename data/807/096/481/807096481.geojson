@@ -1,0 +1,74 @@
+{
+  "id": 807096481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.38524,38.413099,-90.38524,38.413099",
+    "geom:latitude":38.413099,
+    "geom:longitude":-90.38524,
+    "iso:country":"US",
+    "sg:address":"1951 Richardson Rd",
+    "sg:city":"Arnold",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/arnold/83943-dominos-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 467 5800",
+    "sg:postcode":"63010",
+    "sg:province":"MO",
+    "sg:tags":[
+        "american",
+        "wing",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85805175,
+        102080787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2XjLYhe5CxlzJ3QlEnglql_38.413475_-90.385763@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462603680,
+    "wof:geomhash":"5abfd096f9e8e5827db306f8d884c7a7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080787,
+            "neighbourhood_id":85805175,
+            "region_id":85688661,
+            "venue_id":807096481
+        }
+    ],
+    "wof:id":807096481,
+    "wof:lastmodified":1462603680,
+    "wof:name":"Domino's Pizza",
+    "wof:parent_id":85805175,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "wing",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -90.38524,
+    38.413099,
+    -90.38524,
+    38.413099
+],
+  "geometry": {"coordinates":[-90.38524,38.413099],"type":"Point"}
+}

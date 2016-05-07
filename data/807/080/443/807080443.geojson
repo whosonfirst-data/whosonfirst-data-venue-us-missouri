@@ -1,0 +1,77 @@
+{
+  "id": 807080443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.575553,39.084868,-94.575553,39.084868",
+    "geom:latitude":39.084868,
+    "geom:longitude":-94.575553,
+    "iso:country":"US",
+    "sg:address":"2301 Holmes St",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/kaw/194194-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"64108",
+    "sg:province":"MO",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872019,
+        102191575,
+        404518075,
+        85633793,
+        85970739,
+        102081227,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4dJ3GUoxNCl9IZsBtKBueB_39.084868_-94.575553@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462603536,
+    "wof:geomhash":"380b8ef6cfe2a2fe86f093026bb46fa8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081227,
+            "localadmin_id":404518075,
+            "locality_id":85970739,
+            "neighbourhood_id":85872019,
+            "region_id":85688661,
+            "venue_id":807080443
+        }
+    ],
+    "wof:id":807080443,
+    "wof:lastmodified":1462603536,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85872019,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -94.575553,
+    39.084868,
+    -94.575553,
+    39.084868
+],
+  "geometry": {"coordinates":[-94.575553,39.084868],"type":"Point"}
+}

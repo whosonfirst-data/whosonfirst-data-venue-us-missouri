@@ -1,0 +1,77 @@
+{
+  "id": 806919123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.420157,39.121566,-94.420157,39.121566",
+    "geom:latitude":39.121566,
+    "geom:longitude":-94.420157,
+    "iso:country":"US",
+    "sg:address":"507 Marcia Ave",
+    "sg:city":"Independence",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 461 7008",
+    "sg:postcode":"64050",
+    "sg:province":"MO",
+    "sg:tags":[
+        "lock",
+        "locksmith"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85810119,
+        102191575,
+        404515661,
+        85633793,
+        85971451,
+        102081227,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3iG2XEhD6J7evrf8mu5rQm_39.121566_-94.420157@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462602167,
+    "wof:geomhash":"fff627809975c38f36d46da74507a358",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081227,
+            "localadmin_id":404515661,
+            "locality_id":85971451,
+            "neighbourhood_id":85810119,
+            "region_id":85688661,
+            "venue_id":806919123
+        }
+    ],
+    "wof:id":806919123,
+    "wof:lastmodified":1462602167,
+    "wof:name":"American Lock Svc",
+    "wof:parent_id":85810119,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lock",
+        "locksmith"
+    ]
+},
+  "bbox": [
+    -94.420157,
+    39.121566,
+    -94.420157,
+    39.121566
+],
+  "geometry": {"coordinates":[-94.420157,39.121566],"type":"Point"}
+}

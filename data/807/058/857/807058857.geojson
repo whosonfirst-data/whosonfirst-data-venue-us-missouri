@@ -1,0 +1,76 @@
+{
+  "id": 807058857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.481395,38.596761,-90.481395,38.596761",
+    "geom:latitude":38.596761,
+    "geom:longitude":-90.481395,
+    "iso:country":"US",
+    "sg:address":"13775 Manchester Rd",
+    "sg:city":"Ballwin",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/missouri-river/195554-taco-bell/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 965 1232",
+    "sg:postcode":"63011",
+    "sg:province":"MO",
+    "sg:tags":[
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85802943,
+        102191575,
+        404517387,
+        85633793,
+        85972231,
+        102086173,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5pKnYdeUs33f7c6mNf9J42_38.596761_-90.481395@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462603362,
+    "wof:geomhash":"ffbd5ed406e8ecd0c070790a18ea26b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086173,
+            "localadmin_id":404517387,
+            "locality_id":85972231,
+            "neighbourhood_id":85802943,
+            "region_id":85688661,
+            "venue_id":807058857
+        }
+    ],
+    "wof:id":807058857,
+    "wof:lastmodified":1462603362,
+    "wof:name":"Taco Bell",
+    "wof:parent_id":85802943,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican"
+    ]
+},
+  "bbox": [
+    -90.481395,
+    38.596761,
+    -90.481395,
+    38.596761
+],
+  "geometry": {"coordinates":[-90.48139500000001,38.596761],"type":"Point"}
+}

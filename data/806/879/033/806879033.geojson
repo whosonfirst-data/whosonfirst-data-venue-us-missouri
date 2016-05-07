@@ -1,0 +1,71 @@
+{
+  "id": 806879033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.400623,38.21104,-90.400623,38.21104",
+    "geom:latitude":38.21104,
+    "geom:longitude":-90.400623,
+    "iso:country":"US",
+    "sg:address":"1147 E Gannon Dr",
+    "sg:city":"Festus",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 931 4441",
+    "sg:postcode":"63028",
+    "sg:province":"MO",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85848677,
+        102080787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4laaU0n3ANlSsQnLPRvRZO_38.211040_-90.400623@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462601847,
+    "wof:geomhash":"96881edc94539e78697cb87b88191562",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080787,
+            "neighbourhood_id":85848677,
+            "region_id":85688661,
+            "venue_id":806879033
+        }
+    ],
+    "wof:id":806879033,
+    "wof:lastmodified":1462601847,
+    "wof:name":"Vascular Associates",
+    "wof:parent_id":85848677,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -90.400623,
+    38.21104,
+    -90.400623,
+    38.21104
+],
+  "geometry": {"coordinates":[-90.400623,38.21104],"type":"Point"}
+}

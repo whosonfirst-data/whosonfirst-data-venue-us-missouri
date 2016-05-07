@@ -1,0 +1,73 @@
+{
+  "id": 789681191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.574929,38.791333,-90.574929,38.791333",
+    "geom:latitude":38.791333,
+    "geom:longitude":-90.574929,
+    "iso:country":"US",
+    "sg:address":"4110 Mexico Rd",
+    "sg:city":"St Peters",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 447 0105",
+    "sg:postcode":"63376",
+    "sg:province":"MO",
+    "sg:tags":[
+        "automobile",
+        "lubrication"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5KOP7gPvIrAngzyVFs9UdC_38.791333_-90.574929@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462589711,
+    "wof:geomhash":"cfe512793cca603816708ffdab89763c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":789681191
+        }
+    ],
+    "wof:id":789681191,
+    "wof:lastmodified":1462589711,
+    "wof:name":"Valvoline Instant Oil Change",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "lubrication"
+    ]
+},
+  "bbox": [
+    -90.574929,
+    38.791333,
+    -90.574929,
+    38.791333
+],
+  "geometry": {"coordinates":[-90.574929,38.791333],"type":"Point"}
+}

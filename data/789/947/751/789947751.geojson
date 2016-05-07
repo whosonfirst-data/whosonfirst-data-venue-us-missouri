@@ -1,0 +1,71 @@
+{
+  "id": 789947751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.58381,39.360412,-94.58381,39.360412",
+    "geom:latitude":39.360412,
+    "geom:longitude":-94.58381,
+    "iso:country":"US",
+    "sg:address":"14461 US Hwy 169",
+    "sg:city":"Smithville",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Books",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 532 9959",
+    "sg:postcode":"64089",
+    "sg:province":"MO",
+    "sg:tags":[
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970739,
+        102086177,
+        85836329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ENhKHIbW5JArwyaTWlEDT_39.360412_-94.583810@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462591883,
+    "wof:geomhash":"172bead92bbd630e2b9f003c3cfa5dbe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086177,
+            "locality_id":85970739,
+            "neighbourhood_id":85836329,
+            "region_id":85688661,
+            "venue_id":789947751
+        }
+    ],
+    "wof:id":789947751,
+    "wof:lastmodified":1462591883,
+    "wof:name":"All About Books",
+    "wof:parent_id":85836329,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dealer"
+    ]
+},
+  "bbox": [
+    -94.58381,
+    39.360412,
+    -94.58381,
+    39.360412
+],
+  "geometry": {"coordinates":[-94.58381,39.360412],"type":"Point"}
+}

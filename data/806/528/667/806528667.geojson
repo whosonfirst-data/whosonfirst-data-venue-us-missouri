@@ -1,0 +1,76 @@
+{
+  "id": 806528667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.554588,38.134857,-90.554588,38.134857",
+    "geom:latitude":38.134857,
+    "geom:longitude":-90.554588,
+    "iso:country":"US",
+    "sg:address":"521 E Main St",
+    "sg:city":"De Soto",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 586 9878",
+    "sg:postcode":"63020",
+    "sg:province":"MO",
+    "sg:tags":[
+        "sales",
+        "software"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85848677,
+        102080787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4dmwlVvN1XNzp0HIoCvU6e_38.134857_-90.554588@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462598859,
+    "wof:geomhash":"8efaceeb301909a68af9dbf022aa15cc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080787,
+            "neighbourhood_id":85848677,
+            "region_id":85688661,
+            "venue_id":806528667
+        }
+    ],
+    "wof:id":806528667,
+    "wof:lastmodified":1462598859,
+    "wof:name":"G & D Software Plus",
+    "wof:parent_id":85848677,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sales",
+        "software"
+    ]
+},
+  "bbox": [
+    -90.554588,
+    38.134857,
+    -90.554588,
+    38.134857
+],
+  "geometry": {"coordinates":[-90.554588,38.134857],"type":"Point"}
+}

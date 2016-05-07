@@ -1,0 +1,73 @@
+{
+  "id": 806597177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.36998,38.41608,-90.36998,38.41608",
+    "geom:latitude":38.41608,
+    "geom:longitude":-90.36998,
+    "iso:country":"US",
+    "sg:address":"1 Golfview Dr",
+    "sg:city":"Arnold",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 464 4077",
+    "sg:postcode":"63010",
+    "sg:province":"MO",
+    "sg:tags":[
+        "course",
+        "golf",
+        "public"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85805175,
+        102080787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4I5XyB4jXmbBuBurAxUjsc_38.416080_-90.369980@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462599464,
+    "wof:geomhash":"43c3c12fdcafc7a3d35950bc06cafb37",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080787,
+            "neighbourhood_id":85805175,
+            "region_id":85688661,
+            "venue_id":806597177
+        }
+    ],
+    "wof:id":806597177,
+    "wof:lastmodified":1462599464,
+    "wof:name":"Pomme Creek Golf Course",
+    "wof:parent_id":85805175,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "course",
+        "golf",
+        "public"
+    ]
+},
+  "bbox": [
+    -90.36998,
+    38.41608,
+    -90.36998,
+    38.41608
+],
+  "geometry": {"coordinates":[-90.36998,38.41608],"type":"Point"}
+}

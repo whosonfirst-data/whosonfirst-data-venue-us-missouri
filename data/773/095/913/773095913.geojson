@@ -1,0 +1,70 @@
+{
+  "id": 773095913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.727516,38.307043,-90.727516,38.307043",
+    "geom:latitude":38.307043,
+    "geom:longitude":-90.727516,
+    "iso:country":"US",
+    "sg:address":"8800 State Hwy 30",
+    "sg:city":"Dittmer",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 285 3030",
+    "sg:postcode":"63023",
+    "sg:province":"MO",
+    "sg:tags":[
+        "department"
+    ],
+    "sg:website":"www.cedarhillfire.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85848677,
+        102080787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4NsyqTBUDfUFdOYzPZarSY_38.307043_-90.727516@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462583121,
+    "wof:geomhash":"0d51c86c3cd349b66cd41a4ea7acfdc7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080787,
+            "neighbourhood_id":85848677,
+            "region_id":85688661,
+            "venue_id":773095913
+        }
+    ],
+    "wof:id":773095913,
+    "wof:lastmodified":1462583121,
+    "wof:name":"Cedar Hill Fire Dept",
+    "wof:parent_id":85848677,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -90.727516,
+    38.307043,
+    -90.727516,
+    38.307043
+],
+  "geometry": {"coordinates":[-90.72751599999999,38.307043],"type":"Point"}
+}

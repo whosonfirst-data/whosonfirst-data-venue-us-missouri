@@ -1,0 +1,87 @@
+{
+  "id": 807097407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.359439,38.715276,-90.359439,38.715276",
+    "geom:latitude":38.715276,
+    "geom:longitude":-90.359439,
+    "iso:country":"US",
+    "sg:address":"9230 Saint Charles Rock Rd",
+    "sg:city":"Saint Louis",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Ice Cream",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/midland/167996-dairy-queen/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 427 8686",
+    "sg:postcode":"63114",
+    "sg:province":"MO",
+    "sg:tags":[
+        "burger",
+        "american",
+        "ice",
+        "cream"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85847351,
+        102191575,
+        404517201,
+        85633793,
+        85972285,
+        102086173,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0HBX0oVsn0652121YZ8kz6_38.715794_-90.359750@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462603691,
+    "wof:geomhash":"80f258039c265337fc9b756eae9ef6cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086173,
+            "localadmin_id":404517201,
+            "locality_id":85972285,
+            "neighbourhood_id":85847351,
+            "region_id":85688661,
+            "venue_id":807097407
+        }
+    ],
+    "wof:id":807097407,
+    "wof:lastmodified":1462603691,
+    "wof:name":"Dairy Queen",
+    "wof:parent_id":85847351,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "ice",
+        "cream"
+    ]
+},
+  "bbox": [
+    -90.359439,
+    38.715276,
+    -90.359439,
+    38.715276
+],
+  "geometry": {"coordinates":[-90.35943899999999,38.715276],"type":"Point"}
+}

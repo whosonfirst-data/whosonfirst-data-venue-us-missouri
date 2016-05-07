@@ -1,0 +1,86 @@
+{
+  "id": 773427633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.573986,39.128429,-94.573986,39.128429",
+    "geom:latitude":39.128429,
+    "geom:longitude":-94.573986,
+    "iso:country":"US",
+    "sg:address":"1020 Gentry St",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 474 8189",
+    "sg:postcode":"64116",
+    "sg:province":"MO",
+    "sg:tags":[
+        "contractor",
+        "industrial",
+        "general",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85823983,
+        102191575,
+        404516715,
+        85633793,
+        85972453,
+        102086177,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3tLjcY59zWew0f1Suxfvnm_39.128429_-94.573986@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462585644,
+    "wof:geomhash":"fed827d75106efe468b2e9085f38d46b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086177,
+            "localadmin_id":404516715,
+            "locality_id":85972453,
+            "neighbourhood_id":85823983,
+            "region_id":85688661,
+            "venue_id":773427633
+        }
+    ],
+    "wof:id":773427633,
+    "wof:lastmodified":1462585644,
+    "wof:name":"Whitehead Construction",
+    "wof:parent_id":85823983,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor",
+        "industrial",
+        "general",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -94.573986,
+    39.128429,
+    -94.573986,
+    39.128429
+],
+  "geometry": {"coordinates":[-94.573986,39.128429],"type":"Point"}
+}

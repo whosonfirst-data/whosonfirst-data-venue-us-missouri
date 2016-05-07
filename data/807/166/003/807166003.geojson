@@ -1,0 +1,85 @@
+{
+  "id": 807166003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.243379,38.59257,-90.243379,38.59257",
+    "geom:latitude":38.59257,
+    "geom:longitude":-90.243379,
+    "iso:country":"US",
+    "sg:address":"3552 Gravois Ave",
+    "sg:city":"Saint Louis",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 771 9405",
+    "sg:postcode":"63118",
+    "sg:province":"MO",
+    "sg:tags":[
+        "game",
+        "lingerie",
+        "video"
+    ],
+    "sg:website":"www.prisy.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873677,
+        102191575,
+        404518053,
+        85633793,
+        85971343,
+        102080791,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3EbXINorPYRxP4SPSNaS0v_38.592570_-90.243379@1303262929"
+    },
+    "wof:country":"US",
+    "wof:created":1462604437,
+    "wof:geomhash":"6bfa396726662ec76b03ce6275e20f5d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080791,
+            "localadmin_id":404518053,
+            "locality_id":85971343,
+            "neighbourhood_id":85873677,
+            "region_id":85688661,
+            "venue_id":807166003
+        }
+    ],
+    "wof:id":807166003,
+    "wof:lastmodified":1462604437,
+    "wof:name":"Patricia's",
+    "wof:parent_id":85873677,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "game",
+        "lingerie",
+        "video"
+    ]
+},
+  "bbox": [
+    -90.243379,
+    38.59257,
+    -90.243379,
+    38.59257
+],
+  "geometry": {"coordinates":[-90.243379,38.59257],"type":"Point"}
+}

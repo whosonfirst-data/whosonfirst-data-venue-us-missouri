@@ -1,0 +1,75 @@
+{
+  "id": 773360815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.479059,38.793678,-90.479059,38.793678",
+    "geom:latitude":38.793678,
+    "geom:longitude":-90.479059,
+    "iso:country":"US",
+    "sg:address":"1423 N 4th St",
+    "sg:city":"St Charles",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 946 0721",
+    "sg:postcode":"63301",
+    "sg:province":"MO",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0z4IFf8XkRu8cf1l8psLDq_38.793678_-90.479059@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462585119,
+    "wof:geomhash":"93c516c279a09cc85c6d658ca7823019",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":773360815
+        }
+    ],
+    "wof:id":773360815,
+    "wof:lastmodified":1462585119,
+    "wof:name":"Frenchtowne Auto Body",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -90.479059,
+    38.793678,
+    -90.479059,
+    38.793678
+],
+  "geometry": {"coordinates":[-90.47905900000001,38.793678],"type":"Point"}
+}

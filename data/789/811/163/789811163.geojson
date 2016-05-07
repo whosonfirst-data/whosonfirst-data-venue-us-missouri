@@ -1,0 +1,73 @@
+{
+  "id": 789811163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.179431,38.570773,-92.179431,38.570773",
+    "geom:latitude":38.570773,
+    "geom:longitude":-92.179431,
+    "iso:country":"US",
+    "sg:address":"110 E Atchison St",
+    "sg:city":"Jefferson City",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 634 7809",
+    "sg:postcode":"65101",
+    "sg:province":"MO",
+    "sg:tags":[
+        "home",
+        "residential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970647,
+        102087511,
+        85837745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ZPH8h7EoFKCvwx108xIrs_38.570773_-92.179431@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462590723,
+    "wof:geomhash":"d8650a5e579747041a3561651a5f76b7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087511,
+            "locality_id":85970647,
+            "neighbourhood_id":85837745,
+            "region_id":85688661,
+            "venue_id":789811163
+        }
+    ],
+    "wof:id":789811163,
+    "wof:lastmodified":1462590723,
+    "wof:name":"Pickett's Office",
+    "wof:parent_id":85837745,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "residential"
+    ]
+},
+  "bbox": [
+    -92.179431,
+    38.570773,
+    -92.179431,
+    38.570773
+],
+  "geometry": {"coordinates":[-92.17943099999999,38.570773],"type":"Point"}
+}

@@ -1,0 +1,94 @@
+{
+  "id": 773358847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.585785,39.197637,-94.585785,39.197637",
+    "geom:latitude":39.197637,
+    "geom:longitude":-94.585785,
+    "iso:country":"US",
+    "sg:address":"5734 N Broadway Ave",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        },
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 455 7223",
+    "sg:postcode":"64118",
+    "sg:province":"MO",
+    "sg:tags":[
+        "mental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420525303,
+        102191575,
+        404518075,
+        85633793,
+        85970739,
+        102081227,
+        85688661,
+        420525395,
+        404517563,
+        85970477,
+        102085271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5XJ3i1iL93bRuQ4PAtulmL_39.197637_-94.585785@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462585108,
+    "wof:geomhash":"58949f421e73974d924f5308c475a44e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081227,
+            "localadmin_id":404518075,
+            "locality_id":85970739,
+            "neighbourhood_id":420525303,
+            "region_id":85688661,
+            "venue_id":773358847
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085271,
+            "localadmin_id":404517563,
+            "locality_id":85970477,
+            "neighbourhood_id":420525395,
+            "region_id":85688661,
+            "venue_id":773358847
+        }
+    ],
+    "wof:id":773358847,
+    "wof:lastmodified":1462585108,
+    "wof:name":"Giersch & Assoc PC",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mental"
+    ]
+},
+  "bbox": [
+    -94.585785,
+    39.197637,
+    -94.585785,
+    39.197637
+],
+  "geometry": {"coordinates":[-94.585785,39.197637],"type":"Point"}
+}

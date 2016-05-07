@@ -1,0 +1,95 @@
+{
+  "id": 807259171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.360601,38.936493,-92.360601,38.936493",
+    "geom:latitude":38.936493,
+    "geom:longitude":-92.360601,
+    "iso:country":"US",
+    "sg:address":"1400 Forum Blvd Ste 38",
+    "sg:city":"Columbia",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Printing & Photocopies",
+            "type":"Services"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 446 9792",
+    "sg:postcode":"65203",
+    "sg:province":"MO",
+    "sg:tags":[
+        "mailbox-rental",
+        "shipping",
+        "duplicating",
+        "copying",
+        "mail",
+        "receiving"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85835171,
+        102191575,
+        404516389,
+        85633793,
+        85970425,
+        102086187,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_62yv8da5ymO6PgCor7v5cb_38.936493_-92.360601@1303262935"
+    },
+    "wof:country":"US",
+    "wof:created":1462605423,
+    "wof:geomhash":"a6ef87335e1abcebc184e43e9367e441",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086187,
+            "localadmin_id":404516389,
+            "locality_id":85970425,
+            "neighbourhood_id":85835171,
+            "region_id":85688661,
+            "venue_id":807259171
+        }
+    ],
+    "wof:id":807259171,
+    "wof:lastmodified":1462605423,
+    "wof:name":"Postal Annex",
+    "wof:parent_id":85835171,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mailbox-rental",
+        "shipping",
+        "duplicating",
+        "copying",
+        "mail",
+        "receiving"
+    ]
+},
+  "bbox": [
+    -92.360601,
+    38.936493,
+    -92.360601,
+    38.936493
+],
+  "geometry": {"coordinates":[-92.360601,38.936493],"type":"Point"}
+}

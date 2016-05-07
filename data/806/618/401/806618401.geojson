@@ -1,0 +1,69 @@
+{
+  "id": 806618401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.56007,38.185372,-90.56007,38.185372",
+    "geom:latitude":38.185372,
+    "geom:longitude":-90.56007,
+    "iso:country":"US",
+    "sg:address":"12011 Castle Ranch Rd",
+    "sg:city":"De Soto",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 586 3799",
+    "sg:postcode":"63020",
+    "sg:province":"MO",
+    "sg:tags":[
+        "septic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85848677,
+        102080787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7lXF5C7nXg6UykW4b1xYTF_38.185372_-90.560070@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462599640,
+    "wof:geomhash":"e7f7970313c2363cbe46a046c2ed66cb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080787,
+            "neighbourhood_id":85848677,
+            "region_id":85688661,
+            "venue_id":806618401
+        }
+    ],
+    "wof:id":806618401,
+    "wof:lastmodified":1462599640,
+    "wof:name":"Jones Plumbing Svc",
+    "wof:parent_id":85848677,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "septic"
+    ]
+},
+  "bbox": [
+    -90.56007,
+    38.185372,
+    -90.56007,
+    38.185372
+],
+  "geometry": {"coordinates":[-90.56007,38.185372],"type":"Point"}
+}

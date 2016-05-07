@@ -1,0 +1,89 @@
+{
+  "id": 790111821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.551037,39.143735,-94.551037,39.143735",
+    "geom:latitude":39.143735,
+    "geom:longitude":-94.551037,
+    "iso:country":"US",
+    "sg:address":"1500 Warren St",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Auto Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 474 7733",
+    "sg:postcode":"64116",
+    "sg:province":"MO",
+    "sg:tags":[
+        "plate",
+        "work",
+        "fabricated",
+        "radiator",
+        "mfg"
+    ],
+    "sg:website":"www.modine.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85867025,
+        102191575,
+        404518075,
+        85633793,
+        85970739,
+        102081227,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5J7cADdorakHhYF2tVdTqW_39.143735_-94.551037@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462593232,
+    "wof:geomhash":"d35ea56c9ddd9b344407f0b3bbb4363c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081227,
+            "localadmin_id":404518075,
+            "locality_id":85970739,
+            "neighbourhood_id":85867025,
+            "region_id":85688661,
+            "venue_id":790111821
+        }
+    ],
+    "wof:id":790111821,
+    "wof:lastmodified":1462593232,
+    "wof:name":"Modine Manufacturing Company",
+    "wof:parent_id":85867025,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plate",
+        "work",
+        "fabricated",
+        "radiator",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -94.551037,
+    39.143735,
+    -94.551037,
+    39.143735
+],
+  "geometry": {"coordinates":[-94.55103699999999,39.143735],"type":"Point"}
+}

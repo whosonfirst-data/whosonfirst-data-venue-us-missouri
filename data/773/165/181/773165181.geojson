@@ -1,0 +1,71 @@
+{
+  "id": 773165181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.212349,39.284686,-94.212349,39.284686",
+    "geom:latitude":39.284686,
+    "geom:longitude":-94.212349,
+    "iso:country":"US",
+    "sg:address":"10609 Orrick Rd",
+    "sg:city":"Excelsior Springs",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Campground",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 630 9336",
+    "sg:postcode":"64024",
+    "sg:province":"MO",
+    "sg:tags":[
+        "camp"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971507,
+        102086177,
+        85822189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_162IVKvlu8KTroyANwQEIg_39.284686_-94.212349@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462583630,
+    "wof:geomhash":"f3daaa2fd9315776441b824f2ed681dc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086177,
+            "locality_id":85971507,
+            "neighbourhood_id":85822189,
+            "region_id":85688661,
+            "venue_id":773165181
+        }
+    ],
+    "wof:id":773165181,
+    "wof:lastmodified":1462583630,
+    "wof:name":"George Hill",
+    "wof:parent_id":85822189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "camp"
+    ]
+},
+  "bbox": [
+    -94.212349,
+    39.284686,
+    -94.212349,
+    39.284686
+],
+  "geometry": {"coordinates":[-94.212349,39.284686],"type":"Point"}
+}

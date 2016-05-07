@@ -1,0 +1,71 @@
+{
+  "id": 789981263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.574142,38.792344,-90.574142,38.792344",
+    "geom:latitude":38.792344,
+    "geom:longitude":-90.574142,
+    "iso:country":"US",
+    "sg:address":"4203 S Cloverleaf Dr",
+    "sg:city":"St Peters",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 441 9990",
+    "sg:postcode":"63376",
+    "sg:province":"MO",
+    "sg:tags":[
+        "clinic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0suw29qNvjrejBXKNGF19r_38.792344_-90.574142@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462592175,
+    "wof:geomhash":"aea974cee88e6a0ff25b4e25ea557963",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":789981263
+        }
+    ],
+    "wof:id":789981263,
+    "wof:lastmodified":1462592175,
+    "wof:name":"SSM St Joseph Endoscopy Ctr",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic"
+    ]
+},
+  "bbox": [
+    -90.574142,
+    38.792344,
+    -90.574142,
+    38.792344
+],
+  "geometry": {"coordinates":[-90.57414199999999,38.792344],"type":"Point"}
+}

@@ -1,0 +1,85 @@
+{
+  "id": 807097843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.391355,38.692071,-90.391355,38.692071",
+    "geom:latitude":38.692071,
+    "geom:longitude":-90.391355,
+    "iso:country":"US",
+    "sg:address":"10459 Page Ave",
+    "sg:city":"Saint Louis",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Ice Cream",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/midland/92646-steak-n-shake/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 427 5154",
+    "sg:postcode":"63132",
+    "sg:province":"MO",
+    "sg:tags":[
+        "american",
+        "ice",
+        "cream"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85803699,
+        102191575,
+        404517323,
+        85633793,
+        85972315,
+        102086173,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_70nQYUyVIRRYcF8RnD8xP6_38.691736_-90.391210@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462603696,
+    "wof:geomhash":"048db51cbcb4dec2f5b9a313dc579d2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086173,
+            "localadmin_id":404517323,
+            "locality_id":85972315,
+            "neighbourhood_id":85803699,
+            "region_id":85688661,
+            "venue_id":807097843
+        }
+    ],
+    "wof:id":807097843,
+    "wof:lastmodified":1462603696,
+    "wof:name":"Steak 'n Shake",
+    "wof:parent_id":85803699,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "ice",
+        "cream"
+    ]
+},
+  "bbox": [
+    -90.391355,
+    38.692071,
+    -90.391355,
+    38.692071
+],
+  "geometry": {"coordinates":[-90.391355,38.692071],"type":"Point"}
+}

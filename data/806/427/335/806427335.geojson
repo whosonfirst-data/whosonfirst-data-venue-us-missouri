@@ -1,0 +1,71 @@
+{
+  "id": 806427335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.553131,38.140792,-90.553131,38.140792",
+    "geom:latitude":38.140792,
+    "geom:longitude":-90.553131,
+    "iso:country":"US",
+    "sg:address":"210 N Main St",
+    "sg:city":"De Soto",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Hardware",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 586 3230",
+    "sg:postcode":"63020",
+    "sg:province":"MO",
+    "sg:tags":[
+        "household",
+        "appliance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85848677,
+        102080787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2IkSdHk5OK7CRpshcIAVNo_38.140792_-90.553131@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462598058,
+    "wof:geomhash":"f98d358e1c3aa377c84876f137853ef0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080787,
+            "neighbourhood_id":85848677,
+            "region_id":85688661,
+            "venue_id":806427335
+        }
+    ],
+    "wof:id":806427335,
+    "wof:lastmodified":1462598058,
+    "wof:name":"Ace Hardware",
+    "wof:parent_id":85848677,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "household",
+        "appliance"
+    ]
+},
+  "bbox": [
+    -90.553131,
+    38.140792,
+    -90.553131,
+    38.140792
+],
+  "geometry": {"coordinates":[-90.55313099999999,38.140792],"type":"Point"}
+}

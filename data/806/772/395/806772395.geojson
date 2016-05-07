@@ -1,0 +1,71 @@
+{
+  "id": 806772395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.124584,38.550416,-92.124584,38.550416",
+    "geom:latitude":38.550416,
+    "geom:longitude":-92.124584,
+    "iso:country":"US",
+    "sg:address":"225 Brookdale Dr",
+    "sg:city":"Jefferson City",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 634 3225",
+    "sg:postcode":"65101",
+    "sg:province":"MO",
+    "sg:tags":[
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970647,
+        102087511,
+        85837745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4pesHSZmDJlc7RF1tf3GQB_38.550416_-92.124584@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462600948,
+    "wof:geomhash":"c8908cc1faa1cffe86ba9561a6426fcb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087511,
+            "locality_id":85970647,
+            "neighbourhood_id":85837745,
+            "region_id":85688661,
+            "venue_id":806772395
+        }
+    ],
+    "wof:id":806772395,
+    "wof:lastmodified":1462600948,
+    "wof:name":"Debbies Uptown Cleaning Inc",
+    "wof:parent_id":85837745,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -92.124584,
+    38.550416,
+    -92.124584,
+    38.550416
+],
+  "geometry": {"coordinates":[-92.124584,38.550416],"type":"Point"}
+}

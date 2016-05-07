@@ -1,0 +1,71 @@
+{
+  "id": 806391325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.7363,38.839159,-90.7363,38.839159",
+    "geom:latitude":38.839159,
+    "geom:longitude":-90.7363,
+    "iso:country":"US",
+    "sg:address":"13 Raymond Dr",
+    "sg:city":"Saint Peters",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 279 1092",
+    "sg:postcode":"63366",
+    "sg:province":"MO",
+    "sg:tags":[
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3bHkxMq8VqaKg3j457mQuE_38.839159_-90.736300@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462597764,
+    "wof:geomhash":"d36f7e507f7fcbfdff6a13aca4d8bf1b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":806391325
+        }
+    ],
+    "wof:id":806391325,
+    "wof:lastmodified":1462597764,
+    "wof:name":"Aimes To Clean",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -90.7363,
+    38.839159,
+    -90.7363,
+    38.839159
+],
+  "geometry": {"coordinates":[-90.7363,38.839159],"type":"Point"}
+}

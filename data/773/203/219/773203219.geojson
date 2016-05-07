@@ -1,0 +1,71 @@
+{
+  "id": 773203219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.580977,39.362807,-94.580977,39.362807",
+    "geom:latitude":39.362807,
+    "geom:longitude":-94.580977,
+    "iso:country":"US",
+    "sg:address":"1502 S Commercial Ave",
+    "sg:city":"Smithville",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 532 4490",
+    "sg:postcode":"64089",
+    "sg:province":"MO",
+    "sg:tags":[
+        "residential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970739,
+        102086177,
+        85836329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4WiwF5yyPCBaNmpcf77Bes_39.362807_-94.580977@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462583952,
+    "wof:geomhash":"ed8c120956f6b3ec45a678d04301da3d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086177,
+            "locality_id":85970739,
+            "neighbourhood_id":85836329,
+            "region_id":85688661,
+            "venue_id":773203219
+        }
+    ],
+    "wof:id":773203219,
+    "wof:lastmodified":1462583952,
+    "wof:name":"Bristol Manor",
+    "wof:parent_id":85836329,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential"
+    ]
+},
+  "bbox": [
+    -94.580977,
+    39.362807,
+    -94.580977,
+    39.362807
+],
+  "geometry": {"coordinates":[-94.580977,39.362807],"type":"Point"}
+}

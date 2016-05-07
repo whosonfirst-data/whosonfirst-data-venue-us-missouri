@@ -1,0 +1,81 @@
+{
+  "id": 773300221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.558166,39.10296,-94.558166,39.10296",
+    "geom:latitude":39.10296,
+    "geom:longitude":-94.558166,
+    "iso:country":"US",
+    "sg:address":"825 Euclid Ave",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 474 4920",
+    "sg:postcode":"64124",
+    "sg:province":"MO",
+    "sg:tags":[
+        "clinic",
+        "medical",
+        "outpatient",
+        "specialty"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420525355,
+        102191575,
+        404518075,
+        85633793,
+        85970739,
+        102081227,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0LcHrf3RMh7gCy2WMeCY0j_39.102960_-94.558166@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462584682,
+    "wof:geomhash":"9958662a0c30e0608783ab4e7af494b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081227,
+            "localadmin_id":404518075,
+            "locality_id":85970739,
+            "neighbourhood_id":420525355,
+            "region_id":85688661,
+            "venue_id":773300221
+        }
+    ],
+    "wof:id":773300221,
+    "wof:lastmodified":1462584682,
+    "wof:name":"Samuel U Rodgers Health Center",
+    "wof:parent_id":420525355,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic",
+        "medical",
+        "outpatient",
+        "specialty"
+    ]
+},
+  "bbox": [
+    -94.558166,
+    39.10296,
+    -94.558166,
+    39.10296
+],
+  "geometry": {"coordinates":[-94.558166,39.10296],"type":"Point"}
+}

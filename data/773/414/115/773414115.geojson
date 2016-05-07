@@ -1,0 +1,73 @@
+{
+  "id": 773414115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.353824,38.481052,-90.353824,38.481052",
+    "geom:latitude":38.481052,
+    "geom:longitude":-90.353824,
+    "iso:country":"US",
+    "sg:address":"5423 Lemay Ferry Rd",
+    "sg:city":"St Louis",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 416 4620",
+    "sg:postcode":"63129",
+    "sg:province":"MO",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971021,
+        102080787,
+        85832925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Yg7E4MDKyWx8bplPKnSVI_38.481052_-90.353824@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462585523,
+    "wof:geomhash":"cdd0b2fcc1eb22a3b78994d4f42a98d2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080787,
+            "locality_id":85971021,
+            "neighbourhood_id":85832925,
+            "region_id":85688661,
+            "venue_id":773414115
+        }
+    ],
+    "wof:id":773414115,
+    "wof:lastmodified":1462585523,
+    "wof:name":"Conway Auto Sales",
+    "wof:parent_id":85832925,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -90.353824,
+    38.481052,
+    -90.353824,
+    38.481052
+],
+  "geometry": {"coordinates":[-90.353824,38.481052],"type":"Point"}
+}

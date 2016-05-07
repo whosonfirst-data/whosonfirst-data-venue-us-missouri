@@ -1,0 +1,71 @@
+{
+  "id": 773429531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.259706,37.223538,-93.259706,37.223538",
+    "geom:latitude":37.223538,
+    "geom:longitude":-93.259706,
+    "iso:country":"US",
+    "sg:address":"1306 N Stewart Ave",
+    "sg:city":"Springfield",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 862 1981",
+    "sg:postcode":"65802",
+    "sg:province":"MO",
+    "sg:tags":[
+        "transmission"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971363,
+        102087523,
+        85881137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3dv0fvvBclRwrHDnzgWpG4_37.223538_-93.259706@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462585664,
+    "wof:geomhash":"d5fbf2954d5c36ce9712ac4571d6444c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087523,
+            "locality_id":85971363,
+            "neighbourhood_id":85881137,
+            "region_id":85688661,
+            "venue_id":773429531
+        }
+    ],
+    "wof:id":773429531,
+    "wof:lastmodified":1462585664,
+    "wof:name":"AAMCO Transmissions",
+    "wof:parent_id":85881137,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission"
+    ]
+},
+  "bbox": [
+    -93.259706,
+    37.223538,
+    -93.259706,
+    37.223538
+],
+  "geometry": {"coordinates":[-93.25970599999999,37.223538],"type":"Point"}
+}

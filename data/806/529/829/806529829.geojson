@@ -1,0 +1,75 @@
+{
+  "id": 806529829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.213433,38.617402,-90.213433,38.617402",
+    "geom:latitude":38.617402,
+    "geom:longitude":-90.213433,
+    "iso:country":"US",
+    "sg:address":"1801 Park Ave",
+    "sg:city":"Saint Louis",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 824 5545",
+    "sg:postcode":"63104",
+    "sg:province":"MO",
+    "sg:tags":[
+        "mortgage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873661,
+        102191575,
+        404518053,
+        85633793,
+        85971343,
+        102080791,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Eb6s43PTz1MC6P6erEYRv_38.617402_-90.213433@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462598869,
+    "wof:geomhash":"374ff9135b27c4b7619736552a63c1da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080791,
+            "localadmin_id":404518053,
+            "locality_id":85971343,
+            "neighbourhood_id":85873661,
+            "region_id":85688661,
+            "venue_id":806529829
+        }
+    ],
+    "wof:id":806529829,
+    "wof:lastmodified":1462598869,
+    "wof:name":"Mortgage Originator",
+    "wof:parent_id":85873661,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mortgage"
+    ]
+},
+  "bbox": [
+    -90.213433,
+    38.617402,
+    -90.213433,
+    38.617402
+],
+  "geometry": {"coordinates":[-90.21343299999999,38.617402],"type":"Point"}
+}

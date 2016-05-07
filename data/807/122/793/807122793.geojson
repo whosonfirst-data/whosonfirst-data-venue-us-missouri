@@ -1,0 +1,90 @@
+{
+  "id": 807122793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.430887,38.749938,-90.430887,38.749938",
+    "geom:latitude":38.749938,
+    "geom:longitude":-90.430887,
+    "iso:country":"US",
+    "sg:address":"12277 de Paul Dr",
+    "sg:city":"Bridgeton",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Dentist",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 291 3810",
+    "sg:postcode":"63044",
+    "sg:province":"MO",
+    "sg:tags":[
+        "dentists-oral",
+        "physician",
+        "maxillofacial",
+        "surgeons",
+        "surgery",
+        "oral"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85836381,
+        102191575,
+        404517389,
+        85633793,
+        85972341,
+        102086173,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4lXeCCV1AfdC7hTgFxNzcp_38.749938_-90.430887@1303262926"
+    },
+    "wof:country":"US",
+    "wof:created":1462603969,
+    "wof:geomhash":"3cce77ef848980720b6ee277ed87ca98",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086173,
+            "localadmin_id":404517389,
+            "locality_id":85972341,
+            "neighbourhood_id":85836381,
+            "region_id":85688661,
+            "venue_id":807122793
+        }
+    ],
+    "wof:id":807122793,
+    "wof:lastmodified":1462603969,
+    "wof:name":"Hiatt Stephen W",
+    "wof:parent_id":85836381,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentists-oral",
+        "physician",
+        "maxillofacial",
+        "surgeons",
+        "surgery",
+        "oral"
+    ]
+},
+  "bbox": [
+    -90.430887,
+    38.749938,
+    -90.430887,
+    38.749938
+],
+  "geometry": {"coordinates":[-90.430887,38.749938],"type":"Point"}
+}

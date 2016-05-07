@@ -1,0 +1,86 @@
+{
+  "id": 790309405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.230586,38.58296,-90.230586,38.58296",
+    "geom:latitude":38.58296,
+    "geom:longitude":-90.230586,
+    "iso:country":"US",
+    "sg:address":"2715 Osage St",
+    "sg:city":"St Louis",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Non-profit Organization",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 772 6771",
+    "sg:postcode":"63118",
+    "sg:province":"MO",
+    "sg:tags":[
+        "information",
+        "treatment",
+        "alcoholism",
+        "specialty"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873687,
+        102191575,
+        404518053,
+        85633793,
+        85971343,
+        102080791,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_71AiKTSzom40WutSAF3dgl_38.582960_-90.230586@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462594842,
+    "wof:geomhash":"0aabf85a07aca0c70cc5aca6d14f77ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080791,
+            "localadmin_id":404518053,
+            "locality_id":85971343,
+            "neighbourhood_id":85873687,
+            "region_id":85688661,
+            "venue_id":790309405
+        }
+    ],
+    "wof:id":790309405,
+    "wof:lastmodified":1462594842,
+    "wof:name":"Oxford House Osage",
+    "wof:parent_id":85873687,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "information",
+        "treatment",
+        "alcoholism",
+        "specialty"
+    ]
+},
+  "bbox": [
+    -90.230586,
+    38.58296,
+    -90.230586,
+    38.58296
+],
+  "geometry": {"coordinates":[-90.230586,38.58296],"type":"Point"}
+}

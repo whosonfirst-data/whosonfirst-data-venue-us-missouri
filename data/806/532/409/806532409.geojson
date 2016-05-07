@@ -1,0 +1,73 @@
+{
+  "id": 806532409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.488779,38.778839,-90.488779,38.778839",
+    "geom:latitude":38.778839,
+    "geom:longitude":-90.488779,
+    "iso:country":"US",
+    "sg:address":"535 Pike St",
+    "sg:city":"St Charles",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 946 5844",
+    "sg:postcode":"63301",
+    "sg:province":"MO",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0a5RWUhwGbaVX9RsQ9y0IA_38.778839_-90.488779@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462598888,
+    "wof:geomhash":"af474a22a49cba1c438d4d596f3c1b45",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":806532409
+        }
+    ],
+    "wof:id":806532409,
+    "wof:lastmodified":1462598888,
+    "wof:name":"Keim L Baird MD",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -90.488779,
+    38.778839,
+    -90.488779,
+    38.778839
+],
+  "geometry": {"coordinates":[-90.48877899999999,38.778839],"type":"Point"}
+}

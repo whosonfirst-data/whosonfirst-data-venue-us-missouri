@@ -1,0 +1,84 @@
+{
+  "id": 773317225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.438879,39.10235,-94.438879,39.10235",
+    "geom:latitude":39.10235,
+    "geom:longitude":-94.438879,
+    "iso:country":"US",
+    "sg:address":"11610 US Hwy 24",
+    "sg:city":"Independence",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Self-service Laundry",
+            "type":"Services"
+        },
+        {
+            "category":"Recreation",
+            "subcategory":"Arcade",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 461 5969",
+    "sg:postcode":"64054",
+    "sg:province":"MO",
+    "sg:tags":[
+        "operated",
+        "coin",
+        "video"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85833097,
+        102191575,
+        404515661,
+        85633793,
+        85971449,
+        102081227,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1bJhLHP1z6FB4nCRnnpT3I_39.102350_-94.438879@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462584825,
+    "wof:geomhash":"09c896d2a8ba711136321f6f1ccdd83d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081227,
+            "localadmin_id":404515661,
+            "locality_id":85971449,
+            "neighbourhood_id":85833097,
+            "region_id":85688661,
+            "venue_id":773317225
+        }
+    ],
+    "wof:id":773317225,
+    "wof:lastmodified":1462584825,
+    "wof:name":"Clean Arama Laundry",
+    "wof:parent_id":85833097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operated",
+        "coin",
+        "video"
+    ]
+},
+  "bbox": [
+    -94.438879,
+    39.10235,
+    -94.438879,
+    39.10235
+],
+  "geometry": {"coordinates":[-94.438879,39.10235],"type":"Point"}
+}

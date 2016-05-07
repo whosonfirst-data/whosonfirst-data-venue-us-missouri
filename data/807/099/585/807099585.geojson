@@ -1,0 +1,80 @@
+{
+  "id": 807099585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.575963,39.2247,-94.575963,39.2247",
+    "geom:latitude":39.2247,
+    "geom:longitude":-94.575963,
+    "iso:country":"US",
+    "sg:address":"324 NE 72nd St",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/gallatin/122203-quiznos-sub/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 436 3900",
+    "sg:postcode":"64118",
+    "sg:province":"MO",
+    "sg:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85830711,
+        102191575,
+        404516715,
+        85633793,
+        85972467,
+        102086177,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2GBUa3hdFVfFkgWSeQ55Ld_39.224752_-94.576553@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462603717,
+    "wof:geomhash":"91e15a7a99784e7b3861bcb77bb2aaed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086177,
+            "localadmin_id":404516715,
+            "locality_id":85972467,
+            "neighbourhood_id":85830711,
+            "region_id":85688661,
+            "venue_id":807099585
+        }
+    ],
+    "wof:id":807099585,
+    "wof:lastmodified":1462603717,
+    "wof:name":"Quiznos Sub",
+    "wof:parent_id":85830711,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -94.575963,
+    39.2247,
+    -94.575963,
+    39.2247
+],
+  "geometry": {"coordinates":[-94.575963,39.2247],"type":"Point"}
+}

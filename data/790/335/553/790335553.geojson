@@ -1,0 +1,73 @@
+{
+  "id": 790335553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.222263,39.342853,-94.222263,39.342853",
+    "geom:latitude":39.342853,
+    "geom:longitude":-94.222263,
+    "iso:country":"US",
+    "sg:address":"106 Elizabeth St",
+    "sg:city":"Excelsior Springs",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 637 4615",
+    "sg:postcode":"64024",
+    "sg:province":"MO",
+    "sg:tags":[
+        "specialty",
+        "outpatient"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971507,
+        102086177,
+        85822189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6W3qoyDnjMEQthGy6B6y7A_39.342853_-94.222263@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462595030,
+    "wof:geomhash":"41e7097a14d49443e94d7ec1e70fe1eb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086177,
+            "locality_id":85971507,
+            "neighbourhood_id":85822189,
+            "region_id":85688661,
+            "venue_id":790335553
+        }
+    ],
+    "wof:id":790335553,
+    "wof:lastmodified":1462595030,
+    "wof:name":"Northland Community Center",
+    "wof:parent_id":85822189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "specialty",
+        "outpatient"
+    ]
+},
+  "bbox": [
+    -94.222263,
+    39.342853,
+    -94.222263,
+    39.342853
+],
+  "geometry": {"coordinates":[-94.222263,39.342853],"type":"Point"}
+}

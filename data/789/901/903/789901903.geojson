@@ -1,0 +1,75 @@
+{
+  "id": 789901903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.626366,38.792138,-90.626366,38.792138",
+    "geom:latitude":38.792138,
+    "geom:longitude":-90.626366,
+    "iso:country":"US",
+    "sg:address":"1008 Kamptown Dr",
+    "sg:city":"Saint Peters",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 397 3559",
+    "sg:postcode":"63376",
+    "sg:province":"MO",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_77nBUXv3j6Y03RWslHAuQB_38.792138_-90.626366@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462591461,
+    "wof:geomhash":"cb799cd4e182a3d9cd6f22c2437b85ed",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":789901903
+        }
+    ],
+    "wof:id":789901903,
+    "wof:lastmodified":1462591461,
+    "wof:name":"Flk Trucking Co Inc",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -90.626366,
+    38.792138,
+    -90.626366,
+    38.792138
+],
+  "geometry": {"coordinates":[-90.626366,38.792138],"type":"Point"}
+}

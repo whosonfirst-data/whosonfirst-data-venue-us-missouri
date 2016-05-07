@@ -1,0 +1,77 @@
+{
+  "id": 789874867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.30865,38.687625,-90.30865,38.687625",
+    "geom:latitude":38.687625,
+    "geom:longitude":-90.30865,
+    "iso:country":"US",
+    "sg:address":"7301 Saint Charles Rock Rd",
+    "sg:city":"St Louis",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 862 0555",
+    "sg:postcode":"63133",
+    "sg:province":"MO",
+    "sg:tags":[
+        "home",
+        "convalescent"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85803359,
+        102191575,
+        404515929,
+        85633793,
+        85972327,
+        102086173,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_65hpBiy9D8tnzQzDlw0S9W_38.687625_-90.308650@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462591223,
+    "wof:geomhash":"c86a5ea3d52cb099323c0718d61d53c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086173,
+            "localadmin_id":404515929,
+            "locality_id":85972327,
+            "neighbourhood_id":85803359,
+            "region_id":85688661,
+            "venue_id":789874867
+        }
+    ],
+    "wof:id":789874867,
+    "wof:lastmodified":1462591223,
+    "wof:name":"Normandy Nursing Center",
+    "wof:parent_id":85803359,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "convalescent"
+    ]
+},
+  "bbox": [
+    -90.30865,
+    38.687625,
+    -90.30865,
+    38.687625
+],
+  "geometry": {"coordinates":[-90.30865,38.687625],"type":"Point"}
+}

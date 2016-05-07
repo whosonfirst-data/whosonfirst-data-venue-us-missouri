@@ -1,0 +1,71 @@
+{
+  "id": 789707551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.60248,38.791468,-90.60248,38.791468",
+    "geom:latitude":38.791468,
+    "geom:longitude":-90.60248,
+    "iso:country":"US",
+    "sg:address":"6230 Mexico Rd",
+    "sg:city":"St Peters",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 441 6960",
+    "sg:postcode":"63376",
+    "sg:province":"MO",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3q49iG2g4PsLX8KZqemTm2_38.791468_-90.602480@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462589911,
+    "wof:geomhash":"e0ea0dc71f8f89b27631b4bae2d7386a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":789707551
+        }
+    ],
+    "wof:id":789707551,
+    "wof:lastmodified":1462589911,
+    "wof:name":"Salon Stage",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -90.60248,
+    38.791468,
+    -90.60248,
+    38.791468
+],
+  "geometry": {"coordinates":[-90.60248,38.791468],"type":"Point"}
+}

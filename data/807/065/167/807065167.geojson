@@ -1,0 +1,86 @@
+{
+  "id": 807065167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.217236,38.660486,-90.217236,38.660486",
+    "geom:latitude":38.660486,
+    "geom:longitude":-90.217236,
+    "iso:country":"US",
+    "sg:address":"3605 N Grand Blvd",
+    "sg:city":"Saint Louis",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/st-louis/163082-rallys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 533 4929",
+    "sg:postcode":"63107",
+    "sg:province":"MO",
+    "sg:tags":[
+        "sandwich",
+        "dog",
+        "burger",
+        "hot",
+        "wrap",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873619,
+        102191575,
+        404518053,
+        85633793,
+        85971343,
+        102080791,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2wCGIkU0bX07S3MdqzTcTL_38.660486_-90.217236@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462603409,
+    "wof:geomhash":"7efdf4add23455026ab8f8a8937b7990",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080791,
+            "localadmin_id":404518053,
+            "locality_id":85971343,
+            "neighbourhood_id":85873619,
+            "region_id":85688661,
+            "venue_id":807065167
+        }
+    ],
+    "wof:id":807065167,
+    "wof:lastmodified":1462603409,
+    "wof:name":"Rally's",
+    "wof:parent_id":85873619,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sandwich",
+        "dog",
+        "burger",
+        "hot",
+        "wrap",
+        "american"
+    ]
+},
+  "bbox": [
+    -90.217236,
+    38.660486,
+    -90.217236,
+    38.660486
+],
+  "geometry": {"coordinates":[-90.217236,38.660486],"type":"Point"}
+}

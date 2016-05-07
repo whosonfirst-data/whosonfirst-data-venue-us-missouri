@@ -1,0 +1,73 @@
+{
+  "id": 789613013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.50152,38.82156,-90.50152,38.82156",
+    "geom:latitude":38.82156,
+    "geom:longitude":-90.50152,
+    "iso:country":"US",
+    "sg:address":"3704 Mueller Rd",
+    "sg:city":"St Charles",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 946 4949",
+    "sg:postcode":"63301",
+    "sg:province":"MO",
+    "sg:tags":[
+        "dry wall",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2I363leuiI0vePhDy0eJXP_38.821560_-90.501520@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462589159,
+    "wof:geomhash":"9db820025a5a8ed9b8125f3b15f218b8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":789613013
+        }
+    ],
+    "wof:id":789613013,
+    "wof:lastmodified":1462589159,
+    "wof:name":"Laramie Drywall Co",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dry wall",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -90.50152,
+    38.82156,
+    -90.50152,
+    38.82156
+],
+  "geometry": {"coordinates":[-90.50152,38.82156],"type":"Point"}
+}

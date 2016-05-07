@@ -1,0 +1,75 @@
+{
+  "id": 789578801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.590287,39.007699,-94.590287,39.007699",
+    "geom:latitude":39.007699,
+    "geom:longitude":-94.590287,
+    "iso:country":"US",
+    "sg:address":"6637 Linden Rd",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 361 9226",
+    "sg:postcode":"64113",
+    "sg:province":"MO",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85854229,
+        102191575,
+        404518075,
+        85633793,
+        85970739,
+        102081227,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2KSMWeY5barRg64nbYzHuI_39.007699_-94.590287@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462588894,
+    "wof:geomhash":"311ff1d63760966c7c02075956e6594d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081227,
+            "localadmin_id":404518075,
+            "locality_id":85970739,
+            "neighbourhood_id":85854229,
+            "region_id":85688661,
+            "venue_id":789578801
+        }
+    ],
+    "wof:id":789578801,
+    "wof:lastmodified":1462588894,
+    "wof:name":"Picnic",
+    "wof:parent_id":85854229,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -94.590287,
+    39.007699,
+    -94.590287,
+    39.007699
+],
+  "geometry": {"coordinates":[-94.590287,39.007699],"type":"Point"}
+}

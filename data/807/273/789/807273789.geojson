@@ -1,0 +1,82 @@
+{
+  "id": 807273789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.785211,37.95566,-91.785211,37.95566",
+    "geom:latitude":37.95566,
+    "geom:longitude":-91.785211,
+    "iso:country":"US",
+    "sg:address":"5 Fraternity Dr",
+    "sg:city":"Rolla",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"College",
+            "type":"Public Place"
+        },
+        {
+            "category":"Organizations",
+            "subcategory":"Membership Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 364 4841",
+    "sg:postcode":"65401",
+    "sg:province":"MO",
+    "sg:tags":[
+        "sorority",
+        "housing",
+        "student",
+        "fraternity"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970821,
+        102086893,
+        85814531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6HJXROV5bggaQVSGu2rELM_37.955660_-91.785211@1303262936"
+    },
+    "wof:country":"US",
+    "wof:created":1462605582,
+    "wof:geomhash":"9823fb8045c981612117333c3fbfcbeb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086893,
+            "locality_id":85970821,
+            "neighbourhood_id":85814531,
+            "region_id":85688661,
+            "venue_id":807273789
+        }
+    ],
+    "wof:id":807273789,
+    "wof:lastmodified":1462605582,
+    "wof:name":"Kappa Alpha Frat (Inc)",
+    "wof:parent_id":85814531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sorority",
+        "housing",
+        "student",
+        "fraternity"
+    ]
+},
+  "bbox": [
+    -91.785211,
+    37.95566,
+    -91.785211,
+    37.95566
+],
+  "geometry": {"coordinates":[-91.785211,37.95566],"type":"Point"}
+}

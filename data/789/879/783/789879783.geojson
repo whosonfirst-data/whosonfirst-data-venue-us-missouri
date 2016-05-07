@@ -1,0 +1,73 @@
+{
+  "id": 789879783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.717141,37.894849,-91.717141,37.894849",
+    "geom:latitude":37.894849,
+    "geom:longitude":-91.717141,
+    "iso:country":"US",
+    "sg:address":"13913 Co Rd 5130",
+    "sg:city":"Rolla",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 364 6531",
+    "sg:postcode":"65401",
+    "sg:province":"MO",
+    "sg:tags":[
+        "toilet",
+        "portable"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970821,
+        102086893,
+        85814531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_26xBciYXVaCIC3BdREXnoF_37.894849_-91.717141@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462591288,
+    "wof:geomhash":"b5791a962093b44d2c54dd6a14aab729",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086893,
+            "locality_id":85970821,
+            "neighbourhood_id":85814531,
+            "region_id":85688661,
+            "venue_id":789879783
+        }
+    ],
+    "wof:id":789879783,
+    "wof:lastmodified":1462591288,
+    "wof:name":"Watkins Portable Toilet Rental",
+    "wof:parent_id":85814531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "toilet",
+        "portable"
+    ]
+},
+  "bbox": [
+    -91.717141,
+    37.894849,
+    -91.717141,
+    37.894849
+],
+  "geometry": {"coordinates":[-91.717141,37.894849],"type":"Point"}
+}

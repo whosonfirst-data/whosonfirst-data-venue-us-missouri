@@ -1,0 +1,72 @@
+{
+  "id": 807069751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.47624,38.807387,-90.47624,38.807387",
+    "geom:latitude":38.807387,
+    "geom:longitude":-90.47624,
+    "iso:country":"US",
+    "sg:address":"301 Little Hills Expy",
+    "sg:city":"Saint Charles",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/rivers/141707-waffle-house/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 947 7628",
+    "sg:postcode":"63301",
+    "sg:province":"MO",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6xTmMZJLvZuI9nZ6EbHXXX_38.807387_-90.476240@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462603444,
+    "wof:geomhash":"c34d280db068e528fc6d03452decbf0d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":807069751
+        }
+    ],
+    "wof:id":807069751,
+    "wof:lastmodified":1462603444,
+    "wof:name":"Waffle House",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -90.47624,
+    38.807387,
+    -90.47624,
+    38.807387
+],
+  "geometry": {"coordinates":[-90.47624,38.807387],"type":"Point"}
+}

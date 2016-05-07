@@ -1,0 +1,71 @@
+{
+  "id": 789949675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.622779,37.770269,-90.622779,37.770269",
+    "geom:latitude":37.770269,
+    "geom:longitude":-90.622779,
+    "iso:country":"US",
+    "sg:address":"710 State Hwy 32",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 734 2906",
+    "sg:postcode":"63624",
+    "sg:province":"MO",
+    "sg:tags":[
+        "electrical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970665,
+        102085297,
+        85816309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7MztNdK2qOQ4xEnWsxTfvb_37.770269_-90.622779@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462591911,
+    "wof:geomhash":"4fa50ce2c939d72b88e8b04548ae41b2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085297,
+            "locality_id":85970665,
+            "neighbourhood_id":85816309,
+            "region_id":85688661,
+            "venue_id":789949675
+        }
+    ],
+    "wof:id":789949675,
+    "wof:lastmodified":1462591911,
+    "wof:name":"Express Appliance Repair",
+    "wof:parent_id":85816309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical"
+    ]
+},
+  "bbox": [
+    -90.622779,
+    37.770269,
+    -90.622779,
+    37.770269
+],
+  "geometry": {"coordinates":[-90.62277899999999,37.770269],"type":"Point"}
+}

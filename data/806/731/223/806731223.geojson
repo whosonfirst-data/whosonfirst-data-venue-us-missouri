@@ -1,0 +1,75 @@
+{
+  "id": 806731223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.469651,39.349323,-94.469651,39.349323",
+    "geom:latitude":39.349323,
+    "geom:longitude":-94.469651,
+    "iso:country":"US",
+    "sg:address":"8819 Dry Dock Dr",
+    "sg:city":"Liberty",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 792 2591",
+    "sg:postcode":"64068",
+    "sg:province":"MO",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970739,
+        102086177,
+        85836329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2OLmAedcJmjizPgB5uERvy_39.349323_-94.469651@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462600596,
+    "wof:geomhash":"cb2ee20a06224998c473c10937a679d3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086177,
+            "locality_id":85970739,
+            "neighbourhood_id":85836329,
+            "region_id":85688661,
+            "venue_id":806731223
+        }
+    ],
+    "wof:id":806731223,
+    "wof:lastmodified":1462600596,
+    "wof:name":"C & S Hauling Inc",
+    "wof:parent_id":85836329,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -94.469651,
+    39.349323,
+    -94.469651,
+    39.349323
+],
+  "geometry": {"coordinates":[-94.469651,39.349323],"type":"Point"}
+}

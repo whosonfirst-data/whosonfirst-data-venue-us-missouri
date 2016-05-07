@@ -1,0 +1,71 @@
+{
+  "id": 806406185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.753167,37.953762,-91.753167,37.953762",
+    "geom:latitude":37.953762,
+    "geom:longitude":-91.753167,
+    "iso:country":"US",
+    "sg:address":"1205 Hauck Dr",
+    "sg:city":"Rolla",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 774 3590",
+    "sg:postcode":"65401",
+    "sg:province":"MO",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970821,
+        102086893,
+        85814531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5r4lGvDGqsWwLWINrUNHRp_37.953762_-91.753167@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462597884,
+    "wof:geomhash":"5dfa348a6ac50d65097b9ce88b420b2b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086893,
+            "locality_id":85970821,
+            "neighbourhood_id":85814531,
+            "region_id":85688661,
+            "venue_id":806406185
+        }
+    ],
+    "wof:id":806406185,
+    "wof:lastmodified":1462597884,
+    "wof:name":"Scott C Morgan MD",
+    "wof:parent_id":85814531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -91.753167,
+    37.953762,
+    -91.753167,
+    37.953762
+],
+  "geometry": {"coordinates":[-91.753167,37.953762],"type":"Point"}
+}

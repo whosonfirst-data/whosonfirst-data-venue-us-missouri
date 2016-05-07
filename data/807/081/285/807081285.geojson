@@ -1,0 +1,76 @@
+{
+  "id": 807081285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.58173,39.080682,-94.58173,39.080682",
+    "geom:latitude":39.080682,
+    "geom:longitude":-94.58173,
+    "iso:country":"US",
+    "sg:address":"200 E 25th St",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/kaw/9874-the-american-restaurant/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 545 8000",
+    "sg:postcode":"64108",
+    "sg:province":"MO",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85867023,
+        102191575,
+        404518075,
+        85633793,
+        85970739,
+        102081227,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2vLK13Fi89ZsHDS73CUoAf_39.080682_-94.581730@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462603543,
+    "wof:geomhash":"609069d8b4c1a4914cd9f880581a3967",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081227,
+            "localadmin_id":404518075,
+            "locality_id":85970739,
+            "neighbourhood_id":85867023,
+            "region_id":85688661,
+            "venue_id":807081285
+        }
+    ],
+    "wof:id":807081285,
+    "wof:lastmodified":1462603543,
+    "wof:name":"The American Restaurant",
+    "wof:parent_id":85867023,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -94.58173,
+    39.080682,
+    -94.58173,
+    39.080682
+],
+  "geometry": {"coordinates":[-94.58172999999999,39.080682],"type":"Point"}
+}

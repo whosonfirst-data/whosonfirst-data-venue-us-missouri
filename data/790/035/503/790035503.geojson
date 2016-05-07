@@ -1,0 +1,73 @@
+{
+  "id": 790035503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.254808,37.213529,-93.254808,37.213529",
+    "geom:latitude":37.213529,
+    "geom:longitude":-93.254808,
+    "iso:country":"US",
+    "sg:address":"2106 E Rockhurst St",
+    "sg:city":"Springfield",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 868 8101",
+    "sg:postcode":"65802",
+    "sg:province":"MO",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971363,
+        102087523,
+        85881137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2rtwlsK0yBGaus6xxy8uvK_37.213529_-93.254808@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462592610,
+    "wof:geomhash":"47b70eba9a5648abf40e4f71b7d05f9c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087523,
+            "locality_id":85971363,
+            "neighbourhood_id":85881137,
+            "region_id":85688661,
+            "venue_id":790035503
+        }
+    ],
+    "wof:id":790035503,
+    "wof:lastmodified":1462592610,
+    "wof:name":"A-Plus Storage",
+    "wof:parent_id":85881137,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [
+    -93.254808,
+    37.213529,
+    -93.254808,
+    37.213529
+],
+  "geometry": {"coordinates":[-93.254808,37.213529],"type":"Point"}
+}

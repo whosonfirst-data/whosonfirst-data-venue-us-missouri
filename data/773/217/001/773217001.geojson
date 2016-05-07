@@ -1,0 +1,73 @@
+{
+  "id": 773217001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.197099,39.14262,-92.197099,39.14262",
+    "geom:latitude":39.14262,
+    "geom:longitude":-92.197099,
+    "iso:country":"US",
+    "sg:address":"16530 N Bentwood Ln",
+    "sg:city":"Centralia",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 682 5272",
+    "sg:postcode":"65240",
+    "sg:province":"MO",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970425,
+        102086187,
+        85851713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_45tmjB5TgrYUTWokvQboqH_39.142620_-92.197099@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462584053,
+    "wof:geomhash":"e3248ed6a51e067d41076dd685603a68",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086187,
+            "locality_id":85970425,
+            "neighbourhood_id":85851713,
+            "region_id":85688661,
+            "venue_id":773217001
+        }
+    ],
+    "wof:id":773217001,
+    "wof:lastmodified":1462584053,
+    "wof:name":"Burnett Electrical",
+    "wof:parent_id":85851713,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -92.197099,
+    39.14262,
+    -92.197099,
+    39.14262
+],
+  "geometry": {"coordinates":[-92.19709899999999,39.14262],"type":"Point"}
+}

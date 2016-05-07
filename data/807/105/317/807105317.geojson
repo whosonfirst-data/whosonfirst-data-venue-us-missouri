@@ -1,0 +1,91 @@
+{
+  "id": 807105317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.376328,38.402569,-90.376328,38.402569",
+    "geom:latitude":38.402569,
+    "geom:longitude":-90.376328,
+    "iso:country":"US",
+    "sg:address":"4051 Jeffco Blvd",
+    "sg:city":"Arnold",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        },
+        {
+            "category":"Insurance",
+            "subcategory":"Hazard Insurance",
+            "type":"Services"
+        },
+        {
+            "category":"Insurance",
+            "subcategory":"Title Insurance",
+            "type":"Services"
+        },
+        {
+            "category":"Insurance",
+            "subcategory":"Life Insurance",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 461 0770",
+    "sg:postcode":"63010",
+    "sg:province":"MO",
+    "sg:tags":[
+        "auto",
+        "commercial",
+        "business",
+        "homeowner"
+    ],
+    "sg:website":"http://www.farmersagent.com/pflowers/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85805175,
+        102080787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7INRzx0mn25D6B3xktaDFA_38.402569_-90.376328@1303262925"
+    },
+    "wof:country":"US",
+    "wof:created":1462603787,
+    "wof:geomhash":"ab962ad996dac050ed83e13116feba1c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080787,
+            "neighbourhood_id":85805175,
+            "region_id":85688661,
+            "venue_id":807105317
+        }
+    ],
+    "wof:id":807105317,
+    "wof:lastmodified":1462603787,
+    "wof:name":"Paul Flowers - Farmers Insurance",
+    "wof:parent_id":85805175,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "auto",
+        "commercial",
+        "business",
+        "homeowner"
+    ]
+},
+  "bbox": [
+    -90.376328,
+    38.402569,
+    -90.376328,
+    38.402569
+],
+  "geometry": {"coordinates":[-90.376328,38.402569],"type":"Point"}
+}

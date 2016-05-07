@@ -1,0 +1,84 @@
+{
+  "id": 773473099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.436746,38.666897,-90.436746,38.666897",
+    "geom:latitude":38.666897,
+    "geom:longitude":-90.436746,
+    "iso:country":"US",
+    "sg:address":"727 Craig Rd",
+    "sg:city":"St Louis",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Hazard Insurance",
+            "type":"Services"
+        },
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 569 7300",
+    "sg:postcode":"63141",
+    "sg:province":"MO",
+    "sg:tags":[
+        "fire",
+        "marine",
+        "casualty"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85867987,
+        102191575,
+        404517387,
+        85633793,
+        85972277,
+        102086173,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2fcKkPjSBqxNdTYtQHVBhX_38.666897_-90.436746@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462586010,
+    "wof:geomhash":"b83e4a8c5767aa26d12ae36da3f388c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086173,
+            "localadmin_id":404517387,
+            "locality_id":85972277,
+            "neighbourhood_id":85867987,
+            "region_id":85688661,
+            "venue_id":773473099
+        }
+    ],
+    "wof:id":773473099,
+    "wof:lastmodified":1462586010,
+    "wof:name":"Firemans Fund Insurance Co",
+    "wof:parent_id":85867987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fire",
+        "marine",
+        "casualty"
+    ]
+},
+  "bbox": [
+    -90.436746,
+    38.666897,
+    -90.436746,
+    38.666897
+],
+  "geometry": {"coordinates":[-90.436746,38.666897],"type":"Point"}
+}

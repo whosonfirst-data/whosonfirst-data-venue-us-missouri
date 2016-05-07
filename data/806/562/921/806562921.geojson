@@ -1,0 +1,75 @@
+{
+  "id": 806562921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.549697,38.587275,-90.549697,38.587275",
+    "geom:latitude":38.587275,
+    "geom:longitude":-90.549697,
+    "iso:country":"US",
+    "sg:address":"221 Solon Dr",
+    "sg:city":"Ballwin",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 527 4477",
+    "sg:postcode":"63021",
+    "sg:province":"MO",
+    "sg:tags":[
+        "taxicab"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85831197,
+        102191575,
+        404517315,
+        85633793,
+        85972301,
+        102086173,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3cIl4H1PdVWFYEy4LWpUkm_38.587275_-90.549697@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462599149,
+    "wof:geomhash":"f19e65b073999858f2e78f2778d2fb19",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086173,
+            "localadmin_id":404517315,
+            "locality_id":85972301,
+            "neighbourhood_id":85831197,
+            "region_id":85688661,
+            "venue_id":806562921
+        }
+    ],
+    "wof:id":806562921,
+    "wof:lastmodified":1462599149,
+    "wof:name":"Ballwin Cab",
+    "wof:parent_id":85831197,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "taxicab"
+    ]
+},
+  "bbox": [
+    -90.549697,
+    38.587275,
+    -90.549697,
+    38.587275
+],
+  "geometry": {"coordinates":[-90.54969699999999,38.587275],"type":"Point"}
+}

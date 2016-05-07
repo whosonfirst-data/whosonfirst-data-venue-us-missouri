@@ -1,0 +1,84 @@
+{
+  "id": 789682751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.253073,38.624431,-90.253073,38.624431",
+    "geom:latitude":38.624431,
+    "geom:longitude":-90.253073,
+    "iso:country":"US",
+    "sg:address":"1446 S Vandeventer Ave",
+    "sg:city":"St Louis",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 652 0742",
+    "sg:postcode":"63110",
+    "sg:province":"MO",
+    "sg:tags":[
+        "shop",
+        "machine",
+        "industrial",
+        "electric",
+        "mfg"
+    ],
+    "sg:website":"www.vandeventermachine.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873649,
+        102191575,
+        404518053,
+        85633793,
+        85971343,
+        102080791,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1hYBZu94KccPz08ogkdzLK_38.624431_-90.253073@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462589722,
+    "wof:geomhash":"79dae2d864a37941add0763e8808b143",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080791,
+            "localadmin_id":404518053,
+            "locality_id":85971343,
+            "neighbourhood_id":85873649,
+            "region_id":85688661,
+            "venue_id":789682751
+        }
+    ],
+    "wof:id":789682751,
+    "wof:lastmodified":1462589722,
+    "wof:name":"Vandeventer Machine Works Corp",
+    "wof:parent_id":85873649,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "machine",
+        "industrial",
+        "electric",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -90.253073,
+    38.624431,
+    -90.253073,
+    38.624431
+],
+  "geometry": {"coordinates":[-90.253073,38.624431],"type":"Point"}
+}

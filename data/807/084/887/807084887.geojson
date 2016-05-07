@@ -1,0 +1,78 @@
+{
+  "id": 807084887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.460104,39.245472,-94.460104,39.245472",
+    "geom:latitude":39.245472,
+    "geom:longitude":-94.460104,
+    "iso:country":"US",
+    "sg:address":"9650 NE Barry Rd",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/liberty/190930-burger-king/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 781 0699",
+    "sg:postcode":"64157",
+    "sg:province":"MO",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85834529,
+        102191575,
+        404518075,
+        85633793,
+        85970739,
+        102081227,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6R4jACFRiZkUy12ufcEvjc_39.245472_-94.460104@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462603573,
+    "wof:geomhash":"bb72991605130eea4a65257d22fa2c42",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081227,
+            "localadmin_id":404518075,
+            "locality_id":85970739,
+            "neighbourhood_id":85834529,
+            "region_id":85688661,
+            "venue_id":807084887
+        }
+    ],
+    "wof:id":807084887,
+    "wof:lastmodified":1462603573,
+    "wof:name":"Burger King",
+    "wof:parent_id":85834529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -94.460104,
+    39.245472,
+    -94.460104,
+    39.245472
+],
+  "geometry": {"coordinates":[-94.460104,39.245472],"type":"Point"}
+}

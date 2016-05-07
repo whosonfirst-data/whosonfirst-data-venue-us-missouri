@@ -1,0 +1,85 @@
+{
+  "id": 807118499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.278385,38.780812,-90.278385,38.780812",
+    "geom:latitude":38.780812,
+    "geom:longitude":-90.278385,
+    "iso:country":"US",
+    "sg:address":"11905 W Florissant Ave",
+    "sg:city":"Florissant",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 972 0100",
+    "sg:postcode":"63033",
+    "sg:province":"MO",
+    "sg:tags":[
+        "physician",
+        "radiology",
+        "pediatrics-radiology",
+        "surgeons",
+        "surgeon",
+        "surgery-general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85813019,
+        102191575,
+        404517467,
+        85633793,
+        85972639,
+        102086173,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7mhZD7Hhki1YUGgpy6KRc5_38.780812_-90.278385@1303262925"
+    },
+    "wof:country":"US",
+    "wof:created":1462603922,
+    "wof:geomhash":"6f0130b7b0791c3371b314a255735b64",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086173,
+            "localadmin_id":404517467,
+            "locality_id":85972639,
+            "neighbourhood_id":85813019,
+            "region_id":85688661,
+            "venue_id":807118499
+        }
+    ],
+    "wof:id":807118499,
+    "wof:lastmodified":1462603922,
+    "wof:name":"Bio Medical Imaging",
+    "wof:parent_id":85813019,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "radiology",
+        "pediatrics-radiology",
+        "surgeons",
+        "surgeon",
+        "surgery-general"
+    ]
+},
+  "bbox": [
+    -90.278385,
+    38.780812,
+    -90.278385,
+    38.780812
+],
+  "geometry": {"coordinates":[-90.278385,38.780812],"type":"Point"}
+}

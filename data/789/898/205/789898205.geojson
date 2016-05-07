@@ -1,0 +1,71 @@
+{
+  "id": 789898205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.579251,39.39265,-94.579251,39.39265",
+    "geom:latitude":39.39265,
+    "geom:longitude":-94.579251,
+    "iso:country":"US",
+    "sg:address":"402 Hawthorne St",
+    "sg:city":"Smithville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Portrait Studio",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 532 1020",
+    "sg:postcode":"64089",
+    "sg:province":"MO",
+    "sg:tags":[
+        "photo"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970739,
+        102086177,
+        85836329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7fCEnF12Wa1I8i4EQb4hnN_39.392650_-94.579251@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462591433,
+    "wof:geomhash":"25bc4eeeeae40a1dba1e94f0531d3fbf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086177,
+            "locality_id":85970739,
+            "neighbourhood_id":85836329,
+            "region_id":85688661,
+            "venue_id":789898205
+        }
+    ],
+    "wof:id":789898205,
+    "wof:lastmodified":1462591433,
+    "wof:name":"Wright Choice",
+    "wof:parent_id":85836329,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "photo"
+    ]
+},
+  "bbox": [
+    -94.579251,
+    39.39265,
+    -94.579251,
+    39.39265
+],
+  "geometry": {"coordinates":[-94.579251,39.39265],"type":"Point"}
+}

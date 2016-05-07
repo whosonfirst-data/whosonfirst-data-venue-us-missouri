@@ -1,0 +1,73 @@
+{
+  "id": 773707577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.441169,37.789084,-90.441169,37.789084",
+    "geom:latitude":37.789084,
+    "geom:longitude":-90.441169,
+    "iso:country":"US",
+    "sg:address":"1311 Maple St",
+    "sg:city":"Farmington",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 756 9500",
+    "sg:postcode":"63640",
+    "sg:province":"MO",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970665,
+        102085297,
+        85816309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3MCoT9Z3by7CVK0ostHxGp_37.789084_-90.441169@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462587784,
+    "wof:geomhash":"13caf9c97cefb9ae518d24b624c4bdf0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085297,
+            "locality_id":85970665,
+            "neighbourhood_id":85816309,
+            "region_id":85688661,
+            "venue_id":773707577
+        }
+    ],
+    "wof:id":773707577,
+    "wof:lastmodified":1462587784,
+    "wof:name":"Contemporary Ob-Gyn",
+    "wof:parent_id":85816309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -90.441169,
+    37.789084,
+    -90.441169,
+    37.789084
+],
+  "geometry": {"coordinates":[-90.441169,37.789084],"type":"Point"}
+}

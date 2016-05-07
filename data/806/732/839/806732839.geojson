@@ -1,0 +1,71 @@
+{
+  "id": 806732839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.235214,39.351026,-94.235214,39.351026",
+    "geom:latitude":39.351026,
+    "geom:longitude":-94.235214,
+    "iso:country":"US",
+    "sg:address":"1006 N Jesse James Rd",
+    "sg:city":"Excelsior Springs",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 630 6722",
+    "sg:postcode":"64024",
+    "sg:province":"MO",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971507,
+        102086177,
+        85812855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Z92d23pdKox8StYK7057x_39.351026_-94.235214@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462600607,
+    "wof:geomhash":"11064e2ac79945e928f608a79e1b758b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086177,
+            "locality_id":85971507,
+            "neighbourhood_id":85812855,
+            "region_id":85688661,
+            "venue_id":806732839
+        }
+    ],
+    "wof:id":806732839,
+    "wof:lastmodified":1462600607,
+    "wof:name":"Robert L Buzard MD",
+    "wof:parent_id":85812855,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -94.235214,
+    39.351026,
+    -94.235214,
+    39.351026
+],
+  "geometry": {"coordinates":[-94.235214,39.351026],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 807213575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.34522,39.128899,-94.34522,39.128899",
+    "geom:latitude":39.128899,
+    "geom:longitude":-94.34522,
+    "iso:country":"US",
+    "sg:address":"1418 N Glen Ellyn St",
+    "sg:city":"Independence",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 739 7596",
+    "sg:postcode":"64056",
+    "sg:province":"MO",
+    "sg:tags":[
+        "electrician"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971449,
+        102081227,
+        85844675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2iWBhqCRaXncmhFFYvLVAZ_39.128899_-94.345220@1303262932"
+    },
+    "wof:country":"US",
+    "wof:created":1462604934,
+    "wof:geomhash":"78295966d672adc6b537f3303b612cab",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081227,
+            "locality_id":85971449,
+            "neighbourhood_id":85844675,
+            "region_id":85688661,
+            "venue_id":807213575
+        }
+    ],
+    "wof:id":807213575,
+    "wof:lastmodified":1462604934,
+    "wof:name":"Kansas City Electric",
+    "wof:parent_id":85844675,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrician"
+    ]
+},
+  "bbox": [
+    -94.34522,
+    39.128899,
+    -94.34522,
+    39.128899
+],
+  "geometry": {"coordinates":[-94.34522,39.128899],"type":"Point"}
+}

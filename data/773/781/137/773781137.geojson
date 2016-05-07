@@ -1,0 +1,86 @@
+{
+  "id": 773781137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.270991,38.710852,-90.270991,38.710852",
+    "geom:latitude":38.710852,
+    "geom:longitude":-90.270991,
+    "iso:country":"US",
+    "sg:address":"7062 Idlewild Ave",
+    "sg:city":"Saint Louis",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 381 5037",
+    "sg:postcode":"63136",
+    "sg:province":"MO",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420525437,
+        102191575,
+        404515929,
+        85633793,
+        85972271,
+        102086173,
+        85688661,
+        420525467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7NFy8owC8oOrqE8iT89807_38.710852_-90.270991@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462588326,
+    "wof:geomhash":"4e25bad3e70548db53676b56f0b70682",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086173,
+            "localadmin_id":404515929,
+            "locality_id":85972271,
+            "neighbourhood_id":420525437,
+            "region_id":85688661,
+            "venue_id":773781137
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086173,
+            "localadmin_id":404515929,
+            "locality_id":85972271,
+            "neighbourhood_id":420525467,
+            "region_id":85688661,
+            "venue_id":773781137
+        }
+    ],
+    "wof:id":773781137,
+    "wof:lastmodified":1462588326,
+    "wof:name":"A&L Truck Repair Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -90.270991,
+    38.710852,
+    -90.270991,
+    38.710852
+],
+  "geometry": {"coordinates":[-90.270991,38.710852],"type":"Point"}
+}

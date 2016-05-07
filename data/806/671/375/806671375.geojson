@@ -1,0 +1,71 @@
+{
+  "id": 806671375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.580761,39.387035,-94.580761,39.387035",
+    "geom:latitude":39.387035,
+    "geom:longitude":-94.580761,
+    "iso:country":"US",
+    "sg:address":"111 E Main St",
+    "sg:city":"Smithville",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 532 0943",
+    "sg:postcode":"64089",
+    "sg:province":"MO",
+    "sg:tags":[
+        "drinking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970739,
+        102086177,
+        85836329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0mMU3xZAmbbjN1chF9zCYL_39.387035_-94.580761@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462600095,
+    "wof:geomhash":"a6a646dcc6252cce15af642a062f5296",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086177,
+            "locality_id":85970739,
+            "neighbourhood_id":85836329,
+            "region_id":85688661,
+            "venue_id":806671375
+        }
+    ],
+    "wof:id":806671375,
+    "wof:lastmodified":1462600095,
+    "wof:name":"Town Tavern",
+    "wof:parent_id":85836329,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drinking"
+    ]
+},
+  "bbox": [
+    -94.580761,
+    39.387035,
+    -94.580761,
+    39.387035
+],
+  "geometry": {"coordinates":[-94.580761,39.387035],"type":"Point"}
+}

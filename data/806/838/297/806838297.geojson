@@ -1,0 +1,73 @@
+{
+  "id": 806838297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.516819,38.053279,-90.516819,38.053279",
+    "geom:latitude":38.053279,
+    "geom:longitude":-90.516819,
+    "iso:country":"US",
+    "sg:address":"3817 Roberts Dr",
+    "sg:city":"De Soto",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Sewage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 586 3996",
+    "sg:postcode":"63020",
+    "sg:province":"MO",
+    "sg:tags":[
+        "company",
+        "management",
+        "sewer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85848677,
+        102080787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1P8tpZkO7CjJgAQCtiN0YV_38.053279_-90.516819@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462601496,
+    "wof:geomhash":"88ac5f067d651aa6fbec8475d766fad8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080787,
+            "neighbourhood_id":85848677,
+            "region_id":85688661,
+            "venue_id":806838297
+        }
+    ],
+    "wof:id":806838297,
+    "wof:lastmodified":1462601496,
+    "wof:name":"Valle Lake Sewer District",
+    "wof:parent_id":85848677,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company",
+        "management",
+        "sewer"
+    ]
+},
+  "bbox": [
+    -90.516819,
+    38.053279,
+    -90.516819,
+    38.053279
+],
+  "geometry": {"coordinates":[-90.516819,38.053279],"type":"Point"}
+}

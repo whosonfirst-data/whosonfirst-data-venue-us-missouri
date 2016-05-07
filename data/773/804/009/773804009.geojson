@@ -1,0 +1,71 @@
+{
+  "id": 773804009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.658793,38.787132,-90.658793,38.787132",
+    "geom:latitude":38.787132,
+    "geom:longitude":-90.658793,
+    "iso:country":"US",
+    "sg:address":"7860 Mexico Rd",
+    "sg:city":"Saint Peters",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 346 8055",
+    "sg:postcode":"63376",
+    "sg:province":"MO",
+    "sg:tags":[
+        "carwash"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2jDi9cp4y1cQcu0RIeyxRH_38.787132_-90.658793@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462588503,
+    "wof:geomhash":"0c122d996cd28ae59be18df719edf4c7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":773804009
+        }
+    ],
+    "wof:id":773804009,
+    "wof:lastmodified":1462588503,
+    "wof:name":"Autowash Express Inc",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carwash"
+    ]
+},
+  "bbox": [
+    -90.658793,
+    38.787132,
+    -90.658793,
+    38.787132
+],
+  "geometry": {"coordinates":[-90.658793,38.787132],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 789848193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.438638,38.666907,-90.438638,38.666907",
+    "geom:latitude":38.666907,
+    "geom:longitude":-90.438638,
+    "iso:country":"US",
+    "sg:address":"675 Old Ballas Rd",
+    "sg:city":"St Louis",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 569 2626",
+    "sg:postcode":"63141",
+    "sg:province":"MO",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85805719,
+        102191575,
+        404517323,
+        85633793,
+        85972315,
+        102086173,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Nwkx0Hx3BA8sBjyTv5U9X_38.666907_-90.438638@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462591014,
+    "wof:geomhash":"6c3bf4708918bccaaaafc2c2f1a5953e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086173,
+            "localadmin_id":404517323,
+            "locality_id":85972315,
+            "neighbourhood_id":85805719,
+            "region_id":85688661,
+            "venue_id":789848193
+        }
+    ],
+    "wof:id":789848193,
+    "wof:lastmodified":1462591014,
+    "wof:name":"Surgical Diagnostic & Therapy",
+    "wof:parent_id":85805719,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -90.438638,
+    38.666907,
+    -90.438638,
+    38.666907
+],
+  "geometry": {"coordinates":[-90.438638,38.666907],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 789681265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.628918,37.993523,-91.628918,37.993523",
+    "geom:latitude":37.993523,
+    "geom:longitude":-91.628918,
+    "iso:country":"US",
+    "sg:address":"203 S Louise Ave",
+    "sg:city":"St James",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 265 6565",
+    "sg:postcode":"65559",
+    "sg:province":"MO",
+    "sg:tags":[
+        "ambulance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970819,
+        102086893,
+        85847353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1wDdGY4DmV7HSfTZWUASsv_37.993523_-91.628918@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462589712,
+    "wof:geomhash":"7c0a6594dc97fa975b72ee0cf469f17d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086893,
+            "locality_id":85970819,
+            "neighbourhood_id":85847353,
+            "region_id":85688661,
+            "venue_id":789681265
+        }
+    ],
+    "wof:id":789681265,
+    "wof:lastmodified":1462589712,
+    "wof:name":"St James Ambulance Svc",
+    "wof:parent_id":85847353,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ambulance"
+    ]
+},
+  "bbox": [
+    -91.628918,
+    37.993523,
+    -91.628918,
+    37.993523
+],
+  "geometry": {"coordinates":[-91.628918,37.993523],"type":"Point"}
+}

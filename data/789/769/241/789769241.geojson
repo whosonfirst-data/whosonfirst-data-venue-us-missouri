@@ -1,0 +1,73 @@
+{
+  "id": 789769241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.003976,39.302798,-91.003976,39.302798",
+    "geom:latitude":39.302798,
+    "geom:longitude":-91.003976,
+    "iso:country":"US",
+    "sg:address":"19637 Pike 266",
+    "sg:city":"Eolia",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 485 6635",
+    "sg:postcode":"63344",
+    "sg:province":"MO",
+    "sg:tags":[
+        "operator",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971907,
+        102086151,
+        85817909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Vkx5S0UjodaRyyPagJ64c_39.302798_-91.003976@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462590397,
+    "wof:geomhash":"8864bf591d247ffff623c7e4906b630a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086151,
+            "locality_id":85971907,
+            "neighbourhood_id":85817909,
+            "region_id":85688661,
+            "venue_id":789769241
+        }
+    ],
+    "wof:id":789769241,
+    "wof:lastmodified":1462590397,
+    "wof:name":"Freight Dispatch",
+    "wof:parent_id":85817909,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -91.003976,
+    39.302798,
+    -91.003976,
+    39.302798
+],
+  "geometry": {"coordinates":[-91.00397599999999,39.302798],"type":"Point"}
+}

@@ -1,0 +1,89 @@
+{
+  "id": 807183871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.86326,38.810301,-90.86326,38.810301",
+    "geom:latitude":38.810301,
+    "geom:longitude":-90.86326,
+    "iso:country":"US",
+    "sg:address":"733 W Pearce Blvd",
+    "sg:city":"Wentzville",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Non-durable Goods",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 332 3000",
+    "sg:postcode":"63385",
+    "sg:province":"MO",
+    "sg:tags":[
+        "equipment",
+        "manufacturer",
+        "supplies-wholesale",
+        "salons-equipment",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2baex5zlbUV8isoDtnCpDf_38.810301_-90.863260@1303262930"
+    },
+    "wof:country":"US",
+    "wof:created":1462604623,
+    "wof:geomhash":"1b8c19d14205278a57017796de52a7f8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":807183871
+        }
+    ],
+    "wof:id":807183871,
+    "wof:lastmodified":1462604623,
+    "wof:name":"Beauty Queen",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "manufacturer",
+        "supplies-wholesale",
+        "salons-equipment",
+        "supply"
+    ]
+},
+  "bbox": [
+    -90.86326,
+    38.810301,
+    -90.86326,
+    38.810301
+],
+  "geometry": {"coordinates":[-90.86326,38.810301],"type":"Point"}
+}

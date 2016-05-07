@@ -1,0 +1,75 @@
+{
+  "id": 789727669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.212821,38.638941,-90.212821,38.638941",
+    "geom:latitude":38.638941,
+    "geom:longitude":-90.212821,
+    "iso:country":"US",
+    "sg:address":"919 N Jefferson Ave",
+    "sg:city":"St Louis",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 444 2500",
+    "sg:postcode":"63106",
+    "sg:province":"MO",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873641,
+        102191575,
+        404518053,
+        85633793,
+        85971343,
+        102080791,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_30AK3C8uWocMuUpGFOjQ33_38.638941_-90.212821@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462590087,
+    "wof:geomhash":"09001e2bf94eb7e69765bbc32bbb3217",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080791,
+            "localadmin_id":404518053,
+            "locality_id":85971343,
+            "neighbourhood_id":85873641,
+            "region_id":85688661,
+            "venue_id":789727669
+        }
+    ],
+    "wof:id":789727669,
+    "wof:lastmodified":1462590087,
+    "wof:name":"St Louis Police Dept",
+    "wof:parent_id":85873641,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -90.212821,
+    38.638941,
+    -90.212821,
+    38.638941
+],
+  "geometry": {"coordinates":[-90.21282100000001,38.638941],"type":"Point"}
+}

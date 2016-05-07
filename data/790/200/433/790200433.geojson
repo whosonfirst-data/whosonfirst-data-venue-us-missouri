@@ -1,0 +1,84 @@
+{
+  "id": 790200433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.253132,38.660801,-90.253132,38.660801",
+    "geom:latitude":38.660801,
+    "geom:longitude":-90.253132,
+    "iso:country":"US",
+    "sg:address":"1509 Marcus Ave",
+    "sg:city":"St Louis",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Beauty & Cosmetics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 534 0230",
+    "sg:postcode":"63113",
+    "sg:province":"MO",
+    "sg:tags":[
+        "establishment",
+        "merchandise",
+        "perfume"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420525461,
+        102191575,
+        404518053,
+        85633793,
+        85971343,
+        102080791,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0T2rdlNDYTpzYZCSXq39DK_38.660801_-90.253132@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462593961,
+    "wof:geomhash":"d073dc6efbd839ba9d26911ecdd49e09",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080791,
+            "localadmin_id":404518053,
+            "locality_id":85971343,
+            "neighbourhood_id":420525461,
+            "region_id":85688661,
+            "venue_id":790200433
+        }
+    ],
+    "wof:id":790200433,
+    "wof:lastmodified":1462593961,
+    "wof:name":"Marcus Beauty Supply",
+    "wof:parent_id":420525461,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "establishment",
+        "merchandise",
+        "perfume"
+    ]
+},
+  "bbox": [
+    -90.253132,
+    38.660801,
+    -90.253132,
+    38.660801
+],
+  "geometry": {"coordinates":[-90.25313199999999,38.660801],"type":"Point"}
+}

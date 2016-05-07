@@ -1,0 +1,84 @@
+{
+  "id": 773113397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.240268,38.580352,-90.240268,38.580352",
+    "geom:latitude":38.580352,
+    "geom:longitude":-90.240268,
+    "iso:country":"US",
+    "sg:address":"3214 Meramec St",
+    "sg:city":"St Louis",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Carpets & Floor Coverings",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 481 8886",
+    "sg:postcode":"63118",
+    "sg:province":"MO",
+    "sg:tags":[
+        "material",
+        "laying",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873693,
+        102191575,
+        404518053,
+        85633793,
+        85971343,
+        102080791,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2YbiY7FzniPg77NcrBdmUC_38.580352_-90.240268@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462583243,
+    "wof:geomhash":"93a322d4f67a513bfe3ef8d2f678b676",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080791,
+            "localadmin_id":404518053,
+            "locality_id":85971343,
+            "neighbourhood_id":85873693,
+            "region_id":85688661,
+            "venue_id":773113397
+        }
+    ],
+    "wof:id":773113397,
+    "wof:lastmodified":1462583243,
+    "wof:name":"Greenfield Custom Interior",
+    "wof:parent_id":85873693,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "material",
+        "laying",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -90.240268,
+    38.580352,
+    -90.240268,
+    38.580352
+],
+  "geometry": {"coordinates":[-90.240268,38.580352],"type":"Point"}
+}

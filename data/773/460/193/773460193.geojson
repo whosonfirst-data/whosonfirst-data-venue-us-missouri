@@ -1,0 +1,73 @@
+{
+  "id": 773460193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.414451,37.780571,-90.414451,37.780571",
+    "geom:latitude":37.780571,
+    "geom:longitude":-90.414451,
+    "iso:country":"US",
+    "sg:address":"603 E Liberty St",
+    "sg:city":"Farmington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 701 9929",
+    "sg:postcode":"63640",
+    "sg:province":"MO",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970665,
+        102085297,
+        85816309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7VAwBuBaHOxrl7w7e5MWxP_37.780571_-90.414451@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462585918,
+    "wof:geomhash":"60c5817aa4a7b9aaa93c2a8390a91619",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085297,
+            "locality_id":85970665,
+            "neighbourhood_id":85816309,
+            "region_id":85688661,
+            "venue_id":773460193
+        }
+    ],
+    "wof:id":773460193,
+    "wof:lastmodified":1462585918,
+    "wof:name":"Willy's Tranmission & Auto LLC",
+    "wof:parent_id":85816309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -90.414451,
+    37.780571,
+    -90.414451,
+    37.780571
+],
+  "geometry": {"coordinates":[-90.414451,37.780571],"type":"Point"}
+}

@@ -1,0 +1,102 @@
+{
+  "id": 807185229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.395925,39.685675,-91.395925,39.685675",
+    "geom:latitude":39.685675,
+    "geom:longitude":-91.395925,
+    "iso:country":"US",
+    "sg:address":"3528 Market St",
+    "sg:city":"Hannibal",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 248 3600",
+    "sg:postcode":"63401",
+    "sg:province":"MO",
+    "sg:tags":[
+        "cleaner",
+        "fabric",
+        "rug",
+        "protection",
+        "carpet",
+        "furniture"
+    ],
+    "sg:website":"http://www.chemdry.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85843695,
+        102191575,
+        404516821,
+        85633793,
+        85970335,
+        102086171,
+        85688661,
+        420525383
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1CVD22NOn0ZniYyakwIgtz_39.685675_-91.395925@1303262930"
+    },
+    "wof:country":"US",
+    "wof:created":1462604641,
+    "wof:geomhash":"6d6c01815728e11dc4ba19203bb130b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086171,
+            "localadmin_id":404516821,
+            "locality_id":85970335,
+            "neighbourhood_id":85843695,
+            "region_id":85688661,
+            "venue_id":807185229
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086171,
+            "localadmin_id":404516821,
+            "locality_id":85970335,
+            "neighbourhood_id":420525383,
+            "region_id":85688661,
+            "venue_id":807185229
+        }
+    ],
+    "wof:id":807185229,
+    "wof:lastmodified":1462604641,
+    "wof:name":"Hampton's Chem-Dry",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaner",
+        "fabric",
+        "rug",
+        "protection",
+        "carpet",
+        "furniture"
+    ]
+},
+  "bbox": [
+    -91.395925,
+    39.685675,
+    -91.395925,
+    39.685675
+],
+  "geometry": {"coordinates":[-91.39592500000001,39.685675],"type":"Point"}
+}

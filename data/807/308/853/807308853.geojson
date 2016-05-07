@@ -1,0 +1,78 @@
+{
+  "id": 807308853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.22264,37.238913,-93.22264,37.238913",
+    "geom:latitude":37.238913,
+    "geom:longitude":-93.22264,
+    "iso:country":"US",
+    "sg:address":"2432 N Eastgate Ave Unit 10",
+    "sg:city":"Springfield",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Party Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 864 8449",
+    "sg:postcode":"65803",
+    "sg:province":"MO",
+    "sg:tags":[
+        "tents-rental",
+        "tent"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971363,
+        102087523,
+        85881137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_72BrmbUMXxSSiPwi7VpByi_37.238913_-93.222640@1303262938"
+    },
+    "wof:country":"US",
+    "wof:created":1462605947,
+    "wof:geomhash":"faf1e82e27f5921fc9186694ed35f8be",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087523,
+            "locality_id":85971363,
+            "neighbourhood_id":85881137,
+            "region_id":85688661,
+            "venue_id":807308853
+        }
+    ],
+    "wof:id":807308853,
+    "wof:lastmodified":1462605947,
+    "wof:name":"Action Tent Service",
+    "wof:parent_id":85881137,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tents-rental",
+        "tent"
+    ]
+},
+  "bbox": [
+    -93.22264,
+    37.238913,
+    -93.22264,
+    37.238913
+],
+  "geometry": {"coordinates":[-93.22264,37.238913],"type":"Point"}
+}

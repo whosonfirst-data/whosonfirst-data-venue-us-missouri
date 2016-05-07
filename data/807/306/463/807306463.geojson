@@ -1,0 +1,78 @@
+{
+  "id": 807306463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.231577,37.209863,-93.231577,37.209863",
+    "geom:latitude":37.209863,
+    "geom:longitude":-93.231577,
+    "iso:country":"US",
+    "sg:address":"3107 E Chestnut Expy",
+    "sg:city":"Springfield",
+    "sg:classifiers":[
+        {
+            "category":"Structure",
+            "subcategory":"Warehouse",
+            "type":"Public Place"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Storage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 831 2642",
+    "sg:postcode":"65802",
+    "sg:province":"MO",
+    "sg:tags":[
+        "self",
+        "warehouses-merchandise"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971363,
+        102087523,
+        85881137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3wW1Ewhfb3qrmnBNYc3Ye6_37.209863_-93.231577@1303262938"
+    },
+    "wof:country":"US",
+    "wof:created":1462605922,
+    "wof:geomhash":"936392a63d6e740ada83b08c32ebf6c5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087523,
+            "locality_id":85971363,
+            "neighbourhood_id":85881137,
+            "region_id":85688661,
+            "venue_id":807306463
+        }
+    ],
+    "wof:id":807306463,
+    "wof:lastmodified":1462605922,
+    "wof:name":"Ethan Allen Warehouse",
+    "wof:parent_id":85881137,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "self",
+        "warehouses-merchandise"
+    ]
+},
+  "bbox": [
+    -93.231577,
+    37.209863,
+    -93.231577,
+    37.209863
+],
+  "geometry": {"coordinates":[-93.231577,37.209863],"type":"Point"}
+}

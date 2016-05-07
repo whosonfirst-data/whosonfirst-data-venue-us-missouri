@@ -1,0 +1,71 @@
+{
+  "id": 807124143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.378833,38.351825,-90.378833,38.351825",
+    "geom:latitude":38.351825,
+    "geom:longitude":-90.378833,
+    "iso:country":"US",
+    "sg:address":"1012 Palmer Ln Ste 200",
+    "sg:city":"Imperial",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 303 7753",
+    "sg:postcode":"63052",
+    "sg:province":"MO",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85805175,
+        102080787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5i2jvjSiJsDrqkOGrw9JDH_38.351825_-90.378833@1303262926"
+    },
+    "wof:country":"US",
+    "wof:created":1462603992,
+    "wof:geomhash":"35fb80f79d5738e0662001cb7ab0f5bd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080787,
+            "neighbourhood_id":85805175,
+            "region_id":85688661,
+            "venue_id":807124143
+        }
+    ],
+    "wof:id":807124143,
+    "wof:lastmodified":1462603992,
+    "wof:name":"Fischer Surgical, Inc.",
+    "wof:parent_id":85805175,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -90.378833,
+    38.351825,
+    -90.378833,
+    38.351825
+],
+  "geometry": {"coordinates":[-90.378833,38.351825],"type":"Point"}
+}

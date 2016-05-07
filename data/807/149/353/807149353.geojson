@@ -1,0 +1,83 @@
+{
+  "id": 807149353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.273697,38.591,-90.273697,38.591",
+    "geom:latitude":38.591,
+    "geom:longitude":-90.273697,
+    "iso:country":"US",
+    "sg:address":"4210 S Kingshighway Blvd",
+    "sg:city":"Saint Louis",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        },
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 352 5797",
+    "sg:postcode":"63109",
+    "sg:province":"MO",
+    "sg:tags":[
+        "broker",
+        "mortgage"
+    ],
+    "sg:website":"www.mysouthwestbank.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85850281,
+        102191575,
+        404518053,
+        85633793,
+        85971343,
+        102080791,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4iX3bDKdIWQ67sVxF6MXnH_38.591000_-90.273697@1303262928"
+    },
+    "wof:country":"US",
+    "wof:created":1462604268,
+    "wof:geomhash":"07972ae52b01cd54fe21cc2ab75a884e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080791,
+            "localadmin_id":404518053,
+            "locality_id":85971343,
+            "neighbourhood_id":85850281,
+            "region_id":85688661,
+            "venue_id":807149353
+        }
+    ],
+    "wof:id":807149353,
+    "wof:lastmodified":1462604268,
+    "wof:name":"Southwest Bank",
+    "wof:parent_id":85850281,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "broker",
+        "mortgage"
+    ]
+},
+  "bbox": [
+    -90.273697,
+    38.591,
+    -90.273697,
+    38.591
+],
+  "geometry": {"coordinates":[-90.273697,38.591],"type":"Point"}
+}

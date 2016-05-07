@@ -1,0 +1,73 @@
+{
+  "id": 790237645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.625714,38.801739,-90.625714,38.801739",
+    "geom:latitude":38.801739,
+    "geom:longitude":-90.625714,
+    "iso:country":"US",
+    "sg:address":"108 Main St",
+    "sg:city":"Saint Peters",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 278 3841",
+    "sg:postcode":"63376",
+    "sg:province":"MO",
+    "sg:tags":[
+        "building",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_13hcu6ZreOHg8bsrdHnKmE_38.801739_-90.625714@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462594232,
+    "wof:geomhash":"85e4e57845eded75ec663116405b8e94",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":790237645
+        }
+    ],
+    "wof:id":790237645,
+    "wof:lastmodified":1462594232,
+    "wof:name":"Saint Peters Garage Inc",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -90.625714,
+    38.801739,
+    -90.625714,
+    38.801739
+],
+  "geometry": {"coordinates":[-90.625714,38.801739],"type":"Point"}
+}

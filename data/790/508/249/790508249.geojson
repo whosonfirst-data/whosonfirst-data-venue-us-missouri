@@ -1,0 +1,86 @@
+{
+  "id": 790508249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.285211,38.791154,-90.285211,38.791154",
+    "geom:latitude":38.791154,
+    "geom:longitude":-90.285211,
+    "iso:country":"US",
+    "sg:address":"12800 New Halls Ferry Rd",
+    "sg:city":"Florissant",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 839 0078",
+    "sg:postcode":"63033",
+    "sg:province":"MO",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85813019,
+        102191575,
+        404517467,
+        85633793,
+        85972639,
+        102086173,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3cagGRYTGh5Fen15lEmouo_38.791154_-90.285211@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462596436,
+    "wof:geomhash":"91f795e7df032f3ecfd44d47cdfcc624",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086173,
+            "localadmin_id":404517467,
+            "locality_id":85972639,
+            "neighbourhood_id":85813019,
+            "region_id":85688661,
+            "venue_id":790508249
+        }
+    ],
+    "wof:id":790508249,
+    "wof:lastmodified":1462596436,
+    "wof:name":"Tony's Automotive",
+    "wof:parent_id":85813019,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -90.285211,
+    38.791154,
+    -90.285211,
+    38.791154
+],
+  "geometry": {"coordinates":[-90.285211,38.791154],"type":"Point"}
+}

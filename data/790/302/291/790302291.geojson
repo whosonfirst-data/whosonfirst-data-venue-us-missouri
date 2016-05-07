@@ -1,0 +1,71 @@
+{
+  "id": 790302291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.167951,38.566446,-92.167951,38.566446",
+    "geom:latitude":38.566446,
+    "geom:longitude":-92.167951,
+    "iso:country":"US",
+    "sg:address":"811 E Dunklin St",
+    "sg:city":"Jefferson City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 634 4257",
+    "sg:postcode":"65101",
+    "sg:province":"MO",
+    "sg:tags":[
+        "carwash"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970647,
+        102087511,
+        85837745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0RdBMGVXSQqtbDDxkivHq3_38.566446_-92.167951@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462594784,
+    "wof:geomhash":"d780573c78e441c105a72b7bd0822439",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087511,
+            "locality_id":85970647,
+            "neighbourhood_id":85837745,
+            "region_id":85688661,
+            "venue_id":790302291
+        }
+    ],
+    "wof:id":790302291,
+    "wof:lastmodified":1462594784,
+    "wof:name":"Amands Detailing",
+    "wof:parent_id":85837745,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carwash"
+    ]
+},
+  "bbox": [
+    -92.167951,
+    38.566446,
+    -92.167951,
+    38.566446
+],
+  "geometry": {"coordinates":[-92.167951,38.566446],"type":"Point"}
+}

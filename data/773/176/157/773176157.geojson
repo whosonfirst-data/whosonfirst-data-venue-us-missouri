@@ -1,0 +1,71 @@
+{
+  "id": 773176157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.690553,38.332426,-90.690553,38.332426",
+    "geom:latitude":38.332426,
+    "geom:longitude":-90.690553,
+    "iso:country":"US",
+    "sg:address":"7799 State Hwy 30",
+    "sg:city":"Dittmer",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 285 4377",
+    "sg:postcode":"63023",
+    "sg:province":"MO",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85848677,
+        102080787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Ttsg19OsNrNA0XIBs2Q8c_38.332426_-90.690553@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462583708,
+    "wof:geomhash":"575425888088ac5e666ecbb8a838b3da",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080787,
+            "neighbourhood_id":85848677,
+            "region_id":85688661,
+            "venue_id":773176157
+        }
+    ],
+    "wof:id":773176157,
+    "wof:lastmodified":1462583708,
+    "wof:name":"Evan's Automotive",
+    "wof:parent_id":85848677,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -90.690553,
+    38.332426,
+    -90.690553,
+    38.332426
+],
+  "geometry": {"coordinates":[-90.69055299999999,38.332426],"type":"Point"}
+}

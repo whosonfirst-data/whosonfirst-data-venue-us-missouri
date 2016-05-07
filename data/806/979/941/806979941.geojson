@@ -1,0 +1,71 @@
+{
+  "id": 806979941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.49045,37.748752,-90.49045,37.748752",
+    "geom:latitude":37.748752,
+    "geom:longitude":-90.49045,
+    "iso:country":"US",
+    "sg:address":"3244 Highway W",
+    "sg:city":"Doe Run",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 756 3702",
+    "sg:postcode":"63637",
+    "sg:province":"MO",
+    "sg:tags":[
+        "monument"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970665,
+        102085297,
+        85816309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6fX57ETE5cMKWqtxyEwLMp_37.748752_-90.490450@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462602688,
+    "wof:geomhash":"e6fcd4a8add43d0d184219a0635d40aa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085297,
+            "locality_id":85970665,
+            "neighbourhood_id":85816309,
+            "region_id":85688661,
+            "venue_id":806979941
+        }
+    ],
+    "wof:id":806979941,
+    "wof:lastmodified":1462602688,
+    "wof:name":"Doe Run Monument Co",
+    "wof:parent_id":85816309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "monument"
+    ]
+},
+  "bbox": [
+    -90.49045,
+    37.748752,
+    -90.49045,
+    37.748752
+],
+  "geometry": {"coordinates":[-90.49045,37.748752],"type":"Point"}
+}

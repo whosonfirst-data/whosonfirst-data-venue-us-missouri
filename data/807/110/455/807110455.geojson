@@ -1,0 +1,89 @@
+{
+  "id": 807110455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.496468,38.681751,-90.496468,38.681751",
+    "geom:latitude":38.681751,
+    "geom:longitude":-90.496468,
+    "iso:country":"US",
+    "sg:address":"1100 Woodchase Ln",
+    "sg:city":"Chesterfield",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 469 0029",
+    "sg:postcode":"63017",
+    "sg:province":"MO",
+    "sg:tags":[
+        "vacancy",
+        "apartment",
+        "rental",
+        "finder",
+        "listing"
+    ],
+    "sg:website":"http://www.brassfieldpark.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85805719,
+        102191575,
+        404517323,
+        85633793,
+        85972315,
+        102086173,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Ona36wda6jI2CMm9bU7zl_38.681751_-90.496468@1303262925"
+    },
+    "wof:country":"US",
+    "wof:created":1462603838,
+    "wof:geomhash":"27017283dbf3ecde42143ccf6c3cae9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086173,
+            "localadmin_id":404517323,
+            "locality_id":85972315,
+            "neighbourhood_id":85805719,
+            "region_id":85688661,
+            "venue_id":807110455
+        }
+    ],
+    "wof:id":807110455,
+    "wof:lastmodified":1462603838,
+    "wof:name":"Woodchase Apartments",
+    "wof:parent_id":85805719,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "vacancy",
+        "apartment",
+        "rental",
+        "finder",
+        "listing"
+    ]
+},
+  "bbox": [
+    -90.496468,
+    38.681751,
+    -90.496468,
+    38.681751
+],
+  "geometry": {"coordinates":[-90.49646799999999,38.681751],"type":"Point"}
+}

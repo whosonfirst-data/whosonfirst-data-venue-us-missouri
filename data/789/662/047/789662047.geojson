@@ -1,0 +1,74 @@
+{
+  "id": 789662047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.882539,38.823409,-90.882539,38.823409",
+    "geom:latitude":38.823409,
+    "geom:longitude":-90.882539,
+    "iso:country":"US",
+    "sg:address":"100 Medical Dr",
+    "sg:city":"Lake St Louis",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 625 5335",
+    "sg:postcode":"63385",
+    "sg:province":"MO",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "sg:website":"www.ssmstjoseph.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_71PVFtCoxYGCUn2UEa435r_38.823409_-90.882539@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462589559,
+    "wof:geomhash":"dd099de7f7cd2b059bc34e7ebcea9e42",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":789662047
+        }
+    ],
+    "wof:id":789662047,
+    "wof:lastmodified":1462589559,
+    "wof:name":"Women's Services",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -90.882539,
+    38.823409,
+    -90.882539,
+    38.823409
+],
+  "geometry": {"coordinates":[-90.88253899999999,38.823409],"type":"Point"}
+}

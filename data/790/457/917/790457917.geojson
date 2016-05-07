@@ -1,0 +1,73 @@
+{
+  "id": 790457917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.517579,38.783632,-90.517579,38.783632",
+    "geom:latitude":38.783632,
+    "geom:longitude":-90.517579,
+    "iso:country":"US",
+    "sg:address":"12 Westbury Dr",
+    "sg:city":"St Charles",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 940 0333",
+    "sg:postcode":"63301",
+    "sg:province":"MO",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4KlbwQ1bG5lgbWVmu7aH6Z_38.783632_-90.517579@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462595981,
+    "wof:geomhash":"f7b9d100badb73d4763f8b8442d35886",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":790457917
+        }
+    ],
+    "wof:id":790457917,
+    "wof:lastmodified":1462595981,
+    "wof:name":"Westbury Allergy",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -90.517579,
+    38.783632,
+    -90.517579,
+    38.783632
+],
+  "geometry": {"coordinates":[-90.517579,38.783632],"type":"Point"}
+}

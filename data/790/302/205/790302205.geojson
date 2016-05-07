@@ -1,0 +1,71 @@
+{
+  "id": 790302205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.507104,38.817482,-90.507104,38.817482",
+    "geom:latitude":38.817482,
+    "geom:longitude":-90.507104,
+    "iso:country":"US",
+    "sg:address":"3600 Elm Point Rd",
+    "sg:city":"Saint Charles",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 949 3366",
+    "sg:postcode":"63301",
+    "sg:province":"MO",
+    "sg:tags":[
+        "management"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0mihQ0IGqB4pUJHpuV6w90_38.817482_-90.507104@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462594784,
+    "wof:geomhash":"177dfc1fc7efb17b409fba5286cb4fdf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":790302205
+        }
+    ],
+    "wof:id":790302205,
+    "wof:lastmodified":1462594784,
+    "wof:name":"St Charles City of",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "management"
+    ]
+},
+  "bbox": [
+    -90.507104,
+    38.817482,
+    -90.507104,
+    38.817482
+],
+  "geometry": {"coordinates":[-90.507104,38.817482],"type":"Point"}
+}

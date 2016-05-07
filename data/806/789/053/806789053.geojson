@@ -1,0 +1,66 @@
+{
+  "id": 806789053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.345373,37.362779,-93.345373,37.362779",
+    "geom:latitude":37.362779,
+    "geom:longitude":-93.345373,
+    "iso:country":"US",
+    "sg:address":"3580 W Farm Rd 44",
+    "sg:city":"Willard",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 742 4602",
+    "sg:postcode":"65781",
+    "sg:province":"MO",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971363,
+        102087523,
+        85881139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6IpoBvhtbv0u2RsAmpJm3b_37.362779_-93.345373@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462601097,
+    "wof:geomhash":"16e12ac0ba662ffbd50529b1b8134eb5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087523,
+            "locality_id":85971363,
+            "neighbourhood_id":85881139,
+            "region_id":85688661,
+            "venue_id":806789053
+        }
+    ],
+    "wof:id":806789053,
+    "wof:lastmodified":1462601097,
+    "wof:name":"Crossroads Convenience Store",
+    "wof:parent_id":85881139,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -93.345373,
+    37.362779,
+    -93.345373,
+    37.362779
+],
+  "geometry": {"coordinates":[-93.345373,37.362779],"type":"Point"}
+}

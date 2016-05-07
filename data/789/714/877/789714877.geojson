@@ -1,0 +1,71 @@
+{
+  "id": 789714877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.00803,39.245201,-91.00803,39.245201",
+    "geom:latitude":39.245201,
+    "geom:longitude":-91.00803,
+    "iso:country":"US",
+    "sg:address":"608 N Main St",
+    "sg:city":"Eolia",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 485 2186",
+    "sg:postcode":"63344",
+    "sg:province":"MO",
+    "sg:tags":[
+        "military"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971907,
+        102086151,
+        85817909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5K6iKYAksAAeBkhHIjBHe6_39.245201_-91.008030@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462589973,
+    "wof:geomhash":"82b353d6da84a128152d9f03e13bee3b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086151,
+            "locality_id":85971907,
+            "neighbourhood_id":85817909,
+            "region_id":85688661,
+            "venue_id":789714877
+        }
+    ],
+    "wof:id":789714877,
+    "wof:lastmodified":1462589973,
+    "wof:name":"Veterans Of Foreign Wars",
+    "wof:parent_id":85817909,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "military"
+    ]
+},
+  "bbox": [
+    -91.00803,
+    39.245201,
+    -91.00803,
+    39.245201
+],
+  "geometry": {"coordinates":[-91.00803000000001,39.245201],"type":"Point"}
+}

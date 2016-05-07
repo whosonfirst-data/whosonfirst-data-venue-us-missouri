@@ -1,0 +1,71 @@
+{
+  "id": 789661451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.489408,36.535842,-94.489408,36.535842",
+    "geom:latitude":36.535842,
+    "geom:longitude":-94.489408,
+    "iso:country":"US",
+    "sg:address":"26 Redwood Ln",
+    "sg:city":"Noel",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 475 3400",
+    "sg:postcode":"64854",
+    "sg:province":"MO",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972127,
+        102085305,
+        85850627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6bGc6OVLUOppS3LMyzHnMk_36.535842_-94.489408@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462589551,
+    "wof:geomhash":"c23f4d48cf9c36f7cb7f38acc8ddb918",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085305,
+            "locality_id":85972127,
+            "neighbourhood_id":85850627,
+            "region_id":85688661,
+            "venue_id":789661451
+        }
+    ],
+    "wof:id":789661451,
+    "wof:lastmodified":1462589551,
+    "wof:name":"Noel Heights",
+    "wof:parent_id":85850627,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -94.489408,
+    36.535842,
+    -94.489408,
+    36.535842
+],
+  "geometry": {"coordinates":[-94.489408,36.535842],"type":"Point"}
+}

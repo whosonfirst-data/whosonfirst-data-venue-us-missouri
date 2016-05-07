@@ -1,0 +1,74 @@
+{
+  "id": 807087835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.614087,36.508628,-94.614087,36.508628",
+    "geom:latitude":36.508628,
+    "geom:longitude":-94.614087,
+    "iso:country":"US",
+    "sg:address":"999 S Main St",
+    "sg:city":"South West City",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/prairie/68146-simple-simons-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 762 4262",
+    "sg:postcode":"64863",
+    "sg:province":"MO",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972127,
+        102085305,
+        85850627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Wq4Je1zx5oDtQTKswAXVx_36.508628_-94.614087@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462603596,
+    "wof:geomhash":"2cddc44768cd424a547bf920f295ea67",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085305,
+            "locality_id":85972127,
+            "neighbourhood_id":85850627,
+            "region_id":85688661,
+            "venue_id":807087835
+        }
+    ],
+    "wof:id":807087835,
+    "wof:lastmodified":1462603596,
+    "wof:name":"Simple Simon's Pizza",
+    "wof:parent_id":85850627,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -94.614087,
+    36.508628,
+    -94.614087,
+    36.508628
+],
+  "geometry": {"coordinates":[-94.614087,36.508628],"type":"Point"}
+}

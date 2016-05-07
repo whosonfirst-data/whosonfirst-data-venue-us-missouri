@@ -1,0 +1,82 @@
+{
+  "id": 789939755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.29337,38.620141,-90.29337,38.620141",
+    "geom:latitude":38.620141,
+    "geom:longitude":-90.29337,
+    "iso:country":"US",
+    "sg:address":"6301 Knox Industrial Dr",
+    "sg:city":"St Louis",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Non-profit Organization",
+            "type":"Services"
+        },
+        {
+            "category":"Education",
+            "subcategory":"Vocational School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 644 1525",
+    "sg:postcode":"63139",
+    "sg:province":"MO",
+    "sg:tags":[
+        "training",
+        "facility"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85811407,
+        102191575,
+        404518053,
+        85633793,
+        85971343,
+        102080791,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3BPq1f3K6eq4fbZI5Xi5Zh_38.620141_-90.293370@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462591785,
+    "wof:geomhash":"fefc553b139a1deb57502b4bbf86a666",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080791,
+            "localadmin_id":404518053,
+            "locality_id":85971343,
+            "neighbourhood_id":85811407,
+            "region_id":85688661,
+            "venue_id":789939755
+        }
+    ],
+    "wof:id":789939755,
+    "wof:lastmodified":1462591785,
+    "wof:name":"Construction Training School",
+    "wof:parent_id":85811407,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "training",
+        "facility"
+    ]
+},
+  "bbox": [
+    -90.29337,
+    38.620141,
+    -90.29337,
+    38.620141
+],
+  "geometry": {"coordinates":[-90.29337,38.620141],"type":"Point"}
+}

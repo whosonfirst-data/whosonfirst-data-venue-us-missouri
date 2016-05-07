@@ -1,0 +1,74 @@
+{
+  "id": 807094141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.228098,37.209613,-93.228098,37.209613",
+    "geom:latitude":37.209613,
+    "geom:longitude":-93.228098,
+    "iso:country":"US",
+    "sg:address":"3312 E Chestnut Expy",
+    "sg:city":"Springfield",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/springfield/156092-hardees/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 865 2555",
+    "sg:postcode":"65802",
+    "sg:province":"MO",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971363,
+        102087523,
+        85881137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5d0uKzCQyvsv9LhoAFPc9S_37.209613_-93.228098@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462603655,
+    "wof:geomhash":"46e144ce7504583b3eca65438b69e0fc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087523,
+            "locality_id":85971363,
+            "neighbourhood_id":85881137,
+            "region_id":85688661,
+            "venue_id":807094141
+        }
+    ],
+    "wof:id":807094141,
+    "wof:lastmodified":1462603655,
+    "wof:name":"Hardee's",
+    "wof:parent_id":85881137,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -93.228098,
+    37.209613,
+    -93.228098,
+    37.209613
+],
+  "geometry": {"coordinates":[-93.228098,37.209613],"type":"Point"}
+}

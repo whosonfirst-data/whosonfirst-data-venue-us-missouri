@@ -1,0 +1,75 @@
+{
+  "id": 806466671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.640288,37.747526,-90.640288,37.747526",
+    "geom:latitude":37.747526,
+    "geom:longitude":-90.640288,
+    "iso:country":"US",
+    "sg:address":"7 Grider Rd",
+    "sg:city":"Bismarck",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 734 2087",
+    "sg:postcode":"63624",
+    "sg:province":"MO",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970665,
+        102085297,
+        85816309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1HHshHLMjahpyjPugMLMHA_37.747526_-90.640288@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462598366,
+    "wof:geomhash":"ef9007a420fdd09369d3d9f9eb92c9eb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085297,
+            "locality_id":85970665,
+            "neighbourhood_id":85816309,
+            "region_id":85688661,
+            "venue_id":806466671
+        }
+    ],
+    "wof:id":806466671,
+    "wof:lastmodified":1462598366,
+    "wof:name":"Sadler Hauling",
+    "wof:parent_id":85816309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -90.640288,
+    37.747526,
+    -90.640288,
+    37.747526
+],
+  "geometry": {"coordinates":[-90.640288,37.747526],"type":"Point"}
+}

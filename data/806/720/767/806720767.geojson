@@ -1,0 +1,73 @@
+{
+  "id": 806720767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.17401,38.577985,-92.17401,38.577985",
+    "geom:latitude":38.577985,
+    "geom:longitude":-92.17401,
+    "iso:country":"US",
+    "sg:address":"221 W High St",
+    "sg:city":"Jefferson City",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Court House",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 751 3229",
+    "sg:postcode":"65101",
+    "sg:province":"MO",
+    "sg:tags":[
+        "state",
+        "counsel"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970647,
+        102087511,
+        85837745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6HEuMHWgncysts5WS30dWT_38.577985_-92.174010@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462600507,
+    "wof:geomhash":"0ccc562deeae0b347b15744193160042",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087511,
+            "locality_id":85970647,
+            "neighbourhood_id":85837745,
+            "region_id":85688661,
+            "venue_id":806720767
+        }
+    ],
+    "wof:id":806720767,
+    "wof:lastmodified":1462600507,
+    "wof:name":"Division-Legal Svc-Missouri",
+    "wof:parent_id":85837745,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "counsel"
+    ]
+},
+  "bbox": [
+    -92.17401,
+    38.577985,
+    -92.17401,
+    38.577985
+],
+  "geometry": {"coordinates":[-92.17401,38.577985],"type":"Point"}
+}

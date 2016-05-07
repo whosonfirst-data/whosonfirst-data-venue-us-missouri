@@ -1,0 +1,87 @@
+{
+  "id": 789706285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.212454,38.632795,-90.212454,38.632795",
+    "geom:latitude":38.632795,
+    "geom:longitude":-90.212454,
+    "iso:country":"US",
+    "sg:address":"2211 Olive St",
+    "sg:city":"St Louis",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Machinery & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 241 5222",
+    "sg:postcode":"63103",
+    "sg:province":"MO",
+    "sg:tags":[
+        "equipment",
+        "industrial",
+        "elevator",
+        "repair"
+    ],
+    "sg:website":"www.longelevator.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873645,
+        102191575,
+        404518053,
+        85633793,
+        85971343,
+        102080791,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5iacNoOJA574ODxnzfjMU4_38.632795_-90.212454@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462589901,
+    "wof:geomhash":"5660d452aa5b35cafbadadc9c96e5c41",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080791,
+            "localadmin_id":404518053,
+            "locality_id":85971343,
+            "neighbourhood_id":85873645,
+            "region_id":85688661,
+            "venue_id":789706285
+        }
+    ],
+    "wof:id":789706285,
+    "wof:lastmodified":1462589901,
+    "wof:name":"Long Elevator & Machine Co",
+    "wof:parent_id":85873645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "industrial",
+        "elevator",
+        "repair"
+    ]
+},
+  "bbox": [
+    -90.212454,
+    38.632795,
+    -90.212454,
+    38.632795
+],
+  "geometry": {"coordinates":[-90.21245399999999,38.632795],"type":"Point"}
+}

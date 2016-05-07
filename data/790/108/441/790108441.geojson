@@ -1,0 +1,83 @@
+{
+  "id": 790108441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.416801,38.59875,-90.416801,38.59875",
+    "geom:latitude":38.59875,
+    "geom:longitude":-90.416801,
+    "iso:country":"US",
+    "sg:address":"11202 Manchester Rd",
+    "sg:city":"Kirkwood",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 966 8505",
+    "sg:postcode":"63122",
+    "sg:province":"MO",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "sg:website":"www.autotire.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85858661,
+        102191575,
+        404517203,
+        85633793,
+        85972289,
+        102086173,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0acIz565NeU9z9fzc2fOGO_38.598750_-90.416801@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462593209,
+    "wof:geomhash":"f6ada0e48e803587675b7f51c385f72b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086173,
+            "localadmin_id":404517203,
+            "locality_id":85972289,
+            "neighbourhood_id":85858661,
+            "region_id":85688661,
+            "venue_id":790108441
+        }
+    ],
+    "wof:id":790108441,
+    "wof:lastmodified":1462593209,
+    "wof:name":"Autotire Car Care Centers",
+    "wof:parent_id":85858661,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -90.416801,
+    38.59875,
+    -90.416801,
+    38.59875
+],
+  "geometry": {"coordinates":[-90.41680100000001,38.59875],"type":"Point"}
+}

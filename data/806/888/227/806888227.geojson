@@ -1,0 +1,71 @@
+{
+  "id": 806888227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.44638,38.777836,-90.44638,38.777836",
+    "geom:latitude":38.777836,
+    "geom:longitude":-90.44638,
+    "iso:country":"US",
+    "sg:address":"111 Boulder Industrial Dr",
+    "sg:city":"Bridgeton",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 209 7733",
+    "sg:postcode":"63044",
+    "sg:province":"MO",
+    "sg:tags":[
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972341,
+        102086173,
+        85806637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3M4BhXMgYBWzrS29f8nsBz_38.777836_-90.446380@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462601916,
+    "wof:geomhash":"9a21134760a6c338f2f5093ae42ea15d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086173,
+            "locality_id":85972341,
+            "neighbourhood_id":85806637,
+            "region_id":85688661,
+            "venue_id":806888227
+        }
+    ],
+    "wof:id":806888227,
+    "wof:lastmodified":1462601916,
+    "wof:name":"CSI Distribution Svc Inc",
+    "wof:parent_id":85806637,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -90.44638,
+    38.777836,
+    -90.44638,
+    38.777836
+],
+  "geometry": {"coordinates":[-90.44638,38.777836],"type":"Point"}
+}

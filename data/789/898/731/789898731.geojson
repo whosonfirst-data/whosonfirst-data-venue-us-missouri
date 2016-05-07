@@ -1,0 +1,84 @@
+{
+  "id": 789898731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.209423,38.605449,-90.209423,38.605449",
+    "geom:latitude":38.605449,
+    "geom:longitude":-90.209423,
+    "iso:country":"US",
+    "sg:address":"2326 S 11th St",
+    "sg:city":"St Louis",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 776 3375",
+    "sg:postcode":"63104",
+    "sg:province":"MO",
+    "sg:tags":[
+        "glass",
+        "leaded",
+        "business"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85867037,
+        102191575,
+        404518053,
+        85633793,
+        85971343,
+        102080791,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_21ZssXgjW4g8vK2M9cWKf1_38.605449_-90.209423@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462591437,
+    "wof:geomhash":"9f5c039db7da855c213700b3c6b1c889",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080791,
+            "localadmin_id":404518053,
+            "locality_id":85971343,
+            "neighbourhood_id":85867037,
+            "region_id":85688661,
+            "venue_id":789898731
+        }
+    ],
+    "wof:id":789898731,
+    "wof:lastmodified":1462591437,
+    "wof:name":"G-Metco Inc",
+    "wof:parent_id":85867037,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "glass",
+        "leaded",
+        "business"
+    ]
+},
+  "bbox": [
+    -90.209423,
+    38.605449,
+    -90.209423,
+    38.605449
+],
+  "geometry": {"coordinates":[-90.209423,38.605449],"type":"Point"}
+}

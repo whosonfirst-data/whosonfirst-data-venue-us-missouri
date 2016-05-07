@@ -1,0 +1,80 @@
+{
+  "id": 807183793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.858003,38.815075,-90.858003,38.815075",
+    "geom:latitude":38.815075,
+    "geom:longitude":-90.858003,
+    "iso:country":"US",
+    "sg:address":"412 W Northview Ave",
+    "sg:city":"Wentzville",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 650 5003",
+    "sg:postcode":"63385",
+    "sg:province":"MO",
+    "sg:tags":[
+        "concrete",
+        "staining",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0gopqnGf22Cyp703m8EGN8_38.815075_-90.858003@1303262930"
+    },
+    "wof:country":"US",
+    "wof:created":1462604623,
+    "wof:geomhash":"4eb21dc9d5577f1f06d275f1c5b775c7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":807183793
+        }
+    ],
+    "wof:id":807183793,
+    "wof:lastmodified":1462604623,
+    "wof:name":"R/C Concrete Creations",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "staining",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -90.858003,
+    38.815075,
+    -90.858003,
+    38.815075
+],
+  "geometry": {"coordinates":[-90.858003,38.815075],"type":"Point"}
+}

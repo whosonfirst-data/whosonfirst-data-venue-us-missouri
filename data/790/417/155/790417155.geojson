@@ -1,0 +1,90 @@
+{
+  "id": 790417155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.271155,38.581604,-90.271155,38.581604",
+    "geom:latitude":38.581604,
+    "geom:longitude":-90.271155,
+    "iso:country":"US",
+    "sg:address":"4401 Wilcox Ave",
+    "sg:city":"St Louis",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Non-profit Organization",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 832 9279",
+    "sg:postcode":"63116",
+    "sg:province":"MO",
+    "sg:tags":[
+        "information",
+        "center",
+        "specialty",
+        "smoker",
+        "outpatient",
+        "treatment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873691,
+        102191575,
+        404518053,
+        85633793,
+        85971343,
+        102080791,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0TjpvxmZj67kv02tVHIAWk_38.581604_-90.271155@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462595661,
+    "wof:geomhash":"9fe3892f7a4686c9d33cd53847818c91",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080791,
+            "localadmin_id":404518053,
+            "locality_id":85971343,
+            "neighbourhood_id":85873691,
+            "region_id":85688661,
+            "venue_id":790417155
+        }
+    ],
+    "wof:id":790417155,
+    "wof:lastmodified":1462595661,
+    "wof:name":"Health Services",
+    "wof:parent_id":85873691,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "information",
+        "center",
+        "specialty",
+        "smoker",
+        "outpatient",
+        "treatment"
+    ]
+},
+  "bbox": [
+    -90.271155,
+    38.581604,
+    -90.271155,
+    38.581604
+],
+  "geometry": {"coordinates":[-90.27115499999999,38.581604],"type":"Point"}
+}

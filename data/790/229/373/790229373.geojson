@@ -1,0 +1,73 @@
+{
+  "id": 790229373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.490663,38.776353,-90.490663,38.776353",
+    "geom:latitude":38.776353,
+    "geom:longitude":-90.490663,
+    "iso:country":"US",
+    "sg:address":"1026 S Benton Ave",
+    "sg:city":"St Charles",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 949 5626",
+    "sg:postcode":"63301",
+    "sg:province":"MO",
+    "sg:tags":[
+        "loan",
+        "mortgage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5D2jfWZgL31Vfs0S7dY3y0_38.776353_-90.490663@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462594166,
+    "wof:geomhash":"d55e7b7b90105c83c04a901b05597049",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":790229373
+        }
+    ],
+    "wof:id":790229373,
+    "wof:lastmodified":1462594166,
+    "wof:name":"Mortgage Source",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "loan",
+        "mortgage"
+    ]
+},
+  "bbox": [
+    -90.490663,
+    38.776353,
+    -90.490663,
+    38.776353
+],
+  "geometry": {"coordinates":[-90.490663,38.776353],"type":"Point"}
+}

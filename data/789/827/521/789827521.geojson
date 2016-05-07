@@ -1,0 +1,71 @@
+{
+  "id": 789827521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.903955,39.369317,-90.903955,39.369317",
+    "geom:latitude":39.369317,
+    "geom:longitude":-90.903955,
+    "iso:country":"US",
+    "sg:address":"303 S 2nd St",
+    "sg:city":"Clarksville",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 242 3727",
+    "sg:postcode":"63336",
+    "sg:province":"MO",
+    "sg:tags":[
+        "antique"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971907,
+        102086151,
+        85817909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7DBy7sBsUkoX8toYSRekO8_39.369317_-90.903955@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462590854,
+    "wof:geomhash":"670c851140fb09d70841638c9a91ccda",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086151,
+            "locality_id":85971907,
+            "neighbourhood_id":85817909,
+            "region_id":85688661,
+            "venue_id":789827521
+        }
+    ],
+    "wof:id":789827521,
+    "wof:lastmodified":1462590854,
+    "wof:name":"Stoney Creek",
+    "wof:parent_id":85817909,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "antique"
+    ]
+},
+  "bbox": [
+    -90.903955,
+    39.369317,
+    -90.903955,
+    39.369317
+],
+  "geometry": {"coordinates":[-90.903955,39.369317],"type":"Point"}
+}

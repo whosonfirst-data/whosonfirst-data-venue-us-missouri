@@ -1,0 +1,73 @@
+{
+  "id": 806567065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.665053,39.246832,-94.665053,39.246832",
+    "geom:latitude":39.246832,
+    "geom:longitude":-94.665053,
+    "iso:country":"US",
+    "sg:address":"7577 NW Barry Rd",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 741 8999",
+    "sg:postcode":"64153",
+    "sg:province":"MO",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970739,
+        102085271,
+        85852241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ePxYmoajwabEoTlKyjU3J_39.246832_-94.665053@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462599183,
+    "wof:geomhash":"01e0695477b5b99e70b08b5090f88340",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085271,
+            "locality_id":85970739,
+            "neighbourhood_id":85852241,
+            "region_id":85688661,
+            "venue_id":806567065
+        }
+    ],
+    "wof:id":806567065,
+    "wof:lastmodified":1462599183,
+    "wof:name":"Facial Surgery Group",
+    "wof:parent_id":85852241,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -94.665053,
+    39.246832,
+    -94.665053,
+    39.246832
+],
+  "geometry": {"coordinates":[-94.665053,39.246832],"type":"Point"}
+}

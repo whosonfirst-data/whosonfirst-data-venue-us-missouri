@@ -1,0 +1,73 @@
+{
+  "id": 790406591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.4412,37.789096,-90.4412,37.789096",
+    "geom:latitude":37.789096,
+    "geom:longitude":-90.4412,
+    "iso:country":"US",
+    "sg:address":"1309 Maple St",
+    "sg:city":"Farmington",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 756 4343",
+    "sg:postcode":"63640",
+    "sg:province":"MO",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970665,
+        102085297,
+        85816309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Hvct3fSufOu0sMkntjigf_37.789096_-90.441200@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462595584,
+    "wof:geomhash":"5c2337afadcd54809ffd673197fcb8ca",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085297,
+            "locality_id":85970665,
+            "neighbourhood_id":85816309,
+            "region_id":85688661,
+            "venue_id":790406591
+        }
+    ],
+    "wof:id":790406591,
+    "wof:lastmodified":1462595584,
+    "wof:name":"Crystal City Pediatrics",
+    "wof:parent_id":85816309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -90.4412,
+    37.789096,
+    -90.4412,
+    37.789096
+],
+  "geometry": {"coordinates":[-90.44119999999999,37.789096],"type":"Point"}
+}

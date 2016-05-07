@@ -1,0 +1,73 @@
+{
+  "id": 790016993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.579186,38.412241,-90.579186,38.412241",
+    "geom:latitude":38.412241,
+    "geom:longitude":-90.579186,
+    "iso:country":"US",
+    "sg:address":"4639 Gravois Rd",
+    "sg:city":"House Springs",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 375 5294",
+    "sg:postcode":"63051",
+    "sg:province":"MO",
+    "sg:tags":[
+        "automotive",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971019,
+        102080787,
+        85817237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4fTfTEktlAvDEWxSFJrGqy_38.412241_-90.579186@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462592466,
+    "wof:geomhash":"5a396273b3ff953bafe5e97e32e2563e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080787,
+            "locality_id":85971019,
+            "neighbourhood_id":85817237,
+            "region_id":85688661,
+            "venue_id":790016993
+        }
+    ],
+    "wof:id":790016993,
+    "wof:lastmodified":1462592466,
+    "wof:name":"Johns Auto Repair",
+    "wof:parent_id":85817237,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive",
+        "general"
+    ]
+},
+  "bbox": [
+    -90.579186,
+    38.412241,
+    -90.579186,
+    38.412241
+],
+  "geometry": {"coordinates":[-90.57918600000001,38.412241],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 773623301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.244044,38.68612,-90.244044,38.68612",
+    "geom:latitude":38.68612,
+    "geom:longitude":-90.244044,
+    "iso:country":"US",
+    "sg:address":"5033 Aubert Ave",
+    "sg:city":"St Louis",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Telephone",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 381 3562",
+    "sg:postcode":"63115",
+    "sg:province":"MO",
+    "sg:tags":[
+        "installation",
+        "telecommunication"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420525471,
+        102191575,
+        404518053,
+        85633793,
+        85971343,
+        102080791,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ASG4wmXdyeKEcU4nm3kde_38.686120_-90.244044@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462587119,
+    "wof:geomhash":"3c21f3453685c8c9b23f75c32cc7e82b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080791,
+            "localadmin_id":404518053,
+            "locality_id":85971343,
+            "neighbourhood_id":420525471,
+            "region_id":85688661,
+            "venue_id":773623301
+        }
+    ],
+    "wof:id":773623301,
+    "wof:lastmodified":1462587119,
+    "wof:name":"Phone Corp Inc",
+    "wof:parent_id":420525471,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "installation",
+        "telecommunication"
+    ]
+},
+  "bbox": [
+    -90.244044,
+    38.68612,
+    -90.244044,
+    38.68612
+],
+  "geometry": {"coordinates":[-90.244044,38.68612],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 806753877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.528583,39.794227,-91.528583,39.794227",
+    "geom:latitude":39.794227,
+    "geom:longitude":-91.528583,
+    "iso:country":"US",
+    "sg:address":"607 W Ross St",
+    "sg:city":"Palmyra",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 769 4431",
+    "sg:postcode":"63461",
+    "sg:province":"MO",
+    "sg:tags":[
+        "street"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688697,
+        85633793,
+        85938427,
+        102086213,
+        85867477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1zYHJiFmpDstqmqXA8Q15n_39.794227_-91.528583@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462600794,
+    "wof:geomhash":"38ef35c7ad353a9cded87f605419da61",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086213,
+            "locality_id":85938427,
+            "neighbourhood_id":85867477,
+            "region_id":85688697,
+            "venue_id":806753877
+        }
+    ],
+    "wof:id":806753877,
+    "wof:lastmodified":1462600794,
+    "wof:name":"Street Dept",
+    "wof:parent_id":85867477,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "street"
+    ]
+},
+  "bbox": [
+    -91.528583,
+    39.794227,
+    -91.528583,
+    39.794227
+],
+  "geometry": {"coordinates":[-91.528583,39.794227],"type":"Point"}
+}

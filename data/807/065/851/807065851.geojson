@@ -1,0 +1,77 @@
+{
+  "id": 807065851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.25224,38.675626,-90.25224,38.675626",
+    "geom:latitude":38.675626,
+    "geom:longitude":-90.25224,
+    "iso:country":"US",
+    "sg:address":"3524 N Kingshighway Blvd",
+    "sg:city":"Saint Louis",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/st-louis/240990-white-castle/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"63115",
+    "sg:province":"MO",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420525461,
+        102191575,
+        404518053,
+        85633793,
+        85971343,
+        102080791,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3gLMrnPcW1VsJYD10p3cXa_38.675626_-90.252240@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462603414,
+    "wof:geomhash":"b41373899b94d2837c3ddc432044be6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080791,
+            "localadmin_id":404518053,
+            "locality_id":85971343,
+            "neighbourhood_id":420525461,
+            "region_id":85688661,
+            "venue_id":807065851
+        }
+    ],
+    "wof:id":807065851,
+    "wof:lastmodified":1462603414,
+    "wof:name":"White Castle",
+    "wof:parent_id":420525461,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -90.25224,
+    38.675626,
+    -90.25224,
+    38.675626
+],
+  "geometry": {"coordinates":[-90.25224,38.675626],"type":"Point"}
+}

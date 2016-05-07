@@ -1,0 +1,72 @@
+{
+  "id": 789596517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.166928,38.573126,-92.166928,38.573126",
+    "geom:latitude":38.573126,
+    "geom:longitude":-92.166928,
+    "iso:country":"US",
+    "sg:address":"525 E High St",
+    "sg:city":"Jefferson City",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 897 4755",
+    "sg:postcode":"65101",
+    "sg:province":"MO",
+    "sg:tags":[
+        "appraiser"
+    ],
+    "sg:website":"www.moprop.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970647,
+        102087511,
+        85837745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5zKEaHS0zlAT1d87G3v0WQ_38.573126_-92.166928@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462589032,
+    "wof:geomhash":"f79c4107777119f6001521527a13e354",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087511,
+            "locality_id":85970647,
+            "neighbourhood_id":85837745,
+            "region_id":85688661,
+            "venue_id":789596517
+        }
+    ],
+    "wof:id":789596517,
+    "wof:lastmodified":1462589032,
+    "wof:name":"Missouri Property Appraisal",
+    "wof:parent_id":85837745,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "appraiser"
+    ]
+},
+  "bbox": [
+    -92.166928,
+    38.573126,
+    -92.166928,
+    38.573126
+],
+  "geometry": {"coordinates":[-92.166928,38.573126],"type":"Point"}
+}

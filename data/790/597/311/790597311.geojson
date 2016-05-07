@@ -1,0 +1,71 @@
+{
+  "id": 790597311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.48419,38.09147,-90.48419,38.09147",
+    "geom:latitude":38.09147,
+    "geom:longitude":-90.48419,
+    "iso:country":"US",
+    "sg:address":"13201 State Hwy Jj",
+    "sg:city":"De Soto",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 586 6804",
+    "sg:postcode":"63087",
+    "sg:province":"MO",
+    "sg:tags":[
+        "automotive",
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85848677,
+        102080787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_35wmjtxthyppz4wogbxobh_38.091470_-90.484190@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462597187,
+    "wof:geomhash":"28e05fb766f4712fbb1760bb8d671421",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080787,
+            "neighbourhood_id":85848677,
+            "region_id":85688661,
+            "venue_id":790597311
+        }
+    ],
+    "wof:id":790597311,
+    "wof:lastmodified":1462597187,
+    "wof:name":"Route 67 Towing & Service",
+    "wof:parent_id":85848677,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive",
+        "wrecker"
+    ]
+},
+  "bbox": [
+    -90.48419,
+    38.09147,
+    -90.48419,
+    38.09147
+],
+  "geometry": {"coordinates":[-90.48419,38.09147],"type":"Point"}
+}

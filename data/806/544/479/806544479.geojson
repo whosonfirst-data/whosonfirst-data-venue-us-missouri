@@ -1,0 +1,79 @@
+{
+  "id": 806544479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.333562,38.744882,-90.333562,38.744882",
+    "geom:latitude":38.744882,
+    "geom:longitude":-90.333562,
+    "iso:country":"US",
+    "sg:address":"5926 Garfield Ave",
+    "sg:city":"St Louis",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 991 8949",
+    "sg:postcode":"63134",
+    "sg:province":"MO",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85859027,
+        102191575,
+        404517247,
+        85633793,
+        85972205,
+        102086173,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1SjAahkvBI0aPjh3Nl4n1f_38.744882_-90.333562@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462598994,
+    "wof:geomhash":"9e092945683d57e0f50476eeab873189",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086173,
+            "localadmin_id":404517247,
+            "locality_id":85972205,
+            "neighbourhood_id":85859027,
+            "region_id":85688661,
+            "venue_id":806544479
+        }
+    ],
+    "wof:id":806544479,
+    "wof:lastmodified":1462598994,
+    "wof:name":"Oriental Auto Center",
+    "wof:parent_id":85859027,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ]
+},
+  "bbox": [
+    -90.333562,
+    38.744882,
+    -90.333562,
+    38.744882
+],
+  "geometry": {"coordinates":[-90.333562,38.744882],"type":"Point"}
+}

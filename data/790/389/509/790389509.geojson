@@ -1,0 +1,71 @@
+{
+  "id": 790389509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.323988,37.12645,-93.323988,37.12645",
+    "geom:latitude":37.12645,
+    "geom:longitude":-93.323988,
+    "iso:country":"US",
+    "sg:address":"2551 W Alta St",
+    "sg:city":"Springfield",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 863 7471",
+    "sg:postcode":"65810",
+    "sg:province":"MO",
+    "sg:tags":[
+        "operator",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85881143,
+        102087523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5FCuGgR5xiUf1EMj79NAeO_37.126450_-93.323988@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462595459,
+    "wof:geomhash":"76e7d9cc540356f5e18b3500ab27b1ae",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087523,
+            "neighbourhood_id":85881143,
+            "region_id":85688661,
+            "venue_id":790389509
+        }
+    ],
+    "wof:id":790389509,
+    "wof:lastmodified":1462595459,
+    "wof:name":"A1 Mobile Home Transport",
+    "wof:parent_id":85881143,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -93.323988,
+    37.12645,
+    -93.323988,
+    37.12645
+],
+  "geometry": {"coordinates":[-93.323988,37.12645],"type":"Point"}
+}

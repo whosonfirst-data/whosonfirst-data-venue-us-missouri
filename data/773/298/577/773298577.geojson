@@ -1,0 +1,85 @@
+{
+  "id": 773298577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.403748,39.160585,-92.403748,39.160585",
+    "geom:latitude":39.160585,
+    "geom:longitude":-92.403748,
+    "iso:country":"US",
+    "sg:address":"17205 N Hwy Nn",
+    "sg:city":"Sturgeon",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Groceries",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 875 5605",
+    "sg:postcode":"65284",
+    "sg:province":"MO",
+    "sg:tags":[
+        "coffee",
+        "roasted",
+        "eating",
+        "roasting",
+        "mfg"
+    ],
+    "sg:website":"www.zbestcoffee.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970425,
+        102086187,
+        85851713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0GpRn6ENGGaLKIHKOwFlxK_39.160585_-92.403748@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462584668,
+    "wof:geomhash":"049d142995960d51d8dfd3e119389a75",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086187,
+            "locality_id":85970425,
+            "neighbourhood_id":85851713,
+            "region_id":85688661,
+            "venue_id":773298577
+        }
+    ],
+    "wof:id":773298577,
+    "wof:lastmodified":1462584668,
+    "wof:name":"Z Best Coffee Co",
+    "wof:parent_id":85851713,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "coffee",
+        "roasted",
+        "eating",
+        "roasting",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -92.403748,
+    39.160585,
+    -92.403748,
+    39.160585
+],
+  "geometry": {"coordinates":[-92.40374799999999,39.160585],"type":"Point"}
+}

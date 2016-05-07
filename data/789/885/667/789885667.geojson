@@ -1,0 +1,73 @@
+{
+  "id": 789885667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.196243,39.342862,-91.196243,39.342862",
+    "geom:latitude":39.342862,
+    "geom:longitude":-91.196243,
+    "iso:country":"US",
+    "sg:address":"215 W Church St",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 324 5880",
+    "sg:postcode":"63334",
+    "sg:province":"MO",
+    "sg:tags":[
+        "company",
+        "title"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971907,
+        102086151,
+        85817909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7lgEgeSjzbaarRiSOaMH8c_39.342862_-91.196243@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462591336,
+    "wof:geomhash":"63dd1afbe032ca4fe373db536a538196",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086151,
+            "locality_id":85971907,
+            "neighbourhood_id":85817909,
+            "region_id":85688661,
+            "venue_id":789885667
+        }
+    ],
+    "wof:id":789885667,
+    "wof:lastmodified":1462591336,
+    "wof:name":"Pike County Title Co",
+    "wof:parent_id":85817909,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company",
+        "title"
+    ]
+},
+  "bbox": [
+    -91.196243,
+    39.342862,
+    -91.196243,
+    39.342862
+],
+  "geometry": {"coordinates":[-91.196243,39.342862],"type":"Point"}
+}

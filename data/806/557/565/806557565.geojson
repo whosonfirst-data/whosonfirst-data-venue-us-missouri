@@ -1,0 +1,75 @@
+{
+  "id": 806557565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.645517,38.356656,-90.645517,38.356656",
+    "geom:latitude":38.356656,
+    "geom:longitude":-90.645517,
+    "iso:country":"US",
+    "sg:address":"6715 Veterans Dr",
+    "sg:city":"Cedar Hill",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 274 6060",
+    "sg:postcode":"63016",
+    "sg:province":"MO",
+    "sg:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971019,
+        102080787,
+        85817237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1nsrW7FIVmdQo0D4vUMoLz_38.356656_-90.645517@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462599096,
+    "wof:geomhash":"6262d08254a0ca30dc6454d71238ebe7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080787,
+            "locality_id":85971019,
+            "neighbourhood_id":85817237,
+            "region_id":85688661,
+            "venue_id":806557565
+        }
+    ],
+    "wof:id":806557565,
+    "wof:lastmodified":1462599096,
+    "wof:name":"Canine To 5 Grooming",
+    "wof:parent_id":85817237,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ]
+},
+  "bbox": [
+    -90.645517,
+    38.356656,
+    -90.645517,
+    38.356656
+],
+  "geometry": {"coordinates":[-90.645517,38.356656],"type":"Point"}
+}

@@ -1,0 +1,89 @@
+{
+  "id": 807223103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.463329,39.01586,-94.463329,39.01586",
+    "geom:latitude":39.01586,
+    "geom:longitude":-94.463329,
+    "iso:country":"US",
+    "sg:address":"10000 E 59th St",
+    "sg:city":"Raytown",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Electric",
+            "type":"Services"
+        },
+        {
+            "category":"Utilities",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 737 6000",
+    "sg:postcode":"64133",
+    "sg:province":"MO",
+    "sg:tags":[
+        "township",
+        "government-city",
+        "village"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85871965,
+        102191575,
+        404517999,
+        85633793,
+        85971471,
+        102081227,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2BcNZDn9XsFePWvDKcg4it_39.015860_-94.463329@1303262933"
+    },
+    "wof:country":"US",
+    "wof:created":1462605042,
+    "wof:geomhash":"5390c6d54d4dfb5310c5e6cf2c49254c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081227,
+            "localadmin_id":404517999,
+            "locality_id":85971471,
+            "neighbourhood_id":85871965,
+            "region_id":85688661,
+            "venue_id":807223103
+        }
+    ],
+    "wof:id":807223103,
+    "wof:lastmodified":1462605042,
+    "wof:name":"Public Works",
+    "wof:parent_id":85871965,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "township",
+        "government-city",
+        "village"
+    ]
+},
+  "bbox": [
+    -94.463329,
+    39.01586,
+    -94.463329,
+    39.01586
+],
+  "geometry": {"coordinates":[-94.463329,39.01586],"type":"Point"}
+}

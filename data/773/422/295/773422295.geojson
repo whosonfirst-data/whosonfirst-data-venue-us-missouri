@@ -1,0 +1,81 @@
+{
+  "id": 773422295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.582805,38.792139,-90.582805,38.792139",
+    "geom:latitude":38.792139,
+    "geom:longitude":-90.582805,
+    "iso:country":"US",
+    "sg:address":"4750 Mexico Rd",
+    "sg:city":"St Peters",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"Radio Station",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 498 4555",
+    "sg:postcode":"63376",
+    "sg:province":"MO",
+    "sg:tags":[
+        "broadcast",
+        "physician",
+        "surgeon"
+    ],
+    "sg:website":"www.metroimaging.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1rX6GJUkinMnp1JIRSDAwg_38.792139_-90.582805@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462585594,
+    "wof:geomhash":"a208c5a248cf1fae223c84077bfae27a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":773422295
+        }
+    ],
+    "wof:id":773422295,
+    "wof:lastmodified":1462585594,
+    "wof:name":"Metro Imaging",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "broadcast",
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -90.582805,
+    38.792139,
+    -90.582805,
+    38.792139
+],
+  "geometry": {"coordinates":[-90.58280499999999,38.792139],"type":"Point"}
+}

@@ -1,0 +1,86 @@
+{
+  "id": 789697171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.43323,39.06354,-94.43323,39.06354",
+    "geom:latitude":39.06354,
+    "geom:longitude":-94.43323,
+    "iso:country":"US",
+    "sg:address":"12208 E 32 St S",
+    "sg:city":"Independence",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 373 3233",
+    "sg:postcode":"64052",
+    "sg:province":"MO",
+    "sg:tags":[
+        "conditioning",
+        "air",
+        "system",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85818127,
+        102191575,
+        404515661,
+        85633793,
+        85971449,
+        102081227,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4gHiy00UCYm0y0GpZriSdx_39.063540_-94.433230@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462589838,
+    "wof:geomhash":"87a9c5a2d1c09e0a1c6a6bcc534dccb4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081227,
+            "localadmin_id":404515661,
+            "locality_id":85971449,
+            "neighbourhood_id":85818127,
+            "region_id":85688661,
+            "venue_id":789697171
+        }
+    ],
+    "wof:id":789697171,
+    "wof:lastmodified":1462589838,
+    "wof:name":"Anderson's Heating & Cooling",
+    "wof:parent_id":85818127,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "conditioning",
+        "air",
+        "system",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -94.43323,
+    39.06354,
+    -94.43323,
+    39.06354
+],
+  "geometry": {"coordinates":[-94.43322999999999,39.06354],"type":"Point"}
+}

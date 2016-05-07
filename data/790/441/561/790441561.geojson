@@ -1,0 +1,75 @@
+{
+  "id": 790441561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.651603,38.802664,-90.651603,38.802664",
+    "geom:latitude":38.802664,
+    "geom:longitude":-90.651603,
+    "iso:country":"US",
+    "sg:address":"3501 E Terra Ln",
+    "sg:city":"O Fallon",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 970 1505",
+    "sg:postcode":"63366",
+    "sg:province":"MO",
+    "sg:tags":[
+        "warehouse",
+        "self",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3AnZ0LY56IOHaRj8AQzTp0_38.802664_-90.651603@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462595851,
+    "wof:geomhash":"e1d884aa7419f7a5b36f2393db527721",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":790441561
+        }
+    ],
+    "wof:id":790441561,
+    "wof:lastmodified":1462595851,
+    "wof:name":"Exel Logistics",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "warehouse",
+        "self",
+        "storage"
+    ]
+},
+  "bbox": [
+    -90.651603,
+    38.802664,
+    -90.651603,
+    38.802664
+],
+  "geometry": {"coordinates":[-90.65160299999999,38.802664],"type":"Point"}
+}

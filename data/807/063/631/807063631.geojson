@@ -1,0 +1,74 @@
+{
+  "id": 807063631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.3873,38.369609,-90.3873,38.369609",
+    "geom:latitude":38.369609,
+    "geom:longitude":-90.3873,
+    "iso:country":"US",
+    "sg:address":"1246 Main St",
+    "sg:city":"Imperial",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/imperial/122187-quiznos-sub/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 464 7827",
+    "sg:postcode":"63052",
+    "sg:province":"MO",
+    "sg:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85805175,
+        102080787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3vkw1Ra1aPlilqqSt0FdwW_38.369609_-90.387300@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462603398,
+    "wof:geomhash":"88bf70b38fa82f80794e56dc41184baa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080787,
+            "neighbourhood_id":85805175,
+            "region_id":85688661,
+            "venue_id":807063631
+        }
+    ],
+    "wof:id":807063631,
+    "wof:lastmodified":1462603398,
+    "wof:name":"Quiznos Sub",
+    "wof:parent_id":85805175,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -90.3873,
+    38.369609,
+    -90.3873,
+    38.369609
+],
+  "geometry": {"coordinates":[-90.3873,38.369609],"type":"Point"}
+}

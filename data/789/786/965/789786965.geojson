@@ -1,0 +1,88 @@
+{
+  "id": 789786965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.481745,40.024403,-92.481745,40.024403",
+    "geom:latitude":40.024403,
+    "geom:longitude":-92.481745,
+    "iso:country":"US",
+    "sg:address":"709 E Bartlett St",
+    "sg:city":"La Plata",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Buildings",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 660 332 7930",
+    "sg:postcode":"63549",
+    "sg:province":"MO",
+    "sg:tags":[
+        "log",
+        "mfg",
+        "house",
+        "prefabricated",
+        "wood",
+        "home",
+        "cabin"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971149,
+        102086189,
+        85821499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6URYdk1e9vxeDdYkMPAY2s_40.024403_-92.481745@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462590541,
+    "wof:geomhash":"37c76399904459c829bc62b1b6f8d9fe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086189,
+            "locality_id":85971149,
+            "neighbourhood_id":85821499,
+            "region_id":85688661,
+            "venue_id":789786965
+        }
+    ],
+    "wof:id":789786965,
+    "wof:lastmodified":1462590541,
+    "wof:name":"American Log Homes Inc",
+    "wof:parent_id":85821499,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "log",
+        "mfg",
+        "house",
+        "prefabricated",
+        "wood",
+        "home",
+        "cabin"
+    ]
+},
+  "bbox": [
+    -92.481745,
+    40.024403,
+    -92.481745,
+    40.024403
+],
+  "geometry": {"coordinates":[-92.481745,40.024403],"type":"Point"}
+}

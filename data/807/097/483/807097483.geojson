@@ -1,0 +1,76 @@
+{
+  "id": 807097483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.252566,38.676821,-90.252566,38.676821",
+    "geom:latitude":38.676821,
+    "geom:longitude":-90.252566,
+    "iso:country":"US",
+    "sg:address":"5031 Natural Bridge Ave",
+    "sg:city":"Saint Louis",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/st-louis/195665-taco-bell/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 382 0029",
+    "sg:postcode":"63115",
+    "sg:province":"MO",
+    "sg:tags":[
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420525473,
+        102191575,
+        404518053,
+        85633793,
+        85971343,
+        102080791,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7JEQLTCspVjefpn1DPKKTg_38.676921_-90.253087@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1462603692,
+    "wof:geomhash":"52e29ad144d7dad9c728089cd6b33b46",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080791,
+            "localadmin_id":404518053,
+            "locality_id":85971343,
+            "neighbourhood_id":420525473,
+            "region_id":85688661,
+            "venue_id":807097483
+        }
+    ],
+    "wof:id":807097483,
+    "wof:lastmodified":1462603692,
+    "wof:name":"Taco Bell",
+    "wof:parent_id":420525473,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican"
+    ]
+},
+  "bbox": [
+    -90.252566,
+    38.676821,
+    -90.252566,
+    38.676821
+],
+  "geometry": {"coordinates":[-90.252566,38.676821],"type":"Point"}
+}

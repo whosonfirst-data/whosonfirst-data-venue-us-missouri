@@ -1,0 +1,73 @@
+{
+  "id": 773501111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.650596,39.369423,-94.650596,39.369423",
+    "geom:latitude":39.369423,
+    "geom:longitude":-94.650596,
+    "iso:country":"US",
+    "sg:address":"3 Asher Ln",
+    "sg:city":"Smithville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 532 0787",
+    "sg:postcode":"64089",
+    "sg:province":"MO",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970739,
+        102085271,
+        85851839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2gld7oKCKpmof8hwztbrHG_39.369423_-94.650596@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462586213,
+    "wof:geomhash":"39b47f8f6f6aa8f8ad247eecc1518f5a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085271,
+            "locality_id":85970739,
+            "neighbourhood_id":85851839,
+            "region_id":85688661,
+            "venue_id":773501111
+        }
+    ],
+    "wof:id":773501111,
+    "wof:lastmodified":1462586213,
+    "wof:name":"Weers Electric & Construction",
+    "wof:parent_id":85851839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -94.650596,
+    39.369423,
+    -94.650596,
+    39.369423
+],
+  "geometry": {"coordinates":[-94.65059599999999,39.369423],"type":"Point"}
+}

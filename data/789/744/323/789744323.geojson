@@ -1,0 +1,75 @@
+{
+  "id": 789744323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.483373,38.777174,-90.483373,38.777174",
+    "geom:latitude":38.777174,
+    "geom:longitude":-90.483373,
+    "iso:country":"US",
+    "sg:address":"506 S Main St",
+    "sg:city":"St Charles",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 949 5237",
+    "sg:postcode":"63301",
+    "sg:province":"MO",
+    "sg:tags":[
+        "art",
+        "gallery",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3qYyPxnOvYBFdXtbNN7vNJ_38.777174_-90.483373@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462590213,
+    "wof:geomhash":"a76512f207be20872c1c6addeeac5e14",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":789744323
+        }
+    ],
+    "wof:id":789744323,
+    "wof:lastmodified":1462590213,
+    "wof:name":"Poor Man's Art Gallery",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "art",
+        "gallery",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -90.483373,
+    38.777174,
+    -90.483373,
+    38.777174
+],
+  "geometry": {"coordinates":[-90.483373,38.777174],"type":"Point"}
+}

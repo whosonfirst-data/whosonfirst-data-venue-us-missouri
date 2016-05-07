@@ -1,0 +1,71 @@
+{
+  "id": 807273751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.773581,37.949251,-91.773581,37.949251",
+    "geom:latitude":37.949251,
+    "geom:longitude":-91.773581,
+    "iso:country":"US",
+    "sg:address":"708 N Main St",
+    "sg:city":"Rolla",
+    "sg:classifiers":[
+        {
+            "category":"Place Of Worship",
+            "subcategory":"",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 364 0315",
+    "sg:postcode":"65401",
+    "sg:province":"MO",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970821,
+        102086893,
+        85814531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7j4TmrwQwEBVV3POXiL4N8_37.949251_-91.773581@1303262936"
+    },
+    "wof:country":"US",
+    "wof:created":1462605581,
+    "wof:geomhash":"d7ce31effe651ae13e16a005d65d70a5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086893,
+            "locality_id":85970821,
+            "neighbourhood_id":85814531,
+            "region_id":85688661,
+            "venue_id":807273751
+        }
+    ],
+    "wof:id":807273751,
+    "wof:lastmodified":1462605581,
+    "wof:name":"Vineyard Church",
+    "wof:parent_id":85814531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -91.773581,
+    37.949251,
+    -91.773581,
+    37.949251
+],
+  "geometry": {"coordinates":[-91.77358099999999,37.949251],"type":"Point"}
+}

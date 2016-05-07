@@ -1,0 +1,73 @@
+{
+  "id": 790503969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.357141,37.212225,-93.357141,37.212225",
+    "geom:latitude":37.212225,
+    "geom:longitude":-93.357141,
+    "iso:country":"US",
+    "sg:address":"3858 W Chestnut Expy",
+    "sg:city":"Springfield",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 862 7283",
+    "sg:postcode":"65802",
+    "sg:province":"MO",
+    "sg:tags":[
+        "pharmaceutical",
+        "consultant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971363,
+        102087523,
+        85836941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7GF2gyzYnl4QQPkAOXJ84X_37.212225_-93.357141@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462596403,
+    "wof:geomhash":"9515ed561acd0478e4c91f375db7fa96",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087523,
+            "locality_id":85971363,
+            "neighbourhood_id":85836941,
+            "region_id":85688661,
+            "venue_id":790503969
+        }
+    ],
+    "wof:id":790503969,
+    "wof:lastmodified":1462596403,
+    "wof:name":"Budget Meds",
+    "wof:parent_id":85836941,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pharmaceutical",
+        "consultant"
+    ]
+},
+  "bbox": [
+    -93.357141,
+    37.212225,
+    -93.357141,
+    37.212225
+],
+  "geometry": {"coordinates":[-93.357141,37.212225],"type":"Point"}
+}

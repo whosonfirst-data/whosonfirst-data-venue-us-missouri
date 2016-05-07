@@ -1,0 +1,88 @@
+{
+  "id": 807122285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.41438,38.730958,-90.41438,38.730958",
+    "geom:latitude":38.730958,
+    "geom:longitude":-90.41438,
+    "iso:country":"US",
+    "sg:address":"3460 Falcon Ave",
+    "sg:city":"Bridgeton",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 265 1158",
+    "sg:postcode":"63044",
+    "sg:province":"MO",
+    "sg:tags":[
+        "consultant",
+        "medical",
+        "practice",
+        "nursing",
+        "home"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85803699,
+        102191575,
+        404517323,
+        85633793,
+        85972315,
+        102086173,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5uWOkUwINhZxoGlWo7C15j_38.730958_-90.414380@1303262926"
+    },
+    "wof:country":"US",
+    "wof:created":1462603964,
+    "wof:geomhash":"1bc84a3afbac42bbaea4a241407850c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086173,
+            "localadmin_id":404517323,
+            "locality_id":85972315,
+            "neighbourhood_id":85803699,
+            "region_id":85688661,
+            "venue_id":807122285
+        }
+    ],
+    "wof:id":807122285,
+    "wof:lastmodified":1462603964,
+    "wof:name":"St. Louis Healthcare Consulting Services",
+    "wof:parent_id":85803699,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consultant",
+        "medical",
+        "practice",
+        "nursing",
+        "home"
+    ]
+},
+  "bbox": [
+    -90.41438,
+    38.730958,
+    -90.41438,
+    38.730958
+],
+  "geometry": {"coordinates":[-90.41437999999999,38.730958],"type":"Point"}
+}

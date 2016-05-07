@@ -1,0 +1,75 @@
+{
+  "id": 789938481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.473053,38.797223,-90.473053,38.797223",
+    "geom:latitude":38.797223,
+    "geom:longitude":-90.473053,
+    "iso:country":"US",
+    "sg:address":"2106 N Main St",
+    "sg:city":"St Charles",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Auto Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 947 6005",
+    "sg:postcode":"63301",
+    "sg:province":"MO",
+    "sg:tags":[
+        "automotive",
+        "rebuilt",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0V83iWszxLVCYHACzHhwuJ_38.797223_-90.473053@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462591777,
+    "wof:geomhash":"f52a16832f678a6780bc5ae875e14260",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":789938481
+        }
+    ],
+    "wof:id":789938481,
+    "wof:lastmodified":1462591777,
+    "wof:name":"Jack's Auto Salvage",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive",
+        "rebuilt",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -90.473053,
+    38.797223,
+    -90.473053,
+    38.797223
+],
+  "geometry": {"coordinates":[-90.47305299999999,38.797223],"type":"Point"}
+}

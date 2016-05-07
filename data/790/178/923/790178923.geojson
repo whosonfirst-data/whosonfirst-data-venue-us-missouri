@@ -1,0 +1,73 @@
+{
+  "id": 790178923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.405395,37.780116,-90.405395,37.780116",
+    "geom:latitude":37.780116,
+    "geom:longitude":-90.405395,
+    "iso:country":"US",
+    "sg:address":"1135 E Karsch Blvd",
+    "sg:city":"Farmington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 747 1244",
+    "sg:postcode":"63640",
+    "sg:province":"MO",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970665,
+        102085297,
+        85816309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5nPIFko04PSOQ1VdfMlLit_37.780116_-90.405395@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462593764,
+    "wof:geomhash":"0f37c69cf935034b0fa6bdfae0225b3f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085297,
+            "locality_id":85970665,
+            "neighbourhood_id":85816309,
+            "region_id":85688661,
+            "venue_id":790178923
+        }
+    ],
+    "wof:id":790178923,
+    "wof:lastmodified":1462593764,
+    "wof:name":"Poor Boyz",
+    "wof:parent_id":85816309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -90.405395,
+    37.780116,
+    -90.405395,
+    37.780116
+],
+  "geometry": {"coordinates":[-90.405395,37.780116],"type":"Point"}
+}

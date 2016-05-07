@@ -1,0 +1,86 @@
+{
+  "id": 773579271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.384886,38.69046,-90.384886,38.69046",
+    "geom:latitude":38.69046,
+    "geom:longitude":-90.384886,
+    "iso:country":"US",
+    "sg:address":"1521 Page Industrial Blvd",
+    "sg:city":"St Louis",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Sporting Goods",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 427 5556",
+    "sg:postcode":"63132",
+    "sg:province":"MO",
+    "sg:tags":[
+        "equipment",
+        "physical",
+        "exercise",
+        "fitness"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85803699,
+        102191575,
+        404517323,
+        85633793,
+        85972315,
+        102086173,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1XUeIk9zBileUVhTkVcr9r_38.690460_-90.384886@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462586798,
+    "wof:geomhash":"14de911e5cb78890b61597181653d6d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086173,
+            "localadmin_id":404517323,
+            "locality_id":85972315,
+            "neighbourhood_id":85803699,
+            "region_id":85688661,
+            "venue_id":773579271
+        }
+    ],
+    "wof:id":773579271,
+    "wof:lastmodified":1462586798,
+    "wof:name":"Fitness Showcase",
+    "wof:parent_id":85803699,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "physical",
+        "exercise",
+        "fitness"
+    ]
+},
+  "bbox": [
+    -90.384886,
+    38.69046,
+    -90.384886,
+    38.69046
+],
+  "geometry": {"coordinates":[-90.38488599999999,38.69046],"type":"Point"}
+}

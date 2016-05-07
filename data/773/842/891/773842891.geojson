@@ -1,0 +1,73 @@
+{
+  "id": 773842891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.745298,39.354171,-94.745298,39.354171",
+    "geom:latitude":39.354171,
+    "geom:longitude":-94.745298,
+    "iso:country":"US",
+    "sg:address":"14405 State Hwy 92",
+    "sg:city":"Platte City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 858 5544",
+    "sg:postcode":"64079",
+    "sg:province":"MO",
+    "sg:tags":[
+        "automotive",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970739,
+        102085271,
+        85851839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5jICYdopJJAyklQJPzMx0Q_39.354171_-94.745298@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462588844,
+    "wof:geomhash":"31155a8b9e6f1875e03e76ff9b5be662",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085271,
+            "locality_id":85970739,
+            "neighbourhood_id":85851839,
+            "region_id":85688661,
+            "venue_id":773842891
+        }
+    ],
+    "wof:id":773842891,
+    "wof:lastmodified":1462588844,
+    "wof:name":"Hardesty Alignment",
+    "wof:parent_id":85851839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive",
+        "supply"
+    ]
+},
+  "bbox": [
+    -94.745298,
+    39.354171,
+    -94.745298,
+    39.354171
+],
+  "geometry": {"coordinates":[-94.74529800000001,39.354171],"type":"Point"}
+}

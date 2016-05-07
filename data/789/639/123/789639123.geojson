@@ -1,0 +1,76 @@
+{
+  "id": 789639123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.272449,37.240658,-93.272449,37.240658",
+    "geom:latitude":37.240658,
+    "geom:longitude":-93.272449,
+    "iso:country":"US",
+    "sg:address":"1241 E Kearney St",
+    "sg:city":"Springfield",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Discount & Variety Stores",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 869 7254",
+    "sg:postcode":"65803",
+    "sg:province":"MO",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971363,
+        102087523,
+        85881137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1y0vnbl9cDXUbomVfGSBHr_37.240658_-93.272449@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462589368,
+    "wof:geomhash":"be6eba62936948e60880e6ec9f206371",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087523,
+            "locality_id":85971363,
+            "neighbourhood_id":85881137,
+            "region_id":85688661,
+            "venue_id":789639123
+        }
+    ],
+    "wof:id":789639123,
+    "wof:lastmodified":1462589368,
+    "wof:name":"D & M Bargain Barn",
+    "wof:parent_id":85881137,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -93.272449,
+    37.240658,
+    -93.272449,
+    37.240658
+],
+  "geometry": {"coordinates":[-93.27244899999999,37.240658],"type":"Point"}
+}

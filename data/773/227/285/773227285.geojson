@@ -1,0 +1,88 @@
+{
+  "id": 773227285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.421221,39.244329,-94.421221,39.244329",
+    "geom:latitude":39.244329,
+    "geom:longitude":-94.421221,
+    "iso:country":"US",
+    "sg:address":"129 S Gallatin St",
+    "sg:city":"Liberty",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 781 0700",
+    "sg:postcode":"64068",
+    "sg:province":"MO",
+    "sg:tags":[
+        "electric",
+        "motor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420525305,
+        102191575,
+        404516717,
+        85633793,
+        85972461,
+        102086177,
+        85688661,
+        420525367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3hVM7Q2ZLAPTlYpBgWmNHM_39.244329_-94.421221@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462584124,
+    "wof:geomhash":"3849c045589828ccb7418a98be735be6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086177,
+            "localadmin_id":404516717,
+            "locality_id":85972461,
+            "neighbourhood_id":420525305,
+            "region_id":85688661,
+            "venue_id":773227285
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086177,
+            "localadmin_id":404516717,
+            "locality_id":85972461,
+            "neighbourhood_id":420525367,
+            "region_id":85688661,
+            "venue_id":773227285
+        }
+    ],
+    "wof:id":773227285,
+    "wof:lastmodified":1462584124,
+    "wof:name":"Central Dtroit Dsl-Allison Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "motor"
+    ]
+},
+  "bbox": [
+    -94.421221,
+    39.244329,
+    -94.421221,
+    39.244329
+],
+  "geometry": {"coordinates":[-94.421221,39.244329],"type":"Point"}
+}

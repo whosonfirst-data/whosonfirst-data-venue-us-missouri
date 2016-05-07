@@ -1,0 +1,73 @@
+{
+  "id": 806844791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.199615,39.341875,-91.199615,39.341875",
+    "geom:latitude":39.341875,
+    "geom:longitude":-91.199615,
+    "iso:country":"US",
+    "sg:address":"506 W Main St",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 324 2936",
+    "sg:postcode":"63334",
+    "sg:province":"MO",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971907,
+        102086151,
+        85817909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ZWI3YxwJwoZ7lRAIdiLWM_39.341875_-91.199615@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462601562,
+    "wof:geomhash":"6c88959c1fec447a8e2fe26e071d6797",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086151,
+            "locality_id":85971907,
+            "neighbourhood_id":85817909,
+            "region_id":85688661,
+            "venue_id":806844791
+        }
+    ],
+    "wof:id":806844791,
+    "wof:lastmodified":1462601562,
+    "wof:name":"Hustedde Elect Svc",
+    "wof:parent_id":85817909,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -91.199615,
+    39.341875,
+    -91.199615,
+    39.341875
+],
+  "geometry": {"coordinates":[-91.19961499999999,39.341875],"type":"Point"}
+}

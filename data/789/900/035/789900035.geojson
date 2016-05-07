@@ -1,0 +1,86 @@
+{
+  "id": 789900035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.352668,38.470742,-90.352668,38.470742",
+    "geom:latitude":38.470742,
+    "geom:longitude":-90.352668,
+    "iso:country":"US",
+    "sg:address":"5812 Bridleford Ln",
+    "sg:city":"Saint Louis",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"Film & Video Production",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 487 9496",
+    "sg:postcode":"63129",
+    "sg:province":"MO",
+    "sg:tags":[
+        "motion"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85885365,
+        102191575,
+        404517459,
+        85633793,
+        85972631,
+        102086173,
+        85688661,
+        85971021,
+        102080787,
+        85832925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ZXb6ju9FYd5Bh8qrG674b_38.470742_-90.352668@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462591447,
+    "wof:geomhash":"59763a4f8d82a13141301d76c9745192",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086173,
+            "localadmin_id":404517459,
+            "locality_id":85972631,
+            "neighbourhood_id":85885365,
+            "region_id":85688661,
+            "venue_id":789900035
+        },
+        {
+            "country_id":85633793,
+            "county_id":102080787,
+            "locality_id":85971021,
+            "neighbourhood_id":85832925,
+            "region_id":85688661,
+            "venue_id":789900035
+        }
+    ],
+    "wof:id":789900035,
+    "wof:lastmodified":1462591447,
+    "wof:name":"Accurate Productions",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "motion"
+    ]
+},
+  "bbox": [
+    -90.352668,
+    38.470742,
+    -90.352668,
+    38.470742
+],
+  "geometry": {"coordinates":[-90.35266799999999,38.470742],"type":"Point"}
+}

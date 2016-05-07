@@ -1,0 +1,91 @@
+{
+  "id": 773686237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.585785,39.197761,-94.585785,39.197761",
+    "geom:latitude":39.197761,
+    "geom:longitude":-94.585785,
+    "iso:country":"US",
+    "sg:address":"5728 N Broadway Ave",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 452 4999",
+    "sg:postcode":"64118",
+    "sg:province":"MO",
+    "sg:tags":[
+        "medical",
+        "center"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420525303,
+        102191575,
+        404518075,
+        85633793,
+        85970739,
+        102081227,
+        85688661,
+        420525395,
+        404517563,
+        85970477,
+        102085271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0pUg2XJJbCZ1gjpNSwgN84_39.197761_-94.585785@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462587589,
+    "wof:geomhash":"4987e544d0505a73ab781aba77db199c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081227,
+            "localadmin_id":404518075,
+            "locality_id":85970739,
+            "neighbourhood_id":420525303,
+            "region_id":85688661,
+            "venue_id":773686237
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085271,
+            "localadmin_id":404517563,
+            "locality_id":85970477,
+            "neighbourhood_id":420525395,
+            "region_id":85688661,
+            "venue_id":773686237
+        }
+    ],
+    "wof:id":773686237,
+    "wof:lastmodified":1462587589,
+    "wof:name":"Integrated Medical Ctr",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical",
+        "center"
+    ]
+},
+  "bbox": [
+    -94.585785,
+    39.197761,
+    -94.585785,
+    39.197761
+],
+  "geometry": {"coordinates":[-94.585785,39.197761],"type":"Point"}
+}

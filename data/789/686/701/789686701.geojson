@@ -1,0 +1,71 @@
+{
+  "id": 789686701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.383234,38.399836,-90.383234,38.399836",
+    "geom:latitude":38.399836,
+    "geom:longitude":-90.383234,
+    "iso:country":"US",
+    "sg:address":"3963 W Outer Rd",
+    "sg:city":"Arnold",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 574 5899",
+    "sg:postcode":"63010",
+    "sg:province":"MO",
+    "sg:tags":[
+        "equipment",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85805175,
+        102080787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5jlQbHCuoZg0fYbNw7GLu0_38.399836_-90.383234@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462589754,
+    "wof:geomhash":"bab310b413fdb88ae0fd293514c36d1a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080787,
+            "neighbourhood_id":85805175,
+            "region_id":85688661,
+            "venue_id":789686701
+        }
+    ],
+    "wof:id":789686701,
+    "wof:lastmodified":1462589754,
+    "wof:name":"Century Heating Inc",
+    "wof:parent_id":85805175,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -90.383234,
+    38.399836,
+    -90.383234,
+    38.399836
+],
+  "geometry": {"coordinates":[-90.383234,38.399836],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 789880373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.487252,38.780729,-90.487252,38.780729",
+    "geom:latitude":38.780729,
+    "geom:longitude":-90.487252,
+    "iso:country":"US",
+    "sg:address":"305 S 5th St",
+    "sg:city":"St Charles",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 946 7746",
+    "sg:postcode":"63301",
+    "sg:province":"MO",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5nRSwCdnrq7Mz7vsIwrWLN_38.780729_-90.487252@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462591293,
+    "wof:geomhash":"815dec8dc0e2fb7a31c485781ae3bba7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":789880373
+        }
+    ],
+    "wof:id":789880373,
+    "wof:lastmodified":1462591293,
+    "wof:name":"Abney's Hair Salon",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -90.487252,
+    38.780729,
+    -90.487252,
+    38.780729
+],
+  "geometry": {"coordinates":[-90.487252,38.780729],"type":"Point"}
+}

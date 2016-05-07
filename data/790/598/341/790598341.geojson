@@ -1,0 +1,73 @@
+{
+  "id": 790598341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.783381,37.951507,-91.783381,37.951507",
+    "geom:latitude":37.951507,
+    "geom:longitude":-91.783381,
+    "iso:country":"US",
+    "sg:address":"910 W 10th St",
+    "sg:city":"Rolla",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 364 4226",
+    "sg:postcode":"65401",
+    "sg:province":"MO",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970821,
+        102086893,
+        85814531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4u6HzRJc84mEJrjcBeRiaK_37.951507_-91.783381@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462597204,
+    "wof:geomhash":"9742605f1eedcaa14a4c709a6ec49a84",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086893,
+            "locality_id":85970821,
+            "neighbourhood_id":85814531,
+            "region_id":85688661,
+            "venue_id":790598341
+        }
+    ],
+    "wof:id":790598341,
+    "wof:lastmodified":1462597204,
+    "wof:name":"Rolla Family Practice",
+    "wof:parent_id":85814531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -91.783381,
+    37.951507,
+    -91.783381,
+    37.951507
+],
+  "geometry": {"coordinates":[-91.78338100000001,37.951507],"type":"Point"}
+}

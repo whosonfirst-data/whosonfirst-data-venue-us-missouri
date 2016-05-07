@@ -1,0 +1,86 @@
+{
+  "id": 789992927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.541811,37.067884,-94.541811,37.067884",
+    "geom:latitude":37.067884,
+    "geom:longitude":-94.541811,
+    "iso:country":"US",
+    "sg:address":"2021 Roosevelt Ave",
+    "sg:city":"Joplin",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 781 8855",
+    "sg:postcode":"64804",
+    "sg:province":"MO",
+    "sg:tags":[
+        "insulation",
+        "heat"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85885363,
+        102191575,
+        404518215,
+        85633793,
+        85970893,
+        102087525,
+        85688661,
+        85810925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5tnpgoAbV31Si8mnRK7lyK_37.067884_-94.541811@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462592273,
+    "wof:geomhash":"8f2bfa31fc5e18d06e64355a5c9d28c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087525,
+            "localadmin_id":404518215,
+            "locality_id":85970893,
+            "neighbourhood_id":85885363,
+            "region_id":85688661,
+            "venue_id":789992927
+        },
+        {
+            "country_id":85633793,
+            "county_id":102087525,
+            "locality_id":85970893,
+            "neighbourhood_id":85810925,
+            "region_id":85688661,
+            "venue_id":789992927
+        }
+    ],
+    "wof:id":789992927,
+    "wof:lastmodified":1462592273,
+    "wof:name":"Ramco Insulation",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "insulation",
+        "heat"
+    ]
+},
+  "bbox": [
+    -94.541811,
+    37.067884,
+    -94.541811,
+    37.067884
+],
+  "geometry": {"coordinates":[-94.541811,37.067884],"type":"Point"}
+}

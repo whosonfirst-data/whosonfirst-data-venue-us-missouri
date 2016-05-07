@@ -1,0 +1,71 @@
+{
+  "id": 807015579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.276455,38.584007,-90.276455,38.584007",
+    "geom:latitude":38.584007,
+    "geom:longitude":-90.276455,
+    "iso:country":"US",
+    "sg:address":"4948 Christy Blvd",
+    "sg:city":"Saint Louis",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 481 3290",
+    "sg:postcode":"63116",
+    "sg:province":"MO",
+    "sg:website":"www.7-eleven.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85850281,
+        102191575,
+        404518053,
+        85633793,
+        85971343,
+        102080791,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Pi8TFNOtu9OgJwHABDSWc_38.583833_-90.276636@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1462602991,
+    "wof:geomhash":"6c7f57bcb17921f7aba8a7c6cb5f9b21",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080791,
+            "localadmin_id":404518053,
+            "locality_id":85971343,
+            "neighbourhood_id":85850281,
+            "region_id":85688661,
+            "venue_id":807015579
+        }
+    ],
+    "wof:id":807015579,
+    "wof:lastmodified":1462602991,
+    "wof:name":"7-Eleven",
+    "wof:parent_id":85850281,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.276455,
+    38.584007,
+    -90.276455,
+    38.584007
+],
+  "geometry": {"coordinates":[-90.276455,38.584007],"type":"Point"}
+}

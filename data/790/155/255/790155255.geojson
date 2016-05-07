@@ -1,0 +1,71 @@
+{
+  "id": 790155255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.170925,38.574155,-92.170925,38.574155",
+    "geom:latitude":38.574155,
+    "geom:longitude":-92.170925,
+    "iso:country":"US",
+    "sg:address":"305 E McCarty St",
+    "sg:city":"Jefferson City",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 636 8814",
+    "sg:postcode":"65101",
+    "sg:province":"MO",
+    "sg:tags":[
+        "federal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970647,
+        102087511,
+        85837745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_29QRBIp96zcYL2hmUdaFWz_38.574155_-92.170925@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462593553,
+    "wof:geomhash":"76d1f765b4e9f24a1c3da8d0dbe0566d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087511,
+            "locality_id":85970647,
+            "neighbourhood_id":85837745,
+            "region_id":85688661,
+            "venue_id":790155255
+        }
+    ],
+    "wof:id":790155255,
+    "wof:lastmodified":1462593553,
+    "wof:name":"Federal Bureau-Investigation",
+    "wof:parent_id":85837745,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "federal"
+    ]
+},
+  "bbox": [
+    -92.170925,
+    38.574155,
+    -92.170925,
+    38.574155
+],
+  "geometry": {"coordinates":[-92.170925,38.574155],"type":"Point"}
+}

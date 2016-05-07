@@ -1,0 +1,71 @@
+{
+  "id": 789594833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.177228,38.572761,-92.177228,38.572761",
+    "geom:latitude":38.572761,
+    "geom:longitude":-92.177228,
+    "iso:country":"US",
+    "sg:address":"715 Jefferson St",
+    "sg:city":"Jefferson City",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 632 4209",
+    "sg:postcode":"65101",
+    "sg:province":"MO",
+    "sg:tags":[
+        "fraternal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970647,
+        102087511,
+        85837745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0b6Mwc2dBJGNbO1ZOXpNow_38.572761_-92.177228@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462589019,
+    "wof:geomhash":"923c3952bc96a888ff7b70decd65e128",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087511,
+            "locality_id":85970647,
+            "neighbourhood_id":85837745,
+            "region_id":85688661,
+            "venue_id":789594833
+        }
+    ],
+    "wof:id":789594833,
+    "wof:lastmodified":1462589019,
+    "wof:name":"Missouri State FOP",
+    "wof:parent_id":85837745,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fraternal"
+    ]
+},
+  "bbox": [
+    -92.177228,
+    38.572761,
+    -92.177228,
+    38.572761
+],
+  "geometry": {"coordinates":[-92.177228,38.572761],"type":"Point"}
+}

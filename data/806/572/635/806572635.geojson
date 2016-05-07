@@ -1,0 +1,71 @@
+{
+  "id": 806572635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.837648,37.812811,-91.837648,37.812811",
+    "geom:latitude":37.812811,
+    "geom:longitude":-91.837648,
+    "iso:country":"US",
+    "sg:address":"13000 Co Rd 7480",
+    "sg:city":"Rolla",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 364 8791",
+    "sg:postcode":"65401",
+    "sg:province":"MO",
+    "sg:tags":[
+        "upholsterer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970821,
+        102086893,
+        85814531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2E64hMmRYpmIXjiHqEdvJU_37.812811_-91.837648@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462599255,
+    "wof:geomhash":"811cc87f4512c6be80456be623ca1955",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086893,
+            "locality_id":85970821,
+            "neighbourhood_id":85814531,
+            "region_id":85688661,
+            "venue_id":806572635
+        }
+    ],
+    "wof:id":806572635,
+    "wof:lastmodified":1462599255,
+    "wof:name":"Upholstery Shoppe",
+    "wof:parent_id":85814531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "upholsterer"
+    ]
+},
+  "bbox": [
+    -91.837648,
+    37.812811,
+    -91.837648,
+    37.812811
+],
+  "geometry": {"coordinates":[-91.837648,37.812811],"type":"Point"}
+}

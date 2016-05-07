@@ -1,0 +1,73 @@
+{
+  "id": 773674507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.483815,38.776636,-90.483815,38.776636",
+    "geom:latitude":38.776636,
+    "geom:longitude":-90.483815,
+    "iso:country":"US",
+    "sg:address":"625 S Main St",
+    "sg:city":"Saint Charles",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 925 0745",
+    "sg:postcode":"63301",
+    "sg:province":"MO",
+    "sg:tags":[
+        "drinking",
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3mprSdCa840q2L5EKSymq3_38.776636_-90.483815@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462587496,
+    "wof:geomhash":"72464e62fa6d36e1e5eae89f24508782",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":773674507
+        }
+    ],
+    "wof:id":773674507,
+    "wof:lastmodified":1462587496,
+    "wof:name":"Something Sweet",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drinking",
+        "eating"
+    ]
+},
+  "bbox": [
+    -90.483815,
+    38.776636,
+    -90.483815,
+    38.776636
+],
+  "geometry": {"coordinates":[-90.48381500000001,38.776636],"type":"Point"}
+}

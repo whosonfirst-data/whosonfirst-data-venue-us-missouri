@@ -1,0 +1,75 @@
+{
+  "id": 790090123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.576761,39.163372,-94.576761,39.163372",
+    "geom:latitude":39.163372,
+    "geom:longitude":-94.576761,
+    "iso:country":"US",
+    "sg:address":"3713 N Oak Fwy",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 453 2112",
+    "sg:postcode":"64116",
+    "sg:province":"MO",
+    "sg:tags":[
+        "transmission"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85867025,
+        102191575,
+        404518075,
+        85633793,
+        85970739,
+        102081227,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4rsweqxdVBthcWI30ul7AP_39.163372_-94.576761@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462593051,
+    "wof:geomhash":"d500418cdaa630b6b230b3036b05f4fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081227,
+            "localadmin_id":404518075,
+            "locality_id":85970739,
+            "neighbourhood_id":85867025,
+            "region_id":85688661,
+            "venue_id":790090123
+        }
+    ],
+    "wof:id":790090123,
+    "wof:lastmodified":1462593051,
+    "wof:name":"AAA Transmission & Driveline",
+    "wof:parent_id":85867025,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission"
+    ]
+},
+  "bbox": [
+    -94.576761,
+    39.163372,
+    -94.576761,
+    39.163372
+],
+  "geometry": {"coordinates":[-94.576761,39.163372],"type":"Point"}
+}

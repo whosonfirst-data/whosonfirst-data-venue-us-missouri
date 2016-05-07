@@ -1,0 +1,69 @@
+{
+  "id": 807123683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.563592,38.232742,-90.563592,38.232742",
+    "geom:latitude":38.232742,
+    "geom:longitude":-90.563592,
+    "iso:country":"US",
+    "sg:address":"304 Locust St",
+    "sg:city":"Hillsboro",
+    "sg:classifiers":[
+        {
+            "category":"Place Of Worship",
+            "subcategory":"",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 789 2223",
+    "sg:postcode":"63050",
+    "sg:province":"MO",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85848677,
+        102080787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_05YmcUglcIzd4a5IXPX9P6_38.232742_-90.563592@1303262926"
+    },
+    "wof:country":"US",
+    "wof:created":1462603983,
+    "wof:geomhash":"8e85281edcc026a60db1a74956b2f52f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080787,
+            "neighbourhood_id":85848677,
+            "region_id":85688661,
+            "venue_id":807123683
+        }
+    ],
+    "wof:id":807123683,
+    "wof:lastmodified":1462603983,
+    "wof:name":"Christ's Church of Hillsboro",
+    "wof:parent_id":85848677,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -90.563592,
+    38.232742,
+    -90.563592,
+    38.232742
+],
+  "geometry": {"coordinates":[-90.563592,38.232742],"type":"Point"}
+}

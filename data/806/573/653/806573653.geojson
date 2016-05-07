@@ -1,0 +1,73 @@
+{
+  "id": 806573653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.254061,37.239904,-93.254061,37.239904",
+    "geom:latitude":37.239904,
+    "geom:longitude":-93.254061,
+    "iso:country":"US",
+    "sg:address":"2121 E Kearney St",
+    "sg:city":"Springfield",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 865 1631",
+    "sg:postcode":"65803",
+    "sg:province":"MO",
+    "sg:tags":[
+        "carrier",
+        "motor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971363,
+        102087523,
+        85881137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1UQ1Q1iNi1YoO9sU1uHDn1_37.239904_-93.254061@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462599262,
+    "wof:geomhash":"793186e52ae4e04b80369d04f2cfd8a8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087523,
+            "locality_id":85971363,
+            "neighbourhood_id":85881137,
+            "region_id":85688661,
+            "venue_id":806573653
+        }
+    ],
+    "wof:id":806573653,
+    "wof:lastmodified":1462599262,
+    "wof:name":"Yellow Transportation Inc",
+    "wof:parent_id":85881137,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carrier",
+        "motor"
+    ]
+},
+  "bbox": [
+    -93.254061,
+    37.239904,
+    -93.254061,
+    37.239904
+],
+  "geometry": {"coordinates":[-93.25406099999999,37.239904],"type":"Point"}
+}

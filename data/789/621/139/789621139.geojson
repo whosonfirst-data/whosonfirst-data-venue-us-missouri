@@ -1,0 +1,79 @@
+{
+  "id": 789621139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.442184,38.693449,-90.442184,38.693449",
+    "geom:latitude":38.693449,
+    "geom:longitude":-90.442184,
+    "iso:country":"US",
+    "sg:address":"1846 Craig Park Ct",
+    "sg:city":"St Louis",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 469 2200",
+    "sg:postcode":"63146",
+    "sg:province":"MO",
+    "sg:tags":[
+        "electrical",
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85803699,
+        102191575,
+        404517323,
+        85633793,
+        85972315,
+        102086173,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3uGobv8jlQTbSxufscOzej_38.693449_-90.442184@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462589226,
+    "wof:geomhash":"172c55f8f634951c25a50087bb7c3fb9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086173,
+            "localadmin_id":404517323,
+            "locality_id":85972315,
+            "neighbourhood_id":85803699,
+            "region_id":85688661,
+            "venue_id":789621139
+        }
+    ],
+    "wof:id":789621139,
+    "wof:lastmodified":1462589226,
+    "wof:name":"Demand Electrical",
+    "wof:parent_id":85803699,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -90.442184,
+    38.693449,
+    -90.442184,
+    38.693449
+],
+  "geometry": {"coordinates":[-90.442184,38.693449],"type":"Point"}
+}

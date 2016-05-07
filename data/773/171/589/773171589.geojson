@@ -1,0 +1,82 @@
+{
+  "id": 773171589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.211709,38.668005,-90.211709,38.668005",
+    "geom:latitude":38.668005,
+    "geom:longitude":-90.211709,
+    "iso:country":"US",
+    "sg:address":"4308 N Grand Blvd",
+    "sg:city":"St Louis",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 340 3222",
+    "sg:postcode":"63107",
+    "sg:province":"MO",
+    "sg:tags":[
+        "clinic",
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873619,
+        102191575,
+        404518053,
+        85633793,
+        85971343,
+        102080791,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_78GwMSqPIJw18hOBjq1mWD_38.668005_-90.211709@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462583679,
+    "wof:geomhash":"622c93c6b83368c55aadccc028128435",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080791,
+            "localadmin_id":404518053,
+            "locality_id":85971343,
+            "neighbourhood_id":85873619,
+            "region_id":85688661,
+            "venue_id":773171589
+        }
+    ],
+    "wof:id":773171589,
+    "wof:lastmodified":1462583679,
+    "wof:name":"Grace Hill Water Tower Med Ctr",
+    "wof:parent_id":85873619,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic",
+        "medical"
+    ]
+},
+  "bbox": [
+    -90.211709,
+    38.668005,
+    -90.211709,
+    38.668005
+],
+  "geometry": {"coordinates":[-90.211709,38.668005],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 789698033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.358741,38.720562,-90.358741,38.720562",
+    "geom:latitude":38.720562,
+    "geom:longitude":-90.358741,
+    "iso:country":"US",
+    "sg:address":"3600 Woodson Rd",
+    "sg:city":"Saint Louis",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 426 9060",
+    "sg:postcode":"63114",
+    "sg:province":"MO",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85847351,
+        102191575,
+        404517201,
+        85633793,
+        85972285,
+        102086173,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6FcogI7NALfUiMlH2vudhQ_38.720562_-90.358741@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462589844,
+    "wof:geomhash":"47bee43dc930377dcfc7014e61187881",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086173,
+            "localadmin_id":404517201,
+            "locality_id":85972285,
+            "neighbourhood_id":85847351,
+            "region_id":85688661,
+            "venue_id":789698033
+        }
+    ],
+    "wof:id":789698033,
+    "wof:lastmodified":1462589844,
+    "wof:name":"Mobile Mechanic Inc",
+    "wof:parent_id":85847351,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -90.358741,
+    38.720562,
+    -90.358741,
+    38.720562
+],
+  "geometry": {"coordinates":[-90.35874099999999,38.720562],"type":"Point"}
+}

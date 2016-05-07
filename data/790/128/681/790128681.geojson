@@ -1,0 +1,71 @@
+{
+  "id": 790128681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.699864,38.808941,-90.699864,38.808941",
+    "geom:latitude":38.808941,
+    "geom:longitude":-90.699864,
+    "iso:country":"US",
+    "sg:address":"206 S Main St",
+    "sg:city":"O Fallon",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 978 2228",
+    "sg:postcode":"63366",
+    "sg:province":"MO",
+    "sg:tags":[
+        "laboratory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6W0Vf5D1IRGYvcIbLQLcpJ_38.808941_-90.699864@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462593352,
+    "wof:geomhash":"24928984c46eb57e90af64d3ca97f3d1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":790128681
+        }
+    ],
+    "wof:id":790128681,
+    "wof:lastmodified":1462593352,
+    "wof:name":"Accura Medical Laboratory",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory"
+    ]
+},
+  "bbox": [
+    -90.699864,
+    38.808941,
+    -90.699864,
+    38.808941
+],
+  "geometry": {"coordinates":[-90.69986400000001,38.808941],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 807074497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.432989,37.7911,-90.432989,37.7911",
+    "geom:latitude":37.7911,
+    "geom:longitude":-90.432989,
+    "iso:country":"US",
+    "sg:address":"560 W Karsch Blvd",
+    "sg:city":"Farmington",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/st-francois/195582-taco-bell/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 756 3111",
+    "sg:postcode":"63640",
+    "sg:province":"MO",
+    "sg:tags":[
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970665,
+        102085297,
+        85816309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2hjBCct3ZV3khX4MZ7nQMj_37.791100_-90.432989@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462603492,
+    "wof:geomhash":"9402e49c439e106f22b5a2a7c5e14452",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085297,
+            "locality_id":85970665,
+            "neighbourhood_id":85816309,
+            "region_id":85688661,
+            "venue_id":807074497
+        }
+    ],
+    "wof:id":807074497,
+    "wof:lastmodified":1462603492,
+    "wof:name":"Taco Bell",
+    "wof:parent_id":85816309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican"
+    ]
+},
+  "bbox": [
+    -90.432989,
+    37.7911,
+    -90.432989,
+    37.7911
+],
+  "geometry": {"coordinates":[-90.43298900000001,37.7911],"type":"Point"}
+}

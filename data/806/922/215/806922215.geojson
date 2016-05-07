@@ -1,0 +1,78 @@
+{
+  "id": 806922215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.575901,39.081773,-94.575901,39.081773",
+    "geom:latitude":39.081773,
+    "geom:longitude":-94.575901,
+    "iso:country":"US",
+    "sg:address":"2411 Holmes St",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 235 1973",
+    "sg:postcode":"64108",
+    "sg:province":"MO",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "sg:website":"www.hhhsc.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420525357,
+        102191575,
+        404518075,
+        85633793,
+        85970739,
+        102081227,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ZneoVzpQLB0tVItLHwOGC_39.081773_-94.575901@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462602207,
+    "wof:geomhash":"56e26f1d974350c0bcf9cf3d03e36dd5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081227,
+            "localadmin_id":404518075,
+            "locality_id":85970739,
+            "neighbourhood_id":420525357,
+            "region_id":85688661,
+            "venue_id":806922215
+        }
+    ],
+    "wof:id":806922215,
+    "wof:lastmodified":1462602207,
+    "wof:name":"Hospital Hill Health Svc Corp",
+    "wof:parent_id":420525357,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -94.575901,
+    39.081773,
+    -94.575901,
+    39.081773
+],
+  "geometry": {"coordinates":[-94.575901,39.081773],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 807003239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.244102,38.581001,-90.244102,38.581001",
+    "geom:latitude":38.581001,
+    "geom:longitude":-90.244102,
+    "iso:country":"US",
+    "sg:address":"4141 S Grand Blvd",
+    "sg:city":"Saint Louis",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 832 3779",
+    "sg:postcode":"63118",
+    "sg:province":"MO",
+    "sg:tags":[
+        "eating",
+        "italian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873693,
+        102191575,
+        404518053,
+        85633793,
+        85971343,
+        102080791,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1E2OQfQouA1gjbiETdXNP6_38.580920_-90.244146@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1462602885,
+    "wof:geomhash":"f530e1133f4c3291e3606efd52a03477",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080791,
+            "localadmin_id":404518053,
+            "locality_id":85971343,
+            "neighbourhood_id":85873693,
+            "region_id":85688661,
+            "venue_id":807003239
+        }
+    ],
+    "wof:id":807003239,
+    "wof:lastmodified":1462602885,
+    "wof:name":"Giuseppe's Restaurant",
+    "wof:parent_id":85873693,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating",
+        "italian"
+    ]
+},
+  "bbox": [
+    -90.244102,
+    38.581001,
+    -90.244102,
+    38.581001
+],
+  "geometry": {"coordinates":[-90.244102,38.581001],"type":"Point"}
+}

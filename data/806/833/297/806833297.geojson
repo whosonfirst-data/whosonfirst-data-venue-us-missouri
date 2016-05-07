@@ -1,0 +1,77 @@
+{
+  "id": 806833297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.137529,38.559176,-92.137529,38.559176",
+    "geom:latitude":38.559176,
+    "geom:longitude":-92.137529,
+    "iso:country":"US",
+    "sg:address":"1908 Boggs Creek Rd",
+    "sg:city":"Jefferson City",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Non-profit Organization",
+            "type":"Services"
+        },
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 634 4555",
+    "sg:postcode":"65101",
+    "sg:province":"MO",
+    "sg:tags":[
+        "residential"
+    ],
+    "sg:website":"www.ccrsi.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970647,
+        102087511,
+        85837745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2KbusuFLiOX0qqK38U0Hmq_38.559176_-92.137529@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462601451,
+    "wof:geomhash":"5151086889e015022a38a0ff7f56a6c3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087511,
+            "locality_id":85970647,
+            "neighbourhood_id":85837745,
+            "region_id":85688661,
+            "venue_id":806833297
+        }
+    ],
+    "wof:id":806833297,
+    "wof:lastmodified":1462601451,
+    "wof:name":"Cole County Residential Svcs",
+    "wof:parent_id":85837745,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential"
+    ]
+},
+  "bbox": [
+    -92.137529,
+    38.559176,
+    -92.137529,
+    38.559176
+],
+  "geometry": {"coordinates":[-92.137529,38.559176],"type":"Point"}
+}

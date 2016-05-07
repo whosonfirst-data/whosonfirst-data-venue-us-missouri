@@ -1,0 +1,71 @@
+{
+  "id": 790599909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.768504,37.949094,-91.768504,37.949094",
+    "geom:latitude":37.949094,
+    "geom:longitude":-91.768504,
+    "iso:country":"US",
+    "sg:address":"610 N Olive St",
+    "sg:city":"Rolla",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 364 7880",
+    "sg:postcode":"65401",
+    "sg:province":"MO",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970821,
+        102086893,
+        85814531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4lPskhu0zqYOd8y3AvBGuq_37.949094_-91.768504@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462597225,
+    "wof:geomhash":"c835c95644977076db085d01dc62cb24",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086893,
+            "locality_id":85970821,
+            "neighbourhood_id":85814531,
+            "region_id":85688661,
+            "venue_id":790599909
+        }
+    ],
+    "wof:id":790599909,
+    "wof:lastmodified":1462597225,
+    "wof:name":"Calvin L Mott DDS",
+    "wof:parent_id":85814531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -91.768504,
+    37.949094,
+    -91.768504,
+    37.949094
+],
+  "geometry": {"coordinates":[-91.76850399999999,37.949094],"type":"Point"}
+}

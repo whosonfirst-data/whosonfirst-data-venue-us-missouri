@@ -1,0 +1,73 @@
+{
+  "id": 806851441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.492124,38.783737,-90.492124,38.783737",
+    "geom:latitude":38.783737,
+    "geom:longitude":-90.492124,
+    "iso:country":"US",
+    "sg:address":"834 Madison St",
+    "sg:city":"St Charles",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Secretarial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 946 1354",
+    "sg:postcode":"63301",
+    "sg:province":"MO",
+    "sg:tags":[
+        "reporting",
+        "court"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3aQ3vywrjmJjnCtRZOrttL_38.783737_-90.492124@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462601621,
+    "wof:geomhash":"2f51eaef46a62134985e0437fead718f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":806851441
+        }
+    ],
+    "wof:id":806851441,
+    "wof:lastmodified":1462601621,
+    "wof:name":"Hull Reporting",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "reporting",
+        "court"
+    ]
+},
+  "bbox": [
+    -90.492124,
+    38.783737,
+    -90.492124,
+    38.783737
+],
+  "geometry": {"coordinates":[-90.492124,38.783737],"type":"Point"}
+}

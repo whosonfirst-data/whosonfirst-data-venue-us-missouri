@@ -1,0 +1,71 @@
+{
+  "id": 789965399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.475585,38.800984,-90.475585,38.800984",
+    "geom:latitude":38.800984,
+    "geom:longitude":-90.475585,
+    "iso:country":"US",
+    "sg:address":"2240 N 3rd St",
+    "sg:city":"St Charles",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 940 2653",
+    "sg:postcode":"63301",
+    "sg:province":"MO",
+    "sg:tags":[
+        "oil"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_33xDeEAvyqLNTBW06eRb0B_38.800984_-90.475585@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462592041,
+    "wof:geomhash":"fa5dd7b2b1d2d10cb00ec993ea2bd602",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":789965399
+        }
+    ],
+    "wof:id":789965399,
+    "wof:lastmodified":1462592041,
+    "wof:name":"Petro Mart",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "oil"
+    ]
+},
+  "bbox": [
+    -90.475585,
+    38.800984,
+    -90.475585,
+    38.800984
+],
+  "geometry": {"coordinates":[-90.475585,38.800984],"type":"Point"}
+}

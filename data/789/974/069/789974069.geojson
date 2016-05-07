@@ -1,0 +1,71 @@
+{
+  "id": 789974069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.495975,38.806783,-90.495975,38.806783",
+    "geom:latitude":38.806783,
+    "geom:longitude":-90.495975,
+    "iso:country":"US",
+    "sg:address":"2809 Westminster Dr",
+    "sg:city":"Saint Charles",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 947 3365",
+    "sg:postcode":"63301",
+    "sg:province":"MO",
+    "sg:tags":[
+        "drinking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_14KDO2XeHRu7TUGyLKvtsf_38.806783_-90.495975@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462592116,
+    "wof:geomhash":"8898f51c8fff8e6ed8cf823d577b9f9c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":789974069
+        }
+    ],
+    "wof:id":789974069,
+    "wof:lastmodified":1462592116,
+    "wof:name":"Mopes Bar",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drinking"
+    ]
+},
+  "bbox": [
+    -90.495975,
+    38.806783,
+    -90.495975,
+    38.806783
+],
+  "geometry": {"coordinates":[-90.495975,38.806783],"type":"Point"}
+}

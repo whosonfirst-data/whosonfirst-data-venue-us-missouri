@@ -1,0 +1,73 @@
+{
+  "id": 773139235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.267386,37.240086,-93.267386,37.240086",
+    "geom:latitude":37.240086,
+    "geom:longitude":-93.267386,
+    "iso:country":"US",
+    "sg:address":"1450 E Kearney St",
+    "sg:city":"Springfield",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 831 0200",
+    "sg:postcode":"65803",
+    "sg:province":"MO",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971363,
+        102087523,
+        85881137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_49MxjA9nhZOCvtt7earVu3_37.240086_-93.267386@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462583431,
+    "wof:geomhash":"e19c9b0a7ed5ee1ed9b73bfefc929638",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087523,
+            "locality_id":85971363,
+            "neighbourhood_id":85881137,
+            "region_id":85688661,
+            "venue_id":773139235
+        }
+    ],
+    "wof:id":773139235,
+    "wof:lastmodified":1462583431,
+    "wof:name":"Yung Hwang Inc",
+    "wof:parent_id":85881137,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -93.267386,
+    37.240086,
+    -93.267386,
+    37.240086
+],
+  "geometry": {"coordinates":[-93.267386,37.240086],"type":"Point"}
+}

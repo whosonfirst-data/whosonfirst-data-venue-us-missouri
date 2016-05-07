@@ -1,0 +1,79 @@
+{
+  "id": 807256887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.317644,39.07505,-92.317644,39.07505",
+    "geom:latitude":39.07505,
+    "geom:longitude":-92.317644,
+    "iso:country":"US",
+    "sg:address":"1505 E Peabody Rd",
+    "sg:city":"Columbia",
+    "sg:classifiers":[
+        {
+            "category":"Park",
+            "subcategory":"",
+            "type":"Public Place"
+        },
+        {
+            "category":"Recreation",
+            "subcategory":"Campground",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 443 5315",
+    "sg:postcode":"65202",
+    "sg:province":"MO",
+    "sg:tags":[
+        "recreational",
+        "vehicle"
+    ],
+    "sg:website":"http://www.swmd.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970425,
+        102086187,
+        85851713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0QYgWmvUl8hrIsfyTP5wfp_39.075050_-92.317644@1303262935"
+    },
+    "wof:country":"US",
+    "wof:created":1462605398,
+    "wof:geomhash":"02556c3f017123e13adbe077e8f05d2a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086187,
+            "locality_id":85970425,
+            "neighbourhood_id":85851713,
+            "region_id":85688661,
+            "venue_id":807256887
+        }
+    ],
+    "wof:id":807256887,
+    "wof:lastmodified":1462605398,
+    "wof:name":"Finger Lakes State Park",
+    "wof:parent_id":85851713,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "recreational",
+        "vehicle"
+    ]
+},
+  "bbox": [
+    -92.317644,
+    39.07505,
+    -92.317644,
+    39.07505
+],
+  "geometry": {"coordinates":[-92.317644,39.07505],"type":"Point"}
+}

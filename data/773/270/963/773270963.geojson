@@ -1,0 +1,78 @@
+{
+  "id": 773270963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.492956,38.788356,-90.492956,38.788356",
+    "geom:latitude":38.788356,
+    "geom:longitude":-90.492956,
+    "iso:country":"US",
+    "sg:address":"324 Houston St",
+    "sg:city":"St Charles",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Campground",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Arena",
+            "subcategory":"Sports Club",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 947 9499",
+    "sg:postcode":"63301",
+    "sg:province":"MO",
+    "sg:tags":[
+        "basketball",
+        "camp"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4MHLJwuogBQYMn2vVGHp8u_38.788356_-90.492956@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462584450,
+    "wof:geomhash":"63938bb4129541cb58b6ceb2a572d870",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":773270963
+        }
+    ],
+    "wof:id":773270963,
+    "wof:lastmodified":1462584450,
+    "wof:name":"Hoop Mountain Mid-West",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "basketball",
+        "camp"
+    ]
+},
+  "bbox": [
+    -90.492956,
+    38.788356,
+    -90.492956,
+    38.788356
+],
+  "geometry": {"coordinates":[-90.49295600000001,38.788356],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 773265541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.61323,36.509305,-94.61323,36.509305",
+    "geom:latitude":36.509305,
+    "geom:longitude":-94.61323,
+    "iso:country":"US",
+    "sg:address":"712 S Main St",
+    "sg:city":"South West City",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 762 4488",
+    "sg:postcode":"64863",
+    "sg:province":"MO",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972127,
+        102085305,
+        85850627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0VYItsk8iWaVrn6lmDqWao_36.509305_-94.613230@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462584401,
+    "wof:geomhash":"607bb1e7f7c80eb02b354f584c7cbd53",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085305,
+            "locality_id":85972127,
+            "neighbourhood_id":85850627,
+            "region_id":85688661,
+            "venue_id":773265541
+        }
+    ],
+    "wof:id":773265541,
+    "wof:lastmodified":1462584401,
+    "wof:name":"Dollar General",
+    "wof:parent_id":85850627,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -94.61323,
+    36.509305,
+    -94.61323,
+    36.509305
+],
+  "geometry": {"coordinates":[-94.61323,36.509305],"type":"Point"}
+}

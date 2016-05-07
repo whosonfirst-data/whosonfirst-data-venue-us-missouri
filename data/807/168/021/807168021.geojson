@@ -1,0 +1,85 @@
+{
+  "id": 807168021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.225945,38.593356,-90.225945,38.593356",
+    "geom:latitude":38.593356,
+    "geom:longitude":-90.225945,
+    "iso:country":"US",
+    "sg:address":"2609 Cherokee St",
+    "sg:city":"Saint Louis",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 773 1200",
+    "sg:postcode":"63118",
+    "sg:province":"MO",
+    "sg:tags":[
+        "middle",
+        "vegetarian",
+        "eastern"
+    ],
+    "sg:website":"www.labeebees.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873679,
+        102191575,
+        404518053,
+        85633793,
+        85971343,
+        102080791,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6IiYbKDcVv817AfF1l0s0u_38.593356_-90.225945@1303262929"
+    },
+    "wof:country":"US",
+    "wof:created":1462604463,
+    "wof:geomhash":"9d373e095e8635b9532d912ab0e3757d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080791,
+            "localadmin_id":404518053,
+            "locality_id":85971343,
+            "neighbourhood_id":85873679,
+            "region_id":85688661,
+            "venue_id":807168021
+        }
+    ],
+    "wof:id":807168021,
+    "wof:lastmodified":1462604463,
+    "wof:name":"Labeebee's Mid-East Cafe",
+    "wof:parent_id":85873679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "middle",
+        "vegetarian",
+        "eastern"
+    ]
+},
+  "bbox": [
+    -90.225945,
+    38.593356,
+    -90.225945,
+    38.593356
+],
+  "geometry": {"coordinates":[-90.225945,38.593356],"type":"Point"}
+}

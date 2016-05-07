@@ -1,0 +1,93 @@
+{
+  "id": 807180773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.050248,39.448653,-91.050248,39.448653",
+    "geom:latitude":39.448653,
+    "geom:longitude":-91.050248,
+    "iso:country":"US",
+    "sg:address":"607 Georgia St",
+    "sg:city":"Louisiana",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 754 4141",
+    "sg:postcode":"63353",
+    "sg:province":"MO",
+    "sg:tags":[
+        "major",
+        "refinishing",
+        "appliance",
+        "system",
+        "furnaces-heating",
+        "contractor",
+        "air conditioning"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971907,
+        102086151,
+        85817909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0FeoMOdaHmHg0rVWTNo2xp_39.448653_-91.050248@1303262930"
+    },
+    "wof:country":"US",
+    "wof:created":1462604593,
+    "wof:geomhash":"34cd5dd788aee7359c7d835cbae51985",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086151,
+            "locality_id":85971907,
+            "neighbourhood_id":85817909,
+            "region_id":85688661,
+            "venue_id":807180773
+        }
+    ],
+    "wof:id":807180773,
+    "wof:lastmodified":1462604593,
+    "wof:name":"Mash I & Ii",
+    "wof:parent_id":85817909,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "major",
+        "refinishing",
+        "appliance",
+        "system",
+        "furnaces-heating",
+        "contractor",
+        "air conditioning"
+    ]
+},
+  "bbox": [
+    -91.050248,
+    39.448653,
+    -91.050248,
+    39.448653
+],
+  "geometry": {"coordinates":[-91.050248,39.448653],"type":"Point"}
+}

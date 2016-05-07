@@ -1,0 +1,71 @@
+{
+  "id": 789708685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.62978,38.792,-90.62978,38.792",
+    "geom:latitude":38.792,
+    "geom:longitude":-90.62978,
+    "iso:country":"US",
+    "sg:address":"433 S Church St",
+    "sg:city":"St Peters",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 279 3717",
+    "sg:postcode":"63376",
+    "sg:province":"MO",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4izge9vmfpog2wqU3ZmLuz_38.792000_-90.629780@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462589921,
+    "wof:geomhash":"68e5598d66f8f1322702aed484f87346",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":789708685
+        }
+    ],
+    "wof:id":789708685,
+    "wof:lastmodified":1462589921,
+    "wof:name":"Three Flags Unisex Salon",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -90.62978,
+    38.792,
+    -90.62978,
+    38.792
+],
+  "geometry": {"coordinates":[-90.62978,38.792],"type":"Point"}
+}

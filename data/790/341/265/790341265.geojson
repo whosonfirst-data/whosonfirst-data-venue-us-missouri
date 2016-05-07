@@ -1,0 +1,71 @@
+{
+  "id": 790341265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.17401,38.577985,-92.17401,38.577985",
+    "geom:latitude":38.577985,
+    "geom:longitude":-92.17401,
+    "iso:country":"US",
+    "sg:address":"221 W High St",
+    "sg:city":"Jefferson City",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 636 9084",
+    "sg:postcode":"65101",
+    "sg:province":"MO",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970647,
+        102087511,
+        85837745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7IWGTF1hbjMgWpwAVbwaKP_38.577985_-92.174010@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462595071,
+    "wof:geomhash":"0ccc562deeae0b347b15744193160042",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087511,
+            "locality_id":85970647,
+            "neighbourhood_id":85837745,
+            "region_id":85688661,
+            "venue_id":790341265
+        }
+    ],
+    "wof:id":790341265,
+    "wof:lastmodified":1462595071,
+    "wof:name":"Broadway Deli",
+    "wof:parent_id":85837745,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -92.17401,
+    38.577985,
+    -92.17401,
+    38.577985
+],
+  "geometry": {"coordinates":[-92.17401,38.577985],"type":"Point"}
+}

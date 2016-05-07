@@ -1,0 +1,79 @@
+{
+  "id": 789883539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.218275,38.6191,-90.218275,38.6191",
+    "geom:latitude":38.6191,
+    "geom:longitude":-90.218275,
+    "iso:country":"US",
+    "sg:address":"2347 Rutger St",
+    "sg:city":"St Louis",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 772 9950",
+    "sg:postcode":"63104",
+    "sg:province":"MO",
+    "sg:tags":[
+        "muffler",
+        "exhaust",
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873661,
+        102191575,
+        404518053,
+        85633793,
+        85971343,
+        102080791,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6zjWo1m1weGEqKzkrHL3ty_38.619100_-90.218275@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462591320,
+    "wof:geomhash":"190cfe3a86e4e6c5c80c90ce9f54d747",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080791,
+            "localadmin_id":404518053,
+            "locality_id":85971343,
+            "neighbourhood_id":85873661,
+            "region_id":85688661,
+            "venue_id":789883539
+        }
+    ],
+    "wof:id":789883539,
+    "wof:lastmodified":1462591320,
+    "wof:name":"T & E Muffler Warehouse",
+    "wof:parent_id":85873661,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "muffler",
+        "exhaust",
+        "system"
+    ]
+},
+  "bbox": [
+    -90.218275,
+    38.6191,
+    -90.218275,
+    38.6191
+],
+  "geometry": {"coordinates":[-90.21827500000001,38.6191],"type":"Point"}
+}

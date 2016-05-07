@@ -1,0 +1,78 @@
+{
+  "id": 807061229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.335411,38.77691,-90.335411,38.77691",
+    "geom:latitude":38.77691,
+    "geom:longitude":-90.335411,
+    "iso:country":"US",
+    "sg:address":"1275 Graham Rd",
+    "sg:city":"Florissant",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/florissant/210921-arbys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 830 4167",
+    "sg:postcode":"63031",
+    "sg:province":"MO",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85813019,
+        102191575,
+        404517467,
+        85633793,
+        85972639,
+        102086173,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2gl3tPnjXWGIWQCrc1IGIc_38.776910_-90.335411@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462603380,
+    "wof:geomhash":"7ff9316f859737a2113db0654e92b62f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086173,
+            "localadmin_id":404517467,
+            "locality_id":85972639,
+            "neighbourhood_id":85813019,
+            "region_id":85688661,
+            "venue_id":807061229
+        }
+    ],
+    "wof:id":807061229,
+    "wof:lastmodified":1462603380,
+    "wof:name":"Arby's",
+    "wof:parent_id":85813019,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -90.335411,
+    38.77691,
+    -90.335411,
+    38.77691
+],
+  "geometry": {"coordinates":[-90.33541099999999,38.77691],"type":"Point"}
+}

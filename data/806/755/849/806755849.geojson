@@ -1,0 +1,81 @@
+{
+  "id": 806755849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.407316,37.788294,-90.407316,37.788294",
+    "geom:latitude":37.788294,
+    "geom:longitude":-90.407316,
+    "iso:country":"US",
+    "sg:address":"608 Pine St",
+    "sg:city":"Farmington",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        },
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 756 6744",
+    "sg:postcode":"63640",
+    "sg:province":"MO",
+    "sg:tags":[
+        "organization",
+        "residential",
+        "welfare"
+    ],
+    "sg:website":"www.careforkids.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970665,
+        102085297,
+        85816309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6kGUVKafSQLCCusmO7AGK8_37.788294_-90.407316@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462600811,
+    "wof:geomhash":"69f550a89bb026a5308e52fbc7a96782",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085297,
+            "locality_id":85970665,
+            "neighbourhood_id":85816309,
+            "region_id":85688661,
+            "venue_id":806755849
+        }
+    ],
+    "wof:id":806755849,
+    "wof:lastmodified":1462600811,
+    "wof:name":"Farmington Children's Home",
+    "wof:parent_id":85816309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organization",
+        "residential",
+        "welfare"
+    ]
+},
+  "bbox": [
+    -90.407316,
+    37.788294,
+    -90.407316,
+    37.788294
+],
+  "geometry": {"coordinates":[-90.40731599999999,37.788294],"type":"Point"}
+}

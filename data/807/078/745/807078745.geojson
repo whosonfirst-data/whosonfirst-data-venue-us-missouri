@@ -1,0 +1,89 @@
+{
+  "id": 807078745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.43579,39.238192,-94.43579,39.238192",
+    "geom:latitude":39.238192,
+    "geom:longitude":-94.43579,
+    "iso:country":"US",
+    "sg:address":"820 S State Route 291",
+    "sg:city":"Liberty",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/liberty/148976-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 407 0800",
+    "sg:postcode":"64068",
+    "sg:province":"MO",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420525305,
+        102191575,
+        404516717,
+        85633793,
+        85972461,
+        102086177,
+        85688661,
+        420525367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3VrzFw8MBBh0MIBz5cOeXI_39.238192_-94.435790@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462603523,
+    "wof:geomhash":"396d9bd434837285c39069cf2a129c0d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086177,
+            "localadmin_id":404516717,
+            "locality_id":85972461,
+            "neighbourhood_id":420525305,
+            "region_id":85688661,
+            "venue_id":807078745
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086177,
+            "localadmin_id":404516717,
+            "locality_id":85972461,
+            "neighbourhood_id":420525367,
+            "region_id":85688661,
+            "venue_id":807078745
+        }
+    ],
+    "wof:id":807078745,
+    "wof:lastmodified":1462603523,
+    "wof:name":"Subway",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -94.43579,
+    39.238192,
+    -94.43579,
+    39.238192
+],
+  "geometry": {"coordinates":[-94.43579,39.238192],"type":"Point"}
+}

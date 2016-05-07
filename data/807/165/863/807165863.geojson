@@ -1,0 +1,80 @@
+{
+  "id": 807165863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.222231,38.592762,-90.222231,38.592762",
+    "geom:latitude":38.592762,
+    "geom:longitude":-90.222231,
+    "iso:country":"US",
+    "sg:address":"2114 Cherokee St",
+    "sg:city":"Saint Louis",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Music School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 664 1234",
+    "sg:postcode":"63118",
+    "sg:province":"MO",
+    "sg:tags":[
+        "instrument",
+        "teacher",
+        "musical"
+    ],
+    "sg:website":"www.saxquest.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873687,
+        102191575,
+        404518053,
+        85633793,
+        85971343,
+        102080791,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0lCqCHsMLgcFSscp5YPjuR_38.592762_-90.222231@1303262929"
+    },
+    "wof:country":"US",
+    "wof:created":1462604435,
+    "wof:geomhash":"5aa2cfc378ea4890b2ff2c0eae28b2da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080791,
+            "localadmin_id":404518053,
+            "locality_id":85971343,
+            "neighbourhood_id":85873687,
+            "region_id":85688661,
+            "venue_id":807165863
+        }
+    ],
+    "wof:id":807165863,
+    "wof:lastmodified":1462604435,
+    "wof:name":"Saxquest",
+    "wof:parent_id":85873687,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instrument",
+        "teacher",
+        "musical"
+    ]
+},
+  "bbox": [
+    -90.222231,
+    38.592762,
+    -90.222231,
+    38.592762
+],
+  "geometry": {"coordinates":[-90.22223099999999,38.592762],"type":"Point"}
+}

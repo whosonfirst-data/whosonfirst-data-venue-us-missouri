@@ -1,0 +1,71 @@
+{
+  "id": 806748107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.736354,39.832969,-91.736354,39.832969",
+    "geom:latitude":39.832969,
+    "geom:longitude":-91.736354,
+    "iso:country":"US",
+    "sg:address":"3025 Co Rd 193",
+    "sg:city":"Philadelphia",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 439 4870",
+    "sg:postcode":"63463",
+    "sg:province":"MO",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688697,
+        85633793,
+        85938427,
+        102086213,
+        85867477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1sjcWTN2gjwd1B2ekDimR2_39.832969_-91.736354@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462600748,
+    "wof:geomhash":"46f11653a67985fa7bb55b57deba95c7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086213,
+            "locality_id":85938427,
+            "neighbourhood_id":85867477,
+            "region_id":85688697,
+            "venue_id":806748107
+        }
+    ],
+    "wof:id":806748107,
+    "wof:lastmodified":1462600748,
+    "wof:name":"Jims Repair Shop",
+    "wof:parent_id":85867477,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -91.736354,
+    39.832969,
+    -91.736354,
+    39.832969
+],
+  "geometry": {"coordinates":[-91.73635400000001,39.832969],"type":"Point"}
+}

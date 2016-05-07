@@ -1,0 +1,71 @@
+{
+  "id": 773457389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.609843,36.8395,-94.609843,36.8395",
+    "geom:latitude":36.8395,
+    "geom:longitude":-94.609843,
+    "iso:country":"US",
+    "sg:address":"1016 Oneida St",
+    "sg:city":"Seneca",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 776 1956",
+    "sg:postcode":"64865",
+    "sg:province":"MO",
+    "sg:tags":[
+        "carwash"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971289,
+        102087471,
+        85814333
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4VCeJ5RRMKmxLhWmNMDAL3_36.839500_-94.609843@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462585894,
+    "wof:geomhash":"b5d61e33c104b1cb087b98948773276f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087471,
+            "locality_id":85971289,
+            "neighbourhood_id":85814333,
+            "region_id":85688661,
+            "venue_id":773457389
+        }
+    ],
+    "wof:id":773457389,
+    "wof:lastmodified":1462585894,
+    "wof:name":"Kevins Detail",
+    "wof:parent_id":85814333,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carwash"
+    ]
+},
+  "bbox": [
+    -94.609843,
+    36.8395,
+    -94.609843,
+    36.8395
+],
+  "geometry": {"coordinates":[-94.609843,36.8395],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 790034437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.610349,38.795742,-90.610349,38.795742",
+    "geom:latitude":38.795742,
+    "geom:longitude":-90.610349,
+    "iso:country":"US",
+    "sg:address":"4790 Executive Centre Pkwy",
+    "sg:city":"St Peters",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 939 4224",
+    "sg:postcode":"63376",
+    "sg:province":"MO",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_20JT7PGvpcX5JZyedRIoo2_38.795742_-90.610349@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462592603,
+    "wof:geomhash":"6cbaca5292840c5d71d57af8f7913caa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":790034437
+        }
+    ],
+    "wof:id":790034437,
+    "wof:lastmodified":1462592603,
+    "wof:name":"Sheldon L Davis MD",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -90.610349,
+    38.795742,
+    -90.610349,
+    38.795742
+],
+  "geometry": {"coordinates":[-90.610349,38.795742],"type":"Point"}
+}

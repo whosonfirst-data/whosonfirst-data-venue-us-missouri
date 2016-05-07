@@ -1,0 +1,77 @@
+{
+  "id": 807169915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.303001,38.7271,-90.303001,38.7271",
+    "geom:latitude":38.7271,
+    "geom:longitude":-90.303001,
+    "iso:country":"US",
+    "sg:address":"1310 S Florissant Rd",
+    "sg:city":"Saint Louis",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Pet Boarding",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 524 2281",
+    "sg:postcode":"63121",
+    "sg:province":"MO",
+    "sg:tags":[
+        "boarding/pet",
+        "sitting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85859027,
+        102191575,
+        404517247,
+        85633793,
+        85972205,
+        102086173,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1RlP3Y96zUOknLI8cOBsxD_38.727100_-90.303001@1303262929"
+    },
+    "wof:country":"US",
+    "wof:created":1462604484,
+    "wof:geomhash":"346888b1498c33f55b66bc6b502c3a9d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086173,
+            "localadmin_id":404517247,
+            "locality_id":85972205,
+            "neighbourhood_id":85859027,
+            "region_id":85688661,
+            "venue_id":807169915
+        }
+    ],
+    "wof:id":807169915,
+    "wof:lastmodified":1462604484,
+    "wof:name":"Diane's Grooming Salon",
+    "wof:parent_id":85859027,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "boarding/pet",
+        "sitting"
+    ]
+},
+  "bbox": [
+    -90.303001,
+    38.7271,
+    -90.303001,
+    38.7271
+],
+  "geometry": {"coordinates":[-90.30300099999999,38.7271],"type":"Point"}
+}

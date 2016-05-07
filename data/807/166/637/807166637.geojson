@@ -1,0 +1,83 @@
+{
+  "id": 807166637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.2202,38.592499,-90.2202,38.592499",
+    "geom:latitude":38.592499,
+    "geom:longitude":-90.2202,
+    "iso:country":"US",
+    "sg:address":"1939 Cherokee St",
+    "sg:city":"Saint Louis",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Music",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Books",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 776 4737",
+    "sg:postcode":"63118",
+    "sg:province":"MO",
+    "sg:tags":[
+        "bookstore",
+        "dvd's"
+    ],
+    "sg:website":"www.hammondsbooks.net/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873687,
+        102191575,
+        404518053,
+        85633793,
+        85971343,
+        102080791,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1QFZeQKknie42jCnsy2qJk_38.592499_-90.220200@1303262929"
+    },
+    "wof:country":"US",
+    "wof:created":1462604444,
+    "wof:geomhash":"2ca352ca5e0b7bf8674a7dd8b2bcf577",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080791,
+            "localadmin_id":404518053,
+            "locality_id":85971343,
+            "neighbourhood_id":85873687,
+            "region_id":85688661,
+            "venue_id":807166637
+        }
+    ],
+    "wof:id":807166637,
+    "wof:lastmodified":1462604444,
+    "wof:name":"Hammond's Books & Music",
+    "wof:parent_id":85873687,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bookstore",
+        "dvd's"
+    ]
+},
+  "bbox": [
+    -90.2202,
+    38.592499,
+    -90.2202,
+    38.592499
+],
+  "geometry": {"coordinates":[-90.22020000000001,38.592499],"type":"Point"}
+}

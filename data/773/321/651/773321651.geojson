@@ -1,0 +1,74 @@
+{
+  "id": 773321651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.700146,38.804134,-90.700146,38.804134",
+    "geom:latitude":38.804134,
+    "geom:longitude":-90.700146,
+    "iso:country":"US",
+    "sg:address":"507 S Main St",
+    "sg:city":"O Fallon",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 240 8886",
+    "sg:postcode":"63366",
+    "sg:province":"MO",
+    "sg:tags":[
+        "renting",
+        "automobile"
+    ],
+    "sg:website":"www.enterprise.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6WBJXMbW5NFvej9o0mY9Tr_38.804134_-90.700146@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462584854,
+    "wof:geomhash":"0ac294a892fd0219f5c255a3173634c2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":773321651
+        }
+    ],
+    "wof:id":773321651,
+    "wof:lastmodified":1462584854,
+    "wof:name":"Enterprise Rent-A-Car",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -90.700146,
+    38.804134,
+    -90.700146,
+    38.804134
+],
+  "geometry": {"coordinates":[-90.700146,38.804134],"type":"Point"}
+}

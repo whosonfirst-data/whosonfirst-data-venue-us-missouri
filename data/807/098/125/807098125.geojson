@@ -1,0 +1,72 @@
+{
+  "id": 807098125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.4921,38.772426,-90.4921,38.772426",
+    "geom:latitude":38.772426,
+    "geom:longitude":-90.4921,
+    "iso:country":"US",
+    "sg:address":"1200 S 5th St",
+    "sg:city":"Saint Charles",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/lindenwood/141706-waffle-house/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 916 1662",
+    "sg:postcode":"63301",
+    "sg:province":"MO",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_14JTRTDFPZA9zw7fg1EdWS_38.772248_-90.492232@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462603700,
+    "wof:geomhash":"84ea7076e52c0d2aa67551093b39231f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":807098125
+        }
+    ],
+    "wof:id":807098125,
+    "wof:lastmodified":1462603700,
+    "wof:name":"Waffle House",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -90.4921,
+    38.772426,
+    -90.4921,
+    38.772426
+],
+  "geometry": {"coordinates":[-90.49209999999999,38.772426],"type":"Point"}
+}

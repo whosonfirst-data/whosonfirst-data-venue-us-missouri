@@ -1,0 +1,73 @@
+{
+  "id": 789673225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.599074,37.078427,-94.599074,37.078427",
+    "geom:latitude":37.078427,
+    "geom:longitude":-94.599074,
+    "iso:country":"US",
+    "sg:address":"6371 W Junge Blvd",
+    "sg:city":"Joplin",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 782 4550",
+    "sg:postcode":"64804",
+    "sg:province":"MO",
+    "sg:tags":[
+        "drinking",
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945139,
+        102082169,
+        85818073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2EPmReZMiFCOk7HD15DNEh_37.078427_-94.599074@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462589650,
+    "wof:geomhash":"6f0045072de05a815e9ae725e8d93277",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082169,
+            "locality_id":85945139,
+            "neighbourhood_id":85818073,
+            "region_id":85688555,
+            "venue_id":789673225
+        }
+    ],
+    "wof:id":789673225,
+    "wof:lastmodified":1462589650,
+    "wof:name":"Crabbys Bar and Grill",
+    "wof:parent_id":85818073,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drinking",
+        "eating"
+    ]
+},
+  "bbox": [
+    -94.599074,
+    37.078427,
+    -94.599074,
+    37.078427
+],
+  "geometry": {"coordinates":[-94.599074,37.078427],"type":"Point"}
+}

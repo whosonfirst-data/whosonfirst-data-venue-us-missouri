@@ -1,0 +1,73 @@
+{
+  "id": 773205625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.168,38.566495,-92.168,38.566495",
+    "geom:latitude":38.566495,
+    "geom:longitude":-92.168,
+    "iso:country":"US",
+    "sg:address":"605 Cherry St",
+    "sg:city":"Jefferson City",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 636 3577",
+    "sg:postcode":"65101",
+    "sg:province":"MO",
+    "sg:tags":[
+        "organization",
+        "welfare"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970647,
+        102087511,
+        85837745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_43s7xbLZAwcnp74duGRShp_38.566495_-92.168000@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462583969,
+    "wof:geomhash":"b19476ea6741f01d7bdf0d02b963ba38",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087511,
+            "locality_id":85970647,
+            "neighbourhood_id":85837745,
+            "region_id":85688661,
+            "venue_id":773205625
+        }
+    ],
+    "wof:id":773205625,
+    "wof:lastmodified":1462583969,
+    "wof:name":"Head Start",
+    "wof:parent_id":85837745,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organization",
+        "welfare"
+    ]
+},
+  "bbox": [
+    -92.168,
+    38.566495,
+    -92.168,
+    38.566495
+],
+  "geometry": {"coordinates":[-92.16800000000001,38.566495],"type":"Point"}
+}

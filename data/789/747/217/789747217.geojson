@@ -1,0 +1,69 @@
+{
+  "id": 789747217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.377443,38.415178,-90.377443,38.415178",
+    "geom:latitude":38.415178,
+    "geom:longitude":-90.377443,
+    "iso:country":"US",
+    "sg:address":"3488 Jeffco Blvd",
+    "sg:city":"Arnold",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 464 9997",
+    "sg:postcode":"63010",
+    "sg:province":"MO",
+    "sg:tags":[
+        "paint"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85805175,
+        102080787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Q7Gw0LqJ1T7sf4wV67rec_38.415178_-90.377443@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462590233,
+    "wof:geomhash":"65609de69f1ddfbeb4f9a06436378a2a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080787,
+            "neighbourhood_id":85805175,
+            "region_id":85688661,
+            "venue_id":789747217
+        }
+    ],
+    "wof:id":789747217,
+    "wof:lastmodified":1462590233,
+    "wof:name":"PPG Porter Paints",
+    "wof:parent_id":85805175,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "paint"
+    ]
+},
+  "bbox": [
+    -90.377443,
+    38.415178,
+    -90.377443,
+    38.415178
+],
+  "geometry": {"coordinates":[-90.377443,38.415178],"type":"Point"}
+}

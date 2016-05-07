@@ -1,0 +1,77 @@
+{
+  "id": 807068983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.280633,38.767865,-90.280633,38.767865",
+    "geom:latitude":38.767865,
+    "geom:longitude":-90.280633,
+    "iso:country":"US",
+    "sg:address":"10873 W Florissant Ave",
+    "sg:city":"Saint Louis",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/ferguson/194143-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"63136",
+    "sg:province":"MO",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85813019,
+        102191575,
+        404517467,
+        85633793,
+        85972639,
+        102086173,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2QjDg6yGc71m8ffPxwzcGh_38.767865_-90.280633@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462603438,
+    "wof:geomhash":"85a9550acbe5c47d14252428613c665c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086173,
+            "localadmin_id":404517467,
+            "locality_id":85972639,
+            "neighbourhood_id":85813019,
+            "region_id":85688661,
+            "venue_id":807068983
+        }
+    ],
+    "wof:id":807068983,
+    "wof:lastmodified":1462603438,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85813019,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -90.280633,
+    38.767865,
+    -90.280633,
+    38.767865
+],
+  "geometry": {"coordinates":[-90.28063299999999,38.767865],"type":"Point"}
+}

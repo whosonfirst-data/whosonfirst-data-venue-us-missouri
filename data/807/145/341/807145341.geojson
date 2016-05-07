@@ -1,0 +1,75 @@
+{
+  "id": 807145341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.253836,38.641783,-90.253836,38.641783",
+    "geom:latitude":38.641783,
+    "geom:longitude":-90.253836,
+    "iso:country":"US",
+    "sg:address":"4389 Lindell Blvd",
+    "sg:city":"Saint Louis",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        },
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 533 8513",
+    "sg:postcode":"63108",
+    "sg:province":"MO",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85867031,
+        102191575,
+        404518053,
+        85633793,
+        85971343,
+        102080791,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Tf8hYftYcsOVFSJIrvck4_38.641783_-90.253836@1303262928"
+    },
+    "wof:country":"US",
+    "wof:created":1462604217,
+    "wof:geomhash":"4e418c33370cd1334b3dcbd89ece5ed3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080791,
+            "localadmin_id":404518053,
+            "locality_id":85971343,
+            "neighbourhood_id":85867031,
+            "region_id":85688661,
+            "venue_id":807145341
+        }
+    ],
+    "wof:id":807145341,
+    "wof:lastmodified":1462604217,
+    "wof:name":"Schools",
+    "wof:parent_id":85867031,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.253836,
+    38.641783,
+    -90.253836,
+    38.641783
+],
+  "geometry": {"coordinates":[-90.25383600000001,38.641783],"type":"Point"}
+}

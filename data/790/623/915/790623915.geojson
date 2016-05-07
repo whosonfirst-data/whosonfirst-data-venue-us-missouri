@@ -1,0 +1,72 @@
+{
+  "id": 790623915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.477098,38.792181,-90.477098,38.792181",
+    "geom:latitude":38.792181,
+    "geom:longitude":-90.477098,
+    "iso:country":"US",
+    "sg:address":"1325 N 2nd St",
+    "sg:city":"St Charles",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Books",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 940 1244",
+    "sg:postcode":"63301",
+    "sg:province":"MO",
+    "sg:tags":[
+        "comic"
+    ],
+    "sg:website":"www.comicbookrelief.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3fDxGACLB74Y3zYdnj8G9B_38.792181_-90.477098@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462597453,
+    "wof:geomhash":"0cba1ff19a2df38cc3b1af38e4366989",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":790623915
+        }
+    ],
+    "wof:id":790623915,
+    "wof:lastmodified":1462597453,
+    "wof:name":"Comic Relief",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "comic"
+    ]
+},
+  "bbox": [
+    -90.477098,
+    38.792181,
+    -90.477098,
+    38.792181
+],
+  "geometry": {"coordinates":[-90.477098,38.792181],"type":"Point"}
+}

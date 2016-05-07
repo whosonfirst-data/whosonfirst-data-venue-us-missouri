@@ -1,0 +1,71 @@
+{
+  "id": 773320997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.233479,37.206745,-93.233479,37.206745",
+    "geom:latitude":37.206745,
+    "geom:longitude":-93.233479,
+    "iso:country":"US",
+    "sg:address":"311 S Union Ave",
+    "sg:city":"Springfield",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Books",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 864 7171",
+    "sg:postcode":"65802",
+    "sg:province":"MO",
+    "sg:tags":[
+        "comic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971363,
+        102087523,
+        85881137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0yqjAeH0aDPO8dlqvws2vz_37.206745_-93.233479@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462584850,
+    "wof:geomhash":"f2e500008cbe72fc8bcaf354540ad13c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087523,
+            "locality_id":85971363,
+            "neighbourhood_id":85881137,
+            "region_id":85688661,
+            "venue_id":773320997
+        }
+    ],
+    "wof:id":773320997,
+    "wof:lastmodified":1462584850,
+    "wof:name":"Another Comic Shop",
+    "wof:parent_id":85881137,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "comic"
+    ]
+},
+  "bbox": [
+    -93.233479,
+    37.206745,
+    -93.233479,
+    37.206745
+],
+  "geometry": {"coordinates":[-93.233479,37.206745],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 773102069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.634256,38.798058,-90.634256,38.798058",
+    "geom:latitude":38.798058,
+    "geom:longitude":-90.634256,
+    "iso:country":"US",
+    "sg:address":"5 Clara Ave",
+    "sg:city":"St Peters",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 272 2067",
+    "sg:postcode":"63376",
+    "sg:province":"MO",
+    "sg:tags":[
+        "painter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_35hlxvZRlF2fqH6Fx3NFkM_38.798058_-90.634256@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462583169,
+    "wof:geomhash":"4e9741b2adb7fcc6ea46a81d42391e06",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":773102069
+        }
+    ],
+    "wof:id":773102069,
+    "wof:lastmodified":1462583169,
+    "wof:name":"Fischer Painting",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "painter"
+    ]
+},
+  "bbox": [
+    -90.634256,
+    38.798058,
+    -90.634256,
+    38.798058
+],
+  "geometry": {"coordinates":[-90.63425599999999,38.798058],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 807047693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.196473,38.632792,-90.196473,38.632792",
+    "geom:latitude":38.632792,
+    "geom:longitude":-90.196473,
+    "iso:country":"US",
+    "sg:address":"721 N Tucker Blvd",
+    "sg:city":"Saint Louis",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 621 2592",
+    "sg:postcode":"63101",
+    "sg:province":"MO",
+    "sg:tags":[
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873643,
+        102191575,
+        404518053,
+        85633793,
+        85971343,
+        102080791,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6jBt2QTB5V1icT8i2hk9XZ_38.633213_-90.196244@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1462603270,
+    "wof:geomhash":"9ed1a3e179e880a84c9fd8667324e80d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080791,
+            "localadmin_id":404518053,
+            "locality_id":85971343,
+            "neighbourhood_id":85873643,
+            "region_id":85688661,
+            "venue_id":807047693
+        }
+    ],
+    "wof:id":807047693,
+    "wof:lastmodified":1462603270,
+    "wof:name":"Tucker Shell",
+    "wof:parent_id":85873643,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -90.196473,
+    38.632792,
+    -90.196473,
+    38.632792
+],
+  "geometry": {"coordinates":[-90.196473,38.632792],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 790151515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.375159,37.212395,-93.375159,37.212395",
+    "geom:latitude":37.212395,
+    "geom:longitude":-93.375159,
+    "iso:country":"US",
+    "sg:address":"4620 W Chestnut Expy",
+    "sg:city":"Springfield",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 831 5800",
+    "sg:postcode":"65802",
+    "sg:province":"MO",
+    "sg:tags":[
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971363,
+        102087523,
+        85836941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1oLkypVscJOCkUxPSDx5H5_37.212395_-93.375159@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462593516,
+    "wof:geomhash":"265b6c5bd7084a6ae880e7e7e88f4377",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087523,
+            "locality_id":85971363,
+            "neighbourhood_id":85836941,
+            "region_id":85688661,
+            "venue_id":790151515
+        }
+    ],
+    "wof:id":790151515,
+    "wof:lastmodified":1462593516,
+    "wof:name":"Landstar Ligon Inc",
+    "wof:parent_id":85836941,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -93.375159,
+    37.212395,
+    -93.375159,
+    37.212395
+],
+  "geometry": {"coordinates":[-93.375159,37.212395],"type":"Point"}
+}

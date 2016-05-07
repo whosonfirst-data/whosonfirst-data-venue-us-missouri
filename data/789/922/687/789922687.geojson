@@ -1,0 +1,71 @@
+{
+  "id": 789922687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.763383,38.837268,-90.763383,38.837268",
+    "geom:latitude":38.837268,
+    "geom:longitude":-90.763383,
+    "iso:country":"US",
+    "sg:address":"1528 Mammoth Dr",
+    "sg:city":"O Fallon",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 429 1323",
+    "sg:postcode":"63366",
+    "sg:province":"MO",
+    "sg:tags":[
+        "painter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_72nK6i38jj8y1lTShUx7VR_38.837268_-90.763383@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462591647,
+    "wof:geomhash":"2f20dd0635c15dc51529b942d1f3ba22",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":789922687
+        }
+    ],
+    "wof:id":789922687,
+    "wof:lastmodified":1462591647,
+    "wof:name":"Loire Painting & Wallpapering",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "painter"
+    ]
+},
+  "bbox": [
+    -90.763383,
+    38.837268,
+    -90.763383,
+    38.837268
+],
+  "geometry": {"coordinates":[-90.763383,38.837268],"type":"Point"}
+}

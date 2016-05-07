@@ -1,0 +1,79 @@
+{
+  "id": 806357757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.394318,38.342298,-90.394318,38.342298",
+    "geom:latitude":38.342298,
+    "geom:longitude":-90.394318,
+    "iso:country":"US",
+    "sg:address":"7001 Muffler Dr",
+    "sg:city":"Barnhart",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 464 5123",
+    "sg:postcode":"63012",
+    "sg:province":"MO",
+    "sg:tags":[
+        "repair",
+        "gas",
+        "component",
+        "part",
+        "turbine",
+        "steam"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85805175,
+        102080787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Ci1shfTqN4aiaoGNwMvZs_38.342298_-90.394318@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462597491,
+    "wof:geomhash":"948692155339e54ac65737fc8f8031f1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080787,
+            "neighbourhood_id":85805175,
+            "region_id":85688661,
+            "venue_id":806357757
+        }
+    ],
+    "wof:id":806357757,
+    "wof:lastmodified":1462597491,
+    "wof:name":"MVP Turbine Repair Inc",
+    "wof:parent_id":85805175,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair",
+        "gas",
+        "component",
+        "part",
+        "turbine",
+        "steam"
+    ]
+},
+  "bbox": [
+    -90.394318,
+    38.342298,
+    -90.394318,
+    38.342298
+],
+  "geometry": {"coordinates":[-90.394318,38.342298],"type":"Point"}
+}

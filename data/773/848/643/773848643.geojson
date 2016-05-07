@@ -1,0 +1,73 @@
+{
+  "id": 773848643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.165687,38.572033,-92.165687,38.572033",
+    "geom:latitude":38.572033,
+    "geom:longitude":-92.165687,
+    "iso:country":"US",
+    "sg:address":"630 E High St",
+    "sg:city":"Jefferson City",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 636 3733",
+    "sg:postcode":"65101",
+    "sg:province":"MO",
+    "sg:tags":[
+        "drug",
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970647,
+        102087511,
+        85837745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7JM4XydiyUK4BL8ZtzN7j6_38.572033_-92.165687@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462588884,
+    "wof:geomhash":"06da9b80724501687c8c69c9f2bb0d13",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087511,
+            "locality_id":85970647,
+            "neighbourhood_id":85837745,
+            "region_id":85688661,
+            "venue_id":773848643
+        }
+    ],
+    "wof:id":773848643,
+    "wof:lastmodified":1462588884,
+    "wof:name":"Whaleys East End Drug",
+    "wof:parent_id":85837745,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drug",
+        "store"
+    ]
+},
+  "bbox": [
+    -92.165687,
+    38.572033,
+    -92.165687,
+    38.572033
+],
+  "geometry": {"coordinates":[-92.16568700000001,38.572033],"type":"Point"}
+}

@@ -1,0 +1,91 @@
+{
+  "id": 807078935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.420329,39.246248,-94.420329,39.246248",
+    "geom:latitude":39.246248,
+    "geom:longitude":-94.420329,
+    "iso:country":"US",
+    "sg:address":"18 N Main St",
+    "sg:city":"Liberty",
+    "sg:classifiers":[
+        {
+            "category":"Cafe",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/liberty/42926-cajun-tonys-cafe/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 222 4134",
+    "sg:postcode":"64068",
+    "sg:province":"MO",
+    "sg:tags":[
+        "american",
+        "creole",
+        "cajun"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420525305,
+        102191575,
+        404516717,
+        85633793,
+        85972461,
+        102086177,
+        85688661,
+        420525367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4JnYCHW0gd6AkgHgWDzxPB_39.246248_-94.420329@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462603524,
+    "wof:geomhash":"3d805679b0be5375e8ae46d14587d024",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086177,
+            "localadmin_id":404516717,
+            "locality_id":85972461,
+            "neighbourhood_id":420525305,
+            "region_id":85688661,
+            "venue_id":807078935
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086177,
+            "localadmin_id":404516717,
+            "locality_id":85972461,
+            "neighbourhood_id":420525367,
+            "region_id":85688661,
+            "venue_id":807078935
+        }
+    ],
+    "wof:id":807078935,
+    "wof:lastmodified":1462603524,
+    "wof:name":"Cajun Tony's Cafe",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "creole",
+        "cajun"
+    ]
+},
+  "bbox": [
+    -94.420329,
+    39.246248,
+    -94.420329,
+    39.246248
+],
+  "geometry": {"coordinates":[-94.420329,39.246248],"type":"Point"}
+}

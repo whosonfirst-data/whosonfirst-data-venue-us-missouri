@@ -1,0 +1,71 @@
+{
+  "id": 789587507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.575483,39.280299,-94.575483,39.280299",
+    "geom:latitude":39.280299,
+    "geom:longitude":-94.575483,
+    "iso:country":"US",
+    "sg:address":"10241 N Oak Trfy",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 734 1293",
+    "sg:postcode":"64155",
+    "sg:province":"MO",
+    "sg:tags":[
+        "cleaners"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970739,
+        102086177,
+        85836329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5wC5vR6SLt7oN4ifcPtzpp_39.280299_-94.575483@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462588966,
+    "wof:geomhash":"2ab8c13221f3bf747dac8703c403c7d6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086177,
+            "locality_id":85970739,
+            "neighbourhood_id":85836329,
+            "region_id":85688661,
+            "venue_id":789587507
+        }
+    ],
+    "wof:id":789587507,
+    "wof:lastmodified":1462588966,
+    "wof:name":"Plaza Ford Ideal Laundry",
+    "wof:parent_id":85836329,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners"
+    ]
+},
+  "bbox": [
+    -94.575483,
+    39.280299,
+    -94.575483,
+    39.280299
+],
+  "geometry": {"coordinates":[-94.57548300000001,39.280299],"type":"Point"}
+}

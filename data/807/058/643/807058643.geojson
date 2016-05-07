@@ -1,0 +1,72 @@
+{
+  "id": 807058643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.38196,38.40941,-90.38196,38.40941",
+    "geom:latitude":38.40941,
+    "geom:longitude":-90.38196,
+    "iso:country":"US",
+    "sg:address":"3601 Jeffco Blvd",
+    "sg:city":"Arnold",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/arnold/214663-ponderosa-steak-house/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 464 5605",
+    "sg:postcode":"63010",
+    "sg:province":"MO",
+    "sg:tags":[
+        "american",
+        "steakhouse"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85805175,
+        102080787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Qqdfq6GcG4D1bfCX6Blhu_38.409410_-90.381960@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462603360,
+    "wof:geomhash":"f2c8cfacd7211ec574d3dcc0e89a8fdd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080787,
+            "neighbourhood_id":85805175,
+            "region_id":85688661,
+            "venue_id":807058643
+        }
+    ],
+    "wof:id":807058643,
+    "wof:lastmodified":1462603360,
+    "wof:name":"Ponderosa Steak House",
+    "wof:parent_id":85805175,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "steakhouse"
+    ]
+},
+  "bbox": [
+    -90.38196,
+    38.40941,
+    -90.38196,
+    38.40941
+],
+  "geometry": {"coordinates":[-90.38196000000001,38.40941],"type":"Point"}
+}

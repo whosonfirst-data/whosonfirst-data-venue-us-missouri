@@ -1,0 +1,71 @@
+{
+  "id": 773846417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.436967,37.79309,-90.436967,37.79309",
+    "geom:latitude":37.79309,
+    "geom:longitude":-90.436967,
+    "iso:country":"US",
+    "sg:address":"787 Maple Valley Dr",
+    "sg:city":"Farmington",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 000 1111",
+    "sg:postcode":"63640",
+    "sg:province":"MO",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970665,
+        102085297,
+        85816309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1y4Lw6NSGvfZl5NqHYlLnc_37.793090_-90.436967@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462588870,
+    "wof:geomhash":"582b06bbb9d05bc19f35ce39bcff8065",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085297,
+            "locality_id":85970665,
+            "neighbourhood_id":85816309,
+            "region_id":85688661,
+            "venue_id":773846417
+        }
+    ],
+    "wof:id":773846417,
+    "wof:lastmodified":1462588870,
+    "wof:name":"Aldi",
+    "wof:parent_id":85816309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -90.436967,
+    37.79309,
+    -90.436967,
+    37.79309
+],
+  "geometry": {"coordinates":[-90.436967,37.79309],"type":"Point"}
+}

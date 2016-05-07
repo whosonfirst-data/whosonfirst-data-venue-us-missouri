@@ -1,0 +1,71 @@
+{
+  "id": 773406455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.505765,38.782781,-90.505765,38.782781",
+    "geom:latitude":38.782781,
+    "geom:longitude":-90.505765,
+    "iso:country":"US",
+    "sg:address":"2319 W Clay St",
+    "sg:city":"Saint Charles",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 723 0322",
+    "sg:postcode":"63301",
+    "sg:province":"MO",
+    "sg:tags":[
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0XIXZHfRWthfGDHuKrWcGc_38.782781_-90.505765@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462585447,
+    "wof:geomhash":"445bc54eae21f2bc8854a93b797a233c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":773406455
+        }
+    ],
+    "wof:id":773406455,
+    "wof:lastmodified":1462585447,
+    "wof:name":"Pizza Hut",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pizza"
+    ]
+},
+  "bbox": [
+    -90.505765,
+    38.782781,
+    -90.505765,
+    38.782781
+],
+  "geometry": {"coordinates":[-90.505765,38.782781],"type":"Point"}
+}

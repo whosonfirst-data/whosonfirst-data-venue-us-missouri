@@ -1,0 +1,85 @@
+{
+  "id": 807173489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.275033,38.724592,-90.275033,38.724592",
+    "geom:latitude":38.724592,
+    "geom:longitude":-90.275033,
+    "iso:country":"US",
+    "sg:address":"5790 Lucas and Hunt Rd",
+    "sg:city":"Country Club Hills",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Portrait Studio",
+            "type":"Services"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 382 5114",
+    "sg:postcode":"63135",
+    "sg:province":"MO",
+    "sg:tags":[
+        "photography",
+        "drugstore",
+        "store"
+    ],
+    "sg:website":"www.walgreens.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85859027,
+        102191575,
+        404517247,
+        85633793,
+        85972205,
+        102086173,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ZHKsWLomE4tqQnXem9Skc_38.724592_-90.275033@1303262930"
+    },
+    "wof:country":"US",
+    "wof:created":1462604522,
+    "wof:geomhash":"c934115da92a198b3af693edc6d61969",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086173,
+            "localadmin_id":404517247,
+            "locality_id":85972205,
+            "neighbourhood_id":85859027,
+            "region_id":85688661,
+            "venue_id":807173489
+        }
+    ],
+    "wof:id":807173489,
+    "wof:lastmodified":1462604522,
+    "wof:name":"Walgreens",
+    "wof:parent_id":85859027,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "photography",
+        "drugstore",
+        "store"
+    ]
+},
+  "bbox": [
+    -90.275033,
+    38.724592,
+    -90.275033,
+    38.724592
+],
+  "geometry": {"coordinates":[-90.27503299999999,38.724592],"type":"Point"}
+}

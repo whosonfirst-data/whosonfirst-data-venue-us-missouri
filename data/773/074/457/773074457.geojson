@@ -1,0 +1,71 @@
+{
+  "id": 773074457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.423048,37.779859,-90.423048,37.779859",
+    "geom:latitude":37.779859,
+    "geom:longitude":-90.423048,
+    "iso:country":"US",
+    "sg:address":"109 S Franklin St",
+    "sg:city":"Farmington",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 756 6415",
+    "sg:postcode":"63640",
+    "sg:province":"MO",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970665,
+        102085297,
+        85816309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ijgcvvShDanMq2Hr2WQqs_37.779859_-90.423048@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462582966,
+    "wof:geomhash":"920867a650c6da76176c7da849965326",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085297,
+            "locality_id":85970665,
+            "neighbourhood_id":85816309,
+            "region_id":85688661,
+            "venue_id":773074457
+        }
+    ],
+    "wof:id":773074457,
+    "wof:lastmodified":1462582966,
+    "wof:name":"John P Jackson DDS",
+    "wof:parent_id":85816309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -90.423048,
+    37.779859,
+    -90.423048,
+    37.779859
+],
+  "geometry": {"coordinates":[-90.42304799999999,37.779859],"type":"Point"}
+}

@@ -1,0 +1,88 @@
+{
+  "id": 789886549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.677843,39.224674,-94.677843,39.224674",
+    "geom:latitude":39.224674,
+    "geom:longitude":-94.677843,
+    "iso:country":"US",
+    "sg:address":"7130 NW Mace Rd",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Glass & Minerals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 505 0435",
+    "sg:postcode":"64152",
+    "sg:province":"MO",
+    "sg:tags":[
+        "product",
+        "mfg",
+        "maintenance",
+        "clay",
+        "fireplace",
+        "chimney",
+        "structural"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970739,
+        102085271,
+        85852241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5n4wT3eXUfI8OqeTQ3BSP1_39.224674_-94.677843@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462591343,
+    "wof:geomhash":"14a4ea1eeeb569fbe6a2c64064eb08df",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085271,
+            "locality_id":85970739,
+            "neighbourhood_id":85852241,
+            "region_id":85688661,
+            "venue_id":789886549
+        }
+    ],
+    "wof:id":789886549,
+    "wof:lastmodified":1462591343,
+    "wof:name":"Sleep Easy Repair",
+    "wof:parent_id":85852241,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product",
+        "mfg",
+        "maintenance",
+        "clay",
+        "fireplace",
+        "chimney",
+        "structural"
+    ]
+},
+  "bbox": [
+    -94.677843,
+    39.224674,
+    -94.677843,
+    39.224674
+],
+  "geometry": {"coordinates":[-94.677843,39.224674],"type":"Point"}
+}

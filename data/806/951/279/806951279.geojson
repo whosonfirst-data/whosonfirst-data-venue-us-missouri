@@ -1,0 +1,74 @@
+{
+  "id": 806951279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.600692,37.071072,-94.600692,37.071072",
+    "geom:latitude":37.071072,
+    "geom:longitude":-94.600692,
+    "iso:country":"US",
+    "sg:address":"5729 W 20th St",
+    "sg:city":"Joplin",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 782 4527",
+    "sg:postcode":"64804",
+    "sg:province":"MO",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "sg:website":"www.west20thstorage.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688555,
+        85633793,
+        85945139,
+        102082169,
+        85818073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1L9fLrPkXQEGKdM65LKCbf_37.071072_-94.600692@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462602452,
+    "wof:geomhash":"42484910c983e9629b8d3a561207efeb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082169,
+            "locality_id":85945139,
+            "neighbourhood_id":85818073,
+            "region_id":85688555,
+            "venue_id":806951279
+        }
+    ],
+    "wof:id":806951279,
+    "wof:lastmodified":1462602452,
+    "wof:name":"West 20th Storage",
+    "wof:parent_id":85818073,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [
+    -94.600692,
+    37.071072,
+    -94.600692,
+    37.071072
+],
+  "geometry": {"coordinates":[-94.600692,37.071072],"type":"Point"}
+}

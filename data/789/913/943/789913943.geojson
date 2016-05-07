@@ -1,0 +1,71 @@
+{
+  "id": 789913943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.362027,39.372885,-94.362027,39.372885",
+    "geom:latitude":39.372885,
+    "geom:longitude":-94.362027,
+    "iso:country":"US",
+    "sg:address":"127 E Washington St",
+    "sg:city":"Kearney",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 903 9063",
+    "sg:postcode":"64060",
+    "sg:province":"MO",
+    "sg:tags":[
+        "repair"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971507,
+        102086177,
+        85812855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6xNTj42t0F5eytInyXQwMC_39.372885_-94.362027@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462591572,
+    "wof:geomhash":"19330378beed698213ceddf05662681f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086177,
+            "locality_id":85971507,
+            "neighbourhood_id":85812855,
+            "region_id":85688661,
+            "venue_id":789913943
+        }
+    ],
+    "wof:id":789913943,
+    "wof:lastmodified":1462591572,
+    "wof:name":"Blue Sky Technology",
+    "wof:parent_id":85812855,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair"
+    ]
+},
+  "bbox": [
+    -94.362027,
+    39.372885,
+    -94.362027,
+    39.372885
+],
+  "geometry": {"coordinates":[-94.362027,39.372885],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 790275535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.586085,36.990359,-94.586085,36.990359",
+    "geom:latitude":36.990359,
+    "geom:longitude":-94.586085,
+    "iso:country":"US",
+    "sg:address":"2794 N Loma Linda Dr",
+    "sg:city":"Joplin",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 782 4672",
+    "sg:postcode":"64804",
+    "sg:province":"MO",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971289,
+        102087471,
+        85814333
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0B8NLsBLZjqgGuqv81SRs1_36.990359_-94.586085@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462594556,
+    "wof:geomhash":"7511aebf65f6cf5bbe4250e283634d0b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087471,
+            "locality_id":85971289,
+            "neighbourhood_id":85814333,
+            "region_id":85688661,
+            "venue_id":790275535
+        }
+    ],
+    "wof:id":790275535,
+    "wof:lastmodified":1462594556,
+    "wof:name":"Peter Selove MD",
+    "wof:parent_id":85814333,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -94.586085,
+    36.990359,
+    -94.586085,
+    36.990359
+],
+  "geometry": {"coordinates":[-94.586085,36.990359],"type":"Point"}
+}

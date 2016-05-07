@@ -1,0 +1,71 @@
+{
+  "id": 773180555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.586465,39.373646,-94.586465,39.373646",
+    "geom:latitude":39.373646,
+    "geom:longitude":-94.586465,
+    "iso:country":"US",
+    "sg:address":"106 James St",
+    "sg:city":"Smithville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 590 9691",
+    "sg:postcode":"64089",
+    "sg:province":"MO",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970739,
+        102086177,
+        85836329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_68RJPtUw5sbV5TGFfBKsDY_39.373646_-94.586465@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462583747,
+    "wof:geomhash":"4629151d464fe59c1081030edb228a03",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086177,
+            "locality_id":85970739,
+            "neighbourhood_id":85836329,
+            "region_id":85688661,
+            "venue_id":773180555
+        }
+    ],
+    "wof:id":773180555,
+    "wof:lastmodified":1462583747,
+    "wof:name":"R & S Lawn Service Inc",
+    "wof:parent_id":85836329,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -94.586465,
+    39.373646,
+    -94.586465,
+    39.373646
+],
+  "geometry": {"coordinates":[-94.586465,39.373646],"type":"Point"}
+}

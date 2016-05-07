@@ -1,0 +1,71 @@
+{
+  "id": 790519767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.402147,38.473211,-90.402147,38.473211",
+    "geom:latitude":38.473211,
+    "geom:longitude":-90.402147,
+    "iso:country":"US",
+    "sg:address":"13718 Minnette Ct",
+    "sg:city":"St Louis",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 576 9034",
+    "sg:postcode":"63128",
+    "sg:province":"MO",
+    "sg:tags":[
+        "appraiser"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971021,
+        102080787,
+        85832925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_03cLVyZd6iaxUyiIvgLbgk_38.473211_-90.402147@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462596540,
+    "wof:geomhash":"1ef850b3a00b06953935fdc9bc60edec",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080787,
+            "locality_id":85971021,
+            "neighbourhood_id":85832925,
+            "region_id":85688661,
+            "venue_id":790519767
+        }
+    ],
+    "wof:id":790519767,
+    "wof:lastmodified":1462596540,
+    "wof:name":"Robert Van Almsick",
+    "wof:parent_id":85832925,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "appraiser"
+    ]
+},
+  "bbox": [
+    -90.402147,
+    38.473211,
+    -90.402147,
+    38.473211
+],
+  "geometry": {"coordinates":[-90.402147,38.473211],"type":"Point"}
+}

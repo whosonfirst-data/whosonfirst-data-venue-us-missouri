@@ -1,0 +1,71 @@
+{
+  "id": 789968065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.376682,38.369001,-90.376682,38.369001",
+    "geom:latitude":38.369001,
+    "geom:longitude":-90.376682,
+    "iso:country":"US",
+    "sg:address":"1019 W Main St",
+    "sg:city":"Imperial",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Water",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 467 6868",
+    "sg:postcode":"63052",
+    "sg:province":"MO",
+    "sg:tags":[
+        "system",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85805175,
+        102080787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ID4pEDShOyfZBLBCVosxD_38.369001_-90.376682@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462592067,
+    "wof:geomhash":"0f79dc14dd9e9d0f32c041e0150d8ba6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080787,
+            "neighbourhood_id":85805175,
+            "region_id":85688661,
+            "venue_id":789968065
+        }
+    ],
+    "wof:id":789968065,
+    "wof:lastmodified":1462592067,
+    "wof:name":"Public Water Supply District",
+    "wof:parent_id":85805175,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "system",
+        "supply"
+    ]
+},
+  "bbox": [
+    -90.376682,
+    38.369001,
+    -90.376682,
+    38.369001
+],
+  "geometry": {"coordinates":[-90.376682,38.369001],"type":"Point"}
+}

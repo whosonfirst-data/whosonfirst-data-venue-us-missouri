@@ -1,0 +1,71 @@
+{
+  "id": 790344247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.356269,39.712461,-91.356269,39.712461",
+    "geom:latitude":39.712461,
+    "geom:longitude":-91.356269,
+    "iso:country":"US",
+    "sg:address":"115 Hill St",
+    "sg:city":"Hannibal",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Glass & Minerals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 221 3900",
+    "sg:postcode":"63401",
+    "sg:province":"MO",
+    "sg:tags":[
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688697,
+        85633793,
+        85938427,
+        102086213,
+        85867477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3g18flza0pD42cMsmD2c9g_39.712461_-91.356269@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462595095,
+    "wof:geomhash":"71a309276ee5cbdfbc629cdf7cd08b53",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086213,
+            "locality_id":85938427,
+            "neighbourhood_id":85867477,
+            "region_id":85688697,
+            "venue_id":790344247
+        }
+    ],
+    "wof:id":790344247,
+    "wof:lastmodified":1462595095,
+    "wof:name":"Hamon Handcrafted Glass",
+    "wof:parent_id":85867477,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mfg"
+    ]
+},
+  "bbox": [
+    -91.356269,
+    39.712461,
+    -91.356269,
+    39.712461
+],
+  "geometry": {"coordinates":[-91.356269,39.712461],"type":"Point"}
+}

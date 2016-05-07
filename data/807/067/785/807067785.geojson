@@ -1,0 +1,80 @@
+{
+  "id": 807067785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.306307,38.466527,-90.306307,38.466527",
+    "geom:latitude":38.466527,
+    "geom:longitude":-90.306307,
+    "iso:country":"US",
+    "sg:address":"5661 Telegraph Rd",
+    "sg:city":"Saint Louis",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/oakville/83944-dominos-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 846 6600",
+    "sg:postcode":"63129",
+    "sg:province":"MO",
+    "sg:tags":[
+        "american",
+        "wing",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85885365,
+        102191575,
+        404517459,
+        85633793,
+        85972631,
+        102086173,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6vckBLuh7emLl5UPywFGfw_38.466527_-90.306307@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462603428,
+    "wof:geomhash":"fb896dbb48085ccb2180926c3e4c9881",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086173,
+            "localadmin_id":404517459,
+            "locality_id":85972631,
+            "neighbourhood_id":85885365,
+            "region_id":85688661,
+            "venue_id":807067785
+        }
+    ],
+    "wof:id":807067785,
+    "wof:lastmodified":1462603428,
+    "wof:name":"Domino's Pizza",
+    "wof:parent_id":85885365,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "wing",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -90.306307,
+    38.466527,
+    -90.306307,
+    38.466527
+],
+  "geometry": {"coordinates":[-90.306307,38.466527],"type":"Point"}
+}

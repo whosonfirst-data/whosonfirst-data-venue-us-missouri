@@ -1,0 +1,92 @@
+{
+  "id": 807099563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.58845,39.195761,-94.58845,39.195761",
+    "geom:latitude":39.195761,
+    "geom:longitude":-94.58845,
+    "iso:country":"US",
+    "sg:address":"612 NW Englewood Rd",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/gallatin/149025-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 452 4002",
+    "sg:postcode":"64118",
+    "sg:province":"MO",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420525303,
+        102191575,
+        404518075,
+        85633793,
+        85970739,
+        102081227,
+        85688661,
+        420525395,
+        404517563,
+        85970477,
+        102085271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5nxXuWpDKHITMzhoKAsZH3_39.195633_-94.588904@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462603716,
+    "wof:geomhash":"2a7cd174eb2ed6b137921fccf8a35da6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081227,
+            "localadmin_id":404518075,
+            "locality_id":85970739,
+            "neighbourhood_id":420525303,
+            "region_id":85688661,
+            "venue_id":807099563
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085271,
+            "localadmin_id":404517563,
+            "locality_id":85970477,
+            "neighbourhood_id":420525395,
+            "region_id":85688661,
+            "venue_id":807099563
+        }
+    ],
+    "wof:id":807099563,
+    "wof:lastmodified":1462603716,
+    "wof:name":"Subway",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -94.58845,
+    39.195761,
+    -94.58845,
+    39.195761
+],
+  "geometry": {"coordinates":[-94.58844999999999,39.195761],"type":"Point"}
+}

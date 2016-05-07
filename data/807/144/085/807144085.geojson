@@ -1,0 +1,83 @@
+{
+  "id": 807144085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.236112,38.64093,-90.236112,38.64093",
+    "geom:latitude":38.64093,
+    "geom:longitude":-90.236112,
+    "iso:country":"US",
+    "sg:address":"3830 Washington Blvd",
+    "sg:city":"St Louis",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 651 9995",
+    "sg:postcode":"63108",
+    "sg:province":"MO",
+    "sg:tags":[
+        "do-it-yourself",
+        "pizza"
+    ],
+    "sg:website":"www.dogtownpizza.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873637,
+        102191575,
+        404518053,
+        85633793,
+        85971343,
+        102080791,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6LMEjSJKLEyWGGVthgg6eC_38.640930_-90.236112@1303262928"
+    },
+    "wof:country":"US",
+    "wof:created":1462604204,
+    "wof:geomhash":"a38f0a16062baf768c0f76b1581f0de8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080791,
+            "localadmin_id":404518053,
+            "locality_id":85971343,
+            "neighbourhood_id":85873637,
+            "region_id":85688661,
+            "venue_id":807144085
+        }
+    ],
+    "wof:id":807144085,
+    "wof:lastmodified":1462604204,
+    "wof:name":"Dogtown Pizza",
+    "wof:parent_id":85873637,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "do-it-yourself",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -90.236112,
+    38.64093,
+    -90.236112,
+    38.64093
+],
+  "geometry": {"coordinates":[-90.23611200000001,38.64093],"type":"Point"}
+}

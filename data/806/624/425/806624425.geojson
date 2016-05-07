@@ -1,0 +1,71 @@
+{
+  "id": 806624425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.375275,38.420289,-90.375275,38.420289",
+    "geom:latitude":38.420289,
+    "geom:longitude":-90.375275,
+    "iso:country":"US",
+    "sg:address":"2101 Jeffco Blvd",
+    "sg:city":"Arnold",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 296 3204",
+    "sg:postcode":"63010",
+    "sg:province":"MO",
+    "sg:tags":[
+        "department",
+        "protection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85805175,
+        102080787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4nL7cTTtSkmUjJk2E9KYXh_38.420289_-90.375275@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462599689,
+    "wof:geomhash":"291ec373a336c74631f0bd8548ce4afe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080787,
+            "neighbourhood_id":85805175,
+            "region_id":85688661,
+            "venue_id":806624425
+        }
+    ],
+    "wof:id":806624425,
+    "wof:lastmodified":1462599689,
+    "wof:name":"Arnold Police Department",
+    "wof:parent_id":85805175,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department",
+        "protection"
+    ]
+},
+  "bbox": [
+    -90.375275,
+    38.420289,
+    -90.375275,
+    38.420289
+],
+  "geometry": {"coordinates":[-90.375275,38.420289],"type":"Point"}
+}

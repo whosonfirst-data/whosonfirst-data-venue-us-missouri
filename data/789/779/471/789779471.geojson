@@ -1,0 +1,77 @@
+{
+  "id": 789779471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.363288,38.452285,-90.363288,38.452285",
+    "geom:latitude":38.452285,
+    "geom:longitude":-90.363288,
+    "iso:country":"US",
+    "sg:address":"631 Jeffco Blvd",
+    "sg:city":"Arnold",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 296 4820",
+    "sg:postcode":"63010",
+    "sg:province":"MO",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85885365,
+        102191575,
+        404517459,
+        85633793,
+        85972631,
+        102086173,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_26GXAVuuzWs9uhLB2oWEKW_38.452285_-90.363288@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462590475,
+    "wof:geomhash":"357ba5c2ae7874e519bde848c20c98e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086173,
+            "localadmin_id":404517459,
+            "locality_id":85972631,
+            "neighbourhood_id":85885365,
+            "region_id":85688661,
+            "venue_id":789779471
+        }
+    ],
+    "wof:id":789779471,
+    "wof:lastmodified":1462590475,
+    "wof:name":"Russell's Auto Repair",
+    "wof:parent_id":85885365,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -90.363288,
+    38.452285,
+    -90.363288,
+    38.452285
+],
+  "geometry": {"coordinates":[-90.363288,38.452285],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 790460429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.390809,38.416331,-90.390809,38.416331",
+    "geom:latitude":38.416331,
+    "geom:longitude":-90.390809,
+    "iso:country":"US",
+    "sg:address":"3860 Vogel Rd",
+    "sg:city":"Arnold",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 287 1404",
+    "sg:postcode":"63010",
+    "sg:province":"MO",
+    "sg:tags":[
+        "video",
+        "tape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85805175,
+        102080787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6cbiktMKzM8Ml2fIt2tK21_38.416331_-90.390809@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462596016,
+    "wof:geomhash":"439ae1eb3f3c719dbaca7a922d979c34",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080787,
+            "neighbourhood_id":85805175,
+            "region_id":85688661,
+            "venue_id":790460429
+        }
+    ],
+    "wof:id":790460429,
+    "wof:lastmodified":1462596016,
+    "wof:name":"Blockbuster",
+    "wof:parent_id":85805175,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "video",
+        "tape"
+    ]
+},
+  "bbox": [
+    -90.390809,
+    38.416331,
+    -90.390809,
+    38.416331
+],
+  "geometry": {"coordinates":[-90.390809,38.416331],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 773184911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.503663,37.308337,-93.503663,37.308337",
+    "geom:latitude":37.308337,
+    "geom:longitude":-93.503663,
+    "iso:country":"US",
+    "sg:address":"10495 W Farm Rd 76",
+    "sg:city":"Willard",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 751 2483",
+    "sg:postcode":"65781",
+    "sg:province":"MO",
+    "sg:tags":[
+        "mover"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971363,
+        102087523,
+        85881139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_29sWJDbVaSfxZWyGYtycL8_37.308337_-93.503663@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462583799,
+    "wof:geomhash":"e85292db8d94b9b1efbfb909dd3575f9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087523,
+            "locality_id":85971363,
+            "neighbourhood_id":85881139,
+            "region_id":85688661,
+            "venue_id":773184911
+        }
+    ],
+    "wof:id":773184911,
+    "wof:lastmodified":1462583799,
+    "wof:name":"Van-Man Moving Svc",
+    "wof:parent_id":85881139,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mover"
+    ]
+},
+  "bbox": [
+    -93.503663,
+    37.308337,
+    -93.503663,
+    37.308337
+],
+  "geometry": {"coordinates":[-93.503663,37.308337],"type":"Point"}
+}

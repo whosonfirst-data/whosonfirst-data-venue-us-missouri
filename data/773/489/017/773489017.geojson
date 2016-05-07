@@ -1,0 +1,76 @@
+{
+  "id": 773489017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.512268,38.784164,-90.512268,38.784164",
+    "geom:latitude":38.784164,
+    "geom:longitude":-90.512268,
+    "iso:country":"US",
+    "sg:address":"2458 W Clay St",
+    "sg:city":"St Charles",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Discount & Variety Stores",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 723 5516",
+    "sg:postcode":"63301",
+    "sg:province":"MO",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2paoUscWOtoMCPvjaDyT82_38.784164_-90.512268@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462586132,
+    "wof:geomhash":"f808f2ad53825c12f41046284e423a2b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":773489017
+        }
+    ],
+    "wof:id":773489017,
+    "wof:lastmodified":1462586132,
+    "wof:name":"Family Dollar Stores",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -90.512268,
+    38.784164,
+    -90.512268,
+    38.784164
+],
+  "geometry": {"coordinates":[-90.51226800000001,38.784164],"type":"Point"}
+}

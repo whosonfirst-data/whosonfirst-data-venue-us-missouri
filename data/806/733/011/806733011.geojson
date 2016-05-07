@@ -1,0 +1,71 @@
+{
+  "id": 806733011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.575097,38.791206,-90.575097,38.791206",
+    "geom:latitude":38.791206,
+    "geom:longitude":-90.575097,
+    "iso:country":"US",
+    "sg:address":"4105 Mexico Rd",
+    "sg:city":"Saint Peters",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 447 7766",
+    "sg:postcode":"63376",
+    "sg:province":"MO",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ndqQmrf9TCZaiaCZWHY1w_38.791206_-90.575097@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462600609,
+    "wof:geomhash":"ed3ad8c5ec3d6d0fa0e8296ecb2d8f07",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":806733011
+        }
+    ],
+    "wof:id":806733011,
+    "wof:lastmodified":1462600609,
+    "wof:name":"Los Compaderes Mexican",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -90.575097,
+    38.791206,
+    -90.575097,
+    38.791206
+],
+  "geometry": {"coordinates":[-90.575097,38.791206],"type":"Point"}
+}

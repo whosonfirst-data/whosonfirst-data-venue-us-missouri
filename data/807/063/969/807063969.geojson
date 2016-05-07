@@ -1,0 +1,80 @@
+{
+  "id": 807063969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.385101,38.729791,-90.385101,38.729791",
+    "geom:latitude":38.729791,
+    "geom:longitude":-90.385101,
+    "iso:country":"US",
+    "sg:address":"10466 Saint Charles Rock Rd",
+    "sg:city":"Saint Ann",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/airport/90117-penn-station/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 426 7366",
+    "sg:postcode":"63074",
+    "sg:province":"MO",
+    "sg:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85832777,
+        102191575,
+        404517201,
+        85633793,
+        85972211,
+        102086173,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2PVwbf9YXfQv1kmXco3Aki_38.729791_-90.385101@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462603400,
+    "wof:geomhash":"ad65b33a51b111ec7b3e42d287b9c01f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086173,
+            "localadmin_id":404517201,
+            "locality_id":85972211,
+            "neighbourhood_id":85832777,
+            "region_id":85688661,
+            "venue_id":807063969
+        }
+    ],
+    "wof:id":807063969,
+    "wof:lastmodified":1462603400,
+    "wof:name":"Penn Station",
+    "wof:parent_id":85832777,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -90.385101,
+    38.729791,
+    -90.385101,
+    38.729791
+],
+  "geometry": {"coordinates":[-90.38510100000001,38.729791],"type":"Point"}
+}

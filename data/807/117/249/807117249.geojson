@@ -1,0 +1,75 @@
+{
+  "id": 807117249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.40072,38.210044,-90.40072,38.210044",
+    "geom:latitude":38.210044,
+    "geom:longitude":-90.40072,
+    "iso:country":"US",
+    "sg:address":"1181 E Gannon Dr",
+    "sg:city":"Festus",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Florist",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 937 3339",
+    "sg:postcode":"63028",
+    "sg:province":"MO",
+    "sg:website":"http://www.schnucks.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85848677,
+        102080787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4n9eaUrE1Vi4kg0QetFUS5_38.210044_-90.400720@1303262925"
+    },
+    "wof:country":"US",
+    "wof:created":1462603910,
+    "wof:geomhash":"47d526885266ba8c75ce549934dd576b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080787,
+            "neighbourhood_id":85848677,
+            "region_id":85688661,
+            "venue_id":807117249
+        }
+    ],
+    "wof:id":807117249,
+    "wof:lastmodified":1462603910,
+    "wof:name":"Schnucks Festus",
+    "wof:parent_id":85848677,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.40072,
+    38.210044,
+    -90.40072,
+    38.210044
+],
+  "geometry": {"coordinates":[-90.40072000000001,38.210044],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 789815103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.440075,38.693435,-90.440075,38.693435",
+    "geom:latitude":38.693435,
+    "geom:longitude":-90.440075,
+    "iso:country":"US",
+    "sg:address":"1845 Borman Ct",
+    "sg:city":"Saint Louis",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 340 3799",
+    "sg:postcode":"63146",
+    "sg:province":"MO",
+    "sg:tags":[
+        "audit",
+        "field",
+        "bureau"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85803699,
+        102191575,
+        404517323,
+        85633793,
+        85972315,
+        102086173,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3pZqKxvkMTnRWd7ZA6NqK1_38.693435_-90.440075@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462590752,
+    "wof:geomhash":"952b103fac0138c5aaaed1c92fbf8096",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086173,
+            "localadmin_id":404517323,
+            "locality_id":85972315,
+            "neighbourhood_id":85803699,
+            "region_id":85688661,
+            "venue_id":789815103
+        }
+    ],
+    "wof:id":789815103,
+    "wof:lastmodified":1462590752,
+    "wof:name":"Field Audit Bureau",
+    "wof:parent_id":85803699,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "audit",
+        "field",
+        "bureau"
+    ]
+},
+  "bbox": [
+    -90.440075,
+    38.693435,
+    -90.440075,
+    38.693435
+],
+  "geometry": {"coordinates":[-90.44007499999999,38.693435],"type":"Point"}
+}

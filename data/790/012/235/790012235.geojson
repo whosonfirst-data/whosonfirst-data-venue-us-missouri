@@ -1,0 +1,71 @@
+{
+  "id": 790012235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.699632,38.798915,-90.699632,38.798915",
+    "geom:latitude":38.798915,
+    "geom:longitude":-90.699632,
+    "iso:country":"US",
+    "sg:address":"1010 Bramblett Rd",
+    "sg:city":"O Fallon",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 978 4401",
+    "sg:postcode":"63366",
+    "sg:province":"MO",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2jGW9c9lKwz2vylXcV3z5n_38.798915_-90.699632@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462592423,
+    "wof:geomhash":"af11a2273d651e308431d98453baea23",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":790012235
+        }
+    ],
+    "wof:id":790012235,
+    "wof:lastmodified":1462592423,
+    "wof:name":"Button Automotive Machine Shop",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -90.699632,
+    38.798915,
+    -90.699632,
+    38.798915
+],
+  "geometry": {"coordinates":[-90.69963199999999,38.798915],"type":"Point"}
+}

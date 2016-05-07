@@ -1,0 +1,73 @@
+{
+  "id": 806834963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.353384,39.707072,-91.353384,39.707072",
+    "geom:latitude":39.707072,
+    "geom:longitude":-91.353384,
+    "iso:country":"US",
+    "sg:address":"527 S Main St",
+    "sg:city":"Hannibal",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 248 2920",
+    "sg:postcode":"63401",
+    "sg:province":"MO",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688697,
+        85633793,
+        85938427,
+        102086213,
+        85867477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7izScvShqcV9xBrMXXSPnE_39.707072_-91.353384@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462601467,
+    "wof:geomhash":"894d81575b55708f725d2100f7778797",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086213,
+            "locality_id":85938427,
+            "neighbourhood_id":85867477,
+            "region_id":85688697,
+            "venue_id":806834963
+        }
+    ],
+    "wof:id":806834963,
+    "wof:lastmodified":1462601467,
+    "wof:name":"S & S Auto Repair",
+    "wof:parent_id":85867477,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -91.353384,
+    39.707072,
+    -91.353384,
+    39.707072
+],
+  "geometry": {"coordinates":[-91.35338400000001,39.707072],"type":"Point"}
+}

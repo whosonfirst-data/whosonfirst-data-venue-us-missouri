@@ -1,0 +1,71 @@
+{
+  "id": 773374139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.588871,38.353641,-90.588871,38.353641",
+    "geom:latitude":38.353641,
+    "geom:longitude":-90.588871,
+    "iso:country":"US",
+    "sg:address":"6912 Meyer Ln",
+    "sg:city":"House Springs",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 375 5258",
+    "sg:postcode":"63051",
+    "sg:province":"MO",
+    "sg:tags":[
+        "garbage",
+        "collection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85805175,
+        102080787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3oavNxBlWswZDu5haZl9fG_38.353641_-90.588871@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462585211,
+    "wof:geomhash":"462c795dceeb89214446bad1b812223b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080787,
+            "neighbourhood_id":85805175,
+            "region_id":85688661,
+            "venue_id":773374139
+        }
+    ],
+    "wof:id":773374139,
+    "wof:lastmodified":1462585211,
+    "wof:name":"M-M Disposal",
+    "wof:parent_id":85805175,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garbage",
+        "collection"
+    ]
+},
+  "bbox": [
+    -90.588871,
+    38.353641,
+    -90.588871,
+    38.353641
+],
+  "geometry": {"coordinates":[-90.588871,38.353641],"type":"Point"}
+}

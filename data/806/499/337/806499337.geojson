@@ -1,0 +1,71 @@
+{
+  "id": 806499337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.902252,39.364999,-90.902252,39.364999",
+    "geom:latitude":39.364999,
+    "geom:longitude":-90.902252,
+    "iso:country":"US",
+    "sg:address":"811 S 3rd St",
+    "sg:city":"Clarksville",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Water",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 242 3554",
+    "sg:postcode":"63336",
+    "sg:province":"MO",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971907,
+        102086151,
+        85817909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3zwCIHYiTO760il64aMXdH_39.364999_-90.902252@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462598617,
+    "wof:geomhash":"48f4579183b23ebb1071ad4a924c7e3e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086151,
+            "locality_id":85971907,
+            "neighbourhood_id":85817909,
+            "region_id":85688661,
+            "venue_id":806499337
+        }
+    ],
+    "wof:id":806499337,
+    "wof:lastmodified":1462598617,
+    "wof:name":"Clarksville Water Plant",
+    "wof:parent_id":85817909,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [
+    -90.902252,
+    39.364999,
+    -90.902252,
+    39.364999
+],
+  "geometry": {"coordinates":[-90.902252,39.364999],"type":"Point"}
+}

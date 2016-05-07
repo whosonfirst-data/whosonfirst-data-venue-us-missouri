@@ -1,0 +1,87 @@
+{
+  "id": 807313389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.296065,37.143924,-93.296065,37.143924",
+    "geom:latitude":37.143924,
+    "geom:longitude":-93.296065,
+    "iso:country":"US",
+    "sg:address":"3903 S Campbell Ave",
+    "sg:city":"Springfield",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Non-durable Goods",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 887 6669",
+    "sg:postcode":"65807",
+    "sg:province":"MO",
+    "sg:tags":[
+        "equipment",
+        "manufacturer",
+        "supplies-wholesale",
+        "salons-equipment",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85881143,
+        102087523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_28Jcz7nlElWaeFijJfUpHR_37.143924_-93.296065@1303262939"
+    },
+    "wof:country":"US",
+    "wof:created":1462605995,
+    "wof:geomhash":"f32a0b74605111b0f667cc973763ded0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087523,
+            "neighbourhood_id":85881143,
+            "region_id":85688661,
+            "venue_id":807313389
+        }
+    ],
+    "wof:id":807313389,
+    "wof:lastmodified":1462605995,
+    "wof:name":"Peel's Salon Service",
+    "wof:parent_id":85881143,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "manufacturer",
+        "supplies-wholesale",
+        "salons-equipment",
+        "supply"
+    ]
+},
+  "bbox": [
+    -93.296065,
+    37.143924,
+    -93.296065,
+    37.143924
+],
+  "geometry": {"coordinates":[-93.296065,37.143924],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 789654667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.752392,37.951814,-91.752392,37.951814",
+    "geom:latitude":37.951814,
+    "geom:longitude":-91.752392,
+    "iso:country":"US",
+    "sg:address":"1311 Forum Dr",
+    "sg:city":"Rolla",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 364 4900",
+    "sg:postcode":"65401",
+    "sg:province":"MO",
+    "sg:tags":[
+        "stock",
+        "bond"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970821,
+        102086893,
+        85814531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3F2hITLb9AXHLwRMoUTJjy_37.951814_-91.752392@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462589491,
+    "wof:geomhash":"327b677d39f020a15949f6a74d62cfef",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086893,
+            "locality_id":85970821,
+            "neighbourhood_id":85814531,
+            "region_id":85688661,
+            "venue_id":789654667
+        }
+    ],
+    "wof:id":789654667,
+    "wof:lastmodified":1462589491,
+    "wof:name":"Edward Jones Co",
+    "wof:parent_id":85814531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "stock",
+        "bond"
+    ]
+},
+  "bbox": [
+    -91.752392,
+    37.951814,
+    -91.752392,
+    37.951814
+],
+  "geometry": {"coordinates":[-91.752392,37.951814],"type":"Point"}
+}

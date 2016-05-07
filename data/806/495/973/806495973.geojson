@@ -1,0 +1,67 @@
+{
+  "id": 806495973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.864063,38.810351,-90.864063,38.810351",
+    "geom:latitude":38.810351,
+    "geom:longitude":-90.864063,
+    "iso:country":"US",
+    "sg:address":"901 W Pearce Blvd",
+    "sg:city":"Wentzville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 327 5855",
+    "sg:postcode":"63385",
+    "sg:province":"MO",
+    "sg:website":"www.wenamerica.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5i3sMR2sV8eOCy1P8DDLQd_38.810351_-90.864063@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462598594,
+    "wof:geomhash":"0bd0829b5bdeff1231800ad96692c12d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":806495973
+        }
+    ],
+    "wof:id":806495973,
+    "wof:lastmodified":1462598594,
+    "wof:name":"Wendy's",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.864063,
+    38.810351,
+    -90.864063,
+    38.810351
+],
+  "geometry": {"coordinates":[-90.864063,38.810351],"type":"Point"}
+}

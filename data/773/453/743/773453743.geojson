@@ -1,0 +1,71 @@
+{
+  "id": 773453743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.743764,38.861915,-90.743764,38.861915",
+    "geom:latitude":38.861915,
+    "geom:longitude":-90.743764,
+    "iso:country":"US",
+    "sg:address":"1223 Church Rd",
+    "sg:city":"O Fallon",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 978 1900",
+    "sg:postcode":"63366",
+    "sg:province":"MO",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Rc9pnZycWfg2uRmkhZvF1_38.861915_-90.743764@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462585867,
+    "wof:geomhash":"70cb37b4ee60c3b45361214229d9d30b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":773453743
+        }
+    ],
+    "wof:id":773453743,
+    "wof:lastmodified":1462585867,
+    "wof:name":"St Pauls Catholic Church",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -90.743764,
+    38.861915,
+    -90.743764,
+    38.861915
+],
+  "geometry": {"coordinates":[-90.743764,38.861915],"type":"Point"}
+}

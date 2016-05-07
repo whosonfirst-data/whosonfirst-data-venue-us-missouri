@@ -1,0 +1,71 @@
+{
+  "id": 806940473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.578184,39.404968,-94.578184,39.404968",
+    "geom:latitude":39.404968,
+    "geom:longitude":-94.578184,
+    "iso:country":"US",
+    "sg:address":"100 Pope Ln",
+    "sg:city":"Smithville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 532 4872",
+    "sg:postcode":"64089",
+    "sg:province":"MO",
+    "sg:tags":[
+        "carwash"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970739,
+        102086177,
+        85836329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_30HB4nIWBICGxXLugBk0Lu_39.404968_-94.578184@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462602364,
+    "wof:geomhash":"58c2f1f70e5e14e0844b0c02e53be07f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086177,
+            "locality_id":85970739,
+            "neighbourhood_id":85836329,
+            "region_id":85688661,
+            "venue_id":806940473
+        }
+    ],
+    "wof:id":806940473,
+    "wof:lastmodified":1462602364,
+    "wof:name":"Pro Car Washes Inc",
+    "wof:parent_id":85836329,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carwash"
+    ]
+},
+  "bbox": [
+    -94.578184,
+    39.404968,
+    -94.578184,
+    39.404968
+],
+  "geometry": {"coordinates":[-94.57818399999999,39.404968],"type":"Point"}
+}

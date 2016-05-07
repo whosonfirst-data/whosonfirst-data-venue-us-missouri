@@ -1,0 +1,82 @@
+{
+  "id": 807016745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.193901,38.6591,-90.193901,38.6591",
+    "geom:latitude":38.6591,
+    "geom:longitude":-90.193901,
+    "iso:country":"US",
+    "sg:address":"3321 N Broadway",
+    "sg:city":"Saint Louis",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Hardware",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 231 1163",
+    "sg:postcode":"63147",
+    "sg:province":"MO",
+    "sg:tags":[
+        "store",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873609,
+        102191575,
+        404518053,
+        85633793,
+        85971343,
+        102080791,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2UkGg7zmdAV8x5121fwrf2_38.659165_-90.193915@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1462603001,
+    "wof:geomhash":"d227603b7260dfb6108d52c56cab56d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080791,
+            "localadmin_id":404518053,
+            "locality_id":85971343,
+            "neighbourhood_id":85873609,
+            "region_id":85688661,
+            "venue_id":807016745
+        }
+    ],
+    "wof:id":807016745,
+    "wof:lastmodified":1462603001,
+    "wof:name":"Tobin Hardware",
+    "wof:parent_id":85873609,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "store",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -90.193901,
+    38.6591,
+    -90.193901,
+    38.6591
+],
+  "geometry": {"coordinates":[-90.193901,38.6591],"type":"Point"}
+}

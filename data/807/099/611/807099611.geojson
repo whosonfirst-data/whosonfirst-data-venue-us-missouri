@@ -1,0 +1,78 @@
+{
+  "id": 807099611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.512774,39.105414,-94.512774,39.105414",
+    "geom:latitude":39.105414,
+    "geom:longitude":-94.512774,
+    "iso:country":"US",
+    "sg:address":"5928 Wilson Rd",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/blue/37475-pizza-hut/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 241 5522",
+    "sg:postcode":"64123",
+    "sg:province":"MO",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85871995,
+        102191575,
+        404518075,
+        85633793,
+        85970739,
+        102081227,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4IMI46NALzmxZ4iYNxwktP_39.105806_-94.512106@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462603717,
+    "wof:geomhash":"907412074d1de6ace5bdce7a2f4c4588",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081227,
+            "localadmin_id":404518075,
+            "locality_id":85970739,
+            "neighbourhood_id":85871995,
+            "region_id":85688661,
+            "venue_id":807099611
+        }
+    ],
+    "wof:id":807099611,
+    "wof:lastmodified":1462603717,
+    "wof:name":"Pizza Hut",
+    "wof:parent_id":85871995,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -94.512774,
+    39.105414,
+    -94.512774,
+    39.105414
+],
+  "geometry": {"coordinates":[-94.51277399999999,39.105414],"type":"Point"}
+}

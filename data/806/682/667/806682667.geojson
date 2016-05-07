@@ -1,0 +1,73 @@
+{
+  "id": 806682667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.432402,37.801553,-90.432402,37.801553",
+    "geom:latitude":37.801553,
+    "geom:longitude":-90.432402,
+    "iso:country":"US",
+    "sg:address":"500 Ashbrook Dr",
+    "sg:city":"Farmington",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 756 5544",
+    "sg:postcode":"63640",
+    "sg:province":"MO",
+    "sg:tags":[
+        "home",
+        "convalescent"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970665,
+        102085297,
+        85816309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_57sLkvNk3G0Y8VmYu2eTJL_37.801553_-90.432402@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462600191,
+    "wof:geomhash":"a57bfe0c614c1048c1d62d0299e7a1d7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085297,
+            "locality_id":85970665,
+            "neighbourhood_id":85816309,
+            "region_id":85688661,
+            "venue_id":806682667
+        }
+    ],
+    "wof:id":806682667,
+    "wof:lastmodified":1462600191,
+    "wof:name":"Ashbrook Of Farmington",
+    "wof:parent_id":85816309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "convalescent"
+    ]
+},
+  "bbox": [
+    -90.432402,
+    37.801553,
+    -90.432402,
+    37.801553
+],
+  "geometry": {"coordinates":[-90.432402,37.801553],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 806555477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.684138,39.306248,-94.684138,39.306248",
+    "geom:latitude":39.306248,
+    "geom:longitude":-94.684138,
+    "iso:country":"US",
+    "sg:address":"11832 NW Plaza Cir",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 464 2100",
+    "sg:postcode":"64153",
+    "sg:province":"MO",
+    "sg:tags":[
+        "rent"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102533051,
+        85688661,
+        85633793,
+        85970739,
+        102085271,
+        85851839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6U2oEmeaqT84SGZe4UaALL_39.306248_-94.684138@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462599075,
+    "wof:geomhash":"0e9c45ae65a381ee74625e32d083b4b3",
+    "wof:hierarchy":[
+        {
+            "campus_id":102533051,
+            "country_id":85633793,
+            "county_id":102085271,
+            "locality_id":85970739,
+            "neighbourhood_id":85851839,
+            "region_id":85688661,
+            "venue_id":806555477
+        }
+    ],
+    "wof:id":806555477,
+    "wof:lastmodified":1462599075,
+    "wof:name":"Payless Car Rental",
+    "wof:parent_id":102533051,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "rent"
+    ]
+},
+  "bbox": [
+    -94.684138,
+    39.306248,
+    -94.684138,
+    39.306248
+],
+  "geometry": {"coordinates":[-94.684138,39.306248],"type":"Point"}
+}

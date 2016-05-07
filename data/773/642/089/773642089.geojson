@@ -1,0 +1,71 @@
+{
+  "id": 773642089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.515903,37.017114,-94.515903,37.017114",
+    "geom:latitude":37.017114,
+    "geom:longitude":-94.515903,
+    "iso:country":"US",
+    "sg:address":"344 Redings Mill Rd",
+    "sg:city":"Joplin",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 624 2715",
+    "sg:postcode":"64804",
+    "sg:province":"MO",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971289,
+        102087471,
+        85814333
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Nd6cM4JcRmA1pcgLwT2of_37.017114_-94.515903@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462587270,
+    "wof:geomhash":"5e99744cad46ef0c122aeab812bd9a10",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087471,
+            "locality_id":85971289,
+            "neighbourhood_id":85814333,
+            "region_id":85688661,
+            "venue_id":773642089
+        }
+    ],
+    "wof:id":773642089,
+    "wof:lastmodified":1462587270,
+    "wof:name":"Redings Mill Fire Dept",
+    "wof:parent_id":85814333,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -94.515903,
+    37.017114,
+    -94.515903,
+    37.017114
+],
+  "geometry": {"coordinates":[-94.51590299999999,37.017114],"type":"Point"}
+}

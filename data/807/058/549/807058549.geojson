@@ -1,0 +1,74 @@
+{
+  "id": 807058549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.382205,38.409937,-90.382205,38.409937",
+    "geom:latitude":38.409937,
+    "geom:longitude":-90.382205,
+    "iso:country":"US",
+    "sg:address":"1901 Richardson Rd",
+    "sg:city":"Arnold",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/arnold/235091-roly-poly-sandwiches/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 461 2250",
+    "sg:postcode":"63010",
+    "sg:province":"MO",
+    "sg:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85805175,
+        102080787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6N8ymC7XIZSVVmVShbamSB_38.409937_-90.382205@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462603359,
+    "wof:geomhash":"c9b866eedfee1e6894ef6f9757f3d201",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080787,
+            "neighbourhood_id":85805175,
+            "region_id":85688661,
+            "venue_id":807058549
+        }
+    ],
+    "wof:id":807058549,
+    "wof:lastmodified":1462603359,
+    "wof:name":"Roly Poly Sandwiches",
+    "wof:parent_id":85805175,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -90.382205,
+    38.409937,
+    -90.382205,
+    38.409937
+],
+  "geometry": {"coordinates":[-90.382205,38.409937],"type":"Point"}
+}

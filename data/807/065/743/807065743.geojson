@@ -1,0 +1,82 @@
+{
+  "id": 807065743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.355098,38.713307,-90.355098,38.713307",
+    "geom:latitude":38.713307,
+    "geom:longitude":-90.355098,
+    "iso:country":"US",
+    "sg:address":"9090 Saint Charles Rock Rd",
+    "sg:city":"Saint Louis",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/midland/43804-applebees/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 427 1867",
+    "sg:postcode":"63114",
+    "sg:province":"MO",
+    "sg:tags":[
+        "burger",
+        "american",
+        "sandwich",
+        "soup"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85847351,
+        102191575,
+        404517201,
+        85633793,
+        85972285,
+        102086173,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4QL4h7dGteAs67WnXI73Km_38.713307_-90.355098@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462603414,
+    "wof:geomhash":"70c3cda83999b5ec14140fec8e437bb9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086173,
+            "localadmin_id":404517201,
+            "locality_id":85972285,
+            "neighbourhood_id":85847351,
+            "region_id":85688661,
+            "venue_id":807065743
+        }
+    ],
+    "wof:id":807065743,
+    "wof:lastmodified":1462603414,
+    "wof:name":"Applebee's",
+    "wof:parent_id":85847351,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "sandwich",
+        "soup"
+    ]
+},
+  "bbox": [
+    -90.355098,
+    38.713307,
+    -90.355098,
+    38.713307
+],
+  "geometry": {"coordinates":[-90.355098,38.713307],"type":"Point"}
+}

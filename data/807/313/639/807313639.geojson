@@ -1,0 +1,72 @@
+{
+  "id": 807313639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.314825,37.165624,-93.314825,37.165624",
+    "geom:latitude":37.165624,
+    "geom:longitude":-93.314825,
+    "iso:country":"US",
+    "sg:address":"2711 S Meadowbrook Ave",
+    "sg:city":"Springfield",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 887 0081",
+    "sg:postcode":"65807",
+    "sg:province":"MO",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "sg:website":"http://www.stjohns.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85881151,
+        102087523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7JnOeRitpnVXJ7VwCyVgkw_37.165624_-93.314825@1303262939"
+    },
+    "wof:country":"US",
+    "wof:created":1462605997,
+    "wof:geomhash":"9f68b4ff6dd63f92385b099ac3a22add",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087523,
+            "neighbourhood_id":85881151,
+            "region_id":85688661,
+            "venue_id":807313639
+        }
+    ],
+    "wof:id":807313639,
+    "wof:lastmodified":1462605997,
+    "wof:name":"Southcreek Family Care",
+    "wof:parent_id":85881151,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -93.314825,
+    37.165624,
+    -93.314825,
+    37.165624
+],
+  "geometry": {"coordinates":[-93.314825,37.165624],"type":"Point"}
+}

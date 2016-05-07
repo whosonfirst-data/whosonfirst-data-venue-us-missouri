@@ -1,0 +1,82 @@
+{
+  "id": 807082481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.605163,38.941939,-94.605163,38.941939",
+    "geom:latitude":38.941939,
+    "geom:longitude":-94.605163,
+    "iso:country":"US",
+    "sg:address":"1046 W 103rd St",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/kaw/37442-applebees/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 941 7030",
+    "sg:postcode":"64114",
+    "sg:province":"MO",
+    "sg:tags":[
+        "burger",
+        "american",
+        "sandwich",
+        "soup"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85871951,
+        102191575,
+        404518075,
+        85633793,
+        85970739,
+        102081227,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Mh5dpHxoJhNvzVuqLbE9T_38.941939_-94.605163@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462603554,
+    "wof:geomhash":"c98c0aebbe9cdb1bb727a5cb17c018be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081227,
+            "localadmin_id":404518075,
+            "locality_id":85970739,
+            "neighbourhood_id":85871951,
+            "region_id":85688661,
+            "venue_id":807082481
+        }
+    ],
+    "wof:id":807082481,
+    "wof:lastmodified":1462603554,
+    "wof:name":"Applebee's",
+    "wof:parent_id":85871951,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "sandwich",
+        "soup"
+    ]
+},
+  "bbox": [
+    -94.605163,
+    38.941939,
+    -94.605163,
+    38.941939
+],
+  "geometry": {"coordinates":[-94.605163,38.941939],"type":"Point"}
+}

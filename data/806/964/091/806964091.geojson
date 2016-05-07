@@ -1,0 +1,71 @@
+{
+  "id": 806964091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.345352,38.478894,-90.345352,38.478894",
+    "geom:latitude":38.478894,
+    "geom:longitude":-90.345352,
+    "iso:country":"US",
+    "sg:address":"5524 Ringer Rd",
+    "sg:city":"Saint Louis",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 487 3179",
+    "sg:postcode":"63129",
+    "sg:province":"MO",
+    "sg:tags":[
+        "welding"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971021,
+        102080787,
+        85832925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2tKKiUoh2L5oEq1pDV0CtQ_38.478894_-90.345352@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462602557,
+    "wof:geomhash":"e19eb9ff1eec229ede06eeb58f3b4c01",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080787,
+            "locality_id":85971021,
+            "neighbourhood_id":85832925,
+            "region_id":85688661,
+            "venue_id":806964091
+        }
+    ],
+    "wof:id":806964091,
+    "wof:lastmodified":1462602557,
+    "wof:name":"Mattese Welding",
+    "wof:parent_id":85832925,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "welding"
+    ]
+},
+  "bbox": [
+    -90.345352,
+    38.478894,
+    -90.345352,
+    38.478894
+],
+  "geometry": {"coordinates":[-90.34535200000001,38.478894],"type":"Point"}
+}

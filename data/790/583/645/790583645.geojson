@@ -1,0 +1,73 @@
+{
+  "id": 790583645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.627322,38.798989,-90.627322,38.798989",
+    "geom:latitude":38.798989,
+    "geom:longitude":-90.627322,
+    "iso:country":"US",
+    "sg:address":"16 S Church St",
+    "sg:city":"St Peters",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 278 4499",
+    "sg:postcode":"63376",
+    "sg:province":"MO",
+    "sg:tags":[
+        "hospital",
+        "animal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3lIyWpIYIez0eYnNjUMwXs_38.798989_-90.627322@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462597071,
+    "wof:geomhash":"d2ebb02c274e557a3e5fe18dc1f33ea1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":790583645
+        }
+    ],
+    "wof:id":790583645,
+    "wof:lastmodified":1462597071,
+    "wof:name":"Saint Peters Animal Hospital",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hospital",
+        "animal"
+    ]
+},
+  "bbox": [
+    -90.627322,
+    38.798989,
+    -90.627322,
+    38.798989
+],
+  "geometry": {"coordinates":[-90.62732200000001,38.798989],"type":"Point"}
+}

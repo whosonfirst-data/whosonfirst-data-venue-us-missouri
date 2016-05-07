@@ -1,0 +1,75 @@
+{
+  "id": 806525675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.382578,38.490809,-90.382578,38.490809",
+    "geom:latitude":38.490809,
+    "geom:longitude":-90.382578,
+    "iso:country":"US",
+    "sg:address":"13116 Tesson Ferry Rd",
+    "sg:city":"Sappington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 842 1150",
+    "sg:postcode":"63128",
+    "sg:province":"MO",
+    "sg:tags":[
+        "renting",
+        "automobile",
+        "car"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971021,
+        102080787,
+        85832925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2G5lAf2GeGZCjeA1ywyaft_38.490809_-90.382578@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462598833,
+    "wof:geomhash":"f2eaa803fdf2ed1502c6c35d3ad09c21",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080787,
+            "locality_id":85971021,
+            "neighbourhood_id":85832925,
+            "region_id":85688661,
+            "venue_id":806525675
+        }
+    ],
+    "wof:id":806525675,
+    "wof:lastmodified":1462598833,
+    "wof:name":"Rent-A-Wreck",
+    "wof:parent_id":85832925,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "automobile",
+        "car"
+    ]
+},
+  "bbox": [
+    -90.382578,
+    38.490809,
+    -90.382578,
+    38.490809
+],
+  "geometry": {"coordinates":[-90.382578,38.490809],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 789828437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.209253,38.655201,-90.209253,38.655201",
+    "geom:latitude":38.655201,
+    "geom:longitude":-90.209253,
+    "iso:country":"US",
+    "sg:address":"2552 Sullivan Ave",
+    "sg:city":"St Louis",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 241 3365",
+    "sg:postcode":"63107",
+    "sg:province":"MO",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873627,
+        102191575,
+        404518053,
+        85633793,
+        85971343,
+        102080791,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0rJDqJaOqyzCg16QjGZ2oO_38.655201_-90.209253@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462590860,
+    "wof:geomhash":"818766976fcf5af4fd969f3ce7b4f6ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080791,
+            "localadmin_id":404518053,
+            "locality_id":85971343,
+            "neighbourhood_id":85873627,
+            "region_id":85688661,
+            "venue_id":789828437
+        }
+    ],
+    "wof:id":789828437,
+    "wof:lastmodified":1462590860,
+    "wof:name":"Toms Trucking & Wrecking Inc",
+    "wof:parent_id":85873627,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -90.209253,
+    38.655201,
+    -90.209253,
+    38.655201
+],
+  "geometry": {"coordinates":[-90.209253,38.655201],"type":"Point"}
+}

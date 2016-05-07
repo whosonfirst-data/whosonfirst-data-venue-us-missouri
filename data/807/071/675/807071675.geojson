@@ -1,0 +1,76 @@
+{
+  "id": 807071675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.698976,38.790611,-90.698976,38.790611",
+    "geom:latitude":38.790611,
+    "geom:longitude":-90.698976,
+    "iso:country":"US",
+    "sg:address":"1300 Highway K",
+    "sg:city":"O Fallon",
+    "sg:classifiers":[
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/weldon-spring/105881-panera-bread/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 379 0905",
+    "sg:postcode":"63366",
+    "sg:province":"MO",
+    "sg:tags":[
+        "american",
+        "sandwich",
+        "pastry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ITa7Txyns4dsFmysY9xXa_38.790611_-90.698976@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462603458,
+    "wof:geomhash":"839b163754fece3ba565b76253866e51",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":807071675
+        }
+    ],
+    "wof:id":807071675,
+    "wof:lastmodified":1462603458,
+    "wof:name":"Panera Bread",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich",
+        "pastry"
+    ]
+},
+  "bbox": [
+    -90.698976,
+    38.790611,
+    -90.698976,
+    38.790611
+],
+  "geometry": {"coordinates":[-90.698976,38.790611],"type":"Point"}
+}

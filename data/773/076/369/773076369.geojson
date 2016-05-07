@@ -1,0 +1,71 @@
+{
+  "id": 773076369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.220511,39.342335,-94.220511,39.342335",
+    "geom:latitude":39.342335,
+    "geom:longitude":-94.220511,
+    "iso:country":"US",
+    "sg:address":"201 E Broadway St",
+    "sg:city":"Excelsior Spgs",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 000 1111",
+    "sg:postcode":"64024",
+    "sg:province":"MO",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971507,
+        102086177,
+        85822189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_57RHGRwHH7AsWEsoyBw05F_39.342335_-94.220511@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462582979,
+    "wof:geomhash":"84af014aaca88caba7410c4ed65a0b5d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086177,
+            "locality_id":85971507,
+            "neighbourhood_id":85822189,
+            "region_id":85688661,
+            "venue_id":773076369
+        }
+    ],
+    "wof:id":773076369,
+    "wof:lastmodified":1462582979,
+    "wof:name":"Police Department",
+    "wof:parent_id":85822189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -94.220511,
+    39.342335,
+    -94.220511,
+    39.342335
+],
+  "geometry": {"coordinates":[-94.220511,39.342335],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 807034621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.271003,37.251359,-93.271003,37.251359",
+    "geom:latitude":37.251359,
+    "geom:longitude":-93.271003,
+    "iso:country":"US",
+    "sg:address":"1306 E Norton Rd",
+    "sg:city":"Springfield",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 833 0305",
+    "sg:postcode":"65803",
+    "sg:province":"MO",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971363,
+        102087523,
+        85881137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4XQkIqAkywCpIYASUcy1tl_37.251230_-93.270635@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1462603159,
+    "wof:geomhash":"71e92b688fb947b959d21340a223422d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087523,
+            "locality_id":85971363,
+            "neighbourhood_id":85881137,
+            "region_id":85688661,
+            "venue_id":807034621
+        }
+    ],
+    "wof:id":807034621,
+    "wof:lastmodified":1462603159,
+    "wof:name":"Summerwood Place Apartments",
+    "wof:parent_id":85881137,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -93.271003,
+    37.251359,
+    -93.271003,
+    37.251359
+],
+  "geometry": {"coordinates":[-93.27100299999999,37.251359],"type":"Point"}
+}

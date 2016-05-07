@@ -1,0 +1,70 @@
+{
+  "id": 789770301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.42658,38.39853,-90.42658,38.39853",
+    "geom:latitude":38.39853,
+    "geom:longitude":-90.42658,
+    "iso:country":"US",
+    "sg:address":"2824 Seckman Rd",
+    "sg:city":"Imperial",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 296 2030",
+    "sg:postcode":"63052",
+    "sg:province":"MO",
+    "sg:tags":[
+        "elementary"
+    ],
+    "sg:website":"www.fox.k12.mo.us",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85805175,
+        102080787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1CSaPdqVPc2tidnIO8aYX2_38.398530_-90.426580@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462590404,
+    "wof:geomhash":"25de2f55bd958310d23d3c0278f619f6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080787,
+            "neighbourhood_id":85805175,
+            "region_id":85688661,
+            "venue_id":789770301
+        }
+    ],
+    "wof:id":789770301,
+    "wof:lastmodified":1462590404,
+    "wof:name":"Seckman Elementary School",
+    "wof:parent_id":85805175,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "elementary"
+    ]
+},
+  "bbox": [
+    -90.42658,
+    38.39853,
+    -90.42658,
+    38.39853
+],
+  "geometry": {"coordinates":[-90.42658,38.39853],"type":"Point"}
+}

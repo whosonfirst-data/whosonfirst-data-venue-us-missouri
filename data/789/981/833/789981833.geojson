@@ -1,0 +1,71 @@
+{
+  "id": 789981833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.410895,38.35844,-90.410895,38.35844",
+    "geom:latitude":38.35844,
+    "geom:longitude":-90.410895,
+    "iso:country":"US",
+    "sg:address":"6024 Old Antonia Rd",
+    "sg:city":"Imperial",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 464 9027",
+    "sg:postcode":"63052",
+    "sg:province":"MO",
+    "sg:tags":[
+        "elementary",
+        "catholic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85805175,
+        102080787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7PD8rTWzVm3vkwMIrX7MmT_38.358440_-90.410895@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462592184,
+    "wof:geomhash":"ea16f65c2a4134db0457a0c8669096c4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080787,
+            "neighbourhood_id":85805175,
+            "region_id":85688661,
+            "venue_id":789981833
+        }
+    ],
+    "wof:id":789981833,
+    "wof:lastmodified":1462592184,
+    "wof:name":"Saint Josephs School",
+    "wof:parent_id":85805175,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "elementary",
+        "catholic"
+    ]
+},
+  "bbox": [
+    -90.410895,
+    38.35844,
+    -90.410895,
+    38.35844
+],
+  "geometry": {"coordinates":[-90.410895,38.35844],"type":"Point"}
+}

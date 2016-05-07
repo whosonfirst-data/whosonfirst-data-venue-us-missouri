@@ -1,0 +1,88 @@
+{
+  "id": 773481473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.270194,38.610506,-90.270194,38.610506",
+    "geom:latitude":38.610506,
+    "geom:longitude":-90.270194,
+    "iso:country":"US",
+    "sg:address":"5027 Columbia Ave",
+    "sg:city":"St Louis",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Detective & Security Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 771 7275",
+    "sg:postcode":"63139",
+    "sg:province":"MO",
+    "sg:tags":[
+        "patrol",
+        "alarm",
+        "burglar",
+        "guard",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85867039,
+        102191575,
+        404518053,
+        85633793,
+        85971343,
+        102080791,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3kisLGq2YeiuHEHJS16DGI_38.610506_-90.270194@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462586081,
+    "wof:geomhash":"1df3f573e476df6b434e2fae0dc04eb6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080791,
+            "localadmin_id":404518053,
+            "locality_id":85971343,
+            "neighbourhood_id":85867039,
+            "region_id":85688661,
+            "venue_id":773481473
+        }
+    ],
+    "wof:id":773481473,
+    "wof:lastmodified":1462586081,
+    "wof:name":"Burnes Citadel Security Co",
+    "wof:parent_id":85867039,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "patrol",
+        "alarm",
+        "burglar",
+        "guard",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -90.270194,
+    38.610506,
+    -90.270194,
+    38.610506
+],
+  "geometry": {"coordinates":[-90.270194,38.610506],"type":"Point"}
+}

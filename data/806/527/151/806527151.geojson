@@ -1,0 +1,73 @@
+{
+  "id": 806527151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.471326,37.83513,-90.471326,37.83513",
+    "geom:latitude":37.83513,
+    "geom:longitude":-90.471326,
+    "iso:country":"US",
+    "sg:address":"3680 Causey Rd",
+    "sg:city":"Farmington",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Auto Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 431 0000",
+    "sg:postcode":"63640",
+    "sg:province":"MO",
+    "sg:tags":[
+        "automobile",
+        "rebuilt"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970665,
+        102085297,
+        85816309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ldsUAsGsiL5SvtJvbLW9O_37.835130_-90.471326@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462598848,
+    "wof:geomhash":"e90942e912bf169f65387fb7ca2537b6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085297,
+            "locality_id":85970665,
+            "neighbourhood_id":85816309,
+            "region_id":85688661,
+            "venue_id":806527151
+        }
+    ],
+    "wof:id":806527151,
+    "wof:lastmodified":1462598848,
+    "wof:name":"Bob's Auto Salvage",
+    "wof:parent_id":85816309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "rebuilt"
+    ]
+},
+  "bbox": [
+    -90.471326,
+    37.83513,
+    -90.471326,
+    37.83513
+],
+  "geometry": {"coordinates":[-90.471326,37.83513],"type":"Point"}
+}

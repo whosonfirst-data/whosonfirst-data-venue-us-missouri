@@ -1,0 +1,75 @@
+{
+  "id": 773451303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.36411,39.373041,-94.36411,39.373041",
+    "geom:latitude":39.373041,
+    "geom:longitude":-94.36411,
+    "iso:country":"US",
+    "sg:address":"106 W Washington St",
+    "sg:city":"Kearney",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 628 9094",
+    "sg:postcode":"64060",
+    "sg:province":"MO",
+    "sg:tags":[
+        "muffler",
+        "exhaust",
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971507,
+        102086177,
+        85812855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_50mxudMyqYCZYfMhcvpt7F_39.373041_-94.364110@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462585844,
+    "wof:geomhash":"cb99de1723e0de7bcf035f0ef7bc5e65",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086177,
+            "locality_id":85971507,
+            "neighbourhood_id":85812855,
+            "region_id":85688661,
+            "venue_id":773451303
+        }
+    ],
+    "wof:id":773451303,
+    "wof:lastmodified":1462585844,
+    "wof:name":"Kearney Muffler & Welding",
+    "wof:parent_id":85812855,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "muffler",
+        "exhaust",
+        "system"
+    ]
+},
+  "bbox": [
+    -94.36411,
+    39.373041,
+    -94.36411,
+    39.373041
+],
+  "geometry": {"coordinates":[-94.36411,39.373041],"type":"Point"}
+}

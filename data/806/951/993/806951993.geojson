@@ -1,0 +1,69 @@
+{
+  "id": 806951993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.395203,38.202292,-90.395203,38.202292",
+    "geom:latitude":38.202292,
+    "geom:longitude":-90.395203,
+    "iso:country":"US",
+    "sg:address":"1235 S Truman Blvd",
+    "sg:city":"Festus",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 931 3972",
+    "sg:postcode":"63028",
+    "sg:province":"MO",
+    "sg:tags":[
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85848677,
+        102080787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1EzFA300oYVOsdKNLDv2x1_38.202292_-90.395203@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462602458,
+    "wof:geomhash":"f0b7e7405b24f1ee52c1b0b2cb4cfc6e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080787,
+            "neighbourhood_id":85848677,
+            "region_id":85688661,
+            "venue_id":806951993
+        }
+    ],
+    "wof:id":806951993,
+    "wof:lastmodified":1462602458,
+    "wof:name":"Twin City Tow Co",
+    "wof:parent_id":85848677,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrecker"
+    ]
+},
+  "bbox": [
+    -90.395203,
+    38.202292,
+    -90.395203,
+    38.202292
+],
+  "geometry": {"coordinates":[-90.395203,38.202292],"type":"Point"}
+}

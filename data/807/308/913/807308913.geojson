@@ -1,0 +1,85 @@
+{
+  "id": 807308913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.300753,37.240803,-93.300753,37.240803",
+    "geom:latitude":37.240803,
+    "geom:longitude":-93.300753,
+    "iso:country":"US",
+    "sg:address":"917 E Kearney St",
+    "sg:city":"Springfield",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 865 4626",
+    "sg:postcode":"65803",
+    "sg:province":"MO",
+    "sg:tags":[
+        "wheel",
+        "servicing-automotive",
+        "balancing",
+        "axle",
+        "wheels-aligning",
+        "alignment-frame"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85881167,
+        102191575,
+        404516201,
+        85633793,
+        85971363,
+        102087523,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7bwWObL5lniCIXyDFR0c0w_37.240803_-93.300753@1303262938"
+    },
+    "wof:country":"US",
+    "wof:created":1462605947,
+    "wof:geomhash":"2014f3fac5a4be17448f847150275f1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087523,
+            "localadmin_id":404516201,
+            "locality_id":85971363,
+            "neighbourhood_id":85881167,
+            "region_id":85688661,
+            "venue_id":807308913
+        }
+    ],
+    "wof:id":807308913,
+    "wof:lastmodified":1462605947,
+    "wof:name":"K Street Alignment",
+    "wof:parent_id":85881167,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wheel",
+        "servicing-automotive",
+        "balancing",
+        "axle",
+        "wheels-aligning",
+        "alignment-frame"
+    ]
+},
+  "bbox": [
+    -93.300753,
+    37.240803,
+    -93.300753,
+    37.240803
+],
+  "geometry": {"coordinates":[-93.300753,37.240803],"type":"Point"}
+}

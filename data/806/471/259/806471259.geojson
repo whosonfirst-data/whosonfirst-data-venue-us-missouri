@@ -1,0 +1,71 @@
+{
+  "id": 806471259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.765827,37.951517,-91.765827,37.951517",
+    "geom:latitude":37.951517,
+    "geom:longitude":-91.765827,
+    "iso:country":"US",
+    "sg:address":"509 E 10th St",
+    "sg:city":"Rolla",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 368 7000",
+    "sg:postcode":"65401",
+    "sg:province":"MO",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970821,
+        102086893,
+        85814531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6DWpYKUZOx52ttaZitmjXk_37.951517_-91.765827@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462598397,
+    "wof:geomhash":"18e950639fd5473f6cfa31ed8de2293a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086893,
+            "locality_id":85970821,
+            "neighbourhood_id":85814531,
+            "region_id":85688661,
+            "venue_id":806471259
+        }
+    ],
+    "wof:id":806471259,
+    "wof:lastmodified":1462598397,
+    "wof:name":"Vandewalker Mark L MD",
+    "wof:parent_id":85814531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -91.765827,
+    37.951517,
+    -91.765827,
+    37.951517
+],
+  "geometry": {"coordinates":[-91.765827,37.951517],"type":"Point"}
+}

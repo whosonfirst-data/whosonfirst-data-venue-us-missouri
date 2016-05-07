@@ -1,0 +1,71 @@
+{
+  "id": 789602099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.417336,37.780276,-90.417336,37.780276",
+    "geom:latitude":37.780276,
+    "geom:longitude":-90.417336,
+    "iso:country":"US",
+    "sg:address":"2 N Main St",
+    "sg:city":"Farmington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 701 9494",
+    "sg:postcode":"63640",
+    "sg:province":"MO",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970665,
+        102085297,
+        85816309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2JoPbGqqi0fkVDcS43yydu_37.780276_-90.417336@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462589082,
+    "wof:geomhash":"8439aa9ff9bf44b6ab4bb242829faa7a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085297,
+            "locality_id":85970665,
+            "neighbourhood_id":85816309,
+            "region_id":85688661,
+            "venue_id":789602099
+        }
+    ],
+    "wof:id":789602099,
+    "wof:lastmodified":1462589082,
+    "wof:name":"House Doctors Handyman Service",
+    "wof:parent_id":85816309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -90.417336,
+    37.780276,
+    -90.417336,
+    37.780276
+],
+  "geometry": {"coordinates":[-90.41733600000001,37.780276],"type":"Point"}
+}

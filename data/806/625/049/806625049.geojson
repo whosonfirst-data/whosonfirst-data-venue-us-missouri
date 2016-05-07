@@ -1,0 +1,71 @@
+{
+  "id": 806625049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.348441,39.112538,-94.348441,39.112538",
+    "geom:latitude":39.112538,
+    "geom:longitude":-94.348441,
+    "iso:country":"US",
+    "sg:address":"19500 E 5th Ter Ct N",
+    "sg:city":"Independence",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 796 8148",
+    "sg:postcode":"64056",
+    "sg:province":"MO",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971449,
+        102081227,
+        85844675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Wbe6VYIyj0UTemWV0lQcc_39.112538_-94.348441@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462599693,
+    "wof:geomhash":"4d61b2bcb15e85dae34146c7a42ebcba",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081227,
+            "locality_id":85971449,
+            "neighbourhood_id":85844675,
+            "region_id":85688661,
+            "venue_id":806625049
+        }
+    ],
+    "wof:id":806625049,
+    "wof:lastmodified":1462599693,
+    "wof:name":"American Contractor",
+    "wof:parent_id":85844675,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -94.348441,
+    39.112538,
+    -94.348441,
+    39.112538
+],
+  "geometry": {"coordinates":[-94.34844099999999,39.112538],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 789631051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.483106,38.777997,-90.483106,38.777997",
+    "geom:latitude":38.777997,
+    "geom:longitude":-90.483106,
+    "iso:country":"US",
+    "sg:address":"413 S Main St",
+    "sg:city":"Saint Charles",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Gifts & Souvenirs",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 946 7666",
+    "sg:postcode":"63301",
+    "sg:province":"MO",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0VMZZjaK3CTsNbi2xQqwKb_38.777997_-90.483106@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462589304,
+    "wof:geomhash":"780a715a1bee59dba6b81311b8a7e6bc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":789631051
+        }
+    ],
+    "wof:id":789631051,
+    "wof:lastmodified":1462589304,
+    "wof:name":"Gift Nook Inc",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -90.483106,
+    38.777997,
+    -90.483106,
+    38.777997
+],
+  "geometry": {"coordinates":[-90.48310600000001,38.777997],"type":"Point"}
+}

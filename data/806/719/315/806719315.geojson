@@ -1,0 +1,71 @@
+{
+  "id": 806719315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.492802,38.783109,-90.492802,38.783109",
+    "geom:latitude":38.783109,
+    "geom:longitude":-90.492802,
+    "iso:country":"US",
+    "sg:address":"804 First Capitol Dr",
+    "sg:city":"St Charles",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 724 3200",
+    "sg:postcode":"63301",
+    "sg:province":"MO",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2IzeykBtW1g76xtaMPf0hH_38.783109_-90.492802@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462600493,
+    "wof:geomhash":"024d9f80e77e22424bfa313e9b0f24ab",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":806719315
+        }
+    ],
+    "wof:id":806719315,
+    "wof:lastmodified":1462600493,
+    "wof:name":"First Capitol Animal Hospital",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -90.492802,
+    38.783109,
+    -90.492802,
+    38.783109
+],
+  "geometry": {"coordinates":[-90.492802,38.783109],"type":"Point"}
+}

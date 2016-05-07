@@ -1,0 +1,77 @@
+{
+  "id": 790560019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.361786,38.71273,-90.361786,38.71273",
+    "geom:latitude":38.71273,
+    "geom:longitude":-90.361786,
+    "iso:country":"US",
+    "sg:address":"9408 Breckenridge Rd",
+    "sg:city":"St Louis",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 427 8697",
+    "sg:postcode":"63114",
+    "sg:province":"MO",
+    "sg:tags":[
+        "towing",
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85847351,
+        102191575,
+        404517201,
+        85633793,
+        85972285,
+        102086173,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5R68IhAM9ijsvmmTT9wV2l_38.712730_-90.361786@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462596876,
+    "wof:geomhash":"d5a975e56920d7df3b1d7e9d9cbcf9fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086173,
+            "localadmin_id":404517201,
+            "locality_id":85972285,
+            "neighbourhood_id":85847351,
+            "region_id":85688661,
+            "venue_id":790560019
+        }
+    ],
+    "wof:id":790560019,
+    "wof:lastmodified":1462596876,
+    "wof:name":"Ron York & Sons Towing",
+    "wof:parent_id":85847351,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "towing",
+        "wrecker"
+    ]
+},
+  "bbox": [
+    -90.361786,
+    38.71273,
+    -90.361786,
+    38.71273
+],
+  "geometry": {"coordinates":[-90.361786,38.71273],"type":"Point"}
+}

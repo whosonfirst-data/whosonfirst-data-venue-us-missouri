@@ -1,0 +1,75 @@
+{
+  "id": 789920345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.438672,38.513505,-90.438672,38.513505",
+    "geom:latitude":38.513505,
+    "geom:longitude":-90.438672,
+    "iso:country":"US",
+    "sg:address":"517 Main St",
+    "sg:city":"Fenton",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 343 1550",
+    "sg:postcode":"63026",
+    "sg:province":"MO",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85858661,
+        102191575,
+        404517203,
+        85633793,
+        85972289,
+        102086173,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7KUmkQHElLCYUBANd3po5t_38.513505_-90.438672@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462591629,
+    "wof:geomhash":"443dd6065865ff3eae8e3deebdd4add9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086173,
+            "localadmin_id":404517203,
+            "locality_id":85972289,
+            "neighbourhood_id":85858661,
+            "region_id":85688661,
+            "venue_id":789920345
+        }
+    ],
+    "wof:id":789920345,
+    "wof:lastmodified":1462591629,
+    "wof:name":"Martin Family Dental",
+    "wof:parent_id":85858661,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -90.438672,
+    38.513505,
+    -90.438672,
+    38.513505
+],
+  "geometry": {"coordinates":[-90.438672,38.513505],"type":"Point"}
+}

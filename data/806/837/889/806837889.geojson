@@ -1,0 +1,82 @@
+{
+  "id": 806837889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.299379,38.655465,-90.299379,38.655465",
+    "geom:latitude":38.655465,
+    "geom:longitude":-90.299379,
+    "iso:country":"US",
+    "sg:address":"6165 Delmar Blvd",
+    "sg:city":"St Louis",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 862 0101",
+    "sg:postcode":"63112",
+    "sg:province":"MO",
+    "sg:tags":[
+        "building",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873631,
+        102191575,
+        404518053,
+        85633793,
+        85971343,
+        102080791,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5qOVvKGcrtgpjwIefdgR0k_38.655465_-90.299379@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462601489,
+    "wof:geomhash":"6ea895ebd4a99d98c4df052c1af43642",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080791,
+            "localadmin_id":404518053,
+            "locality_id":85971343,
+            "neighbourhood_id":85873631,
+            "region_id":85688661,
+            "venue_id":806837889
+        }
+    ],
+    "wof:id":806837889,
+    "wof:lastmodified":1462601489,
+    "wof:name":"Property Plus LLC",
+    "wof:parent_id":85873631,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -90.299379,
+    38.655465,
+    -90.299379,
+    38.655465
+],
+  "geometry": {"coordinates":[-90.299379,38.655465],"type":"Point"}
+}

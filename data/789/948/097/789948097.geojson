@@ -1,0 +1,77 @@
+{
+  "id": 789948097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.337053,38.401828,-90.337053,38.401828",
+    "geom:latitude":38.401828,
+    "geom:longitude":-90.337053,
+    "iso:country":"US",
+    "sg:address":"8200 Fine Rd",
+    "sg:city":"Saint Louis",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Electric",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 846 2505",
+    "sg:postcode":"63129",
+    "sg:province":"MO",
+    "sg:tags":[
+        "plant",
+        "power"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420525431,
+        102191575,
+        404518285,
+        85633793,
+        85972523,
+        102080787,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2fvZA77KCFo4B0MqHC58j2_38.401828_-90.337053@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462591889,
+    "wof:geomhash":"4bcaee80a5c3b421e537cda5ef421880",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080787,
+            "localadmin_id":404518285,
+            "locality_id":85972523,
+            "neighbourhood_id":420525431,
+            "region_id":85688661,
+            "venue_id":789948097
+        }
+    ],
+    "wof:id":789948097,
+    "wof:lastmodified":1462591889,
+    "wof:name":"Meramec Plant",
+    "wof:parent_id":420525431,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plant",
+        "power"
+    ]
+},
+  "bbox": [
+    -90.337053,
+    38.401828,
+    -90.337053,
+    38.401828
+],
+  "geometry": {"coordinates":[-90.337053,38.401828],"type":"Point"}
+}

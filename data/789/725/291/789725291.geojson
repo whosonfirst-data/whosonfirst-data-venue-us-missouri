@@ -1,0 +1,76 @@
+{
+  "id": 789725291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.348854,39.138471,-94.348854,39.138471",
+    "geom:latitude":39.138471,
+    "geom:longitude":-94.348854,
+    "iso:country":"US",
+    "sg:address":"1815 N York St",
+    "sg:city":"Independence",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Membership Organization",
+            "type":"Services"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 796 8605",
+    "sg:postcode":"64058",
+    "sg:province":"MO",
+    "sg:tags":[
+        "athletic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971449,
+        102081227,
+        85844675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0JvREkhH4IPeUgX0KbFJkR_39.138471_-94.348854@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462590066,
+    "wof:geomhash":"81d7600a8436bbc6a07f2c525f0c50dc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081227,
+            "locality_id":85971449,
+            "neighbourhood_id":85844675,
+            "region_id":85688661,
+            "venue_id":789725291
+        }
+    ],
+    "wof:id":789725291,
+    "wof:lastmodified":1462590066,
+    "wof:name":"Missouri Valley Assn",
+    "wof:parent_id":85844675,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "athletic"
+    ]
+},
+  "bbox": [
+    -94.348854,
+    39.138471,
+    -94.348854,
+    39.138471
+],
+  "geometry": {"coordinates":[-94.348854,39.138471],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 789911153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.864422,38.82501,-90.864422,38.82501",
+    "geom:latitude":38.82501,
+    "geom:longitude":-90.864422,
+    "iso:country":"US",
+    "sg:address":"1531 Wentzville Pkwy",
+    "sg:city":"Wentzville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 639 6888",
+    "sg:postcode":"63385",
+    "sg:province":"MO",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3kSa6SQP5l6BTxAK8CURKM_38.825010_-90.864422@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462591549,
+    "wof:geomhash":"54f419ef25b590f04f903bd6b3ce1531",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":789911153
+        }
+    ],
+    "wof:id":789911153,
+    "wof:lastmodified":1462591549,
+    "wof:name":"Gate Way Equine Veterinary",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -90.864422,
+    38.82501,
+    -90.864422,
+    38.82501
+],
+  "geometry": {"coordinates":[-90.864422,38.82501],"type":"Point"}
+}

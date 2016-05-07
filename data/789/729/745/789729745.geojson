@@ -1,0 +1,74 @@
+{
+  "id": 789729745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.524052,39.7987,-91.524052,39.7987",
+    "geom:latitude":39.7987,
+    "geom:longitude":-91.524052,
+    "iso:country":"US",
+    "sg:address":"123 W Lafayette St",
+    "sg:city":"Palmyra",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 769 2134",
+    "sg:postcode":"63461",
+    "sg:province":"MO",
+    "sg:tags":[
+        "savings",
+        "institution"
+    ],
+    "sg:website":"www.first-federal-bank.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688697,
+        85633793,
+        85938427,
+        102086213,
+        85867477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_15K4d8oWBQHjzzFX9MC3ao_39.798700_-91.524052@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462590102,
+    "wof:geomhash":"0f3e1d01289f30660190af8bde05e3e7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086213,
+            "locality_id":85938427,
+            "neighbourhood_id":85867477,
+            "region_id":85688697,
+            "venue_id":789729745
+        }
+    ],
+    "wof:id":789729745,
+    "wof:lastmodified":1462590102,
+    "wof:name":"First Federal Bank Fsb",
+    "wof:parent_id":85867477,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "savings",
+        "institution"
+    ]
+},
+  "bbox": [
+    -91.524052,
+    39.7987,
+    -91.524052,
+    39.7987
+],
+  "geometry": {"coordinates":[-91.524052,39.7987],"type":"Point"}
+}

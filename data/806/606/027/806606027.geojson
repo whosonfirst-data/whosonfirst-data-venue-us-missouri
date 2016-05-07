@@ -1,0 +1,73 @@
+{
+  "id": 806606027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.229971,39.396561,-94.229971,39.396561",
+    "geom:latitude":39.396561,
+    "geom:longitude":-94.229971,
+    "iso:country":"US",
+    "sg:address":"16616 US Hwy 69",
+    "sg:city":"Excelsior Springs",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 637 2008",
+    "sg:postcode":"64024",
+    "sg:province":"MO",
+    "sg:tags":[
+        "bus",
+        "line"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971507,
+        102086177,
+        85822189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7e7nekTXljewOFl0MDTldZ_39.396561_-94.229971@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462599536,
+    "wof:geomhash":"fca6bdf31b449e4e9adcf9b3bafc310f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086177,
+            "locality_id":85971507,
+            "neighbourhood_id":85822189,
+            "region_id":85688661,
+            "venue_id":806606027
+        }
+    ],
+    "wof:id":806606027,
+    "wof:lastmodified":1462599536,
+    "wof:name":"John Hill Bus Company",
+    "wof:parent_id":85822189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bus",
+        "line"
+    ]
+},
+  "bbox": [
+    -94.229971,
+    39.396561,
+    -94.229971,
+    39.396561
+],
+  "geometry": {"coordinates":[-94.22997100000001,39.396561],"type":"Point"}
+}

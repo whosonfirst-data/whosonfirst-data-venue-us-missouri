@@ -1,0 +1,71 @@
+{
+  "id": 773804373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.487221,38.783003,-90.487221,38.783003",
+    "geom:latitude":38.783003,
+    "geom:longitude":-90.487221,
+    "iso:country":"US",
+    "sg:address":"505 Jefferson St",
+    "sg:city":"St Charles",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 724 1234",
+    "sg:postcode":"63301",
+    "sg:province":"MO",
+    "sg:tags":[
+        "taxicab"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7BHtTnTE9GI73nftt7QrQc_38.783003_-90.487221@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462588508,
+    "wof:geomhash":"7e1984873b2c4ef9bc9df9c2056fd19b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":773804373
+        }
+    ],
+    "wof:id":773804373,
+    "wof:lastmodified":1462588508,
+    "wof:name":"St Charles Yellow Cab",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "taxicab"
+    ]
+},
+  "bbox": [
+    -90.487221,
+    38.783003,
+    -90.487221,
+    38.783003
+],
+  "geometry": {"coordinates":[-90.48722100000001,38.783003],"type":"Point"}
+}

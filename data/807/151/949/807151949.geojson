@@ -1,0 +1,90 @@
+{
+  "id": 807151949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.284378,38.586193,-90.284378,38.586193",
+    "geom:latitude":38.586193,
+    "geom:longitude":-90.284378,
+    "iso:country":"US",
+    "sg:address":"4721 Macklind Ave",
+    "sg:city":"Saint Louis",
+    "sg:classifiers":[
+        {
+            "category":"Deli",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 481 2435",
+    "sg:postcode":"63109",
+    "sg:province":"MO",
+    "sg:tags":[
+        "beer",
+        "spirit",
+        "wine"
+    ],
+    "sg:website":"www.macklindavenuedeli.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85850281,
+        102191575,
+        404518053,
+        85633793,
+        85971343,
+        102080791,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_61Nv2xhQ8tlUf3WvLWKWSl_38.586193_-90.284378@1303262928"
+    },
+    "wof:country":"US",
+    "wof:created":1462604292,
+    "wof:geomhash":"b9fa289472a227981d65993439ae2282",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080791,
+            "localadmin_id":404518053,
+            "locality_id":85971343,
+            "neighbourhood_id":85850281,
+            "region_id":85688661,
+            "venue_id":807151949
+        }
+    ],
+    "wof:id":807151949,
+    "wof:lastmodified":1462604292,
+    "wof:name":"Macklind Avenue Deli",
+    "wof:parent_id":85850281,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "beer",
+        "spirit",
+        "wine"
+    ]
+},
+  "bbox": [
+    -90.284378,
+    38.586193,
+    -90.284378,
+    38.586193
+],
+  "geometry": {"coordinates":[-90.284378,38.586193],"type":"Point"}
+}

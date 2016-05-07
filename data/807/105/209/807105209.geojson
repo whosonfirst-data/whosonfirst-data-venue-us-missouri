@@ -1,0 +1,86 @@
+{
+  "id": 807105209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.384539,38.411577,-90.384539,38.411577",
+    "geom:latitude":38.411577,
+    "geom:longitude":-90.384539,
+    "iso:country":"US",
+    "sg:address":"3613 Richardson Square Dr Ste 300",
+    "sg:city":"Arnold",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 866 716 4601",
+    "sg:postcode":"63010",
+    "sg:province":"MO",
+    "sg:tags":[
+        "information",
+        "testing",
+        "aid",
+        "welfare"
+    ],
+    "sg:website":"http://stlouis.citysearch.com/profile/external/603798692/arnold_mo/std_test_express_arnold.html?publisher=yellowpages&reference_id=1&placement=ypwebsitemip",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85805175,
+        102080787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_01dxDFkDed3KW2tS6KfFPt_38.411577_-90.384539@1303262925"
+    },
+    "wof:country":"US",
+    "wof:created":1462603786,
+    "wof:geomhash":"76de968f4d2cdce3f8bd5da4831cbb88",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080787,
+            "neighbourhood_id":85805175,
+            "region_id":85688661,
+            "venue_id":807105209
+        }
+    ],
+    "wof:id":807105209,
+    "wof:lastmodified":1462603786,
+    "wof:name":"STD Test Express Arnold",
+    "wof:parent_id":85805175,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "information",
+        "testing",
+        "aid",
+        "welfare"
+    ]
+},
+  "bbox": [
+    -90.384539,
+    38.411577,
+    -90.384539,
+    38.411577
+],
+  "geometry": {"coordinates":[-90.384539,38.411577],"type":"Point"}
+}

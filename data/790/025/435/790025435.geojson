@@ -1,0 +1,75 @@
+{
+  "id": 790025435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.859605,38.806269,-90.859605,38.806269",
+    "geom:latitude":38.806269,
+    "geom:longitude":-90.859605,
+    "iso:country":"US",
+    "sg:address":"401 Mar-Le Dr",
+    "sg:city":"Wentzville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 332 9580",
+    "sg:postcode":"63385",
+    "sg:province":"MO",
+    "sg:tags":[
+        "home",
+        "skilled",
+        "convalescent"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5fxCtnnW22co4two7dT1Ho_38.806269_-90.859605@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462592535,
+    "wof:geomhash":"a7fd8cda2b82e63bc1b3a4b3614f39ce",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":790025435
+        }
+    ],
+    "wof:id":790025435,
+    "wof:lastmodified":1462592535,
+    "wof:name":"Wentzville Park Care Center",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "skilled",
+        "convalescent"
+    ]
+},
+  "bbox": [
+    -90.859605,
+    38.806269,
+    -90.859605,
+    38.806269
+],
+  "geometry": {"coordinates":[-90.859605,38.806269],"type":"Point"}
+}

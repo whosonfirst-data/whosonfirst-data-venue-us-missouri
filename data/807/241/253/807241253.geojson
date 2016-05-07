@@ -1,0 +1,83 @@
+{
+  "id": 807241253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.48336,37.054604,-94.48336,37.054604",
+    "geom:latitude":37.054604,
+    "geom:longitude":-94.48336,
+    "iso:country":"US",
+    "sg:address":"2650 E 32nd St Ste 221",
+    "sg:city":"Joplin",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 623 1381",
+    "sg:postcode":"64804",
+    "sg:province":"MO",
+    "sg:tags":[
+        "counseling",
+        "psychologist"
+    ],
+    "sg:website":"http://www.hsniderandassociates.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85821247,
+        102191575,
+        404517035,
+        85633793,
+        85971317,
+        102087471,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_58qA1cLpH97fM44rnPHYyz_37.054604_-94.483360@1303262934"
+    },
+    "wof:country":"US",
+    "wof:created":1462605222,
+    "wof:geomhash":"8789016568ea92b83c2d7244327995bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087471,
+            "localadmin_id":404517035,
+            "locality_id":85971317,
+            "neighbourhood_id":85821247,
+            "region_id":85688661,
+            "venue_id":807241253
+        }
+    ],
+    "wof:id":807241253,
+    "wof:lastmodified":1462605222,
+    "wof:name":"Herndon Snider & Associates PC",
+    "wof:parent_id":85821247,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "counseling",
+        "psychologist"
+    ]
+},
+  "bbox": [
+    -94.48336,
+    37.054604,
+    -94.48336,
+    37.054604
+],
+  "geometry": {"coordinates":[-94.48336,37.054604],"type":"Point"}
+}

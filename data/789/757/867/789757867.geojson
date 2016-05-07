@@ -1,0 +1,75 @@
+{
+  "id": 789757867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.645411,38.033585,-91.645411,38.033585",
+    "geom:latitude":38.033585,
+    "geom:longitude":-91.645411,
+    "iso:country":"US",
+    "sg:address":"15596 N Hwy 68",
+    "sg:city":"St James",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Farm Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 265 8813",
+    "sg:postcode":"65559",
+    "sg:province":"MO",
+    "sg:tags":[
+        "auction",
+        "livestock",
+        "market"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970819,
+        102086893,
+        85847353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ULtWRQU6WXNcQixd8hENo_38.033585_-91.645411@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462590314,
+    "wof:geomhash":"c01d0dc318d25882f7c4acd399dbd472",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086893,
+            "locality_id":85970819,
+            "neighbourhood_id":85847353,
+            "region_id":85688661,
+            "venue_id":789757867
+        }
+    ],
+    "wof:id":789757867,
+    "wof:lastmodified":1462590314,
+    "wof:name":"Rolla Horse Auction",
+    "wof:parent_id":85847353,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "auction",
+        "livestock",
+        "market"
+    ]
+},
+  "bbox": [
+    -91.645411,
+    38.033585,
+    -91.645411,
+    38.033585
+],
+  "geometry": {"coordinates":[-91.645411,38.033585],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 789733493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.699031,39.242827,-94.699031,39.242827",
+    "geom:latitude":39.242827,
+    "geom:longitude":-94.699031,
+    "iso:country":"US",
+    "sg:address":"7705 NW Westside Dr",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 880 9446",
+    "sg:postcode":"64152",
+    "sg:province":"MO",
+    "sg:tags":[
+        "crop",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970739,
+        102085271,
+        85852241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0uDAlsh31lNj91bQonFpu7_39.242827_-94.699031@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462590128,
+    "wof:geomhash":"3a23823f63ca6e56114af4e5b6e6d44c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085271,
+            "locality_id":85970739,
+            "neighbourhood_id":85852241,
+            "region_id":85688661,
+            "venue_id":789733493
+        }
+    ],
+    "wof:id":789733493,
+    "wof:lastmodified":1462590128,
+    "wof:name":"Fenner Farms",
+    "wof:parent_id":85852241,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "crop",
+        "general"
+    ]
+},
+  "bbox": [
+    -94.699031,
+    39.242827,
+    -94.699031,
+    39.242827
+],
+  "geometry": {"coordinates":[-94.69903100000001,39.242827],"type":"Point"}
+}

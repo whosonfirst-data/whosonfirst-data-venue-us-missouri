@@ -1,0 +1,73 @@
+{
+  "id": 806868475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.308598,38.114201,-90.308598,38.114201",
+    "geom:latitude":38.114201,
+    "geom:longitude":-90.308598,
+    "iso:country":"US",
+    "sg:address":"3747 Primo Rd",
+    "sg:city":"Festus",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 852 2767",
+    "sg:postcode":"63028",
+    "sg:province":"MO",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85848677,
+        102080787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2qhedbb3DHGhZHnlDE4jX0_38.114201_-90.308598@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462601760,
+    "wof:geomhash":"652105a805e45fedf2c137fa2d169155",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080787,
+            "neighbourhood_id":85848677,
+            "region_id":85688661,
+            "venue_id":806868475
+        }
+    ],
+    "wof:id":806868475,
+    "wof:lastmodified":1462601760,
+    "wof:name":"Rickos Hauling",
+    "wof:parent_id":85848677,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -90.308598,
+    38.114201,
+    -90.308598,
+    38.114201
+],
+  "geometry": {"coordinates":[-90.308598,38.114201],"type":"Point"}
+}

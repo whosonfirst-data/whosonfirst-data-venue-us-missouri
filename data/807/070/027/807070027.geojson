@@ -1,0 +1,72 @@
+{
+  "id": 807070027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.508303,38.780074,-90.508303,38.780074",
+    "geom:latitude":38.780074,
+    "geom:longitude":-90.508303,
+    "iso:country":"US",
+    "sg:address":"2220 First Capitol Dr",
+    "sg:city":"St Charles",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/frontier/42723-el-tio-gera/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 946 3299",
+    "sg:postcode":"63301",
+    "sg:province":"MO",
+    "sg:tags":[
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5EDaDwUtbkyEQOLoPogeoT_38.780074_-90.508303@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462603445,
+    "wof:geomhash":"28450ef8f780bf1adbdb730e1b4dcdd7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":807070027
+        }
+    ],
+    "wof:id":807070027,
+    "wof:lastmodified":1462603445,
+    "wof:name":"El Tio Gera",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican"
+    ]
+},
+  "bbox": [
+    -90.508303,
+    38.780074,
+    -90.508303,
+    38.780074
+],
+  "geometry": {"coordinates":[-90.508303,38.780074],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 806892523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.574586,38.795866,-90.574586,38.795866",
+    "geom:latitude":38.795866,
+    "geom:longitude":-90.574586,
+    "iso:country":"US",
+    "sg:address":"4293 Veterans Memorial Pkwy",
+    "sg:city":"St Peters",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 477 7486",
+    "sg:postcode":"63376",
+    "sg:province":"MO",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "sg:website":"www.openmristl.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1JCAIQMJSpvJvB2Ot7odFa_38.795866_-90.574586@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462601951,
+    "wof:geomhash":"fc63aa86d39b1e735c84e660c9607759",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":806892523
+        }
+    ],
+    "wof:id":806892523,
+    "wof:lastmodified":1462601951,
+    "wof:name":"Open MRI Of St Charles",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -90.574586,
+    38.795866,
+    -90.574586,
+    38.795866
+],
+  "geometry": {"coordinates":[-90.574586,38.795866],"type":"Point"}
+}

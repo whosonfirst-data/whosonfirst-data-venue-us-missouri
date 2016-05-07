@@ -1,0 +1,78 @@
+{
+  "id": 807096837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.493166,38.532825,-90.493166,38.532825",
+    "geom:latitude":38.532825,
+    "geom:longitude":-90.493166,
+    "iso:country":"US",
+    "sg:address":"2085 Bentley Plz",
+    "sg:city":"Fenton",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/meramec/148708-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 225 2775",
+    "sg:postcode":"63026",
+    "sg:province":"MO",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85841473,
+        102191575,
+        404517461,
+        85633793,
+        85972241,
+        102086173,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Xybki1HUvtNVfAKa4VutR_38.532368_-90.492819@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462603683,
+    "wof:geomhash":"79b49e962b0865540276751483519fae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086173,
+            "localadmin_id":404517461,
+            "locality_id":85972241,
+            "neighbourhood_id":85841473,
+            "region_id":85688661,
+            "venue_id":807096837
+        }
+    ],
+    "wof:id":807096837,
+    "wof:lastmodified":1462603683,
+    "wof:name":"Subway",
+    "wof:parent_id":85841473,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -90.493166,
+    38.532825,
+    -90.493166,
+    38.532825
+],
+  "geometry": {"coordinates":[-90.493166,38.532825],"type":"Point"}
+}

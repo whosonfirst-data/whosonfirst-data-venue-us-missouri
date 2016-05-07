@@ -1,0 +1,81 @@
+{
+  "id": 807097363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.26787,38.616421,-90.26787,38.616421",
+    "geom:latitude":38.616421,
+    "geom:longitude":-90.26787,
+    "iso:country":"US",
+    "sg:address":"4945 Daggett Ave ",
+    "sg:city":"Saint Louis",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/st-louis/293178-rigazzis-restaurant/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 772 4900",
+    "sg:postcode":"63110",
+    "sg:province":"MO",
+    "sg:tags":[
+        "italian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85867039,
+        102191575,
+        404518053,
+        85633793,
+        85971343,
+        102080791,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3FmEeoGFLVd1CPKEp4rOSo_38.616258_-90.267134@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462603690,
+    "wof:geomhash":"575e4db82739d5f2ba0e894e3b9f6111",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080791,
+            "localadmin_id":404518053,
+            "locality_id":85971343,
+            "neighbourhood_id":85867039,
+            "region_id":85688661,
+            "venue_id":807097363
+        }
+    ],
+    "wof:id":807097363,
+    "wof:lastmodified":1462603690,
+    "wof:name":"Rigazzi's Restaurant",
+    "wof:parent_id":85867039,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "italian"
+    ]
+},
+  "bbox": [
+    -90.26787,
+    38.616421,
+    -90.26787,
+    38.616421
+],
+  "geometry": {"coordinates":[-90.26787,38.616421],"type":"Point"}
+}

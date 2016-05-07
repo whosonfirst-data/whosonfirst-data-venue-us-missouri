@@ -1,0 +1,75 @@
+{
+  "id": 773651621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.363034,39.125639,-94.363034,39.125639",
+    "geom:latitude":39.125639,
+    "geom:longitude":-94.363034,
+    "iso:country":"US",
+    "sg:address":"1307 N Viking Dr",
+    "sg:city":"Independence",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 796 4437",
+    "sg:postcode":"64056",
+    "sg:province":"MO",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971449,
+        102081227,
+        85844675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_71Jpheis3odElUi3irQyhG_39.125639_-94.363034@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462587338,
+    "wof:geomhash":"c3469072e66847424f3ea99e71a74a38",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081227,
+            "locality_id":85971449,
+            "neighbourhood_id":85844675,
+            "region_id":85688661,
+            "venue_id":773651621
+        }
+    ],
+    "wof:id":773651621,
+    "wof:lastmodified":1462587338,
+    "wof:name":"T & D Hauling",
+    "wof:parent_id":85844675,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -94.363034,
+    39.125639,
+    -94.363034,
+    39.125639
+],
+  "geometry": {"coordinates":[-94.363034,39.125639],"type":"Point"}
+}

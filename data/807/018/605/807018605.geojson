@@ -1,0 +1,75 @@
+{
+  "id": 807018605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.358546,39.357655,-94.358546,39.357655",
+    "geom:latitude":39.357655,
+    "geom:longitude":-94.358546,
+    "iso:country":"US",
+    "sg:address":"241 Southbrook Pkwy",
+    "sg:city":"Kearney",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 628 6946",
+    "sg:postcode":"64060",
+    "sg:province":"MO",
+    "sg:tags":[
+        "apartment",
+        "rental",
+        "finder"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971507,
+        102086177,
+        85812855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_32fyEB12f6xTGVNun4hPPy_39.357599_-94.357996@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1462603021,
+    "wof:geomhash":"b2ac3202764b56ff1a3ec9e4254d96dc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086177,
+            "locality_id":85971507,
+            "neighbourhood_id":85812855,
+            "region_id":85688661,
+            "venue_id":807018605
+        }
+    ],
+    "wof:id":807018605,
+    "wof:lastmodified":1462603021,
+    "wof:name":"Kearney Estates",
+    "wof:parent_id":85812855,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment",
+        "rental",
+        "finder"
+    ]
+},
+  "bbox": [
+    -94.358546,
+    39.357655,
+    -94.358546,
+    39.357655
+],
+  "geometry": {"coordinates":[-94.358546,39.357655],"type":"Point"}
+}

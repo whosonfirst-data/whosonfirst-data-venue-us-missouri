@@ -1,0 +1,70 @@
+{
+  "id": 807063685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.377426,38.369007,-90.377426,38.369007",
+    "geom:latitude":38.369007,
+    "geom:longitude":-90.377426,
+    "iso:country":"US",
+    "sg:address":"1027 Main St",
+    "sg:city":"Imperial",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/windsor/185667-taylors-fine-dining/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 461 2420",
+    "sg:postcode":"63052",
+    "sg:province":"MO",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85805175,
+        102080787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3rdDkHAJ33msCYsCvL2ekN_38.369007_-90.377426@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462603398,
+    "wof:geomhash":"3607609a67eed132bf02882ea289606c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080787,
+            "neighbourhood_id":85805175,
+            "region_id":85688661,
+            "venue_id":807063685
+        }
+    ],
+    "wof:id":807063685,
+    "wof:lastmodified":1462603398,
+    "wof:name":"Taylor's Fine Dining",
+    "wof:parent_id":85805175,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -90.377426,
+    38.369007,
+    -90.377426,
+    38.369007
+],
+  "geometry": {"coordinates":[-90.377426,38.369007],"type":"Point"}
+}

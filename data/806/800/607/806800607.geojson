@@ -1,0 +1,75 @@
+{
+  "id": 806800607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.524203,39.796903,-91.524203,39.796903",
+    "geom:latitude":39.796903,
+    "geom:longitude":-91.524203,
+    "iso:country":"US",
+    "sg:address":"407 S Dickerson St",
+    "sg:city":"Palmyra",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 769 3503",
+    "sg:postcode":"63461",
+    "sg:province":"MO",
+    "sg:tags":[
+        "automotive",
+        "used",
+        "parts"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688697,
+        85633793,
+        85938427,
+        102086213,
+        85867477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5GEgVyoMAhp3wOQfLQgOvE_39.796903_-91.524203@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462601189,
+    "wof:geomhash":"83d63c3c57c938a37709f7fc4a4437b4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086213,
+            "locality_id":85938427,
+            "neighbourhood_id":85867477,
+            "region_id":85688697,
+            "venue_id":806800607
+        }
+    ],
+    "wof:id":806800607,
+    "wof:lastmodified":1462601189,
+    "wof:name":"Litchfield Enterprises",
+    "wof:parent_id":85867477,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive",
+        "used",
+        "parts"
+    ]
+},
+  "bbox": [
+    -91.524203,
+    39.796903,
+    -91.524203,
+    39.796903
+],
+  "geometry": {"coordinates":[-91.524203,39.796903],"type":"Point"}
+}

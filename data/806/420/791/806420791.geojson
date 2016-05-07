@@ -1,0 +1,75 @@
+{
+  "id": 806420791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.646264,38.789009,-90.646264,38.789009",
+    "geom:latitude":38.789009,
+    "geom:longitude":-90.646264,
+    "iso:country":"US",
+    "sg:address":"8 Sunny View Dr",
+    "sg:city":"Saint Peters",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 397 2816",
+    "sg:postcode":"63376",
+    "sg:province":"MO",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ivOOiDSKs4zfsMMCuUtrO_38.789009_-90.646264@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462598013,
+    "wof:geomhash":"0bdd7c82ed64f85174c88e23937e508f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":806420791
+        }
+    ],
+    "wof:id":806420791,
+    "wof:lastmodified":1462598013,
+    "wof:name":"Gabbys Trucking LLC",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -90.646264,
+    38.789009,
+    -90.646264,
+    38.789009
+],
+  "geometry": {"coordinates":[-90.646264,38.789009],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 806470829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.359032,39.13252,-94.359032,39.13252",
+    "geom:latitude":39.13252,
+    "geom:longitude":-94.359032,
+    "iso:country":"US",
+    "sg:address":"18400 Old Lexington Rd",
+    "sg:city":"Independence",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 796 5602",
+    "sg:postcode":"64058",
+    "sg:province":"MO",
+    "sg:tags":[
+        "sewer",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971449,
+        102081227,
+        85844675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1pK2wIlktLxoU2RlVPxTQ1_39.132520_-94.359032@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462598394,
+    "wof:geomhash":"da488950472a86877875541bd2caee20",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081227,
+            "locality_id":85971449,
+            "neighbourhood_id":85844675,
+            "region_id":85688661,
+            "venue_id":806470829
+        }
+    ],
+    "wof:id":806470829,
+    "wof:lastmodified":1462598394,
+    "wof:name":"An Affordable Sewer Line",
+    "wof:parent_id":85844675,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sewer",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -94.359032,
+    39.13252,
+    -94.359032,
+    39.13252
+],
+  "geometry": {"coordinates":[-94.359032,39.13252],"type":"Point"}
+}

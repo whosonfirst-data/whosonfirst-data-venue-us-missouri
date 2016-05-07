@@ -1,0 +1,73 @@
+{
+  "id": 773264491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.476648,38.816123,-90.476648,38.816123",
+    "geom:latitude":38.816123,
+    "geom:longitude":-90.476648,
+    "iso:country":"US",
+    "sg:address":"355 North Dr",
+    "sg:city":"St Charles",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 724 4410",
+    "sg:postcode":"63301",
+    "sg:province":"MO",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_17tYj4qeIWExByQg3ehoHZ_38.816123_-90.476648@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462584393,
+    "wof:geomhash":"d302695b1b8812795a90b485b48cba8f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":773264491
+        }
+    ],
+    "wof:id":773264491,
+    "wof:lastmodified":1462584393,
+    "wof:name":"Warner's Auto Repair",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -90.476648,
+    38.816123,
+    -90.476648,
+    38.816123
+],
+  "geometry": {"coordinates":[-90.476648,38.816123],"type":"Point"}
+}

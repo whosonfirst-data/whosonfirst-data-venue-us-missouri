@@ -1,0 +1,73 @@
+{
+  "id": 773106325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.372603,39.358337,-94.372603,39.358337",
+    "geom:latitude":39.358337,
+    "geom:longitude":-94.372603,
+    "iso:country":"US",
+    "sg:address":"1500 Paddock Dr",
+    "sg:city":"Kearney",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 628 1212",
+    "sg:postcode":"64060",
+    "sg:province":"MO",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971507,
+        102086177,
+        85812855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3riknlnGlKw4otbixEmvWb_39.358337_-94.372603@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462583198,
+    "wof:geomhash":"048c63ef3766f19ad544b28ca7b8a294",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086177,
+            "locality_id":85971507,
+            "neighbourhood_id":85812855,
+            "region_id":85688661,
+            "venue_id":773106325
+        }
+    ],
+    "wof:id":773106325,
+    "wof:lastmodified":1462583198,
+    "wof:name":"Klepper Plumbing",
+    "wof:parent_id":85812855,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -94.372603,
+    39.358337,
+    -94.372603,
+    39.358337
+],
+  "geometry": {"coordinates":[-94.372603,39.358337],"type":"Point"}
+}

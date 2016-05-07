@@ -1,0 +1,89 @@
+{
+  "id": 807211819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.471107,39.09375,-94.471107,39.09375",
+    "geom:latitude":39.09375,
+    "geom:longitude":-94.471107,
+    "iso:country":"US",
+    "sg:address":"9206 E Truman Rd",
+    "sg:city":"Independence",
+    "sg:classifiers":[
+        {
+            "category":"Landmark",
+            "subcategory":"Monument",
+            "type":"Public Place"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Signs",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Museum",
+            "subcategory":"History Museum",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 252 7279",
+    "sg:postcode":"64052",
+    "sg:province":"MO",
+    "sg:tags":[
+        "granite",
+        "mausoleum"
+    ],
+    "sg:website":"http://johnsonandsonsmonuments.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970739,
+        102081227,
+        85810269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_30FbfC7WKNLSkPFzBdKmE2_39.093750_-94.471107@1303262932"
+    },
+    "wof:country":"US",
+    "wof:created":1462604918,
+    "wof:geomhash":"5741bb9dd35eb85e8335bf658c94237e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081227,
+            "locality_id":85970739,
+            "neighbourhood_id":85810269,
+            "region_id":85688661,
+            "venue_id":807211819
+        }
+    ],
+    "wof:id":807211819,
+    "wof:lastmodified":1462604918,
+    "wof:name":"Johnson & Sons Monuments",
+    "wof:parent_id":85810269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "granite",
+        "mausoleum"
+    ]
+},
+  "bbox": [
+    -94.471107,
+    39.09375,
+    -94.471107,
+    39.09375
+],
+  "geometry": {"coordinates":[-94.471107,39.09375],"type":"Point"}
+}

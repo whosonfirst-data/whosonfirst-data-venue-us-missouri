@@ -1,0 +1,71 @@
+{
+  "id": 790227435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.689403,39.225913,-94.689403,39.225913",
+    "geom:latitude":39.225913,
+    "geom:longitude":-94.689403,
+    "iso:country":"US",
+    "sg:address":"7327 NW Katie Cir",
+    "sg:city":"Parkville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 587 9168",
+    "sg:postcode":"64152",
+    "sg:province":"MO",
+    "sg:tags":[
+        "appliance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970739,
+        102085271,
+        85852241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Q1Nz9UbC3TChSU7xf8r3t_39.225913_-94.689403@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462594152,
+    "wof:geomhash":"892ac356f646be1cf701ab977ca30ce9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085271,
+            "locality_id":85970739,
+            "neighbourhood_id":85852241,
+            "region_id":85688661,
+            "venue_id":790227435
+        }
+    ],
+    "wof:id":790227435,
+    "wof:lastmodified":1462594152,
+    "wof:name":"K-Bob's Appliance Repair",
+    "wof:parent_id":85852241,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "appliance"
+    ]
+},
+  "bbox": [
+    -94.689403,
+    39.225913,
+    -94.689403,
+    39.225913
+],
+  "geometry": {"coordinates":[-94.689403,39.225913],"type":"Point"}
+}

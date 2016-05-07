@@ -1,0 +1,71 @@
+{
+  "id": 790549791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.500821,38.795883,-90.500821,38.795883",
+    "geom:latitude":38.795883,
+    "geom:longitude":-90.500821,
+    "iso:country":"US",
+    "sg:address":"2208 Elm St",
+    "sg:city":"St Charles",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 724 9605",
+    "sg:postcode":"63301",
+    "sg:province":"MO",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5MxCIqbsY1ykk7by0xCXkf_38.795883_-90.500821@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462596794,
+    "wof:geomhash":"1fc204c095558f3883ca73e77e156c64",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":790549791
+        }
+    ],
+    "wof:id":790549791,
+    "wof:lastmodified":1462596794,
+    "wof:name":"Hawthorne Hill's Barber Shop",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -90.500821,
+    38.795883,
+    -90.500821,
+    38.795883
+],
+  "geometry": {"coordinates":[-90.500821,38.795883],"type":"Point"}
+}

@@ -1,0 +1,88 @@
+{
+  "id": 789808589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.424226,39.248619,-94.424226,39.248619",
+    "geom:latitude":39.248619,
+    "geom:longitude":-94.424226,
+    "iso:country":"US",
+    "sg:address":"208 N Morse Ave",
+    "sg:city":"Liberty",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 781 3456",
+    "sg:postcode":"64068",
+    "sg:province":"MO",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420525367,
+        102191575,
+        404516717,
+        85633793,
+        85972461,
+        102086177,
+        85688661,
+        420525305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2SFU5NGEHuRYpTnT614tv4_39.248619_-94.424226@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462590704,
+    "wof:geomhash":"c0fd46f21c2a1efaeac751d18f91484d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086177,
+            "localadmin_id":404516717,
+            "locality_id":85972461,
+            "neighbourhood_id":420525367,
+            "region_id":85688661,
+            "venue_id":789808589
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086177,
+            "localadmin_id":404516717,
+            "locality_id":85972461,
+            "neighbourhood_id":420525305,
+            "region_id":85688661,
+            "venue_id":789808589
+        }
+    ],
+    "wof:id":789808589,
+    "wof:lastmodified":1462590704,
+    "wof:name":"Morse Plaza Apartments",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -94.424226,
+    39.248619,
+    -94.424226,
+    39.248619
+],
+  "geometry": {"coordinates":[-94.424226,39.248619],"type":"Point"}
+}

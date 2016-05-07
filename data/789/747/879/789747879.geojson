@@ -1,0 +1,77 @@
+{
+  "id": 789747879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.52711,38.560799,-90.52711,38.560799",
+    "geom:latitude":38.560799,
+    "geom:longitude":-90.52711,
+    "iso:country":"US",
+    "sg:address":"551 Elm Crossing Ct",
+    "sg:city":"Ballwin",
+    "sg:classifiers":[
+        {
+            "category":"Airline",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 394 9768",
+    "sg:postcode":"63021",
+    "sg:province":"MO",
+    "sg:tags":[
+        "scheduled",
+        "air"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85841473,
+        102191575,
+        404517461,
+        85633793,
+        85972241,
+        102086173,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_19s6fvNPSBasLiUoX9vqaB_38.560799_-90.527110@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462590238,
+    "wof:geomhash":"b2cab76d6d3cf7156a60a8a826451927",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086173,
+            "localadmin_id":404517461,
+            "locality_id":85972241,
+            "neighbourhood_id":85841473,
+            "region_id":85688661,
+            "venue_id":789747879
+        }
+    ],
+    "wof:id":789747879,
+    "wof:lastmodified":1462590238,
+    "wof:name":"Delta Airlines",
+    "wof:parent_id":85841473,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "scheduled",
+        "air"
+    ]
+},
+  "bbox": [
+    -90.52711,
+    38.560799,
+    -90.52711,
+    38.560799
+],
+  "geometry": {"coordinates":[-90.52710999999999,38.560799],"type":"Point"}
+}

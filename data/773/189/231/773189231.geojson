@@ -1,0 +1,71 @@
+{
+  "id": 773189231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.699995,38.809968,-90.699995,38.809968",
+    "geom:latitude":38.809968,
+    "geom:longitude":-90.699995,
+    "iso:country":"US",
+    "sg:address":"123 S Main St",
+    "sg:city":"O Fallon",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 397 3100",
+    "sg:postcode":"63366",
+    "sg:province":"MO",
+    "sg:tags":[
+        "handyman"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7GaaRzgcUcg4SYLOMR4zrZ_38.809968_-90.699995@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462583841,
+    "wof:geomhash":"b4597f3b917238c30dddfdf94ff9bd06",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":773189231
+        }
+    ],
+    "wof:id":773189231,
+    "wof:lastmodified":1462583841,
+    "wof:name":"Mr Fixit Handyman Svc",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "handyman"
+    ]
+},
+  "bbox": [
+    -90.699995,
+    38.809968,
+    -90.699995,
+    38.809968
+],
+  "geometry": {"coordinates":[-90.699995,38.809968],"type":"Point"}
+}

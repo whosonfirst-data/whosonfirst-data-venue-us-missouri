@@ -1,0 +1,73 @@
+{
+  "id": 789822097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.726756,38.8039,-90.726756,38.8039",
+    "geom:latitude":38.8039,
+    "geom:longitude":-90.726756,
+    "iso:country":"US",
+    "sg:address":"4 N Central Dr",
+    "sg:city":"O Fallon",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 978 5511",
+    "sg:postcode":"63366",
+    "sg:province":"MO",
+    "sg:tags":[
+        "operator",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4XK7JRIJpYI3Hx9HLTFYzN_38.803900_-90.726756@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462590809,
+    "wof:geomhash":"978ba5623b784d258bc39f3cca793cec",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":789822097
+        }
+    ],
+    "wof:id":789822097,
+    "wof:lastmodified":1462590809,
+    "wof:name":"Rl Smith Trucking",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -90.726756,
+    38.8039,
+    -90.726756,
+    38.8039
+],
+  "geometry": {"coordinates":[-90.72675599999999,38.8039],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 789585053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.495069,40.023468,-92.495069,40.023468",
+    "geom:latitude":40.023468,
+    "geom:longitude":-92.495069,
+    "iso:country":"US",
+    "sg:address":"315 W Moore St",
+    "sg:city":"La Plata",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 660 332 7119",
+    "sg:postcode":"63549",
+    "sg:province":"MO",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971149,
+        102086189,
+        85821499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5SQikSidC4riASwGxtrbN9_40.023468_-92.495069@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462588949,
+    "wof:geomhash":"d055c4282edd53c5b0c77add48e8118f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086189,
+            "locality_id":85971149,
+            "neighbourhood_id":85821499,
+            "region_id":85688661,
+            "venue_id":789585053
+        }
+    ],
+    "wof:id":789585053,
+    "wof:lastmodified":1462588949,
+    "wof:name":"La Plata Corner Cafe",
+    "wof:parent_id":85821499,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -92.495069,
+    40.023468,
+    -92.495069,
+    40.023468
+],
+  "geometry": {"coordinates":[-92.495069,40.023468],"type":"Point"}
+}

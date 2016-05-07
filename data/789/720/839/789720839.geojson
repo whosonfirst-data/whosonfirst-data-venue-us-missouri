@@ -1,0 +1,73 @@
+{
+  "id": 789720839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.772625,37.950687,-91.772625,37.950687",
+    "geom:latitude":37.950687,
+    "geom:longitude":-91.772625,
+    "iso:country":"US",
+    "sg:address":"805 N Rolla St",
+    "sg:city":"Rolla",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 368 3001",
+    "sg:postcode":"65401",
+    "sg:province":"MO",
+    "sg:tags":[
+        "repair",
+        "accessory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970821,
+        102086893,
+        85814531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4FLDf7i8zxaPuhUExG0nBt_37.950687_-91.772625@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462590028,
+    "wof:geomhash":"87388d034aa5d248b241254758741a79",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086893,
+            "locality_id":85970821,
+            "neighbourhood_id":85814531,
+            "region_id":85688661,
+            "venue_id":789720839
+        }
+    ],
+    "wof:id":789720839,
+    "wof:lastmodified":1462590028,
+    "wof:name":"Route 66 Bicycles",
+    "wof:parent_id":85814531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair",
+        "accessory"
+    ]
+},
+  "bbox": [
+    -91.772625,
+    37.950687,
+    -91.772625,
+    37.950687
+],
+  "geometry": {"coordinates":[-91.77262500000001,37.950687],"type":"Point"}
+}

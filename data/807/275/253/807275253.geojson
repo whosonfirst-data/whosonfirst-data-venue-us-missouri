@@ -1,0 +1,83 @@
+{
+  "id": 807275253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.098503,37.99464,-92.098503,37.99464",
+    "geom:latitude":37.99464,
+    "geom:longitude":-92.098503,
+    "iso:country":"US",
+    "sg:address":"400 W 4th St",
+    "sg:city":"Dixon",
+    "sg:classifiers":[
+        {
+            "category":"Place Of Worship",
+            "subcategory":"Church",
+            "type":"Public Place"
+        },
+        {
+            "category":"Place Of Worship",
+            "subcategory":"",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 759 7911",
+    "sg:postcode":"65459",
+    "sg:province":"MO",
+    "sg:tags":[
+        "churches-baptist-general",
+        "churches-baptist"
+    ],
+    "sg:website":"http://www.abc-usa.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85822351,
+        102191575,
+        404517689,
+        85633793,
+        85971093,
+        102086161,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2AVIlp2Ywmu1sf367O8FTJ_37.994640_-92.098503@1303262936"
+    },
+    "wof:country":"US",
+    "wof:created":1462605596,
+    "wof:geomhash":"466eef6b4894bb91f8f9f90b2941c1ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086161,
+            "localadmin_id":404517689,
+            "locality_id":85971093,
+            "neighbourhood_id":85822351,
+            "region_id":85688661,
+            "venue_id":807275253
+        }
+    ],
+    "wof:id":807275253,
+    "wof:lastmodified":1462605596,
+    "wof:name":"First Baptist Church",
+    "wof:parent_id":85822351,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "churches-baptist-general",
+        "churches-baptist"
+    ]
+},
+  "bbox": [
+    -92.098503,
+    37.99464,
+    -92.098503,
+    37.99464
+],
+  "geometry": {"coordinates":[-92.09850299999999,37.99464],"type":"Point"}
+}

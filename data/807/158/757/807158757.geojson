@@ -1,0 +1,83 @@
+{
+  "id": 807158757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.285902,38.645299,-90.285902,38.645299",
+    "geom:latitude":38.645299,
+    "geom:longitude":-90.285902,
+    "iso:country":"US",
+    "sg:address":"Lindell and DeBaliviere in Forest Park",
+    "sg:city":"Saint Louis",
+    "sg:classifiers":[
+        {
+            "category":"Landmark",
+            "subcategory":"Historic",
+            "type":"Public Place"
+        },
+        {
+            "category":"Museum",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 746 4599",
+    "sg:postcode":"63112",
+    "sg:province":"MO",
+    "sg:tags":[
+        "building",
+        "historical"
+    ],
+    "sg:website":"www.mohistory.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873633,
+        102191575,
+        404518053,
+        85633793,
+        85971343,
+        102080791,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_64TamtwPp2YaOmxN7xmag4_38.645299_-90.285902@1303262929"
+    },
+    "wof:country":"US",
+    "wof:created":1462604363,
+    "wof:geomhash":"db7526910b3e17255697fec53cfe29b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080791,
+            "localadmin_id":404518053,
+            "locality_id":85971343,
+            "neighbourhood_id":85873633,
+            "region_id":85688661,
+            "venue_id":807158757
+        }
+    ],
+    "wof:id":807158757,
+    "wof:lastmodified":1462604363,
+    "wof:name":"Missouri History Museum",
+    "wof:parent_id":85873633,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "historical"
+    ]
+},
+  "bbox": [
+    -90.285902,
+    38.645299,
+    -90.285902,
+    38.645299
+],
+  "geometry": {"coordinates":[-90.28590199999999,38.645299],"type":"Point"}
+}

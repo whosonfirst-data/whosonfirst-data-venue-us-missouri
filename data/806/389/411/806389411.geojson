@@ -1,0 +1,73 @@
+{
+  "id": 806389411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.60339,38.790986,-90.60339,38.790986",
+    "geom:latitude":38.790986,
+    "geom:longitude":-90.60339,
+    "iso:country":"US",
+    "sg:address":"7315 Mexico Rd",
+    "sg:city":"St Peters",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 279 2680",
+    "sg:postcode":"63376",
+    "sg:province":"MO",
+    "sg:tags":[
+        "eating",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3UhGyhcppL4jlmYoUkDt8k_38.790986_-90.603390@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462597748,
+    "wof:geomhash":"d95d8138ae1a2757b6aaaaf9f1956fbb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":806389411
+        }
+    ],
+    "wof:id":806389411,
+    "wof:lastmodified":1462597748,
+    "wof:name":"Pizza Hut",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -90.60339,
+    38.790986,
+    -90.60339,
+    38.790986
+],
+  "geometry": {"coordinates":[-90.60339,38.790986],"type":"Point"}
+}

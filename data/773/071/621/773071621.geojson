@@ -1,0 +1,71 @@
+{
+  "id": 773071621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.374422,38.418295,-90.374422,38.418295",
+    "geom:latitude":38.418295,
+    "geom:longitude":-90.374422,
+    "iso:country":"US",
+    "sg:address":"1006 Industrial Dr",
+    "sg:city":"Herculaneum",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 931 4206",
+    "sg:postcode":"63010",
+    "sg:province":"MO",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85805175,
+        102080787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7BZxHMFpjSo3f5OPxkKERi_38.418295_-90.374422@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462582946,
+    "wof:geomhash":"a9e9eaab592baa4493ecbb772195f380",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080787,
+            "neighbourhood_id":85805175,
+            "region_id":85688661,
+            "venue_id":773071621
+        }
+    ],
+    "wof:id":773071621,
+    "wof:lastmodified":1462582946,
+    "wof:name":"Advanced Behavioral Ctr",
+    "wof:parent_id":85805175,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -90.374422,
+    38.418295,
+    -90.374422,
+    38.418295
+],
+  "geometry": {"coordinates":[-90.374422,38.418295],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 789593601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.867637,37.975082,-91.867637,37.975082",
+    "geom:latitude":37.975082,
+    "geom:longitude":-91.867637,
+    "iso:country":"US",
+    "sg:address":"16460 Co Rd 8240",
+    "sg:city":"Rolla",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Scrap",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 364 2157",
+    "sg:postcode":"65401",
+    "sg:province":"MO",
+    "sg:tags":[
+        "recycling",
+        "center"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970821,
+        102086893,
+        85814531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4REjED6ALyvpf3Zrb4giiM_37.975082_-91.867637@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462589011,
+    "wof:geomhash":"13ccc91d4836d3363302f66171d699ea",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086893,
+            "locality_id":85970821,
+            "neighbourhood_id":85814531,
+            "region_id":85688661,
+            "venue_id":789593601
+        }
+    ],
+    "wof:id":789593601,
+    "wof:lastmodified":1462589011,
+    "wof:name":"Davis Recycling",
+    "wof:parent_id":85814531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "recycling",
+        "center"
+    ]
+},
+  "bbox": [
+    -91.867637,
+    37.975082,
+    -91.867637,
+    37.975082
+],
+  "geometry": {"coordinates":[-91.867637,37.975082],"type":"Point"}
+}

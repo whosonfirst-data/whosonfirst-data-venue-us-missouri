@@ -1,0 +1,82 @@
+{
+  "id": 773562473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.404907,38.555628,-90.404907,38.555628",
+    "geom:latitude":38.555628,
+    "geom:longitude":-90.404907,
+    "iso:country":"US",
+    "sg:address":"10206 Watson Rd",
+    "sg:city":"St Louis",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Hobbies, Toys, & Games",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Household Appliances",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 966 4446",
+    "sg:postcode":"63127",
+    "sg:province":"MO",
+    "sg:tags":[
+        "machine",
+        "sewing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85858243,
+        102191575,
+        404517253,
+        85633793,
+        85972177,
+        102086173,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_28RSkITaNJuPLiMsUaJYFc_38.555628_-90.404907@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462586670,
+    "wof:geomhash":"8a348bca64893c5f5a57034f160b963a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086173,
+            "localadmin_id":404517253,
+            "locality_id":85972177,
+            "neighbourhood_id":85858243,
+            "region_id":85688661,
+            "venue_id":773562473
+        }
+    ],
+    "wof:id":773562473,
+    "wof:lastmodified":1462586670,
+    "wof:name":"Make It Sew",
+    "wof:parent_id":85858243,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "sewing"
+    ]
+},
+  "bbox": [
+    -90.404907,
+    38.555628,
+    -90.404907,
+    38.555628
+],
+  "geometry": {"coordinates":[-90.40490699999999,38.555628],"type":"Point"}
+}

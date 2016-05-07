@@ -1,0 +1,73 @@
+{
+  "id": 773123441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.170292,38.576869,-92.170292,38.576869",
+    "geom:latitude":38.576869,
+    "geom:longitude":-92.170292,
+    "iso:country":"US",
+    "sg:address":"226 Madison St",
+    "sg:city":"Jefferson City",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 636 2167",
+    "sg:postcode":"65101",
+    "sg:province":"MO",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970647,
+        102087511,
+        85837745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6vUpWh8OnYOtwOy4FU5Epw_38.576869_-92.170292@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462583319,
+    "wof:geomhash":"2ccfe49244ebaa61b5ef3203f1509a1a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087511,
+            "locality_id":85970647,
+            "neighbourhood_id":85837745,
+            "region_id":85688661,
+            "venue_id":773123441
+        }
+    ],
+    "wof:id":773123441,
+    "wof:lastmodified":1462583319,
+    "wof:name":"Stokes Electric Company Inc",
+    "wof:parent_id":85837745,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -92.170292,
+    38.576869,
+    -92.170292,
+    38.576869
+],
+  "geometry": {"coordinates":[-92.170292,38.576869],"type":"Point"}
+}

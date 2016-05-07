@@ -1,0 +1,82 @@
+{
+  "id": 773606815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.436471,38.69464,-90.436471,38.69464",
+    "geom:latitude":38.69464,
+    "geom:longitude":-90.436471,
+    "iso:country":"US",
+    "sg:address":"2054 Concourse Dr",
+    "sg:city":"St Louis",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Medical Equipment & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 447 0259",
+    "sg:postcode":"63146",
+    "sg:province":"MO",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85803699,
+        102191575,
+        404517323,
+        85633793,
+        85972315,
+        102086173,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4oh53MbcyBN2BoyyTMMg3W_38.694640_-90.436471@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462586987,
+    "wof:geomhash":"c35123060683f1d8f0a92d1eeb2f44a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086173,
+            "localadmin_id":404517323,
+            "locality_id":85972315,
+            "neighbourhood_id":85803699,
+            "region_id":85688661,
+            "venue_id":773606815
+        }
+    ],
+    "wof:id":773606815,
+    "wof:lastmodified":1462586987,
+    "wof:name":"Advanced Durable Medical Inc",
+    "wof:parent_id":85803699,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -90.436471,
+    38.69464,
+    -90.436471,
+    38.69464
+],
+  "geometry": {"coordinates":[-90.436471,38.69464],"type":"Point"}
+}

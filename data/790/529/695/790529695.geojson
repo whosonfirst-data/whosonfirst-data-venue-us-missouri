@@ -1,0 +1,73 @@
+{
+  "id": 790529695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.399722,37.78143,-90.399722,37.78143",
+    "geom:latitude":37.78143,
+    "geom:longitude":-90.399722,
+    "iso:country":"US",
+    "sg:address":"115 Industrial Dr",
+    "sg:city":"Farmington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 756 7321",
+    "sg:postcode":"63640",
+    "sg:province":"MO",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970665,
+        102085297,
+        85816309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0WM9zvlsyRu0Zq83ULqj8p_37.781430_-90.399722@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462596621,
+    "wof:geomhash":"19040310e2fef090918cab776ad5a60f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085297,
+            "locality_id":85970665,
+            "neighbourhood_id":85816309,
+            "region_id":85688661,
+            "venue_id":790529695
+        }
+    ],
+    "wof:id":790529695,
+    "wof:lastmodified":1462596621,
+    "wof:name":"Billy Beard Electric",
+    "wof:parent_id":85816309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -90.399722,
+    37.78143,
+    -90.399722,
+    37.78143
+],
+  "geometry": {"coordinates":[-90.399722,37.78143],"type":"Point"}
+}

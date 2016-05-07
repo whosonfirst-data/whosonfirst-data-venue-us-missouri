@@ -1,0 +1,73 @@
+{
+  "id": 806696275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.549412,37.007671,-94.549412,37.007671",
+    "geom:latitude":37.007671,
+    "geom:longitude":-94.549412,
+    "iso:country":"US",
+    "sg:address":"4319 Dakota Ln",
+    "sg:city":"Joplin",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 782 4516",
+    "sg:postcode":"64804",
+    "sg:province":"MO",
+    "sg:tags":[
+        "truck",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971289,
+        102087471,
+        85814333
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_73KpEadyVz4llyz8Q0gKeY_37.007671_-94.549412@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462600306,
+    "wof:geomhash":"d96591714c3b15a7b8a64c18c85f6941",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087471,
+            "locality_id":85971289,
+            "neighbourhood_id":85814333,
+            "region_id":85688661,
+            "venue_id":806696275
+        }
+    ],
+    "wof:id":806696275,
+    "wof:lastmodified":1462600306,
+    "wof:name":"MidAmerican Truck Maintenance",
+    "wof:parent_id":85814333,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck",
+        "general"
+    ]
+},
+  "bbox": [
+    -94.549412,
+    37.007671,
+    -94.549412,
+    37.007671
+],
+  "geometry": {"coordinates":[-94.549412,37.007671],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 790029203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.316578,37.156444,-93.316578,37.156444",
+    "geom:latitude":37.156444,
+    "geom:longitude":-93.316578,
+    "iso:country":"US",
+    "sg:address":"1710 W Erie St",
+    "sg:city":"Springfield",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 883 9797",
+    "sg:postcode":"65807",
+    "sg:province":"MO",
+    "sg:tags":[
+        "building",
+        "apartment",
+        "management"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85881151,
+        102087523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1K04KLzKY1JZONIquedNjU_37.156444_-93.316578@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462592568,
+    "wof:geomhash":"701024bbd079088d1a79a60f3fb2d309",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087523,
+            "neighbourhood_id":85881151,
+            "region_id":85688661,
+            "venue_id":790029203
+        }
+    ],
+    "wof:id":790029203,
+    "wof:lastmodified":1462592568,
+    "wof:name":"Hunters Glen",
+    "wof:parent_id":85881151,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment",
+        "management"
+    ]
+},
+  "bbox": [
+    -93.316578,
+    37.156444,
+    -93.316578,
+    37.156444
+],
+  "geometry": {"coordinates":[-93.31657800000001,37.156444],"type":"Point"}
+}

@@ -1,0 +1,84 @@
+{
+  "id": 790193095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.286844,38.671463,-90.286844,38.671463",
+    "geom:latitude":38.671463,
+    "geom:longitude":-90.286844,
+    "iso:country":"US",
+    "sg:address":"5956 Romaine Pl",
+    "sg:city":"St Louis",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Motor Vehicles",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 890 0909",
+    "sg:postcode":"63112",
+    "sg:province":"MO",
+    "sg:tags":[
+        "car",
+        "used",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873615,
+        102191575,
+        404518053,
+        85633793,
+        85971343,
+        102080791,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_07SGssJN60DDdR4r2rwfTo_38.671463_-90.286844@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462593881,
+    "wof:geomhash":"3152cd430844a7dd2eafbcc2744bf3dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080791,
+            "localadmin_id":404518053,
+            "locality_id":85971343,
+            "neighbourhood_id":85873615,
+            "region_id":85688661,
+            "venue_id":790193095
+        }
+    ],
+    "wof:id":790193095,
+    "wof:lastmodified":1462593881,
+    "wof:name":"Acquisition Motors LLC",
+    "wof:parent_id":85873615,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "used",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -90.286844,
+    38.671463,
+    -90.286844,
+    38.671463
+],
+  "geometry": {"coordinates":[-90.286844,38.671463],"type":"Point"}
+}

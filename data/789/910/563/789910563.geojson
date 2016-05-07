@@ -1,0 +1,77 @@
+{
+  "id": 789910563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.36926,38.720806,-90.36926,38.720806",
+    "geom:latitude":38.720806,
+    "geom:longitude":-90.36926,
+    "iso:country":"US",
+    "sg:address":"9744 Saint Charles Rock Rd",
+    "sg:city":"Overland",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 423 3400",
+    "sg:postcode":"63114",
+    "sg:province":"MO",
+    "sg:tags":[
+        "leasing",
+        "furniture"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85847351,
+        102191575,
+        404517201,
+        85633793,
+        85972285,
+        102086173,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6gUtSPLRqZiXn707t8s4Ce_38.720806_-90.369260@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462591544,
+    "wof:geomhash":"dc8c78fc0331cfed131704b22c8d639e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086173,
+            "localadmin_id":404517201,
+            "locality_id":85972285,
+            "neighbourhood_id":85847351,
+            "region_id":85688661,
+            "venue_id":789910563
+        }
+    ],
+    "wof:id":789910563,
+    "wof:lastmodified":1462591544,
+    "wof:name":"Rent-A-Center",
+    "wof:parent_id":85847351,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "leasing",
+        "furniture"
+    ]
+},
+  "bbox": [
+    -90.36926,
+    38.720806,
+    -90.36926,
+    38.720806
+],
+  "geometry": {"coordinates":[-90.36926,38.720806],"type":"Point"}
+}

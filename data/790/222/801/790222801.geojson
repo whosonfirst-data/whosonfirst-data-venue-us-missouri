@@ -1,0 +1,74 @@
+{
+  "id": 790222801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.325068,37.131932,-93.325068,37.131932",
+    "geom:latitude":37.131932,
+    "geom:longitude":-93.325068,
+    "iso:country":"US",
+    "sg:address":"4470 S Park Ave",
+    "sg:city":"Springfield",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Testing Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 889 5526",
+    "sg:postcode":"65810",
+    "sg:province":"MO",
+    "sg:tags":[
+        "metallurgist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85881143,
+        102087523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_53JFgEvWxcfUuqdVHRya93_37.131932_-93.325068@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462594121,
+    "wof:geomhash":"2fb4a86000db0d1352cbf3b9cd9aa49c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087523,
+            "neighbourhood_id":85881143,
+            "region_id":85688661,
+            "venue_id":790222801
+        }
+    ],
+    "wof:id":790222801,
+    "wof:lastmodified":1462594121,
+    "wof:name":"Alpha Gamma Transform Inc",
+    "wof:parent_id":85881143,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "metallurgist"
+    ]
+},
+  "bbox": [
+    -93.325068,
+    37.131932,
+    -93.325068,
+    37.131932
+],
+  "geometry": {"coordinates":[-93.325068,37.131932],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 789680903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.774162,37.948329,-91.774162,37.948329",
+    "geom:latitude":37.948329,
+    "geom:longitude":-91.774162,
+    "iso:country":"US",
+    "sg:address":"403 W 6th St",
+    "sg:city":"Rolla",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 341 9026",
+    "sg:postcode":"65401",
+    "sg:province":"MO",
+    "sg:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ],
+    "sg:website":"www.familyvideo.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970821,
+        102086893,
+        85814531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0WzeFqfI1QiUuAOs2dD1if_37.948329_-91.774162@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462589710,
+    "wof:geomhash":"4ac22f6b2d95b43b18107bc1cbd697a2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086893,
+            "locality_id":85970821,
+            "neighbourhood_id":85814531,
+            "region_id":85688661,
+            "venue_id":789680903
+        }
+    ],
+    "wof:id":789680903,
+    "wof:lastmodified":1462589710,
+    "wof:name":"Family Video",
+    "wof:parent_id":85814531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ]
+},
+  "bbox": [
+    -91.774162,
+    37.948329,
+    -91.774162,
+    37.948329
+],
+  "geometry": {"coordinates":[-91.774162,37.948329],"type":"Point"}
+}

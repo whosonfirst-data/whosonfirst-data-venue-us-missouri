@@ -1,0 +1,74 @@
+{
+  "id": 807101225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.770519,37.949966,-91.770519,37.949966",
+    "geom:latitude":37.949966,
+    "geom:longitude":-91.770519,
+    "iso:country":"US",
+    "sg:address":"122 W 8th St",
+    "sg:city":"Rolla",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/rolla/157761-alexs-pizza-palace/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 364 2669",
+    "sg:postcode":"65401",
+    "sg:province":"MO",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970821,
+        102086893,
+        85814531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ggBCdxmrntAWxFm4kE0JP_37.950016_-91.771275@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1462603746,
+    "wof:geomhash":"ddc5b08ba75415daa70b834cbd1a238f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086893,
+            "locality_id":85970821,
+            "neighbourhood_id":85814531,
+            "region_id":85688661,
+            "venue_id":807101225
+        }
+    ],
+    "wof:id":807101225,
+    "wof:lastmodified":1462603746,
+    "wof:name":"Alex's Pizza Palace",
+    "wof:parent_id":85814531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -91.770519,
+    37.949966,
+    -91.770519,
+    37.949966
+],
+  "geometry": {"coordinates":[-91.77051899999999,37.949966],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 807072697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.619944,38.803161,-90.619944,38.803161",
+    "geom:latitude":38.803161,
+    "geom:longitude":-90.619944,
+    "iso:country":"US",
+    "sg:address":"159 Mid Rivers Mall Dr",
+    "sg:city":"Saint Peters",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/rivers/195690-taco-bell/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 970 6123",
+    "sg:postcode":"63376",
+    "sg:province":"MO",
+    "sg:tags":[
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5FLXnvNdIL6B06LozWcXbW_38.803161_-90.619944@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462603478,
+    "wof:geomhash":"64e77f909c8faafe1941aa25bcacf853",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":807072697
+        }
+    ],
+    "wof:id":807072697,
+    "wof:lastmodified":1462603478,
+    "wof:name":"Taco Bell",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican"
+    ]
+},
+  "bbox": [
+    -90.619944,
+    38.803161,
+    -90.619944,
+    38.803161
+],
+  "geometry": {"coordinates":[-90.619944,38.803161],"type":"Point"}
+}

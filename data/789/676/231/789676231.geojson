@@ -1,0 +1,77 @@
+{
+  "id": 789676231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.440961,38.602552,-90.440961,38.602552",
+    "geom:latitude":38.602552,
+    "geom:longitude":-90.440961,
+    "iso:country":"US",
+    "sg:address":"1133 Colonnade Center",
+    "sg:city":"St Louis",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 821 6006",
+    "sg:postcode":"63131",
+    "sg:province":"MO",
+    "sg:tags":[
+        "therapist",
+        "physical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85858661,
+        102191575,
+        404517203,
+        85633793,
+        85972289,
+        102086173,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ULmwxRZdE0H2MxYFgTQoy_38.602552_-90.440961@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462589671,
+    "wof:geomhash":"25b49ae7ad388e3b3f53a829a572c090",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086173,
+            "localadmin_id":404517203,
+            "locality_id":85972289,
+            "neighbourhood_id":85858661,
+            "region_id":85688661,
+            "venue_id":789676231
+        }
+    ],
+    "wof:id":789676231,
+    "wof:lastmodified":1462589671,
+    "wof:name":"Des Peres Physical Therapy",
+    "wof:parent_id":85858661,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "therapist",
+        "physical"
+    ]
+},
+  "bbox": [
+    -90.440961,
+    38.602552,
+    -90.440961,
+    38.602552
+],
+  "geometry": {"coordinates":[-90.440961,38.602552],"type":"Point"}
+}

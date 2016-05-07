@@ -1,0 +1,75 @@
+{
+  "id": 806421935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.256359,38.560857,-90.256359,38.560857",
+    "geom:latitude":38.560857,
+    "geom:longitude":-90.256359,
+    "iso:country":"US",
+    "sg:address":"911 Holly Hills Ave",
+    "sg:city":"Saint Louis",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 351 5599",
+    "sg:postcode":"63111",
+    "sg:province":"MO",
+    "sg:tags":[
+        "passenger"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85809597,
+        102191575,
+        404518053,
+        85633793,
+        85971343,
+        102080791,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1aVle6J5HiTQV4SEn3Uy7U_38.560857_-90.256359@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462598021,
+    "wof:geomhash":"f5dfef0ed6a2653bc000b860de94b5e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080791,
+            "localadmin_id":404518053,
+            "locality_id":85971343,
+            "neighbourhood_id":85809597,
+            "region_id":85688661,
+            "venue_id":806421935
+        }
+    ],
+    "wof:id":806421935,
+    "wof:lastmodified":1462598021,
+    "wof:name":"Gatway Ambulance & Van Service",
+    "wof:parent_id":85809597,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "passenger"
+    ]
+},
+  "bbox": [
+    -90.256359,
+    38.560857,
+    -90.256359,
+    38.560857
+],
+  "geometry": {"coordinates":[-90.256359,38.560857],"type":"Point"}
+}

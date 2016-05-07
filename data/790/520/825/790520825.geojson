@@ -1,0 +1,73 @@
+{
+  "id": 790520825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.752118,38.806166,-90.752118,38.806166",
+    "geom:latitude":38.806166,
+    "geom:longitude":-90.752118,
+    "iso:country":"US",
+    "sg:address":"45 W Industrial Dr",
+    "sg:city":"O Fallon",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 978 3345",
+    "sg:postcode":"63366",
+    "sg:province":"MO",
+    "sg:tags":[
+        "industrial",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7azFMRFOeSMV7BUwrCJisw_38.806166_-90.752118@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462596548,
+    "wof:geomhash":"22171fb84f16bb3c8acc60ad43708d07",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":790520825
+        }
+    ],
+    "wof:id":790520825,
+    "wof:lastmodified":1462596548,
+    "wof:name":"Moore Construction Service",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industrial",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -90.752118,
+    38.806166,
+    -90.752118,
+    38.806166
+],
+  "geometry": {"coordinates":[-90.752118,38.806166],"type":"Point"}
+}

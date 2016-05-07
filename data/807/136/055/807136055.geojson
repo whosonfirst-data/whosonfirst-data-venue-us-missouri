@@ -1,0 +1,90 @@
+{
+  "id": 807136055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.199039,38.632787,-90.199039,38.632787",
+    "geom:latitude":38.632787,
+    "geom:longitude":-90.199039,
+    "iso:country":"US",
+    "sg:address":"1327 Washington Ave",
+    "sg:city":"St. Louis",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Candy",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Ice Cream",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 621 8838",
+    "sg:postcode":"63103",
+    "sg:province":"MO",
+    "sg:tags":[
+        "frozen",
+        "dessert",
+        "yogurt"
+    ],
+    "sg:website":"www.gelateriatavolini.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873645,
+        102191575,
+        404518053,
+        85633793,
+        85971343,
+        102080791,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3zvjDzEa2nImk2FIJ7Iigv_38.632787_-90.199039@1303262927"
+    },
+    "wof:country":"US",
+    "wof:created":1462604122,
+    "wof:geomhash":"48ea3629c6070536fe976d6b3a2db9f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080791,
+            "localadmin_id":404518053,
+            "locality_id":85971343,
+            "neighbourhood_id":85873645,
+            "region_id":85688661,
+            "venue_id":807136055
+        }
+    ],
+    "wof:id":807136055,
+    "wof:lastmodified":1462604122,
+    "wof:name":"Gelateria Tavolini",
+    "wof:parent_id":85873645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "frozen",
+        "dessert",
+        "yogurt"
+    ]
+},
+  "bbox": [
+    -90.199039,
+    38.632787,
+    -90.199039,
+    38.632787
+],
+  "geometry": {"coordinates":[-90.199039,38.632787],"type":"Point"}
+}

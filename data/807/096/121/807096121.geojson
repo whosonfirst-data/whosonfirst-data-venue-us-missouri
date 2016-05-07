@@ -1,0 +1,72 @@
+{
+  "id": 807096121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.296089,37.153802,-93.296089,37.153802",
+    "geom:latitude":37.153802,
+    "geom:longitude":-93.296089,
+    "iso:country":"US",
+    "sg:address":"3315 S Campbell Ave",
+    "sg:city":"Springfield",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/springfield/148686-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 823 8848",
+    "sg:postcode":"65807",
+    "sg:province":"MO",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85881151,
+        102087523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_11a95IM5SZZ71Cl2iNtBpJ_37.153802_-93.296089@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462603676,
+    "wof:geomhash":"b4cc1fdf68a890107f480345a7e45058",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087523,
+            "neighbourhood_id":85881151,
+            "region_id":85688661,
+            "venue_id":807096121
+        }
+    ],
+    "wof:id":807096121,
+    "wof:lastmodified":1462603676,
+    "wof:name":"Subway",
+    "wof:parent_id":85881151,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -93.296089,
+    37.153802,
+    -93.296089,
+    37.153802
+],
+  "geometry": {"coordinates":[-93.29608899999999,37.153802],"type":"Point"}
+}

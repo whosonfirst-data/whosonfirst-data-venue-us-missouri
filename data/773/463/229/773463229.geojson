@@ -1,0 +1,75 @@
+{
+  "id": 773463229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.512102,38.820152,-90.512102,38.820152",
+    "geom:latitude":38.820152,
+    "geom:longitude":-90.512102,
+    "iso:country":"US",
+    "sg:address":"3041 Elm Point Industrial Dr",
+    "sg:city":"Saint Charles",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 428 7870",
+    "sg:postcode":"63301",
+    "sg:province":"MO",
+    "sg:tags":[
+        "plumbing",
+        "conditioner",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3VdNK2YqorYxjiWhBUiB5M_38.820152_-90.512102@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462585940,
+    "wof:geomhash":"c77e273566887f63b49e52db1708a8a2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":773463229
+        }
+    ],
+    "wof:id":773463229,
+    "wof:lastmodified":1462585940,
+    "wof:name":"Roto-Rooter",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "conditioner",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -90.512102,
+    38.820152,
+    -90.512102,
+    38.820152
+],
+  "geometry": {"coordinates":[-90.512102,38.820152],"type":"Point"}
+}

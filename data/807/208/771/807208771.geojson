@@ -1,0 +1,86 @@
+{
+  "id": 807208771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.531349,38.889191,-94.531349,38.889191",
+    "geom:latitude":38.889191,
+    "geom:longitude":-94.531349,
+    "iso:country":"US",
+    "sg:address":"1200 Main St",
+    "sg:city":"Grandview",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 316 4837",
+    "sg:postcode":"64030",
+    "sg:province":"MO",
+    "sg:tags":[
+        "department",
+        "township",
+        "government-city",
+        "village"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85871945,
+        102191575,
+        404518085,
+        85633793,
+        85971459,
+        102081227,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1z7ACCEXqY4uX0DjRG1zrn_38.889191_-94.531349@1303262932"
+    },
+    "wof:country":"US",
+    "wof:created":1462604885,
+    "wof:geomhash":"4db22bf01c2ad47df66cbc93db9bc560",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081227,
+            "localadmin_id":404518085,
+            "locality_id":85971459,
+            "neighbourhood_id":85871945,
+            "region_id":85688661,
+            "venue_id":807208771
+        }
+    ],
+    "wof:id":807208771,
+    "wof:lastmodified":1462604885,
+    "wof:name":"Grandview Plice Drg Task Force",
+    "wof:parent_id":85871945,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department",
+        "township",
+        "government-city",
+        "village"
+    ]
+},
+  "bbox": [
+    -94.531349,
+    38.889191,
+    -94.531349,
+    38.889191
+],
+  "geometry": {"coordinates":[-94.53134900000001,38.889191],"type":"Point"}
+}

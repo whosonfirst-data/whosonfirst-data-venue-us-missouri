@@ -1,0 +1,71 @@
+{
+  "id": 806451997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.491247,40.023477,-92.491247,40.023477",
+    "geom:latitude":40.023477,
+    "geom:longitude":-92.491247,
+    "iso:country":"US",
+    "sg:address":"129 E Moore St",
+    "sg:city":"La Plata",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 660 332 7939",
+    "sg:postcode":"63549",
+    "sg:province":"MO",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971149,
+        102086189,
+        85821499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5rCmyGNNAQ8DWd9Gndc101_40.023477_-92.491247@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462598258,
+    "wof:geomhash":"9b3b743ae6dd9e57f991a89305ccada7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086189,
+            "locality_id":85971149,
+            "neighbourhood_id":85821499,
+            "region_id":85688661,
+            "venue_id":806451997
+        }
+    ],
+    "wof:id":806451997,
+    "wof:lastmodified":1462598258,
+    "wof:name":"Grandma's Home Cookin",
+    "wof:parent_id":85821499,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -92.491247,
+    40.023477,
+    -92.491247,
+    40.023477
+],
+  "geometry": {"coordinates":[-92.491247,40.023477],"type":"Point"}
+}

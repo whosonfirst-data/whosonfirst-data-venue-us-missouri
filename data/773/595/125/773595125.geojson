@@ -1,0 +1,73 @@
+{
+  "id": 773595125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.491626,40.021913,-92.491626,40.021913",
+    "geom:latitude":40.021913,
+    "geom:longitude":-92.491626,
+    "iso:country":"US",
+    "sg:address":"227 S Gex St",
+    "sg:city":"La Plata",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 660 332 7400",
+    "sg:postcode":"63549",
+    "sg:province":"MO",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971149,
+        102086189,
+        85821499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ar8CxN8IqnGnxwsC9TVj7_40.021913_-92.491626@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462586908,
+    "wof:geomhash":"fefd823421a77bc4ab6d1bc671f4ebe7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086189,
+            "locality_id":85971149,
+            "neighbourhood_id":85821499,
+            "region_id":85688661,
+            "venue_id":773595125
+        }
+    ],
+    "wof:id":773595125,
+    "wof:lastmodified":1462586908,
+    "wof:name":"Roddy's Auto Repair",
+    "wof:parent_id":85821499,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -92.491626,
+    40.021913,
+    -92.491626,
+    40.021913
+],
+  "geometry": {"coordinates":[-92.491626,40.021913],"type":"Point"}
+}

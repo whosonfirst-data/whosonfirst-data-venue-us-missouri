@@ -1,0 +1,78 @@
+{
+  "id": 773088539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.693277,37.983348,-91.693277,37.983348",
+    "geom:latitude":37.983348,
+    "geom:longitude":-91.693277,
+    "iso:country":"US",
+    "sg:address":"12565 Old Hwy 66",
+    "sg:city":"Rolla",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 265 3957",
+    "sg:postcode":"65401",
+    "sg:province":"MO",
+    "sg:tags":[
+        "welding",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970821,
+        102086893,
+        85814531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ab0waanKufs9lz8Jm1GXf_37.983348_-91.693277@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462583069,
+    "wof:geomhash":"733033846fdbb32a4de0fbe9b73888f6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086893,
+            "locality_id":85970821,
+            "neighbourhood_id":85814531,
+            "region_id":85688661,
+            "venue_id":773088539
+        }
+    ],
+    "wof:id":773088539,
+    "wof:lastmodified":1462583069,
+    "wof:name":"Crider's Welding",
+    "wof:parent_id":85814531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "welding",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -91.693277,
+    37.983348,
+    -91.693277,
+    37.983348
+],
+  "geometry": {"coordinates":[-91.69327699999999,37.983348],"type":"Point"}
+}

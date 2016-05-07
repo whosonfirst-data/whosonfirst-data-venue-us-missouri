@@ -1,0 +1,77 @@
+{
+  "id": 789608445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.505411,38.592766,-90.505411,38.592766",
+    "geom:latitude":38.592766,
+    "geom:longitude":-90.505411,
+    "iso:country":"US",
+    "sg:address":"14269 Manchester Rd",
+    "sg:city":"Ballwin",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 391 1222",
+    "sg:postcode":"63011",
+    "sg:province":"MO",
+    "sg:tags":[
+        "body",
+        "collision"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85802943,
+        102191575,
+        404517387,
+        85633793,
+        85972231,
+        102086173,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_60kB8j79k4JZZ5eLb9FP4G_38.592766_-90.505411@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462589128,
+    "wof:geomhash":"0af1f6f5c647473bbec8ae23b1e0da5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086173,
+            "localadmin_id":404517387,
+            "locality_id":85972231,
+            "neighbourhood_id":85802943,
+            "region_id":85688661,
+            "venue_id":789608445
+        }
+    ],
+    "wof:id":789608445,
+    "wof:lastmodified":1462589128,
+    "wof:name":"David Godats Auto Body Inc",
+    "wof:parent_id":85802943,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "collision"
+    ]
+},
+  "bbox": [
+    -90.505411,
+    38.592766,
+    -90.505411,
+    38.592766
+],
+  "geometry": {"coordinates":[-90.505411,38.592766],"type":"Point"}
+}

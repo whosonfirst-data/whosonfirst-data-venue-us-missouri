@@ -1,0 +1,76 @@
+{
+  "id": 807069381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.464469,38.675432,-90.464469,38.675432",
+    "geom:latitude":38.675432,
+    "geom:longitude":-90.464469,
+    "iso:country":"US",
+    "sg:address":"12536 A Olive Rd.",
+    "sg:city":"Saint Louis",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/creve-coeur/55438-la-salsa/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 275 7257",
+    "sg:postcode":"63141",
+    "sg:province":"MO",
+    "sg:tags":[
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85805719,
+        102191575,
+        404517323,
+        85633793,
+        85972315,
+        102086173,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2WAr4Z48sAK0Ldqx5YbDPF_38.675432_-90.464469@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462603440,
+    "wof:geomhash":"e794ff36727cad6159f5f3d482dc3d19",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086173,
+            "localadmin_id":404517323,
+            "locality_id":85972315,
+            "neighbourhood_id":85805719,
+            "region_id":85688661,
+            "venue_id":807069381
+        }
+    ],
+    "wof:id":807069381,
+    "wof:lastmodified":1462603440,
+    "wof:name":"La Salsa",
+    "wof:parent_id":85805719,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican"
+    ]
+},
+  "bbox": [
+    -90.464469,
+    38.675432,
+    -90.464469,
+    38.675432
+],
+  "geometry": {"coordinates":[-90.46446899999999,38.675432],"type":"Point"}
+}

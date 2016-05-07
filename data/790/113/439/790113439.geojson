@@ -1,0 +1,71 @@
+{
+  "id": 790113439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.512805,39.809426,-91.512805,39.809426",
+    "geom:latitude":39.809426,
+    "geom:longitude":-91.512805,
+    "iso:country":"US",
+    "sg:address":"7142 State Hwy 168",
+    "sg:city":"Palmyra",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 769 4654",
+    "sg:postcode":"63461",
+    "sg:province":"MO",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688697,
+        85633793,
+        85938427,
+        102086213,
+        85867477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0iSSwSBEreyrz3qgmPOJcY_39.809426_-91.512805@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462593242,
+    "wof:geomhash":"66f702e4c729289eb139fc36f05d4197",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086213,
+            "locality_id":85938427,
+            "neighbourhood_id":85867477,
+            "region_id":85688697,
+            "venue_id":790113439
+        }
+    ],
+    "wof:id":790113439,
+    "wof:lastmodified":1462593242,
+    "wof:name":"PARTS",
+    "wof:parent_id":85867477,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -91.512805,
+    39.809426,
+    -91.512805,
+    39.809426
+],
+  "geometry": {"coordinates":[-91.512805,39.809426],"type":"Point"}
+}

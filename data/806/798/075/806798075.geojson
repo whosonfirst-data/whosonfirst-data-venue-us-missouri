@@ -1,0 +1,79 @@
+{
+  "id": 806798075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.251589,38.619285,-90.251589,38.619285",
+    "geom:latitude":38.619285,
+    "geom:longitude":-90.251589,
+    "iso:country":"US",
+    "sg:address":"4151 McRee Ave",
+    "sg:city":"Saint Louis",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 773 1917",
+    "sg:postcode":"63110",
+    "sg:province":"MO",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873657,
+        102191575,
+        404518053,
+        85633793,
+        85971343,
+        102080791,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4XGhP7Wp288siSs52Jg6j8_38.619285_-90.251589@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462601169,
+    "wof:geomhash":"950f27e7e76ae8c43c32947e08325750",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080791,
+            "localadmin_id":404518053,
+            "locality_id":85971343,
+            "neighbourhood_id":85873657,
+            "region_id":85688661,
+            "venue_id":806798075
+        }
+    ],
+    "wof:id":806798075,
+    "wof:lastmodified":1462601169,
+    "wof:name":"Combs Trucking",
+    "wof:parent_id":85873657,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -90.251589,
+    38.619285,
+    -90.251589,
+    38.619285
+],
+  "geometry": {"coordinates":[-90.251589,38.619285],"type":"Point"}
+}

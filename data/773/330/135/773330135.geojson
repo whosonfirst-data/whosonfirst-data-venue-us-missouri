@@ -1,0 +1,75 @@
+{
+  "id": 773330135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.242357,37.202855,-93.242357,37.202855",
+    "geom:latitude":37.202855,
+    "geom:longitude":-93.242357,
+    "iso:country":"US",
+    "sg:address":"2619 E Cherry St",
+    "sg:city":"Springfield",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 865 8855",
+    "sg:postcode":"65802",
+    "sg:province":"MO",
+    "sg:tags":[
+        "equipment",
+        "conditioning",
+        "air"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971363,
+        102087523,
+        85881137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3oVmLZwHhUjBaMRuqrLRCu_37.202855_-93.242357@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462584915,
+    "wof:geomhash":"52e44f51ab3758ceede1a47a77af6b9d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087523,
+            "locality_id":85971363,
+            "neighbourhood_id":85881137,
+            "region_id":85688661,
+            "venue_id":773330135
+        }
+    ],
+    "wof:id":773330135,
+    "wof:lastmodified":1462584915,
+    "wof:name":"Bob's Refrigeration Svc",
+    "wof:parent_id":85881137,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "conditioning",
+        "air"
+    ]
+},
+  "bbox": [
+    -93.242357,
+    37.202855,
+    -93.242357,
+    37.202855
+],
+  "geometry": {"coordinates":[-93.242357,37.202855],"type":"Point"}
+}

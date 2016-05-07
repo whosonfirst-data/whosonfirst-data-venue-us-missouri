@@ -1,0 +1,88 @@
+{
+  "id": 773583641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.576496,39.198245,-94.576496,39.198245",
+    "geom:latitude":39.198245,
+    "geom:longitude":-94.576496,
+    "iso:country":"US",
+    "sg:address":"5720 N Oak Fwy",
+    "sg:city":"Gladstone",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 453 0066",
+    "sg:postcode":"64118",
+    "sg:province":"MO",
+    "sg:tags":[
+        "station",
+        "oil",
+        "gasoline",
+        "automotive",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420525307,
+        102191575,
+        404516715,
+        85633793,
+        85972447,
+        102086177,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6tB3KQmtC1uV71lZ603ayW_39.198245_-94.576496@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462586828,
+    "wof:geomhash":"9473d70011911e120d02ffcfa9da78df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086177,
+            "localadmin_id":404516715,
+            "locality_id":85972447,
+            "neighbourhood_id":420525307,
+            "region_id":85688661,
+            "venue_id":773583641
+        }
+    ],
+    "wof:id":773583641,
+    "wof:lastmodified":1462586828,
+    "wof:name":"North Oak Amoco",
+    "wof:parent_id":420525307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "oil",
+        "gasoline",
+        "automotive",
+        "general"
+    ]
+},
+  "bbox": [
+    -94.576496,
+    39.198245,
+    -94.576496,
+    39.198245
+],
+  "geometry": {"coordinates":[-94.57649600000001,39.198245],"type":"Point"}
+}

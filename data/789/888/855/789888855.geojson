@@ -1,0 +1,69 @@
+{
+  "id": 789888855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.347724,37.132228,-93.347724,37.132228",
+    "geom:latitude":37.132228,
+    "geom:longitude":-93.347724,
+    "iso:country":"US",
+    "sg:address":"3689 W Vincent Dr",
+    "sg:city":"Springfield",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 886 0770",
+    "sg:postcode":"65810",
+    "sg:province":"MO",
+    "sg:tags":[
+        "golf"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85881151,
+        102087523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2WmKIdtZ3vCplnc6sKKpaz_37.132228_-93.347724@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462591359,
+    "wof:geomhash":"1e66b1f3d1eaf3e29d4b1174b5d76d9c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087523,
+            "neighbourhood_id":85881151,
+            "region_id":85688661,
+            "venue_id":789888855
+        }
+    ],
+    "wof:id":789888855,
+    "wof:lastmodified":1462591359,
+    "wof:name":"Golf USA",
+    "wof:parent_id":85881151,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "golf"
+    ]
+},
+  "bbox": [
+    -93.347724,
+    37.132228,
+    -93.347724,
+    37.132228
+],
+  "geometry": {"coordinates":[-93.347724,37.132228],"type":"Point"}
+}

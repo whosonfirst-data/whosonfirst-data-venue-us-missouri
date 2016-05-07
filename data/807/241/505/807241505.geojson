@@ -1,0 +1,99 @@
+{
+  "id": 807241505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.534415,37.055353,-94.534415,37.055353",
+    "geom:latitude":37.055353,
+    "geom:longitude":-94.534415,
+    "iso:country":"US",
+    "sg:address":"1901 E 32nd St",
+    "sg:city":"Joplin",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        },
+        {
+            "category":"Insurance",
+            "subcategory":"Hazard Insurance",
+            "type":"Services"
+        },
+        {
+            "category":"Insurance",
+            "subcategory":"Title Insurance",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 624 6200",
+    "sg:postcode":"64804",
+    "sg:province":"MO",
+    "sg:tags":[
+        "auto",
+        "homeowner"
+    ],
+    "sg:website":"http://apps.amfam.com/agentlocator/SHASKINS?sourceid=yp3",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85885363,
+        102191575,
+        404518215,
+        85633793,
+        85970893,
+        102087525,
+        85688661,
+        85971289,
+        102087471,
+        85814333
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4qUJLiSV20glnKaM4kwquV_37.055353_-94.534415@1303262934"
+    },
+    "wof:country":"US",
+    "wof:created":1462605224,
+    "wof:geomhash":"763ff023bf916b2264c1a16ffc753a52",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087525,
+            "localadmin_id":404518215,
+            "locality_id":85970893,
+            "neighbourhood_id":85885363,
+            "region_id":85688661,
+            "venue_id":807241505
+        },
+        {
+            "country_id":85633793,
+            "county_id":102087471,
+            "locality_id":85971289,
+            "neighbourhood_id":85814333,
+            "region_id":85688661,
+            "venue_id":807241505
+        }
+    ],
+    "wof:id":807241505,
+    "wof:lastmodified":1462605224,
+    "wof:name":"American Family Insurance- Steven Haskins",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "auto",
+        "homeowner"
+    ]
+},
+  "bbox": [
+    -94.534415,
+    37.055353,
+    -94.534415,
+    37.055353
+],
+  "geometry": {"coordinates":[-94.534415,37.055353],"type":"Point"}
+}

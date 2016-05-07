@@ -1,0 +1,73 @@
+{
+  "id": 789988709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.167254,39.344221,-91.167254,39.344221",
+    "geom:latitude":39.344221,
+    "geom:longitude":-91.167254,
+    "iso:country":"US",
+    "sg:address":"16568 Pike 282",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Water",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 324 5826",
+    "sg:postcode":"63334",
+    "sg:province":"MO",
+    "sg:tags":[
+        "company",
+        "sewage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971907,
+        102086151,
+        85817909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_56Dp7qcx1XTX1BDqqgBwH2_39.344221_-91.167254@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462592237,
+    "wof:geomhash":"fb2ba8bde1dec3bd69a3da4db17052c5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086151,
+            "locality_id":85971907,
+            "neighbourhood_id":85817909,
+            "region_id":85688661,
+            "venue_id":789988709
+        }
+    ],
+    "wof:id":789988709,
+    "wof:lastmodified":1462592237,
+    "wof:name":"Bowling Green Water Dept",
+    "wof:parent_id":85817909,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company",
+        "sewage"
+    ]
+},
+  "bbox": [
+    -91.167254,
+    39.344221,
+    -91.167254,
+    39.344221
+],
+  "geometry": {"coordinates":[-91.167254,39.344221],"type":"Point"}
+}

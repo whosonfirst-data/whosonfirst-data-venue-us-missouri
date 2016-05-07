@@ -1,0 +1,71 @@
+{
+  "id": 789614057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.42076,37.782066,-90.42076,37.782066",
+    "geom:latitude":37.782066,
+    "geom:longitude":-90.42076,
+    "iso:country":"US",
+    "sg:address":"119 N Washington St",
+    "sg:city":"Farmington",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 747 0101",
+    "sg:postcode":"63640",
+    "sg:province":"MO",
+    "sg:tags":[
+        "skilled"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970665,
+        102085297,
+        85816309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5T1zCPKATgngZrDyQn6NR0_37.782066_-90.420760@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462589166,
+    "wof:geomhash":"7544b54f7a41cd81f5b3a3245a130762",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085297,
+            "locality_id":85970665,
+            "neighbourhood_id":85816309,
+            "region_id":85688661,
+            "venue_id":789614057
+        }
+    ],
+    "wof:id":789614057,
+    "wof:lastmodified":1462589166,
+    "wof:name":"Mercy Hospice",
+    "wof:parent_id":85816309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "skilled"
+    ]
+},
+  "bbox": [
+    -90.42076,
+    37.782066,
+    -90.42076,
+    37.782066
+],
+  "geometry": {"coordinates":[-90.42076,37.782066],"type":"Point"}
+}

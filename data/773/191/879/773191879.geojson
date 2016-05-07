@@ -1,0 +1,73 @@
+{
+  "id": 773191879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.638616,37.97165,-91.638616,37.97165",
+    "geom:latitude":37.97165,
+    "geom:longitude":-91.638616,
+    "iso:country":"US",
+    "sg:address":"18224 State Hwy Bb",
+    "sg:city":"St James",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 265 2629",
+    "sg:postcode":"65559",
+    "sg:province":"MO",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970819,
+        102086893,
+        85847353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_06RjLihVixD5k9Met1TUbF_37.971650_-91.638616@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462583864,
+    "wof:geomhash":"c2e835c1b9926ad98809a04cedba5916",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086893,
+            "locality_id":85970819,
+            "neighbourhood_id":85847353,
+            "region_id":85688661,
+            "venue_id":773191879
+        }
+    ],
+    "wof:id":773191879,
+    "wof:lastmodified":1462583864,
+    "wof:name":"Automax",
+    "wof:parent_id":85847353,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -91.638616,
+    37.97165,
+    -91.638616,
+    37.97165
+],
+  "geometry": {"coordinates":[-91.638616,37.97165],"type":"Point"}
+}

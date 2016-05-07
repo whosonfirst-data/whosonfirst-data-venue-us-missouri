@@ -1,0 +1,71 @@
+{
+  "id": 789842119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.898152,39.409371,-94.898152,39.409371",
+    "geom:latitude":39.409371,
+    "geom:longitude":-94.898152,
+    "iso:country":"US",
+    "sg:address":"420 Thomas St",
+    "sg:city":"Weston",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 386 5568",
+    "sg:postcode":"64098",
+    "sg:province":"MO",
+    "sg:tags":[
+        "woodworker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970739,
+        102085271,
+        85823759
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ATlqx8ERsDrXxOFu0VG3g_39.409371_-94.898152@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462590963,
+    "wof:geomhash":"73a73749e864031bc5b3649b86d4e3ef",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085271,
+            "locality_id":85970739,
+            "neighbourhood_id":85823759,
+            "region_id":85688661,
+            "venue_id":789842119
+        }
+    ],
+    "wof:id":789842119,
+    "wof:lastmodified":1462590963,
+    "wof:name":"Custom Woodworks",
+    "wof:parent_id":85823759,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "woodworker"
+    ]
+},
+  "bbox": [
+    -94.898152,
+    39.409371,
+    -94.898152,
+    39.409371
+],
+  "geometry": {"coordinates":[-94.898152,39.409371],"type":"Point"}
+}

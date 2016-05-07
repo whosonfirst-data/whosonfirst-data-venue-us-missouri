@@ -1,0 +1,79 @@
+{
+  "id": 807034019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.262604,38.579399,-90.262604,38.579399",
+    "geom:latitude":38.579399,
+    "geom:longitude":-90.262604,
+    "iso:country":"US",
+    "sg:address":"4130 Delor St",
+    "sg:city":"Saint Louis",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 353 8573",
+    "sg:postcode":"63116",
+    "sg:province":"MO",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "radiator"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873691,
+        102191575,
+        404518053,
+        85633793,
+        85971343,
+        102080791,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4VjH4TiO5nWO33ODhLXZnt_38.579712_-90.263286@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1462603155,
+    "wof:geomhash":"b1b10d303b102c1cab90be9062c54335",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080791,
+            "localadmin_id":404518053,
+            "locality_id":85971343,
+            "neighbourhood_id":85873691,
+            "region_id":85688661,
+            "venue_id":807034019
+        }
+    ],
+    "wof:id":807034019,
+    "wof:lastmodified":1462603155,
+    "wof:name":"St Louis Radiator",
+    "wof:parent_id":85873691,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "radiator"
+    ]
+},
+  "bbox": [
+    -90.262604,
+    38.579399,
+    -90.262604,
+    38.579399
+],
+  "geometry": {"coordinates":[-90.262604,38.579399],"type":"Point"}
+}

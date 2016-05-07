@@ -1,0 +1,81 @@
+{
+  "id": 789838287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.439656,39.241584,-94.439656,39.241584",
+    "geom:latitude":39.241584,
+    "geom:longitude":-94.439656,
+    "iso:country":"US",
+    "sg:address":"1151 Orchard Ave",
+    "sg:city":"Liberty",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 781 1510",
+    "sg:postcode":"64068",
+    "sg:province":"MO",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420525305,
+        102191575,
+        404516717,
+        85633793,
+        85972461,
+        102086177,
+        85688661,
+        420525367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3BRnURcxaWvE5GcVdfvKFg_39.241584_-94.439656@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462590933,
+    "wof:geomhash":"e12bad2bfae7bab8ce085e390d8900eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086177,
+            "localadmin_id":404516717,
+            "locality_id":85972461,
+            "neighbourhood_id":420525305,
+            "region_id":85688661,
+            "venue_id":789838287
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086177,
+            "localadmin_id":404516717,
+            "locality_id":85972461,
+            "neighbourhood_id":420525367,
+            "region_id":85688661,
+            "venue_id":789838287
+        }
+    ],
+    "wof:id":789838287,
+    "wof:lastmodified":1462590933,
+    "wof:name":"Howard Joseph N",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -94.439656,
+    39.241584,
+    -94.439656,
+    39.241584
+],
+  "geometry": {"coordinates":[-94.439656,39.241584],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 807069347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.411876,38.674777,-90.411876,38.674777",
+    "geom:latitude":38.674777,
+    "geom:longitude":-90.411876,
+    "iso:country":"US",
+    "sg:address":"10550 Old Olive Street Rd",
+    "sg:city":"Saint Louis",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/creve-coeur/55133-st-louis-bread-co/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 872 8946",
+    "sg:postcode":"63141",
+    "sg:province":"MO",
+    "sg:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85803699,
+        102191575,
+        404517323,
+        85633793,
+        85972315,
+        102086173,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ThOe5ay73eLN2YWqnbSoL_38.674777_-90.411876@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462603440,
+    "wof:geomhash":"f861baea66df1b389f6896c7d9d01b63",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086173,
+            "localadmin_id":404517323,
+            "locality_id":85972315,
+            "neighbourhood_id":85803699,
+            "region_id":85688661,
+            "venue_id":807069347
+        }
+    ],
+    "wof:id":807069347,
+    "wof:lastmodified":1462603440,
+    "wof:name":"St. Louis Bread Co.",
+    "wof:parent_id":85803699,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -90.411876,
+    38.674777,
+    -90.411876,
+    38.674777
+],
+  "geometry": {"coordinates":[-90.41187600000001,38.674777],"type":"Point"}
+}

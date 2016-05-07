@@ -1,0 +1,71 @@
+{
+  "id": 773525913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.167555,38.577155,-92.167555,38.577155",
+    "geom:latitude":38.577155,
+    "geom:longitude":-92.167555,
+    "iso:country":"US",
+    "sg:address":"301 E State St",
+    "sg:city":"Jefferson City",
+    "sg:classifiers":[
+        {
+            "category":"Railroad",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 634 7437",
+    "sg:postcode":"65101",
+    "sg:province":"MO",
+    "sg:tags":[
+        "rail"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970647,
+        102087511,
+        85837745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0dvoDn6bzLhBs9Xgj3Mqmm_38.577155_-92.167555@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462586384,
+    "wof:geomhash":"9b2830ac9db6047d809d60abd9702bec",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087511,
+            "locality_id":85970647,
+            "neighbourhood_id":85837745,
+            "region_id":85688661,
+            "venue_id":773525913
+        }
+    ],
+    "wof:id":773525913,
+    "wof:lastmodified":1462586384,
+    "wof:name":"Saint Louis Southwestern Rlwy",
+    "wof:parent_id":85837745,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "rail"
+    ]
+},
+  "bbox": [
+    -92.167555,
+    38.577155,
+    -92.167555,
+    38.577155
+],
+  "geometry": {"coordinates":[-92.16755499999999,38.577155],"type":"Point"}
+}

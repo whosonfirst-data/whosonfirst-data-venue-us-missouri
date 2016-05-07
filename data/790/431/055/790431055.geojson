@@ -1,0 +1,79 @@
+{
+  "id": 790431055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.253674,38.660316,-90.253674,38.660316",
+    "geom:latitude":38.660316,
+    "geom:longitude":-90.253674,
+    "iso:country":"US",
+    "sg:address":"4761 Dr Martin Luther King Dr",
+    "sg:city":"St Louis",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 535 9191",
+    "sg:postcode":"63113",
+    "sg:province":"MO",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420525461,
+        102191575,
+        404518053,
+        85633793,
+        85971343,
+        102080791,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ZlFYw6aV5TlMQDa24w4v7_38.660316_-90.253674@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462595778,
+    "wof:geomhash":"45f69fd4287d31194d931e2ba73ac5a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080791,
+            "localadmin_id":404518053,
+            "locality_id":85971343,
+            "neighbourhood_id":420525461,
+            "region_id":85688661,
+            "venue_id":790431055
+        }
+    ],
+    "wof:id":790431055,
+    "wof:lastmodified":1462595778,
+    "wof:name":"Action Auto Repair",
+    "wof:parent_id":420525461,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ]
+},
+  "bbox": [
+    -90.253674,
+    38.660316,
+    -90.253674,
+    38.660316
+],
+  "geometry": {"coordinates":[-90.253674,38.660316],"type":"Point"}
+}

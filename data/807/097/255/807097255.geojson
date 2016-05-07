@@ -1,0 +1,76 @@
+{
+  "id": 807097255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.214842,38.602872,-90.214842,38.602872",
+    "geom:latitude":38.602872,
+    "geom:longitude":-90.214842,
+    "iso:country":"US",
+    "sg:address":"1818 Sidney St",
+    "sg:city":"Saint Louis",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/st-louis/225002-truemans-place/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 865 5900",
+    "sg:postcode":"63104",
+    "sg:province":"MO",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873675,
+        102191575,
+        404518053,
+        85633793,
+        85971343,
+        102080791,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2nfNbMGptIf2BMWrNgfvzC_38.602938_-90.215427@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1462603689,
+    "wof:geomhash":"b097cdf83f30d5b884fc5f244c12d92e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080791,
+            "localadmin_id":404518053,
+            "locality_id":85971343,
+            "neighbourhood_id":85873675,
+            "region_id":85688661,
+            "venue_id":807097255
+        }
+    ],
+    "wof:id":807097255,
+    "wof:lastmodified":1462603689,
+    "wof:name":"Trueman's Place",
+    "wof:parent_id":85873675,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -90.214842,
+    38.602872,
+    -90.214842,
+    38.602872
+],
+  "geometry": {"coordinates":[-90.214842,38.602872],"type":"Point"}
+}

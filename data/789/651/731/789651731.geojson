@@ -1,0 +1,88 @@
+{
+  "id": 789651731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.342308,38.91161,-94.342308,38.91161",
+    "geom:latitude":38.91161,
+    "geom:longitude":-94.342308,
+    "iso:country":"US",
+    "sg:address":"1649 Boone Trl",
+    "sg:city":"Lees Summit",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 524 4356",
+    "sg:postcode":"64063",
+    "sg:province":"MO",
+    "sg:tags":[
+        "polishing",
+        "waxing",
+        "contractor",
+        "laying",
+        "floor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85849825,
+        102191575,
+        404518079,
+        85633793,
+        85970737,
+        102081227,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5mIgeUa0o1Epzzq366Tvg2_38.911610_-94.342308@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462589469,
+    "wof:geomhash":"acbfbfdec6e653f45e2c3aaade62b03c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081227,
+            "localadmin_id":404518079,
+            "locality_id":85970737,
+            "neighbourhood_id":85849825,
+            "region_id":85688661,
+            "venue_id":789651731
+        }
+    ],
+    "wof:id":789651731,
+    "wof:lastmodified":1462589469,
+    "wof:name":"Summit Floor Care Inc",
+    "wof:parent_id":85849825,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "polishing",
+        "waxing",
+        "contractor",
+        "laying",
+        "floor"
+    ]
+},
+  "bbox": [
+    -94.342308,
+    38.91161,
+    -94.342308,
+    38.91161
+],
+  "geometry": {"coordinates":[-94.342308,38.91161],"type":"Point"}
+}

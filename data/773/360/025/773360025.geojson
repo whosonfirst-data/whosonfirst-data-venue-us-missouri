@@ -1,0 +1,71 @@
+{
+  "id": 773360025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.436226,37.780783,-90.436226,37.780783",
+    "geom:latitude":37.780783,
+    "geom:longitude":-90.436226,
+    "iso:country":"US",
+    "sg:address":"1108 W Liberty St",
+    "sg:city":"Farmington",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 756 6658",
+    "sg:postcode":"63640",
+    "sg:province":"MO",
+    "sg:tags":[
+        "skilled"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970665,
+        102085297,
+        85816309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_28LY04fs0Y80M8DpKMKSu4_37.780783_-90.436226@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462585115,
+    "wof:geomhash":"db47c9cd029ef2c919010f74729d5cde",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085297,
+            "locality_id":85970665,
+            "neighbourhood_id":85816309,
+            "region_id":85688661,
+            "venue_id":773360025
+        }
+    ],
+    "wof:id":773360025,
+    "wof:lastmodified":1462585115,
+    "wof:name":"Southbrook Skilled Nursing Ctr",
+    "wof:parent_id":85816309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "skilled"
+    ]
+},
+  "bbox": [
+    -90.436226,
+    37.780783,
+    -90.436226,
+    37.780783
+],
+  "geometry": {"coordinates":[-90.436226,37.780783],"type":"Point"}
+}

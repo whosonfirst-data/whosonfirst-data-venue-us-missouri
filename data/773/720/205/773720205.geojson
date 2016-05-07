@@ -1,0 +1,74 @@
+{
+  "id": 773720205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.656219,38.79566,-90.656219,38.79566",
+    "geom:latitude":38.79566,
+    "geom:longitude":-90.656219,
+    "iso:country":"US",
+    "sg:address":"1 Timberbrook Dr",
+    "sg:city":"St Peters",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 970 9700",
+    "sg:postcode":"63376",
+    "sg:province":"MO",
+    "sg:tags":[
+        "department",
+        "protection"
+    ],
+    "sg:website":"www.centralcountyfire.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Pha5XxxmkUZdb8DuYPPaX_38.795660_-90.656219@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462587872,
+    "wof:geomhash":"b8d16f7d8a2486047a93dbf5a4dea2e9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":773720205
+        }
+    ],
+    "wof:id":773720205,
+    "wof:lastmodified":1462587872,
+    "wof:name":"Central County Fire & Rescue",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department",
+        "protection"
+    ]
+},
+  "bbox": [
+    -90.656219,
+    38.79566,
+    -90.656219,
+    38.79566
+],
+  "geometry": {"coordinates":[-90.65621899999999,38.79566],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 789771027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.752528,37.954373,-91.752528,37.954373",
+    "geom:latitude":37.954373,
+    "geom:longitude":-91.752528,
+    "iso:country":"US",
+    "sg:address":"1417 Forum Dr",
+    "sg:city":"Rolla",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 426 5250",
+    "sg:postcode":"65401",
+    "sg:province":"MO",
+    "sg:tags":[
+        "home",
+        "care"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970821,
+        102086893,
+        85814531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1aY6yf4uuYrN2tHLKFbISr_37.954373_-91.752528@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462590408,
+    "wof:geomhash":"91bb43809142b38951eeb2c3a9a0709c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086893,
+            "locality_id":85970821,
+            "neighbourhood_id":85814531,
+            "region_id":85688661,
+            "venue_id":789771027
+        }
+    ],
+    "wof:id":789771027,
+    "wof:lastmodified":1462590408,
+    "wof:name":"Elder Helpers Inc",
+    "wof:parent_id":85814531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "care"
+    ]
+},
+  "bbox": [
+    -91.752528,
+    37.954373,
+    -91.752528,
+    37.954373
+],
+  "geometry": {"coordinates":[-91.752528,37.954373],"type":"Point"}
+}

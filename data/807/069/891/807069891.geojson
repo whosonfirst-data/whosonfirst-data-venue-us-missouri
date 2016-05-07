@@ -1,0 +1,74 @@
+{
+  "id": 807069891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.480905,38.782168,-90.480905,38.782168",
+    "geom:latitude":38.782168,
+    "geom:longitude":-90.480905,
+    "iso:country":"US",
+    "sg:address":"208 N Main St",
+    "sg:city":"Saint Charles",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/rivers/41901-lloyd--harrys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 000 0000",
+    "sg:postcode":"63301",
+    "sg:province":"MO",
+    "sg:tags":[
+        "american",
+        "pub"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4pmWiYrvInywVkd1fakemu_38.782168_-90.480905@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462603445,
+    "wof:geomhash":"b13fac40677bb2cd2392b00d16497723",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":807069891
+        }
+    ],
+    "wof:id":807069891,
+    "wof:lastmodified":1462603445,
+    "wof:name":"Lloyd & Harry's",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pub"
+    ]
+},
+  "bbox": [
+    -90.480905,
+    38.782168,
+    -90.480905,
+    38.782168
+],
+  "geometry": {"coordinates":[-90.48090500000001,38.782168],"type":"Point"}
+}

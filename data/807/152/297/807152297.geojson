@@ -1,0 +1,83 @@
+{
+  "id": 807152297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.273144,38.615659,-90.273144,38.615659",
+    "geom:latitude":38.615659,
+    "geom:longitude":-90.273144,
+    "iso:country":"US",
+    "sg:address":"5204 Wilson Ave",
+    "sg:city":"St. Louis",
+    "sg:classifiers":[
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Ice Cream",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 664 8488",
+    "sg:postcode":"63110",
+    "sg:province":"MO",
+    "sg:tags":[
+        "frozen",
+        "yogurt"
+    ],
+    "sg:website":"www.gelatodiriso.com/main.html",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85867039,
+        102191575,
+        404518053,
+        85633793,
+        85971343,
+        102080791,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0NAPMsw3EZacoOEqR2qm7E_38.615659_-90.273144@1303262928"
+    },
+    "wof:country":"US",
+    "wof:created":1462604295,
+    "wof:geomhash":"d4facb4054e047133e1518dc743cec8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080791,
+            "localadmin_id":404518053,
+            "locality_id":85971343,
+            "neighbourhood_id":85867039,
+            "region_id":85688661,
+            "venue_id":807152297
+        }
+    ],
+    "wof:id":807152297,
+    "wof:lastmodified":1462604295,
+    "wof:name":"Gelato Di Riso",
+    "wof:parent_id":85867039,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "frozen",
+        "yogurt"
+    ]
+},
+  "bbox": [
+    -90.273144,
+    38.615659,
+    -90.273144,
+    38.615659
+],
+  "geometry": {"coordinates":[-90.273144,38.615659],"type":"Point"}
+}

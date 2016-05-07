@@ -1,0 +1,71 @@
+{
+  "id": 773487581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.583677,39.40464,-94.583677,39.40464",
+    "geom:latitude":39.40464,
+    "geom:longitude":-94.583677,
+    "iso:country":"US",
+    "sg:address":"700 US Hwy 169",
+    "sg:city":"Smithville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 873 2333",
+    "sg:postcode":"64089",
+    "sg:province":"MO",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970739,
+        102086177,
+        85836329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0KJcE6V0xLLjGFHBqy3eVD_39.404640_-94.583677@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462586123,
+    "wof:geomhash":"b98c3c8114bdec0d9ae2288175f83eb0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086177,
+            "locality_id":85970739,
+            "neighbourhood_id":85836329,
+            "region_id":85688661,
+            "venue_id":773487581
+        }
+    ],
+    "wof:id":773487581,
+    "wof:lastmodified":1462586123,
+    "wof:name":"Pizza Hut",
+    "wof:parent_id":85836329,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -94.583677,
+    39.40464,
+    -94.583677,
+    39.40464
+],
+  "geometry": {"coordinates":[-94.58367699999999,39.40464],"type":"Point"}
+}

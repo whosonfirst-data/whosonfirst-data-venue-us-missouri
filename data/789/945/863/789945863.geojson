@@ -1,0 +1,71 @@
+{
+  "id": 789945863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.48008,38.783818,-90.48008,38.783818",
+    "geom:latitude":38.783818,
+    "geom:longitude":-90.48008,
+    "iso:country":"US",
+    "sg:address":"309 N Main St",
+    "sg:city":"St Charles",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 928 1220",
+    "sg:postcode":"63301",
+    "sg:province":"MO",
+    "sg:tags":[
+        "attorney"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ocW3Pb2x6aGXcQyh40PUJ_38.783818_-90.480080@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462591850,
+    "wof:geomhash":"1373223c75dd7a73716537fef2092943",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":789945863
+        }
+    ],
+    "wof:id":789945863,
+    "wof:lastmodified":1462591850,
+    "wof:name":"Richard D Sabbert",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "attorney"
+    ]
+},
+  "bbox": [
+    -90.48008,
+    38.783818,
+    -90.48008,
+    38.783818
+],
+  "geometry": {"coordinates":[-90.48008,38.783818],"type":"Point"}
+}

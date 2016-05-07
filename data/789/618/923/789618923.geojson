@@ -1,0 +1,73 @@
+{
+  "id": 789618923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.580392,39.28599,-94.580392,39.28599",
+    "geom:latitude":39.28599,
+    "geom:longitude":-94.580392,
+    "iso:country":"US",
+    "sg:address":"10523 N Main St",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 734 5036",
+    "sg:postcode":"64155",
+    "sg:province":"MO",
+    "sg:tags":[
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970739,
+        102086177,
+        85836329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5D3A3kAwtItkcexfO8AMaJ_39.285990_-94.580392@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462589209,
+    "wof:geomhash":"aa81ddbe212b3c681b2608d61755db36",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086177,
+            "locality_id":85970739,
+            "neighbourhood_id":85836329,
+            "region_id":85688661,
+            "venue_id":789618923
+        }
+    ],
+    "wof:id":789618923,
+    "wof:lastmodified":1462589209,
+    "wof:name":"Bogg Transport Inc",
+    "wof:parent_id":85836329,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -94.580392,
+    39.28599,
+    -94.580392,
+    39.28599
+],
+  "geometry": {"coordinates":[-94.580392,39.28599],"type":"Point"}
+}

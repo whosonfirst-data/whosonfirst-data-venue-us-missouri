@@ -1,0 +1,78 @@
+{
+  "id": 807083445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.54038,39.094325,-94.54038,39.094325",
+    "geom:latitude":39.094325,
+    "geom:longitude":-94.54038,
+    "iso:country":"US",
+    "sg:address":"3550 E Truman Rd",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/kaw/149043-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 231 1739",
+    "sg:postcode":"64127",
+    "sg:province":"MO",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420525355,
+        102191575,
+        404518075,
+        85633793,
+        85970739,
+        102081227,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Qb8fWJB3jfHFO7snBbIPv_39.094325_-94.540380@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462603561,
+    "wof:geomhash":"6c71282c16009134a10c9853f132e9fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081227,
+            "localadmin_id":404518075,
+            "locality_id":85970739,
+            "neighbourhood_id":420525355,
+            "region_id":85688661,
+            "venue_id":807083445
+        }
+    ],
+    "wof:id":807083445,
+    "wof:lastmodified":1462603561,
+    "wof:name":"Subway",
+    "wof:parent_id":420525355,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -94.54038,
+    39.094325,
+    -94.54038,
+    39.094325
+],
+  "geometry": {"coordinates":[-94.54038,39.094325],"type":"Point"}
+}

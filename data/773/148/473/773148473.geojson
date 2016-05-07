@@ -1,0 +1,73 @@
+{
+  "id": 773148473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.600698,38.791943,-90.600698,38.791943",
+    "geom:latitude":38.791943,
+    "geom:longitude":-90.600698,
+    "iso:country":"US",
+    "sg:address":"7055 Mexico Rd",
+    "sg:city":"Saint Peters",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 397 9022",
+    "sg:postcode":"63376",
+    "sg:province":"MO",
+    "sg:tags":[
+        "postal",
+        "us"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1I1wqqTsZErJgnkYDNcc52_38.791943_-90.600698@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462583492,
+    "wof:geomhash":"6e58aff01cf91add19736d609123225d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":773148473
+        }
+    ],
+    "wof:id":773148473,
+    "wof:lastmodified":1462583492,
+    "wof:name":"Saint Peters Main Office",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "postal",
+        "us"
+    ]
+},
+  "bbox": [
+    -90.600698,
+    38.791943,
+    -90.600698,
+    38.791943
+],
+  "geometry": {"coordinates":[-90.60069799999999,38.791943],"type":"Point"}
+}

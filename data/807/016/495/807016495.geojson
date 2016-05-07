@@ -1,0 +1,76 @@
+{
+  "id": 807016495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.586379,39.373368,-94.586379,39.373368",
+    "geom:latitude":39.373368,
+    "geom:longitude":-94.586379,
+    "iso:country":"US",
+    "sg:address":"109 James St",
+    "sg:city":"Smithville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 532 8982",
+    "sg:postcode":"64089",
+    "sg:province":"MO",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "truck"
+    ],
+    "sg:website":"http://clickserve.dartsearch.net/link/click?lid=43000000313871154&ds_s_kwgid=58000000006820725&ds_e_matchtype={MatchType}&ds_e_kwdid={OrderItemId}&ds_e_adid={AdId}&ds_url_v=2",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970739,
+        102086177,
+        85836329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2tcdnaUiu7Rj6skWlq8Rnw_39.373365_-94.586373@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1462602998,
+    "wof:geomhash":"cc10d4bd32ac4257460da8e2b8b38dd8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086177,
+            "locality_id":85970739,
+            "neighbourhood_id":85836329,
+            "region_id":85688661,
+            "venue_id":807016495
+        }
+    ],
+    "wof:id":807016495,
+    "wof:lastmodified":1462602998,
+    "wof:name":"Wright Automotive",
+    "wof:parent_id":85836329,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "truck"
+    ]
+},
+  "bbox": [
+    -94.586379,
+    39.373368,
+    -94.586379,
+    39.373368
+],
+  "geometry": {"coordinates":[-94.58637899999999,39.373368],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 806685761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.320652,38.745733,-90.320652,38.745733",
+    "geom:latitude":38.745733,
+    "geom:longitude":-90.320652,
+    "iso:country":"US",
+    "sg:address":"8015 Courtney Ave",
+    "sg:city":"Ferguson",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 524 3553",
+    "sg:postcode":"63140",
+    "sg:province":"MO",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85859027,
+        102191575,
+        404517247,
+        85633793,
+        85972205,
+        102086173,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0wrMlvZl6ay4WFdM5eWt6J_38.745733_-90.320652@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462600220,
+    "wof:geomhash":"188e80a028e2e23dd971284d4321105f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086173,
+            "localadmin_id":404517247,
+            "locality_id":85972205,
+            "neighbourhood_id":85859027,
+            "region_id":85688661,
+            "venue_id":806685761
+        }
+    ],
+    "wof:id":806685761,
+    "wof:lastmodified":1462600220,
+    "wof:name":"Kinloch Automotive",
+    "wof:parent_id":85859027,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -90.320652,
+    38.745733,
+    -90.320652,
+    38.745733
+],
+  "geometry": {"coordinates":[-90.320652,38.745733],"type":"Point"}
+}

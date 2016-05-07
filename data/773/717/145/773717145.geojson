@@ -1,0 +1,71 @@
+{
+  "id": 773717145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.561009,38.797219,-90.561009,38.797219",
+    "geom:latitude":38.797219,
+    "geom:longitude":-90.561009,
+    "iso:country":"US",
+    "sg:address":"3600 Harry S Truman Blvd",
+    "sg:city":"St Charles",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 947 1187",
+    "sg:postcode":"63301",
+    "sg:province":"MO",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4q6tpKY84MHH0YOyGrrEyb_38.797219_-90.561009@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462587851,
+    "wof:geomhash":"ef99e3f923dc523d8fc16eae4c355327",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":773717145
+        }
+    ],
+    "wof:id":773717145,
+    "wof:lastmodified":1462587851,
+    "wof:name":"Sunbrook Apartments",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -90.561009,
+    38.797219,
+    -90.561009,
+    38.797219
+],
+  "geometry": {"coordinates":[-90.561009,38.797219],"type":"Point"}
+}

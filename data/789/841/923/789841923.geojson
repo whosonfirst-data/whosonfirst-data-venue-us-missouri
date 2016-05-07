@@ -1,0 +1,77 @@
+{
+  "id": 789841923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.425349,38.571688,-90.425349,38.571688",
+    "geom:latitude":38.571688,
+    "geom:longitude":-90.425349,
+    "iso:country":"US",
+    "sg:address":"525 Couch Ave",
+    "sg:city":"Kirkwood",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 966 1528",
+    "sg:postcode":"63122",
+    "sg:province":"MO",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85858661,
+        102191575,
+        404517203,
+        85633793,
+        85972289,
+        102086173,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_40iRAWtAi4DUScyrxi9Xkm_38.571688_-90.425349@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462590961,
+    "wof:geomhash":"944e0085d315ae5d02290bba30749438",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086173,
+            "localadmin_id":404517203,
+            "locality_id":85972289,
+            "neighbourhood_id":85858661,
+            "region_id":85688661,
+            "venue_id":789841923
+        }
+    ],
+    "wof:id":789841923,
+    "wof:lastmodified":1462590961,
+    "wof:name":"Paul Evans Miller MD",
+    "wof:parent_id":85858661,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -90.425349,
+    38.571688,
+    -90.425349,
+    38.571688
+],
+  "geometry": {"coordinates":[-90.425349,38.571688],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 806997005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.226196,38.5994,-90.226196,38.5994",
+    "geom:latitude":38.5994,
+    "geom:longitude":-90.226196,
+    "iso:country":"US",
+    "sg:address":"2661 Arsenal St",
+    "sg:city":"Saint Louis",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 776 7675",
+    "sg:postcode":"63118",
+    "sg:province":"MO",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873679,
+        102191575,
+        404518053,
+        85633793,
+        85971343,
+        102080791,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0mL08pqLk2DB6nkcQ2Vu1B_38.599473_-90.226043@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1462602834,
+    "wof:geomhash":"6246886a21a84536c57071b1abfec9b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080791,
+            "localadmin_id":404518053,
+            "locality_id":85971343,
+            "neighbourhood_id":85873679,
+            "region_id":85688661,
+            "venue_id":806997005
+        }
+    ],
+    "wof:id":806997005,
+    "wof:lastmodified":1462602834,
+    "wof:name":"Arsenal Auto Service",
+    "wof:parent_id":85873679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.226196,
+    38.5994,
+    -90.226196,
+    38.5994
+],
+  "geometry": {"coordinates":[-90.226196,38.5994],"type":"Point"}
+}

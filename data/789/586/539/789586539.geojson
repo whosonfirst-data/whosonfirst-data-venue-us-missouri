@@ -1,0 +1,77 @@
+{
+  "id": 789586539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.283544,38.627452,-90.283544,38.627452",
+    "geom:latitude":38.627452,
+    "geom:longitude":-90.283544,
+    "iso:country":"US",
+    "sg:address":"5710 Wise Ave",
+    "sg:city":"Saint Louis",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 645 1313",
+    "sg:postcode":"63110",
+    "sg:province":"MO",
+    "sg:tags":[
+        "body",
+        "business"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873651,
+        102191575,
+        404518053,
+        85633793,
+        85971343,
+        102080791,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_77CnBdU6QeulHfMhNYEzzB_38.627452_-90.283544@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462588959,
+    "wof:geomhash":"d385ce6f92c45d4fa632b161049e6126",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080791,
+            "localadmin_id":404518053,
+            "locality_id":85971343,
+            "neighbourhood_id":85873651,
+            "region_id":85688661,
+            "venue_id":789586539
+        }
+    ],
+    "wof:id":789586539,
+    "wof:lastmodified":1462588959,
+    "wof:name":"Midwest Auto Body",
+    "wof:parent_id":85873651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "business"
+    ]
+},
+  "bbox": [
+    -90.283544,
+    38.627452,
+    -90.283544,
+    38.627452
+],
+  "geometry": {"coordinates":[-90.28354400000001,38.627452],"type":"Point"}
+}

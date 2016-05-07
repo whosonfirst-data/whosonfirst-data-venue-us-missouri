@@ -1,0 +1,71 @@
+{
+  "id": 773155429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.62384,38.352443,-90.62384,38.352443",
+    "geom:latitude":38.352443,
+    "geom:longitude":-90.62384,
+    "iso:country":"US",
+    "sg:address":"6697 Judy Ann Dr",
+    "sg:city":"Cedar Hill",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 274 0612",
+    "sg:postcode":"63016",
+    "sg:province":"MO",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971019,
+        102080787,
+        85817237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_02UEFyVYZKLxChMoxNeRhO_38.352443_-90.623840@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462583560,
+    "wof:geomhash":"864ac9ead8a44b792184aafccc2c6371",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080787,
+            "locality_id":85971019,
+            "neighbourhood_id":85817237,
+            "region_id":85688661,
+            "venue_id":773155429
+        }
+    ],
+    "wof:id":773155429,
+    "wof:lastmodified":1462583560,
+    "wof:name":"Jims Barber Shop",
+    "wof:parent_id":85817237,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -90.62384,
+    38.352443,
+    -90.62384,
+    38.352443
+],
+  "geometry": {"coordinates":[-90.62384,38.352443],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 807143555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.209702,38.669998,-90.209702,38.669998",
+    "geom:latitude":38.669998,
+    "geom:longitude":-90.209702,
+    "iso:country":"US",
+    "sg:address":"2100 E Grand Blvd",
+    "sg:city":"Saint Louis",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Household Appliances",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Furniture",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 534 4800",
+    "sg:postcode":"63107",
+    "sg:province":"MO",
+    "sg:tags":[
+        "repair",
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873613,
+        102191575,
+        404518053,
+        85633793,
+        85971343,
+        102080791,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1DEbluXbFcgnFF72cbS1RR_38.669998_-90.209702@1303262928"
+    },
+    "wof:country":"US",
+    "wof:created":1462604199,
+    "wof:geomhash":"86e06a4979e42b858aaa93a90e01154c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080791,
+            "localadmin_id":404518053,
+            "locality_id":85971343,
+            "neighbourhood_id":85873613,
+            "region_id":85688661,
+            "venue_id":807143555
+        }
+    ],
+    "wof:id":807143555,
+    "wof:lastmodified":1462604199,
+    "wof:name":"Watson Furniture",
+    "wof:parent_id":85873613,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair",
+        "store"
+    ]
+},
+  "bbox": [
+    -90.209702,
+    38.669998,
+    -90.209702,
+    38.669998
+],
+  "geometry": {"coordinates":[-90.20970199999999,38.669998],"type":"Point"}
+}

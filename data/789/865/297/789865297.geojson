@@ -1,0 +1,71 @@
+{
+  "id": 789865297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.695096,38.808559,-90.695096,38.808559",
+    "geom:latitude":38.808559,
+    "geom:longitude":-90.695096,
+    "iso:country":"US",
+    "sg:address":"324 Sondern St",
+    "sg:city":"O Fallon",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 240 5495",
+    "sg:postcode":"63366",
+    "sg:province":"MO",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_16bs182HZlA3QqnwiQe957_38.808559_-90.695096@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462591149,
+    "wof:geomhash":"1fc1f3628125f03f31f82bb8bd6e7d91",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":789865297
+        }
+    ],
+    "wof:id":789865297,
+    "wof:lastmodified":1462591149,
+    "wof:name":"Hairmasters Inc",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -90.695096,
+    38.808559,
+    -90.695096,
+    38.808559
+],
+  "geometry": {"coordinates":[-90.69509600000001,38.808559],"type":"Point"}
+}

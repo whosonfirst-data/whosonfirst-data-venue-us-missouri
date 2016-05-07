@@ -1,0 +1,89 @@
+{
+  "id": 807304391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.425804,37.303655,-93.425804,37.303655",
+    "geom:latitude":37.303655,
+    "geom:longitude":-93.425804,
+    "iso:country":"US",
+    "sg:address":"304 E Jackson St",
+    "sg:city":"Willard",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Non-durable Goods",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 742 2115",
+    "sg:postcode":"65781",
+    "sg:province":"MO",
+    "sg:tags":[
+        "equipment",
+        "manufacturer",
+        "supplies-wholesale",
+        "salons-equipment",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971363,
+        102087523,
+        85881139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0f1rLzZsT88bf7sxFSFNby_37.303655_-93.425804@1303262938"
+    },
+    "wof:country":"US",
+    "wof:created":1462605898,
+    "wof:geomhash":"4c6280da85cc1e17b5359f771b1edc3b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087523,
+            "locality_id":85971363,
+            "neighbourhood_id":85881139,
+            "region_id":85688661,
+            "venue_id":807304391
+        }
+    ],
+    "wof:id":807304391,
+    "wof:lastmodified":1462605898,
+    "wof:name":"Inspirations Hair Salon",
+    "wof:parent_id":85881139,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "manufacturer",
+        "supplies-wholesale",
+        "salons-equipment",
+        "supply"
+    ]
+},
+  "bbox": [
+    -93.425804,
+    37.303655,
+    -93.425804,
+    37.303655
+],
+  "geometry": {"coordinates":[-93.425804,37.303655],"type":"Point"}
+}

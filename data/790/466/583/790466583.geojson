@@ -1,0 +1,73 @@
+{
+  "id": 790466583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.436199,37.780944,-90.436199,37.780944",
+    "geom:latitude":37.780944,
+    "geom:longitude":-90.436199,
+    "iso:country":"US",
+    "sg:address":"1105 W Liberty St",
+    "sg:city":"Farmington",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 756 2626",
+    "sg:postcode":"63640",
+    "sg:province":"MO",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970665,
+        102085297,
+        85816309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7TDKYd1MR5QOcbROKHwwY6_37.780944_-90.436199@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462596061,
+    "wof:geomhash":"93ed5cad40264daa2fc39be70f05908d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085297,
+            "locality_id":85970665,
+            "neighbourhood_id":85816309,
+            "region_id":85688661,
+            "venue_id":790466583
+        }
+    ],
+    "wof:id":790466583,
+    "wof:lastmodified":1462596061,
+    "wof:name":"Metro Heart Group",
+    "wof:parent_id":85816309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -90.436199,
+    37.780944,
+    -90.436199,
+    37.780944
+],
+  "geometry": {"coordinates":[-90.436199,37.780944],"type":"Point"}
+}

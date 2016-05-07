@@ -1,0 +1,71 @@
+{
+  "id": 789987203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.625742,38.370285,-90.625742,38.370285",
+    "geom:latitude":38.370285,
+    "geom:longitude":-90.625742,
+    "iso:country":"US",
+    "sg:address":"6010 Cedar Hill Rd",
+    "sg:city":"Cedar Hill",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 942 2080",
+    "sg:postcode":"63016",
+    "sg:province":"MO",
+    "sg:tags":[
+        "roofing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85805175,
+        102080787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3peiELlNk2cCRK2lln797W_38.370285_-90.625742@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462592226,
+    "wof:geomhash":"a50a144de521a8f065b0416e9543ec7a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080787,
+            "neighbourhood_id":85805175,
+            "region_id":85688661,
+            "venue_id":789987203
+        }
+    ],
+    "wof:id":789987203,
+    "wof:lastmodified":1462592226,
+    "wof:name":"Morris Roofing & Construction",
+    "wof:parent_id":85805175,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "roofing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -90.625742,
+    38.370285,
+    -90.625742,
+    38.370285
+],
+  "geometry": {"coordinates":[-90.625742,38.370285],"type":"Point"}
+}

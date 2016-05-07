@@ -1,0 +1,80 @@
+{
+  "id": 807241775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.508352,37.033286,-94.508352,37.033286",
+    "geom:latitude":37.033286,
+    "geom:longitude":-94.508352,
+    "iso:country":"US",
+    "sg:address":"5006 Brookwood Dr",
+    "sg:city":"Joplin",
+    "sg:classifiers":[
+        {
+            "category":"Transit Center",
+            "subcategory":"Freight",
+            "type":"Transportation"
+        },
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 624 0810",
+    "sg:postcode":"64804",
+    "sg:province":"MO",
+    "sg:tags":[
+        "local",
+        "trucking-motor",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971289,
+        102087471,
+        85814333
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3IjCOIzBGxSgyg3CLwZfSF_37.033286_-94.508352@1303262934"
+    },
+    "wof:country":"US",
+    "wof:created":1462605231,
+    "wof:geomhash":"fc013ca5c338b36402e115aae52bc4ed",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087471,
+            "locality_id":85971289,
+            "neighbourhood_id":85814333,
+            "region_id":85688661,
+            "venue_id":807241775
+        }
+    ],
+    "wof:id":807241775,
+    "wof:lastmodified":1462605231,
+    "wof:name":"Deep South Fire Trucks Inc",
+    "wof:parent_id":85814333,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "local",
+        "trucking-motor",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -94.508352,
+    37.033286,
+    -94.508352,
+    37.033286
+],
+  "geometry": {"coordinates":[-94.508352,37.033286],"type":"Point"}
+}

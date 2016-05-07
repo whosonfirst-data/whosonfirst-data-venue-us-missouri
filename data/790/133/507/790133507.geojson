@@ -1,0 +1,71 @@
+{
+  "id": 790133507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.76998,37.985432,-91.76998,37.985432",
+    "geom:latitude":37.985432,
+    "geom:longitude":-91.76998,
+    "iso:country":"US",
+    "sg:address":"12300 Co Rd 8010",
+    "sg:city":"Rolla",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 467 0109",
+    "sg:postcode":"65401",
+    "sg:province":"MO",
+    "sg:tags":[
+        "truck"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970821,
+        102086893,
+        85814531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2b1jrlNVdKw0T3lqPFn3IP_37.985432_-91.769980@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462593384,
+    "wof:geomhash":"d7daf5e7838e353a76318dd1ca60e427",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086893,
+            "locality_id":85970821,
+            "neighbourhood_id":85814531,
+            "region_id":85688661,
+            "venue_id":790133507
+        }
+    ],
+    "wof:id":790133507,
+    "wof:lastmodified":1462593384,
+    "wof:name":"Diesel Doctor",
+    "wof:parent_id":85814531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck"
+    ]
+},
+  "bbox": [
+    -91.76998,
+    37.985432,
+    -91.76998,
+    37.985432
+],
+  "geometry": {"coordinates":[-91.76998,37.985432],"type":"Point"}
+}

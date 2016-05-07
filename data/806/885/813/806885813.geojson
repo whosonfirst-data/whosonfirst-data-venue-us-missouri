@@ -1,0 +1,88 @@
+{
+  "id": 806885813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.256061,38.573765,-90.256061,38.573765",
+    "geom:latitude":38.573765,
+    "geom:longitude":-90.256061,
+    "iso:country":"US",
+    "sg:address":"5001 S 38th St",
+    "sg:city":"St Louis",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 752 8487",
+    "sg:postcode":"63116",
+    "sg:province":"MO",
+    "sg:tags":[
+        "fire",
+        "structural",
+        "escape",
+        "trade",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873701,
+        102191575,
+        404518053,
+        85633793,
+        85971343,
+        102080791,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7hqvo86ibIYig8oYWQQsMZ_38.573765_-90.256061@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462601898,
+    "wof:geomhash":"5fb7b01431f0057b306605f4a632be1e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080791,
+            "localadmin_id":404518053,
+            "locality_id":85971343,
+            "neighbourhood_id":85873701,
+            "region_id":85688661,
+            "venue_id":806885813
+        }
+    ],
+    "wof:id":806885813,
+    "wof:lastmodified":1462601898,
+    "wof:name":"Dooley's Welding",
+    "wof:parent_id":85873701,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fire",
+        "structural",
+        "escape",
+        "trade",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -90.256061,
+    38.573765,
+    -90.256061,
+    38.573765
+],
+  "geometry": {"coordinates":[-90.256061,38.573765],"type":"Point"}
+}

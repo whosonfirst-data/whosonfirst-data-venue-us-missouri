@@ -1,0 +1,88 @@
+{
+  "id": 790617497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.420423,39.246714,-94.420423,39.246714",
+    "geom:latitude":39.246714,
+    "geom:longitude":-94.420423,
+    "iso:country":"US",
+    "sg:address":"20 N Main St",
+    "sg:city":"Liberty",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Shoe Repair & Shine",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 781 5771",
+    "sg:postcode":"64068",
+    "sg:province":"MO",
+    "sg:tags":[
+        "repairing",
+        "boot"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420525305,
+        102191575,
+        404516717,
+        85633793,
+        85972461,
+        102086177,
+        85688661,
+        420525367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7AuE1pVsdnle5IAjsrpx9l_39.246714_-94.420423@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462597388,
+    "wof:geomhash":"1a1a4f78e3d74ee3219dfc9d375861ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086177,
+            "localadmin_id":404516717,
+            "locality_id":85972461,
+            "neighbourhood_id":420525305,
+            "region_id":85688661,
+            "venue_id":790617497
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086177,
+            "localadmin_id":404516717,
+            "locality_id":85972461,
+            "neighbourhood_id":420525367,
+            "region_id":85688661,
+            "venue_id":790617497
+        }
+    ],
+    "wof:id":790617497,
+    "wof:lastmodified":1462597388,
+    "wof:name":"Mace Shoe Repair",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "boot"
+    ]
+},
+  "bbox": [
+    -94.420423,
+    39.246714,
+    -94.420423,
+    39.246714
+],
+  "geometry": {"coordinates":[-94.420423,39.246714],"type":"Point"}
+}

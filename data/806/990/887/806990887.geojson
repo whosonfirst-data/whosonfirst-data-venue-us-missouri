@@ -1,0 +1,80 @@
+{
+  "id": 806990887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.487838,38.782342,-90.487838,38.782342",
+    "geom:latitude":38.782342,
+    "geom:longitude":-90.487838,
+    "iso:country":"US",
+    "sg:address":"546 Madison St",
+    "sg:city":"St Charles",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Electrical",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 978 7318",
+    "sg:postcode":"63301",
+    "sg:province":"MO",
+    "sg:tags":[
+        "television",
+        "camera",
+        "security"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6LRKIqfz8gyXDUtAA6avKT_38.782342_-90.487838@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462602781,
+    "wof:geomhash":"d8862ef44b2b19c955240c45799b2ae7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":806990887
+        }
+    ],
+    "wof:id":806990887,
+    "wof:lastmodified":1462602781,
+    "wof:name":"Machine Vision LLC",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "television",
+        "camera",
+        "security"
+    ]
+},
+  "bbox": [
+    -90.487838,
+    38.782342,
+    -90.487838,
+    38.782342
+],
+  "geometry": {"coordinates":[-90.487838,38.782342],"type":"Point"}
+}

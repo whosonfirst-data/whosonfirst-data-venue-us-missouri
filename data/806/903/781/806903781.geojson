@@ -1,0 +1,75 @@
+{
+  "id": 806903781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.227569,38.645515,-90.227569,38.645515",
+    "geom:latitude":38.645515,
+    "geom:longitude":-90.227569,
+    "iso:country":"US",
+    "sg:address":"1235 N Grand Blvd",
+    "sg:city":"Saint Louis",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 534 0030",
+    "sg:postcode":"63106",
+    "sg:province":"MO",
+    "sg:tags":[
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873637,
+        102191575,
+        404518053,
+        85633793,
+        85971343,
+        102080791,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7kbIhsBbf7c7Brms1zdviv_38.645515_-90.227569@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462602037,
+    "wof:geomhash":"f8e91603beeae7c5ad5d34557762c760",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080791,
+            "localadmin_id":404518053,
+            "locality_id":85971343,
+            "neighbourhood_id":85873637,
+            "region_id":85688661,
+            "venue_id":806903781
+        }
+    ],
+    "wof:id":806903781,
+    "wof:lastmodified":1462602037,
+    "wof:name":"Amoco",
+    "wof:parent_id":85873637,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -90.227569,
+    38.645515,
+    -90.227569,
+    38.645515
+],
+  "geometry": {"coordinates":[-90.227569,38.645515],"type":"Point"}
+}

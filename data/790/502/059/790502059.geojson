@@ -1,0 +1,73 @@
+{
+  "id": 790502059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.16845,38.572288,-92.16845,38.572288",
+    "geom:latitude":38.572288,
+    "geom:longitude":-92.16845,
+    "iso:country":"US",
+    "sg:address":"501 E McCarty St",
+    "sg:city":"Jefferson City",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 634 8749",
+    "sg:postcode":"65101",
+    "sg:province":"MO",
+    "sg:tags":[
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970647,
+        102087511,
+        85837745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1wshQfySCpJNLtCFvEtnBB_38.572288_-92.168450@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462596384,
+    "wof:geomhash":"ab5c29585a636987ec45d272430dd734",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087511,
+            "locality_id":85970647,
+            "neighbourhood_id":85837745,
+            "region_id":85688661,
+            "venue_id":790502059
+        }
+    ],
+    "wof:id":790502059,
+    "wof:lastmodified":1462596384,
+    "wof:name":"Gas Plus",
+    "wof:parent_id":85837745,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -92.16845,
+    38.572288,
+    -92.16845,
+    38.572288
+],
+  "geometry": {"coordinates":[-92.16845000000001,38.572288],"type":"Point"}
+}

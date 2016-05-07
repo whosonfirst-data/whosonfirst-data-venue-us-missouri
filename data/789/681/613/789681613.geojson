@@ -1,0 +1,75 @@
+{
+  "id": 789681613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.311705,38.689115,-90.311705,38.689115",
+    "geom:latitude":38.689115,
+    "geom:longitude":-90.311705,
+    "iso:country":"US",
+    "sg:address":"1875 Pennsylvania Ave",
+    "sg:city":"Saint Louis",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 863 4018",
+    "sg:postcode":"63133",
+    "sg:province":"MO",
+    "sg:tags":[
+        "protection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85803359,
+        102191575,
+        404515929,
+        85633793,
+        85972327,
+        102086173,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_47gEsdOfXIegt1Gw7y5m3Z_38.689115_-90.311705@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462589714,
+    "wof:geomhash":"92af8946bb2aa805b7481c24d5abe57c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086173,
+            "localadmin_id":404515929,
+            "locality_id":85972327,
+            "neighbourhood_id":85803359,
+            "region_id":85688661,
+            "venue_id":789681613
+        }
+    ],
+    "wof:id":789681613,
+    "wof:lastmodified":1462589714,
+    "wof:name":"Mid County Fire Protection Dis",
+    "wof:parent_id":85803359,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "protection"
+    ]
+},
+  "bbox": [
+    -90.311705,
+    38.689115,
+    -90.311705,
+    38.689115
+],
+  "geometry": {"coordinates":[-90.311705,38.689115],"type":"Point"}
+}

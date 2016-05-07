@@ -1,0 +1,71 @@
+{
+  "id": 806822747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.454279,39.317162,-94.454279,39.317162",
+    "geom:latitude":39.317162,
+    "geom:longitude":-94.454279,
+    "iso:country":"US",
+    "sg:address":"10222 NE 124th St",
+    "sg:city":"Liberty",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 407 9651",
+    "sg:postcode":"64068",
+    "sg:province":"MO",
+    "sg:tags":[
+        "federal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970739,
+        102086177,
+        85836329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5P7lSD5E00r3AdpojdZwSL_39.317162_-94.454279@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462601365,
+    "wof:geomhash":"8698de3d58c40bdbde60e2d08be50d75",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086177,
+            "locality_id":85970739,
+            "neighbourhood_id":85836329,
+            "region_id":85688661,
+            "venue_id":806822747
+        }
+    ],
+    "wof:id":806822747,
+    "wof:lastmodified":1462601365,
+    "wof:name":"US Federal Railroad Adm",
+    "wof:parent_id":85836329,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "federal"
+    ]
+},
+  "bbox": [
+    -94.454279,
+    39.317162,
+    -94.454279,
+    39.317162
+],
+  "geometry": {"coordinates":[-94.454279,39.317162],"type":"Point"}
+}

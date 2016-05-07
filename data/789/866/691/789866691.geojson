@@ -1,0 +1,71 @@
+{
+  "id": 789866691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.36202,39.383332,-94.36202,39.383332",
+    "geom:latitude":39.383332,
+    "geom:longitude":-94.36202,
+    "iso:country":"US",
+    "sg:address":"717 Woodson St",
+    "sg:city":"Kearney",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 628 5067",
+    "sg:postcode":"64060",
+    "sg:province":"MO",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971507,
+        102086177,
+        85812855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6HxhiztFUxtKuZ9hXX6lO3_39.383332_-94.362020@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462591158,
+    "wof:geomhash":"6b006024b41a4dff69029e4da70db2c8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086177,
+            "locality_id":85971507,
+            "neighbourhood_id":85812855,
+            "region_id":85688661,
+            "venue_id":789866691
+        }
+    ],
+    "wof:id":789866691,
+    "wof:lastmodified":1462591158,
+    "wof:name":"Eds Plumbing",
+    "wof:parent_id":85812855,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -94.36202,
+    39.383332,
+    -94.36202,
+    39.383332
+],
+  "geometry": {"coordinates":[-94.36202,39.383332],"type":"Point"}
+}

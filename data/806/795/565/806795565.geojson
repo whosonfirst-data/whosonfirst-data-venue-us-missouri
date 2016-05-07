@@ -1,0 +1,77 @@
+{
+  "id": 806795565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.234878,38.715415,-90.234878,38.715415",
+    "geom:latitude":38.715415,
+    "geom:longitude":-90.234878,
+    "iso:country":"US",
+    "sg:address":"1101 McLaran Ave",
+    "sg:city":"St Louis",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 383 3302",
+    "sg:postcode":"63147",
+    "sg:province":"MO",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85804181,
+        102191575,
+        404518053,
+        85633793,
+        85971343,
+        102080791,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7CxyHz3Z5oiTL7CKaJxc7Z_38.715415_-90.234878@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462601147,
+    "wof:geomhash":"6fa866cac55933cdc15165c5c31bdfd4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080791,
+            "localadmin_id":404518053,
+            "locality_id":85971343,
+            "neighbourhood_id":85804181,
+            "region_id":85688661,
+            "venue_id":806795565
+        }
+    ],
+    "wof:id":806795565,
+    "wof:lastmodified":1462601147,
+    "wof:name":"Geisz Auto Repair",
+    "wof:parent_id":85804181,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -90.234878,
+    38.715415,
+    -90.234878,
+    38.715415
+],
+  "geometry": {"coordinates":[-90.23487799999999,38.715415],"type":"Point"}
+}

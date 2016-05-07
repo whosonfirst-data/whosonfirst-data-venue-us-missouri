@@ -1,0 +1,73 @@
+{
+  "id": 790073565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.234812,37.209906,-93.234812,37.209906",
+    "geom:latitude":37.209906,
+    "geom:longitude":-93.234812,
+    "iso:country":"US",
+    "sg:address":"2949 E Chestnut Expy",
+    "sg:city":"Springfield",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 832 0078",
+    "sg:postcode":"65802",
+    "sg:province":"MO",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971363,
+        102087523,
+        85881137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_36OGlgNurG7wQyBGvkiOZH_37.209906_-93.234812@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462592921,
+    "wof:geomhash":"e7eaa40da9ff098d7e0d088c9a152df6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087523,
+            "locality_id":85971363,
+            "neighbourhood_id":85881137,
+            "region_id":85688661,
+            "venue_id":790073565
+        }
+    ],
+    "wof:id":790073565,
+    "wof:lastmodified":1462592921,
+    "wof:name":"Patient Care Family Clinic",
+    "wof:parent_id":85881137,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -93.234812,
+    37.209906,
+    -93.234812,
+    37.209906
+],
+  "geometry": {"coordinates":[-93.23481200000001,37.209906],"type":"Point"}
+}

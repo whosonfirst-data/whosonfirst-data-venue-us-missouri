@@ -1,0 +1,71 @@
+{
+  "id": 789877859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.46726,38.600217,-90.46726,38.600217",
+    "geom:latitude":38.600217,
+    "geom:longitude":-90.46726,
+    "iso:country":"US",
+    "sg:address":"13350 Manchester Rd",
+    "sg:city":"St Louis",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 821 6980",
+    "sg:postcode":"63131",
+    "sg:province":"MO",
+    "sg:tags":[
+        "telephone",
+        "cellular"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85839871,
+        102086173
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3D2r1fQRNUXcrBszO9VhjI_38.600217_-90.467260@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462591266,
+    "wof:geomhash":"033a8e308ddd4891b3d6156dfd72dcdf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086173,
+            "neighbourhood_id":85839871,
+            "region_id":85688661,
+            "venue_id":789877859
+        }
+    ],
+    "wof:id":789877859,
+    "wof:lastmodified":1462591266,
+    "wof:name":"Autco Alarm & Cellular",
+    "wof:parent_id":85839871,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "telephone",
+        "cellular"
+    ]
+},
+  "bbox": [
+    -90.46726,
+    38.600217,
+    -90.46726,
+    38.600217
+],
+  "geometry": {"coordinates":[-90.46726,38.600217],"type":"Point"}
+}

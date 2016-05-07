@@ -1,0 +1,71 @@
+{
+  "id": 789906587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.784016,37.955162,-91.784016,37.955162",
+    "geom:latitude":37.955162,
+    "geom:longitude":-91.784016,
+    "iso:country":"US",
+    "sg:address":"1103 W 12th St",
+    "sg:city":"Rolla",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 364 4797",
+    "sg:postcode":"65401",
+    "sg:province":"MO",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970821,
+        102086893,
+        85814531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6uwIHt3YnfTuuhPp3dUBy8_37.955162_-91.784016@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462591498,
+    "wof:geomhash":"6c8e7212718077660a704e10c93b4a1d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086893,
+            "locality_id":85970821,
+            "neighbourhood_id":85814531,
+            "region_id":85688661,
+            "venue_id":789906587
+        }
+    ],
+    "wof:id":789906587,
+    "wof:lastmodified":1462591498,
+    "wof:name":"A H E C",
+    "wof:parent_id":85814531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -91.784016,
+    37.955162,
+    -91.784016,
+    37.955162
+],
+  "geometry": {"coordinates":[-91.78401599999999,37.955162],"type":"Point"}
+}

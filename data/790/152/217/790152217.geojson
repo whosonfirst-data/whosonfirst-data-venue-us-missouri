@@ -1,0 +1,86 @@
+{
+  "id": 790152217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.280454,38.621753,-90.280454,38.621753",
+    "geom:latitude":38.621753,
+    "geom:longitude":-90.280454,
+    "iso:country":"US",
+    "sg:address":"1601 Sublette Ave",
+    "sg:city":"St Louis",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        },
+        {
+            "category":"Utilities",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 644 0100",
+    "sg:postcode":"63110",
+    "sg:province":"MO",
+    "sg:tags":[
+        "sanitary",
+        "waste",
+        "business",
+        "removal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85867039,
+        102191575,
+        404518053,
+        85633793,
+        85971343,
+        102080791,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_02krGS9mQvplOc7nlsqCNe_38.621753_-90.280454@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462593521,
+    "wof:geomhash":"4b0651b9ae0ca12590f51c34de7b942c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080791,
+            "localadmin_id":404518053,
+            "locality_id":85971343,
+            "neighbourhood_id":85867039,
+            "region_id":85688661,
+            "venue_id":790152217
+        }
+    ],
+    "wof:id":790152217,
+    "wof:lastmodified":1462593521,
+    "wof:name":"Medical Systems Inc",
+    "wof:parent_id":85867039,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sanitary",
+        "waste",
+        "business",
+        "removal"
+    ]
+},
+  "bbox": [
+    -90.280454,
+    38.621753,
+    -90.280454,
+    38.621753
+],
+  "geometry": {"coordinates":[-90.28045400000001,38.621753],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 807083787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.472914,38.994718,-94.472914,38.994718",
+    "geom:latitude":38.994718,
+    "geom:longitude":-94.472914,
+    "iso:country":"US",
+    "sg:address":"9305 E Gregory Blvd",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/brooking/149055-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 353 4930",
+    "sg:postcode":"64133",
+    "sg:province":"MO",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85871965,
+        102191575,
+        404517999,
+        85633793,
+        85971471,
+        102081227,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ok7bhqXn2Qn09i9W08v7k_38.994718_-94.472914@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462603564,
+    "wof:geomhash":"2b81d6fdb8302cf90fad476ad69ccb8f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081227,
+            "localadmin_id":404517999,
+            "locality_id":85971471,
+            "neighbourhood_id":85871965,
+            "region_id":85688661,
+            "venue_id":807083787
+        }
+    ],
+    "wof:id":807083787,
+    "wof:lastmodified":1462603564,
+    "wof:name":"Subway",
+    "wof:parent_id":85871965,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -94.472914,
+    38.994718,
+    -94.472914,
+    38.994718
+],
+  "geometry": {"coordinates":[-94.472914,38.994718],"type":"Point"}
+}

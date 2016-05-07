@@ -1,0 +1,71 @@
+{
+  "id": 773677371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.534874,39.800666,-91.534874,39.800666",
+    "geom:latitude":39.800666,
+    "geom:longitude":-91.534874,
+    "iso:country":"US",
+    "sg:address":"106 N Breckenridge Ave",
+    "sg:city":"Palmyra",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 769 4952",
+    "sg:postcode":"63461",
+    "sg:province":"MO",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688697,
+        85633793,
+        85938427,
+        102086213,
+        85867477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6CZ0p5KNkdZnRFBB4rnETD_39.800666_-91.534874@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462587516,
+    "wof:geomhash":"c5cf0b55131258692acedc69e3355f17",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086213,
+            "locality_id":85938427,
+            "neighbourhood_id":85867477,
+            "region_id":85688697,
+            "venue_id":773677371
+        }
+    ],
+    "wof:id":773677371,
+    "wof:lastmodified":1462587516,
+    "wof:name":"Macs Garage",
+    "wof:parent_id":85867477,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -91.534874,
+    39.800666,
+    -91.534874,
+    39.800666
+],
+  "geometry": {"coordinates":[-91.534874,39.800666],"type":"Point"}
+}

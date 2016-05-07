@@ -1,0 +1,75 @@
+{
+  "id": 807055015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.287598,38.672199,-90.287598,38.672199",
+    "geom:latitude":38.672199,
+    "geom:longitude":-90.287598,
+    "iso:country":"US",
+    "sg:address":"1391 Hodiamont Ave",
+    "sg:city":"Saint Louis",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 381 1602",
+    "sg:postcode":"63112",
+    "sg:province":"MO",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873615,
+        102191575,
+        404518053,
+        85633793,
+        85971343,
+        102080791,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7GOtI9MdTE2xuZ2v0uODwl_38.672189_-90.287477@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1462603326,
+    "wof:geomhash":"9ab14a9ca8293fb7deaf067068f4b8a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080791,
+            "localadmin_id":404518053,
+            "locality_id":85971343,
+            "neighbourhood_id":85873615,
+            "region_id":85688661,
+            "venue_id":807055015
+        }
+    ],
+    "wof:id":807055015,
+    "wof:lastmodified":1462603326,
+    "wof:name":"Neighborhood Market",
+    "wof:parent_id":85873615,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -90.287598,
+    38.672199,
+    -90.287598,
+    38.672199
+],
+  "geometry": {"coordinates":[-90.287598,38.672199],"type":"Point"}
+}

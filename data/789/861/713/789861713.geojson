@@ -1,0 +1,73 @@
+{
+  "id": 789861713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.255642,38.396388,-92.255642,38.396388",
+    "geom:latitude":38.396388,
+    "geom:longitude":-92.255642,
+    "iso:country":"US",
+    "sg:address":"2600 Bryan Ln",
+    "sg:city":"Jefferson City",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 496 3997",
+    "sg:postcode":"65101",
+    "sg:province":"MO",
+    "sg:tags":[
+        "crop",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970647,
+        102087519,
+        85847491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1NxuBlxrzTXZazhmZ1jcGZ_38.396388_-92.255642@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462591120,
+    "wof:geomhash":"f1295756de0ddc8576f9e17d28895659",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087519,
+            "locality_id":85970647,
+            "neighbourhood_id":85847491,
+            "region_id":85688661,
+            "venue_id":789861713
+        }
+    ],
+    "wof:id":789861713,
+    "wof:lastmodified":1462591120,
+    "wof:name":"Bryan Farms",
+    "wof:parent_id":85847491,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "crop",
+        "general"
+    ]
+},
+  "bbox": [
+    -92.255642,
+    38.396388,
+    -92.255642,
+    38.396388
+],
+  "geometry": {"coordinates":[-92.25564199999999,38.396388],"type":"Point"}
+}

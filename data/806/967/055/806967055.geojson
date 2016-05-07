@@ -1,0 +1,76 @@
+{
+  "id": 806967055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.621652,38.010417,-91.621652,38.010417",
+    "geom:latitude":38.010417,
+    "geom:longitude":-91.621652,
+    "iso:country":"US",
+    "sg:address":"910 N Jefferson St",
+    "sg:city":"St James",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Discount & Variety Stores",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 265 2004",
+    "sg:postcode":"65559",
+    "sg:province":"MO",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970819,
+        102086893,
+        85847353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_49YLBJ2vhhmkaJIinCW0Gk_38.010417_-91.621652@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462602584,
+    "wof:geomhash":"01b62811aaa7c59c2ab1275b24f4d88d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086893,
+            "locality_id":85970819,
+            "neighbourhood_id":85847353,
+            "region_id":85688661,
+            "venue_id":806967055
+        }
+    ],
+    "wof:id":806967055,
+    "wof:lastmodified":1462602584,
+    "wof:name":"Dollar General",
+    "wof:parent_id":85847353,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -91.621652,
+    38.010417,
+    -91.621652,
+    38.010417
+],
+  "geometry": {"coordinates":[-91.621652,38.010417],"type":"Point"}
+}

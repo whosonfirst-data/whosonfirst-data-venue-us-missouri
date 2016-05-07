@@ -1,0 +1,89 @@
+{
+  "id": 790500461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.419965,38.77961,-90.419965,38.77961",
+    "geom:latitude":38.77961,
+    "geom:longitude":-90.419965,
+    "iso:country":"US",
+    "sg:address":"13150 Taussig Ave",
+    "sg:city":"Bridgeton",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Aerospace",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 739 8117",
+    "sg:postcode":"63044",
+    "sg:province":"MO",
+    "sg:tags":[
+        "aeronautical",
+        "component",
+        "aircraft",
+        "type",
+        "compass"
+    ],
+    "sg:website":"www.airpathcompass.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85836381,
+        102191575,
+        404517389,
+        85633793,
+        85972341,
+        102086173,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0vZFqILjaAcI7OfMX59850_38.779610_-90.419965@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462596372,
+    "wof:geomhash":"addfa410ae5afc1998abbeb6c3062f0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086173,
+            "localadmin_id":404517389,
+            "locality_id":85972341,
+            "neighbourhood_id":85836381,
+            "region_id":85688661,
+            "venue_id":790500461
+        }
+    ],
+    "wof:id":790500461,
+    "wof:lastmodified":1462596372,
+    "wof:name":"Airpath Instrument Company",
+    "wof:parent_id":85836381,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "aeronautical",
+        "component",
+        "aircraft",
+        "type",
+        "compass"
+    ]
+},
+  "bbox": [
+    -90.419965,
+    38.77961,
+    -90.419965,
+    38.77961
+],
+  "geometry": {"coordinates":[-90.419965,38.77961],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 806392129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.39964,38.182308,-90.39964,38.182308",
+    "geom:latitude":38.182308,
+    "geom:longitude":-90.39964,
+    "iso:country":"US",
+    "sg:address":"1800 Plattin Rd",
+    "sg:city":"Festus",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 931 4527",
+    "sg:postcode":"63028",
+    "sg:province":"MO",
+    "sg:tags":[
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85848677,
+        102080787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_30BdGfydjyTgHmpLVMb6sR_38.182308_-90.399640@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462597771,
+    "wof:geomhash":"ce35b46f3201250bf6cc0a5f3705bdda",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080787,
+            "neighbourhood_id":85848677,
+            "region_id":85688661,
+            "venue_id":806392129
+        }
+    ],
+    "wof:id":806392129,
+    "wof:lastmodified":1462597771,
+    "wof:name":"Ultimate Maintenance",
+    "wof:parent_id":85848677,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -90.39964,
+    38.182308,
+    -90.39964,
+    38.182308
+],
+  "geometry": {"coordinates":[-90.39964000000001,38.182308],"type":"Point"}
+}

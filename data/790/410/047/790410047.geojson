@@ -1,0 +1,73 @@
+{
+  "id": 790410047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.58341,39.394818,-94.58341,39.394818",
+    "geom:latitude":39.394818,
+    "geom:longitude":-94.58341,
+    "iso:country":"US",
+    "sg:address":"501 US Hwy 169",
+    "sg:city":"Smithville",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 873 3374",
+    "sg:postcode":"64089",
+    "sg:province":"MO",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970739,
+        102086177,
+        85836329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_77pUxLXBsPcUlViI2Z6VDT_39.394818_-94.583410@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462595613,
+    "wof:geomhash":"82e18bfdab629288e9d85badef462561",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086177,
+            "locality_id":85970739,
+            "neighbourhood_id":85836329,
+            "region_id":85688661,
+            "venue_id":790410047
+        }
+    ],
+    "wof:id":790410047,
+    "wof:lastmodified":1462595613,
+    "wof:name":"Smithville Apartments",
+    "wof:parent_id":85836329,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -94.58341,
+    39.394818,
+    -94.58341,
+    39.394818
+],
+  "geometry": {"coordinates":[-94.58341,39.394818],"type":"Point"}
+}

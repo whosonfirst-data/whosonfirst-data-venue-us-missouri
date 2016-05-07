@@ -1,0 +1,73 @@
+{
+  "id": 806689793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.605002,38.790455,-90.605002,38.790455",
+    "geom:latitude":38.790455,
+    "geom:longitude":-90.605002,
+    "iso:country":"US",
+    "sg:address":"7464 Mexico Rd",
+    "sg:city":"St Peters",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 278 7257",
+    "sg:postcode":"63376",
+    "sg:province":"MO",
+    "sg:tags":[
+        "hospital",
+        "animal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3FXNercEltoYW1enL9bRfP_38.790455_-90.605002@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462600253,
+    "wof:geomhash":"19416bb075bf85826afd3281798f06dc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":806689793
+        }
+    ],
+    "wof:id":806689793,
+    "wof:lastmodified":1462600253,
+    "wof:name":"Pet Pals Animal Hospital",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hospital",
+        "animal"
+    ]
+},
+  "bbox": [
+    -90.605002,
+    38.790455,
+    -90.605002,
+    38.790455
+],
+  "geometry": {"coordinates":[-90.605002,38.790455],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 807068089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.458679,38.601719,-90.458679,38.601719",
+    "geom:latitude":38.601719,
+    "geom:longitude":-90.458679,
+    "iso:country":"US",
+    "sg:address":"12990 Manchester Rd",
+    "sg:city":"Saint Louis",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/missouri-river/14046-olive-garden-italian-restaurant/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 821 3966",
+    "sg:postcode":"63131",
+    "sg:province":"MO",
+    "sg:tags":[
+        "italian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85839871,
+        102086173
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4joBIvzaabEjfaPEPOqjOQ_38.601719_-90.458679@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462603431,
+    "wof:geomhash":"e1921d47bbba58056ae269674e0c7782",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086173,
+            "neighbourhood_id":85839871,
+            "region_id":85688661,
+            "venue_id":807068089
+        }
+    ],
+    "wof:id":807068089,
+    "wof:lastmodified":1462603431,
+    "wof:name":"Olive Garden Italian Restaurant",
+    "wof:parent_id":85839871,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "italian"
+    ]
+},
+  "bbox": [
+    -90.458679,
+    38.601719,
+    -90.458679,
+    38.601719
+],
+  "geometry": {"coordinates":[-90.458679,38.601719],"type":"Point"}
+}

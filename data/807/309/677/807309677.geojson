@@ -1,0 +1,93 @@
+{
+  "id": 807309677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.237801,37.137321,-93.237801,37.137321",
+    "geom:latitude":37.137321,
+    "geom:longitude":-93.237801,
+    "iso:country":"US",
+    "sg:address":"4126 S Lone Pine Ave",
+    "sg:city":"Springfield",
+    "sg:classifiers":[
+        {
+            "category":"Animal Shelter",
+            "subcategory":"",
+            "type":"Public Place"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Pet Boarding",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 866 6681",
+    "sg:postcode":"65804",
+    "sg:province":"MO",
+    "sg:tags":[
+        "hospital",
+        "veterinarian",
+        "clinic",
+        "kennel"
+    ],
+    "sg:website":"http://www.gallowayvet.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971363,
+        102087523,
+        85820971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5jDCTwXLLGVSgAr2kyClfa_37.137321_-93.237801@1303262938"
+    },
+    "wof:country":"US",
+    "wof:created":1462605954,
+    "wof:geomhash":"4f1909f3f886bb2d4c840736e0c7dbbf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087523,
+            "locality_id":85971363,
+            "neighbourhood_id":85820971,
+            "region_id":85688661,
+            "venue_id":807309677
+        }
+    ],
+    "wof:id":807309677,
+    "wof:lastmodified":1462605954,
+    "wof:name":"Galloway Village Veterinary",
+    "wof:parent_id":85820971,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hospital",
+        "veterinarian",
+        "clinic",
+        "kennel"
+    ]
+},
+  "bbox": [
+    -93.237801,
+    37.137321,
+    -93.237801,
+    37.137321
+],
+  "geometry": {"coordinates":[-93.237801,37.137321],"type":"Point"}
+}

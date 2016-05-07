@@ -1,0 +1,71 @@
+{
+  "id": 806860167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.453367,38.584736,-90.453367,38.584736",
+    "geom:latitude":38.584736,
+    "geom:longitude":-90.453367,
+    "iso:country":"US",
+    "sg:address":"530 Des Peres Rd",
+    "sg:city":"St Louis",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 768 3000",
+    "sg:postcode":"63131",
+    "sg:province":"MO",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85839871,
+        102086173
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7envs2DWZVox4yq0BwxAOM_38.584736_-90.453367@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462601691,
+    "wof:geomhash":"ef3a7e84f976cef8634357f6d888cf5e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086173,
+            "neighbourhood_id":85839871,
+            "region_id":85688661,
+            "venue_id":806860167
+        }
+    ],
+    "wof:id":806860167,
+    "wof:lastmodified":1462601691,
+    "wof:name":"Kenneth Bess MD",
+    "wof:parent_id":85839871,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -90.453367,
+    38.584736,
+    -90.453367,
+    38.584736
+],
+  "geometry": {"coordinates":[-90.453367,38.584736],"type":"Point"}
+}

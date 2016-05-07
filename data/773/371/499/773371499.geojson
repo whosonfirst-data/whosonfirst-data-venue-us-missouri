@@ -1,0 +1,74 @@
+{
+  "id": 773371499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.86572,38.849148,-90.86572,38.849148",
+    "geom:latitude":38.849148,
+    "geom:longitude":-90.86572,
+    "iso:country":"US",
+    "sg:address":"1968 E Svc Rd Highway 61 N",
+    "sg:city":"Flinthill",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Natural Gas",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 327 7300",
+    "sg:postcode":"63385",
+    "sg:province":"MO",
+    "sg:tags":[
+        "transmission",
+        "distribution"
+    ],
+    "sg:website":"www.amerigas.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6XXdoAxLavzwL1goMdm09N_38.849148_-90.865720@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462585191,
+    "wof:geomhash":"1c105701826aa35a42f6d1791f4a4a8f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":773371499
+        }
+    ],
+    "wof:id":773371499,
+    "wof:lastmodified":1462585191,
+    "wof:name":"Ameri Gas Inc",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission",
+        "distribution"
+    ]
+},
+  "bbox": [
+    -90.86572,
+    38.849148,
+    -90.86572,
+    38.849148
+],
+  "geometry": {"coordinates":[-90.86572,38.849148],"type":"Point"}
+}

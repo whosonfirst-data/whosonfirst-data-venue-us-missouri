@@ -1,0 +1,73 @@
+{
+  "id": 789654543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.478795,39.366251,-94.478795,39.366251",
+    "geom:latitude":39.366251,
+    "geom:longitude":-94.478795,
+    "iso:country":"US",
+    "sg:address":"8603 NE 151st St",
+    "sg:city":"Smithville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 903 6963",
+    "sg:postcode":"64068",
+    "sg:province":"MO",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970739,
+        102086177,
+        85836329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2akCoMC5yXXBFxzaUao1Pd_39.366251_-94.478795@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462589490,
+    "wof:geomhash":"1c450faa6f6600528989db409353eef1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086177,
+            "locality_id":85970739,
+            "neighbourhood_id":85836329,
+            "region_id":85688661,
+            "venue_id":789654543
+        }
+    ],
+    "wof:id":789654543,
+    "wof:lastmodified":1462589490,
+    "wof:name":"Ventola's Construction",
+    "wof:parent_id":85836329,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -94.478795,
+    39.366251,
+    -94.478795,
+    39.366251
+],
+  "geometry": {"coordinates":[-94.47879500000001,39.366251],"type":"Point"}
+}

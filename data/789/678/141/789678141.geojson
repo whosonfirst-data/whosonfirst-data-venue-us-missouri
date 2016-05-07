@@ -1,0 +1,71 @@
+{
+  "id": 789678141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.379774,37.208099,-93.379774,37.208099",
+    "geom:latitude":37.208099,
+    "geom:longitude":-93.379774,
+    "iso:country":"US",
+    "sg:address":"4831 W Tarkio St",
+    "sg:city":"Springfield",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 866 7001",
+    "sg:postcode":"65802",
+    "sg:province":"MO",
+    "sg:tags":[
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971363,
+        102087523,
+        85836941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4gum0nBZIxxupTfppNjipK_37.208099_-93.379774@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462589686,
+    "wof:geomhash":"70559c62e44f0f7853a12426779f4e65",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087523,
+            "locality_id":85971363,
+            "neighbourhood_id":85836941,
+            "region_id":85688661,
+            "venue_id":789678141
+        }
+    ],
+    "wof:id":789678141,
+    "wof:lastmodified":1462589686,
+    "wof:name":"Holland Transportation",
+    "wof:parent_id":85836941,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -93.379774,
+    37.208099,
+    -93.379774,
+    37.208099
+],
+  "geometry": {"coordinates":[-93.379774,37.208099],"type":"Point"}
+}

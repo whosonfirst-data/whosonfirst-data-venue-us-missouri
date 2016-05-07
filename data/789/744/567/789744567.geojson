@@ -1,0 +1,71 @@
+{
+  "id": 789744567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.457084,39.97217,-92.457084,39.97217",
+    "geom:latitude":39.97217,
+    "geom:longitude":-92.457084,
+    "iso:country":"US",
+    "sg:address":"30654 Kiln Rd",
+    "sg:city":"La Plata",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 660 332 7466",
+    "sg:postcode":"63549",
+    "sg:province":"MO",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971149,
+        102086189,
+        85821499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1lc8Qaf69dSZr5OHrsegR8_39.972170_-92.457084@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462590215,
+    "wof:geomhash":"03ba3e9ae622b95def1cb0c02c43c469",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086189,
+            "locality_id":85971149,
+            "neighbourhood_id":85821499,
+            "region_id":85688661,
+            "venue_id":789744567
+        }
+    ],
+    "wof:id":789744567,
+    "wof:lastmodified":1462590215,
+    "wof:name":"McHenry Construction",
+    "wof:parent_id":85821499,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -92.457084,
+    39.97217,
+    -92.457084,
+    39.97217
+],
+  "geometry": {"coordinates":[-92.45708399999999,39.97217],"type":"Point"}
+}

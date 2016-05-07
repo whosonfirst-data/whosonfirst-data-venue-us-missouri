@@ -1,0 +1,69 @@
+{
+  "id": 773423317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.333671,37.116148,-93.333671,37.116148",
+    "geom:latitude":37.116148,
+    "geom:longitude":-93.333671,
+    "iso:country":"US",
+    "sg:address":"5455 S Farm Rd 137",
+    "sg:city":"Springfield",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 882 5397",
+    "sg:postcode":"65810",
+    "sg:province":"MO",
+    "sg:tags":[
+        "locksmith"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85881143,
+        102087523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_77x77DPyLh9JDxei6HJtEQ_37.116148_-93.333671@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462585603,
+    "wof:geomhash":"b1e8679734c6cd1e6dc4e69155583f2a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087523,
+            "neighbourhood_id":85881143,
+            "region_id":85688661,
+            "venue_id":773423317
+        }
+    ],
+    "wof:id":773423317,
+    "wof:lastmodified":1462585603,
+    "wof:name":"Car Openers Inc",
+    "wof:parent_id":85881143,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "locksmith"
+    ]
+},
+  "bbox": [
+    -93.333671,
+    37.116148,
+    -93.333671,
+    37.116148
+],
+  "geometry": {"coordinates":[-93.333671,37.116148],"type":"Point"}
+}

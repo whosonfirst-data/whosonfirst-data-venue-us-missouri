@@ -1,0 +1,81 @@
+{
+  "id": 806820559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.408345,38.554715,-90.408345,38.554715",
+    "geom:latitude":38.554715,
+    "geom:longitude":-90.408345,
+    "iso:country":"US",
+    "sg:address":"10890 Sunset Hills Plz",
+    "sg:city":"St Louis",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 909 7771",
+    "sg:postcode":"63127",
+    "sg:province":"MO",
+    "sg:tags":[
+        "improvement"
+    ],
+    "sg:website":"www.homedepot.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85858243,
+        102191575,
+        404517253,
+        85633793,
+        85972177,
+        102086173,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0VVltBuT6OoGQ9simtu2Yz_38.554715_-90.408345@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462601349,
+    "wof:geomhash":"d18e4b8502bd8abfd0fe1d7148324904",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086173,
+            "localadmin_id":404517253,
+            "locality_id":85972177,
+            "neighbourhood_id":85858243,
+            "region_id":85688661,
+            "venue_id":806820559
+        }
+    ],
+    "wof:id":806820559,
+    "wof:lastmodified":1462601349,
+    "wof:name":"Home Depot",
+    "wof:parent_id":85858243,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "improvement"
+    ]
+},
+  "bbox": [
+    -90.408345,
+    38.554715,
+    -90.408345,
+    38.554715
+],
+  "geometry": {"coordinates":[-90.408345,38.554715],"type":"Point"}
+}

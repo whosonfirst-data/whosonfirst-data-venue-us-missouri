@@ -1,0 +1,71 @@
+{
+  "id": 806484143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.73812,38.794199,-90.73812,38.794199",
+    "geom:latitude":38.794199,
+    "geom:longitude":-90.73812,
+    "iso:country":"US",
+    "sg:address":"1358 Apple Valley Dr",
+    "sg:city":"O Fallon",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 578 1174",
+    "sg:postcode":"63366",
+    "sg:province":"MO",
+    "sg:tags":[
+        "electrical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3paxvYGfHc4fsGw1KydAgU_38.794199_-90.738120@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462598500,
+    "wof:geomhash":"fa0a8148f4a007dff8cd621c4964a70d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":806484143
+        }
+    ],
+    "wof:id":806484143,
+    "wof:lastmodified":1462598500,
+    "wof:name":"Hang It Up",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical"
+    ]
+},
+  "bbox": [
+    -90.73812,
+    38.794199,
+    -90.73812,
+    38.794199
+],
+  "geometry": {"coordinates":[-90.73812,38.794199],"type":"Point"}
+}

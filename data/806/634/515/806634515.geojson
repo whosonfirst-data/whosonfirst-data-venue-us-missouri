@@ -1,0 +1,73 @@
+{
+  "id": 806634515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.43656,37.787278,-90.43656,37.787278",
+    "geom:latitude":37.787278,
+    "geom:longitude":-90.43656,
+    "iso:country":"US",
+    "sg:address":"1085 Maple St",
+    "sg:city":"Farmington",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 756 5353",
+    "sg:postcode":"63640",
+    "sg:province":"MO",
+    "sg:tags":[
+        "specialty",
+        "outpatient"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970665,
+        102085297,
+        85816309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7SwergaeXDuzRzKeASg7Wa_37.787278_-90.436560@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462599772,
+    "wof:geomhash":"eeb9f89e3e432f6db1ae8705f823ce46",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085297,
+            "locality_id":85970665,
+            "neighbourhood_id":85816309,
+            "region_id":85688661,
+            "venue_id":806634515
+        }
+    ],
+    "wof:id":806634515,
+    "wof:lastmodified":1462599772,
+    "wof:name":"BJC Behavioral Health",
+    "wof:parent_id":85816309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "specialty",
+        "outpatient"
+    ]
+},
+  "bbox": [
+    -90.43656,
+    37.787278,
+    -90.43656,
+    37.787278
+],
+  "geometry": {"coordinates":[-90.43656,37.787278],"type":"Point"}
+}

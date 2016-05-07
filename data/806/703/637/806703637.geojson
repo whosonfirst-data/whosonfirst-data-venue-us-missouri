@@ -1,0 +1,84 @@
+{
+  "id": 806703637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.379936,38.562181,-90.379936,38.562181",
+    "geom:latitude":38.562181,
+    "geom:longitude":-90.379936,
+    "iso:country":"US",
+    "sg:address":"9380 Watson Industrial Park",
+    "sg:city":"St Louis",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 968 9500",
+    "sg:postcode":"63126",
+    "sg:province":"MO",
+    "sg:tags":[
+        "control",
+        "clutches",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85858243,
+        102191575,
+        404517253,
+        85633793,
+        85972177,
+        102086173,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2PHtJqOKuYTvywOWOxw0zk_38.562181_-90.379936@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462600366,
+    "wof:geomhash":"b0461914f0637f915ad320b91d3fc756",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086173,
+            "localadmin_id":404517253,
+            "locality_id":85972177,
+            "neighbourhood_id":85858243,
+            "region_id":85688661,
+            "venue_id":806703637
+        }
+    ],
+    "wof:id":806703637,
+    "wof:lastmodified":1462600366,
+    "wof:name":"Magne Corp",
+    "wof:parent_id":85858243,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "control",
+        "clutches",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -90.379936,
+    38.562181,
+    -90.379936,
+    38.562181
+],
+  "geometry": {"coordinates":[-90.379936,38.562181],"type":"Point"}
+}

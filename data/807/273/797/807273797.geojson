@@ -1,0 +1,83 @@
+{
+  "id": 807273797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.761917,37.953152,-91.761917,37.953152",
+    "geom:latitude":37.953152,
+    "geom:longitude":-91.761917,
+    "iso:country":"US",
+    "sg:address":"1200 Holloway St",
+    "sg:city":"Rolla",
+    "sg:classifiers":[
+        {
+            "category":"Community Center",
+            "subcategory":"",
+            "type":"Public Place"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 364 4278",
+    "sg:postcode":"65401",
+    "sg:province":"MO",
+    "sg:tags":[
+        "recreation",
+        "government-city",
+        "township",
+        "village"
+    ],
+    "sg:website":"http://www.rollacity.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970821,
+        102086893,
+        85814531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7P7p8xb83h6SbGBZrggi6j_37.953152_-91.761917@1303262936"
+    },
+    "wof:country":"US",
+    "wof:created":1462605582,
+    "wof:geomhash":"5b49c451f40b6768d07fcd13d141b629",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086893,
+            "locality_id":85970821,
+            "neighbourhood_id":85814531,
+            "region_id":85688661,
+            "venue_id":807273797
+        }
+    ],
+    "wof:id":807273797,
+    "wof:lastmodified":1462605582,
+    "wof:name":"Parks & Recreation",
+    "wof:parent_id":85814531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "recreation",
+        "government-city",
+        "township",
+        "village"
+    ]
+},
+  "bbox": [
+    -91.761917,
+    37.953152,
+    -91.761917,
+    37.953152
+],
+  "geometry": {"coordinates":[-91.761917,37.953152],"type":"Point"}
+}

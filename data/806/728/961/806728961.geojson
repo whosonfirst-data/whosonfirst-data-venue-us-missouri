@@ -1,0 +1,86 @@
+{
+  "id": 806728961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.33454,38.805055,-90.33454,38.805055",
+    "geom:latitude":38.805055,
+    "geom:longitude":-90.33454,
+    "iso:country":"US",
+    "sg:address":"71 Florissant Park Dr",
+    "sg:city":"Florissant",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Non-profit Organization",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 921 5481",
+    "sg:postcode":"63031",
+    "sg:province":"MO",
+    "sg:tags":[
+        "information",
+        "treatment",
+        "alcoholism",
+        "specialty"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85813019,
+        102191575,
+        404517467,
+        85633793,
+        85972639,
+        102086173,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3MtED09Q0RK7pquZcyTNV3_38.805055_-90.334540@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462600574,
+    "wof:geomhash":"0017bb34ab1b2e0eb20c8d8500beb67e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086173,
+            "localadmin_id":404517467,
+            "locality_id":85972639,
+            "neighbourhood_id":85813019,
+            "region_id":85688661,
+            "venue_id":806728961
+        }
+    ],
+    "wof:id":806728961,
+    "wof:lastmodified":1462600574,
+    "wof:name":"Emass",
+    "wof:parent_id":85813019,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "information",
+        "treatment",
+        "alcoholism",
+        "specialty"
+    ]
+},
+  "bbox": [
+    -90.33454,
+    38.805055,
+    -90.33454,
+    38.805055
+],
+  "geometry": {"coordinates":[-90.33454,38.805055],"type":"Point"}
+}

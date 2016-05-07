@@ -1,0 +1,72 @@
+{
+  "id": 807071773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.700349,38.803377,-90.700349,38.803377",
+    "geom:latitude":38.803377,
+    "geom:longitude":-90.700349,
+    "iso:country":"US",
+    "sg:address":"106 W Terra Ln",
+    "sg:city":"O Fallon",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/wentzville/141701-waffle-house/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 272 0783",
+    "sg:postcode":"63366",
+    "sg:province":"MO",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6cUMReBdesHDukUwW3tAyH_38.803377_-90.700349@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462603459,
+    "wof:geomhash":"cef5b0eef977bf32e4dd40017e343727",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":807071773
+        }
+    ],
+    "wof:id":807071773,
+    "wof:lastmodified":1462603459,
+    "wof:name":"Waffle House",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -90.700349,
+    38.803377,
+    -90.700349,
+    38.803377
+],
+  "geometry": {"coordinates":[-90.700349,38.803377],"type":"Point"}
+}

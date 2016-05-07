@@ -1,0 +1,73 @@
+{
+  "id": 773274903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.621477,38.010013,-91.621477,38.010013",
+    "geom:latitude":38.010013,
+    "geom:longitude":-91.621477,
+    "iso:country":"US",
+    "sg:address":"1000 N Jefferson St",
+    "sg:city":"St James",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 265 8840",
+    "sg:postcode":"65559",
+    "sg:province":"MO",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970819,
+        102086893,
+        85847353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_29Um5PZRsPrOvCA4DdhWsv_38.010013_-91.621477@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462584477,
+    "wof:geomhash":"683ab48bfbdf13e8b116c2fb9122e11b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086893,
+            "locality_id":85970819,
+            "neighbourhood_id":85847353,
+            "region_id":85688661,
+            "venue_id":773274903
+        }
+    ],
+    "wof:id":773274903,
+    "wof:lastmodified":1462584477,
+    "wof:name":"Forest City Family Practice",
+    "wof:parent_id":85847353,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -91.621477,
+    38.010013,
+    -91.621477,
+    38.010013
+],
+  "geometry": {"coordinates":[-91.621477,38.010013],"type":"Point"}
+}

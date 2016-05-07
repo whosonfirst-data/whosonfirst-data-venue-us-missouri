@@ -1,0 +1,80 @@
+{
+  "id": 807123665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.564519,38.23153,-90.564519,38.23153",
+    "geom:latitude":38.23153,
+    "geom:longitude":-90.564519,
+    "iso:country":"US",
+    "sg:address":"481 Maple St",
+    "sg:city":"Hillsboro",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 797 2929",
+    "sg:postcode":"63050",
+    "sg:province":"MO",
+    "sg:tags":[
+        "buyer",
+        "information",
+        "referral",
+        "broker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85848677,
+        102080787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3jZKpTLzE7LpmIcCj96m9Y_38.231530_-90.564519@1303262926"
+    },
+    "wof:country":"US",
+    "wof:created":1462603983,
+    "wof:geomhash":"eaf35bcf246c156edc478ceeab28575f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080787,
+            "neighbourhood_id":85848677,
+            "region_id":85688661,
+            "venue_id":807123665
+        }
+    ],
+    "wof:id":807123665,
+    "wof:lastmodified":1462603983,
+    "wof:name":"Welcome Home Realty Inc",
+    "wof:parent_id":85848677,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "buyer",
+        "information",
+        "referral",
+        "broker"
+    ]
+},
+  "bbox": [
+    -90.564519,
+    38.23153,
+    -90.564519,
+    38.23153
+],
+  "geometry": {"coordinates":[-90.564519,38.23153],"type":"Point"}
+}

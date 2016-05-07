@@ -1,0 +1,90 @@
+{
+  "id": 807153249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.259128,38.637048,-90.259128,38.637048",
+    "geom:latitude":38.637048,
+    "geom:longitude":-90.259128,
+    "iso:country":"US",
+    "sg:address":"4483 Duncan Ave",
+    "sg:city":"Saint Louis",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        },
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        },
+        {
+            "category":"Education",
+            "subcategory":"University",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 454 7055",
+    "sg:postcode":"63110",
+    "sg:province":"MO",
+    "sg:tags":[
+        "school",
+        "college",
+        "specialty"
+    ],
+    "sg:website":"www.barnesjewishcollege.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85867031,
+        102191575,
+        404518053,
+        85633793,
+        85971343,
+        102080791,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Qz40nUTELERsCNBWGas0Y_38.637048_-90.259128@1303262928"
+    },
+    "wof:country":"US",
+    "wof:created":1462604304,
+    "wof:geomhash":"2180d628b23ef6a28873e235fa781c9f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080791,
+            "localadmin_id":404518053,
+            "locality_id":85971343,
+            "neighbourhood_id":85867031,
+            "region_id":85688661,
+            "venue_id":807153249
+        }
+    ],
+    "wof:id":807153249,
+    "wof:lastmodified":1462604304,
+    "wof:name":"Barnes-Jewish College of Nursing",
+    "wof:parent_id":85867031,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "school",
+        "college",
+        "specialty"
+    ]
+},
+  "bbox": [
+    -90.259128,
+    38.637048,
+    -90.259128,
+    38.637048
+],
+  "geometry": {"coordinates":[-90.259128,38.637048],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 806858863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.770991,39.363101,-94.770991,39.363101",
+    "geom:latitude":39.363101,
+    "geom:longitude":-94.770991,
+    "iso:country":"US",
+    "sg:address":"1219 Branch St",
+    "sg:city":"Platte City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Self-service Laundry",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 858 3700",
+    "sg:postcode":"64079",
+    "sg:province":"MO",
+    "sg:tags":[
+        "coin"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970739,
+        102085271,
+        85851839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1JHgPri4VDOiJIr2Ld3Pem_39.363101_-94.770991@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462601681,
+    "wof:geomhash":"133fb498b24002cf5c14d8c8ca84b1f9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085271,
+            "locality_id":85970739,
+            "neighbourhood_id":85851839,
+            "region_id":85688661,
+            "venue_id":806858863
+        }
+    ],
+    "wof:id":806858863,
+    "wof:lastmodified":1462601681,
+    "wof:name":"Village Laundromat",
+    "wof:parent_id":85851839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "coin"
+    ]
+},
+  "bbox": [
+    -94.770991,
+    39.363101,
+    -94.770991,
+    39.363101
+],
+  "geometry": {"coordinates":[-94.770991,39.363101],"type":"Point"}
+}

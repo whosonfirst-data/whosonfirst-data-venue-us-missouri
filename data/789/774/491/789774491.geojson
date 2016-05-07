@@ -1,0 +1,71 @@
+{
+  "id": 789774491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.357368,39.355897,-94.357368,39.355897",
+    "geom:latitude":39.355897,
+    "geom:longitude":-94.357368,
+    "iso:country":"US",
+    "sg:address":"307 E 17th St",
+    "sg:city":"Kearney",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 628 1777",
+    "sg:postcode":"64060",
+    "sg:province":"MO",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971507,
+        102086177,
+        85812855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4nNohQZoPbr4BZXwiorsze_39.355897_-94.357368@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462590436,
+    "wof:geomhash":"f357794eedf4c156baa8d931bbb5db2a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086177,
+            "locality_id":85971507,
+            "neighbourhood_id":85812855,
+            "region_id":85688661,
+            "venue_id":789774491
+        }
+    ],
+    "wof:id":789774491,
+    "wof:lastmodified":1462590436,
+    "wof:name":"Stout Plumbing",
+    "wof:parent_id":85812855,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -94.357368,
+    39.355897,
+    -94.357368,
+    39.355897
+],
+  "geometry": {"coordinates":[-94.35736799999999,39.355897],"type":"Point"}
+}

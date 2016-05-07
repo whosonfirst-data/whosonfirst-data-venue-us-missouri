@@ -1,0 +1,77 @@
+{
+  "id": 806524089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.347068,38.4589,-90.347068,38.4589",
+    "geom:latitude":38.4589,
+    "geom:longitude":-90.347068,
+    "iso:country":"US",
+    "sg:address":"6125 Bradley Manor Pl",
+    "sg:city":"St Louis",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 845 3906",
+    "sg:postcode":"63129",
+    "sg:province":"MO",
+    "sg:tags":[
+        "transmission",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85885365,
+        102191575,
+        404517459,
+        85633793,
+        85972631,
+        102086173,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3W4llKVztn82FlHo4I3aiB_38.458900_-90.347068@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462598816,
+    "wof:geomhash":"6b8a4c301ccd31ab6d58ceed40c4dd35",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086173,
+            "localadmin_id":404517459,
+            "locality_id":85972631,
+            "neighbourhood_id":85885365,
+            "region_id":85688661,
+            "venue_id":806524089
+        }
+    ],
+    "wof:id":806524089,
+    "wof:lastmodified":1462598816,
+    "wof:name":"Gear Box",
+    "wof:parent_id":85885365,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission",
+        "general"
+    ]
+},
+  "bbox": [
+    -90.347068,
+    38.4589,
+    -90.347068,
+    38.4589
+],
+  "geometry": {"coordinates":[-90.34706799999999,38.4589],"type":"Point"}
+}

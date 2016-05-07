@@ -1,0 +1,74 @@
+{
+  "id": 806655791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.753342,37.941652,-91.753342,37.941652",
+    "geom:latitude":37.941652,
+    "geom:longitude":-91.753342,
+    "iso:country":"US",
+    "sg:address":"268 Leonard Dr",
+    "sg:city":"Ft Leonard Wood",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"College",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 329 4400",
+    "sg:postcode":"65401",
+    "sg:province":"MO",
+    "sg:tags":[
+        "academic",
+        "school"
+    ],
+    "sg:website":"www.drury.edu",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970821,
+        102086893,
+        85814531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7EZ9xxTdFzDCrg4Z50tmSR_37.941652_-91.753342@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462599957,
+    "wof:geomhash":"149ea093a781d89b1f207acbb1447661",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086893,
+            "locality_id":85970821,
+            "neighbourhood_id":85814531,
+            "region_id":85688661,
+            "venue_id":806655791
+        }
+    ],
+    "wof:id":806655791,
+    "wof:lastmodified":1462599957,
+    "wof:name":"Drury University",
+    "wof:parent_id":85814531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "academic",
+        "school"
+    ]
+},
+  "bbox": [
+    -91.753342,
+    37.941652,
+    -91.753342,
+    37.941652
+],
+  "geometry": {"coordinates":[-91.753342,37.941652],"type":"Point"}
+}

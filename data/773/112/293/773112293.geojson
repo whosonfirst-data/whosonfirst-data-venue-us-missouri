@@ -1,0 +1,73 @@
+{
+  "id": 773112293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.645063,38.357209,-90.645063,38.357209",
+    "geom:latitude":38.357209,
+    "geom:longitude":-90.645063,
+    "iso:country":"US",
+    "sg:address":"6697 Veterans Dr",
+    "sg:city":"Cedar Hill",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 274 0669",
+    "sg:postcode":"63016",
+    "sg:province":"MO",
+    "sg:tags":[
+        "television",
+        "radio"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971019,
+        102080787,
+        85817237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3vdvnnPs4qA057bSbGP1WG_38.357209_-90.645063@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462583236,
+    "wof:geomhash":"c7fbb545698deaae5abb4bf25a603617",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080787,
+            "locality_id":85971019,
+            "neighbourhood_id":85817237,
+            "region_id":85688661,
+            "venue_id":773112293
+        }
+    ],
+    "wof:id":773112293,
+    "wof:lastmodified":1462583236,
+    "wof:name":"Cedar Hill TV",
+    "wof:parent_id":85817237,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "television",
+        "radio"
+    ]
+},
+  "bbox": [
+    -90.645063,
+    38.357209,
+    -90.645063,
+    38.357209
+],
+  "geometry": {"coordinates":[-90.64506299999999,38.357209],"type":"Point"}
+}

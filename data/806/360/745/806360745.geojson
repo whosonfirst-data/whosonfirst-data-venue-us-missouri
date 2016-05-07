@@ -1,0 +1,88 @@
+{
+  "id": 806360745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.515212,37.09287,-94.515212,37.09287",
+    "geom:latitude":37.09287,
+    "geom:longitude":-94.515212,
+    "iso:country":"US",
+    "sg:address":"210 W B St",
+    "sg:city":"Joplin",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 623 7274",
+    "sg:postcode":"64801",
+    "sg:province":"MO",
+    "sg:tags":[
+        "specialty",
+        "outpatient"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420525385,
+        102191575,
+        404518215,
+        85633793,
+        85970893,
+        102087525,
+        85688661,
+        85885363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1jmaoI2QtFi4hi146kVaYP_37.092870_-94.515212@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462597512,
+    "wof:geomhash":"205a157ed2abb7abe2d9fa53564e8d1a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087525,
+            "localadmin_id":404518215,
+            "locality_id":85970893,
+            "neighbourhood_id":420525385,
+            "region_id":85688661,
+            "venue_id":806360745
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087525,
+            "localadmin_id":404518215,
+            "locality_id":85970893,
+            "neighbourhood_id":85885363,
+            "region_id":85688661,
+            "venue_id":806360745
+        }
+    ],
+    "wof:id":806360745,
+    "wof:lastmodified":1462597512,
+    "wof:name":"HOUSE Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "specialty",
+        "outpatient"
+    ]
+},
+  "bbox": [
+    -94.515212,
+    37.09287,
+    -94.515212,
+    37.09287
+],
+  "geometry": {"coordinates":[-94.51521200000001,37.09287],"type":"Point"}
+}

@@ -1,0 +1,91 @@
+{
+  "id": 773229133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.434506,38.587879,-90.434506,38.587879",
+    "geom:latitude":38.587879,
+    "geom:longitude":-90.434506,
+    "iso:country":"US",
+    "sg:address":"543 Lindeman Rd",
+    "sg:city":"Kirkwood",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Electrical",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Electronics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 965 5523",
+    "sg:postcode":"63122",
+    "sg:province":"MO",
+    "sg:tags":[
+        "industrial",
+        "mfg",
+        "supply",
+        "component",
+        "equipment",
+        "electronic"
+    ],
+    "sg:website":"www.pico-systems.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85858661,
+        102191575,
+        404517203,
+        85633793,
+        85972289,
+        102086173,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4SjDA4e0qm1cFdi6ah8sbN_38.587879_-90.434506@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462584135,
+    "wof:geomhash":"137ba3fb749846b0040b47e9b64b731b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086173,
+            "localadmin_id":404517203,
+            "locality_id":85972289,
+            "neighbourhood_id":85858661,
+            "region_id":85688661,
+            "venue_id":773229133
+        }
+    ],
+    "wof:id":773229133,
+    "wof:lastmodified":1462584135,
+    "wof:name":"Pico Systems",
+    "wof:parent_id":85858661,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industrial",
+        "mfg",
+        "supply",
+        "component",
+        "equipment",
+        "electronic"
+    ]
+},
+  "bbox": [
+    -90.434506,
+    38.587879,
+    -90.434506,
+    38.587879
+],
+  "geometry": {"coordinates":[-90.434506,38.587879],"type":"Point"}
+}

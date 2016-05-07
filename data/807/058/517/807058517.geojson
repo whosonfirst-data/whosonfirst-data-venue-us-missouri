@@ -1,0 +1,72 @@
+{
+  "id": 807058517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.391798,38.414729,-90.391798,38.414729",
+    "geom:latitude":38.414729,
+    "geom:longitude":-90.391798,
+    "iso:country":"US",
+    "sg:address":"3606 W Outer Rd",
+    "sg:city":"Arnold",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/arnold/103725-ruby-tuesdays/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 287 3522",
+    "sg:postcode":"63010",
+    "sg:province":"MO",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85805175,
+        102080787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4xhsGaEIjOP8zOAXCO9t8k_38.414729_-90.391798@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462603359,
+    "wof:geomhash":"288477f218d7440ad5ece0c078168522",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080787,
+            "neighbourhood_id":85805175,
+            "region_id":85688661,
+            "venue_id":807058517
+        }
+    ],
+    "wof:id":807058517,
+    "wof:lastmodified":1462603359,
+    "wof:name":"Ruby Tuesdays",
+    "wof:parent_id":85805175,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -90.391798,
+    38.414729,
+    -90.391798,
+    38.414729
+],
+  "geometry": {"coordinates":[-90.39179799999999,38.414729],"type":"Point"}
+}

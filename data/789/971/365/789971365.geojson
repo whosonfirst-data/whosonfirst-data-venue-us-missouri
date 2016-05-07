@@ -1,0 +1,71 @@
+{
+  "id": 789971365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.701414,38.808734,-90.701414,38.808734",
+    "geom:latitude":38.808734,
+    "geom:longitude":-90.701414,
+    "iso:country":"US",
+    "sg:address":"103 Church St",
+    "sg:city":"O Fallon",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 240 1100",
+    "sg:postcode":"63366",
+    "sg:province":"MO",
+    "sg:tags":[
+        "osteopathic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_14DTv0Sg7Mqicqy0pqVQWu_38.808734_-90.701414@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462592091,
+    "wof:geomhash":"28522da7c9c5a3b54bf7f3c8341cfed8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":789971365
+        }
+    ],
+    "wof:id":789971365,
+    "wof:lastmodified":1462592091,
+    "wof:name":"Family Medicine Clinic",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "osteopathic"
+    ]
+},
+  "bbox": [
+    -90.701414,
+    38.808734,
+    -90.701414,
+    38.808734
+],
+  "geometry": {"coordinates":[-90.701414,38.808734],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 773261241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.376905,38.558786,-90.376905,38.558786",
+    "geom:latitude":38.558786,
+    "geom:longitude":-90.376905,
+    "iso:country":"US",
+    "sg:address":"9420 Watson Rd",
+    "sg:city":"St Louis",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 842 3739",
+    "sg:postcode":"63126",
+    "sg:province":"MO",
+    "sg:tags":[
+        "shop"
+    ],
+    "sg:website":"www.pier1.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85858243,
+        102191575,
+        404517253,
+        85633793,
+        85972177,
+        102086173,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0qSxcNgThm87KAqmP84KRt_38.558786_-90.376905@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462584371,
+    "wof:geomhash":"ef1dfbc36868e594a5ccb1036746eabd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086173,
+            "localadmin_id":404517253,
+            "locality_id":85972177,
+            "neighbourhood_id":85858243,
+            "region_id":85688661,
+            "venue_id":773261241
+        }
+    ],
+    "wof:id":773261241,
+    "wof:lastmodified":1462584371,
+    "wof:name":"Pier 1 Imports",
+    "wof:parent_id":85858243,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -90.376905,
+    38.558786,
+    -90.376905,
+    38.558786
+],
+  "geometry": {"coordinates":[-90.37690499999999,38.558786],"type":"Point"}
+}

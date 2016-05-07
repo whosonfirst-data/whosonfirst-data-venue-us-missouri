@@ -1,0 +1,71 @@
+{
+  "id": 806387195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.151088,38.552356,-92.151088,38.552356",
+    "geom:latitude":38.552356,
+    "geom:longitude":-92.151088,
+    "iso:country":"US",
+    "sg:address":"1735 E Elm St",
+    "sg:city":"Jefferson City",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 761 6930",
+    "sg:postcode":"65101",
+    "sg:province":"MO",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970647,
+        102087511,
+        85837745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_27oDnPFDpUSICqwErG6jIp_38.552356_-92.151088@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462597733,
+    "wof:geomhash":"d52806e2ad18cd604fb7fd16baaeaa0d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087511,
+            "locality_id":85970647,
+            "neighbourhood_id":85837745,
+            "region_id":85688661,
+            "venue_id":806387195
+        }
+    ],
+    "wof:id":806387195,
+    "wof:lastmodified":1462597733,
+    "wof:name":"St Marys Hospital",
+    "wof:parent_id":85837745,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -92.151088,
+    38.552356,
+    -92.151088,
+    38.552356
+],
+  "geometry": {"coordinates":[-92.151088,38.552356],"type":"Point"}
+}

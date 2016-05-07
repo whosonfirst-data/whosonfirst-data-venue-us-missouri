@@ -1,0 +1,80 @@
+{
+  "id": 789911223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.420493,38.663875,-90.420493,38.663875",
+    "geom:latitude":38.663875,
+    "geom:longitude":-90.420493,
+    "iso:country":"US",
+    "sg:address":"7 The Knolls Ln",
+    "sg:city":"St Louis",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Optometrist",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 983 0222",
+    "sg:postcode":"63141",
+    "sg:province":"MO",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85867981,
+        102191575,
+        404517387,
+        85633793,
+        85972223,
+        102086173,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1BfIWigJde5KifeICthB9y_38.663875_-90.420493@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462591550,
+    "wof:geomhash":"7d80e544623f17cfc8275aebe59cfb09",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086173,
+            "localadmin_id":404517387,
+            "locality_id":85972223,
+            "neighbourhood_id":85867981,
+            "region_id":85688661,
+            "venue_id":789911223
+        }
+    ],
+    "wof:id":789911223,
+    "wof:lastmodified":1462591550,
+    "wof:name":"On Site Eye Care LLC",
+    "wof:parent_id":85867981,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -90.420493,
+    38.663875,
+    -90.420493,
+    38.663875
+],
+  "geometry": {"coordinates":[-90.42049299999999,38.663875],"type":"Point"}
+}

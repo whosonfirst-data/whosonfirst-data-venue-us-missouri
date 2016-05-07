@@ -1,0 +1,72 @@
+{
+  "id": 807070197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.48044,38.783089,-90.48044,38.783089",
+    "geom:latitude":38.783089,
+    "geom:longitude":-90.48044,
+    "iso:country":"US",
+    "sg:address":"311 N Main St",
+    "sg:city":"Saint Charles",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/rivers/42703-mexico-on-main/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 724 2499",
+    "sg:postcode":"63301",
+    "sg:province":"MO",
+    "sg:tags":[
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_19uEdqzdCbse0E3gdO9tPC_38.783089_-90.480440@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462603447,
+    "wof:geomhash":"503ce797064f063a157c42de29fe86b1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":807070197
+        }
+    ],
+    "wof:id":807070197,
+    "wof:lastmodified":1462603447,
+    "wof:name":"Mexico On Main",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican"
+    ]
+},
+  "bbox": [
+    -90.48044,
+    38.783089,
+    -90.48044,
+    38.783089
+],
+  "geometry": {"coordinates":[-90.48044,38.783089],"type":"Point"}
+}

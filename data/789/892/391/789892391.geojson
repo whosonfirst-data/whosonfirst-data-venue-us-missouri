@@ -1,0 +1,86 @@
+{
+  "id": 789892391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.298491,38.65719,-90.298491,38.65719",
+    "geom:latitude":38.65719,
+    "geom:longitude":-90.298491,
+    "iso:country":"US",
+    "sg:address":"735 Rosedale Ave",
+    "sg:city":"St Louis",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        },
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 721 7700",
+    "sg:postcode":"63112",
+    "sg:province":"MO",
+    "sg:tags":[
+        "youth",
+        "organization",
+        "center",
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873631,
+        102191575,
+        404518053,
+        85633793,
+        85971343,
+        102080791,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5i9y650jsmmxp1k3vg6fUp_38.657190_-90.298491@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462591387,
+    "wof:geomhash":"247d9b89468eb4053d5b1fd3af4c4dcf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080791,
+            "localadmin_id":404518053,
+            "locality_id":85971343,
+            "neighbourhood_id":85873631,
+            "region_id":85688661,
+            "venue_id":789892391
+        }
+    ],
+    "wof:id":789892391,
+    "wof:lastmodified":1462591387,
+    "wof:name":"Minority Youth & Construction",
+    "wof:parent_id":85873631,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "youth",
+        "organization",
+        "center",
+        "house"
+    ]
+},
+  "bbox": [
+    -90.298491,
+    38.65719,
+    -90.298491,
+    38.65719
+],
+  "geometry": {"coordinates":[-90.298491,38.65719],"type":"Point"}
+}

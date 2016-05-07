@@ -1,0 +1,73 @@
+{
+  "id": 806801503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.588079,38.794283,-90.588079,38.794283",
+    "geom:latitude":38.794283,
+    "geom:longitude":-90.588079,
+    "iso:country":"US",
+    "sg:address":"114 Piper Hills Dr",
+    "sg:city":"St Peters",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 928 1670",
+    "sg:postcode":"63376",
+    "sg:province":"MO",
+    "sg:tags":[
+        "surgical",
+        "center"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1h51KYpttX6vUHewjGSQuu_38.794283_-90.588079@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462601196,
+    "wof:geomhash":"427bad10e7a4c132b7ce5b1f19e6db67",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":806801503
+        }
+    ],
+    "wof:id":806801503,
+    "wof:lastmodified":1462601196,
+    "wof:name":"St Peters Ambulatory Surgery",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "surgical",
+        "center"
+    ]
+},
+  "bbox": [
+    -90.588079,
+    38.794283,
+    -90.588079,
+    38.794283
+],
+  "geometry": {"coordinates":[-90.58807899999999,38.794283],"type":"Point"}
+}

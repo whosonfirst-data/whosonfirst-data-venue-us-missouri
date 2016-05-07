@@ -1,0 +1,83 @@
+{
+  "id": 806873861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.192129,38.655818,-90.192129,38.655818",
+    "geom:latitude":38.655818,
+    "geom:longitude":-90.192129,
+    "iso:country":"US",
+    "sg:address":"3001 N Broadway",
+    "sg:city":"St Louis",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 436 0299",
+    "sg:postcode":"63147",
+    "sg:province":"MO",
+    "sg:tags":[
+        "distance",
+        "local",
+        "hauling",
+        "long",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873609,
+        102191575,
+        404518053,
+        85633793,
+        85971343,
+        102080791,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4IEJnlxhOxNoNQaHJQjGPC_38.655818_-90.192129@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462601804,
+    "wof:geomhash":"e16167b7369c610defca035efc3acb9f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080791,
+            "localadmin_id":404518053,
+            "locality_id":85971343,
+            "neighbourhood_id":85873609,
+            "region_id":85688661,
+            "venue_id":806873861
+        }
+    ],
+    "wof:id":806873861,
+    "wof:lastmodified":1462601804,
+    "wof:name":"Antler Trucking Co",
+    "wof:parent_id":85873609,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "distance",
+        "local",
+        "hauling",
+        "long",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -90.192129,
+    38.655818,
+    -90.192129,
+    38.655818
+],
+  "geometry": {"coordinates":[-90.19212899999999,38.655818],"type":"Point"}
+}

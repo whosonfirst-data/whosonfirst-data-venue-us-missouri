@@ -1,0 +1,74 @@
+{
+  "id": 807067669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.382374,38.49439,-90.382374,38.49439",
+    "geom:latitude":38.49439,
+    "geom:longitude":-90.382374,
+    "iso:country":"US",
+    "sg:address":"13015 Tesson Ferry",
+    "sg:city":"Saint Louis",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/tesson-ferry/86537-imos-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 842 3868",
+    "sg:postcode":"63128",
+    "sg:province":"MO",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971021,
+        102080787,
+        85832925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5wGCqY4gwjJxeZ3wrLCHX1_38.494390_-90.382374@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462603428,
+    "wof:geomhash":"eda2b4516800f2724da0278833257a46",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080787,
+            "locality_id":85971021,
+            "neighbourhood_id":85832925,
+            "region_id":85688661,
+            "venue_id":807067669
+        }
+    ],
+    "wof:id":807067669,
+    "wof:lastmodified":1462603428,
+    "wof:name":"Imo's Pizza",
+    "wof:parent_id":85832925,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -90.382374,
+    38.49439,
+    -90.382374,
+    38.49439
+],
+  "geometry": {"coordinates":[-90.382374,38.49439],"type":"Point"}
+}

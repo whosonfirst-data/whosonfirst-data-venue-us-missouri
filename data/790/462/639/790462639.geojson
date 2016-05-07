@@ -1,0 +1,76 @@
+{
+  "id": 790462639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.617447,37.998643,-91.617447,37.998643",
+    "geom:latitude":37.998643,
+    "geom:longitude":-91.617447,
+    "iso:country":"US",
+    "sg:address":"221 N Meramec St",
+    "sg:city":"St James",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 265 5001",
+    "sg:postcode":"65559",
+    "sg:province":"MO",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970819,
+        102086893,
+        85847353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2k5FEQXT7u9ZFkWuep2psK_37.998643_-91.617447@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462596031,
+    "wof:geomhash":"263ca3f057d66f4c68978d9462fdaa5d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086893,
+            "locality_id":85970819,
+            "neighbourhood_id":85847353,
+            "region_id":85688661,
+            "venue_id":790462639
+        }
+    ],
+    "wof:id":790462639,
+    "wof:lastmodified":1462596031,
+    "wof:name":"Razors Edge",
+    "wof:parent_id":85847353,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -91.617447,
+    37.998643,
+    -91.617447,
+    37.998643
+],
+  "geometry": {"coordinates":[-91.617447,37.998643],"type":"Point"}
+}

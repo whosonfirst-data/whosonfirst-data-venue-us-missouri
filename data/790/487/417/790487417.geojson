@@ -1,0 +1,86 @@
+{
+  "id": 790487417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.188876,38.646635,-90.188876,38.646635",
+    "geom:latitude":38.646635,
+    "geom:longitude":-90.188876,
+    "iso:country":"US",
+    "sg:address":"1940 N 9th St",
+    "sg:city":"St Louis",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 241 2033",
+    "sg:postcode":"63102",
+    "sg:province":"MO",
+    "sg:tags":[
+        "machine",
+        "automobile",
+        "shop",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873629,
+        102191575,
+        404518053,
+        85633793,
+        85971343,
+        102080791,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6PVEWzJFGuIYeL6PZ5yjnl_38.646635_-90.188876@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462596271,
+    "wof:geomhash":"df40fddeeed6e8d31dd38788d33dd731",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080791,
+            "localadmin_id":404518053,
+            "locality_id":85971343,
+            "neighbourhood_id":85873629,
+            "region_id":85688661,
+            "venue_id":790487417
+        }
+    ],
+    "wof:id":790487417,
+    "wof:lastmodified":1462596271,
+    "wof:name":"Engine Rebuilders Corporation",
+    "wof:parent_id":85873629,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "automobile",
+        "shop",
+        "general"
+    ]
+},
+  "bbox": [
+    -90.188876,
+    38.646635,
+    -90.188876,
+    38.646635
+],
+  "geometry": {"coordinates":[-90.18887599999999,38.646635],"type":"Point"}
+}

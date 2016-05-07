@@ -1,0 +1,73 @@
+{
+  "id": 807070091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.513591,38.789075,-90.513591,38.789075",
+    "geom:latitude":38.789075,
+    "geom:longitude":-90.513591,
+    "iso:country":"US",
+    "sg:address":"740 S Duchesne Dr",
+    "sg:city":"Saint Charles",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/lindenwood/194295-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"63301",
+    "sg:province":"MO",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4uLQj0EbKMAPcXU1ruzw9O_38.789075_-90.513591@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462603446,
+    "wof:geomhash":"514dfa8e819d78e010f5aa2a03c4f85a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":807070091
+        }
+    ],
+    "wof:id":807070091,
+    "wof:lastmodified":1462603446,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -90.513591,
+    38.789075,
+    -90.513591,
+    38.789075
+],
+  "geometry": {"coordinates":[-90.51359100000001,38.789075],"type":"Point"}
+}

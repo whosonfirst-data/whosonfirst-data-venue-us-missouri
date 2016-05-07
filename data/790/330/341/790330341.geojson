@@ -1,0 +1,71 @@
+{
+  "id": 790330341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.787571,37.950149,-91.787571,37.950149",
+    "geom:latitude":37.950149,
+    "geom:longitude":-91.787571,
+    "iso:country":"US",
+    "sg:address":"1206 W 9th St",
+    "sg:city":"Rolla",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 364 1669",
+    "sg:postcode":"65401",
+    "sg:province":"MO",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970821,
+        102086893,
+        85814531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6t0RJLTi6xZhPdIGDRVC1o_37.950149_-91.787571@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462594994,
+    "wof:geomhash":"845f04d95586fd3d466b606ff0b5e808",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086893,
+            "locality_id":85970821,
+            "neighbourhood_id":85814531,
+            "region_id":85688661,
+            "venue_id":790330341
+        }
+    ],
+    "wof:id":790330341,
+    "wof:lastmodified":1462594994,
+    "wof:name":"Williamsburg Apartments",
+    "wof:parent_id":85814531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -91.787571,
+    37.950149,
+    -91.787571,
+    37.950149
+],
+  "geometry": {"coordinates":[-91.787571,37.950149],"type":"Point"}
+}

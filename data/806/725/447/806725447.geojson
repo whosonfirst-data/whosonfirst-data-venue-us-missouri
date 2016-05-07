@@ -1,0 +1,73 @@
+{
+  "id": 806725447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.74064,39.838652,-91.74064,39.838652",
+    "geom:latitude":39.838652,
+    "geom:longitude":-91.74064,
+    "iso:country":"US",
+    "sg:address":"2223 State Hwy 168",
+    "sg:city":"Philadelphia",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 439 5496",
+    "sg:postcode":"63463",
+    "sg:province":"MO",
+    "sg:tags":[
+        "operator",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688697,
+        85633793,
+        85938427,
+        102086213,
+        85867477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0W41GQo5mDcjPHtR6hxtTP_39.838652_-91.740640@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462600547,
+    "wof:geomhash":"dcfbcf2950a4dcf90dd83c6ef5409a2a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086213,
+            "locality_id":85938427,
+            "neighbourhood_id":85867477,
+            "region_id":85688697,
+            "venue_id":806725447
+        }
+    ],
+    "wof:id":806725447,
+    "wof:lastmodified":1462600547,
+    "wof:name":"Bock John & Son Trucking",
+    "wof:parent_id":85867477,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -91.74064,
+    39.838652,
+    -91.74064,
+    39.838652
+],
+  "geometry": {"coordinates":[-91.74064,39.838652],"type":"Point"}
+}

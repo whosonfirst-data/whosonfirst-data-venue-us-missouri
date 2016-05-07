@@ -1,0 +1,73 @@
+{
+  "id": 807063449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.45479,38.761602,-90.45479,38.761602",
+    "geom:latitude":38.761602,
+    "geom:longitude":-90.45479,
+    "iso:country":"US",
+    "sg:address":"3296 Rider Trl S",
+    "sg:city":"Earth City",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/northwest/194132-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"63045",
+    "sg:province":"MO",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972341,
+        102086173,
+        85806637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6NxoFv0r6G8CUN4r6JNfVy_38.761602_-90.454790@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462603397,
+    "wof:geomhash":"3cb1357c7102c19f8b46b9b745c32297",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086173,
+            "locality_id":85972341,
+            "neighbourhood_id":85806637,
+            "region_id":85688661,
+            "venue_id":807063449
+        }
+    ],
+    "wof:id":807063449,
+    "wof:lastmodified":1462603397,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85806637,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -90.45479,
+    38.761602,
+    -90.45479,
+    38.761602
+],
+  "geometry": {"coordinates":[-90.45479,38.761602],"type":"Point"}
+}

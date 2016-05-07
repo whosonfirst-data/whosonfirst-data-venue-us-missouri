@@ -1,0 +1,74 @@
+{
+  "id": 789643495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.586404,39.374075,-94.586404,39.374075",
+    "geom:latitude":39.374075,
+    "geom:longitude":-94.586404,
+    "iso:country":"US",
+    "sg:address":"100 James St",
+    "sg:city":"Smithville",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 873 3356",
+    "sg:postcode":"64089",
+    "sg:province":"MO",
+    "sg:tags":[
+        "marketing",
+        "consultant"
+    ],
+    "sg:website":"www.petnetoutlet.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970739,
+        102086177,
+        85836329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_49O6ehGqYcbab1HXRJkjYf_39.374075_-94.586404@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462589399,
+    "wof:geomhash":"6ccf1cdf1f3f77bf0c571abdcf7f09e2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086177,
+            "locality_id":85970739,
+            "neighbourhood_id":85836329,
+            "region_id":85688661,
+            "venue_id":789643495
+        }
+    ],
+    "wof:id":789643495,
+    "wof:lastmodified":1462589399,
+    "wof:name":"Marketing Service",
+    "wof:parent_id":85836329,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "marketing",
+        "consultant"
+    ]
+},
+  "bbox": [
+    -94.586404,
+    39.374075,
+    -94.586404,
+    39.374075
+],
+  "geometry": {"coordinates":[-94.586404,39.374075],"type":"Point"}
+}

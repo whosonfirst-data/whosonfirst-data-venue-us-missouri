@@ -1,0 +1,81 @@
+{
+  "id": 789651339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.556391,39.139201,-94.556391,39.139201",
+    "geom:latitude":39.139201,
+    "geom:longitude":-94.556391,
+    "iso:country":"US",
+    "sg:address":"1639 Taney St",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 842 0442",
+    "sg:postcode":"64116",
+    "sg:province":"MO",
+    "sg:tags":[
+        "warehouse",
+        "self",
+        "storage",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85867025,
+        102191575,
+        404518075,
+        85633793,
+        85970739,
+        102081227,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1BfenttfCXKPDXWozn5RiT_39.139201_-94.556391@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462589466,
+    "wof:geomhash":"5c6d69d0398eefbed856ed143f995277",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081227,
+            "localadmin_id":404518075,
+            "locality_id":85970739,
+            "neighbourhood_id":85867025,
+            "region_id":85688661,
+            "venue_id":789651339
+        }
+    ],
+    "wof:id":789651339,
+    "wof:lastmodified":1462589466,
+    "wof:name":"International Storage & Svcs",
+    "wof:parent_id":85867025,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "warehouse",
+        "self",
+        "storage",
+        "general"
+    ]
+},
+  "bbox": [
+    -94.556391,
+    39.139201,
+    -94.556391,
+    39.139201
+],
+  "geometry": {"coordinates":[-94.556391,39.139201],"type":"Point"}
+}

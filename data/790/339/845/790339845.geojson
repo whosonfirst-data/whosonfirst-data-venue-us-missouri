@@ -1,0 +1,81 @@
+{
+  "id": 790339845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.44134,39.242409,-94.44134,39.242409",
+    "geom:latitude":39.242409,
+    "geom:longitude":-94.44134,
+    "iso:country":"US",
+    "sg:address":"328 State Hwy 291",
+    "sg:city":"Liberty",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 792 3959",
+    "sg:postcode":"64068",
+    "sg:province":"MO",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420525305,
+        102191575,
+        404516717,
+        85633793,
+        85972461,
+        102086177,
+        85688661,
+        420525367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6IXKUR9NDOBjUN9xKIu2OO_39.242409_-94.441340@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462595058,
+    "wof:geomhash":"d3499ca6fa7e3a71a9b8280790be1140",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086177,
+            "localadmin_id":404516717,
+            "locality_id":85972461,
+            "neighbourhood_id":420525305,
+            "region_id":85688661,
+            "venue_id":790339845
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086177,
+            "localadmin_id":404516717,
+            "locality_id":85972461,
+            "neighbourhood_id":420525367,
+            "region_id":85688661,
+            "venue_id":790339845
+        }
+    ],
+    "wof:id":790339845,
+    "wof:lastmodified":1462595058,
+    "wof:name":"Jim's Barber Shop",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -94.44134,
+    39.242409,
+    -94.44134,
+    39.242409
+],
+  "geometry": {"coordinates":[-94.44134,39.242409],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 790507019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.774648,39.366443,-94.774648,39.366443",
+    "geom:latitude":39.366443,
+    "geom:longitude":-94.774648,
+    "iso:country":"US",
+    "sg:address":"303 Marshall Rd",
+    "sg:city":"Platte City",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 858 2300",
+    "sg:postcode":"64079",
+    "sg:province":"MO",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970739,
+        102085271,
+        85851839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4VueUexfeWCPyHtddXrB7B_39.366443_-94.774648@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462596426,
+    "wof:geomhash":"6873a2ab5bcfe37e81c279af74772db3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085271,
+            "locality_id":85970739,
+            "neighbourhood_id":85851839,
+            "region_id":85688661,
+            "venue_id":790507019
+        }
+    ],
+    "wof:id":790507019,
+    "wof:lastmodified":1462596426,
+    "wof:name":"Wayne F Westfall DDS",
+    "wof:parent_id":85851839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -94.774648,
+    39.366443,
+    -94.774648,
+    39.366443
+],
+  "geometry": {"coordinates":[-94.774648,39.366443],"type":"Point"}
+}

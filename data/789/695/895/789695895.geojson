@@ -1,0 +1,75 @@
+{
+  "id": 789695895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.32862,38.950489,-92.32862,38.950489",
+    "geom:latitude":38.950489,
+    "geom:longitude":-92.32862,
+    "iso:country":"US",
+    "sg:address":"700 Cherry St",
+    "sg:city":"Columbia",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 874 9455",
+    "sg:postcode":"65201",
+    "sg:province":"MO",
+    "sg:tags":[
+        "engineer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85835171,
+        102191575,
+        404516389,
+        85633793,
+        85970425,
+        102086187,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7IqwjIXeuNNoHcsFmbyCNo_38.950489_-92.328620@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462589826,
+    "wof:geomhash":"2bcd2c878ca1ba2ba677982f7b953b2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086187,
+            "localadmin_id":404516389,
+            "locality_id":85970425,
+            "neighbourhood_id":85835171,
+            "region_id":85688661,
+            "venue_id":789695895
+        }
+    ],
+    "wof:id":789695895,
+    "wof:lastmodified":1462589826,
+    "wof:name":"C M Engineering",
+    "wof:parent_id":85835171,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "engineer"
+    ]
+},
+  "bbox": [
+    -92.32862,
+    38.950489,
+    -92.32862,
+    38.950489
+],
+  "geometry": {"coordinates":[-92.32862,38.950489],"type":"Point"}
+}

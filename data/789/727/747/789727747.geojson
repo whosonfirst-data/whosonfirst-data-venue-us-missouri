@@ -1,0 +1,71 @@
+{
+  "id": 789727747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.379722,38.482343,-90.379722,38.482343",
+    "geom:latitude":38.482343,
+    "geom:longitude":-90.379722,
+    "iso:country":"US",
+    "sg:address":"5549 Limerick Dr",
+    "sg:city":"Saint Louis",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Dairy",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 487 4642",
+    "sg:postcode":"63128",
+    "sg:province":"MO",
+    "sg:tags":[
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971021,
+        102080787,
+        85832925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ZFWKCnlGL2nH4ShfUQNyK_38.482343_-90.379722@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462590088,
+    "wof:geomhash":"0eb450c9a95d0ea226f51b1d86202d8a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080787,
+            "locality_id":85971021,
+            "neighbourhood_id":85832925,
+            "region_id":85688661,
+            "venue_id":789727747
+        }
+    ],
+    "wof:id":789727747,
+    "wof:lastmodified":1462590088,
+    "wof:name":"Schenkers Dairy Co",
+    "wof:parent_id":85832925,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [
+    -90.379722,
+    38.482343,
+    -90.379722,
+    38.482343
+],
+  "geometry": {"coordinates":[-90.379722,38.482343],"type":"Point"}
+}

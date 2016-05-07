@@ -1,0 +1,77 @@
+{
+  "id": 807096575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.492086,38.594374,-90.492086,38.594374",
+    "geom:latitude":38.594374,
+    "geom:longitude":-90.492086,
+    "iso:country":"US",
+    "sg:address":"14026 Manchester Rd",
+    "sg:city":"Ballwin",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/queeny/194237-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"63011",
+    "sg:province":"MO",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85802943,
+        102191575,
+        404517387,
+        85633793,
+        85972231,
+        102086173,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0mp95sncSsBMH09AnpbSA7_38.594979_-90.492467@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462603681,
+    "wof:geomhash":"0659e28fce4cd63c4521d9d4a99cc68a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086173,
+            "localadmin_id":404517387,
+            "locality_id":85972231,
+            "neighbourhood_id":85802943,
+            "region_id":85688661,
+            "venue_id":807096575
+        }
+    ],
+    "wof:id":807096575,
+    "wof:lastmodified":1462603681,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85802943,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -90.492086,
+    38.594374,
+    -90.492086,
+    38.594374
+],
+  "geometry": {"coordinates":[-90.492086,38.594374],"type":"Point"}
+}

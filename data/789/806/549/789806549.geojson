@@ -1,0 +1,75 @@
+{
+  "id": 789806549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.601004,37.003218,-94.601004,37.003218",
+    "geom:latitude":37.003218,
+    "geom:longitude":-94.601004,
+    "iso:country":"US",
+    "sg:address":"4050 Greenwood Dr",
+    "sg:city":"Joplin",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 781 5128",
+    "sg:postcode":"64804",
+    "sg:province":"MO",
+    "sg:tags":[
+        "transmission",
+        "rebuilding",
+        "differential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971289,
+        102087471,
+        85814333
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3h7bIZIA2YA3et9nzknf61_37.003218_-94.601004@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462590689,
+    "wof:geomhash":"067bcc36c1859ad9f95ca56e7a595797",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087471,
+            "locality_id":85971289,
+            "neighbourhood_id":85814333,
+            "region_id":85688661,
+            "venue_id":789806549
+        }
+    ],
+    "wof:id":789806549,
+    "wof:lastmodified":1462590689,
+    "wof:name":"Bills Rebuild",
+    "wof:parent_id":85814333,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission",
+        "rebuilding",
+        "differential"
+    ]
+},
+  "bbox": [
+    -94.601004,
+    37.003218,
+    -94.601004,
+    37.003218
+],
+  "geometry": {"coordinates":[-94.601004,37.003218],"type":"Point"}
+}

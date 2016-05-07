@@ -1,0 +1,73 @@
+{
+  "id": 773220945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.493379,38.801047,-90.493379,38.801047",
+    "geom:latitude":38.801047,
+    "geom:longitude":-90.493379,
+    "iso:country":"US",
+    "sg:address":"2425 Westminster Dr",
+    "sg:city":"Saint Charles",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 946 0483",
+    "sg:postcode":"63301",
+    "sg:province":"MO",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ZuUpzpWng3VJQYaRrNk2t_38.801047_-90.493379@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462584080,
+    "wof:geomhash":"d74f719916b5976ce75b46d346fd4844",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":773220945
+        }
+    ],
+    "wof:id":773220945,
+    "wof:lastmodified":1462584080,
+    "wof:name":"Blazek Apts",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -90.493379,
+    38.801047,
+    -90.493379,
+    38.801047
+],
+  "geometry": {"coordinates":[-90.493379,38.801047],"type":"Point"}
+}

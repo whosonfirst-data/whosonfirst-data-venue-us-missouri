@@ -1,0 +1,75 @@
+{
+  "id": 773267419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.765769,37.964592,-91.765769,37.964592",
+    "geom:latitude":37.964592,
+    "geom:longitude":-91.765769,
+    "iso:country":"US",
+    "sg:address":"2500 N Bishop Ave",
+    "sg:city":"Rolla",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 364 1541",
+    "sg:postcode":"65401",
+    "sg:province":"MO",
+    "sg:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970821,
+        102086893,
+        85814531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ebis0lFfeh3lhm2Qu4X5l_37.964592_-91.765769@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462584418,
+    "wof:geomhash":"fc1869819541760e0d5858b4d4d2fe49",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086893,
+            "locality_id":85970821,
+            "neighbourhood_id":85814531,
+            "region_id":85688661,
+            "venue_id":773267419
+        }
+    ],
+    "wof:id":773267419,
+    "wof:lastmodified":1462584418,
+    "wof:name":"U-Haul Co",
+    "wof:parent_id":85814531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ]
+},
+  "bbox": [
+    -91.765769,
+    37.964592,
+    -91.765769,
+    37.964592
+],
+  "geometry": {"coordinates":[-91.76576900000001,37.964592],"type":"Point"}
+}

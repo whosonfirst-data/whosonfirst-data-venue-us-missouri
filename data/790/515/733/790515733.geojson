@@ -1,0 +1,90 @@
+{
+  "id": 790515733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.37317,38.67975,-90.37317,38.67975",
+    "geom:latitude":38.67975,
+    "geom:longitude":-90.37317,
+    "iso:country":"US",
+    "sg:address":"1240 Dielman Industrial Ct",
+    "sg:city":"St Louis",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 997 2250",
+    "sg:postcode":"63132",
+    "sg:province":"MO",
+    "sg:tags":[
+        "information",
+        "automotive",
+        "handheld",
+        "computer",
+        "marketer",
+        "manufacturer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85803699,
+        102191575,
+        404517323,
+        85633793,
+        85972315,
+        102086173,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4PUVFmBnXEdFLea75LaEEP_38.679750_-90.373170@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462596496,
+    "wof:geomhash":"6e46ca4d5892a2b0adf6efb0ad9342d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086173,
+            "localadmin_id":404517323,
+            "locality_id":85972315,
+            "neighbourhood_id":85803699,
+            "region_id":85688661,
+            "venue_id":790515733
+        }
+    ],
+    "wof:id":790515733,
+    "wof:lastmodified":1462596496,
+    "wof:name":"Ultradata Systems Inc",
+    "wof:parent_id":85803699,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "information",
+        "automotive",
+        "handheld",
+        "computer",
+        "marketer",
+        "manufacturer"
+    ]
+},
+  "bbox": [
+    -90.37317,
+    38.67975,
+    -90.37317,
+    38.67975
+],
+  "geometry": {"coordinates":[-90.37317,38.67975],"type":"Point"}
+}

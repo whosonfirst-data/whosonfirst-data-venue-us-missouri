@@ -1,0 +1,69 @@
+{
+  "id": 789719459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.529382,38.322589,-90.529382,38.322589",
+    "geom:latitude":38.322589,
+    "geom:longitude":-90.529382,
+    "iso:country":"US",
+    "sg:address":"4795 Tishomingo Rd",
+    "sg:city":"Hillsboro",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 942 3964",
+    "sg:postcode":"63050",
+    "sg:province":"MO",
+    "sg:tags":[
+        "ambulance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85848677,
+        102080787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2iaDUr3aaTuJHSvcYvx8AU_38.322589_-90.529382@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462590008,
+    "wof:geomhash":"9941aed0ff4262981ae35b6b20806498",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080787,
+            "neighbourhood_id":85848677,
+            "region_id":85688661,
+            "venue_id":789719459
+        }
+    ],
+    "wof:id":789719459,
+    "wof:lastmodified":1462590008,
+    "wof:name":"Big River Ambulance District",
+    "wof:parent_id":85848677,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ambulance"
+    ]
+},
+  "bbox": [
+    -90.529382,
+    38.322589,
+    -90.529382,
+    38.322589
+],
+  "geometry": {"coordinates":[-90.529382,38.322589],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 773168033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.342478,37.226728,-93.342478,37.226728",
+    "geom:latitude":37.226728,
+    "geom:longitude":-93.342478,
+    "iso:country":"US",
+    "sg:address":"3226 W Division St",
+    "sg:city":"Springfield",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 831 1920",
+    "sg:postcode":"65802",
+    "sg:province":"MO",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971363,
+        102087523,
+        85881139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1PtyG6pPbwLxiDJUItEk9Y_37.226728_-93.342478@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462583655,
+    "wof:geomhash":"67233f41c76b59b2e788d1011b3ef8bc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087523,
+            "locality_id":85971363,
+            "neighbourhood_id":85881139,
+            "region_id":85688661,
+            "venue_id":773168033
+        }
+    ],
+    "wof:id":773168033,
+    "wof:lastmodified":1462583655,
+    "wof:name":"B & B Automotive",
+    "wof:parent_id":85881139,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -93.342478,
+    37.226728,
+    -93.342478,
+    37.226728
+],
+  "geometry": {"coordinates":[-93.342478,37.226728],"type":"Point"}
+}

@@ -1,0 +1,95 @@
+{
+  "id": 789649499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.364018,38.365377,-90.364018,38.365377",
+    "geom:latitude":38.365377,
+    "geom:longitude":-90.364018,
+    "iso:country":"US",
+    "sg:address":"217 Market St",
+    "sg:city":"Kimmswick",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Gifts & Souvenirs",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 464 3472",
+    "sg:postcode":"63053",
+    "sg:province":"MO",
+    "sg:tags":[
+        "craft",
+        "gallery",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420525373,
+        102191575,
+        404518285,
+        85633793,
+        85972523,
+        102080787,
+        85688661,
+        420525431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_10cfz704ueesWZ8HbSr4Tx_38.365377_-90.364018@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462589451,
+    "wof:geomhash":"16178ae6f41ad34d7a6d66357bbcedfa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080787,
+            "localadmin_id":404518285,
+            "locality_id":85972523,
+            "neighbourhood_id":420525373,
+            "region_id":85688661,
+            "venue_id":789649499
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080787,
+            "localadmin_id":404518285,
+            "locality_id":85972523,
+            "neighbourhood_id":420525431,
+            "region_id":85688661,
+            "venue_id":789649499
+        }
+    ],
+    "wof:id":789649499,
+    "wof:lastmodified":1462589451,
+    "wof:name":"Bunny Patch",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "craft",
+        "gallery",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -90.364018,
+    38.365377,
+    -90.364018,
+    38.365377
+],
+  "geometry": {"coordinates":[-90.364018,38.365377],"type":"Point"}
+}

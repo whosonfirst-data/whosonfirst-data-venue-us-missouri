@@ -1,0 +1,78 @@
+{
+  "id": 773450389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.481812,38.780553,-90.481812,38.780553",
+    "geom:latitude":38.780553,
+    "geom:longitude":-90.481812,
+    "iso:country":"US",
+    "sg:address":"119 S Main St",
+    "sg:city":"St Charles",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Library",
+            "type":"Public Place"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Research",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 946 4555",
+    "sg:postcode":"63301",
+    "sg:province":"MO",
+    "sg:tags":[
+        "commercial",
+        "physical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5dVxkyiGTz50LcDS7FaArb_38.780553_-90.481812@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462585838,
+    "wof:geomhash":"5c4201290c76c511e2c9043545bfcfab",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":773450389
+        }
+    ],
+    "wof:id":773450389,
+    "wof:lastmodified":1462585838,
+    "wof:name":"Wellness Research",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "physical"
+    ]
+},
+  "bbox": [
+    -90.481812,
+    38.780553,
+    -90.481812,
+    38.780553
+],
+  "geometry": {"coordinates":[-90.48181200000001,38.780553],"type":"Point"}
+}

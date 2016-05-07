@@ -1,0 +1,67 @@
+{
+  "id": 789743213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.783514,37.944777,-91.783514,37.944777",
+    "geom:latitude":37.944777,
+    "geom:longitude":-91.783514,
+    "iso:country":"US",
+    "sg:address":"1047 Kingshighway",
+    "sg:city":"Rolla",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 368 4611",
+    "sg:postcode":"65401",
+    "sg:province":"MO",
+    "sg:website":"www.subway.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970821,
+        102086893,
+        85814531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2BBv9vaNp7N2uQH5aK5oQQ_37.944777_-91.783514@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462590202,
+    "wof:geomhash":"741275cb6427917382f44b6637113035",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086893,
+            "locality_id":85970821,
+            "neighbourhood_id":85814531,
+            "region_id":85688661,
+            "venue_id":789743213
+        }
+    ],
+    "wof:id":789743213,
+    "wof:lastmodified":1462590202,
+    "wof:name":"Subway Sandwiches & Salads",
+    "wof:parent_id":85814531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.783514,
+    37.944777,
+    -91.783514,
+    37.944777
+],
+  "geometry": {"coordinates":[-91.783514,37.944777],"type":"Point"}
+}

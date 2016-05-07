@@ -1,0 +1,85 @@
+{
+  "id": 807153065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.268733,38.613008,-90.268733,38.613008",
+    "geom:latitude":38.613008,
+    "geom:longitude":-90.268733,
+    "iso:country":"US",
+    "sg:address":"4925 Southwest Ave",
+    "sg:city":"St. Louis",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Portrait Studio",
+            "type":"Services"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 773 5818",
+    "sg:postcode":"63110",
+    "sg:province":"MO",
+    "sg:tags":[
+        "photography",
+        "drugstore",
+        "store"
+    ],
+    "sg:website":"walgreens.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85867039,
+        102191575,
+        404518053,
+        85633793,
+        85971343,
+        102080791,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3l219PapZ02MjtjFO6hH6U_38.613008_-90.268733@1303262928"
+    },
+    "wof:country":"US",
+    "wof:created":1462604302,
+    "wof:geomhash":"c20fe495b1b658926b408b88209e9ebf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080791,
+            "localadmin_id":404518053,
+            "locality_id":85971343,
+            "neighbourhood_id":85867039,
+            "region_id":85688661,
+            "venue_id":807153065
+        }
+    ],
+    "wof:id":807153065,
+    "wof:lastmodified":1462604302,
+    "wof:name":"Walgreens",
+    "wof:parent_id":85867039,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "photography",
+        "drugstore",
+        "store"
+    ]
+},
+  "bbox": [
+    -90.268733,
+    38.613008,
+    -90.268733,
+    38.613008
+],
+  "geometry": {"coordinates":[-90.268733,38.613008],"type":"Point"}
+}

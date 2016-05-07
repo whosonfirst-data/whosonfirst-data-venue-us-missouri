@@ -1,0 +1,85 @@
+{
+  "id": 790607333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.382236,38.690423,-90.382236,38.690423",
+    "geom:latitude":38.690423,
+    "geom:longitude":-90.382236,
+    "iso:country":"US",
+    "sg:address":"1609 Lotsie Blvd",
+    "sg:city":"St Louis",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 428 0800",
+    "sg:postcode":"63132",
+    "sg:province":"MO",
+    "sg:tags":[
+        "lighting",
+        "fixture",
+        "system"
+    ],
+    "sg:website":"www.lightingserviceinc.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85803699,
+        102191575,
+        404517323,
+        85633793,
+        85972315,
+        102086173,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7PV0VbmCLeSDdKRkh6ihG3_38.690423_-90.382236@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462597281,
+    "wof:geomhash":"5c41f3c123cc70123eeac99d2005baf3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086173,
+            "localadmin_id":404517323,
+            "locality_id":85972315,
+            "neighbourhood_id":85803699,
+            "region_id":85688661,
+            "venue_id":790607333
+        }
+    ],
+    "wof:id":790607333,
+    "wof:lastmodified":1462597281,
+    "wof:name":"Lighting Service Inc",
+    "wof:parent_id":85803699,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lighting",
+        "fixture",
+        "system"
+    ]
+},
+  "bbox": [
+    -90.382236,
+    38.690423,
+    -90.382236,
+    38.690423
+],
+  "geometry": {"coordinates":[-90.38223600000001,38.690423],"type":"Point"}
+}

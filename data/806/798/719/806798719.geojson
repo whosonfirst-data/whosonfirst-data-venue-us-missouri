@@ -1,0 +1,73 @@
+{
+  "id": 806798719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.416079,37.782572,-90.416079,37.782572",
+    "geom:latitude":37.782572,
+    "geom:longitude":-90.416079,
+    "iso:country":"US",
+    "sg:address":"201 N Middle St",
+    "sg:city":"Farmington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 756 7493",
+    "sg:postcode":"63640",
+    "sg:province":"MO",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970665,
+        102085297,
+        85816309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7cM4hfs1ZRqFddB4LfJbL7_37.782572_-90.416079@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462601174,
+    "wof:geomhash":"24e8f80cc4c74b3f9532909e2b77ffb4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085297,
+            "locality_id":85970665,
+            "neighbourhood_id":85816309,
+            "region_id":85688661,
+            "venue_id":806798719
+        }
+    ],
+    "wof:id":806798719,
+    "wof:lastmodified":1462601174,
+    "wof:name":"Farmington Radiator & Air Cond",
+    "wof:parent_id":85816309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -90.416079,
+    37.782572,
+    -90.416079,
+    37.782572
+],
+  "geometry": {"coordinates":[-90.416079,37.782572],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 806920305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.79358,38.834205,-90.79358,38.834205",
+    "geom:latitude":38.834205,
+    "geom:longitude":-90.79358,
+    "iso:country":"US",
+    "sg:address":"1084 Kersting Rd",
+    "sg:city":"Wentzville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 327 5570",
+    "sg:postcode":"63385",
+    "sg:province":"MO",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ItkROULJjb987IetIORBy_38.834205_-90.793580@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462602177,
+    "wof:geomhash":"d8af5335907a8ee4980e698c299cc5d9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":806920305
+        }
+    ],
+    "wof:id":806920305,
+    "wof:lastmodified":1462602177,
+    "wof:name":"Josephville Auto Svc",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -90.79358,
+    38.834205,
+    -90.79358,
+    38.834205
+],
+  "geometry": {"coordinates":[-90.79358000000001,38.834205],"type":"Point"}
+}

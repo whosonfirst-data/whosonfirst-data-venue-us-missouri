@@ -1,0 +1,75 @@
+{
+  "id": 789643091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.503688,39.108435,-94.503688,39.108435",
+    "geom:latitude":39.108435,
+    "geom:longitude":-94.503688,
+    "iso:country":"US",
+    "sg:address":"6700 Wilson Rd",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 483 4080",
+    "sg:postcode":"64125",
+    "sg:province":"MO",
+    "sg:tags":[
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85871995,
+        102191575,
+        404518075,
+        85633793,
+        85970739,
+        102081227,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2NEZZUzh1kdANZ5QPVmE70_39.108435_-94.503688@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462589396,
+    "wof:geomhash":"d92d182e509105c2e41a21ebec42bdcb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081227,
+            "localadmin_id":404518075,
+            "locality_id":85970739,
+            "neighbourhood_id":85871995,
+            "region_id":85688661,
+            "venue_id":789643091
+        }
+    ],
+    "wof:id":789643091,
+    "wof:lastmodified":1462589396,
+    "wof:name":"Tomken Transportation",
+    "wof:parent_id":85871995,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -94.503688,
+    39.108435,
+    -94.503688,
+    39.108435
+],
+  "geometry": {"coordinates":[-94.503688,39.108435],"type":"Point"}
+}

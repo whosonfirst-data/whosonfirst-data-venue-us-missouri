@@ -1,0 +1,78 @@
+{
+  "id": 806906723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.693565,38.811146,-90.693565,38.811146",
+    "geom:latitude":38.811146,
+    "geom:longitude":-90.693565,
+    "iso:country":"US",
+    "sg:address":"16 Ronnie Dr",
+    "sg:city":"O Fallon",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 240 8892",
+    "sg:postcode":"63366",
+    "sg:province":"MO",
+    "sg:tags":[
+        "welding",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Frrvxpb6cweHwpSd5AIQ5_38.811146_-90.693565@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462602067,
+    "wof:geomhash":"9d9767f8cc63b6203fdd050b3337736f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":806906723
+        }
+    ],
+    "wof:id":806906723,
+    "wof:lastmodified":1462602067,
+    "wof:name":"Berry's Welding",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "welding",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -90.693565,
+    38.811146,
+    -90.693565,
+    38.811146
+],
+  "geometry": {"coordinates":[-90.69356500000001,38.811146],"type":"Point"}
+}

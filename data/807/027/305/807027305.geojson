@@ -1,0 +1,71 @@
+{
+  "id": 807027305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.350189,39.701641,-91.350189,39.701641",
+    "geom:latitude":39.701641,
+    "geom:longitude":-91.350189,
+    "iso:country":"US",
+    "sg:address":"700 Fulton Ave",
+    "sg:city":"Hannibal",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 221 0980",
+    "sg:postcode":"63401",
+    "sg:province":"MO",
+    "sg:tags":[
+        "elementary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688697,
+        85633793,
+        85938427,
+        102086213,
+        85867477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_41mWSPft5TFsjvrU7m4T9A_39.701634_-91.350196@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1462603102,
+    "wof:geomhash":"fceac8bded9fd74ff1f299ebc4a24633",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086213,
+            "locality_id":85938427,
+            "neighbourhood_id":85867477,
+            "region_id":85688697,
+            "venue_id":807027305
+        }
+    ],
+    "wof:id":807027305,
+    "wof:lastmodified":1462603102,
+    "wof:name":"A. D. Stowell Elementary School",
+    "wof:parent_id":85867477,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "elementary"
+    ]
+},
+  "bbox": [
+    -91.350189,
+    39.701641,
+    -91.350189,
+    39.701641
+],
+  "geometry": {"coordinates":[-91.350189,39.701641],"type":"Point"}
+}

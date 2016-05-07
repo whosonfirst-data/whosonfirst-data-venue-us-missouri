@@ -1,0 +1,75 @@
+{
+  "id": 773698705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.497096,38.784476,-90.497096,38.784476",
+    "geom:latitude":38.784476,
+    "geom:longitude":-90.497096,
+    "iso:country":"US",
+    "sg:address":"1130 First Capitol Dr",
+    "sg:city":"St Charles",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 946 1446",
+    "sg:postcode":"63301",
+    "sg:province":"MO",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "exhaust"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Wdu8U3kLuVSzj45PDjqWp_38.784476_-90.497096@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462587717,
+    "wof:geomhash":"9475e7cd0e31cda437eb1c3654c85490",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":773698705
+        }
+    ],
+    "wof:id":773698705,
+    "wof:lastmodified":1462587717,
+    "wof:name":"Fred's Muffler & Brake",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "exhaust"
+    ]
+},
+  "bbox": [
+    -90.497096,
+    38.784476,
+    -90.497096,
+    38.784476
+],
+  "geometry": {"coordinates":[-90.497096,38.784476],"type":"Point"}
+}

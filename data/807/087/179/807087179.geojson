@@ -1,0 +1,74 @@
+{
+  "id": 807087179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.531985,37.084584,-94.531985,37.084584",
+    "geom:latitude":37.084584,
+    "geom:longitude":-94.531985,
+    "iso:country":"US",
+    "sg:address":"1641 W 7th St",
+    "sg:city":"Joplin",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/galena/156030-hardees/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 623 0118",
+    "sg:postcode":"64801",
+    "sg:province":"MO",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970893,
+        102087525,
+        85810925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_54lnnyOYcJvtxoddzSdmi9_37.084584_-94.531985@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462603589,
+    "wof:geomhash":"d11b475d1a64bf9491b2906d4a2b9b79",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087525,
+            "locality_id":85970893,
+            "neighbourhood_id":85810925,
+            "region_id":85688661,
+            "venue_id":807087179
+        }
+    ],
+    "wof:id":807087179,
+    "wof:lastmodified":1462603589,
+    "wof:name":"Hardee's",
+    "wof:parent_id":85810925,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -94.531985,
+    37.084584,
+    -94.531985,
+    37.084584
+],
+  "geometry": {"coordinates":[-94.53198500000001,37.084584],"type":"Point"}
+}

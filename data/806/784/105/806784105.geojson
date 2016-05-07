@@ -1,0 +1,71 @@
+{
+  "id": 806784105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.69984,38.81012,-90.69984,38.81012",
+    "geom:latitude":38.81012,
+    "geom:longitude":-90.69984,
+    "iso:country":"US",
+    "sg:address":"138 S Main St",
+    "sg:city":"O Fallon",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 240 2000",
+    "sg:postcode":"63366",
+    "sg:province":"MO",
+    "sg:tags":[
+        "city"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ivII0xXQsAaoOTPkFAj1H_38.810120_-90.699840@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462601053,
+    "wof:geomhash":"67d952f5682d97c95fb94b04156063de",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":806784105
+        }
+    ],
+    "wof:id":806784105,
+    "wof:lastmodified":1462601053,
+    "wof:name":"O'Fallon Mayor's Office",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "city"
+    ]
+},
+  "bbox": [
+    -90.69984,
+    38.81012,
+    -90.69984,
+    38.81012
+],
+  "geometry": {"coordinates":[-90.69983999999999,38.81012],"type":"Point"}
+}

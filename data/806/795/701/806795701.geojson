@@ -1,0 +1,77 @@
+{
+  "id": 806795701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.137735,38.559221,-92.137735,38.559221",
+    "geom:latitude":38.559221,
+    "geom:longitude":-92.137735,
+    "iso:country":"US",
+    "sg:address":"1916 Boggs Creek Rd",
+    "sg:city":"Jefferson City",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 632 2633",
+    "sg:postcode":"65101",
+    "sg:province":"MO",
+    "sg:tags":[
+        "medical",
+        "kidney",
+        "dialysis",
+        "center"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970647,
+        102087511,
+        85837745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Ln9zj1fd9LjYsRhpxFAzj_38.559221_-92.137735@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462601148,
+    "wof:geomhash":"200c2ed0fbdd6087ae5e802b15bd3acc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087511,
+            "locality_id":85970647,
+            "neighbourhood_id":85837745,
+            "region_id":85688661,
+            "venue_id":806795701
+        }
+    ],
+    "wof:id":806795701,
+    "wof:lastmodified":1462601148,
+    "wof:name":"Dialysis Clinic Inc",
+    "wof:parent_id":85837745,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical",
+        "kidney",
+        "dialysis",
+        "center"
+    ]
+},
+  "bbox": [
+    -92.137735,
+    38.559221,
+    -92.137735,
+    38.559221
+],
+  "geometry": {"coordinates":[-92.13773500000001,38.559221],"type":"Point"}
+}

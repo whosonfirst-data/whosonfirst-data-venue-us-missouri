@@ -1,0 +1,83 @@
+{
+  "id": 807099251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.581763,39.082767,-94.581763,39.082767",
+    "geom:latitude":39.082767,
+    "geom:longitude":-94.581763,
+    "iso:country":"US",
+    "sg:address":"2450 Grand Blvd",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Deli",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/kaw/45577-dbronx/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 842 2211",
+    "sg:postcode":"64108",
+    "sg:province":"MO",
+    "sg:tags":[
+        "deli",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85867023,
+        102191575,
+        404518075,
+        85633793,
+        85970739,
+        102081227,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_72IRBFj6nxsoKxDgbsNSzk_39.083146_-94.581873@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1462603713,
+    "wof:geomhash":"3caae9a22ba1e7ed04b7238a118791e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081227,
+            "localadmin_id":404518075,
+            "locality_id":85970739,
+            "neighbourhood_id":85867023,
+            "region_id":85688661,
+            "venue_id":807099251
+        }
+    ],
+    "wof:id":807099251,
+    "wof:lastmodified":1462603713,
+    "wof:name":"D'bronx",
+    "wof:parent_id":85867023,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "deli",
+        "american"
+    ]
+},
+  "bbox": [
+    -94.581763,
+    39.082767,
+    -94.581763,
+    39.082767
+],
+  "geometry": {"coordinates":[-94.581763,39.082767],"type":"Point"}
+}

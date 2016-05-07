@@ -1,0 +1,75 @@
+{
+  "id": 806656835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.39259,38.652331,-90.39259,38.652331",
+    "geom:latitude":38.652331,
+    "geom:longitude":-90.39259,
+    "iso:country":"US",
+    "sg:address":"5 Appletree Ln",
+    "sg:city":"St Louis",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 991 7789",
+    "sg:postcode":"63124",
+    "sg:province":"MO",
+    "sg:tags":[
+        "delivery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85867981,
+        102191575,
+        404517387,
+        85633793,
+        85972223,
+        102086173,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3MsJ37jGrHvxdqy1ZArty2_38.652331_-90.392590@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462599969,
+    "wof:geomhash":"6673a02a743927c558a6b6fa9ced2119",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086173,
+            "localadmin_id":404517387,
+            "locality_id":85972223,
+            "neighbourhood_id":85867981,
+            "region_id":85688661,
+            "venue_id":806656835
+        }
+    ],
+    "wof:id":806656835,
+    "wof:lastmodified":1462599969,
+    "wof:name":"No Waiting",
+    "wof:parent_id":85867981,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "delivery"
+    ]
+},
+  "bbox": [
+    -90.39259,
+    38.652331,
+    -90.39259,
+    38.652331
+],
+  "geometry": {"coordinates":[-90.39259,38.652331],"type":"Point"}
+}

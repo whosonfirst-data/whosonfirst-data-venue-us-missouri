@@ -1,0 +1,71 @@
+{
+  "id": 806809395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.486095,38.921818,-90.486095,38.921818",
+    "geom:latitude":38.921818,
+    "geom:longitude":-90.486095,
+    "iso:country":"US",
+    "sg:address":"62 Woodland Marina",
+    "sg:city":"Saint Charles",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 277 5240",
+    "sg:postcode":"63301",
+    "sg:province":"MO",
+    "sg:tags":[
+        "boat"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_67EGVkuQCkzW5c03TvfOY8_38.921818_-90.486095@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462601260,
+    "wof:geomhash":"a1c47f86b39eba27603a7063bb123783",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":806809395
+        }
+    ],
+    "wof:id":806809395,
+    "wof:lastmodified":1462601260,
+    "wof:name":"Kitchin Marine Inc",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "boat"
+    ]
+},
+  "bbox": [
+    -90.486095,
+    38.921818,
+    -90.486095,
+    38.921818
+],
+  "geometry": {"coordinates":[-90.48609500000001,38.921818],"type":"Point"}
+}

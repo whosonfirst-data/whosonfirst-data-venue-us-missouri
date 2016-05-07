@@ -1,0 +1,71 @@
+{
+  "id": 790451201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.745318,37.951468,-91.745318,37.951468",
+    "geom:latitude":37.951468,
+    "geom:longitude":-91.745318,
+    "iso:country":"US",
+    "sg:address":"1501 E 10th St",
+    "sg:city":"Rolla",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 364 7407",
+    "sg:postcode":"65401",
+    "sg:province":"MO",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970821,
+        102086893,
+        85814531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2tODkA8A9VPqM050KrCWbU_37.951468_-91.745318@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462595920,
+    "wof:geomhash":"e01c5f591bb88edb2b4723668cb1c60c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086893,
+            "locality_id":85970821,
+            "neighbourhood_id":85814531,
+            "region_id":85688661,
+            "venue_id":790451201
+        }
+    ],
+    "wof:id":790451201,
+    "wof:lastmodified":1462595920,
+    "wof:name":"Wazzan Omar",
+    "wof:parent_id":85814531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -91.745318,
+    37.951468,
+    -91.745318,
+    37.951468
+],
+  "geometry": {"coordinates":[-91.745318,37.951468],"type":"Point"}
+}

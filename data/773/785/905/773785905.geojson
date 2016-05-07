@@ -1,0 +1,75 @@
+{
+  "id": 773785905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.223954,38.600115,-90.223954,38.600115",
+    "geom:latitude":38.600115,
+    "geom:longitude":-90.223954,
+    "iso:country":"US",
+    "sg:address":"2910 S Jefferson Ave",
+    "sg:city":"Saint Louis",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 289 1900",
+    "sg:postcode":"63118",
+    "sg:province":"MO",
+    "sg:tags":[
+        "protection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873679,
+        102191575,
+        404518053,
+        85633793,
+        85971343,
+        102080791,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5n5dV1RGVa5ho9JK1EtbTn_38.600115_-90.223954@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462588360,
+    "wof:geomhash":"be0a65dd9dc00866d6a861e70cc629d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080791,
+            "localadmin_id":404518053,
+            "locality_id":85971343,
+            "neighbourhood_id":85873679,
+            "region_id":85688661,
+            "venue_id":773785905
+        }
+    ],
+    "wof:id":773785905,
+    "wof:lastmodified":1462588360,
+    "wof:name":"Fire Dept",
+    "wof:parent_id":85873679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "protection"
+    ]
+},
+  "bbox": [
+    -90.223954,
+    38.600115,
+    -90.223954,
+    38.600115
+],
+  "geometry": {"coordinates":[-90.22395400000001,38.600115],"type":"Point"}
+}

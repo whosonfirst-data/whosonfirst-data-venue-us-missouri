@@ -1,0 +1,73 @@
+{
+  "id": 790501673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.379807,38.412518,-90.379807,38.412518",
+    "geom:latitude":38.412518,
+    "geom:longitude":-90.379807,
+    "iso:country":"US",
+    "sg:address":"3590 Jeffco Blvd",
+    "sg:city":"Arnold",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 464 5153",
+    "sg:postcode":"63010",
+    "sg:province":"MO",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85805175,
+        102080787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_49BAMUh3hFJZhrE5I6xHXz_38.412518_-90.379807@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462596381,
+    "wof:geomhash":"52c391253b6da35a23b49ae6ff27764b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080787,
+            "neighbourhood_id":85805175,
+            "region_id":85688661,
+            "venue_id":790501673
+        }
+    ],
+    "wof:id":790501673,
+    "wof:lastmodified":1462596381,
+    "wof:name":"Durham's Automotive",
+    "wof:parent_id":85805175,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ]
+},
+  "bbox": [
+    -90.379807,
+    38.412518,
+    -90.379807,
+    38.412518
+],
+  "geometry": {"coordinates":[-90.379807,38.412518],"type":"Point"}
+}

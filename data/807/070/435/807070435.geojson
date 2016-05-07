@@ -1,0 +1,74 @@
+{
+  "id": 807070435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.51558,38.778975,-90.51558,38.778975",
+    "geom:latitude":38.778975,
+    "geom:longitude":-90.51558,
+    "iso:country":"US",
+    "sg:address":"2669 Veterans Memorial Pkwy",
+    "sg:city":"Saint Charles",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/zumbehl/64345-chuck-e-cheeses/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 946 3444",
+    "sg:postcode":"63303",
+    "sg:province":"MO",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5MXT2e5sHizkuM4OT9qb3W_38.778975_-90.515580@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462603449,
+    "wof:geomhash":"022e7ce901260e908fe2459248d3ef3b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":807070435
+        }
+    ],
+    "wof:id":807070435,
+    "wof:lastmodified":1462603449,
+    "wof:name":"Chuck E. Cheese's",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -90.51558,
+    38.778975,
+    -90.51558,
+    38.778975
+],
+  "geometry": {"coordinates":[-90.51558,38.778975],"type":"Point"}
+}

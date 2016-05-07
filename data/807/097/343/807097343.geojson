@@ -1,0 +1,85 @@
+{
+  "id": 807097343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.276902,38.617968,-90.276902,38.617968",
+    "geom:latitude":38.617968,
+    "geom:longitude":-90.276902,
+    "iso:country":"US",
+    "sg:address":"1934 Macklind Ave",
+    "sg:city":"Saint Louis",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/st-louis/40847-gioias-deli/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 776 9410",
+    "sg:postcode":"63110",
+    "sg:province":"MO",
+    "sg:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85867039,
+        102191575,
+        404518053,
+        85633793,
+        85971343,
+        102080791,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_27aNaqExpZ1zg6I5StplW5_38.618224_-90.276771@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462603690,
+    "wof:geomhash":"5036e34cf3afd63e8483cece9f650af3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080791,
+            "localadmin_id":404518053,
+            "locality_id":85971343,
+            "neighbourhood_id":85867039,
+            "region_id":85688661,
+            "venue_id":807097343
+        }
+    ],
+    "wof:id":807097343,
+    "wof:lastmodified":1462603690,
+    "wof:name":"Gioia's Deli",
+    "wof:parent_id":85867039,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -90.276902,
+    38.617968,
+    -90.276902,
+    38.617968
+],
+  "geometry": {"coordinates":[-90.27690200000001,38.617968],"type":"Point"}
+}

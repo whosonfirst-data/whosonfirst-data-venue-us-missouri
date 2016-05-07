@@ -1,0 +1,71 @@
+{
+  "id": 789656069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.622159,38.008246,-91.622159,38.008246",
+    "geom:latitude":38.008246,
+    "geom:longitude":-91.622159,
+    "iso:country":"US",
+    "sg:address":"931 Lyon St",
+    "sg:city":"Saint James",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 265 7308",
+    "sg:postcode":"65559",
+    "sg:province":"MO",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970819,
+        102086893,
+        85847353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3A3I42vB8en0XcLQvu7zvv_38.008246_-91.622159@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462589501,
+    "wof:geomhash":"9b700f6a17d37d9846a26f6f635cd223",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086893,
+            "locality_id":85970819,
+            "neighbourhood_id":85847353,
+            "region_id":85688661,
+            "venue_id":789656069
+        }
+    ],
+    "wof:id":789656069,
+    "wof:lastmodified":1462589501,
+    "wof:name":"Plumbing Solutions",
+    "wof:parent_id":85847353,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -91.622159,
+    38.008246,
+    -91.622159,
+    38.008246
+],
+  "geometry": {"coordinates":[-91.622159,38.008246],"type":"Point"}
+}

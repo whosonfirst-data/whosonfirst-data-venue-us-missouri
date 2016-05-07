@@ -1,0 +1,77 @@
+{
+  "id": 807060043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.566835,38.64361,-90.566835,38.64361",
+    "geom:latitude":38.64361,
+    "geom:longitude":-90.566835,
+    "iso:country":"US",
+    "sg:address":"1701 Clarkson Rd",
+    "sg:city":"Chesterfield",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/chesterfield/194111-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"63017",
+    "sg:province":"MO",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85805465,
+        102191575,
+        404517241,
+        85633793,
+        85972357,
+        102086173,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2J2T4jXBFoBivjsTH9usCj_38.643610_-90.566835@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462603371,
+    "wof:geomhash":"ecfa71ddb9cb4568bba02f282566f4cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086173,
+            "localadmin_id":404517241,
+            "locality_id":85972357,
+            "neighbourhood_id":85805465,
+            "region_id":85688661,
+            "venue_id":807060043
+        }
+    ],
+    "wof:id":807060043,
+    "wof:lastmodified":1462603371,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85805465,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -90.566835,
+    38.64361,
+    -90.566835,
+    38.64361
+],
+  "geometry": {"coordinates":[-90.566835,38.64361],"type":"Point"}
+}

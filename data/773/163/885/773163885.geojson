@@ -1,0 +1,88 @@
+{
+  "id": 773163885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.435866,39.248705,-94.435866,39.248705",
+    "geom:latitude":39.248705,
+    "geom:longitude":-94.435866,
+    "iso:country":"US",
+    "sg:address":"140 Westwoods Dr",
+    "sg:city":"Liberty",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 781 4740",
+    "sg:postcode":"64068",
+    "sg:province":"MO",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420525305,
+        102191575,
+        404516717,
+        85633793,
+        85972461,
+        102086177,
+        85688661,
+        420525367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6oWKlcGp8B7ZJir3FOZLTT_39.248705_-94.435866@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462583622,
+    "wof:geomhash":"6af636e171b8e517e11b5435e1fc1146",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086177,
+            "localadmin_id":404516717,
+            "locality_id":85972461,
+            "neighbourhood_id":420525305,
+            "region_id":85688661,
+            "venue_id":773163885
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086177,
+            "localadmin_id":404516717,
+            "locality_id":85972461,
+            "neighbourhood_id":420525367,
+            "region_id":85688661,
+            "venue_id":773163885
+        }
+    ],
+    "wof:id":773163885,
+    "wof:lastmodified":1462583622,
+    "wof:name":"Seaport Family Practice",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -94.435866,
+    39.248705,
+    -94.435866,
+    39.248705
+],
+  "geometry": {"coordinates":[-94.435866,39.248705],"type":"Point"}
+}

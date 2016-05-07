@@ -1,0 +1,71 @@
+{
+  "id": 806652313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.194256,39.3419,-91.194256,39.3419",
+    "geom:latitude":39.3419,
+    "geom:longitude":-91.194256,
+    "iso:country":"US",
+    "sg:address":"106 W Main St",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 324 2222",
+    "sg:postcode":"63334",
+    "sg:province":"MO",
+    "sg:tags":[
+        "newspaper"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971907,
+        102086151,
+        85817909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0MGidpRrWWlfbExV5Ix1aW_39.341900_-91.194256@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462599927,
+    "wof:geomhash":"069486389ce9f50c5ef3e95afda3db37",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086151,
+            "locality_id":85971907,
+            "neighbourhood_id":85817909,
+            "region_id":85688661,
+            "venue_id":806652313
+        }
+    ],
+    "wof:id":806652313,
+    "wof:lastmodified":1462599927,
+    "wof:name":"Bowling Green Times",
+    "wof:parent_id":85817909,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "newspaper"
+    ]
+},
+  "bbox": [
+    -91.194256,
+    39.3419,
+    -91.194256,
+    39.3419
+],
+  "geometry": {"coordinates":[-91.194256,39.3419],"type":"Point"}
+}

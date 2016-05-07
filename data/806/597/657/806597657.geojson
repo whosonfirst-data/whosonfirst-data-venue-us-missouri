@@ -1,0 +1,84 @@
+{
+  "id": 806597657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.40597,38.549202,-90.40597,38.549202",
+    "geom:latitude":38.549202,
+    "geom:longitude":-90.40597,
+    "iso:country":"US",
+    "sg:address":"3808 S Lindbergh Blvd",
+    "sg:city":"St Louis",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 487 5300",
+    "sg:postcode":"63127",
+    "sg:province":"MO",
+    "sg:tags":[
+        "lease",
+        "leasing",
+        "vehicle"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85858243,
+        102191575,
+        404517253,
+        85633793,
+        85972177,
+        102086173,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6qxCLXA2WUFeSNP1PuuoPJ_38.549202_-90.405970@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462599468,
+    "wof:geomhash":"0c07f7a58d97457c63c7a4ac8fdfa97b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086173,
+            "localadmin_id":404517253,
+            "locality_id":85972177,
+            "neighbourhood_id":85858243,
+            "region_id":85688661,
+            "venue_id":806597657
+        }
+    ],
+    "wof:id":806597657,
+    "wof:lastmodified":1462599468,
+    "wof:name":"Transtech Leasing Inc",
+    "wof:parent_id":85858243,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lease",
+        "leasing",
+        "vehicle"
+    ]
+},
+  "bbox": [
+    -90.40597,
+    38.549202,
+    -90.40597,
+    38.549202
+],
+  "geometry": {"coordinates":[-90.40597,38.549202],"type":"Point"}
+}

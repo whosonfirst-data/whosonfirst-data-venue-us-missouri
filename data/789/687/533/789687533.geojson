@@ -1,0 +1,71 @@
+{
+  "id": 789687533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.902759,39.411653,-94.902759,39.411653",
+    "geom:latitude":39.411653,
+    "geom:longitude":-94.902759,
+    "iso:country":"US",
+    "sg:address":"707 Thomas St",
+    "sg:city":"Weston",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 386 5258",
+    "sg:postcode":"64098",
+    "sg:province":"MO",
+    "sg:tags":[
+        "drinking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970739,
+        102085271,
+        85823759
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4hj00XExeCcwNSHiqVEFHn_39.411653_-94.902759@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462589760,
+    "wof:geomhash":"d3a5ee962ab23ec65d95e2f0fe3cb17c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085271,
+            "locality_id":85970739,
+            "neighbourhood_id":85823759,
+            "region_id":85688661,
+            "venue_id":789687533
+        }
+    ],
+    "wof:id":789687533,
+    "wof:lastmodified":1462589760,
+    "wof:name":"Rjs Saloon Inc",
+    "wof:parent_id":85823759,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drinking"
+    ]
+},
+  "bbox": [
+    -94.902759,
+    39.411653,
+    -94.902759,
+    39.411653
+],
+  "geometry": {"coordinates":[-94.902759,39.411653],"type":"Point"}
+}

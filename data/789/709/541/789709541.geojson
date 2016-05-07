@@ -1,0 +1,73 @@
+{
+  "id": 789709541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.47998,38.78386,-90.47998,38.78386",
+    "geom:latitude":38.78386,
+    "geom:longitude":-90.47998,
+    "iso:country":"US",
+    "sg:address":"300 N Main St",
+    "sg:city":"St Charles",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 947 5903",
+    "sg:postcode":"63301",
+    "sg:province":"MO",
+    "sg:tags":[
+        "loan",
+        "real estate"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Peg6txo03HFDzjbKuBXLN_38.783860_-90.479980@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462589931,
+    "wof:geomhash":"04d8a3f93b8a4e3d76768a0e4b0707df",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":789709541
+        }
+    ],
+    "wof:id":789709541,
+    "wof:lastmodified":1462589931,
+    "wof:name":"EFC Lending",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "loan",
+        "real estate"
+    ]
+},
+  "bbox": [
+    -90.47998,
+    38.78386,
+    -90.47998,
+    38.78386
+],
+  "geometry": {"coordinates":[-90.47998,38.78386],"type":"Point"}
+}

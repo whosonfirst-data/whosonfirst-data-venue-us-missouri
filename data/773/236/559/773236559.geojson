@@ -1,0 +1,73 @@
+{
+  "id": 773236559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.381579,38.495189,-90.381579,38.495189",
+    "geom:latitude":38.495189,
+    "geom:longitude":-90.381579,
+    "iso:country":"US",
+    "sg:address":"12860 Tesson Ferry Rd",
+    "sg:city":"Sappington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 843 5350",
+    "sg:postcode":"63128",
+    "sg:province":"MO",
+    "sg:tags":[
+        "automobile",
+        "lubrication"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971021,
+        102080787,
+        85832925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7KSBKtzYdl131EKZNzcpa2_38.495189_-90.381579@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462584192,
+    "wof:geomhash":"f913be80e21c6e4a579e7f92b90a68e3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080787,
+            "locality_id":85971021,
+            "neighbourhood_id":85832925,
+            "region_id":85688661,
+            "venue_id":773236559
+        }
+    ],
+    "wof:id":773236559,
+    "wof:lastmodified":1462584192,
+    "wof:name":"Valvoline Instant Oil Change",
+    "wof:parent_id":85832925,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "lubrication"
+    ]
+},
+  "bbox": [
+    -90.381579,
+    38.495189,
+    -90.381579,
+    38.495189
+],
+  "geometry": {"coordinates":[-90.381579,38.495189],"type":"Point"}
+}

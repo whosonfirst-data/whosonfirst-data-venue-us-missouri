@@ -1,0 +1,67 @@
+{
+  "id": 789917235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.535488,38.787666,-90.535488,38.787666",
+    "geom:latitude":38.787666,
+    "geom:longitude":-90.535488,
+    "iso:country":"US",
+    "sg:address":"3050 W Clay St",
+    "sg:city":"St Charles",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 255 9995",
+    "sg:postcode":"63301",
+    "sg:province":"MO",
+    "sg:website":"www.midwesternrealtors.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6CnVi5aIpyNU4kxubXGYDC_38.787666_-90.535488@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462591601,
+    "wof:geomhash":"2ae5e45c55a568338b46bd83ee9d12dd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":789917235
+        }
+    ],
+    "wof:id":789917235,
+    "wof:lastmodified":1462591601,
+    "wof:name":"Midwestern Realtors",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.535488,
+    38.787666,
+    -90.535488,
+    38.787666
+],
+  "geometry": {"coordinates":[-90.535488,38.787666],"type":"Point"}
+}

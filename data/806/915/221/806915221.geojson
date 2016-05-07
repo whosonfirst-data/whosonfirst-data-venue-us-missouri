@@ -1,0 +1,77 @@
+{
+  "id": 806915221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.213173,38.673318,-90.213173,38.673318",
+    "geom:latitude":38.673318,
+    "geom:longitude":-90.213173,
+    "iso:country":"US",
+    "sg:address":"2031 de Soto Ave",
+    "sg:city":"Saint Louis",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 533 1206",
+    "sg:postcode":"63107",
+    "sg:province":"MO",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873613,
+        102191575,
+        404518053,
+        85633793,
+        85971343,
+        102080791,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_09pELM6jnZWqG3yE4EcAXH_38.673318_-90.213173@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462602136,
+    "wof:geomhash":"614511f110b94208354939d2b7046ba9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080791,
+            "localadmin_id":404518053,
+            "locality_id":85971343,
+            "neighbourhood_id":85873613,
+            "region_id":85688661,
+            "venue_id":806915221
+        }
+    ],
+    "wof:id":806915221,
+    "wof:lastmodified":1462602136,
+    "wof:name":"Robinson Electric",
+    "wof:parent_id":85873613,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -90.213173,
+    38.673318,
+    -90.213173,
+    38.673318
+],
+  "geometry": {"coordinates":[-90.213173,38.673318],"type":"Point"}
+}

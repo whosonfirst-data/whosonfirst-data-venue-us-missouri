@@ -1,0 +1,74 @@
+{
+  "id": 807074231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.487971,37.838741,-90.487971,37.838741",
+    "geom:latitude":37.838741,
+    "geom:longitude":-90.487971,
+    "iso:country":"US",
+    "sg:address":"100 Plaza Sq",
+    "sg:city":"Park Hills",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/st-francois/156040-hardees/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 431 5988",
+    "sg:postcode":"63601",
+    "sg:province":"MO",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970665,
+        102085297,
+        85816309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4VtnyVWAEDBNVgvcXromSG_37.838741_-90.487971@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462603490,
+    "wof:geomhash":"77ff180ba932a4a3a8915851d3ce283c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085297,
+            "locality_id":85970665,
+            "neighbourhood_id":85816309,
+            "region_id":85688661,
+            "venue_id":807074231
+        }
+    ],
+    "wof:id":807074231,
+    "wof:lastmodified":1462603490,
+    "wof:name":"Hardee's",
+    "wof:parent_id":85816309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -90.487971,
+    37.838741,
+    -90.487971,
+    37.838741
+],
+  "geometry": {"coordinates":[-90.487971,37.838741],"type":"Point"}
+}

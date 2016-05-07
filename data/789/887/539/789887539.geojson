@@ -1,0 +1,71 @@
+{
+  "id": 789887539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.300061,39.295586,-94.300061,39.295586",
+    "geom:latitude":39.295586,
+    "geom:longitude":-94.300061,
+    "iso:country":"US",
+    "sg:address":"22420 NE 112th St",
+    "sg:city":"Liberty",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 781 3252",
+    "sg:postcode":"64068",
+    "sg:province":"MO",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971507,
+        102086177,
+        85812855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1GKPPvMqBkvt5HIhVsTwwa_39.295586_-94.300061@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462591349,
+    "wof:geomhash":"ec680985c56168fe2aa39a9c1a652723",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086177,
+            "locality_id":85971507,
+            "neighbourhood_id":85812855,
+            "region_id":85688661,
+            "venue_id":789887539
+        }
+    ],
+    "wof:id":789887539,
+    "wof:lastmodified":1462591349,
+    "wof:name":"Westland Construction Inc",
+    "wof:parent_id":85812855,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -94.300061,
+    39.295586,
+    -94.300061,
+    39.295586
+],
+  "geometry": {"coordinates":[-94.300061,39.295586],"type":"Point"}
+}

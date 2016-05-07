@@ -1,0 +1,78 @@
+{
+  "id": 806584587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.323447,37.164058,-93.323447,37.164058",
+    "geom:latitude":37.164058,
+    "geom:longitude":-93.323447,
+    "iso:country":"US",
+    "sg:address":"2434 W Vista St",
+    "sg:city":"Springfield",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Medical Equipment & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 866 1727",
+    "sg:postcode":"65807",
+    "sg:province":"MO",
+    "sg:tags":[
+        "physician",
+        "surgeon",
+        "rent"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85881151,
+        102087523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Lb0eeTtzgdhkGhnDtzehi_37.164058_-93.323447@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462599350,
+    "wof:geomhash":"b72a0ef5f3ef45cd3cd84e92542a12d7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087523,
+            "neighbourhood_id":85881151,
+            "region_id":85688661,
+            "venue_id":806584587
+        }
+    ],
+    "wof:id":806584587,
+    "wof:lastmodified":1462599350,
+    "wof:name":"Apria Healthcare Inc",
+    "wof:parent_id":85881151,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon",
+        "rent"
+    ]
+},
+  "bbox": [
+    -93.323447,
+    37.164058,
+    -93.323447,
+    37.164058
+],
+  "geometry": {"coordinates":[-93.323447,37.164058],"type":"Point"}
+}

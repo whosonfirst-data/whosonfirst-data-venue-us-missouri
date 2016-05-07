@@ -1,0 +1,73 @@
+{
+  "id": 806646431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.403922,37.778202,-90.403922,37.778202",
+    "geom:latitude":37.778202,
+    "geom:longitude":-90.403922,
+    "iso:country":"US",
+    "sg:address":"1249 E Karsch Blvd",
+    "sg:city":"Farmington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 701 9995",
+    "sg:postcode":"63640",
+    "sg:province":"MO",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970665,
+        102085297,
+        85816309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7PR0I9aBgeX2eLJRzoBaQ4_37.778202_-90.403922@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462599875,
+    "wof:geomhash":"b9c91f7d1aba2d541a1addc14cabd249",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085297,
+            "locality_id":85970665,
+            "neighbourhood_id":85816309,
+            "region_id":85688661,
+            "venue_id":806646431
+        }
+    ],
+    "wof:id":806646431,
+    "wof:lastmodified":1462599875,
+    "wof:name":"Affordable Automotive Repair",
+    "wof:parent_id":85816309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -90.403922,
+    37.778202,
+    -90.403922,
+    37.778202
+],
+  "geometry": {"coordinates":[-90.40392199999999,37.778202],"type":"Point"}
+}

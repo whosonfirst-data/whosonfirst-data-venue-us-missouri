@@ -1,0 +1,73 @@
+{
+  "id": 773530403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.493082,40.022169,-92.493082,40.022169",
+    "geom:latitude":40.022169,
+    "geom:longitude":-92.493082,
+    "iso:country":"US",
+    "sg:address":"102 W Sanders St",
+    "sg:city":"La Plata",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 660 332 4344",
+    "sg:postcode":"63549",
+    "sg:province":"MO",
+    "sg:tags":[
+        "postal",
+        "us"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971149,
+        102086189,
+        85821499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7jbZJ6gAjyyUe6cJQK57qG_40.022169_-92.493082@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462586418,
+    "wof:geomhash":"47d1c108bb63b2409bb069244ec6c11e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086189,
+            "locality_id":85971149,
+            "neighbourhood_id":85821499,
+            "region_id":85688661,
+            "venue_id":773530403
+        }
+    ],
+    "wof:id":773530403,
+    "wof:lastmodified":1462586418,
+    "wof:name":"US Post Office",
+    "wof:parent_id":85821499,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "postal",
+        "us"
+    ]
+},
+  "bbox": [
+    -92.493082,
+    40.022169,
+    -92.493082,
+    40.022169
+],
+  "geometry": {"coordinates":[-92.493082,40.022169],"type":"Point"}
+}

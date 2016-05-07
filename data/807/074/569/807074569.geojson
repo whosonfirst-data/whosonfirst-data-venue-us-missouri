@@ -1,0 +1,74 @@
+{
+  "id": 807074569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.431515,37.790056,-90.431515,37.790056",
+    "geom:latitude":37.790056,
+    "geom:longitude":-90.431515,
+    "iso:country":"US",
+    "sg:address":"521 W Karsch Blvd",
+    "sg:city":"Farmington",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/st-francois/190908-burger-king/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 756 6947",
+    "sg:postcode":"63640",
+    "sg:province":"MO",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970665,
+        102085297,
+        85816309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2HBOzjeJIjgCNV5nAf4imt_37.790056_-90.431515@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462603492,
+    "wof:geomhash":"3fd1caba810e84f21744876b5b117f43",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085297,
+            "locality_id":85970665,
+            "neighbourhood_id":85816309,
+            "region_id":85688661,
+            "venue_id":807074569
+        }
+    ],
+    "wof:id":807074569,
+    "wof:lastmodified":1462603492,
+    "wof:name":"Burger King",
+    "wof:parent_id":85816309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -90.431515,
+    37.790056,
+    -90.431515,
+    37.790056
+],
+  "geometry": {"coordinates":[-90.431515,37.790056],"type":"Point"}
+}

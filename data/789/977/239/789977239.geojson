@@ -1,0 +1,71 @@
+{
+  "id": 789977239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.361338,37.136422,-93.361338,37.136422",
+    "geom:latitude":37.136422,
+    "geom:longitude":-93.361338,
+    "iso:country":"US",
+    "sg:address":"3934 W Swallow St",
+    "sg:city":"Springfield",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Florist",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 831 6070",
+    "sg:postcode":"65810",
+    "sg:province":"MO",
+    "sg:tags":[
+        "floral",
+        "gift"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85881151,
+        102087523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0BmwDQzKwNgK92vWMq6TE6_37.136422_-93.361338@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462592146,
+    "wof:geomhash":"4314f5dbd78dedcf987a557f8b882b43",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087523,
+            "neighbourhood_id":85881151,
+            "region_id":85688661,
+            "venue_id":789977239
+        }
+    ],
+    "wof:id":789977239,
+    "wof:lastmodified":1462592146,
+    "wof:name":"Allisons Floral & Gifts",
+    "wof:parent_id":85881151,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "floral",
+        "gift"
+    ]
+},
+  "bbox": [
+    -93.361338,
+    37.136422,
+    -93.361338,
+    37.136422
+],
+  "geometry": {"coordinates":[-93.361338,37.136422],"type":"Point"}
+}

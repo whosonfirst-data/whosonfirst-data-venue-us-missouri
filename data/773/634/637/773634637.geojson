@@ -1,0 +1,73 @@
+{
+  "id": 773634637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.302377,37.062498,-93.302377,37.062498",
+    "geom:latitude":37.062498,
+    "geom:longitude":-93.302377,
+    "iso:country":"US",
+    "sg:address":"483 Christopher St",
+    "sg:city":"Nixa",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 725 5152",
+    "sg:postcode":"65714",
+    "sg:province":"MO",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971577,
+        102087497,
+        85809751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5A4AFksflpqcQMF4hY0EpJ_37.062498_-93.302377@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462587206,
+    "wof:geomhash":"890e9877919e40da3e7f10551fa11a05",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087497,
+            "locality_id":85971577,
+            "neighbourhood_id":85809751,
+            "region_id":85688661,
+            "venue_id":773634637
+        }
+    ],
+    "wof:id":773634637,
+    "wof:lastmodified":1462587206,
+    "wof:name":"CDP",
+    "wof:parent_id":85809751,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -93.302377,
+    37.062498,
+    -93.302377,
+    37.062498
+],
+  "geometry": {"coordinates":[-93.30237700000001,37.062498],"type":"Point"}
+}

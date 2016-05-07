@@ -1,0 +1,71 @@
+{
+  "id": 773389137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.615461,37.998793,-91.615461,37.998793",
+    "geom:latitude":37.998793,
+    "geom:longitude":-91.615461,
+    "iso:country":"US",
+    "sg:address":"210 N Jefferson St",
+    "sg:city":"St James",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Portrait Studio",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 265 9000",
+    "sg:postcode":"65559",
+    "sg:province":"MO",
+    "sg:tags":[
+        "photographer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970819,
+        102086893,
+        85847353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Tnl2hXNoOvCFfnRYbwsIX_37.998793_-91.615461@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462585317,
+    "wof:geomhash":"b9e267ff18c3ee636b277d7a628760e4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086893,
+            "locality_id":85970819,
+            "neighbourhood_id":85847353,
+            "region_id":85688661,
+            "venue_id":773389137
+        }
+    ],
+    "wof:id":773389137,
+    "wof:lastmodified":1462585317,
+    "wof:name":"Picture Time",
+    "wof:parent_id":85847353,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "photographer"
+    ]
+},
+  "bbox": [
+    -91.615461,
+    37.998793,
+    -91.615461,
+    37.998793
+],
+  "geometry": {"coordinates":[-91.615461,37.998793],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 789915701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.556949,36.818763,-94.556949,36.818763",
+    "geom:latitude":36.818763,
+    "geom:longitude":-94.556949,
+    "iso:country":"US",
+    "sg:address":"18077 Crow Rd",
+    "sg:city":"Seneca",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 776 3679",
+    "sg:postcode":"64865",
+    "sg:province":"MO",
+    "sg:tags":[
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971289,
+        102087471,
+        85814333
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2KoxEzNAHr24Ww7I6FqiTM_36.818763_-94.556949@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462591588,
+    "wof:geomhash":"3cc2df67af9582d42924360c9d7c8e33",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087471,
+            "locality_id":85971289,
+            "neighbourhood_id":85814333,
+            "region_id":85688661,
+            "venue_id":789915701
+        }
+    ],
+    "wof:id":789915701,
+    "wof:lastmodified":1462591588,
+    "wof:name":"Lankford's Garage",
+    "wof:parent_id":85814333,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrecker"
+    ]
+},
+  "bbox": [
+    -94.556949,
+    36.818763,
+    -94.556949,
+    36.818763
+],
+  "geometry": {"coordinates":[-94.556949,36.818763],"type":"Point"}
+}

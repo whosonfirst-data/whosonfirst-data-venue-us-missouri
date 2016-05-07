@@ -1,0 +1,77 @@
+{
+  "id": 806710027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.278376,38.73693,-90.278376,38.73693",
+    "geom:latitude":38.73693,
+    "geom:longitude":-90.278376,
+    "iso:country":"US",
+    "sg:address":"9191 W Florissant Ave",
+    "sg:city":"Saint Louis",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 521 4545",
+    "sg:postcode":"63136",
+    "sg:province":"MO",
+    "sg:tags":[
+        "laboratory",
+        "dental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85859027,
+        102191575,
+        404517247,
+        85633793,
+        85972205,
+        102086173,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6uxoiZq39GsVMwlTV8hfSl_38.736930_-90.278376@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462600418,
+    "wof:geomhash":"c307c29aa490837a50b047e67d34cc5f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086173,
+            "localadmin_id":404517247,
+            "locality_id":85972205,
+            "neighbourhood_id":85859027,
+            "region_id":85688661,
+            "venue_id":806710027
+        }
+    ],
+    "wof:id":806710027,
+    "wof:lastmodified":1462600418,
+    "wof:name":"ABC Dental Laboratory",
+    "wof:parent_id":85859027,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory",
+        "dental"
+    ]
+},
+  "bbox": [
+    -90.278376,
+    38.73693,
+    -90.278376,
+    38.73693
+],
+  "geometry": {"coordinates":[-90.27837599999999,38.73693],"type":"Point"}
+}

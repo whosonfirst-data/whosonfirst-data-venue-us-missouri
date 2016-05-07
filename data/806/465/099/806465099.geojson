@@ -1,0 +1,72 @@
+{
+  "id": 806465099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.856078,38.811252,-90.856078,38.811252",
+    "geom:latitude":38.811252,
+    "geom:longitude":-90.856078,
+    "iso:country":"US",
+    "sg:address":"310 W Pearce Blvd",
+    "sg:city":"Wentzville",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 327 5101",
+    "sg:postcode":"63385",
+    "sg:province":"MO",
+    "sg:tags":[
+        "city"
+    ],
+    "sg:website":"www.wentzvillemo.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3SaHvGf41O8lPBaZ4dU7Oj_38.811252_-90.856078@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462598355,
+    "wof:geomhash":"1cbb21f0eba56ea0ec3428d9060223f2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":806465099
+        }
+    ],
+    "wof:id":806465099,
+    "wof:lastmodified":1462598355,
+    "wof:name":"Wentzville City Hall",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "city"
+    ]
+},
+  "bbox": [
+    -90.856078,
+    38.811252,
+    -90.856078,
+    38.811252
+],
+  "geometry": {"coordinates":[-90.856078,38.811252],"type":"Point"}
+}

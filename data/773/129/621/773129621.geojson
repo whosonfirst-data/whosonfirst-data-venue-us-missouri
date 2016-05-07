@@ -1,0 +1,71 @@
+{
+  "id": 773129621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.44174,37.198805,-93.44174,37.198805",
+    "geom:latitude":37.198805,
+    "geom:longitude":-93.44174,
+    "iso:country":"US",
+    "sg:address":"7525 W Farm Rd 140",
+    "sg:city":"Springfield",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 865 4034",
+    "sg:postcode":"65802",
+    "sg:province":"MO",
+    "sg:tags":[
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971363,
+        102087523,
+        85881139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6imSf2SwzC130zY3Fxirsw_37.198805_-93.441740@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462583357,
+    "wof:geomhash":"43c13929a197cb916ba1eaa97367b14a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087523,
+            "locality_id":85971363,
+            "neighbourhood_id":85881139,
+            "region_id":85688661,
+            "venue_id":773129621
+        }
+    ],
+    "wof:id":773129621,
+    "wof:lastmodified":1462583357,
+    "wof:name":"Babbitt Trucking",
+    "wof:parent_id":85881139,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -93.44174,
+    37.198805,
+    -93.44174,
+    37.198805
+],
+  "geometry": {"coordinates":[-93.44174,37.198805],"type":"Point"}
+}

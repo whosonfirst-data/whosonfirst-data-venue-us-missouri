@@ -1,0 +1,81 @@
+{
+  "id": 806725829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.350956,38.462327,-90.350956,38.462327",
+    "geom:latitude":38.462327,
+    "geom:longitude":-90.350956,
+    "iso:country":"US",
+    "sg:address":"5243 Baumgartner Rd",
+    "sg:city":"Saint Louis",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 892 9883",
+    "sg:postcode":"63129",
+    "sg:province":"MO",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85885365,
+        102191575,
+        404517459,
+        85633793,
+        85972631,
+        102086173,
+        85688661,
+        85971021,
+        102080787,
+        85832925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_25lzKdvKkJlK1LggjmKvVh_38.462327_-90.350956@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462600551,
+    "wof:geomhash":"d71f2c021877bd411f5a907fab0742c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086173,
+            "localadmin_id":404517459,
+            "locality_id":85972631,
+            "neighbourhood_id":85885365,
+            "region_id":85688661,
+            "venue_id":806725829
+        },
+        {
+            "country_id":85633793,
+            "county_id":102080787,
+            "locality_id":85971021,
+            "neighbourhood_id":85832925,
+            "region_id":85688661,
+            "venue_id":806725829
+        }
+    ],
+    "wof:id":806725829,
+    "wof:lastmodified":1462600551,
+    "wof:name":"Autco Distributing Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.350956,
+    38.462327,
+    -90.350956,
+    38.462327
+],
+  "geometry": {"coordinates":[-90.350956,38.462327],"type":"Point"}
+}

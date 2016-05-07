@@ -1,0 +1,91 @@
+{
+  "id": 806851887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.405189,38.664393,-90.405189,38.664393",
+    "geom:latitude":38.664393,
+    "geom:longitude":-90.405189,
+    "iso:country":"US",
+    "sg:address":"477 N Lindbergh Blvd",
+    "sg:city":"St Louis",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Non-profit Organization",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 994 7800",
+    "sg:postcode":"63141",
+    "sg:province":"MO",
+    "sg:tags":[
+        "nursing",
+        "medical",
+        "skilled",
+        "clinic",
+        "home",
+        "heal"
+    ],
+    "sg:website":"www.ssmhealth.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85803699,
+        102191575,
+        404517323,
+        85633793,
+        85972315,
+        102086173,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2lmvnzHleAzLerMs1txoCm_38.664393_-90.405189@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462601625,
+    "wof:geomhash":"5969738c412b7942bf5ca645222ddddd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086173,
+            "localadmin_id":404517323,
+            "locality_id":85972315,
+            "neighbourhood_id":85803699,
+            "region_id":85688661,
+            "venue_id":806851887
+        }
+    ],
+    "wof:id":806851887,
+    "wof:lastmodified":1462601625,
+    "wof:name":"Ssm Health Care",
+    "wof:parent_id":85803699,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "nursing",
+        "medical",
+        "skilled",
+        "clinic",
+        "home",
+        "heal"
+    ]
+},
+  "bbox": [
+    -90.405189,
+    38.664393,
+    -90.405189,
+    38.664393
+],
+  "geometry": {"coordinates":[-90.40518899999999,38.664393],"type":"Point"}
+}

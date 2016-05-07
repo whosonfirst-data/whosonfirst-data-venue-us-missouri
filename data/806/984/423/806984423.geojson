@@ -1,0 +1,75 @@
+{
+  "id": 806984423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.345949,38.492701,-90.345949,38.492701",
+    "geom:latitude":38.492701,
+    "geom:longitude":-90.345949,
+    "iso:country":"US",
+    "sg:address":"4814 Lemay Ferry Rd",
+    "sg:city":"St Louis",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 892 0244",
+    "sg:postcode":"63129",
+    "sg:province":"MO",
+    "sg:tags":[
+        "clinic",
+        "hospital",
+        "animal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971021,
+        102080787,
+        85832925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3AgAj73SKBk0GHMWELnhTL_38.492701_-90.345949@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462602732,
+    "wof:geomhash":"746d5fc070cf1e37538412b78df544ce",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080787,
+            "locality_id":85971021,
+            "neighbourhood_id":85832925,
+            "region_id":85688661,
+            "venue_id":806984423
+        }
+    ],
+    "wof:id":806984423,
+    "wof:lastmodified":1462602732,
+    "wof:name":"Southwick Veterinary Hospital",
+    "wof:parent_id":85832925,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic",
+        "hospital",
+        "animal"
+    ]
+},
+  "bbox": [
+    -90.345949,
+    38.492701,
+    -90.345949,
+    38.492701
+],
+  "geometry": {"coordinates":[-90.345949,38.492701],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 806631443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.150074,38.547981,-92.150074,38.547981",
+    "geom:latitude":38.547981,
+    "geom:longitude":-92.150074,
+    "iso:country":"US",
+    "sg:address":"2111 Schotthill Woods Dr",
+    "sg:city":"Jefferson City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 636 8266",
+    "sg:postcode":"65101",
+    "sg:province":"MO",
+    "sg:tags":[
+        "automobile",
+        "lubrication",
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970647,
+        102087511,
+        85837745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6hANzZlVQ7mkRuSdKDR95B_38.547981_-92.150074@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462599750,
+    "wof:geomhash":"6f83a29c21cc3aa86ff21b3ceba34627",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087511,
+            "locality_id":85970647,
+            "neighbourhood_id":85837745,
+            "region_id":85688661,
+            "venue_id":806631443
+        }
+    ],
+    "wof:id":806631443,
+    "wof:lastmodified":1462599750,
+    "wof:name":"Zippy Lube & Brakes",
+    "wof:parent_id":85837745,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "lubrication",
+        "automotive"
+    ]
+},
+  "bbox": [
+    -92.150074,
+    38.547981,
+    -92.150074,
+    38.547981
+],
+  "geometry": {"coordinates":[-92.150074,38.547981],"type":"Point"}
+}

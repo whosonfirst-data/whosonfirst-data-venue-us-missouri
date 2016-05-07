@@ -1,0 +1,73 @@
+{
+  "id": 789766265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.276202,39.192145,-92.276202,39.192145",
+    "geom:latitude":39.192145,
+    "geom:longitude":-92.276202,
+    "iso:country":"US",
+    "sg:address":"20095 Rte V",
+    "sg:city":"Sturgeon",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 687 2331",
+    "sg:postcode":"65284",
+    "sg:province":"MO",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970425,
+        102086187,
+        85851713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2fhOo6Pk7umhN8e7ICwd2B_39.192145_-92.276202@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462590375,
+    "wof:geomhash":"a11759c2a4245f7231566555900121e9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086187,
+            "locality_id":85970425,
+            "neighbourhood_id":85851713,
+            "region_id":85688661,
+            "venue_id":789766265
+        }
+    ],
+    "wof:id":789766265,
+    "wof:lastmodified":1462590375,
+    "wof:name":"Stone Electric",
+    "wof:parent_id":85851713,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -92.276202,
+    39.192145,
+    -92.276202,
+    39.192145
+],
+  "geometry": {"coordinates":[-92.276202,39.192145],"type":"Point"}
+}

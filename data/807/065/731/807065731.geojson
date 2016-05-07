@@ -1,0 +1,86 @@
+{
+  "id": 807065731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.367884,38.72121,-90.367884,38.72121",
+    "geom:latitude":38.72121,
+    "geom:longitude":-90.367884,
+    "iso:country":"US",
+    "sg:address":"9701 Saint Charles Rock Rd",
+    "sg:city":"Saint Louis",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/airport/163088-rallys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 429 2205",
+    "sg:postcode":"63114",
+    "sg:province":"MO",
+    "sg:tags":[
+        "sandwich",
+        "dog",
+        "burger",
+        "hot",
+        "wrap",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85847351,
+        102191575,
+        404517201,
+        85633793,
+        85972285,
+        102086173,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2E10mNIxJNH92Dlrm69E8W_38.721210_-90.367884@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462603413,
+    "wof:geomhash":"7fe21612367d49ec337aecf4c01a51f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086173,
+            "localadmin_id":404517201,
+            "locality_id":85972285,
+            "neighbourhood_id":85847351,
+            "region_id":85688661,
+            "venue_id":807065731
+        }
+    ],
+    "wof:id":807065731,
+    "wof:lastmodified":1462603413,
+    "wof:name":"Rally's",
+    "wof:parent_id":85847351,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sandwich",
+        "dog",
+        "burger",
+        "hot",
+        "wrap",
+        "american"
+    ]
+},
+  "bbox": [
+    -90.367884,
+    38.72121,
+    -90.367884,
+    38.72121
+],
+  "geometry": {"coordinates":[-90.367884,38.72121],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 807098183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.511963,38.787566,-90.511963,38.787566",
+    "geom:latitude":38.787566,
+    "geom:longitude":-90.511963,
+    "iso:country":"US",
+    "sg:address":"2181 Droste Rd",
+    "sg:city":"Saint Charles",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/lindenwood/83965-dominos-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 723 0150",
+    "sg:postcode":"63301",
+    "sg:province":"MO",
+    "sg:tags":[
+        "american",
+        "wing",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7NP3FH3GGyaCRXWQa2DvPu_38.787129_-90.511716@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462603701,
+    "wof:geomhash":"9080de9875bf5a65554a3e1aa51db365",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":807098183
+        }
+    ],
+    "wof:id":807098183,
+    "wof:lastmodified":1462603701,
+    "wof:name":"Domino's Pizza",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "wing",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -90.511963,
+    38.787566,
+    -90.511963,
+    38.787566
+],
+  "geometry": {"coordinates":[-90.51196299999999,38.787566],"type":"Point"}
+}

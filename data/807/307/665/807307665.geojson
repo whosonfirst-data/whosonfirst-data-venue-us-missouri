@@ -1,0 +1,80 @@
+{
+  "id": 807307665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.374779,37.216114,-93.374779,37.216114",
+    "geom:latitude":37.216114,
+    "geom:longitude":-93.374779,
+    "iso:country":"US",
+    "sg:address":"4661 W Farm Road 130",
+    "sg:city":"Springfield",
+    "sg:classifiers":[
+        {
+            "category":"Transit Center",
+            "subcategory":"Freight",
+            "type":"Transportation"
+        },
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 864 8848",
+    "sg:postcode":"65802",
+    "sg:province":"MO",
+    "sg:tags":[
+        "local",
+        "trucking-motor",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971363,
+        102087523,
+        85836941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5MR1YR1eLnqLprHduih70m_37.216114_-93.374779@1303262938"
+    },
+    "wof:country":"US",
+    "wof:created":1462605934,
+    "wof:geomhash":"8a6ecd57d4b2acc26af5d6068c07b02c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087523,
+            "locality_id":85971363,
+            "neighbourhood_id":85836941,
+            "region_id":85688661,
+            "venue_id":807307665
+        }
+    ],
+    "wof:id":807307665,
+    "wof:lastmodified":1462605934,
+    "wof:name":"Central Trucking Inc.",
+    "wof:parent_id":85836941,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "local",
+        "trucking-motor",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -93.374779,
+    37.216114,
+    -93.374779,
+    37.216114
+],
+  "geometry": {"coordinates":[-93.374779,37.216114],"type":"Point"}
+}

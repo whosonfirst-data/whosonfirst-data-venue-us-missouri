@@ -1,0 +1,89 @@
+{
+  "id": 807124589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.46645,38.395149,-90.46645,38.395149",
+    "geom:latitude":38.395149,
+    "geom:longitude":-90.46645,
+    "iso:country":"US",
+    "sg:address":"3673 Roads End Acres Rd",
+    "sg:city":"Imperial",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Communications",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Communications",
+            "subcategory":"Television Station",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 942 2600",
+    "sg:postcode":"63052",
+    "sg:province":"MO",
+    "sg:tags":[
+        "satellite",
+        "systems-repair",
+        "cable",
+        "tv",
+        "system",
+        "equipment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85805175,
+        102080787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4jus6LHSC6kzzgH0V9WoaQ_38.395149_-90.466450@1303262926"
+    },
+    "wof:country":"US",
+    "wof:created":1462603996,
+    "wof:geomhash":"42ef5ece881ca8fa223f9ce8d8771f1b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080787,
+            "neighbourhood_id":85805175,
+            "region_id":85688661,
+            "venue_id":807124589
+        }
+    ],
+    "wof:id":807124589,
+    "wof:lastmodified":1462603996,
+    "wof:name":"Midwest Telstar Communications",
+    "wof:parent_id":85805175,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "satellite",
+        "systems-repair",
+        "cable",
+        "tv",
+        "system",
+        "equipment"
+    ]
+},
+  "bbox": [
+    -90.46645,
+    38.395149,
+    -90.46645,
+    38.395149
+],
+  "geometry": {"coordinates":[-90.46644999999999,38.395149],"type":"Point"}
+}

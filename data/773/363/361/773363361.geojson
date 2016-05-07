@@ -1,0 +1,73 @@
+{
+  "id": 773363361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.214137,39.341865,-91.214137,39.341865",
+    "geom:latitude":39.341865,
+    "geom:longitude":-91.214137,
+    "iso:country":"US",
+    "sg:address":"2106 W Main St",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 324 2216",
+    "sg:postcode":"63334",
+    "sg:province":"MO",
+    "sg:tags":[
+        "home",
+        "convalescent"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971907,
+        102086151,
+        85817909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4nCV4lAJJgn4tP3pecJWlk_39.341865_-91.214137@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462585136,
+    "wof:geomhash":"aa5a7bb5724ceaa9e58d718fc66ae946",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086151,
+            "locality_id":85971907,
+            "neighbourhood_id":85817909,
+            "region_id":85688661,
+            "venue_id":773363361
+        }
+    ],
+    "wof:id":773363361,
+    "wof:lastmodified":1462585136,
+    "wof:name":"Country View Nursing",
+    "wof:parent_id":85817909,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "convalescent"
+    ]
+},
+  "bbox": [
+    -91.214137,
+    39.341865,
+    -91.214137,
+    39.341865
+],
+  "geometry": {"coordinates":[-91.21413699999999,39.341865],"type":"Point"}
+}

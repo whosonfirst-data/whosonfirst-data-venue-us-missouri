@@ -1,0 +1,82 @@
+{
+  "id": 789804313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.219236,38.619971,-90.219236,38.619971",
+    "geom:latitude":38.619971,
+    "geom:longitude":-90.219236,
+    "iso:country":"US",
+    "sg:address":"1218 S Jefferson Ave",
+    "sg:city":"St Louis",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Motor Vehicles",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 771 4244",
+    "sg:postcode":"63104",
+    "sg:province":"MO",
+    "sg:tags":[
+        "trailer",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873661,
+        102191575,
+        404518053,
+        85633793,
+        85971343,
+        102080791,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7GJk1e8xp2vZnvRU6a5aCO_38.619971_-90.219236@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462590670,
+    "wof:geomhash":"bf81e23d908574d55bed35fdb598b612",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080791,
+            "localadmin_id":404518053,
+            "locality_id":85971343,
+            "neighbourhood_id":85873661,
+            "region_id":85688661,
+            "venue_id":789804313
+        }
+    ],
+    "wof:id":789804313,
+    "wof:lastmodified":1462590670,
+    "wof:name":"Davis Trailers Sales",
+    "wof:parent_id":85873661,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trailer",
+        "supply"
+    ]
+},
+  "bbox": [
+    -90.219236,
+    38.619971,
+    -90.219236,
+    38.619971
+],
+  "geometry": {"coordinates":[-90.219236,38.619971],"type":"Point"}
+}

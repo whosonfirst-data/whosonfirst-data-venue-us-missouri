@@ -1,0 +1,79 @@
+{
+  "id": 773410955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.584416,39.224578,-94.584416,39.224578",
+    "geom:latitude":39.224578,
+    "geom:longitude":-94.584416,
+    "iso:country":"US",
+    "sg:address":"301 NW 72 St",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 436 4535",
+    "sg:postcode":"64118",
+    "sg:province":"MO",
+    "sg:tags":[
+        "station",
+        "gasoline",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85852163,
+        102191575,
+        404516715,
+        85633793,
+        85972467,
+        102086177,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5jGqc3fXMAWojwcNxhIHYc_39.224578_-94.584416@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462585495,
+    "wof:geomhash":"5f936037bc053f07ed66ce9031252cd4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086177,
+            "localadmin_id":404516715,
+            "locality_id":85972467,
+            "neighbourhood_id":85852163,
+            "region_id":85688661,
+            "venue_id":773410955
+        }
+    ],
+    "wof:id":773410955,
+    "wof:lastmodified":1462585495,
+    "wof:name":"Bill & Larrys Serv",
+    "wof:parent_id":85852163,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gasoline",
+        "general"
+    ]
+},
+  "bbox": [
+    -94.584416,
+    39.224578,
+    -94.584416,
+    39.224578
+],
+  "geometry": {"coordinates":[-94.584416,39.224578],"type":"Point"}
+}

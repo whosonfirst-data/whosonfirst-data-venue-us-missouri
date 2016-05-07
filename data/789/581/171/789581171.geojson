@@ -1,0 +1,71 @@
+{
+  "id": 789581171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.15057,37.268789,-93.15057,37.268789",
+    "geom:latitude":37.268789,
+    "geom:longitude":-93.15057,
+    "iso:country":"US",
+    "sg:address":"6572 E Woodbine Ct",
+    "sg:city":"Strafford",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 833 1160",
+    "sg:postcode":"65757",
+    "sg:province":"MO",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971363,
+        102087523,
+        85881137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0rryfIIccw9mZg5d1nJQFK_37.268789_-93.150570@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462588911,
+    "wof:geomhash":"baba868fa9d9ce650fb87d4ee4ae71a0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087523,
+            "locality_id":85971363,
+            "neighbourhood_id":85881137,
+            "region_id":85688661,
+            "venue_id":789581171
+        }
+    ],
+    "wof:id":789581171,
+    "wof:lastmodified":1462588911,
+    "wof:name":"Family Dollar Store",
+    "wof:parent_id":85881137,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -93.15057,
+    37.268789,
+    -93.15057,
+    37.268789
+],
+  "geometry": {"coordinates":[-93.15057,37.268789],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 773393573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.279464,38.745795,-90.279464,38.745795",
+    "geom:latitude":38.745795,
+    "geom:longitude":-90.279464,
+    "iso:country":"US",
+    "sg:address":"9811 W Florissant Ave",
+    "sg:city":"Saint Louis",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Developer",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 521 3236",
+    "sg:postcode":"63136",
+    "sg:province":"MO",
+    "sg:tags":[
+        "owner",
+        "operator",
+        "cemetery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85859027,
+        102191575,
+        404517247,
+        85633793,
+        85972205,
+        102086173,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ZLzVaz86z1IECX9NmxeaW_38.745795_-90.279464@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462585353,
+    "wof:geomhash":"d8ab9f43c79dae2907b4a50caf3daf01",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086173,
+            "localadmin_id":404517247,
+            "locality_id":85972205,
+            "neighbourhood_id":85859027,
+            "region_id":85688661,
+            "venue_id":773393573
+        }
+    ],
+    "wof:id":773393573,
+    "wof:lastmodified":1462585353,
+    "wof:name":"Greenwood Cemeteries",
+    "wof:parent_id":85859027,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "owner",
+        "operator",
+        "cemetery"
+    ]
+},
+  "bbox": [
+    -90.279464,
+    38.745795,
+    -90.279464,
+    38.745795
+],
+  "geometry": {"coordinates":[-90.279464,38.745795],"type":"Point"}
+}

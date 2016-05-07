@@ -1,0 +1,71 @@
+{
+  "id": 806440855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.345026,38.492962,-90.345026,38.492962",
+    "geom:latitude":38.492962,
+    "geom:longitude":-90.345026,
+    "iso:country":"US",
+    "sg:address":"4207 Summit Knoll Dr",
+    "sg:city":"St Louis",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 894 2063",
+    "sg:postcode":"63129",
+    "sg:province":"MO",
+    "sg:tags":[
+        "leasing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971021,
+        102080787,
+        85832925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2pNZGf9Q8tJQjUfFWN24bg_38.492962_-90.345026@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462598174,
+    "wof:geomhash":"c087a36488c857168d548d77fea02ed2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080787,
+            "locality_id":85971021,
+            "neighbourhood_id":85832925,
+            "region_id":85688661,
+            "venue_id":806440855
+        }
+    ],
+    "wof:id":806440855,
+    "wof:lastmodified":1462598174,
+    "wof:name":"Prairie View Corporate Leasing",
+    "wof:parent_id":85832925,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "leasing"
+    ]
+},
+  "bbox": [
+    -90.345026,
+    38.492962,
+    -90.345026,
+    38.492962
+],
+  "geometry": {"coordinates":[-90.345026,38.492962],"type":"Point"}
+}

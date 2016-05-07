@@ -1,0 +1,71 @@
+{
+  "id": 773520737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.238816,39.357111,-94.238816,39.357111",
+    "geom:latitude":39.357111,
+    "geom:longitude":-94.238816,
+    "iso:country":"US",
+    "sg:address":"1220 Rainbow Blvd",
+    "sg:city":"Excelsior Spgs",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 637 5612",
+    "sg:postcode":"64024",
+    "sg:province":"MO",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971507,
+        102086177,
+        85822189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_41bE2OEkQ7kIopv2f4voiK_39.357111_-94.238816@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462586347,
+    "wof:geomhash":"96f67f3c180274d2874db46e7ddda77b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086177,
+            "locality_id":85971507,
+            "neighbourhood_id":85822189,
+            "region_id":85688661,
+            "venue_id":773520737
+        }
+    ],
+    "wof:id":773520737,
+    "wof:lastmodified":1462586347,
+    "wof:name":"Excelsior Springs Animal Clnc",
+    "wof:parent_id":85822189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -94.238816,
+    39.357111,
+    -94.238816,
+    39.357111
+],
+  "geometry": {"coordinates":[-94.238816,39.357111],"type":"Point"}
+}

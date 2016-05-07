@@ -1,0 +1,75 @@
+{
+  "id": 789895433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.388666,38.572276,-90.388666,38.572276",
+    "geom:latitude":38.572276,
+    "geom:longitude":-90.388666,
+    "iso:country":"US",
+    "sg:address":"10 Lamertin Ln",
+    "sg:city":"St Louis",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 227 1371",
+    "sg:postcode":"63122",
+    "sg:province":"MO",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85858243,
+        102191575,
+        404517253,
+        85633793,
+        85972177,
+        102086173,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1v5zonelViW63ULmg0WgHp_38.572276_-90.388666@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462591409,
+    "wof:geomhash":"76a1a4c90a82359ccee41507540150eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086173,
+            "localadmin_id":404517253,
+            "locality_id":85972177,
+            "neighbourhood_id":85858243,
+            "region_id":85688661,
+            "venue_id":789895433
+        }
+    ],
+    "wof:id":789895433,
+    "wof:lastmodified":1462591409,
+    "wof:name":"Homevet",
+    "wof:parent_id":85858243,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -90.388666,
+    38.572276,
+    -90.388666,
+    38.572276
+],
+  "geometry": {"coordinates":[-90.388666,38.572276],"type":"Point"}
+}

@@ -1,0 +1,97 @@
+{
+  "id": 807242179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.556508,37.066665,-94.556508,37.066665",
+    "geom:latitude":37.066665,
+    "geom:longitude":-94.556508,
+    "iso:country":"US",
+    "sg:address":"2310 Iron Gates Rd",
+    "sg:city":"Joplin",
+    "sg:classifiers":[
+        {
+            "category":"Place Of Worship",
+            "subcategory":"Church",
+            "type":"Public Place"
+        },
+        {
+            "category":"Place Of Worship",
+            "subcategory":"",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 624 0382",
+    "sg:postcode":"64804",
+    "sg:province":"MO",
+    "sg:tags":[
+        "churches-interdenominational",
+        "denomination",
+        "churches-christian",
+        "churches-various",
+        "churches-christian-reformed"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85885363,
+        102191575,
+        404518215,
+        85633793,
+        85970893,
+        102087525,
+        85688661,
+        85810925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4OU3suvS36evamdok1IqOC_37.066665_-94.556508@1303262934"
+    },
+    "wof:country":"US",
+    "wof:created":1462605236,
+    "wof:geomhash":"c191269dfb28072146331a84ff1dd382",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087525,
+            "localadmin_id":404518215,
+            "locality_id":85970893,
+            "neighbourhood_id":85885363,
+            "region_id":85688661,
+            "venue_id":807242179
+        },
+        {
+            "country_id":85633793,
+            "county_id":102087525,
+            "locality_id":85970893,
+            "neighbourhood_id":85810925,
+            "region_id":85688661,
+            "venue_id":807242179
+        }
+    ],
+    "wof:id":807242179,
+    "wof:lastmodified":1462605236,
+    "wof:name":"Iron Gates Christian Church",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "churches-interdenominational",
+        "denomination",
+        "churches-christian",
+        "churches-various",
+        "churches-christian-reformed"
+    ]
+},
+  "bbox": [
+    -94.556508,
+    37.066665,
+    -94.556508,
+    37.066665
+],
+  "geometry": {"coordinates":[-94.55650799999999,37.066665],"type":"Point"}
+}

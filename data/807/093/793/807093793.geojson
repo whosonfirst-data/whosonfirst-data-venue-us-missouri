@@ -1,0 +1,72 @@
+{
+  "id": 807093793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.871686,36.715874,-91.871686,36.715874",
+    "geom:latitude":36.715874,
+    "geom:longitude":-91.871686,
+    "iso:country":"US",
+    "sg:address":"1345 Southern Hills Ctr",
+    "sg:city":"West Plains",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/howell/195713-taco-bell/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 256 1131",
+    "sg:postcode":"65775",
+    "sg:province":"MO",
+    "sg:tags":[
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971791,
+        102086179,
+        85851373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5YxOTvzVgVABIllMUJH3QP_36.715874_-91.871686@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462603651,
+    "wof:geomhash":"195c584c5bf476776e99aadc568b7ce1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086179,
+            "locality_id":85971791,
+            "neighbourhood_id":85851373,
+            "region_id":85688661,
+            "venue_id":807093793
+        }
+    ],
+    "wof:id":807093793,
+    "wof:lastmodified":1462603651,
+    "wof:name":"Taco Bell",
+    "wof:parent_id":85851373,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican"
+    ]
+},
+  "bbox": [
+    -91.871686,
+    36.715874,
+    -91.871686,
+    36.715874
+],
+  "geometry": {"coordinates":[-91.871686,36.715874],"type":"Point"}
+}

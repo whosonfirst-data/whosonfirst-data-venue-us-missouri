@@ -1,0 +1,74 @@
+{
+  "id": 807074485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.431784,37.790565,-90.431784,37.790565",
+    "geom:latitude":37.790565,
+    "geom:longitude":-90.431784,
+    "iso:country":"US",
+    "sg:address":"745 Weber Rd",
+    "sg:city":"Farmington",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/st-francois/201592-sonic/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 756 2828",
+    "sg:postcode":"63640",
+    "sg:province":"MO",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970665,
+        102085297,
+        85816309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1c84k3sRAUtZ8VfdxdBKT8_37.790565_-90.431784@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462603492,
+    "wof:geomhash":"57645c9c55a4967cae29edca2dc2ca0f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085297,
+            "locality_id":85970665,
+            "neighbourhood_id":85816309,
+            "region_id":85688661,
+            "venue_id":807074485
+        }
+    ],
+    "wof:id":807074485,
+    "wof:lastmodified":1462603492,
+    "wof:name":"Sonic",
+    "wof:parent_id":85816309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -90.431784,
+    37.790565,
+    -90.431784,
+    37.790565
+],
+  "geometry": {"coordinates":[-90.43178399999999,37.790565],"type":"Point"}
+}

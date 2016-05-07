@@ -1,0 +1,85 @@
+{
+  "id": 789613071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.594999,39.040669,-94.594999,39.040669",
+    "geom:latitude":39.040669,
+    "geom:longitude":-94.594999,
+    "iso:country":"US",
+    "sg:address":"608 W 48 St",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Beauty & Cosmetics",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 753 8117",
+    "sg:postcode":"64112",
+    "sg:province":"MO",
+    "sg:tags":[
+        "shop",
+        "aromatherapy",
+        "merchandise"
+    ],
+    "sg:website":"www.perfectscentsinc.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85871983,
+        102191575,
+        404518075,
+        85633793,
+        85970739,
+        102081227,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7aa1pn40YouXbQFONNKAvR_39.040669_-94.594999@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462589159,
+    "wof:geomhash":"9d870e48f3a94b85daebef7bef20ca65",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081227,
+            "localadmin_id":404518075,
+            "locality_id":85970739,
+            "neighbourhood_id":85871983,
+            "region_id":85688661,
+            "venue_id":789613071
+        }
+    ],
+    "wof:id":789613071,
+    "wof:lastmodified":1462589159,
+    "wof:name":"Perfect Scents Inc",
+    "wof:parent_id":85871983,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "aromatherapy",
+        "merchandise"
+    ]
+},
+  "bbox": [
+    -94.594999,
+    39.040669,
+    -94.594999,
+    39.040669
+],
+  "geometry": {"coordinates":[-94.594999,39.040669],"type":"Point"}
+}

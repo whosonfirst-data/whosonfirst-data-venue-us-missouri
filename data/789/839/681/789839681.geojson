@@ -1,0 +1,73 @@
+{
+  "id": 789839681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.340368,39.380136,-94.340368,39.380136",
+    "geom:latitude":39.380136,
+    "geom:longitude":-94.340368,
+    "iso:country":"US",
+    "sg:address":"15813 Sugar Plum Rd",
+    "sg:city":"Kearney",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 628 3630",
+    "sg:postcode":"64060",
+    "sg:province":"MO",
+    "sg:tags":[
+        "video",
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971507,
+        102086177,
+        85812855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7WeR21ai5rsC1tO7BU9b35_39.380136_-94.340368@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462590944,
+    "wof:geomhash":"a0b45bcdf762753ab784ef48e20a5633",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086177,
+            "locality_id":85971507,
+            "neighbourhood_id":85812855,
+            "region_id":85688661,
+            "venue_id":789839681
+        }
+    ],
+    "wof:id":789839681,
+    "wof:lastmodified":1462590944,
+    "wof:name":"Video Junction",
+    "wof:parent_id":85812855,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "video",
+        "store"
+    ]
+},
+  "bbox": [
+    -94.340368,
+    39.380136,
+    -94.340368,
+    39.380136
+],
+  "geometry": {"coordinates":[-94.340368,39.380136],"type":"Point"}
+}

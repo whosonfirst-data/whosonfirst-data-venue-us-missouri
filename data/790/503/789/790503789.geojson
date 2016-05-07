@@ -1,0 +1,78 @@
+{
+  "id": 790503789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.173418,38.573841,-92.173418,38.573841",
+    "geom:latitude":38.573841,
+    "geom:longitude":-92.173418,
+    "iso:country":"US",
+    "sg:address":"214 E Miller St",
+    "sg:city":"Jefferson City",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        },
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 636 5558",
+    "sg:postcode":"65101",
+    "sg:province":"MO",
+    "sg:tags":[
+        "educational",
+        "program"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970647,
+        102087511,
+        85837745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5CjOYA9NgLwKzMTROWVh7V_38.573841_-92.173418@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462596401,
+    "wof:geomhash":"b9936446c370049543ee33fbc9caf8f9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087511,
+            "locality_id":85970647,
+            "neighbourhood_id":85837745,
+            "region_id":85688661,
+            "venue_id":790503789
+        }
+    ],
+    "wof:id":790503789,
+    "wof:lastmodified":1462596401,
+    "wof:name":"Able Learning Center",
+    "wof:parent_id":85837745,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "educational",
+        "program"
+    ]
+},
+  "bbox": [
+    -92.173418,
+    38.573841,
+    -92.173418,
+    38.573841
+],
+  "geometry": {"coordinates":[-92.173418,38.573841],"type":"Point"}
+}

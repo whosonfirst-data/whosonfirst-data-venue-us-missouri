@@ -1,0 +1,86 @@
+{
+  "id": 807139249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.239549,38.617255,-90.239549,38.617255",
+    "geom:latitude":38.617255,
+    "geom:longitude":-90.239549,
+    "iso:country":"US",
+    "sg:address":"3545 Lafayette Ave",
+    "sg:city":"Saint Louis",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        },
+        {
+            "category":"Education",
+            "subcategory":"University",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 977 3242",
+    "sg:postcode":"63104",
+    "sg:province":"MO",
+    "sg:tags":[
+        "college"
+    ],
+    "sg:website":"www.saintlouisuniversity.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873659,
+        102191575,
+        404518053,
+        85633793,
+        85971343,
+        102080791,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_63bE0qXkAy2hXuIQ8FbRGv_38.617255_-90.239549@1303262927"
+    },
+    "wof:country":"US",
+    "wof:created":1462604151,
+    "wof:geomhash":"eb81d139a29269a64ae97932846b6061",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080791,
+            "localadmin_id":404518053,
+            "locality_id":85971343,
+            "neighbourhood_id":85873659,
+            "region_id":85688661,
+            "venue_id":807139249
+        }
+    ],
+    "wof:id":807139249,
+    "wof:lastmodified":1462604151,
+    "wof:name":"Saint Louis University",
+    "wof:parent_id":85873659,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "college"
+    ]
+},
+  "bbox": [
+    -90.239549,
+    38.617255,
+    -90.239549,
+    38.617255
+],
+  "geometry": {"coordinates":[-90.239549,38.617255],"type":"Point"}
+}

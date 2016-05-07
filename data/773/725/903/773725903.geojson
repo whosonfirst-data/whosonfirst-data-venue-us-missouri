@@ -1,0 +1,77 @@
+{
+  "id": 773725903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.68707,39.209781,-94.68707,39.209781",
+    "geom:latitude":39.209781,
+    "geom:longitude":-94.68707,
+    "iso:country":"US",
+    "sg:address":"6208 NW Bell Rd",
+    "sg:city":"Parkville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 741 1498",
+    "sg:postcode":"64152",
+    "sg:province":"MO",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85840629,
+        102191575,
+        404517567,
+        85633793,
+        85970495,
+        102085271,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1o08oxCPLKsXHrx8MBO9Tj_39.209781_-94.687070@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462587921,
+    "wof:geomhash":"eee4262a518d191f5a90926da1bae088",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085271,
+            "localadmin_id":404517567,
+            "locality_id":85970495,
+            "neighbourhood_id":85840629,
+            "region_id":85688661,
+            "venue_id":773725903
+        }
+    ],
+    "wof:id":773725903,
+    "wof:lastmodified":1462587921,
+    "wof:name":"Dave's Foreign Car Repair",
+    "wof:parent_id":85840629,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -94.68707,
+    39.209781,
+    -94.68707,
+    39.209781
+],
+  "geometry": {"coordinates":[-94.68707000000001,39.209781],"type":"Point"}
+}

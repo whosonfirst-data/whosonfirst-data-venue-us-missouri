@@ -1,0 +1,84 @@
+{
+  "id": 790554459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.372918,38.688285,-90.372918,38.688285",
+    "geom:latitude":38.688285,
+    "geom:longitude":-90.372918,
+    "iso:country":"US",
+    "sg:address":"9804 Page Ave",
+    "sg:city":"St Louis",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Auto Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Motor Vehicles & Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 429 4994",
+    "sg:postcode":"63132",
+    "sg:province":"MO",
+    "sg:tags":[
+        "automotive",
+        "automobile",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85803699,
+        102191575,
+        404517323,
+        85633793,
+        85972315,
+        102086173,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0dFQMJvaa9H1odziaVszLl_38.688285_-90.372918@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462596833,
+    "wof:geomhash":"6e66b70c1f29bf1f71a57863ad1ff1ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086173,
+            "localadmin_id":404517323,
+            "locality_id":85972315,
+            "neighbourhood_id":85803699,
+            "region_id":85688661,
+            "venue_id":790554459
+        }
+    ],
+    "wof:id":790554459,
+    "wof:lastmodified":1462596833,
+    "wof:name":"St Louis Auto Panel Inc",
+    "wof:parent_id":85803699,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive",
+        "automobile",
+        "supply"
+    ]
+},
+  "bbox": [
+    -90.372918,
+    38.688285,
+    -90.372918,
+    38.688285
+],
+  "geometry": {"coordinates":[-90.372918,38.688285],"type":"Point"}
+}

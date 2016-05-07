@@ -1,0 +1,80 @@
+{
+  "id": 807060065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.5381,38.617174,-90.5381,38.617174",
+    "geom:latitude":38.617174,
+    "geom:longitude":-90.5381,
+    "iso:country":"US",
+    "sg:address":"14817 Clayton Rd",
+    "sg:city":"Chesterfield",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/lafayette/122171-quiznos-sub/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 227 5999",
+    "sg:postcode":"63017",
+    "sg:province":"MO",
+    "sg:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85831197,
+        102191575,
+        404517315,
+        85633793,
+        85972301,
+        102086173,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7FkixErcV2s4A2OO1o3bUQ_38.617174_-90.538100@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462603372,
+    "wof:geomhash":"6de5a3b1ce6858ca94ba97c98fe46027",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086173,
+            "localadmin_id":404517315,
+            "locality_id":85972301,
+            "neighbourhood_id":85831197,
+            "region_id":85688661,
+            "venue_id":807060065
+        }
+    ],
+    "wof:id":807060065,
+    "wof:lastmodified":1462603372,
+    "wof:name":"Quiznos Sub",
+    "wof:parent_id":85831197,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -90.5381,
+    38.617174,
+    -90.5381,
+    38.617174
+],
+  "geometry": {"coordinates":[-90.5381,38.617174],"type":"Point"}
+}

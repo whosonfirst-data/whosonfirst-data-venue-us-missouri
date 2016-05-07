@@ -1,0 +1,71 @@
+{
+  "id": 789890857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.750746,37.940133,-91.750746,37.940133",
+    "geom:latitude":37.940133,
+    "geom:longitude":-91.750746,
+    "iso:country":"US",
+    "sg:address":"60 Richard Dr",
+    "sg:city":"Rolla",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 364 0975",
+    "sg:postcode":"65401",
+    "sg:province":"MO",
+    "sg:tags":[
+        "painter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970821,
+        102086893,
+        85814531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7AeWdxovHpa8iNE8Y2gjnN_37.940133_-91.750746@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462591377,
+    "wof:geomhash":"d760e800806653a44bbb7309d7c29ef9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086893,
+            "locality_id":85970821,
+            "neighbourhood_id":85814531,
+            "region_id":85688661,
+            "venue_id":789890857
+        }
+    ],
+    "wof:id":789890857,
+    "wof:lastmodified":1462591377,
+    "wof:name":"Siehr Painting Inc",
+    "wof:parent_id":85814531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "painter"
+    ]
+},
+  "bbox": [
+    -91.750746,
+    37.940133,
+    -91.750746,
+    37.940133
+],
+  "geometry": {"coordinates":[-91.75074600000001,37.940133],"type":"Point"}
+}

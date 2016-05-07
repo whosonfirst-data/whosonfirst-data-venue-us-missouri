@@ -1,0 +1,75 @@
+{
+  "id": 806723995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.137141,38.560203,-92.137141,38.560203",
+    "geom:latitude":38.560203,
+    "geom:longitude":-92.137141,
+    "iso:country":"US",
+    "sg:address":"2130 E McCarty St",
+    "sg:city":"Jefferson City",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 636 6031",
+    "sg:postcode":"65101",
+    "sg:province":"MO",
+    "sg:tags":[
+        "local",
+        "storage",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970647,
+        102087511,
+        85837745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_26JWHw6UNIxUaUfCrhoTSE_38.560203_-92.137141@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462600537,
+    "wof:geomhash":"af973b6b256e28495fca601eb8b9a092",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087511,
+            "locality_id":85970647,
+            "neighbourhood_id":85837745,
+            "region_id":85688661,
+            "venue_id":806723995
+        }
+    ],
+    "wof:id":806723995,
+    "wof:lastmodified":1462600537,
+    "wof:name":"Midwest Moving & Storage",
+    "wof:parent_id":85837745,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "local",
+        "storage",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -92.137141,
+    38.560203,
+    -92.137141,
+    38.560203
+],
+  "geometry": {"coordinates":[-92.137141,38.560203],"type":"Point"}
+}

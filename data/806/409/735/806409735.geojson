@@ -1,0 +1,71 @@
+{
+  "id": 806409735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.522832,39.80612,-91.522832,39.80612",
+    "geom:latitude":39.80612,
+    "geom:longitude":-91.522832,
+    "iso:country":"US",
+    "sg:address":"823 N Main St",
+    "sg:city":"Palmyra",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 769 2644",
+    "sg:postcode":"63461",
+    "sg:province":"MO",
+    "sg:tags":[
+        "body"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688697,
+        85633793,
+        85938427,
+        102086213,
+        85867477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7UD4liWwooatXlRDi6bybt_39.806120_-91.522832@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462597924,
+    "wof:geomhash":"41e8f4f4500f2ea1cdb3732967bf06bd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086213,
+            "locality_id":85938427,
+            "neighbourhood_id":85867477,
+            "region_id":85688697,
+            "venue_id":806409735
+        }
+    ],
+    "wof:id":806409735,
+    "wof:lastmodified":1462597924,
+    "wof:name":"Lackey Auto Sales",
+    "wof:parent_id":85867477,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body"
+    ]
+},
+  "bbox": [
+    -91.522832,
+    39.80612,
+    -91.522832,
+    39.80612
+],
+  "geometry": {"coordinates":[-91.52283199999999,39.80612],"type":"Point"}
+}

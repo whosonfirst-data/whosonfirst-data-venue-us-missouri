@@ -1,0 +1,80 @@
+{
+  "id": 807247119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.575236,36.812685,-94.575236,36.812685",
+    "geom:latitude":36.812685,
+    "geom:longitude":-94.575236,
+    "iso:country":"US",
+    "sg:address":"18670 Hottle Springs Rd",
+    "sg:city":"Seneca",
+    "sg:classifiers":[
+        {
+            "category":"Transit Center",
+            "subcategory":"Freight",
+            "type":"Transportation"
+        },
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 776 8679",
+    "sg:postcode":"64865",
+    "sg:province":"MO",
+    "sg:tags":[
+        "local",
+        "trucking-motor",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971289,
+        102087471,
+        85814333
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_50qf9eqd8N1a1meO1VSQlL_36.812685_-94.575236@1303262934"
+    },
+    "wof:country":"US",
+    "wof:created":1462605296,
+    "wof:geomhash":"3a2b903e932d9f8146d44c597ca4e7fc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087471,
+            "locality_id":85971289,
+            "neighbourhood_id":85814333,
+            "region_id":85688661,
+            "venue_id":807247119
+        }
+    ],
+    "wof:id":807247119,
+    "wof:lastmodified":1462605296,
+    "wof:name":"Hank Marsh Trucking",
+    "wof:parent_id":85814333,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "local",
+        "trucking-motor",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -94.575236,
+    36.812685,
+    -94.575236,
+    36.812685
+],
+  "geometry": {"coordinates":[-94.575236,36.812685],"type":"Point"}
+}

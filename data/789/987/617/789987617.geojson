@@ -1,0 +1,76 @@
+{
+  "id": 789987617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.447323,38.879326,-90.447323,38.879326",
+    "geom:latitude":38.879326,
+    "geom:longitude":-90.447323,
+    "iso:country":"US",
+    "sg:address":"24 Main St",
+    "sg:city":"St Charles",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Farm Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Garden Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 250 3805",
+    "sg:postcode":"63301",
+    "sg:province":"MO",
+    "sg:tags":[
+        "fertilizer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4aXq7fkTGHS3liGNct1wyV_38.879326_-90.447323@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462592229,
+    "wof:geomhash":"6402050bfbb1a5be1501ad91bb0f33f3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":789987617
+        }
+    ],
+    "wof:id":789987617,
+    "wof:lastmodified":1462592229,
+    "wof:name":"St Charles County Coop Co",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fertilizer"
+    ]
+},
+  "bbox": [
+    -90.447323,
+    38.879326,
+    -90.447323,
+    38.879326
+],
+  "geometry": {"coordinates":[-90.447323,38.879326],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 806864051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.574584,38.410488,-90.574584,38.410488",
+    "geom:latitude":38.410488,
+    "geom:longitude":-90.574584,
+    "iso:country":"US",
+    "sg:address":"4581 Gravois Rd",
+    "sg:city":"House Springs",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 671 3462",
+    "sg:postcode":"63051",
+    "sg:province":"MO",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971019,
+        102080787,
+        85817237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4f83Tcqz53G3Z6AcI9BP7p_38.410488_-90.574584@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462601726,
+    "wof:geomhash":"88f02eeeaf964031789a6e61a46d41dd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080787,
+            "locality_id":85971019,
+            "neighbourhood_id":85817237,
+            "region_id":85688661,
+            "venue_id":806864051
+        }
+    ],
+    "wof:id":806864051,
+    "wof:lastmodified":1462601726,
+    "wof:name":"Almiron Clinic",
+    "wof:parent_id":85817237,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -90.574584,
+    38.410488,
+    -90.574584,
+    38.410488
+],
+  "geometry": {"coordinates":[-90.574584,38.410488],"type":"Point"}
+}

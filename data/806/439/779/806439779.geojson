@@ -1,0 +1,73 @@
+{
+  "id": 806439779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.211862,39.342631,-91.211862,39.342631",
+    "geom:latitude":39.342631,
+    "geom:longitude":-91.211862,
+    "iso:country":"US",
+    "sg:address":"16 N 18th St",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 324 5952",
+    "sg:postcode":"63334",
+    "sg:province":"MO",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971907,
+        102086151,
+        85817909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5mQ9hffoNlCvFYbXrPzNmB_39.342631_-91.211862@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462598167,
+    "wof:geomhash":"a54bcd88ae09bfff5ca30db49009873b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086151,
+            "locality_id":85971907,
+            "neighbourhood_id":85817909,
+            "region_id":85688661,
+            "venue_id":806439779
+        }
+    ],
+    "wof:id":806439779,
+    "wof:lastmodified":1462598167,
+    "wof:name":"Bowling Green Apartments",
+    "wof:parent_id":85817909,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -91.211862,
+    39.342631,
+    -91.211862,
+    39.342631
+],
+  "geometry": {"coordinates":[-91.211862,39.342631],"type":"Point"}
+}

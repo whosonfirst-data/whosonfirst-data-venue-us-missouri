@@ -1,0 +1,88 @@
+{
+  "id": 789859051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.499551,38.571666,-90.499551,38.571666",
+    "geom:latitude":38.571666,
+    "geom:longitude":-90.499551,
+    "iso:country":"US",
+    "sg:address":"3 Silveroak Ct",
+    "sg:city":"Ballwin",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 225 3502",
+    "sg:postcode":"63021",
+    "sg:province":"MO",
+    "sg:tags":[
+        "repair",
+        "type",
+        "carpentry",
+        "door",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85841473,
+        102191575,
+        404517461,
+        85633793,
+        85972241,
+        102086173,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5gavxYDRBZzUFSuNIBLpOE_38.571666_-90.499551@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462591096,
+    "wof:geomhash":"4b54fd4f7936d6abf66a5781681ce47e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086173,
+            "localadmin_id":404517461,
+            "locality_id":85972241,
+            "neighbourhood_id":85841473,
+            "region_id":85688661,
+            "venue_id":789859051
+        }
+    ],
+    "wof:id":789859051,
+    "wof:lastmodified":1462591096,
+    "wof:name":"Schmitt Door Company",
+    "wof:parent_id":85841473,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair",
+        "type",
+        "carpentry",
+        "door",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -90.499551,
+    38.571666,
+    -90.499551,
+    38.571666
+],
+  "geometry": {"coordinates":[-90.499551,38.571666],"type":"Point"}
+}

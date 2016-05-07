@@ -1,0 +1,80 @@
+{
+  "id": 807058703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.484101,38.596495,-90.484101,38.596495",
+    "geom:latitude":38.596495,
+    "geom:longitude":-90.484101,
+    "iso:country":"US",
+    "sg:address":"13901 Manchester Rd",
+    "sg:city":"Ballwin",
+    "sg:classifiers":[
+        {
+            "category":"Deli",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/missouri-river/127519-blimpie-subs--sandwiches/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 527 1993",
+    "sg:postcode":"63011",
+    "sg:province":"MO",
+    "sg:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85802943,
+        102191575,
+        404517387,
+        85633793,
+        85972231,
+        102086173,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ytZgym6pRGDVGi09ih3UK_38.596495_-90.484101@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462603361,
+    "wof:geomhash":"d51d3de53feeab46621a34612b940afa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086173,
+            "localadmin_id":404517387,
+            "locality_id":85972231,
+            "neighbourhood_id":85802943,
+            "region_id":85688661,
+            "venue_id":807058703
+        }
+    ],
+    "wof:id":807058703,
+    "wof:lastmodified":1462603361,
+    "wof:name":"Blimpie Subs & Sandwiches",
+    "wof:parent_id":85802943,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -90.484101,
+    38.596495,
+    -90.484101,
+    38.596495
+],
+  "geometry": {"coordinates":[-90.484101,38.596495],"type":"Point"}
+}

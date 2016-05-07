@@ -1,0 +1,80 @@
+{
+  "id": 807191489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.428853,37.769414,-90.428853,37.769414",
+    "geom:latitude":37.769414,
+    "geom:longitude":-90.428853,
+    "iso:country":"US",
+    "sg:address":"1224 E Lark Cir",
+    "sg:city":"Farmington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Mobile Homes",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 756 7030",
+    "sg:postcode":"63640",
+    "sg:province":"MO",
+    "sg:tags":[
+        "manufactured",
+        "housing-communities",
+        "park"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970665,
+        102085297,
+        85816309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7J3iqSbkBBO2Hd08vlDmwh_37.769414_-90.428853@1303262931"
+    },
+    "wof:country":"US",
+    "wof:created":1462604704,
+    "wof:geomhash":"18ca39d36ff09f71e9a1d61f395b3150",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085297,
+            "locality_id":85970665,
+            "neighbourhood_id":85816309,
+            "region_id":85688661,
+            "venue_id":807191489
+        }
+    ],
+    "wof:id":807191489,
+    "wof:lastmodified":1462604704,
+    "wof:name":"The Meadows Mobile Home Park",
+    "wof:parent_id":85816309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "manufactured",
+        "housing-communities",
+        "park"
+    ]
+},
+  "bbox": [
+    -90.428853,
+    37.769414,
+    -90.428853,
+    37.769414
+],
+  "geometry": {"coordinates":[-90.428853,37.769414],"type":"Point"}
+}

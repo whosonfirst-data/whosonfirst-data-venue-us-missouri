@@ -1,0 +1,80 @@
+{
+  "id": 790002779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.430249,37.801665,-90.430249,37.801665",
+    "geom:latitude":37.801665,
+    "geom:longitude":-90.430249,
+    "iso:country":"US",
+    "sg:address":"607 Wallace Rd",
+    "sg:city":"Farmington",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        },
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 756 1376",
+    "sg:postcode":"63640",
+    "sg:province":"MO",
+    "sg:tags":[
+        "organization",
+        "senior",
+        "citizen"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970665,
+        102085297,
+        85816309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0KuvfPzYBjsBwmIE8Kl5xZ_37.801665_-90.430249@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462592349,
+    "wof:geomhash":"70d629bb553f7b702e948a0b6041da29",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085297,
+            "locality_id":85970665,
+            "neighbourhood_id":85816309,
+            "region_id":85688661,
+            "venue_id":790002779
+        }
+    ],
+    "wof:id":790002779,
+    "wof:lastmodified":1462592349,
+    "wof:name":"Farmington Senior Center",
+    "wof:parent_id":85816309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organization",
+        "senior",
+        "citizen"
+    ]
+},
+  "bbox": [
+    -90.430249,
+    37.801665,
+    -90.430249,
+    37.801665
+],
+  "geometry": {"coordinates":[-90.430249,37.801665],"type":"Point"}
+}

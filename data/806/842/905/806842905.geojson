@@ -1,0 +1,71 @@
+{
+  "id": 806842905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.630094,38.790395,-90.630094,38.790395",
+    "geom:latitude":38.790395,
+    "geom:longitude":-90.630094,
+    "iso:country":"US",
+    "sg:address":"605 S Church St",
+    "sg:city":"Saint Peters",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 397 1960",
+    "sg:postcode":"63376",
+    "sg:province":"MO",
+    "sg:tags":[
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_49jljsTLQgdAdBJ3O7mTHG_38.790395_-90.630094@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462601534,
+    "wof:geomhash":"f72508aa698d9c67a734b43e7decf60f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":806842905
+        }
+    ],
+    "wof:id":806842905,
+    "wof:lastmodified":1462601534,
+    "wof:name":"St Peters Child Dev Ctr",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "day"
+    ]
+},
+  "bbox": [
+    -90.630094,
+    38.790395,
+    -90.630094,
+    38.790395
+],
+  "geometry": {"coordinates":[-90.630094,38.790395],"type":"Point"}
+}

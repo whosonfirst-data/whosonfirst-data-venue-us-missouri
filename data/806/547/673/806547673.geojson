@@ -1,0 +1,73 @@
+{
+  "id": 806547673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.661282,39.244266,-94.661282,39.244266",
+    "geom:latitude":39.244266,
+    "geom:longitude":-94.661282,
+    "iso:country":"US",
+    "sg:address":"7100 NW 83 St",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 587 8015",
+    "sg:postcode":"64152",
+    "sg:province":"MO",
+    "sg:tags":[
+        "automobile",
+        "lubrication"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970739,
+        102085271,
+        85851839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7dSl6BxmFDZ62ToOCoAQwc_39.244266_-94.661282@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462599016,
+    "wof:geomhash":"ed499bf8f64ee3207bb5e884c02d2032",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085271,
+            "locality_id":85970739,
+            "neighbourhood_id":85851839,
+            "region_id":85688661,
+            "venue_id":806547673
+        }
+    ],
+    "wof:id":806547673,
+    "wof:lastmodified":1462599016,
+    "wof:name":"Jiffy Lube",
+    "wof:parent_id":85851839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "lubrication"
+    ]
+},
+  "bbox": [
+    -94.661282,
+    39.244266,
+    -94.661282,
+    39.244266
+],
+  "geometry": {"coordinates":[-94.661282,39.244266],"type":"Point"}
+}

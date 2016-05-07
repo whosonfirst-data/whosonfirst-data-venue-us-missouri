@@ -1,0 +1,71 @@
+{
+  "id": 773505583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.614061,36.508466,-94.614061,36.508466",
+    "geom:latitude":36.508466,
+    "geom:longitude":-94.614061,
+    "iso:country":"US",
+    "sg:address":"816 S Main St",
+    "sg:city":"South West City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 762 5500",
+    "sg:postcode":"64863",
+    "sg:province":"MO",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972127,
+        102085305,
+        85850627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ejp8tpPLhVVWRQ0prJ71t_36.508466_-94.614061@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462586244,
+    "wof:geomhash":"727f01e94eca5e4f97735efda42aef74",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085305,
+            "locality_id":85972127,
+            "neighbourhood_id":85850627,
+            "region_id":85688661,
+            "venue_id":773505583
+        }
+    ],
+    "wof:id":773505583,
+    "wof:lastmodified":1462586244,
+    "wof:name":"Southwest City Vet Clinic",
+    "wof:parent_id":85850627,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -94.614061,
+    36.508466,
+    -94.614061,
+    36.508466
+],
+  "geometry": {"coordinates":[-94.61406100000001,36.508466],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 806982801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.250326,38.704581,-90.250326,38.704581",
+    "geom:latitude":38.704581,
+    "geom:longitude":-90.250326,
+    "iso:country":"US",
+    "sg:address":"5400 Partridge Ave",
+    "sg:city":"St Louis",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 381 5746",
+    "sg:postcode":"63120",
+    "sg:province":"MO",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873605,
+        102191575,
+        404518053,
+        85633793,
+        85971343,
+        102080791,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_49z8gPqvcxm0oqxfKSYfbp_38.704581_-90.250326@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462602716,
+    "wof:geomhash":"fcb1ee01716cd8c2c2c79f97a6cc8664",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080791,
+            "localadmin_id":404518053,
+            "locality_id":85971343,
+            "neighbourhood_id":85873605,
+            "region_id":85688661,
+            "venue_id":806982801
+        }
+    ],
+    "wof:id":806982801,
+    "wof:lastmodified":1462602716,
+    "wof:name":"Church's Chicken",
+    "wof:parent_id":85873605,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -90.250326,
+    38.704581,
+    -90.250326,
+    38.704581
+],
+  "geometry": {"coordinates":[-90.250326,38.704581],"type":"Point"}
+}

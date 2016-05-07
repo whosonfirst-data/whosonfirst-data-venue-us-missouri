@@ -1,0 +1,81 @@
+{
+  "id": 790605131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.446721,39.270115,-94.446721,39.270115",
+    "geom:latitude":39.270115,
+    "geom:longitude":-94.446721,
+    "iso:country":"US",
+    "sg:address":"10501 NE 97th Ter",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Candy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 853 2125",
+    "sg:postcode":"64157",
+    "sg:province":"MO",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420525367,
+        102191575,
+        404516717,
+        85633793,
+        85972461,
+        102086177,
+        85688661,
+        420525305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2j3g8JCcgXo8R8glf70BWF_39.270115_-94.446721@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462597264,
+    "wof:geomhash":"073df9399e8319c0d1fc9dd0037242d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086177,
+            "localadmin_id":404516717,
+            "locality_id":85972461,
+            "neighbourhood_id":420525367,
+            "region_id":85688661,
+            "venue_id":790605131
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086177,
+            "localadmin_id":404516717,
+            "locality_id":85972461,
+            "neighbourhood_id":420525305,
+            "region_id":85688661,
+            "venue_id":790605131
+        }
+    ],
+    "wof:id":790605131,
+    "wof:lastmodified":1462597264,
+    "wof:name":"Say It With Chocolate",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -94.446721,
+    39.270115,
+    -94.446721,
+    39.270115
+],
+  "geometry": {"coordinates":[-94.446721,39.270115],"type":"Point"}
+}

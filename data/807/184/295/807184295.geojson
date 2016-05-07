@@ -1,0 +1,80 @@
+{
+  "id": 807184295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.873512,38.832478,-90.873512,38.832478",
+    "geom:latitude":38.832478,
+    "geom:longitude":-90.873512,
+    "iso:country":"US",
+    "sg:address":"116 Ashford Oaks Ct",
+    "sg:city":"Wentzville",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 887 2145",
+    "sg:postcode":"63385",
+    "sg:province":"MO",
+    "sg:tags":[
+        "concrete",
+        "staining",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0OkXpy4orcFMzNZNL1TeYT_38.832478_-90.873512@1303262930"
+    },
+    "wof:country":"US",
+    "wof:created":1462604628,
+    "wof:geomhash":"608c5699493e84f8dd399e770c36b16c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":807184295
+        }
+    ],
+    "wof:id":807184295,
+    "wof:lastmodified":1462604628,
+    "wof:name":"Concrete Alibi",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "staining",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -90.873512,
+    38.832478,
+    -90.873512,
+    38.832478
+],
+  "geometry": {"coordinates":[-90.87351200000001,38.832478],"type":"Point"}
+}

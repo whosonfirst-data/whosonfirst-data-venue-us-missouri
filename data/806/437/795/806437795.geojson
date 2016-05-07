@@ -1,0 +1,71 @@
+{
+  "id": 806437795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.534932,38.786384,-90.534932,38.786384",
+    "geom:latitude":38.786384,
+    "geom:longitude":-90.534932,
+    "iso:country":"US",
+    "sg:address":"1040 Country Club Rd",
+    "sg:city":"St Charles",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Jewelry",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 947 9890",
+    "sg:postcode":"63303",
+    "sg:province":"MO",
+    "sg:tags":[
+        "jeweler"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0pSVPgEgyTC5atZ9inQlaN_38.786384_-90.534932@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462598148,
+    "wof:geomhash":"662d49c874a5c59948cf55e014e87108",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":806437795
+        }
+    ],
+    "wof:id":806437795,
+    "wof:lastmodified":1462598148,
+    "wof:name":"Hart Jewelers",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "jeweler"
+    ]
+},
+  "bbox": [
+    -90.534932,
+    38.786384,
+    -90.534932,
+    38.786384
+],
+  "geometry": {"coordinates":[-90.534932,38.786384],"type":"Point"}
+}

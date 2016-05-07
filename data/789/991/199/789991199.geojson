@@ -1,0 +1,75 @@
+{
+  "id": 789991199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.488896,38.781672,-90.488896,38.781672",
+    "geom:latitude":38.781672,
+    "geom:longitude":-90.488896,
+    "iso:country":"US",
+    "sg:address":"559 First Capitol Dr",
+    "sg:city":"St Charles",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 669 5282",
+    "sg:postcode":"63301",
+    "sg:province":"MO",
+    "sg:tags":[
+        "shop",
+        "coffee",
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5QAxS3a6ImFRSJdzKBgwVR_38.781672_-90.488896@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462592259,
+    "wof:geomhash":"4c302be1c1c6cef3bc11f99103e74d4c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":789991199
+        }
+    ],
+    "wof:id":789991199,
+    "wof:lastmodified":1462592259,
+    "wof:name":"Crooked Tree Coffee House",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "coffee",
+        "eating"
+    ]
+},
+  "bbox": [
+    -90.488896,
+    38.781672,
+    -90.488896,
+    38.781672
+],
+  "geometry": {"coordinates":[-90.488896,38.781672],"type":"Point"}
+}

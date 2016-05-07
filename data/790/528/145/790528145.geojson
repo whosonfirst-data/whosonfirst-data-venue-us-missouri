@@ -1,0 +1,71 @@
+{
+  "id": 790528145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.13732,38.523108,-92.13732,38.523108",
+    "geom:latitude":38.523108,
+    "geom:longitude":-92.13732,
+    "iso:country":"US",
+    "sg:address":"4217 Bald Hill Rd",
+    "sg:city":"Jefferson City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 636 9090",
+    "sg:postcode":"65101",
+    "sg:province":"MO",
+    "sg:tags":[
+        "upholsterer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970647,
+        102087511,
+        85837745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7fZfOLY18p9OSLrm7dyu79_38.523108_-92.137320@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462596609,
+    "wof:geomhash":"d13d6b8f7cc3a695e43c242c1485e960",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087511,
+            "locality_id":85970647,
+            "neighbourhood_id":85837745,
+            "region_id":85688661,
+            "venue_id":790528145
+        }
+    ],
+    "wof:id":790528145,
+    "wof:lastmodified":1462596609,
+    "wof:name":"Nick's Auto Upholstery",
+    "wof:parent_id":85837745,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "upholsterer"
+    ]
+},
+  "bbox": [
+    -92.13732,
+    38.523108,
+    -92.13732,
+    38.523108
+],
+  "geometry": {"coordinates":[-92.13732,38.523108],"type":"Point"}
+}

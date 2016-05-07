@@ -1,0 +1,73 @@
+{
+  "id": 789626915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.446469,37.777925,-90.446469,37.777925",
+    "geom:latitude":37.777925,
+    "geom:longitude":-90.446469,
+    "iso:country":"US",
+    "sg:address":"1600 W Liberty St",
+    "sg:city":"Farmington",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 760 2935",
+    "sg:postcode":"63640",
+    "sg:province":"MO",
+    "sg:tags":[
+        "building",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970665,
+        102085297,
+        85816309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3edVJpa2UOZ4pl4cDJhYDu_37.777925_-90.446469@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462589270,
+    "wof:geomhash":"5b80c145c142191eb313f10e7e57940d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085297,
+            "locality_id":85970665,
+            "neighbourhood_id":85816309,
+            "region_id":85688661,
+            "venue_id":789626915
+        }
+    ],
+    "wof:id":789626915,
+    "wof:lastmodified":1462589270,
+    "wof:name":"A E-E Self Storage",
+    "wof:parent_id":85816309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "storage"
+    ]
+},
+  "bbox": [
+    -90.446469,
+    37.777925,
+    -90.446469,
+    37.777925
+],
+  "geometry": {"coordinates":[-90.44646899999999,37.777925],"type":"Point"}
+}

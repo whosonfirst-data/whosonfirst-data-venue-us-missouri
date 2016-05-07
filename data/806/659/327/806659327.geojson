@@ -1,0 +1,71 @@
+{
+  "id": 806659327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.769402,37.924806,-91.769402,37.924806",
+    "geom:latitude":37.924806,
+    "geom:longitude":-91.769402,
+    "iso:country":"US",
+    "sg:address":"104 Shady Ln",
+    "sg:city":"Rolla",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 426 4858",
+    "sg:postcode":"65401",
+    "sg:province":"MO",
+    "sg:tags":[
+        "carwash"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970821,
+        102086893,
+        85814531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5DuL6Z1wcxIA4Pj0EXntrw_37.924806_-91.769402@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462599990,
+    "wof:geomhash":"a38d2871d1bde73390584cfe5061e2fe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086893,
+            "locality_id":85970821,
+            "neighbourhood_id":85814531,
+            "region_id":85688661,
+            "venue_id":806659327
+        }
+    ],
+    "wof:id":806659327,
+    "wof:lastmodified":1462599990,
+    "wof:name":"Route 66 Detail Shop",
+    "wof:parent_id":85814531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carwash"
+    ]
+},
+  "bbox": [
+    -91.769402,
+    37.924806,
+    -91.769402,
+    37.924806
+],
+  "geometry": {"coordinates":[-91.769402,37.924806],"type":"Point"}
+}

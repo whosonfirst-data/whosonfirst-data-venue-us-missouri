@@ -1,0 +1,71 @@
+{
+  "id": 806915077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.773485,37.958067,-91.773485,37.958067",
+    "geom:latitude":37.958067,
+    "geom:longitude":-91.773485,
+    "iso:country":"US",
+    "sg:address":"1601 N Bishop Ave",
+    "sg:city":"Rolla",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 364 3696",
+    "sg:postcode":"65401",
+    "sg:province":"MO",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970821,
+        102086893,
+        85814531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3LW2miv9tQLu2EYUKs31Yv_37.958067_-91.773485@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462602135,
+    "wof:geomhash":"b3ff5bd4ac24d8e381504bc57e0e7915",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086893,
+            "locality_id":85970821,
+            "neighbourhood_id":85814531,
+            "region_id":85688661,
+            "venue_id":806915077
+        }
+    ],
+    "wof:id":806915077,
+    "wof:lastmodified":1462602135,
+    "wof:name":"Regional Neurology Center",
+    "wof:parent_id":85814531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -91.773485,
+    37.958067,
+    -91.773485,
+    37.958067
+],
+  "geometry": {"coordinates":[-91.77348499999999,37.958067],"type":"Point"}
+}

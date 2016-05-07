@@ -1,0 +1,73 @@
+{
+  "id": 789624169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.360094,39.135469,-94.360094,39.135469",
+    "geom:latitude":39.135469,
+    "geom:longitude":-94.360094,
+    "iso:country":"US",
+    "sg:address":"1711 N Cherokee St",
+    "sg:city":"Independence",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 796 0288",
+    "sg:postcode":"64058",
+    "sg:province":"MO",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971449,
+        102081227,
+        85844675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1pNQMG42Lrzvabslqwnxtk_39.135469_-94.360094@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462589251,
+    "wof:geomhash":"a4f8919e5c26425f8455c5ccd9f12f52",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081227,
+            "locality_id":85971449,
+            "neighbourhood_id":85844675,
+            "region_id":85688661,
+            "venue_id":789624169
+        }
+    ],
+    "wof:id":789624169,
+    "wof:lastmodified":1462589251,
+    "wof:name":"Becks Plumbing & Heating",
+    "wof:parent_id":85844675,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -94.360094,
+    39.135469,
+    -94.360094,
+    39.135469
+],
+  "geometry": {"coordinates":[-94.360094,39.135469],"type":"Point"}
+}

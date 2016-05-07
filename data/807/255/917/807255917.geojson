@@ -1,0 +1,71 @@
+{
+  "id": 807255917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.2925,38.984994,-92.2925,38.984994",
+    "geom:latitude":38.984994,
+    "geom:longitude":-92.2925,
+    "iso:country":"US",
+    "sg:address":"3008 David Dr Ste C",
+    "sg:city":"Columbia",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 725 9500",
+    "sg:postcode":"65202",
+    "sg:province":"MO",
+    "sg:tags":[
+        "electrician"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970425,
+        102086187,
+        85851713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2GZhEjs7ZABlwgmLNk9eDW_38.984994_-92.292500@1303262935"
+    },
+    "wof:country":"US",
+    "wof:created":1462605387,
+    "wof:geomhash":"537481a3c3e8142f34fd332a2286aea2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086187,
+            "locality_id":85970425,
+            "neighbourhood_id":85851713,
+            "region_id":85688661,
+            "venue_id":807255917
+        }
+    ],
+    "wof:id":807255917,
+    "wof:lastmodified":1462605387,
+    "wof:name":"Allphase Electric",
+    "wof:parent_id":85851713,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrician"
+    ]
+},
+  "bbox": [
+    -92.2925,
+    38.984994,
+    -92.2925,
+    38.984994
+],
+  "geometry": {"coordinates":[-92.2925,38.984994],"type":"Point"}
+}

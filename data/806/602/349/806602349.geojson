@@ -1,0 +1,71 @@
+{
+  "id": 806602349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.344911,39.692118,-91.344911,39.692118",
+    "geom:latitude":39.692118,
+    "geom:longitude":-91.344911,
+    "iso:country":"US",
+    "sg:address":"2340 Fulton Ave",
+    "sg:city":"Hannibal",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Developer",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 221 0655",
+    "sg:postcode":"63401",
+    "sg:province":"MO",
+    "sg:tags":[
+        "cemetery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688697,
+        85633793,
+        85938427,
+        102086213,
+        85867477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Bb38MOcMZ0KsgHiJsxSzp_39.692118_-91.344911@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462599509,
+    "wof:geomhash":"8ad1b0e10428fcddfe9c97781cd27104",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086213,
+            "locality_id":85938427,
+            "neighbourhood_id":85867477,
+            "region_id":85688697,
+            "venue_id":806602349
+        }
+    ],
+    "wof:id":806602349,
+    "wof:lastmodified":1462599509,
+    "wof:name":"Mt Olivet Cemetery Assn",
+    "wof:parent_id":85867477,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cemetery"
+    ]
+},
+  "bbox": [
+    -91.344911,
+    39.692118,
+    -91.344911,
+    39.692118
+],
+  "geometry": {"coordinates":[-91.344911,39.692118],"type":"Point"}
+}

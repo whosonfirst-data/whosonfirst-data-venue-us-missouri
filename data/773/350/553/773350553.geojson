@@ -1,0 +1,73 @@
+{
+  "id": 773350553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.557326,38.791717,-90.557326,38.791717",
+    "geom:latitude":38.791717,
+    "geom:longitude":-90.557326,
+    "iso:country":"US",
+    "sg:address":"3736 W Clay St",
+    "sg:city":"St Charles",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 503 4738",
+    "sg:postcode":"63301",
+    "sg:province":"MO",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2vhMVqdms5zEYWRe4bHvrB_38.791717_-90.557326@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462585049,
+    "wof:geomhash":"ad8cae1126770343da7987ce50a807f6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":773350553
+        }
+    ],
+    "wof:id":773350553,
+    "wof:lastmodified":1462585049,
+    "wof:name":"Cars Unlimited",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -90.557326,
+    38.791717,
+    -90.557326,
+    38.791717
+],
+  "geometry": {"coordinates":[-90.557326,38.791717],"type":"Point"}
+}

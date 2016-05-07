@@ -1,0 +1,73 @@
+{
+  "id": 773290673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.235162,39.354671,-94.235162,39.354671",
+    "geom:latitude":39.354671,
+    "geom:longitude":-94.235162,
+    "iso:country":"US",
+    "sg:address":"1236 N Jesse James Rd",
+    "sg:city":"Excelsior Springs",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 637 6118",
+    "sg:postcode":"64024",
+    "sg:province":"MO",
+    "sg:tags":[
+        "drug",
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971507,
+        102086177,
+        85822189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5YUXthCTUlmjUGvhJPdNaI_39.354671_-94.235162@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462584604,
+    "wof:geomhash":"cdc3815e1fb7bd44654ba2922d0a9882",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086177,
+            "locality_id":85971507,
+            "neighbourhood_id":85822189,
+            "region_id":85688661,
+            "venue_id":773290673
+        }
+    ],
+    "wof:id":773290673,
+    "wof:lastmodified":1462584604,
+    "wof:name":"Monroe Pharmacy",
+    "wof:parent_id":85822189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drug",
+        "store"
+    ]
+},
+  "bbox": [
+    -94.235162,
+    39.354671,
+    -94.235162,
+    39.354671
+],
+  "geometry": {"coordinates":[-94.235162,39.354671],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 789815011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.425335,38.354236,-90.425335,38.354236",
+    "geom:latitude":38.354236,
+    "geom:longitude":-90.425335,
+    "iso:country":"US",
+    "sg:address":"6645 Moss Hollow Rd",
+    "sg:city":"Barnhart",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Water",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 942 3869",
+    "sg:postcode":"63012",
+    "sg:province":"MO",
+    "sg:tags":[
+        "system",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85805175,
+        102080787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0hV6vhuzsBOwtA2lX8W40q_38.354236_-90.425335@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462590752,
+    "wof:geomhash":"9191ef421f2e6430c8d3bfb429180afc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080787,
+            "neighbourhood_id":85805175,
+            "region_id":85688661,
+            "venue_id":789815011
+        }
+    ],
+    "wof:id":789815011,
+    "wof:lastmodified":1462590752,
+    "wof:name":"Public Water Supply",
+    "wof:parent_id":85805175,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "system",
+        "supply"
+    ]
+},
+  "bbox": [
+    -90.425335,
+    38.354236,
+    -90.425335,
+    38.354236
+],
+  "geometry": {"coordinates":[-90.425335,38.354236],"type":"Point"}
+}

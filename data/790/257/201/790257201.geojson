@@ -1,0 +1,71 @@
+{
+  "id": 790257201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.753859,37.955921,-91.753859,37.955921",
+    "geom:latitude":37.955921,
+    "geom:longitude":-91.753859,
+    "iso:country":"US",
+    "sg:address":"1206 Homelife Plz",
+    "sg:city":"Rolla",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 364 2007",
+    "sg:postcode":"65401",
+    "sg:province":"MO",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970821,
+        102086893,
+        85814531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0yHXdKOtXp104NBGpgP7j8_37.955921_-91.753859@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462594399,
+    "wof:geomhash":"cbbdb8418a685f39e43f3e0596a89907",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086893,
+            "locality_id":85970821,
+            "neighbourhood_id":85814531,
+            "region_id":85688661,
+            "venue_id":790257201
+        }
+    ],
+    "wof:id":790257201,
+    "wof:lastmodified":1462594399,
+    "wof:name":"Center Clinic Phelps",
+    "wof:parent_id":85814531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -91.753859,
+    37.955921,
+    -91.753859,
+    37.955921
+],
+  "geometry": {"coordinates":[-91.75385900000001,37.955921],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 773143447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.372451,37.276589,-93.372451,37.276589",
+    "geom:latitude":37.276589,
+    "geom:longitude":-93.372451,
+    "iso:country":"US",
+    "sg:address":"4635 Stick Horse Ln",
+    "sg:city":"Springfield",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 736 9220",
+    "sg:postcode":"65803",
+    "sg:province":"MO",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971363,
+        102087523,
+        85881139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1WtVpYnLVSmYHsQCsNXlrs_37.276589_-93.372451@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462583458,
+    "wof:geomhash":"7dadb256dd18f4675474fad508a907cc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087523,
+            "locality_id":85971363,
+            "neighbourhood_id":85881139,
+            "region_id":85688661,
+            "venue_id":773143447
+        }
+    ],
+    "wof:id":773143447,
+    "wof:lastmodified":1462583458,
+    "wof:name":"Springfield Equine Svc",
+    "wof:parent_id":85881139,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -93.372451,
+    37.276589,
+    -93.372451,
+    37.276589
+],
+  "geometry": {"coordinates":[-93.372451,37.276589],"type":"Point"}
+}

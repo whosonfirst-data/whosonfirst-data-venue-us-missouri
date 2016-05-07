@@ -1,0 +1,73 @@
+{
+  "id": 789920589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.566703,37.10785,-94.566703,37.10785",
+    "geom:latitude":37.10785,
+    "geom:longitude":-94.566703,
+    "iso:country":"US",
+    "sg:address":"1550 N Black Cat Rd",
+    "sg:city":"Joplin",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 782 7475",
+    "sg:postcode":"64801",
+    "sg:province":"MO",
+    "sg:tags":[
+        "roofing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970893,
+        102087525,
+        85810925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5u7STfi38hHhkkYEIIDBNZ_37.107850_-94.566703@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462591631,
+    "wof:geomhash":"bbd4c6922fa8766f523a971521f111b1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087525,
+            "locality_id":85970893,
+            "neighbourhood_id":85810925,
+            "region_id":85688661,
+            "venue_id":789920589
+        }
+    ],
+    "wof:id":789920589,
+    "wof:lastmodified":1462591631,
+    "wof:name":"Taylor Roofing",
+    "wof:parent_id":85810925,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "roofing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -94.566703,
+    37.10785,
+    -94.566703,
+    37.10785
+],
+  "geometry": {"coordinates":[-94.566703,37.10785],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 773573381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.428023,36.783794,-90.428023,36.783794",
+    "geom:latitude":36.783794,
+    "geom:longitude":-90.428023,
+    "iso:country":"US",
+    "sg:address":"2511 N Westwood Blvd",
+    "sg:city":"Poplar Bluff",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 686 5866",
+    "sg:postcode":"63901",
+    "sg:province":"MO",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85831235,
+        102087491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3isbBttmf7SdnIf3bBCM14_36.783794_-90.428023@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462586755,
+    "wof:geomhash":"cda1f7d95ca960529333f4b60f617872",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087491,
+            "neighbourhood_id":85831235,
+            "region_id":85688661,
+            "venue_id":773573381
+        }
+    ],
+    "wof:id":773573381,
+    "wof:lastmodified":1462586755,
+    "wof:name":"Marion Eye Ctr",
+    "wof:parent_id":85831235,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -90.428023,
+    36.783794,
+    -90.428023,
+    36.783794
+],
+  "geometry": {"coordinates":[-90.428023,36.783794],"type":"Point"}
+}

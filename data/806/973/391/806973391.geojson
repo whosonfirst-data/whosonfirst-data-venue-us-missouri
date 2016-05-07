@@ -1,0 +1,71 @@
+{
+  "id": 806973391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.469879,38.25691,-90.469879,38.25691",
+    "geom:latitude":38.25691,
+    "geom:longitude":-90.469879,
+    "iso:country":"US",
+    "sg:address":"9600 Draw Bridge Ln",
+    "sg:city":"Hillsboro",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 479 7229",
+    "sg:postcode":"63050",
+    "sg:province":"MO",
+    "sg:tags":[
+        "janitor",
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85848677,
+        102080787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0he2A1Q1nZZeyQsAmi9eAC_38.256910_-90.469879@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462602637,
+    "wof:geomhash":"20a6b9e677c894d893dafb8fa3e42e64",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080787,
+            "neighbourhood_id":85848677,
+            "region_id":85688661,
+            "venue_id":806973391
+        }
+    ],
+    "wof:id":806973391,
+    "wof:lastmodified":1462602637,
+    "wof:name":"Pam's Quality Cleaning",
+    "wof:parent_id":85848677,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitor",
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -90.469879,
+    38.25691,
+    -90.469879,
+    38.25691
+],
+  "geometry": {"coordinates":[-90.46987900000001,38.25691],"type":"Point"}
+}

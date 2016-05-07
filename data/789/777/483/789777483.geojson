@@ -1,0 +1,79 @@
+{
+  "id": 789777483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.524016,39.101722,-94.524016,39.101722",
+    "geom:latitude":39.101722,
+    "geom:longitude":-94.524016,
+    "iso:country":"US",
+    "sg:address":"4842 E 9 St",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 241 1370",
+    "sg:postcode":"64124",
+    "sg:province":"MO",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85871999,
+        102191575,
+        404518075,
+        85633793,
+        85970739,
+        102081227,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0avCc6qamtuzZN7i2KiHVo_39.101722_-94.524016@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462590457,
+    "wof:geomhash":"b2c3b8f0526e396787407ac3b47a0960",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081227,
+            "localadmin_id":404518075,
+            "locality_id":85970739,
+            "neighbourhood_id":85871999,
+            "region_id":85688661,
+            "venue_id":789777483
+        }
+    ],
+    "wof:id":789777483,
+    "wof:lastmodified":1462590457,
+    "wof:name":"Ortiz Body Shop",
+    "wof:parent_id":85871999,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -94.524016,
+    39.101722,
+    -94.524016,
+    39.101722
+],
+  "geometry": {"coordinates":[-94.524016,39.101722],"type":"Point"}
+}

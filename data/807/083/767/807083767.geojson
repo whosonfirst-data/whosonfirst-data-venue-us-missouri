@@ -1,0 +1,77 @@
+{
+  "id": 807083767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.442594,39.026509,-94.442594,39.026509",
+    "geom:latitude":39.026509,
+    "geom:longitude":-94.442594,
+    "iso:country":"US",
+    "sg:address":"5260 Blue Ridge Blvd",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/brooking/194282-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"64133",
+    "sg:province":"MO",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85867021,
+        102191575,
+        404518075,
+        85633793,
+        85970739,
+        102081227,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0dWaMfY9pUPjj1rsOw0Gdy_39.026509_-94.442594@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462603564,
+    "wof:geomhash":"f94e30918ba472524348ca38c0c5ef4a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081227,
+            "localadmin_id":404518075,
+            "locality_id":85970739,
+            "neighbourhood_id":85867021,
+            "region_id":85688661,
+            "venue_id":807083767
+        }
+    ],
+    "wof:id":807083767,
+    "wof:lastmodified":1462603564,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85867021,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -94.442594,
+    39.026509,
+    -94.442594,
+    39.026509
+],
+  "geometry": {"coordinates":[-94.442594,39.026509],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 806486505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.186451,38.560875,-92.186451,38.560875",
+    "geom:latitude":38.560875,
+    "geom:longitude":-92.186451,
+    "iso:country":"US",
+    "sg:address":"1445 Legion Ln",
+    "sg:city":"Jefferson City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 636 3105",
+    "sg:postcode":"65101",
+    "sg:province":"MO",
+    "sg:tags":[
+        "upholsterer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970647,
+        102087511,
+        85837745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_552HT3eR1XmG2LIPVchipd_38.560875_-92.186451@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462598518,
+    "wof:geomhash":"cb56d3427953bfc9239f7fd6188765e8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087511,
+            "locality_id":85970647,
+            "neighbourhood_id":85837745,
+            "region_id":85688661,
+            "venue_id":806486505
+        }
+    ],
+    "wof:id":806486505,
+    "wof:lastmodified":1462598518,
+    "wof:name":"Jerry's Auto Trim",
+    "wof:parent_id":85837745,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "upholsterer"
+    ]
+},
+  "bbox": [
+    -92.186451,
+    38.560875,
+    -92.186451,
+    38.560875
+],
+  "geometry": {"coordinates":[-92.18645100000001,38.560875],"type":"Point"}
+}

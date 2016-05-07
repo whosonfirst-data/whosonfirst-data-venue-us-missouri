@@ -1,0 +1,73 @@
+{
+  "id": 789589019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.60511,38.78884,-90.60511,38.78884",
+    "geom:latitude":38.78884,
+    "geom:longitude":-90.60511,
+    "iso:country":"US",
+    "sg:address":"230 Spencer Rd",
+    "sg:city":"St Peters",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 441 2750",
+    "sg:postcode":"63376",
+    "sg:province":"MO",
+    "sg:tags":[
+        "home",
+        "convalescent"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5r0MeBXWwjXvLrtjOUo9kP_38.788840_-90.605110@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462588979,
+    "wof:geomhash":"159aa2a2bd6289b9c164b0c97f13c13d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":789589019
+        }
+    ],
+    "wof:id":789589019,
+    "wof:lastmodified":1462588979,
+    "wof:name":"St Peters Manor Care Center",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "convalescent"
+    ]
+},
+  "bbox": [
+    -90.60511,
+    38.78884,
+    -90.60511,
+    38.78884
+],
+  "geometry": {"coordinates":[-90.60511,38.78884],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 789722305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.305636,38.467779,-90.305636,38.467779",
+    "geom:latitude":38.467779,
+    "geom:longitude":-90.305636,
+    "iso:country":"US",
+    "sg:address":"5686 Telegraph Rd",
+    "sg:city":"St Louis",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 846 0101",
+    "sg:postcode":"63129",
+    "sg:province":"MO",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85885365,
+        102191575,
+        404517459,
+        85633793,
+        85972631,
+        102086173,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6kuD81IKOCxE4bNPGCYD6i_38.467779_-90.305636@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462590041,
+    "wof:geomhash":"e183eacd974d5c99ea3afbfeb627210d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086173,
+            "localadmin_id":404517459,
+            "locality_id":85972631,
+            "neighbourhood_id":85885365,
+            "region_id":85688661,
+            "venue_id":789722305
+        }
+    ],
+    "wof:id":789722305,
+    "wof:lastmodified":1462590041,
+    "wof:name":"Richard L Emanuel DDS",
+    "wof:parent_id":85885365,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -90.305636,
+    38.467779,
+    -90.305636,
+    38.467779
+],
+  "geometry": {"coordinates":[-90.30563600000001,38.467779],"type":"Point"}
+}

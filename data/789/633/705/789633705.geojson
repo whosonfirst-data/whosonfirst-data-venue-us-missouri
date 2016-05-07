@@ -1,0 +1,73 @@
+{
+  "id": 789633705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.649168,39.267892,-94.649168,39.267892",
+    "geom:latitude":39.267892,
+    "geom:longitude":-94.649168,
+    "iso:country":"US",
+    "sg:address":"9611 N Revere Ave",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 880 9169",
+    "sg:postcode":"64154",
+    "sg:province":"MO",
+    "sg:tags":[
+        "polishing",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970739,
+        102085271,
+        85851839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_15fWtMEbMki2fTAtWOy64P_39.267892_-94.649168@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462589328,
+    "wof:geomhash":"ef17b46a156bea107c0c4e4a122a1bca",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085271,
+            "locality_id":85970739,
+            "neighbourhood_id":85851839,
+            "region_id":85688661,
+            "venue_id":789633705
+        }
+    ],
+    "wof:id":789633705,
+    "wof:lastmodified":1462589328,
+    "wof:name":"CSK Car Wash Inc",
+    "wof:parent_id":85851839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "polishing",
+        "washing"
+    ]
+},
+  "bbox": [
+    -94.649168,
+    39.267892,
+    -94.649168,
+    39.267892
+],
+  "geometry": {"coordinates":[-94.649168,39.267892],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 806457445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.495735,39.088803,-94.495735,39.088803",
+    "geom:latitude":39.088803,
+    "geom:longitude":-94.495735,
+    "iso:country":"US",
+    "sg:address":"1700 Oakland Ave",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 483 8599",
+    "sg:postcode":"64126",
+    "sg:province":"MO",
+    "sg:tags":[
+        "operator",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970739,
+        102081227,
+        85810269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7c5dVnTkaPmkAyRMEJVKdS_39.088803_-94.495735@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462598294,
+    "wof:geomhash":"e92ef47341aa2ded09766ce6b1c25ee8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081227,
+            "locality_id":85970739,
+            "neighbourhood_id":85810269,
+            "region_id":85688661,
+            "venue_id":806457445
+        }
+    ],
+    "wof:id":806457445,
+    "wof:lastmodified":1462598294,
+    "wof:name":"Truck Transport Inc",
+    "wof:parent_id":85810269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -94.495735,
+    39.088803,
+    -94.495735,
+    39.088803
+],
+  "geometry": {"coordinates":[-94.495735,39.088803],"type":"Point"}
+}

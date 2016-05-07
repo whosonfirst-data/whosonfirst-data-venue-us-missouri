@@ -1,0 +1,71 @@
+{
+  "id": 806925251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.630809,38.785763,-90.630809,38.785763",
+    "geom:latitude":38.785763,
+    "geom:longitude":-90.630809,
+    "iso:country":"US",
+    "sg:address":"764 Bear Mountain Dr",
+    "sg:city":"Saint Peters",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 397 6892",
+    "sg:postcode":"63376",
+    "sg:province":"MO",
+    "sg:tags":[
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2rZ4GYgPe11hwE9gIR78UM_38.785763_-90.630809@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462602235,
+    "wof:geomhash":"8bafefe1f0e002dd8d35ec391747d863",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":806925251
+        }
+    ],
+    "wof:id":806925251,
+    "wof:lastmodified":1462602235,
+    "wof:name":"A Clean Sweep",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -90.630809,
+    38.785763,
+    -90.630809,
+    38.785763
+],
+  "geometry": {"coordinates":[-90.630809,38.785763],"type":"Point"}
+}

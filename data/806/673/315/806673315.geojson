@@ -1,0 +1,71 @@
+{
+  "id": 806673315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.38029,38.39879,-90.38029,38.39879",
+    "geom:latitude":38.39879,
+    "geom:longitude":-90.38029,
+    "iso:country":"US",
+    "sg:address":"1450 Valley View Dr",
+    "sg:city":"Arnold",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 464 7126",
+    "sg:postcode":"63010",
+    "sg:province":"MO",
+    "sg:tags":[
+        "landscape",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85805175,
+        102080787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4WWqORWKZipwhkb5jg40TQ_38.398790_-90.380290@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462600110,
+    "wof:geomhash":"000a529252274f353eea4587b07e7671",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080787,
+            "neighbourhood_id":85805175,
+            "region_id":85688661,
+            "venue_id":806673315
+        }
+    ],
+    "wof:id":806673315,
+    "wof:lastmodified":1462600110,
+    "wof:name":"Lawn Care Plus",
+    "wof:parent_id":85805175,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landscape",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -90.38029,
+    38.39879,
+    -90.38029,
+    38.39879
+],
+  "geometry": {"coordinates":[-90.38029,38.39879],"type":"Point"}
+}

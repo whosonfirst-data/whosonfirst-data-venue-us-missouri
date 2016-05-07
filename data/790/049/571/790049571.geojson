@@ -1,0 +1,71 @@
+{
+  "id": 790049571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.773506,37.949875,-91.773506,37.949875",
+    "geom:latitude":37.949875,
+    "geom:longitude":-91.773506,
+    "iso:country":"US",
+    "sg:address":"708 N Main St",
+    "sg:city":"Rolla",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 364 1384",
+    "sg:postcode":"65401",
+    "sg:province":"MO",
+    "sg:tags":[
+        "village"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970821,
+        102086893,
+        85814531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4tazr2W3ea62RDNuZrh97B_37.949875_-91.773506@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462592716,
+    "wof:geomhash":"0c30c6270eb08206148973cdef15a462",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086893,
+            "locality_id":85970821,
+            "neighbourhood_id":85814531,
+            "region_id":85688661,
+            "venue_id":790049571
+        }
+    ],
+    "wof:id":790049571,
+    "wof:lastmodified":1462592716,
+    "wof:name":"Rolla City Administrator",
+    "wof:parent_id":85814531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "village"
+    ]
+},
+  "bbox": [
+    -91.773506,
+    37.949875,
+    -91.773506,
+    37.949875
+],
+  "geometry": {"coordinates":[-91.773506,37.949875],"type":"Point"}
+}

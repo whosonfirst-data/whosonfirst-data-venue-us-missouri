@@ -1,0 +1,73 @@
+{
+  "id": 790519633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.884528,38.806674,-90.884528,38.806674",
+    "geom:latitude":38.806674,
+    "geom:longitude":-90.884528,
+    "iso:country":"US",
+    "sg:address":"1580 S Svc Rd Highway 70 W",
+    "sg:city":"Wentzville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 327 3009",
+    "sg:postcode":"63385",
+    "sg:province":"MO",
+    "sg:tags":[
+        "renting",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5FV5c1IZvzINNW7OGtAwms_38.806674_-90.884528@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462596539,
+    "wof:geomhash":"6d7a3fdbcf2524dcf515e37aee224719",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":790519633
+        }
+    ],
+    "wof:id":790519633,
+    "wof:lastmodified":1462596539,
+    "wof:name":"Enterprise Rent-A-Car",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -90.884528,
+    38.806674,
+    -90.884528,
+    38.806674
+],
+  "geometry": {"coordinates":[-90.884528,38.806674],"type":"Point"}
+}

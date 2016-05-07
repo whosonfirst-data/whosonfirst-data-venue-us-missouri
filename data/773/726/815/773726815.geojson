@@ -1,0 +1,80 @@
+{
+  "id": 773726815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.242386,38.593637,-90.242386,38.593637",
+    "geom:latitude":38.593637,
+    "geom:longitude":-90.242386,
+    "iso:country":"US",
+    "sg:address":"3400 Gravois Ave",
+    "sg:city":"St Louis",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Auto Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 772 1234",
+    "sg:postcode":"63118",
+    "sg:province":"MO",
+    "sg:tags":[
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873677,
+        102191575,
+        404518053,
+        85633793,
+        85971343,
+        102080791,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1U709FiURDw1FxxusJ68s5_38.593637_-90.242386@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462587927,
+    "wof:geomhash":"10b18379a7a7983e5f35ea969d3cba9d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080791,
+            "localadmin_id":404518053,
+            "locality_id":85971343,
+            "neighbourhood_id":85873677,
+            "region_id":85688661,
+            "venue_id":773726815
+        }
+    ],
+    "wof:id":773726815,
+    "wof:lastmodified":1462587927,
+    "wof:name":"St Louis Auto Parts Co",
+    "wof:parent_id":85873677,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile"
+    ]
+},
+  "bbox": [
+    -90.242386,
+    38.593637,
+    -90.242386,
+    38.593637
+],
+  "geometry": {"coordinates":[-90.242386,38.593637],"type":"Point"}
+}

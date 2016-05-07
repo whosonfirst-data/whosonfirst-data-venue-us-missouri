@@ -1,0 +1,73 @@
+{
+  "id": 789730741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.844684,38.813393,-90.844684,38.813393",
+    "geom:latitude":38.813393,
+    "geom:longitude":-90.844684,
+    "iso:country":"US",
+    "sg:address":"1002 E Pearce Blvd",
+    "sg:city":"Wentzville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 327 8255",
+    "sg:postcode":"63385",
+    "sg:province":"MO",
+    "sg:tags":[
+        "transmission",
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_53vD6AXLqvdoJbxoTHo5Rs_38.813393_-90.844684@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462590108,
+    "wof:geomhash":"3df85c9390b334085330e159494ea5b8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":789730741
+        }
+    ],
+    "wof:id":789730741,
+    "wof:lastmodified":1462590108,
+    "wof:name":"Shepherd Brothers Transmission",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission",
+        "automotive"
+    ]
+},
+  "bbox": [
+    -90.844684,
+    38.813393,
+    -90.844684,
+    38.813393
+],
+  "geometry": {"coordinates":[-90.844684,38.813393],"type":"Point"}
+}

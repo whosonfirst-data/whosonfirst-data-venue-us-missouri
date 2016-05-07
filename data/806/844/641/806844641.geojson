@@ -1,0 +1,82 @@
+{
+  "id": 806844641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.342119,38.700793,-90.342119,38.700793",
+    "geom:latitude":38.700793,
+    "geom:longitude":-90.342119,
+    "iso:country":"US",
+    "sg:address":"8510 Lackland Rd",
+    "sg:city":"Overland",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Scrap",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 428 6050",
+    "sg:postcode":"63114",
+    "sg:province":"MO",
+    "sg:tags":[
+        "product",
+        "material"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85847351,
+        102191575,
+        404517201,
+        85633793,
+        85972285,
+        102086173,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0PRcYSWalXPb7SvzuHbqyi_38.700793_-90.342119@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462601561,
+    "wof:geomhash":"695ffecad99d56ed1ba66eb5f758a26a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086173,
+            "localadmin_id":404517201,
+            "locality_id":85972285,
+            "neighbourhood_id":85847351,
+            "region_id":85688661,
+            "venue_id":806844641
+        }
+    ],
+    "wof:id":806844641,
+    "wof:lastmodified":1462601561,
+    "wof:name":"Overland Metals Inc",
+    "wof:parent_id":85847351,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product",
+        "material"
+    ]
+},
+  "bbox": [
+    -90.342119,
+    38.700793,
+    -90.342119,
+    38.700793
+],
+  "geometry": {"coordinates":[-90.342119,38.700793],"type":"Point"}
+}

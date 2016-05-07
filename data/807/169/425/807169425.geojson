@@ -1,0 +1,70 @@
+{
+  "id": 807169425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.270625,38.684094,-90.270625,38.684094",
+    "geom:latitude":38.684094,
+    "geom:longitude":-90.270625,
+    "iso:country":"US",
+    "sg:address":"3400 Goodfellow Blvd",
+    "sg:city":"Saint Louis",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 535 2625",
+    "sg:postcode":"63120",
+    "sg:province":"MO",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873709,
+        102191575,
+        404518053,
+        85633793,
+        85971343,
+        102080791,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5xlrCkfxDYgnGAZPGlMh4f_38.684094_-90.270625@1303262929"
+    },
+    "wof:country":"US",
+    "wof:created":1462604479,
+    "wof:geomhash":"2658ee70f3ec71171a0d24dbf22ee2c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080791,
+            "localadmin_id":404518053,
+            "locality_id":85971343,
+            "neighbourhood_id":85873709,
+            "region_id":85688661,
+            "venue_id":807169425
+        }
+    ],
+    "wof:id":807169425,
+    "wof:lastmodified":1462604479,
+    "wof:name":"Jerry's Auto Repair",
+    "wof:parent_id":85873709,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.270625,
+    38.684094,
+    -90.270625,
+    38.684094
+],
+  "geometry": {"coordinates":[-90.270625,38.684094],"type":"Point"}
+}

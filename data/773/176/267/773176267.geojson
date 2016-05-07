@@ -1,0 +1,71 @@
+{
+  "id": 773176267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.543808,38.070703,-91.543808,38.070703",
+    "geom:latitude":38.070703,
+    "geom:longitude":-91.543808,
+    "iso:country":"US",
+    "sg:address":"18500 State Hwy U",
+    "sg:city":"St James",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 265 5000",
+    "sg:postcode":"65559",
+    "sg:province":"MO",
+    "sg:tags":[
+        "winery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970819,
+        102086893,
+        85847353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3kMpGf8xGRx3tyUy0ewN9d_38.070703_-91.543808@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462583709,
+    "wof:geomhash":"51157c8ccb954f5665d0e2795942fd19",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086893,
+            "locality_id":85970819,
+            "neighbourhood_id":85847353,
+            "region_id":85688661,
+            "venue_id":773176267
+        }
+    ],
+    "wof:id":773176267,
+    "wof:lastmodified":1462583709,
+    "wof:name":"Heinrichshaus Winery",
+    "wof:parent_id":85847353,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "winery"
+    ]
+},
+  "bbox": [
+    -91.543808,
+    38.070703,
+    -91.543808,
+    38.070703
+],
+  "geometry": {"coordinates":[-91.543808,38.070703],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 790363271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.737841,38.861471,-90.737841,38.861471",
+    "geom:latitude":38.861471,
+    "geom:longitude":-90.737841,
+    "iso:country":"US",
+    "sg:address":"800 Hackmann Rd",
+    "sg:city":"O Fallon",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 272 2130",
+    "sg:postcode":"63366",
+    "sg:province":"MO",
+    "sg:tags":[
+        "building",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0gihqQktaUjd9vurssOsF8_38.861471_-90.737841@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462595252,
+    "wof:geomhash":"1c984e44a2a62f854726ac552dfda760",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":790363271
+        }
+    ],
+    "wof:id":790363271,
+    "wof:lastmodified":1462595252,
+    "wof:name":"Jem Properties",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -90.737841,
+    38.861471,
+    -90.737841,
+    38.861471
+],
+  "geometry": {"coordinates":[-90.737841,38.861471],"type":"Point"}
+}

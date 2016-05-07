@@ -1,0 +1,72 @@
+{
+  "id": 789582535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.486359,38.79861,-90.486359,38.79861",
+    "geom:latitude":38.79861,
+    "geom:longitude":-90.486359,
+    "iso:country":"US",
+    "sg:address":"1900 W Randolph St",
+    "sg:city":"St Charles",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 949 3372",
+    "sg:postcode":"63301",
+    "sg:province":"MO",
+    "sg:tags":[
+        "parks"
+    ],
+    "sg:website":"www.stcharlesparks.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7GeMz9HYDPoYS8IuJ6wL3E_38.798610_-90.486359@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462588925,
+    "wof:geomhash":"ea6e984eb0a2a59ceb9673c91410b4ca",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":789582535
+        }
+    ],
+    "wof:id":789582535,
+    "wof:lastmodified":1462588925,
+    "wof:name":"St Charles Parks & Recreation",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "parks"
+    ]
+},
+  "bbox": [
+    -90.486359,
+    38.79861,
+    -90.486359,
+    38.79861
+],
+  "geometry": {"coordinates":[-90.48635899999999,38.79861],"type":"Point"}
+}

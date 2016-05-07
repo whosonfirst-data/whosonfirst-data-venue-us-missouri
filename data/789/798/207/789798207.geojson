@@ -1,0 +1,73 @@
+{
+  "id": 789798207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.855907,38.811327,-90.855907,38.811327",
+    "geom:latitude":38.811327,
+    "geom:longitude":-90.855907,
+    "iso:country":"US",
+    "sg:address":"300 W Pearce Blvd",
+    "sg:city":"Wentzville",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 327 5207",
+    "sg:postcode":"63385",
+    "sg:province":"MO",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3llzN5qr3ceXVqybRK687D_38.811327_-90.855907@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462590628,
+    "wof:geomhash":"78a3ce7160e45a6ad11890fb1c74d1ff",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":789798207
+        }
+    ],
+    "wof:id":789798207,
+    "wof:lastmodified":1462590628,
+    "wof:name":"Four Stor Storage",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [
+    -90.855907,
+    38.811327,
+    -90.855907,
+    38.811327
+],
+  "geometry": {"coordinates":[-90.855907,38.811327],"type":"Point"}
+}

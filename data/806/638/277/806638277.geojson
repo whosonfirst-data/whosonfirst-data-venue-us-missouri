@@ -1,0 +1,71 @@
+{
+  "id": 806638277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.362407,39.37096,-94.362407,39.37096",
+    "geom:latitude":39.37096,
+    "geom:longitude":-94.362407,
+    "iso:country":"US",
+    "sg:address":"208 S Jefferson St",
+    "sg:city":"Kearney",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Funeral Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 628 4411",
+    "sg:postcode":"64060",
+    "sg:province":"MO",
+    "sg:tags":[
+        "director"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971507,
+        102086177,
+        85812855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3zPwUef2UdA81LxAlQKW99_39.370960_-94.362407@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462599801,
+    "wof:geomhash":"f1103516e18c433a19056ac86c8f0925",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086177,
+            "locality_id":85971507,
+            "neighbourhood_id":85812855,
+            "region_id":85688661,
+            "venue_id":806638277
+        }
+    ],
+    "wof:id":806638277,
+    "wof:lastmodified":1462599801,
+    "wof:name":"Fry Funeral Home",
+    "wof:parent_id":85812855,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "director"
+    ]
+},
+  "bbox": [
+    -94.362407,
+    39.37096,
+    -94.362407,
+    39.37096
+],
+  "geometry": {"coordinates":[-94.362407,39.37096],"type":"Point"}
+}

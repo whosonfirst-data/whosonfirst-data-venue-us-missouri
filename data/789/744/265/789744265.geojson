@@ -1,0 +1,73 @@
+{
+  "id": 789744265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.65446,38.355494,-90.65446,38.355494",
+    "geom:latitude":38.355494,
+    "geom:longitude":-90.65446,
+    "iso:country":"US",
+    "sg:address":"8431 Industrial Dr",
+    "sg:city":"Cedar Hill",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Scrap",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 285 1400",
+    "sg:postcode":"63016",
+    "sg:province":"MO",
+    "sg:tags":[
+        "recycling",
+        "center"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971019,
+        102080787,
+        85817237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ixOzdx07vyH34dqnShCoW_38.355494_-90.654460@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462590209,
+    "wof:geomhash":"f8262751c4c261ec258380626473f125",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080787,
+            "locality_id":85971019,
+            "neighbourhood_id":85817237,
+            "region_id":85688661,
+            "venue_id":789744265
+        }
+    ],
+    "wof:id":789744265,
+    "wof:lastmodified":1462590209,
+    "wof:name":"W S Metals Recycling",
+    "wof:parent_id":85817237,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "recycling",
+        "center"
+    ]
+},
+  "bbox": [
+    -90.65446,
+    38.355494,
+    -90.65446,
+    38.355494
+],
+  "geometry": {"coordinates":[-90.65446,38.355494],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 807060531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.680739,38.510873,-90.680739,38.510873",
+    "geom:latitude":38.510873,
+    "geom:longitude":-90.680739,
+    "iso:country":"US",
+    "sg:address":"4900 Six Flags Road",
+    "sg:city":"Eureka",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/meramec/155386-johnny-rockets/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 938 5300",
+    "sg:postcode":"63025",
+    "sg:province":"MO",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85809151,
+        102191575,
+        404517383,
+        85633793,
+        85972199,
+        102086173,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1qn9qfChFZ1IRpLVZSXTYE_38.510873_-90.680739@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462603375,
+    "wof:geomhash":"bdd3f11a81241974c107b80922bdd362",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086173,
+            "localadmin_id":404517383,
+            "locality_id":85972199,
+            "neighbourhood_id":85809151,
+            "region_id":85688661,
+            "venue_id":807060531
+        }
+    ],
+    "wof:id":807060531,
+    "wof:lastmodified":1462603375,
+    "wof:name":"Johnny Rockets",
+    "wof:parent_id":85809151,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -90.680739,
+    38.510873,
+    -90.680739,
+    38.510873
+],
+  "geometry": {"coordinates":[-90.680739,38.510873],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 789947211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.620325,38.80465,-90.620325,38.80465",
+    "geom:latitude":38.80465,
+    "geom:longitude":-90.620325,
+    "iso:country":"US",
+    "sg:address":"100 Didion Dr",
+    "sg:city":"St Peters",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 397 7990",
+    "sg:postcode":"63376",
+    "sg:province":"MO",
+    "sg:tags":[
+        "home"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6NHL78dAiOqJ17o9aQ9P5V_38.804650_-90.620325@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462591871,
+    "wof:geomhash":"d67b97cf770f5befa0708b5d2e35daf3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":789947211
+        }
+    ],
+    "wof:id":789947211,
+    "wof:lastmodified":1462591871,
+    "wof:name":"Apria Healthcare",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home"
+    ]
+},
+  "bbox": [
+    -90.620325,
+    38.80465,
+    -90.620325,
+    38.80465
+],
+  "geometry": {"coordinates":[-90.62032499999999,38.80465],"type":"Point"}
+}

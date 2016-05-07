@@ -1,0 +1,92 @@
+{
+  "id": 789901579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.547903,37.070107,-94.547903,37.070107",
+    "geom:latitude":37.070107,
+    "geom:longitude":-94.547903,
+    "iso:country":"US",
+    "sg:address":"2425 W 20th St",
+    "sg:city":"Joplin",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 782 7390",
+    "sg:postcode":"64804",
+    "sg:province":"MO",
+    "sg:tags":[
+        "operator",
+        "trucking",
+        "local",
+        "courier",
+        "air"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85885363,
+        102191575,
+        404518215,
+        85633793,
+        85970893,
+        102087525,
+        85688661,
+        85810925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1mKjWUT2rI8lI4UucEd8yV_37.070107_-94.547903@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462591458,
+    "wof:geomhash":"03d4483bf7a4e9e7c83505d64957937f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087525,
+            "localadmin_id":404518215,
+            "locality_id":85970893,
+            "neighbourhood_id":85885363,
+            "region_id":85688661,
+            "venue_id":789901579
+        },
+        {
+            "country_id":85633793,
+            "county_id":102087525,
+            "locality_id":85970893,
+            "neighbourhood_id":85810925,
+            "region_id":85688661,
+            "venue_id":789901579
+        }
+    ],
+    "wof:id":789901579,
+    "wof:lastmodified":1462591458,
+    "wof:name":"Land Air Express Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "trucking",
+        "local",
+        "courier",
+        "air"
+    ]
+},
+  "bbox": [
+    -94.547903,
+    37.070107,
+    -94.547903,
+    37.070107
+],
+  "geometry": {"coordinates":[-94.54790300000001,37.070107],"type":"Point"}
+}

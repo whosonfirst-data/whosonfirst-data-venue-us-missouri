@@ -1,0 +1,75 @@
+{
+  "id": 773123619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.536859,38.78841,-90.536859,38.78841",
+    "geom:latitude":38.78841,
+    "geom:longitude":-90.536859,
+    "iso:country":"US",
+    "sg:address":"2000 Campus Dr",
+    "sg:city":"St Charles",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 926 9168",
+    "sg:postcode":"63301",
+    "sg:province":"MO",
+    "sg:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Tdpd3QJuSbU3gxU6hWUkg_38.788410_-90.536859@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462583320,
+    "wof:geomhash":"df80f47ec6e6d6158bc2c826f0a828fd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":773123619
+        }
+    ],
+    "wof:id":773123619,
+    "wof:lastmodified":1462583320,
+    "wof:name":"Budget Truck Rental",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ]
+},
+  "bbox": [
+    -90.536859,
+    38.78841,
+    -90.536859,
+    38.78841
+],
+  "geometry": {"coordinates":[-90.53685900000001,38.78841],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 789715603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.394392,38.636593,-90.394392,38.636593",
+    "geom:latitude":38.636593,
+    "geom:longitude":-90.394392,
+    "iso:country":"US",
+    "sg:address":"9909 Clayton Rd",
+    "sg:city":"Saint Louis",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 997 6603",
+    "sg:postcode":"63124",
+    "sg:province":"MO",
+    "sg:tags":[
+        "operator",
+        "general",
+        "storage",
+        "unit",
+        "time"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85867981,
+        102191575,
+        404517387,
+        85633793,
+        85972223,
+        102086173,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3nqKn7RyCb2jTixy8AjqfD_38.636593_-90.394392@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462589979,
+    "wof:geomhash":"8335bd0a792b7213a5d03ca180fcdf05",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086173,
+            "localadmin_id":404517387,
+            "locality_id":85972223,
+            "neighbourhood_id":85867981,
+            "region_id":85688661,
+            "venue_id":789715603
+        }
+    ],
+    "wof:id":789715603,
+    "wof:lastmodified":1462589979,
+    "wof:name":"Storage Inns Incorporated",
+    "wof:parent_id":85867981,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "general",
+        "storage",
+        "unit",
+        "time"
+    ]
+},
+  "bbox": [
+    -90.394392,
+    38.636593,
+    -90.394392,
+    38.636593
+],
+  "geometry": {"coordinates":[-90.394392,38.636593],"type":"Point"}
+}

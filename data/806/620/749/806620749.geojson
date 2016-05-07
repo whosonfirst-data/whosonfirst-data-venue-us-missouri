@@ -1,0 +1,71 @@
+{
+  "id": 806620749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.200295,39.397387,-91.200295,39.397387",
+    "geom:latitude":39.397387,
+    "geom:longitude":-91.200295,
+    "iso:country":"US",
+    "sg:address":"13100 Hwy Vv",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 324 5610",
+    "sg:postcode":"63334",
+    "sg:province":"MO",
+    "sg:tags":[
+        "landfill"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971907,
+        102086151,
+        85817909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2D41VtmC7X122fbe4bCaVn_39.397387_-91.200295@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462599658,
+    "wof:geomhash":"000b8baffb6a016a06fdd2c6fdda0654",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086151,
+            "locality_id":85971907,
+            "neighbourhood_id":85817909,
+            "region_id":85688661,
+            "venue_id":806620749
+        }
+    ],
+    "wof:id":806620749,
+    "wof:lastmodified":1462599658,
+    "wof:name":"Eagle Ridge Disposal",
+    "wof:parent_id":85817909,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landfill"
+    ]
+},
+  "bbox": [
+    -91.200295,
+    39.397387,
+    -91.200295,
+    39.397387
+],
+  "geometry": {"coordinates":[-91.200295,39.397387],"type":"Point"}
+}

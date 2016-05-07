@@ -1,0 +1,71 @@
+{
+  "id": 790243649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.195074,39.338451,-91.195074,39.338451",
+    "geom:latitude":39.338451,
+    "geom:longitude":-91.195074,
+    "iso:country":"US",
+    "sg:address":"405 S Court St",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 324 0300",
+    "sg:postcode":"63334",
+    "sg:province":"MO",
+    "sg:tags":[
+        "cleaners"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971907,
+        102086151,
+        85817909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1qZYrgip6QjtMCiEDmMnbc_39.338451_-91.195074@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462594273,
+    "wof:geomhash":"f22995fe50f27dbc596d3a6628c5ff44",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086151,
+            "locality_id":85971907,
+            "neighbourhood_id":85817909,
+            "region_id":85688661,
+            "venue_id":790243649
+        }
+    ],
+    "wof:id":790243649,
+    "wof:lastmodified":1462594273,
+    "wof:name":"PDQ Cleaners",
+    "wof:parent_id":85817909,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners"
+    ]
+},
+  "bbox": [
+    -91.195074,
+    39.338451,
+    -91.195074,
+    39.338451
+],
+  "geometry": {"coordinates":[-91.19507400000001,39.338451],"type":"Point"}
+}

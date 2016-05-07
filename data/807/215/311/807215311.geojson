@@ -1,0 +1,66 @@
+{
+  "id": 807215311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.362083,39.361118,-94.362083,39.361118",
+    "geom:latitude":39.361118,
+    "geom:longitude":-94.362083,
+    "iso:country":"US",
+    "sg:address":"1300 Colony Dr",
+    "sg:city":"Kearney",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 903 2626",
+    "sg:postcode":"64060",
+    "sg:province":"MO",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971507,
+        102086177,
+        85812855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7AL2PC0AMqNOMRxFHRKnmh_39.361118_-94.362083@1303262932"
+    },
+    "wof:country":"US",
+    "wof:created":1462604951,
+    "wof:geomhash":"9d08b285cf66f922d1599208849bf889",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086177,
+            "locality_id":85971507,
+            "neighbourhood_id":85812855,
+            "region_id":85688661,
+            "venue_id":807215311
+        }
+    ],
+    "wof:id":807215311,
+    "wof:lastmodified":1462604951,
+    "wof:name":"Garage Wearhouse",
+    "wof:parent_id":85812855,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -94.362083,
+    39.361118,
+    -94.362083,
+    39.361118
+],
+  "geometry": {"coordinates":[-94.362083,39.361118],"type":"Point"}
+}

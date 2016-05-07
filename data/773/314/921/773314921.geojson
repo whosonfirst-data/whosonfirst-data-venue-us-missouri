@@ -1,0 +1,71 @@
+{
+  "id": 773314921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.145772,39.329021,-91.145772,39.329021",
+    "geom:latitude":39.329021,
+    "geom:longitude":-91.145772,
+    "iso:country":"US",
+    "sg:address":"18068 Pike 281",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 324 5810",
+    "sg:postcode":"63334",
+    "sg:province":"MO",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971907,
+        102086151,
+        85817909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1LUMB3nZdQhG2KPPOI0icz_39.329021_-91.145772@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462584804,
+    "wof:geomhash":"d2dd625c7008da8d8671fdf50eefa6a4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086151,
+            "locality_id":85971907,
+            "neighbourhood_id":85817909,
+            "region_id":85688661,
+            "venue_id":773314921
+        }
+    ],
+    "wof:id":773314921,
+    "wof:lastmodified":1462584804,
+    "wof:name":"Buds Auto Repair",
+    "wof:parent_id":85817909,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -91.145772,
+    39.329021,
+    -91.145772,
+    39.329021
+],
+  "geometry": {"coordinates":[-91.14577199999999,39.329021],"type":"Point"}
+}

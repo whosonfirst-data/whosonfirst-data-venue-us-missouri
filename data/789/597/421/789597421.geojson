@@ -1,0 +1,79 @@
+{
+  "id": 789597421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.273188,38.817233,-90.273188,38.817233",
+    "geom:latitude":38.817233,
+    "geom:longitude":-90.273188,
+    "iso:country":"US",
+    "sg:address":"4405 N US Hwy 67",
+    "sg:city":"Florissant",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 741 1889",
+    "sg:postcode":"63034",
+    "sg:province":"MO",
+    "sg:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85813019,
+        102191575,
+        404517467,
+        85633793,
+        85972639,
+        102086173,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ElVN24uZDDtZcNeiu76P8_38.817233_-90.273188@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462589039,
+    "wof:geomhash":"959299e984ab7c72dd7f196844e33e1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086173,
+            "localadmin_id":404517467,
+            "locality_id":85972639,
+            "neighbourhood_id":85813019,
+            "region_id":85688661,
+            "venue_id":789597421
+        }
+    ],
+    "wof:id":789597421,
+    "wof:lastmodified":1462589039,
+    "wof:name":"North County Pet Grooming",
+    "wof:parent_id":85813019,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ]
+},
+  "bbox": [
+    -90.273188,
+    38.817233,
+    -90.273188,
+    38.817233
+],
+  "geometry": {"coordinates":[-90.273188,38.817233],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 807053225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.204697,38.619202,-90.204697,38.619202",
+    "geom:latitude":38.619202,
+    "geom:longitude":-90.204697,
+    "iso:country":"US",
+    "sg:address":"1401 Chouteau Ave",
+    "sg:city":"Saint Louis",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 621 2875",
+    "sg:postcode":"63103",
+    "sg:province":"MO",
+    "sg:tags":[
+        "convenience",
+        "oil",
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873663,
+        102191575,
+        404518053,
+        85633793,
+        85971343,
+        102080791,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_78unXYWpqoFkrExgNQhYsz_38.619483_-90.205379@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1462603311,
+    "wof:geomhash":"1cd77fbf6795589e685304876a2f5e57",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080791,
+            "localadmin_id":404518053,
+            "locality_id":85971343,
+            "neighbourhood_id":85873663,
+            "region_id":85688661,
+            "venue_id":807053225
+        }
+    ],
+    "wof:id":807053225,
+    "wof:lastmodified":1462603311,
+    "wof:name":"Dave's Service Station",
+    "wof:parent_id":85873663,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "convenience",
+        "oil",
+        "store"
+    ]
+},
+  "bbox": [
+    -90.204697,
+    38.619202,
+    -90.204697,
+    38.619202
+],
+  "geometry": {"coordinates":[-90.204697,38.619202],"type":"Point"}
+}

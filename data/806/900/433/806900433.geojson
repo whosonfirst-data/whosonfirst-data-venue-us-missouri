@@ -1,0 +1,67 @@
+{
+  "id": 806900433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.828231,39.661618,-91.828231,39.661618",
+    "geom:latitude":39.661618,
+    "geom:longitude":-91.828231,
+    "iso:country":"US",
+    "sg:address":"401 US Hwy 36",
+    "sg:city":"Monroe City",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 735 4631",
+    "sg:postcode":"63456",
+    "sg:province":"MO",
+    "sg:website":"www.monroe.k12.mo.us",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688697,
+        85633793,
+        85938427,
+        102086213,
+        85867477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2mIO4tNBaFM4iUubmmENGF_39.661618_-91.828231@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462602012,
+    "wof:geomhash":"96074a86c9556c8ceda48bd1d59fd0e6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086213,
+            "locality_id":85938427,
+            "neighbourhood_id":85867477,
+            "region_id":85688697,
+            "venue_id":806900433
+        }
+    ],
+    "wof:id":806900433,
+    "wof:lastmodified":1462602012,
+    "wof:name":"Monroe City Superintendent",
+    "wof:parent_id":85867477,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -91.828231,
+    39.661618,
+    -91.828231,
+    39.661618
+],
+  "geometry": {"coordinates":[-91.828231,39.661618],"type":"Point"}
+}

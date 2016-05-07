@@ -1,0 +1,84 @@
+{
+  "id": 789916637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.588132,39.194934,-94.588132,39.194934",
+    "geom:latitude":39.194934,
+    "geom:longitude":-94.588132,
+    "iso:country":"US",
+    "sg:address":"661 NW 55 Ter",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 979 4272",
+    "sg:postcode":"64118",
+    "sg:province":"MO",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420525303,
+        102191575,
+        404518075,
+        85633793,
+        85970739,
+        102081227,
+        85688661,
+        420525395,
+        404517563,
+        85970477,
+        102085271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_67yYPaDEvwzeLXGAoraof2_39.194934_-94.588132@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462591596,
+    "wof:geomhash":"a23f3c8a233b15466cece4167bd52deb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081227,
+            "localadmin_id":404518075,
+            "locality_id":85970739,
+            "neighbourhood_id":420525303,
+            "region_id":85688661,
+            "venue_id":789916637
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085271,
+            "localadmin_id":404517563,
+            "locality_id":85970477,
+            "neighbourhood_id":420525395,
+            "region_id":85688661,
+            "venue_id":789916637
+        }
+    ],
+    "wof:id":789916637,
+    "wof:lastmodified":1462591596,
+    "wof:name":"Bank Of America",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -94.588132,
+    39.194934,
+    -94.588132,
+    39.194934
+],
+  "geometry": {"coordinates":[-94.588132,39.194934],"type":"Point"}
+}

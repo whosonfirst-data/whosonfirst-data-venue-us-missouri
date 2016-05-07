@@ -1,0 +1,77 @@
+{
+  "id": 807066887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.406405,38.591362,-90.406405,38.591362",
+    "geom:latitude":38.591362,
+    "geom:longitude":-90.406405,
+    "iso:country":"US",
+    "sg:address":"1224 N Kirkwood Rd",
+    "sg:city":"Saint Louis",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/bonhomme/240979-white-castle/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"63122",
+    "sg:province":"MO",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85858243,
+        102191575,
+        404517253,
+        85633793,
+        85972177,
+        102086173,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1u8ZHdxn9T2RP6UuasL6fA_38.591362_-90.406405@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462603422,
+    "wof:geomhash":"9f9ca6387c2416c4b6682ae9368d2319",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086173,
+            "localadmin_id":404517253,
+            "locality_id":85972177,
+            "neighbourhood_id":85858243,
+            "region_id":85688661,
+            "venue_id":807066887
+        }
+    ],
+    "wof:id":807066887,
+    "wof:lastmodified":1462603422,
+    "wof:name":"White Castle",
+    "wof:parent_id":85858243,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -90.406405,
+    38.591362,
+    -90.406405,
+    38.591362
+],
+  "geometry": {"coordinates":[-90.40640500000001,38.591362],"type":"Point"}
+}

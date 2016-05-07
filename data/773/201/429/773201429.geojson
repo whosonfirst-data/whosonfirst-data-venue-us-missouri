@@ -1,0 +1,73 @@
+{
+  "id": 773201429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.782318,39.366386,-94.782318,39.366386",
+    "geom:latitude":39.366386,
+    "geom:longitude":-94.782318,
+    "iso:country":"US",
+    "sg:address":"904 S 2 St",
+    "sg:city":"Platte City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 858 3060",
+    "sg:postcode":"64079",
+    "sg:province":"MO",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970739,
+        102085271,
+        85823759
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5eGpHGahls3Ikdf7BZCyET_39.366386_-94.782318@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462583940,
+    "wof:geomhash":"556108421cf005f3af7495871fb0efbd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085271,
+            "locality_id":85970739,
+            "neighbourhood_id":85823759,
+            "region_id":85688661,
+            "venue_id":773201429
+        }
+    ],
+    "wof:id":773201429,
+    "wof:lastmodified":1462583940,
+    "wof:name":"Goodmans Auto Repair",
+    "wof:parent_id":85823759,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -94.782318,
+    39.366386,
+    -94.782318,
+    39.366386
+],
+  "geometry": {"coordinates":[-94.782318,39.366386],"type":"Point"}
+}

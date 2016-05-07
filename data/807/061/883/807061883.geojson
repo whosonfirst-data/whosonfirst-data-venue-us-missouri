@@ -1,0 +1,78 @@
+{
+  "id": 807061883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.305227,38.775333,-90.305227,38.775333",
+    "geom:latitude":38.775333,
+    "geom:longitude":-90.305227,
+    "iso:country":"US",
+    "sg:address":"60 Grandview Plaza Shopping Ctr",
+    "sg:city":"Florissant",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/florissant/148716-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 831 1080",
+    "sg:postcode":"63033",
+    "sg:province":"MO",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85813019,
+        102191575,
+        404517467,
+        85633793,
+        85972639,
+        102086173,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0o3hwc9HkO4aEcjzRe09P5_38.775333_-90.305227@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462603385,
+    "wof:geomhash":"8fc3e2c793c166d271493afd12735bbf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086173,
+            "localadmin_id":404517467,
+            "locality_id":85972639,
+            "neighbourhood_id":85813019,
+            "region_id":85688661,
+            "venue_id":807061883
+        }
+    ],
+    "wof:id":807061883,
+    "wof:lastmodified":1462603385,
+    "wof:name":"Subway",
+    "wof:parent_id":85813019,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -90.305227,
+    38.775333,
+    -90.305227,
+    38.775333
+],
+  "geometry": {"coordinates":[-90.305227,38.775333],"type":"Point"}
+}

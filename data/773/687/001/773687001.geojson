@@ -1,0 +1,82 @@
+{
+  "id": 773687001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.275852,38.565425,-90.275852,38.565425",
+    "geom:latitude":38.565425,
+    "geom:longitude":-90.275852,
+    "iso:country":"US",
+    "sg:address":"4171 Loughborough Ave",
+    "sg:city":"St Louis",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Musical Instruments",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Musical Instruments",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 353 1312",
+    "sg:postcode":"63116",
+    "sg:province":"MO",
+    "sg:tags":[
+        "violin",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873699,
+        102191575,
+        404518053,
+        85633793,
+        85971343,
+        102080791,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7aTkueH4DZYpgui1vN7oDk_38.565425_-90.275852@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462587594,
+    "wof:geomhash":"d3d7ce7f463f977e38066644cdb16488",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080791,
+            "localadmin_id":404518053,
+            "locality_id":85971343,
+            "neighbourhood_id":85873699,
+            "region_id":85688661,
+            "venue_id":773687001
+        }
+    ],
+    "wof:id":773687001,
+    "wof:lastmodified":1462587594,
+    "wof:name":"Geoffrey Seitz Violin Maker",
+    "wof:parent_id":85873699,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "violin",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -90.275852,
+    38.565425,
+    -90.275852,
+    38.565425
+],
+  "geometry": {"coordinates":[-90.275852,38.565425],"type":"Point"}
+}

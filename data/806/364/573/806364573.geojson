@@ -1,0 +1,75 @@
+{
+  "id": 806364573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.366255,37.233148,-93.366255,37.233148",
+    "geom:latitude":37.233148,
+    "geom:longitude":-93.366255,
+    "iso:country":"US",
+    "sg:address":"1900 N Farm Rd 123",
+    "sg:city":"Springfield",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 883 0076",
+    "sg:postcode":"65802",
+    "sg:province":"MO",
+    "sg:tags":[
+        "pet",
+        "crematory",
+        "cemetery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971363,
+        102087523,
+        85881139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3hbAedjGwxYIyW8QWSx7de_37.233148_-93.366255@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462597539,
+    "wof:geomhash":"69cacd02cbab193a2e2a9ef6037dd2fe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087523,
+            "locality_id":85971363,
+            "neighbourhood_id":85881139,
+            "region_id":85688661,
+            "venue_id":806364573
+        }
+    ],
+    "wof:id":806364573,
+    "wof:lastmodified":1462597539,
+    "wof:name":"Friend Of The Family Pet Meml",
+    "wof:parent_id":85881139,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "crematory",
+        "cemetery"
+    ]
+},
+  "bbox": [
+    -93.366255,
+    37.233148,
+    -93.366255,
+    37.233148
+],
+  "geometry": {"coordinates":[-93.366255,37.233148],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 789946501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.612307,36.828095,-94.612307,36.828095",
+    "geom:latitude":36.828095,
+    "geom:longitude":-94.612307,
+    "iso:country":"US",
+    "sg:address":"102 Zane Dr",
+    "sg:city":"Seneca",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 776 3931",
+    "sg:postcode":"64865",
+    "sg:province":"MO",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971289,
+        102087471,
+        85814333
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5GrKAxLMTxj2ZzWSu3vIKw_36.828095_-94.612307@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462591860,
+    "wof:geomhash":"0e026396aef5383ed05e44009fd5a8bb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087471,
+            "locality_id":85971289,
+            "neighbourhood_id":85814333,
+            "region_id":85688661,
+            "venue_id":789946501
+        }
+    ],
+    "wof:id":789946501,
+    "wof:lastmodified":1462591860,
+    "wof:name":"Big Dog Construction",
+    "wof:parent_id":85814333,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -94.612307,
+    36.828095,
+    -94.612307,
+    36.828095
+],
+  "geometry": {"coordinates":[-94.612307,36.828095],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 773784303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.8321,38.821147,-90.8321,38.821147",
+    "geom:latitude":38.821147,
+    "geom:longitude":-90.8321,
+    "iso:country":"US",
+    "sg:address":"1255 Sachs Ln",
+    "sg:city":"Wentzville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 639 1000",
+    "sg:postcode":"63385",
+    "sg:province":"MO",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4BJNOYMDZYZeu6dOuSe196_38.821147_-90.832100@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462588349,
+    "wof:geomhash":"c71fc7c4212003babccee2c2e501478b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":773784303
+        }
+    ],
+    "wof:id":773784303,
+    "wof:lastmodified":1462588349,
+    "wof:name":"Vascor",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -90.8321,
+    38.821147,
+    -90.8321,
+    38.821147
+],
+  "geometry": {"coordinates":[-90.8321,38.821147],"type":"Point"}
+}

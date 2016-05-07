@@ -1,0 +1,80 @@
+{
+  "id": 790094643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.44143,38.981021,-94.44143,38.981021",
+    "geom:latitude":38.981021,
+    "geom:longitude":-94.44143,
+    "iso:country":"US",
+    "sg:address":"12000 E 78 St",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 356 4909",
+    "sg:postcode":"64138",
+    "sg:province":"MO",
+    "sg:tags":[
+        "janitor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85828679,
+        102191575,
+        404518075,
+        85633793,
+        85970739,
+        102081227,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6dauXSGqIuflnTscyKEvgN_38.981021_-94.441430@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462593087,
+    "wof:geomhash":"f98663071c2db606b37a7672756c0510",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081227,
+            "localadmin_id":404518075,
+            "locality_id":85970739,
+            "neighbourhood_id":85828679,
+            "region_id":85688661,
+            "venue_id":790094643
+        }
+    ],
+    "wof:id":790094643,
+    "wof:lastmodified":1462593087,
+    "wof:name":"Jackson County Janitorial Svc",
+    "wof:parent_id":85828679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitor"
+    ]
+},
+  "bbox": [
+    -94.44143,
+    38.981021,
+    -94.44143,
+    38.981021
+],
+  "geometry": {"coordinates":[-94.44143,38.981021],"type":"Point"}
+}

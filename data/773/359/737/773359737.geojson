@@ -1,0 +1,80 @@
+{
+  "id": 773359737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.57731,39.133908,-94.57731,39.133908",
+    "geom:latitude":39.133908,
+    "geom:longitude":-94.57731,
+    "iso:country":"US",
+    "sg:address":"1315 Swift Ave",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 471 8780",
+    "sg:postcode":"64116",
+    "sg:province":"MO",
+    "sg:tags":[
+        "drinking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85823983,
+        102191575,
+        404516715,
+        85633793,
+        85972453,
+        102086177,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_25WobFheXttAsFoDJ7uQLe_39.133908_-94.577310@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462585113,
+    "wof:geomhash":"6d1c9499c62c6066a31b12a3f9f2cb2a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086177,
+            "localadmin_id":404516715,
+            "locality_id":85972453,
+            "neighbourhood_id":85823983,
+            "region_id":85688661,
+            "venue_id":773359737
+        }
+    ],
+    "wof:id":773359737,
+    "wof:lastmodified":1462585113,
+    "wof:name":"Pat's Pub",
+    "wof:parent_id":85823983,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drinking"
+    ]
+},
+  "bbox": [
+    -94.57731,
+    39.133908,
+    -94.57731,
+    39.133908
+],
+  "geometry": {"coordinates":[-94.57731,39.133908],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 790599597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.486808,37.744065,-90.486808,37.744065",
+    "geom:latitude":37.744065,
+    "geom:longitude":-90.486808,
+    "iso:country":"US",
+    "sg:address":"3381 Hamilton Town Rd",
+    "sg:city":"Doe Run",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 760 8601",
+    "sg:postcode":"63640",
+    "sg:province":"MO",
+    "sg:tags":[
+        "home",
+        "convalescent"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970665,
+        102085297,
+        85816309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6wn1SWzDDajhISaOr2ORVN_37.744065_-90.486808@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462597222,
+    "wof:geomhash":"a972b1281e7de2a621cfcfa1b100e925",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085297,
+            "locality_id":85970665,
+            "neighbourhood_id":85816309,
+            "region_id":85688661,
+            "venue_id":790599597
+        }
+    ],
+    "wof:id":790599597,
+    "wof:lastmodified":1462597222,
+    "wof:name":"Pine Valley Boarding Home",
+    "wof:parent_id":85816309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "convalescent"
+    ]
+},
+  "bbox": [
+    -90.486808,
+    37.744065,
+    -90.486808,
+    37.744065
+],
+  "geometry": {"coordinates":[-90.486808,37.744065],"type":"Point"}
+}

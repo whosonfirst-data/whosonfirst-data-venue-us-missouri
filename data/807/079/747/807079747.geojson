@@ -1,0 +1,74 @@
+{
+  "id": 807079747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.585014,39.36269,-94.585014,39.36269",
+    "geom:latitude":39.36269,
+    "geom:longitude":-94.585014,
+    "iso:country":"US",
+    "sg:address":"1506 S Us Highway 169",
+    "sg:city":"Smithville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/platte/201646-sonic/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 532 9190",
+    "sg:postcode":"64089",
+    "sg:province":"MO",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970739,
+        102086177,
+        85836329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_73DMghBoq3E0PDFkbuTC57_39.362690_-94.585014@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462603531,
+    "wof:geomhash":"8b31ec26943982df998aaf3878249787",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086177,
+            "locality_id":85970739,
+            "neighbourhood_id":85836329,
+            "region_id":85688661,
+            "venue_id":807079747
+        }
+    ],
+    "wof:id":807079747,
+    "wof:lastmodified":1462603531,
+    "wof:name":"Sonic",
+    "wof:parent_id":85836329,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -94.585014,
+    39.36269,
+    -94.585014,
+    39.36269
+],
+  "geometry": {"coordinates":[-94.585014,39.36269],"type":"Point"}
+}

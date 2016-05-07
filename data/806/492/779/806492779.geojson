@@ -1,0 +1,72 @@
+{
+  "id": 806492779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.562657,38.796825,-90.562657,38.796825",
+    "geom:latitude":38.796825,
+    "geom:longitude":-90.562657,
+    "iso:country":"US",
+    "sg:address":"3555 Franks Dr",
+    "sg:city":"St Charles",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Vocational School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 724 7100",
+    "sg:postcode":"63301",
+    "sg:province":"MO",
+    "sg:tags":[
+        "secretarial"
+    ],
+    "sg:website":"www.sanford-brown.edu",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1t5mSAjpVmsv42mB2bjksc_38.796825_-90.562657@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462598562,
+    "wof:geomhash":"9399e9d8a9f7e1a9e82698b304ca769a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":806492779
+        }
+    ],
+    "wof:id":806492779,
+    "wof:lastmodified":1462598562,
+    "wof:name":"Sanford-Brown College",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "secretarial"
+    ]
+},
+  "bbox": [
+    -90.562657,
+    38.796825,
+    -90.562657,
+    38.796825
+],
+  "geometry": {"coordinates":[-90.562657,38.796825],"type":"Point"}
+}

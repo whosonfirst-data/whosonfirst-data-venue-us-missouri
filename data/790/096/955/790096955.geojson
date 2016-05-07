@@ -1,0 +1,77 @@
+{
+  "id": 790096955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.337052,38.749747,-90.337052,38.749747",
+    "geom:latitude":38.749747,
+    "geom:longitude":-90.337052,
+    "iso:country":"US",
+    "sg:address":"8655 Airport Rd",
+    "sg:city":"Berkeley",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 521 3986",
+    "sg:postcode":"63134",
+    "sg:province":"MO",
+    "sg:tags":[
+        "postal",
+        "us"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85859027,
+        102191575,
+        404517247,
+        85633793,
+        85972205,
+        102086173,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7CULqYzG4vCnEvaFxFid5r_38.749747_-90.337052@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462593102,
+    "wof:geomhash":"74ac7b7bec956abdd66194afaa9d10fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086173,
+            "localadmin_id":404517247,
+            "locality_id":85972205,
+            "neighbourhood_id":85859027,
+            "region_id":85688661,
+            "venue_id":790096955
+        }
+    ],
+    "wof:id":790096955,
+    "wof:lastmodified":1462593102,
+    "wof:name":"US Post Office",
+    "wof:parent_id":85859027,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "postal",
+        "us"
+    ]
+},
+  "bbox": [
+    -90.337052,
+    38.749747,
+    -90.337052,
+    38.749747
+],
+  "geometry": {"coordinates":[-90.337052,38.749747],"type":"Point"}
+}

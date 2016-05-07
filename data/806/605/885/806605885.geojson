@@ -1,0 +1,73 @@
+{
+  "id": 806605885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.737037,37.995897,-91.737037,37.995897",
+    "geom:latitude":37.995897,
+    "geom:longitude":-91.737037,
+    "iso:country":"US",
+    "sg:address":"10490 Co Rd 2060",
+    "sg:city":"Rolla",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 364 8000",
+    "sg:postcode":"65401",
+    "sg:province":"MO",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970821,
+        102086893,
+        85814531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7VgDg6OOsrG8VfdVx7wz4j_37.995897_-91.737037@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462599535,
+    "wof:geomhash":"df2102b0b04291572974a79d982bb0f4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086893,
+            "locality_id":85970821,
+            "neighbourhood_id":85814531,
+            "region_id":85688661,
+            "venue_id":806605885
+        }
+    ],
+    "wof:id":806605885,
+    "wof:lastmodified":1462599535,
+    "wof:name":"Rolla Plumbing",
+    "wof:parent_id":85814531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -91.737037,
+    37.995897,
+    -91.737037,
+    37.995897
+],
+  "geometry": {"coordinates":[-91.737037,37.995897],"type":"Point"}
+}

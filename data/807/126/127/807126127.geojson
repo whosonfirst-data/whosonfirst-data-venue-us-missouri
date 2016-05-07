@@ -1,0 +1,85 @@
+{
+  "id": 807126127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.73216,38.484064,-90.73216,38.484064",
+    "geom:latitude":38.484064,
+    "geom:longitude":-90.73216,
+    "iso:country":"US",
+    "sg:address":"819 E Osage St",
+    "sg:city":"Pacific",
+    "sg:classifiers":[
+        {
+            "category":"Mining & Drilling",
+            "subcategory":"",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Utilities",
+            "subcategory":"Fuel Oil & Lpg",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 257 2464",
+    "sg:postcode":"63069",
+    "sg:province":"MO",
+    "sg:tags":[
+        "miner",
+        "shipper",
+        "coal"
+    ],
+    "sg:website":"http://www.u-s-silica.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85809151,
+        102191575,
+        404517383,
+        85633793,
+        85972199,
+        102086173,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7NjEbRFCyTLlOroFoVydgB_38.484064_-90.732160@1303262926"
+    },
+    "wof:country":"US",
+    "wof:created":1462604011,
+    "wof:geomhash":"c5279c41bb72f8df434e3266304e4108",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086173,
+            "localadmin_id":404517383,
+            "locality_id":85972199,
+            "neighbourhood_id":85809151,
+            "region_id":85688661,
+            "venue_id":807126127
+        }
+    ],
+    "wof:id":807126127,
+    "wof:lastmodified":1462604011,
+    "wof:name":"U. S. Silica Company",
+    "wof:parent_id":85809151,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "miner",
+        "shipper",
+        "coal"
+    ]
+},
+  "bbox": [
+    -90.73216,
+    38.484064,
+    -90.73216,
+    38.484064
+],
+  "geometry": {"coordinates":[-90.73215999999999,38.484064],"type":"Point"}
+}

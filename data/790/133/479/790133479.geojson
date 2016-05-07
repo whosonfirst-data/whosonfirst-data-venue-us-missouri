@@ -1,0 +1,73 @@
+{
+  "id": 790133479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.484514,38.788462,-90.484514,38.788462",
+    "geom:latitude":38.788462,
+    "geom:longitude":-90.484514,
+    "iso:country":"US",
+    "sg:address":"617 N Benton Ave",
+    "sg:city":"St Charles",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 946 1607",
+    "sg:postcode":"63301",
+    "sg:province":"MO",
+    "sg:tags":[
+        "masonry",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4NARfqdKw5gadxgoPJRJiY_38.788462_-90.484514@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462593384,
+    "wof:geomhash":"020a2689e83339eedaa28d83472fc21d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":790133479
+        }
+    ],
+    "wof:id":790133479,
+    "wof:lastmodified":1462593384,
+    "wof:name":"Thomas Masonary",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "masonry",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -90.484514,
+    38.788462,
+    -90.484514,
+    38.788462
+],
+  "geometry": {"coordinates":[-90.484514,38.788462],"type":"Point"}
+}

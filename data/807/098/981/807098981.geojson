@@ -1,0 +1,79 @@
+{
+  "id": 807098981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.36214,39.367916,-94.36214,39.367916",
+    "geom:latitude":39.367916,
+    "geom:longitude":-94.36214,
+    "iso:country":"US",
+    "sg:address":"102 E 6th St",
+    "sg:city":"Kearney",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/kearney/41222-caseys-general-store/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 635 6602",
+    "sg:postcode":"64060",
+    "sg:province":"MO",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971507,
+        102086177,
+        85812855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4bPfLeMwAIotcF6DIskMzD_39.367974_-94.362159@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462603710,
+    "wof:geomhash":"324995fff1bd0298ce80a91c021bfe49",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086177,
+            "locality_id":85971507,
+            "neighbourhood_id":85812855,
+            "region_id":85688661,
+            "venue_id":807098981
+        }
+    ],
+    "wof:id":807098981,
+    "wof:lastmodified":1462603710,
+    "wof:name":"Casey's General Store",
+    "wof:parent_id":85812855,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -94.36214,
+    39.367916,
+    -94.36214,
+    39.367916
+],
+  "geometry": {"coordinates":[-94.36214,39.367916],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 807096521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.391817,38.415881,-90.391817,38.415881",
+    "geom:latitude":38.415881,
+    "geom:longitude":-90.391817,
+    "iso:country":"US",
+    "sg:address":"3827 Vogel Rd",
+    "sg:city":"Arnold",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/arnold/157847-fortels-pizza-den/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 282 1111",
+    "sg:postcode":"63010",
+    "sg:province":"MO",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85805175,
+        102080787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2DAa82WVC4iAySQmrsLugd_38.415505_-90.392474@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462603680,
+    "wof:geomhash":"516377a2377cecf540e62a2c1f8e0ace",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080787,
+            "neighbourhood_id":85805175,
+            "region_id":85688661,
+            "venue_id":807096521
+        }
+    ],
+    "wof:id":807096521,
+    "wof:lastmodified":1462603680,
+    "wof:name":"Fortel's Pizza Den",
+    "wof:parent_id":85805175,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -90.391817,
+    38.415881,
+    -90.391817,
+    38.415881
+],
+  "geometry": {"coordinates":[-90.391817,38.415881],"type":"Point"}
+}

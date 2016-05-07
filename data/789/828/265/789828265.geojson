@@ -1,0 +1,73 @@
+{
+  "id": 789828265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.377892,38.40981,-90.377892,38.40981",
+    "geom:latitude":38.40981,
+    "geom:longitude":-90.377892,
+    "iso:country":"US",
+    "sg:address":"1460 Ro Jo Ja Dr",
+    "sg:city":"Arnold",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 464 4121",
+    "sg:postcode":"63010",
+    "sg:province":"MO",
+    "sg:tags":[
+        "excavating",
+        "sewer",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85805175,
+        102080787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7LkTmfnZ0frnfLJMBSjvpM_38.409810_-90.377892@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462590859,
+    "wof:geomhash":"fb78742836b221273ae18adb7199e605",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080787,
+            "neighbourhood_id":85805175,
+            "region_id":85688661,
+            "venue_id":789828265
+        }
+    ],
+    "wof:id":789828265,
+    "wof:lastmodified":1462590859,
+    "wof:name":"Larry Blankenship Site Works",
+    "wof:parent_id":85805175,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavating",
+        "sewer",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -90.377892,
+    38.40981,
+    -90.377892,
+    38.40981
+],
+  "geometry": {"coordinates":[-90.377892,38.40981],"type":"Point"}
+}

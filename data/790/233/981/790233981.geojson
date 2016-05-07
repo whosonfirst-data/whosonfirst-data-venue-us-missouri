@@ -1,0 +1,86 @@
+{
+  "id": 790233981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.556231,39.094831,-94.556231,39.094831",
+    "geom:latitude":39.094831,
+    "geom:longitude":-94.556231,
+    "iso:country":"US",
+    "sg:address":"2101 E Truman Rd",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Building Materials",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Furniture",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 221 7011",
+    "sg:postcode":"64127",
+    "sg:province":"MO",
+    "sg:tags":[
+        "mfg",
+        "wood",
+        "kitchen",
+        "cabinet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872021,
+        102191575,
+        404518075,
+        85633793,
+        85970739,
+        102081227,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0j0SJJ0Fzu85EZOzlC91S4_39.094831_-94.556231@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462594203,
+    "wof:geomhash":"f4d062af01295c252fc2d6b3444c7dec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081227,
+            "localadmin_id":404518075,
+            "locality_id":85970739,
+            "neighbourhood_id":85872021,
+            "region_id":85688661,
+            "venue_id":790233981
+        }
+    ],
+    "wof:id":790233981,
+    "wof:lastmodified":1462594203,
+    "wof:name":"C & S Wood Shop Inc",
+    "wof:parent_id":85872021,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mfg",
+        "wood",
+        "kitchen",
+        "cabinet"
+    ]
+},
+  "bbox": [
+    -94.556231,
+    39.094831,
+    -94.556231,
+    39.094831
+],
+  "geometry": {"coordinates":[-94.556231,39.094831],"type":"Point"}
+}

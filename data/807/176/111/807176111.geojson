@@ -1,0 +1,76 @@
+{
+  "id": 807176111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.264647,38.599144,-90.264647,38.599144",
+    "geom:latitude":38.599144,
+    "geom:longitude":-90.264647,
+    "iso:country":"US",
+    "sg:address":"3260 S Kingshighway Blvd",
+    "sg:city":"Saint Louis",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 752 5852",
+    "sg:postcode":"63139",
+    "sg:province":"MO",
+    "sg:tags":[
+        "car"
+    ],
+    "sg:website":"www.enterprise.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873681,
+        102191575,
+        404518053,
+        85633793,
+        85971343,
+        102080791,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Xi8RAiVsqhFle6SZPYcN4_38.599144_-90.264647@1303262930"
+    },
+    "wof:country":"US",
+    "wof:created":1462604548,
+    "wof:geomhash":"d5e3b2ebfb28038626726f04bc2b7799",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080791,
+            "localadmin_id":404518053,
+            "locality_id":85971343,
+            "neighbourhood_id":85873681,
+            "region_id":85688661,
+            "venue_id":807176111
+        }
+    ],
+    "wof:id":807176111,
+    "wof:lastmodified":1462604548,
+    "wof:name":"Enterprise Rent-A Car",
+    "wof:parent_id":85873681,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car"
+    ]
+},
+  "bbox": [
+    -90.264647,
+    38.599144,
+    -90.264647,
+    38.599144
+],
+  "geometry": {"coordinates":[-90.264647,38.599144],"type":"Point"}
+}

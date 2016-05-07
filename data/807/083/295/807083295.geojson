@@ -1,0 +1,78 @@
+{
+  "id": 807083295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.544031,39.187783,-94.544031,39.187783",
+    "geom:latitude":39.187783,
+    "geom:longitude":-94.544031,
+    "iso:country":"US",
+    "sg:address":"3003 NE Vivion Rd",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/chouteau/65797-pizza-hut/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 455 6157",
+    "sg:postcode":"64119",
+    "sg:province":"MO",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85823153,
+        102191575,
+        404518075,
+        85633793,
+        85970739,
+        102081227,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_09w5VTs6GUbgGVWEpLLymm_39.187783_-94.544031@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462603560,
+    "wof:geomhash":"92ae150cf07e6129b1cf9d7f7d2e99cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081227,
+            "localadmin_id":404518075,
+            "locality_id":85970739,
+            "neighbourhood_id":85823153,
+            "region_id":85688661,
+            "venue_id":807083295
+        }
+    ],
+    "wof:id":807083295,
+    "wof:lastmodified":1462603560,
+    "wof:name":"Pizza Hut",
+    "wof:parent_id":85823153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -94.544031,
+    39.187783,
+    -94.544031,
+    39.187783
+],
+  "geometry": {"coordinates":[-94.544031,39.187783],"type":"Point"}
+}

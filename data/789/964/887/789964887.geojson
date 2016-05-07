@@ -1,0 +1,75 @@
+{
+  "id": 789964887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.508479,38.826519,-90.508479,38.826519",
+    "geom:latitude":38.826519,
+    "geom:longitude":-90.508479,
+    "iso:country":"US",
+    "sg:address":"3850 Mueller Rd",
+    "sg:city":"Saint Charles",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 949 9701",
+    "sg:postcode":"63301",
+    "sg:province":"MO",
+    "sg:tags":[
+        "passenger",
+        "leasing",
+        "car"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1JFM3guVq0Z1cPoRhG2HpJ_38.826519_-90.508479@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462592036,
+    "wof:geomhash":"3813ad8c11fbc947998421d8632d928f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":789964887
+        }
+    ],
+    "wof:id":789964887,
+    "wof:lastmodified":1462592036,
+    "wof:name":"Hogan Motor Leasing",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "passenger",
+        "leasing",
+        "car"
+    ]
+},
+  "bbox": [
+    -90.508479,
+    38.826519,
+    -90.508479,
+    38.826519
+],
+  "geometry": {"coordinates":[-90.50847899999999,38.826519],"type":"Point"}
+}

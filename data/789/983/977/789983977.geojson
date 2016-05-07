@@ -1,0 +1,73 @@
+{
+  "id": 789983977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.194151,39.342729,-91.194151,39.342729",
+    "geom:latitude":39.342729,
+    "geom:longitude":-91.194151,
+    "iso:country":"US",
+    "sg:address":"11 N Main Cross St",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 324 2252",
+    "sg:postcode":"63334",
+    "sg:province":"MO",
+    "sg:tags":[
+        "household",
+        "appliance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971907,
+        102086151,
+        85817909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2YV6yWDXxdazymj36GzNVq_39.342729_-91.194151@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462592201,
+    "wof:geomhash":"1eb6bcefee41f45df35e137133476070",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086151,
+            "locality_id":85971907,
+            "neighbourhood_id":85817909,
+            "region_id":85688661,
+            "venue_id":789983977
+        }
+    ],
+    "wof:id":789983977,
+    "wof:lastmodified":1462592201,
+    "wof:name":"Hometown TV & Appliances Corp",
+    "wof:parent_id":85817909,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "household",
+        "appliance"
+    ]
+},
+  "bbox": [
+    -91.194151,
+    39.342729,
+    -91.194151,
+    39.342729
+],
+  "geometry": {"coordinates":[-91.19415100000001,39.342729],"type":"Point"}
+}

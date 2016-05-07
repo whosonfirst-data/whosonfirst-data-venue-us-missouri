@@ -1,0 +1,77 @@
+{
+  "id": 806678935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.279849,38.752224,-90.279849,38.752224",
+    "geom:latitude":38.752224,
+    "geom:longitude":-90.279849,
+    "iso:country":"US",
+    "sg:address":"10000 W Florissant Ave",
+    "sg:city":"Saint Louis",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 867 6292",
+    "sg:postcode":"63136",
+    "sg:province":"MO",
+    "sg:tags":[
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85859027,
+        102191575,
+        404517247,
+        85633793,
+        85972205,
+        102086173,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4trxgbyfRXkUwmgzC1SLKy_38.752224_-90.279849@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462600162,
+    "wof:geomhash":"593ff249f6f12000f625c5adf688ae77",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086173,
+            "localadmin_id":404517247,
+            "locality_id":85972205,
+            "neighbourhood_id":85859027,
+            "region_id":85688661,
+            "venue_id":806678935
+        }
+    ],
+    "wof:id":806678935,
+    "wof:lastmodified":1462600162,
+    "wof:name":"Amoco",
+    "wof:parent_id":85859027,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -90.279849,
+    38.752224,
+    -90.279849,
+    38.752224
+],
+  "geometry": {"coordinates":[-90.279849,38.752224],"type":"Point"}
+}

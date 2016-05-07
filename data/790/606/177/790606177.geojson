@@ -1,0 +1,73 @@
+{
+  "id": 790606177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.52828,38.38294,-90.52828,38.38294",
+    "geom:latitude":38.38294,
+    "geom:longitude":-90.52828,
+    "iso:country":"US",
+    "sg:address":"5501 Echo Valley Dr",
+    "sg:city":"House Springs",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 942 2646",
+    "sg:postcode":"63051",
+    "sg:province":"MO",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85805175,
+        102080787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0AYZQSgbafYJ9N40B31V3t_38.382940_-90.528280@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462597273,
+    "wof:geomhash":"73546a85276b98d7397de15d5ff6ea04",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080787,
+            "neighbourhood_id":85805175,
+            "region_id":85688661,
+            "venue_id":790606177
+        }
+    ],
+    "wof:id":790606177,
+    "wof:lastmodified":1462597273,
+    "wof:name":"Sonnys Hauling",
+    "wof:parent_id":85805175,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -90.52828,
+    38.38294,
+    -90.52828,
+    38.38294
+],
+  "geometry": {"coordinates":[-90.52828,38.38294],"type":"Point"}
+}

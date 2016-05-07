@@ -1,0 +1,77 @@
+{
+  "id": 789990087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.639585,39.185454,-94.639585,39.185454",
+    "geom:latitude":39.185454,
+    "geom:longitude":-94.639585,
+    "iso:country":"US",
+    "sg:address":"4812 N Green Hills Rd",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 587 3873",
+    "sg:postcode":"64151",
+    "sg:province":"MO",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85840629,
+        102191575,
+        404517567,
+        85633793,
+        85970495,
+        102085271,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_41kna7DyHUlwRrLQw8gMmy_39.185454_-94.639585@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462592246,
+    "wof:geomhash":"a03761cda3dfc22061ae875f620b2a9e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085271,
+            "localadmin_id":404517567,
+            "locality_id":85970495,
+            "neighbourhood_id":85840629,
+            "region_id":85688661,
+            "venue_id":789990087
+        }
+    ],
+    "wof:id":789990087,
+    "wof:lastmodified":1462592246,
+    "wof:name":"Associated Elec Engineerers",
+    "wof:parent_id":85840629,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -94.639585,
+    39.185454,
+    -94.639585,
+    39.185454
+],
+  "geometry": {"coordinates":[-94.639585,39.185454],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 806450797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.77058,37.948371,-91.77058,37.948371",
+    "geom:latitude":37.948371,
+    "geom:longitude":-91.77058,
+    "iso:country":"US",
+    "sg:address":"100 E 6th St",
+    "sg:city":"Rolla",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 364 5434",
+    "sg:postcode":"65401",
+    "sg:province":"MO",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970821,
+        102086893,
+        85814531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_07Dh0qJMdhQXwMWYKjFpFS_37.948371_-91.770580@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462598249,
+    "wof:geomhash":"88c86371647b51583a741b7809162536",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086893,
+            "locality_id":85970821,
+            "neighbourhood_id":85814531,
+            "region_id":85688661,
+            "venue_id":806450797
+        }
+    ],
+    "wof:id":806450797,
+    "wof:lastmodified":1462598249,
+    "wof:name":"Muffler Mart",
+    "wof:parent_id":85814531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -91.77058,
+    37.948371,
+    -91.77058,
+    37.948371
+],
+  "geometry": {"coordinates":[-91.77058,37.948371],"type":"Point"}
+}

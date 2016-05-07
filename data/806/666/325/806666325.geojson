@@ -1,0 +1,71 @@
+{
+  "id": 806666325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.383221,38.487056,-90.383221,38.487056",
+    "geom:latitude":38.487056,
+    "geom:longitude":-90.383221,
+    "iso:country":"US",
+    "sg:address":"13146 Tesson Ferry Rd",
+    "sg:city":"Saint Louis",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 843 7644",
+    "sg:postcode":"63128",
+    "sg:province":"MO",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971021,
+        102080787,
+        85832925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3g8tIQ4eEOaS62wD5XXiaI_38.487056_-90.383221@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462600050,
+    "wof:geomhash":"33c7c000aea55fb0f1825d0da72307f4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080787,
+            "locality_id":85971021,
+            "neighbourhood_id":85832925,
+            "region_id":85688661,
+            "venue_id":806666325
+        }
+    ],
+    "wof:id":806666325,
+    "wof:lastmodified":1462600050,
+    "wof:name":"Subway",
+    "wof:parent_id":85832925,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -90.383221,
+    38.487056,
+    -90.383221,
+    38.487056
+],
+  "geometry": {"coordinates":[-90.38322100000001,38.487056],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 789697367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.380067,38.488499,-90.380067,38.488499",
+    "geom:latitude":38.488499,
+    "geom:longitude":-90.380067,
+    "iso:country":"US",
+    "sg:address":"13131 East Ln",
+    "sg:city":"Saint Louis",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 849 1996",
+    "sg:postcode":"63128",
+    "sg:province":"MO",
+    "sg:tags":[
+        "carpentry",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971021,
+        102080787,
+        85832925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1S6axsWi0pXWAfZpASno2Q_38.488499_-90.380067@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462589840,
+    "wof:geomhash":"5b75ffec003188c5f92aa8dc326ad576",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080787,
+            "locality_id":85971021,
+            "neighbourhood_id":85832925,
+            "region_id":85688661,
+            "venue_id":789697367
+        }
+    ],
+    "wof:id":789697367,
+    "wof:lastmodified":1462589840,
+    "wof:name":"A & D Exteriors",
+    "wof:parent_id":85832925,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carpentry",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -90.380067,
+    38.488499,
+    -90.380067,
+    38.488499
+],
+  "geometry": {"coordinates":[-90.380067,38.488499],"type":"Point"}
+}

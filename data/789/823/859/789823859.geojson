@@ -1,0 +1,79 @@
+{
+  "id": 789823859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.23012,38.705301,-90.23012,38.705301",
+    "geom:latitude":38.705301,
+    "geom:longitude":-90.23012,
+    "iso:country":"US",
+    "sg:address":"7700 N Broadway",
+    "sg:city":"St Louis",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 381 6268",
+    "sg:postcode":"63147",
+    "sg:province":"MO",
+    "sg:tags":[
+        "car",
+        "used",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873605,
+        102191575,
+        404518053,
+        85633793,
+        85971343,
+        102080791,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Vp0y4oxInpTc2xH6b4Tii_38.705301_-90.230120@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462590824,
+    "wof:geomhash":"eae531b34ea80a4684a5357564b3cb7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080791,
+            "localadmin_id":404518053,
+            "locality_id":85971343,
+            "neighbourhood_id":85873605,
+            "region_id":85688661,
+            "venue_id":789823859
+        }
+    ],
+    "wof:id":789823859,
+    "wof:lastmodified":1462590824,
+    "wof:name":"G & M Motors",
+    "wof:parent_id":85873605,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "used",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -90.23012,
+    38.705301,
+    -90.23012,
+    38.705301
+],
+  "geometry": {"coordinates":[-90.23012,38.705301],"type":"Point"}
+}

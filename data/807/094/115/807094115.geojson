@@ -1,0 +1,72 @@
+{
+  "id": 807094115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.26107,37.223538,-93.26107,37.223538",
+    "geom:latitude":37.223538,
+    "geom:longitude":-93.26107,
+    "iso:country":"US",
+    "sg:address":"1348 N Glenstone Ave",
+    "sg:city":"Springfield",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/springfield/195693-taco-bell/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 862 2554",
+    "sg:postcode":"65802",
+    "sg:province":"MO",
+    "sg:tags":[
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971363,
+        102087523,
+        85881137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Z4vfjyZyuqzq5m2wdIQeQ_37.223538_-93.261070@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462603655,
+    "wof:geomhash":"f73fef6840521b551aee6c1e82e03955",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087523,
+            "locality_id":85971363,
+            "neighbourhood_id":85881137,
+            "region_id":85688661,
+            "venue_id":807094115
+        }
+    ],
+    "wof:id":807094115,
+    "wof:lastmodified":1462603655,
+    "wof:name":"Taco Bell",
+    "wof:parent_id":85881137,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican"
+    ]
+},
+  "bbox": [
+    -93.26107,
+    37.223538,
+    -93.26107,
+    37.223538
+],
+  "geometry": {"coordinates":[-93.26107,37.223538],"type":"Point"}
+}

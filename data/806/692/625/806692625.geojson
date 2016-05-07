@@ -1,0 +1,71 @@
+{
+  "id": 806692625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.404368,37.778774,-90.404368,37.778774",
+    "geom:latitude":37.778774,
+    "geom:longitude":-90.404368,
+    "iso:country":"US",
+    "sg:address":"1213 E Karsch Blvd",
+    "sg:city":"Farmington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 756 8698",
+    "sg:postcode":"63640",
+    "sg:province":"MO",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970665,
+        102085297,
+        85816309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6WALJgGxtb2q8ZauLM5KKn_37.778774_-90.404368@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462600277,
+    "wof:geomhash":"8990dbf0330c29fa7f1cc0c04502693c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085297,
+            "locality_id":85970665,
+            "neighbourhood_id":85816309,
+            "region_id":85688661,
+            "venue_id":806692625
+        }
+    ],
+    "wof:id":806692625,
+    "wof:lastmodified":1462600277,
+    "wof:name":"Ace Towing",
+    "wof:parent_id":85816309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -90.404368,
+    37.778774,
+    -90.404368,
+    37.778774
+],
+  "geometry": {"coordinates":[-90.40436800000001,37.778774],"type":"Point"}
+}

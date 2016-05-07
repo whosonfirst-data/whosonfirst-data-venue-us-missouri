@@ -1,0 +1,71 @@
+{
+  "id": 790474489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.852933,36.72806,-91.852933,36.72806",
+    "geom:latitude":36.72806,
+    "geom:longitude":-91.852933,
+    "iso:country":"US",
+    "sg:address":"101 W Main St",
+    "sg:city":"West Plains",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 867 3245",
+    "sg:postcode":"65775",
+    "sg:province":"MO",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971791,
+        102086179,
+        85851373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3bK8V1Yvu8iuSkMFFNu5zK_36.728060_-91.852933@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462596147,
+    "wof:geomhash":"9b4b445196ecf36c57fede4a6a5b90ac",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086179,
+            "locality_id":85971791,
+            "neighbourhood_id":85851373,
+            "region_id":85688661,
+            "venue_id":790474489
+        }
+    ],
+    "wof:id":790474489,
+    "wof:lastmodified":1462596147,
+    "wof:name":"Brandsville Fire Protection",
+    "wof:parent_id":85851373,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -91.852933,
+    36.72806,
+    -91.852933,
+    36.72806
+],
+  "geometry": {"coordinates":[-91.85293299999999,36.72806],"type":"Point"}
+}

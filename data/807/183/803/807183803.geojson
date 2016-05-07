@@ -1,0 +1,71 @@
+{
+  "id": 807183803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.875347,38.813461,-90.875347,38.813461",
+    "geom:latitude":38.813461,
+    "geom:longitude":-90.875347,
+    "iso:country":"US",
+    "sg:address":"1951 Wentzville Pkwy",
+    "sg:city":"Wentzville",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Discount & Variety Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 639 1006",
+    "sg:postcode":"63385",
+    "sg:province":"MO",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1zWjqSkV3QWzvfDU1kRcVT_38.813461_-90.875347@1303262930"
+    },
+    "wof:country":"US",
+    "wof:created":1462604623,
+    "wof:geomhash":"53cb965cc7f7fc0894e11522af15c150",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":807183803
+        }
+    ],
+    "wof:id":807183803,
+    "wof:lastmodified":1462604623,
+    "wof:name":"Deals",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.875347,
+    38.813461,
+    -90.875347,
+    38.813461
+],
+  "geometry": {"coordinates":[-90.875347,38.813461],"type":"Point"}
+}

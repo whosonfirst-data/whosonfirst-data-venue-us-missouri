@@ -1,0 +1,82 @@
+{
+  "id": 806737919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.576515,39.210199,-94.576515,39.210199",
+    "geom:latitude":39.210199,
+    "geom:longitude":-94.576515,
+    "iso:country":"US",
+    "sg:address":"302 NE 64 St",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 436 4490",
+    "sg:postcode":"64118",
+    "sg:province":"MO",
+    "sg:tags":[
+        "apartment",
+        "complex"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85830711,
+        102191575,
+        404516715,
+        85633793,
+        85972467,
+        102086177,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_32IWhW2W0dZdmrB2mbjRss_39.210199_-94.576515@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462600662,
+    "wof:geomhash":"092be1642bddd2a7c0f25ec3256297f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086177,
+            "localadmin_id":404516715,
+            "locality_id":85972467,
+            "neighbourhood_id":85830711,
+            "region_id":85688661,
+            "venue_id":806737919
+        }
+    ],
+    "wof:id":806737919,
+    "wof:lastmodified":1462600662,
+    "wof:name":"Vienna Square Apartments",
+    "wof:parent_id":85830711,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment",
+        "complex"
+    ]
+},
+  "bbox": [
+    -94.576515,
+    39.210199,
+    -94.576515,
+    39.210199
+],
+  "geometry": {"coordinates":[-94.576515,39.210199],"type":"Point"}
+}

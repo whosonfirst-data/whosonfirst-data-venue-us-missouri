@@ -1,0 +1,73 @@
+{
+  "id": 807256479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.344295,39.06101,-92.344295,39.06101",
+    "geom:latitude":39.06101,
+    "geom:longitude":-92.344295,
+    "iso:country":"US",
+    "sg:address":"601 W Worstell Ln",
+    "sg:city":"Columbia",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Detective & Security Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 673 2485",
+    "sg:postcode":"65202",
+    "sg:province":"MO",
+    "sg:tags":[
+        "private",
+        "investigator"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970425,
+        102086187,
+        85851713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5hjKAbZgm03Q2LzYmRMkC4_39.061010_-92.344295@1303262935"
+    },
+    "wof:country":"US",
+    "wof:created":1462605393,
+    "wof:geomhash":"6f92cb1f792ae315209ecb7d82620152",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086187,
+            "locality_id":85970425,
+            "neighbourhood_id":85851713,
+            "region_id":85688661,
+            "venue_id":807256479
+        }
+    ],
+    "wof:id":807256479,
+    "wof:lastmodified":1462605393,
+    "wof:name":"Columbia Investigations",
+    "wof:parent_id":85851713,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "private",
+        "investigator"
+    ]
+},
+  "bbox": [
+    -92.344295,
+    39.06101,
+    -92.344295,
+    39.06101
+],
+  "geometry": {"coordinates":[-92.344295,39.06101],"type":"Point"}
+}

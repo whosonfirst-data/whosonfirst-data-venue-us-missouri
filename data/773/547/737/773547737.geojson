@@ -1,0 +1,74 @@
+{
+  "id": 773547737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.854482,38.823683,-90.854482,38.823683",
+    "geom:latitude":38.823683,
+    "geom:longitude":-90.854482,
+    "iso:country":"US",
+    "sg:address":"1092 Wentzville Pkwy",
+    "sg:city":"Wentzville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 639 8600",
+    "sg:postcode":"63385",
+    "sg:province":"MO",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "sg:website":"www.mocancercare.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5OUXny725QTt8UN08RSM0x_38.823683_-90.854482@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462586550,
+    "wof:geomhash":"37af41dd6970f1c2aebbe80f427d4a2b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":773547737
+        }
+    ],
+    "wof:id":773547737,
+    "wof:lastmodified":1462586550,
+    "wof:name":"Missouri Cancer Care",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -90.854482,
+    38.823683,
+    -90.854482,
+    38.823683
+],
+  "geometry": {"coordinates":[-90.854482,38.823683],"type":"Point"}
+}

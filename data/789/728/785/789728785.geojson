@@ -1,0 +1,75 @@
+{
+  "id": 789728785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.539957,37.085047,-94.539957,37.085047",
+    "geom:latitude":37.085047,
+    "geom:longitude":-94.539957,
+    "iso:country":"US",
+    "sg:address":"423 S Oliver Ave",
+    "sg:city":"Joplin",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 782 6998",
+    "sg:postcode":"64801",
+    "sg:province":"MO",
+    "sg:tags":[
+        "commercial",
+        "storage",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970893,
+        102087525,
+        85810925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1bSt1HaaMdMr1aElrWL4pQ_37.085047_-94.539957@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462590094,
+    "wof:geomhash":"5aeae356bfc1c3fc6711297277f0b207",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087525,
+            "locality_id":85970893,
+            "neighbourhood_id":85810925,
+            "region_id":85688661,
+            "venue_id":789728785
+        }
+    ],
+    "wof:id":789728785,
+    "wof:lastmodified":1462590094,
+    "wof:name":"Lil G's Mini Storage",
+    "wof:parent_id":85810925,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage",
+        "general"
+    ]
+},
+  "bbox": [
+    -94.539957,
+    37.085047,
+    -94.539957,
+    37.085047
+],
+  "geometry": {"coordinates":[-94.539957,37.085047],"type":"Point"}
+}

@@ -1,0 +1,91 @@
+{
+  "id": 807112483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.543114,38.563032,-90.543114,38.563032",
+    "geom:latitude":38.563032,
+    "geom:longitude":-90.543114,
+    "iso:country":"US",
+    "sg:address":"255 Arbor Crest Dr",
+    "sg:city":"Ballwin",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Storage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 256 7611",
+    "sg:postcode":"63021",
+    "sg:province":"MO",
+    "sg:tags":[
+        "renting",
+        "moving-self",
+        "leasing",
+        "car",
+        "truck",
+        "trailer"
+    ],
+    "sg:website":"http://www.nationalcar.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85841473,
+        102191575,
+        404517461,
+        85633793,
+        85972241,
+        102086173,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_46Mxca3zih4ENYiq7NyEVl_38.563032_-90.543114@1303262925"
+    },
+    "wof:country":"US",
+    "wof:created":1462603866,
+    "wof:geomhash":"d43193ccd714cfb6d3df5f93d7cc31ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086173,
+            "localadmin_id":404517461,
+            "locality_id":85972241,
+            "neighbourhood_id":85841473,
+            "region_id":85688661,
+            "venue_id":807112483
+        }
+    ],
+    "wof:id":807112483,
+    "wof:lastmodified":1462603866,
+    "wof:name":"National Car Rental",
+    "wof:parent_id":85841473,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "moving-self",
+        "leasing",
+        "car",
+        "truck",
+        "trailer"
+    ]
+},
+  "bbox": [
+    -90.543114,
+    38.563032,
+    -90.543114,
+    38.563032
+],
+  "geometry": {"coordinates":[-90.543114,38.563032],"type":"Point"}
+}

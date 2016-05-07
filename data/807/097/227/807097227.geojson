@@ -1,0 +1,78 @@
+{
+  "id": 807097227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.207597,38.607147,-90.207597,38.607147",
+    "geom:latitude":38.607147,
+    "geom:longitude":-90.207597,
+    "iso:country":"US",
+    "sg:address":"2101 Menard St",
+    "sg:city":"Saint Louis",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/st-louis/185188-joanies-pizzeria/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 865 1994",
+    "sg:postcode":"63104",
+    "sg:province":"MO",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85867037,
+        102191575,
+        404518053,
+        85633793,
+        85971343,
+        102080791,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6DlrBrRs5aR92k7hhpSf2l_38.606636_-90.207769@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1462603689,
+    "wof:geomhash":"d34ba08cceed3f52da2171f449f0b505",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080791,
+            "localadmin_id":404518053,
+            "locality_id":85971343,
+            "neighbourhood_id":85867037,
+            "region_id":85688661,
+            "venue_id":807097227
+        }
+    ],
+    "wof:id":807097227,
+    "wof:lastmodified":1462603689,
+    "wof:name":"Joanie's Pizzeria",
+    "wof:parent_id":85867037,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -90.207597,
+    38.607147,
+    -90.207597,
+    38.607147
+],
+  "geometry": {"coordinates":[-90.20759700000001,38.607147],"type":"Point"}
+}

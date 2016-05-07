@@ -1,0 +1,76 @@
+{
+  "id": 807145775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.241402,38.638901,-90.241402,38.638901",
+    "geom:latitude":38.638901,
+    "geom:longitude":-90.241402,
+    "iso:country":"US",
+    "sg:address":"3925 Lindell Blvd",
+    "sg:city":"Saint Louis",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 534 4440",
+    "sg:postcode":"63108",
+    "sg:province":"MO",
+    "sg:tags":[
+        "car"
+    ],
+    "sg:website":"www.enterprise.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873637,
+        102191575,
+        404518053,
+        85633793,
+        85971343,
+        102080791,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_01N2KPDYVCUqsQWbU9PMVc_38.638901_-90.241402@1303262928"
+    },
+    "wof:country":"US",
+    "wof:created":1462604221,
+    "wof:geomhash":"1c2b15ae7d26877c2c40da9f8ebe891a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080791,
+            "localadmin_id":404518053,
+            "locality_id":85971343,
+            "neighbourhood_id":85873637,
+            "region_id":85688661,
+            "venue_id":807145775
+        }
+    ],
+    "wof:id":807145775,
+    "wof:lastmodified":1462604221,
+    "wof:name":"Enterprise Rent-A Car",
+    "wof:parent_id":85873637,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car"
+    ]
+},
+  "bbox": [
+    -90.241402,
+    38.638901,
+    -90.241402,
+    38.638901
+],
+  "geometry": {"coordinates":[-90.24140199999999,38.638901],"type":"Point"}
+}

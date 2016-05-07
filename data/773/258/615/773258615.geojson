@@ -1,0 +1,71 @@
+{
+  "id": 773258615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.852445,38.812063,-90.852445,38.812063",
+    "geom:latitude":38.812063,
+    "geom:longitude":-90.852445,
+    "iso:country":"US",
+    "sg:address":"10 E Pearce Blvd",
+    "sg:city":"Wentzville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 332 0876",
+    "sg:postcode":"63385",
+    "sg:province":"MO",
+    "sg:tags":[
+        "specialty"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Hgc3upzV8QXY4Akxd8hCZ_38.812063_-90.852445@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462584352,
+    "wof:geomhash":"c6694d4f51a8f0af0fb034397c945247",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":773258615
+        }
+    ],
+    "wof:id":773258615,
+    "wof:lastmodified":1462584352,
+    "wof:name":"Saint Charles Cnty Cmnty Svcs",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "specialty"
+    ]
+},
+  "bbox": [
+    -90.852445,
+    38.812063,
+    -90.852445,
+    38.812063
+],
+  "geometry": {"coordinates":[-90.852445,38.812063],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 807310375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.227699,37.155878,-93.227699,37.155878",
+    "geom:latitude":37.155878,
+    "geom:longitude":-93.227699,
+    "iso:country":"US",
+    "sg:address":"3331 E Montclair St",
+    "sg:city":"Springfield",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Testing Lab",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Dentist",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 889 7662",
+    "sg:postcode":"65804",
+    "sg:province":"MO",
+    "sg:tags":[
+        "laboratories-medical",
+        "dental",
+        "x-ray",
+        "laboratory"
+    ],
+    "sg:website":"http://www.ultrasona.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85881129,
+        102087523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2voVG0HGyeNM6n3H6t43MZ_37.155878_-93.227699@1303262938"
+    },
+    "wof:country":"US",
+    "wof:created":1462605960,
+    "wof:geomhash":"d2d004f708869bbb2007731167f1cff4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087523,
+            "neighbourhood_id":85881129,
+            "region_id":85688661,
+            "venue_id":807310375
+        }
+    ],
+    "wof:id":807310375,
+    "wof:lastmodified":1462605960,
+    "wof:name":"Ultrasona 3/4d Prenatal Imaging",
+    "wof:parent_id":85881129,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratories-medical",
+        "dental",
+        "x-ray",
+        "laboratory"
+    ]
+},
+  "bbox": [
+    -93.227699,
+    37.155878,
+    -93.227699,
+    37.155878
+],
+  "geometry": {"coordinates":[-93.227699,37.155878],"type":"Point"}
+}

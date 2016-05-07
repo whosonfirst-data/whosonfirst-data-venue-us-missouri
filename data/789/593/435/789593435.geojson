@@ -1,0 +1,73 @@
+{
+  "id": 789593435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.797433,39.381253,-94.797433,39.381253",
+    "geom:latitude":39.381253,
+    "geom:longitude":-94.797433,
+    "iso:country":"US",
+    "sg:address":"100 Roller Ct",
+    "sg:city":"Platte City",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 436 0343",
+    "sg:postcode":"64079",
+    "sg:province":"MO",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970739,
+        102085271,
+        85823759
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Gvxb3p7qyFkgkjtelwFck_39.381253_-94.797433@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462589010,
+    "wof:geomhash":"87db19793ac5256e178fb95f85b8cead",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085271,
+            "locality_id":85970739,
+            "neighbourhood_id":85823759,
+            "region_id":85688661,
+            "venue_id":789593435
+        }
+    ],
+    "wof:id":789593435,
+    "wof:lastmodified":1462589010,
+    "wof:name":"Allen's Mechanical LLC",
+    "wof:parent_id":85823759,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -94.797433,
+    39.381253,
+    -94.797433,
+    39.381253
+],
+  "geometry": {"coordinates":[-94.797433,39.381253],"type":"Point"}
+}

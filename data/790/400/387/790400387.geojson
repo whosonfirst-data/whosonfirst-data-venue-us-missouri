@@ -1,0 +1,71 @@
+{
+  "id": 790400387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.34168,39.347273,-91.34168,39.347273",
+    "geom:latitude":39.347273,
+    "geom:longitude":-91.34168,
+    "iso:country":"US",
+    "sg:address":"100 N Central Dr",
+    "sg:city":"Curryville",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 324 3143",
+    "sg:postcode":"63339",
+    "sg:province":"MO",
+    "sg:tags":[
+        "city"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971907,
+        102086151,
+        85817909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1dMX55dhIyLTpSDL0EBseZ_39.347273_-91.341680@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462595537,
+    "wof:geomhash":"6880a6105af98dd64b53a9294c6169e5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086151,
+            "locality_id":85971907,
+            "neighbourhood_id":85817909,
+            "region_id":85688661,
+            "venue_id":790400387
+        }
+    ],
+    "wof:id":790400387,
+    "wof:lastmodified":1462595537,
+    "wof:name":"Curryville City Hall",
+    "wof:parent_id":85817909,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "city"
+    ]
+},
+  "bbox": [
+    -91.34168,
+    39.347273,
+    -91.34168,
+    39.347273
+],
+  "geometry": {"coordinates":[-91.34168,39.347273],"type":"Point"}
+}

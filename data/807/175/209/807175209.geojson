@@ -1,0 +1,78 @@
+{
+  "id": 807175209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.287342,38.616846,-90.287342,38.616846",
+    "geom:latitude":38.616846,
+    "geom:longitude":-90.287342,
+    "iso:country":"US",
+    "sg:address":"2165 Hampton Ave",
+    "sg:city":"Saint Louis",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Non-profit Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 646 0505",
+    "sg:postcode":"63139",
+    "sg:province":"MO",
+    "sg:tags":[
+        "service/non-profit",
+        "community"
+    ],
+    "sg:website":"www.safeconnections.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85811407,
+        102191575,
+        404518053,
+        85633793,
+        85971343,
+        102080791,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_71cuFwuILkAv7N8ig6GurI_38.616846_-90.287342@1303262930"
+    },
+    "wof:country":"US",
+    "wof:created":1462604539,
+    "wof:geomhash":"e7e32e2560af76cc4c4455f3b55d2e21",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080791,
+            "localadmin_id":404518053,
+            "locality_id":85971343,
+            "neighbourhood_id":85811407,
+            "region_id":85688661,
+            "venue_id":807175209
+        }
+    ],
+    "wof:id":807175209,
+    "wof:lastmodified":1462604539,
+    "wof:name":"Safe Connections",
+    "wof:parent_id":85811407,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "service/non-profit",
+        "community"
+    ]
+},
+  "bbox": [
+    -90.287342,
+    38.616846,
+    -90.287342,
+    38.616846
+],
+  "geometry": {"coordinates":[-90.287342,38.616846],"type":"Point"}
+}

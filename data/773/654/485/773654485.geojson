@@ -1,0 +1,75 @@
+{
+  "id": 773654485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.282525,38.65112,-90.282525,38.65112",
+    "geom:latitude":38.65112,
+    "geom:longitude":-90.282525,
+    "iso:country":"US",
+    "sg:address":"501 Clara Ave",
+    "sg:city":"St Louis",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 361 6704",
+    "sg:postcode":"63112",
+    "sg:province":"MO",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873633,
+        102191575,
+        404518053,
+        85633793,
+        85971343,
+        102080791,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1MgEUi27ZChQTq29mBAHpp_38.651120_-90.282525@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462587356,
+    "wof:geomhash":"470aa1b8b6d831b81ca137b4fe9bcca8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080791,
+            "localadmin_id":404518053,
+            "locality_id":85971343,
+            "neighbourhood_id":85873633,
+            "region_id":85688661,
+            "venue_id":773654485
+        }
+    ],
+    "wof:id":773654485,
+    "wof:lastmodified":1462587356,
+    "wof:name":"Clara Court Apartments",
+    "wof:parent_id":85873633,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -90.282525,
+    38.65112,
+    -90.282525,
+    38.65112
+],
+  "geometry": {"coordinates":[-90.28252500000001,38.65112],"type":"Point"}
+}

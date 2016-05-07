@@ -1,0 +1,83 @@
+{
+  "id": 773431859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.377179,38.674201,-90.377179,38.674201",
+    "geom:latitude":38.674201,
+    "geom:longitude":-90.377179,
+    "iso:country":"US",
+    "sg:address":"9405 Olive Blvd",
+    "sg:city":"St Louis",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 567 5544",
+    "sg:postcode":"63132",
+    "sg:province":"MO",
+    "sg:tags":[
+        "automobile",
+        "lubrication",
+        "fluid",
+        "maintenance",
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85803699,
+        102191575,
+        404517323,
+        85633793,
+        85972315,
+        102086173,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4PcPvU5bjJC7chhLzeqwMp_38.674201_-90.377179@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462585682,
+    "wof:geomhash":"f74e7331aef45adc7254348f99fa8c0a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086173,
+            "localadmin_id":404517323,
+            "locality_id":85972315,
+            "neighbourhood_id":85803699,
+            "region_id":85688661,
+            "venue_id":773431859
+        }
+    ],
+    "wof:id":773431859,
+    "wof:lastmodified":1462585682,
+    "wof:name":"Jiffy Lube",
+    "wof:parent_id":85803699,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "lubrication",
+        "fluid",
+        "maintenance",
+        "automotive"
+    ]
+},
+  "bbox": [
+    -90.377179,
+    38.674201,
+    -90.377179,
+    38.674201
+],
+  "geometry": {"coordinates":[-90.377179,38.674201],"type":"Point"}
+}

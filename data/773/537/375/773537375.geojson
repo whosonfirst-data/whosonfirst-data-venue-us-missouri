@@ -1,0 +1,88 @@
+{
+  "id": 773537375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.52198,37.07356,-94.52198,37.07356",
+    "geom:latitude":37.07356,
+    "geom:longitude":-94.52198,
+    "iso:country":"US",
+    "sg:address":"1624 S Jackson Ave",
+    "sg:city":"Joplin",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 781 9692",
+    "sg:postcode":"64804",
+    "sg:province":"MO",
+    "sg:tags":[
+        "operator",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85885363,
+        102191575,
+        404518215,
+        85633793,
+        85970893,
+        102087525,
+        85688661,
+        420525385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6JeRO6gfdrGQzUSivPQKVF_37.073560_-94.521980@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462586461,
+    "wof:geomhash":"22780fafea24b7848d6f10271a21b351",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087525,
+            "localadmin_id":404518215,
+            "locality_id":85970893,
+            "neighbourhood_id":85885363,
+            "region_id":85688661,
+            "venue_id":773537375
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087525,
+            "localadmin_id":404518215,
+            "locality_id":85970893,
+            "neighbourhood_id":420525385,
+            "region_id":85688661,
+            "venue_id":773537375
+        }
+    ],
+    "wof:id":773537375,
+    "wof:lastmodified":1462586461,
+    "wof:name":"Vance Trucking",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -94.52198,
+    37.07356,
+    -94.52198,
+    37.07356
+],
+  "geometry": {"coordinates":[-94.52198,37.07356],"type":"Point"}
+}

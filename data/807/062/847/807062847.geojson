@@ -1,0 +1,78 @@
+{
+  "id": 807062847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.436404,38.713553,-90.436404,38.713553",
+    "geom:latitude":38.713553,
+    "geom:longitude":-90.436404,
+    "iso:country":"US",
+    "sg:address":"11938 Dorsett Rd",
+    "sg:city":"Maryland Heights",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/midland/156048-hardees/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 298 7076",
+    "sg:postcode":"63043",
+    "sg:province":"MO",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85803699,
+        102191575,
+        404517323,
+        85633793,
+        85972315,
+        102086173,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1yDRObAuHfl2BZJhn9ku5v_38.713553_-90.436404@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462603392,
+    "wof:geomhash":"3a27fb0068fbaaef2095bb27271f1a02",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086173,
+            "localadmin_id":404517323,
+            "locality_id":85972315,
+            "neighbourhood_id":85803699,
+            "region_id":85688661,
+            "venue_id":807062847
+        }
+    ],
+    "wof:id":807062847,
+    "wof:lastmodified":1462603392,
+    "wof:name":"Hardee's",
+    "wof:parent_id":85803699,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -90.436404,
+    38.713553,
+    -90.436404,
+    38.713553
+],
+  "geometry": {"coordinates":[-90.436404,38.713553],"type":"Point"}
+}

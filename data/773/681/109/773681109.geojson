@@ -1,0 +1,73 @@
+{
+  "id": 773681109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.566489,39.4065,-94.566489,39.4065",
+    "geom:latitude":39.4065,
+    "geom:longitude":-94.566489,
+    "iso:country":"US",
+    "sg:address":"161 Co Rd F",
+    "sg:city":"Smithville",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 532 3744",
+    "sg:postcode":"64089",
+    "sg:province":"MO",
+    "sg:tags":[
+        "housing",
+        "program"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970739,
+        102086177,
+        85836329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0qJnQVwJ7t2pxpi5uPNSEG_39.406500_-94.566489@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462587549,
+    "wof:geomhash":"d7457928c0eb3ab9b3bd99755c048182",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086177,
+            "locality_id":85970739,
+            "neighbourhood_id":85836329,
+            "region_id":85688661,
+            "venue_id":773681109
+        }
+    ],
+    "wof:id":773681109,
+    "wof:lastmodified":1462587549,
+    "wof:name":"Smithville Housing Authority",
+    "wof:parent_id":85836329,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "housing",
+        "program"
+    ]
+},
+  "bbox": [
+    -94.566489,
+    39.4065,
+    -94.566489,
+    39.4065
+],
+  "geometry": {"coordinates":[-94.566489,39.4065],"type":"Point"}
+}

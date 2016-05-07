@@ -1,0 +1,87 @@
+{
+  "id": 807313093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.292296,37.209332,-93.292296,37.209332",
+    "geom:latitude":37.209332,
+    "geom:longitude":-93.292296,
+    "iso:country":"US",
+    "sg:address":"149 Park Central Sq",
+    "sg:city":"Springfield",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 895 6370",
+    "sg:postcode":"65806",
+    "sg:province":"MO",
+    "sg:tags":[
+        "food",
+        "government-state",
+        "beverage",
+        "consultant"
+    ],
+    "sg:website":"http://www.mgc.dps.mo.gov",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85881119,
+        102191575,
+        404516201,
+        85633793,
+        85971363,
+        102087523,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_41ZAj2d2ekuiOJWbrCmtyT_37.209332_-93.292296@1303262939"
+    },
+    "wof:country":"US",
+    "wof:created":1462605992,
+    "wof:geomhash":"8c9a9a0a194e345e1e2cc67a92761258",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087523,
+            "localadmin_id":404516201,
+            "locality_id":85971363,
+            "neighbourhood_id":85881119,
+            "region_id":85688661,
+            "venue_id":807313093
+        }
+    ],
+    "wof:id":807313093,
+    "wof:lastmodified":1462605992,
+    "wof:name":"Liquor Control District 4",
+    "wof:parent_id":85881119,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "food",
+        "government-state",
+        "beverage",
+        "consultant"
+    ]
+},
+  "bbox": [
+    -93.292296,
+    37.209332,
+    -93.292296,
+    37.209332
+],
+  "geometry": {"coordinates":[-93.29229599999999,37.209332],"type":"Point"}
+}

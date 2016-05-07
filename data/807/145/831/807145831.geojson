@@ -1,0 +1,82 @@
+{
+  "id": 807145831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.263803,38.639306,-90.263803,38.639306",
+    "geom:latitude":38.639306,
+    "geom:longitude":-90.263803,
+    "iso:country":"US",
+    "sg:address":"4932 Forest Park Ave",
+    "sg:city":"Saint Louis",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"University",
+            "type":"Public Place"
+        },
+        {
+            "category":"Community Center",
+            "subcategory":"",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 454 8800",
+    "sg:postcode":"63108",
+    "sg:province":"MO",
+    "sg:tags":[
+        "medical",
+        "college"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85867031,
+        102191575,
+        404518053,
+        85633793,
+        85971343,
+        102080791,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0wGYKsjjc6Q33d8ArdaBpd_38.639306_-90.263803@1303262928"
+    },
+    "wof:country":"US",
+    "wof:created":1462604221,
+    "wof:geomhash":"157576bcd2cf4683b3f6f8bcfe598960",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080791,
+            "localadmin_id":404518053,
+            "locality_id":85971343,
+            "neighbourhood_id":85867031,
+            "region_id":85688661,
+            "venue_id":807145831
+        }
+    ],
+    "wof:id":807145831,
+    "wof:lastmodified":1462604221,
+    "wof:name":"University Care",
+    "wof:parent_id":85867031,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical",
+        "college"
+    ]
+},
+  "bbox": [
+    -90.263803,
+    38.639306,
+    -90.263803,
+    38.639306
+],
+  "geometry": {"coordinates":[-90.263803,38.639306],"type":"Point"}
+}

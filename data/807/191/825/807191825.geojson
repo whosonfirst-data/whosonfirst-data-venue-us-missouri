@@ -1,0 +1,89 @@
+{
+  "id": 807191825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.422754,37.781383,-90.422754,37.781383",
+    "geom:latitude":37.781383,
+    "geom:longitude":-90.422754,
+    "iso:country":"US",
+    "sg:address":"203 W Liberty St",
+    "sg:city":"Farmington",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"Film & Video Production",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 756 6966",
+    "sg:postcode":"63640",
+    "sg:province":"MO",
+    "sg:tags":[
+        "television",
+        "equipment-installation",
+        "radio",
+        "store",
+        "radio-service"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970665,
+        102085297,
+        85816309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4PYhi8cKiqinuD3vJYcAPe_37.781383_-90.422754@1303262931"
+    },
+    "wof:country":"US",
+    "wof:created":1462604707,
+    "wof:geomhash":"9b4768302cfc50340e237b46acf4ed7e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085297,
+            "locality_id":85970665,
+            "neighbourhood_id":85816309,
+            "region_id":85688661,
+            "venue_id":807191825
+        }
+    ],
+    "wof:id":807191825,
+    "wof:lastmodified":1462604707,
+    "wof:name":"Wade's TV",
+    "wof:parent_id":85816309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "television",
+        "equipment-installation",
+        "radio",
+        "store",
+        "radio-service"
+    ]
+},
+  "bbox": [
+    -90.422754,
+    37.781383,
+    -90.422754,
+    37.781383
+],
+  "geometry": {"coordinates":[-90.422754,37.781383],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 806783313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.720986,38.803105,-90.720986,38.803105",
+    "geom:latitude":38.803105,
+    "geom:longitude":-90.720986,
+    "iso:country":"US",
+    "sg:address":"827 W Terra Ln",
+    "sg:city":"O Fallon",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 978 4237",
+    "sg:postcode":"63366",
+    "sg:province":"MO",
+    "sg:tags":[
+        "trucking"
+    ],
+    "sg:website":"www.dtscompanies.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4X2bYLdHCa6Oh3HqDn4h9Q_38.803105_-90.720986@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462601047,
+    "wof:geomhash":"3cb18bf5d5ddd2782beee49534f95947",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":806783313
+        }
+    ],
+    "wof:id":806783313,
+    "wof:lastmodified":1462601047,
+    "wof:name":"Distribution Transportation",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -90.720986,
+    38.803105,
+    -90.720986,
+    38.803105
+],
+  "geometry": {"coordinates":[-90.720986,38.803105],"type":"Point"}
+}

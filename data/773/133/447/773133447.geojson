@@ -1,0 +1,71 @@
+{
+  "id": 773133447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.497242,40.024259,-92.497242,40.024259",
+    "geom:latitude":40.024259,
+    "geom:longitude":-92.497242,
+    "iso:country":"US",
+    "sg:address":"401 W Phipps St",
+    "sg:city":"La Plata",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 660 332 4402",
+    "sg:postcode":"63549",
+    "sg:province":"MO",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971149,
+        102086189,
+        85821499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6eLwAPESyBMBoavrCEp5sm_40.024259_-92.497242@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462583381,
+    "wof:geomhash":"cb95f8e9db06ad6261e4ba81a8eff143",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086189,
+            "locality_id":85971149,
+            "neighbourhood_id":85821499,
+            "region_id":85688661,
+            "venue_id":773133447
+        }
+    ],
+    "wof:id":773133447,
+    "wof:lastmodified":1462583381,
+    "wof:name":"Et Enterprises Inc",
+    "wof:parent_id":85821499,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -92.497242,
+    40.024259,
+    -92.497242,
+    40.024259
+],
+  "geometry": {"coordinates":[-92.497242,40.024259],"type":"Point"}
+}

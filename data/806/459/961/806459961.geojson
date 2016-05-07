@@ -1,0 +1,77 @@
+{
+  "id": 806459961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.333158,38.438107,-90.333158,38.438107",
+    "geom:latitude":38.438107,
+    "geom:longitude":-90.333158,
+    "iso:country":"US",
+    "sg:address":"7005 Chalkstone Rd",
+    "sg:city":"St Louis",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 293 4000",
+    "sg:postcode":"63129",
+    "sg:province":"MO",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85851919,
+        102191575,
+        404517459,
+        85633793,
+        85972631,
+        102086173,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1UPBpHAxzhPpzHwpZYQZmY_38.438107_-90.333158@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462598312,
+    "wof:geomhash":"c650138fdbcfa0bbd1880c16a182d502",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086173,
+            "localadmin_id":404517459,
+            "locality_id":85972631,
+            "neighbourhood_id":85851919,
+            "region_id":85688661,
+            "venue_id":806459961
+        }
+    ],
+    "wof:id":806459961,
+    "wof:lastmodified":1462598312,
+    "wof:name":"Joe's Plumbing Drain & Sewer",
+    "wof:parent_id":85851919,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -90.333158,
+    38.438107,
+    -90.333158,
+    38.438107
+],
+  "geometry": {"coordinates":[-90.333158,38.438107],"type":"Point"}
+}

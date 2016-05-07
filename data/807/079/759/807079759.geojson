@@ -1,0 +1,74 @@
+{
+  "id": 807079759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.582732,39.34885,-94.582732,39.34885",
+    "geom:latitude":39.34885,
+    "geom:longitude":-94.582732,
+    "iso:country":"US",
+    "sg:address":"14121 Earthworks Dr",
+    "sg:city":"Smithville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/platte/12927-pizza-shoppe/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 407 1011",
+    "sg:postcode":"64089",
+    "sg:province":"MO",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970739,
+        102086177,
+        85836329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3HWsl9kRtt44GJVeMYB6Gi_39.348850_-94.582732@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462603531,
+    "wof:geomhash":"008d6ed2c5472773377dc906760c4895",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086177,
+            "locality_id":85970739,
+            "neighbourhood_id":85836329,
+            "region_id":85688661,
+            "venue_id":807079759
+        }
+    ],
+    "wof:id":807079759,
+    "wof:lastmodified":1462603531,
+    "wof:name":"Pizza Shoppe",
+    "wof:parent_id":85836329,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -94.582732,
+    39.34885,
+    -94.582732,
+    39.34885
+],
+  "geometry": {"coordinates":[-94.58273199999999,39.34885],"type":"Point"}
+}

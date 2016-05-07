@@ -1,0 +1,78 @@
+{
+  "id": 807069731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.229997,38.714324,-90.229997,38.714324",
+    "geom:latitude":38.714324,
+    "geom:longitude":-90.229997,
+    "iso:country":"US",
+    "sg:address":"8360 N Broadway",
+    "sg:city":"Saint Louis",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/st-louis/156082-hardees/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 382 1410",
+    "sg:postcode":"63147",
+    "sg:province":"MO",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85804181,
+        102191575,
+        404518053,
+        85633793,
+        85971343,
+        102080791,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Pl96Y3iTqiA8L7U3V213l_38.714324_-90.229997@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462603443,
+    "wof:geomhash":"359d73ccb7e4a0d043d3ade18cc19ba0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080791,
+            "localadmin_id":404518053,
+            "locality_id":85971343,
+            "neighbourhood_id":85804181,
+            "region_id":85688661,
+            "venue_id":807069731
+        }
+    ],
+    "wof:id":807069731,
+    "wof:lastmodified":1462603443,
+    "wof:name":"Hardee's",
+    "wof:parent_id":85804181,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -90.229997,
+    38.714324,
+    -90.229997,
+    38.714324
+],
+  "geometry": {"coordinates":[-90.229997,38.714324],"type":"Point"}
+}

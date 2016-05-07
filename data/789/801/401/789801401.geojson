@@ -1,0 +1,71 @@
+{
+  "id": 789801401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.507005,38.219874,-90.507005,38.219874",
+    "geom:latitude":38.219874,
+    "geom:longitude":-90.507005,
+    "iso:country":"US",
+    "sg:address":"4391 Buckeye School Rd",
+    "sg:city":"Festus",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 931 3549",
+    "sg:postcode":"63028",
+    "sg:province":"MO",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85848677,
+        102080787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_63Qn32tGROpFJgx8x4OX6i_38.219874_-90.507005@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462590651,
+    "wof:geomhash":"bfceaa28057bea8eebd85f51df387632",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080787,
+            "neighbourhood_id":85848677,
+            "region_id":85688661,
+            "venue_id":789801401
+        }
+    ],
+    "wof:id":789801401,
+    "wof:lastmodified":1462590651,
+    "wof:name":"Factory Maintenance Service",
+    "wof:parent_id":85848677,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -90.507005,
+    38.219874,
+    -90.507005,
+    38.219874
+],
+  "geometry": {"coordinates":[-90.50700500000001,38.219874],"type":"Point"}
+}

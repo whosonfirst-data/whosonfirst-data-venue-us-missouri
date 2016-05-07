@@ -1,0 +1,73 @@
+{
+  "id": 773759459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.381238,38.49688,-90.381238,38.49688",
+    "geom:latitude":38.49688,
+    "geom:longitude":-90.381238,
+    "iso:country":"US",
+    "sg:address":"12810 Tesson Ferry Rd",
+    "sg:city":"St Louis",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 849 5665",
+    "sg:postcode":"63128",
+    "sg:province":"MO",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971021,
+        102080787,
+        85832925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_54gX3ROpay7xs3HOEYxzEi_38.496880_-90.381238@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462588165,
+    "wof:geomhash":"a01c32be821f6df9b39cdb701a8c57f8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080787,
+            "locality_id":85971021,
+            "neighbourhood_id":85832925,
+            "region_id":85688661,
+            "venue_id":773759459
+        }
+    ],
+    "wof:id":773759459,
+    "wof:lastmodified":1462588165,
+    "wof:name":"St Louis Neurology Assoc",
+    "wof:parent_id":85832925,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -90.381238,
+    38.49688,
+    -90.381238,
+    38.49688
+],
+  "geometry": {"coordinates":[-90.381238,38.49688],"type":"Point"}
+}

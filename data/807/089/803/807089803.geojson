@@ -1,0 +1,74 @@
+{
+  "id": 807089803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.294235,38.98043,-92.294235,38.98043",
+    "geom:latitude":38.98043,
+    "geom:longitude":-92.294235,
+    "iso:country":"US",
+    "sg:address":"3009 Paris Rd",
+    "sg:city":"Columbia",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/columbia/225265-caseys-general-store/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 474 5678",
+    "sg:postcode":"65202",
+    "sg:province":"MO",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970425,
+        102086187,
+        85851713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5OrcYtaYbFTcjOIsa1ZB98_38.980430_-92.294235@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462603615,
+    "wof:geomhash":"4159c297ddff5a61f25eb097d6cd7783",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086187,
+            "locality_id":85970425,
+            "neighbourhood_id":85851713,
+            "region_id":85688661,
+            "venue_id":807089803
+        }
+    ],
+    "wof:id":807089803,
+    "wof:lastmodified":1462603615,
+    "wof:name":"Casey's General Store",
+    "wof:parent_id":85851713,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -92.294235,
+    38.98043,
+    -92.294235,
+    38.98043
+],
+  "geometry": {"coordinates":[-92.294235,38.98043],"type":"Point"}
+}

@@ -1,0 +1,88 @@
+{
+  "id": 806914509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.350144,38.485732,-90.350144,38.485732",
+    "geom:latitude":38.485732,
+    "geom:longitude":-90.350144,
+    "iso:country":"US",
+    "sg:address":"4034 Butler Hill Rd",
+    "sg:city":"St Louis",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Discount & Variety Stores",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 845 7200",
+    "sg:postcode":"63129",
+    "sg:province":"MO",
+    "sg:tags":[
+        "force",
+        "armed",
+        "agency",
+        "recruiting",
+        "general",
+        "employment",
+        "merchandise"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971021,
+        102080787,
+        85832925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5J3ZA6DzZu5tyn0SKY6KO4_38.485732_-90.350144@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462602131,
+    "wof:geomhash":"d594d38d1401d94093b287feb136b667",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080787,
+            "locality_id":85971021,
+            "neighbourhood_id":85832925,
+            "region_id":85688661,
+            "venue_id":806914509
+        }
+    ],
+    "wof:id":806914509,
+    "wof:lastmodified":1462602131,
+    "wof:name":"US Recruiting Air Force",
+    "wof:parent_id":85832925,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "force",
+        "armed",
+        "agency",
+        "recruiting",
+        "general",
+        "employment",
+        "merchandise"
+    ]
+},
+  "bbox": [
+    -90.350144,
+    38.485732,
+    -90.350144,
+    38.485732
+],
+  "geometry": {"coordinates":[-90.350144,38.485732],"type":"Point"}
+}

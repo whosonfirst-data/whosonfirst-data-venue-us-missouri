@@ -1,0 +1,71 @@
+{
+  "id": 806503591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.584017,39.359592,-94.584017,39.359592",
+    "geom:latitude":39.359592,
+    "geom:longitude":-94.584017,
+    "iso:country":"US",
+    "sg:address":"14506 US Hwy 169",
+    "sg:city":"Smithville",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 532 6220",
+    "sg:postcode":"64089",
+    "sg:province":"MO",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970739,
+        102086177,
+        85836329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_15X659i5nzwFLUBi5uWUb3_39.359592_-94.584017@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462598662,
+    "wof:geomhash":"2fe1eb3b71ab1643712ad0edf1ec47be",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086177,
+            "locality_id":85970739,
+            "neighbourhood_id":85836329,
+            "region_id":85688661,
+            "venue_id":806503591
+        }
+    ],
+    "wof:id":806503591,
+    "wof:lastmodified":1462598662,
+    "wof:name":"Smithville Self Storage",
+    "wof:parent_id":85836329,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -94.584017,
+    39.359592,
+    -94.584017,
+    39.359592
+],
+  "geometry": {"coordinates":[-94.584017,39.359592],"type":"Point"}
+}

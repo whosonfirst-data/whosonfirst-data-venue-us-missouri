@@ -1,0 +1,80 @@
+{
+  "id": 806910301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.630522,38.157236,-92.630522,38.157236",
+    "geom:latitude":38.157236,
+    "geom:longitude":-92.630522,
+    "iso:country":"US",
+    "sg:address":"4496 Sunset Dr",
+    "sg:city":"Osage Beach",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Apparel",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 348 2389",
+    "sg:postcode":"65065",
+    "sg:province":"MO",
+    "sg:tags":[
+        "product",
+        "upholsterer",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971257,
+        102087481,
+        85803641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_11f6J2EIotLHER72Jk1sYJ_38.157236_-92.630522@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462602099,
+    "wof:geomhash":"b389f34985ce4de948b67e8482b0bb93",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087481,
+            "locality_id":85971257,
+            "neighbourhood_id":85803641,
+            "region_id":85688661,
+            "venue_id":806910301
+        }
+    ],
+    "wof:id":806910301,
+    "wof:lastmodified":1462602099,
+    "wof:name":"Kevin's Canvas & Upholstery",
+    "wof:parent_id":85803641,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product",
+        "upholsterer",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -92.630522,
+    38.157236,
+    -92.630522,
+    38.157236
+],
+  "geometry": {"coordinates":[-92.630522,38.157236],"type":"Point"}
+}

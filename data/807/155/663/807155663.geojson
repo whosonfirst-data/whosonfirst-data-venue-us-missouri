@@ -1,0 +1,77 @@
+{
+  "id": 807155663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.255402,38.618599,-90.255402,38.618599",
+    "geom:latitude":38.618599,
+    "geom:longitude":-90.255402,
+    "iso:country":"US",
+    "sg:address":"1 Barns Jwsh Hsptl Plz",
+    "sg:city":"Saint Louis",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 362 7135",
+    "sg:postcode":"63110",
+    "sg:province":"MO",
+    "sg:tags":[
+        "obstetrician",
+        "gynecologist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873657,
+        102191575,
+        404518053,
+        85633793,
+        85971343,
+        102080791,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_46zggOkSUhQmXWZcRLp8Rz_38.618599_-90.255402@1303262928"
+    },
+    "wof:country":"US",
+    "wof:created":1462604327,
+    "wof:geomhash":"3953d113ab203b2ae91766fde0d038a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080791,
+            "localadmin_id":404518053,
+            "locality_id":85971343,
+            "neighbourhood_id":85873657,
+            "region_id":85688661,
+            "venue_id":807155663
+        }
+    ],
+    "wof:id":807155663,
+    "wof:lastmodified":1462604327,
+    "wof:name":"OB-Gyn Consultants of Washington University",
+    "wof:parent_id":85873657,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "obstetrician",
+        "gynecologist"
+    ]
+},
+  "bbox": [
+    -90.255402,
+    38.618599,
+    -90.255402,
+    38.618599
+],
+  "geometry": {"coordinates":[-90.255402,38.618599],"type":"Point"}
+}

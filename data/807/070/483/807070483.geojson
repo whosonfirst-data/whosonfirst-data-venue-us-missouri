@@ -1,0 +1,73 @@
+{
+  "id": 807070483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.529382,38.777857,-90.529382,38.777857",
+    "geom:latitude":38.777857,
+    "geom:longitude":-90.529382,
+    "iso:country":"US",
+    "sg:address":"1890 Zumbehl Rd",
+    "sg:city":"Saint Charles",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/zumbehl/194296-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"63303",
+    "sg:province":"MO",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_37sH9VixOXB3mgHL06QQev_38.777857_-90.529382@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462603449,
+    "wof:geomhash":"613985604252904e451f2962a142a47f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":807070483
+        }
+    ],
+    "wof:id":807070483,
+    "wof:lastmodified":1462603449,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -90.529382,
+    38.777857,
+    -90.529382,
+    38.777857
+],
+  "geometry": {"coordinates":[-90.529382,38.777857],"type":"Point"}
+}

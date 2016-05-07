@@ -1,0 +1,71 @@
+{
+  "id": 789672039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.296751,38.554037,-92.296751,38.554037",
+    "geom:latitude":38.554037,
+    "geom:longitude":-92.296751,
+    "iso:country":"US",
+    "sg:address":"5331 Scruggs Station Rd",
+    "sg:city":"Lohman",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 893 3110",
+    "sg:postcode":"65053",
+    "sg:province":"MO",
+    "sg:tags":[
+        "communication"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970647,
+        102087519,
+        85847491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_23yRu4QnUNGNCBSVRATxnn_38.554037_-92.296751@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462589641,
+    "wof:geomhash":"714180a13613b52f0386852656a22ebf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087519,
+            "locality_id":85970647,
+            "neighbourhood_id":85847491,
+            "region_id":85688661,
+            "venue_id":789672039
+        }
+    ],
+    "wof:id":789672039,
+    "wof:lastmodified":1462589641,
+    "wof:name":"Haugen Communications",
+    "wof:parent_id":85847491,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "communication"
+    ]
+},
+  "bbox": [
+    -92.296751,
+    38.554037,
+    -92.296751,
+    38.554037
+],
+  "geometry": {"coordinates":[-92.296751,38.554037],"type":"Point"}
+}

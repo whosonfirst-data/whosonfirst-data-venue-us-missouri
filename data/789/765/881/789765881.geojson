@@ -1,0 +1,71 @@
+{
+  "id": 789765881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.894308,39.411496,-94.894308,39.411496",
+    "geom:latitude":39.411496,
+    "geom:longitude":-94.894308,
+    "iso:country":"US",
+    "sg:address":"178 Walnut St",
+    "sg:city":"Weston",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 386 5507",
+    "sg:postcode":"64098",
+    "sg:province":"MO",
+    "sg:tags":[
+        "residential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970739,
+        102085271,
+        85823759
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_35Bg3lgW5lWed0tjfHE9gT_39.411496_-94.894308@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462590373,
+    "wof:geomhash":"e93803e5d4036aa4c362498662a4b214",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085271,
+            "locality_id":85970739,
+            "neighbourhood_id":85823759,
+            "region_id":85688661,
+            "venue_id":789765881
+        }
+    ],
+    "wof:id":789765881,
+    "wof:lastmodified":1462590373,
+    "wof:name":"Bristol Manor",
+    "wof:parent_id":85823759,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential"
+    ]
+},
+  "bbox": [
+    -94.894308,
+    39.411496,
+    -94.894308,
+    39.411496
+],
+  "geometry": {"coordinates":[-94.894308,39.411496],"type":"Point"}
+}

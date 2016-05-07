@@ -1,0 +1,71 @@
+{
+  "id": 790436093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.498088,38.360866,-90.498088,38.360866",
+    "geom:latitude":38.360866,
+    "geom:longitude":-90.498088,
+    "iso:country":"US",
+    "sg:address":"6553 Old Hwy 21",
+    "sg:city":"Imperial",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 942 2557",
+    "sg:postcode":"63051",
+    "sg:province":"MO",
+    "sg:tags":[
+        "garbage",
+        "collection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85805175,
+        102080787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6m7fYtUqmd72xSK2LOiV2P_38.360866_-90.498088@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462595812,
+    "wof:geomhash":"71c62167ea8c2938ede6ba9355539cbf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080787,
+            "neighbourhood_id":85805175,
+            "region_id":85688661,
+            "venue_id":790436093
+        }
+    ],
+    "wof:id":790436093,
+    "wof:lastmodified":1462595812,
+    "wof:name":"B & L Sanitation",
+    "wof:parent_id":85805175,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garbage",
+        "collection"
+    ]
+},
+  "bbox": [
+    -90.498088,
+    38.360866,
+    -90.498088,
+    38.360866
+],
+  "geometry": {"coordinates":[-90.498088,38.360866],"type":"Point"}
+}

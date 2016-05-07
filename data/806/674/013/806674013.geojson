@@ -1,0 +1,73 @@
+{
+  "id": 806674013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.512422,38.78418,-90.512422,38.78418",
+    "geom:latitude":38.78418,
+    "geom:longitude":-90.512422,
+    "iso:country":"US",
+    "sg:address":"2454 W Clay St",
+    "sg:city":"Saint Charles",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 949 2020",
+    "sg:postcode":"63301",
+    "sg:province":"MO",
+    "sg:tags":[
+        "specialty",
+        "outpatient"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_43e0RJCwEBG6KhoNau5m1n_38.784180_-90.512422@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462600116,
+    "wof:geomhash":"2d38ba8cb3efcfe42f926c92fb2338ae",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":806674013
+        }
+    ],
+    "wof:id":806674013,
+    "wof:lastmodified":1462600116,
+    "wof:name":"HealthSouth",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "specialty",
+        "outpatient"
+    ]
+},
+  "bbox": [
+    -90.512422,
+    38.78418,
+    -90.512422,
+    38.78418
+],
+  "geometry": {"coordinates":[-90.512422,38.78418],"type":"Point"}
+}

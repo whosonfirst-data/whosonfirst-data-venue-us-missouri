@@ -1,0 +1,76 @@
+{
+  "id": 807060521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.643431,38.504591,-90.643431,38.504591",
+    "geom:latitude":38.504591,
+    "geom:longitude":-90.643431,
+    "iso:country":"US",
+    "sg:address":"83 Hilltop Village Center Dr",
+    "sg:city":"Eureka",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/meramec/195581-taco-bell/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 938 6875",
+    "sg:postcode":"63025",
+    "sg:province":"MO",
+    "sg:tags":[
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85809151,
+        102191575,
+        404517383,
+        85633793,
+        85972199,
+        102086173,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0gaO7Wx9ozu2aPFziY09Kw_38.504591_-90.643431@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462603375,
+    "wof:geomhash":"83e80789816f94e0c006f7080f1b439d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086173,
+            "localadmin_id":404517383,
+            "locality_id":85972199,
+            "neighbourhood_id":85809151,
+            "region_id":85688661,
+            "venue_id":807060521
+        }
+    ],
+    "wof:id":807060521,
+    "wof:lastmodified":1462603375,
+    "wof:name":"Taco Bell",
+    "wof:parent_id":85809151,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican"
+    ]
+},
+  "bbox": [
+    -90.643431,
+    38.504591,
+    -90.643431,
+    38.504591
+],
+  "geometry": {"coordinates":[-90.64343100000001,38.504591],"type":"Point"}
+}

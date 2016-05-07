@@ -1,0 +1,71 @@
+{
+  "id": 773168261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.859066,38.815405,-90.859066,38.815405",
+    "geom:latitude":38.815405,
+    "geom:longitude":-90.859066,
+    "iso:country":"US",
+    "sg:address":"602 Meyer Rd",
+    "sg:city":"Wentzville",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 327 4361",
+    "sg:postcode":"63385",
+    "sg:province":"MO",
+    "sg:tags":[
+        "operation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6DSCozvAuawI7hrBeQA4Zh_38.815405_-90.859066@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462583657,
+    "wof:geomhash":"05d32ddef79fe0df2376ff6162665999",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":773168261
+        }
+    ],
+    "wof:id":773168261,
+    "wof:lastmodified":1462583657,
+    "wof:name":"Masonic Lodge",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operation"
+    ]
+},
+  "bbox": [
+    -90.859066,
+    38.815405,
+    -90.859066,
+    38.815405
+],
+  "geometry": {"coordinates":[-90.859066,38.815405],"type":"Point"}
+}

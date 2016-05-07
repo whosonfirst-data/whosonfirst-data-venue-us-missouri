@@ -1,0 +1,73 @@
+{
+  "id": 789712361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.49118,38.79052,-90.49118,38.79052",
+    "geom:latitude":38.79052,
+    "geom:longitude":-90.49118,
+    "iso:country":"US",
+    "sg:address":"500 Lindenwood Ave",
+    "sg:city":"Saint Charles",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 947 3878",
+    "sg:postcode":"63301",
+    "sg:province":"MO",
+    "sg:tags":[
+        "hanging",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6tQK6za7PZgabjxntosLf7_38.790520_-90.491180@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462589950,
+    "wof:geomhash":"1594e2fdf5a4e0ae6cacc45a8ecb8455",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":789712361
+        }
+    ],
+    "wof:id":789712361,
+    "wof:lastmodified":1462589950,
+    "wof:name":"Glaser Paint Co",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hanging",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -90.49118,
+    38.79052,
+    -90.49118,
+    38.79052
+],
+  "geometry": {"coordinates":[-90.49118,38.79052],"type":"Point"}
+}

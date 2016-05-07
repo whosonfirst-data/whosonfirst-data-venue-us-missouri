@@ -1,0 +1,71 @@
+{
+  "id": 789902795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.196243,39.342712,-91.196243,39.342712",
+    "geom:latitude":39.342712,
+    "geom:longitude":-91.196243,
+    "iso:country":"US",
+    "sg:address":"214 W Church St",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 324 5300",
+    "sg:postcode":"63334",
+    "sg:province":"MO",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971907,
+        102086151,
+        85817909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3zID73BKgll2j6hCnNUN29_39.342712_-91.196243@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462591467,
+    "wof:geomhash":"e0bc4a5eb555c8b0691bf30cc64afa45",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086151,
+            "locality_id":85971907,
+            "neighbourhood_id":85817909,
+            "region_id":85688661,
+            "venue_id":789902795
+        }
+    ],
+    "wof:id":789902795,
+    "wof:lastmodified":1462591467,
+    "wof:name":"East Missouri Health Services",
+    "wof:parent_id":85817909,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -91.196243,
+    39.342712,
+    -91.196243,
+    39.342712
+],
+  "geometry": {"coordinates":[-91.196243,39.342712],"type":"Point"}
+}

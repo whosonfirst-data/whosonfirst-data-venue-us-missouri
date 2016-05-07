@@ -1,0 +1,70 @@
+{
+  "id": 806900727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.323776,38.73501,-90.323776,38.73501",
+    "geom:latitude":38.73501,
+    "geom:longitude":-90.323776,
+    "iso:country":"US",
+    "sg:address":"5696 Martin Luther King Blvd",
+    "sg:city":"Saint Louis",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 521 7781",
+    "sg:postcode":"63140",
+    "sg:province":"MO",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85859027,
+        102191575,
+        404517247,
+        85633793,
+        85972205,
+        102086173,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_30w85i7l8sStqyvzDSY20a_38.735010_-90.323776@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462602014,
+    "wof:geomhash":"a0882bc1eee5e456647da9623a989d54",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086173,
+            "localadmin_id":404517247,
+            "locality_id":85972205,
+            "neighbourhood_id":85859027,
+            "region_id":85688661,
+            "venue_id":806900727
+        }
+    ],
+    "wof:id":806900727,
+    "wof:lastmodified":1462602014,
+    "wof:name":"United States Postal Service",
+    "wof:parent_id":85859027,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.323776,
+    38.73501,
+    -90.323776,
+    38.73501
+],
+  "geometry": {"coordinates":[-90.323776,38.73501],"type":"Point"}
+}

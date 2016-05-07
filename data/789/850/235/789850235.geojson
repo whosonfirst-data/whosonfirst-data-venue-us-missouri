@@ -1,0 +1,75 @@
+{
+  "id": 789850235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.359134,37.215995,-93.359134,37.215995",
+    "geom:latitude":37.215995,
+    "geom:longitude":-93.359134,
+    "iso:country":"US",
+    "sg:address":"4015 W Maple St",
+    "sg:city":"Springfield",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 831 7333",
+    "sg:postcode":"65802",
+    "sg:province":"MO",
+    "sg:tags":[
+        "bathtub",
+        "sink",
+        "refinishing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971363,
+        102087523,
+        85836941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ACb6NPrT9T42fDoJdftGv_37.215995_-93.359134@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462591028,
+    "wof:geomhash":"e07f76f4ff35a6ced420dd4afebc60bd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087523,
+            "locality_id":85971363,
+            "neighbourhood_id":85836941,
+            "region_id":85688661,
+            "venue_id":789850235
+        }
+    ],
+    "wof:id":789850235,
+    "wof:lastmodified":1462591028,
+    "wof:name":"Master Glaze",
+    "wof:parent_id":85836941,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bathtub",
+        "sink",
+        "refinishing"
+    ]
+},
+  "bbox": [
+    -93.359134,
+    37.215995,
+    -93.359134,
+    37.215995
+],
+  "geometry": {"coordinates":[-93.359134,37.215995],"type":"Point"}
+}

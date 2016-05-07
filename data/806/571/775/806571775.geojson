@@ -1,0 +1,71 @@
+{
+  "id": 806571775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.175513,38.557599,-92.175513,38.557599",
+    "geom:latitude":38.557599,
+    "geom:longitude":-92.175513,
+    "iso:country":"US",
+    "sg:address":"917 Leslie Blvd",
+    "sg:city":"Jefferson City",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 634 2400",
+    "sg:postcode":"65101",
+    "sg:province":"MO",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970647,
+        102087511,
+        85837745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_03LhwTB3EjuEFlgQvW8vax_38.557599_-92.175513@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462599247,
+    "wof:geomhash":"9cc62cd78431c554ae512c92468ef5a7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087511,
+            "locality_id":85970647,
+            "neighbourhood_id":85837745,
+            "region_id":85688661,
+            "venue_id":806571775
+        }
+    ],
+    "wof:id":806571775,
+    "wof:lastmodified":1462599247,
+    "wof:name":"Roger D Nail DDS",
+    "wof:parent_id":85837745,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -92.175513,
+    38.557599,
+    -92.175513,
+    38.557599
+],
+  "geometry": {"coordinates":[-92.175513,38.557599],"type":"Point"}
+}

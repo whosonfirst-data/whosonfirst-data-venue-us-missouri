@@ -1,0 +1,78 @@
+{
+  "id": 807005081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.271202,38.594299,-90.271202,38.594299",
+    "geom:latitude":38.594299,
+    "geom:longitude":-90.271202,
+    "iso:country":"US",
+    "sg:address":"3619 S Kingshighway Blvd",
+    "sg:city":"Saint Louis",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 353 7343",
+    "sg:postcode":"63109",
+    "sg:province":"MO",
+    "sg:tags":[
+        "automobile",
+        "part"
+    ],
+    "sg:website":"www.autozone.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873683,
+        102191575,
+        404518053,
+        85633793,
+        85971343,
+        102080791,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1KPIrjdnfpPcKNf0aiomjc_38.594158_-90.271497@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1462602899,
+    "wof:geomhash":"cb6d0c859923ed43c2e859d76a8e5db7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080791,
+            "localadmin_id":404518053,
+            "locality_id":85971343,
+            "neighbourhood_id":85873683,
+            "region_id":85688661,
+            "venue_id":807005081
+        }
+    ],
+    "wof:id":807005081,
+    "wof:lastmodified":1462602899,
+    "wof:name":"Autozone",
+    "wof:parent_id":85873683,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "part"
+    ]
+},
+  "bbox": [
+    -90.271202,
+    38.594299,
+    -90.271202,
+    38.594299
+],
+  "geometry": {"coordinates":[-90.271202,38.594299],"type":"Point"}
+}

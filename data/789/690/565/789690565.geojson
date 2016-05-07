@@ -1,0 +1,73 @@
+{
+  "id": 789690565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.368897,38.470839,-90.368897,38.470839",
+    "geom:latitude":38.470839,
+    "geom:longitude":-90.368897,
+    "iso:country":"US",
+    "sg:address":"4402 Dove Haven Pl",
+    "sg:city":"St Louis",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 892 8445",
+    "sg:postcode":"63128",
+    "sg:province":"MO",
+    "sg:tags":[
+        "siding",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971021,
+        102080787,
+        85832925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1mhQlb8S3wHOkgj5XpeAJJ_38.470839_-90.368897@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462589782,
+    "wof:geomhash":"e056b058790f2e2307d3d3f18ebb2e22",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080787,
+            "locality_id":85971021,
+            "neighbourhood_id":85832925,
+            "region_id":85688661,
+            "venue_id":789690565
+        }
+    ],
+    "wof:id":789690565,
+    "wof:lastmodified":1462589782,
+    "wof:name":"Clark Brothers Constr Inc",
+    "wof:parent_id":85832925,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "siding",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -90.368897,
+    38.470839,
+    -90.368897,
+    38.470839
+],
+  "geometry": {"coordinates":[-90.368897,38.470839],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 773760509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.291123,37.043343,-93.291123,37.043343",
+    "geom:latitude":37.043343,
+    "geom:longitude":-93.291123,
+    "iso:country":"US",
+    "sg:address":"304 E Mount Vernon St",
+    "sg:city":"Nixa",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 724 9099",
+    "sg:postcode":"65714",
+    "sg:province":"MO",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971577,
+        102087497,
+        85809751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4gSJYJ0JxcqSNCntsRncHU_37.043343_-93.291123@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462588175,
+    "wof:geomhash":"dd0b894cefa73a9a60016bce3122c3ad",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087497,
+            "locality_id":85971577,
+            "neighbourhood_id":85809751,
+            "region_id":85688661,
+            "venue_id":773760509
+        }
+    ],
+    "wof:id":773760509,
+    "wof:lastmodified":1462588175,
+    "wof:name":"Top Line Plumbing",
+    "wof:parent_id":85809751,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -93.291123,
+    37.043343,
+    -93.291123,
+    37.043343
+],
+  "geometry": {"coordinates":[-93.291123,37.043343],"type":"Point"}
+}

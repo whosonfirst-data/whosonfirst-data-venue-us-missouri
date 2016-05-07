@@ -1,0 +1,71 @@
+{
+  "id": 789843237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.345401,38.49391,-90.345401,38.49391",
+    "geom:latitude":38.49391,
+    "geom:longitude":-90.345401,
+    "iso:country":"US",
+    "sg:address":"4835 Lemay Ferry Rd",
+    "sg:city":"St Louis",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 487 6066",
+    "sg:postcode":"63129",
+    "sg:province":"MO",
+    "sg:tags":[
+        "paint"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971021,
+        102080787,
+        85832925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7dQ3FBG5hN0bOZAWcq0cWs_38.493910_-90.345401@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462590974,
+    "wof:geomhash":"fb8baab17ff13994486e50db09758aeb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080787,
+            "locality_id":85971021,
+            "neighbourhood_id":85832925,
+            "region_id":85688661,
+            "venue_id":789843237
+        }
+    ],
+    "wof:id":789843237,
+    "wof:lastmodified":1462590974,
+    "wof:name":"ICI Dulux Paint",
+    "wof:parent_id":85832925,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "paint"
+    ]
+},
+  "bbox": [
+    -90.345401,
+    38.49391,
+    -90.345401,
+    38.49391
+],
+  "geometry": {"coordinates":[-90.345401,38.49391],"type":"Point"}
+}

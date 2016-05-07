@@ -1,0 +1,85 @@
+{
+  "id": 806469805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.189743,38.617335,-90.189743,38.617335",
+    "geom:latitude":38.617335,
+    "geom:longitude":-90.189743,
+    "iso:country":"US",
+    "sg:address":"104 Gratiot St",
+    "sg:city":"St Louis",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Wood Products",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Furniture",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 361 5931",
+    "sg:postcode":"63102",
+    "sg:province":"MO",
+    "sg:tags":[
+        "builder",
+        "custom",
+        "mfg"
+    ],
+    "sg:website":"www.druidswoodworking.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873665,
+        102191575,
+        404518053,
+        85633793,
+        85971343,
+        102080791,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_56LMdHU9pDPhyYivkTwTUT_38.617335_-90.189743@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462598388,
+    "wof:geomhash":"e257e4641b9d7090a20955979c7ec195",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080791,
+            "localadmin_id":404518053,
+            "locality_id":85971343,
+            "neighbourhood_id":85873665,
+            "region_id":85688661,
+            "venue_id":806469805
+        }
+    ],
+    "wof:id":806469805,
+    "wof:lastmodified":1462598388,
+    "wof:name":"Druids Woodworking Inc",
+    "wof:parent_id":85873665,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "builder",
+        "custom",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -90.189743,
+    38.617335,
+    -90.189743,
+    38.617335
+],
+  "geometry": {"coordinates":[-90.18974300000001,38.617335],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 789744817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.584666,39.387735,-94.584666,39.387735",
+    "geom:latitude":39.387735,
+    "geom:longitude":-94.584666,
+    "iso:country":"US",
+    "sg:address":"123 US Hwy 169",
+    "sg:city":"Smithville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 532 8096",
+    "sg:postcode":"64089",
+    "sg:province":"MO",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970739,
+        102086177,
+        85836329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_33hjnqBdqZ7c6M6QnB7bSj_39.387735_-94.584666@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462590216,
+    "wof:geomhash":"3ea84e5840413f8a82ff32bb29356a74",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086177,
+            "locality_id":85970739,
+            "neighbourhood_id":85836329,
+            "region_id":85688661,
+            "venue_id":789744817
+        }
+    ],
+    "wof:id":789744817,
+    "wof:lastmodified":1462590216,
+    "wof:name":"Gt Tow",
+    "wof:parent_id":85836329,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -94.584666,
+    39.387735,
+    -94.584666,
+    39.387735
+],
+  "geometry": {"coordinates":[-94.584666,39.387735],"type":"Point"}
+}

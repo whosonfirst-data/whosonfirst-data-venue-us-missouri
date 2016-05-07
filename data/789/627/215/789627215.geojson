@@ -1,0 +1,86 @@
+{
+  "id": 789627215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.222626,38.632027,-90.222626,38.632027",
+    "geom:latitude":38.632027,
+    "geom:longitude":-90.222626,
+    "iso:country":"US",
+    "sg:address":"3026 Laclede Ave",
+    "sg:city":"St Louis",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"College",
+            "type":"Public Place"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Books",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 340 3366",
+    "sg:postcode":"63103",
+    "sg:province":"MO",
+    "sg:tags":[
+        "academic",
+        "school",
+        "dealer",
+        "textbook"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85867035,
+        102191575,
+        404518053,
+        85633793,
+        85971343,
+        102080791,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4CkxFsI9l0cy6stabcIxdV_38.632027_-90.222626@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462589272,
+    "wof:geomhash":"993ce96594da8794d585b35bef369630",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080791,
+            "localadmin_id":404518053,
+            "locality_id":85971343,
+            "neighbourhood_id":85867035,
+            "region_id":85688661,
+            "venue_id":789627215
+        }
+    ],
+    "wof:id":789627215,
+    "wof:lastmodified":1462589272,
+    "wof:name":"Harris-Stowe State College",
+    "wof:parent_id":85867035,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "academic",
+        "school",
+        "dealer",
+        "textbook"
+    ]
+},
+  "bbox": [
+    -90.222626,
+    38.632027,
+    -90.222626,
+    38.632027
+],
+  "geometry": {"coordinates":[-90.22262600000001,38.632027],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 790134565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.600346,38.788017,-90.600346,38.788017",
+    "geom:latitude":38.788017,
+    "geom:longitude":-90.600346,
+    "iso:country":"US",
+    "sg:address":"1113 Holly Springs Trl",
+    "sg:city":"Saint Peters",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 928 5484",
+    "sg:postcode":"63376",
+    "sg:province":"MO",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Q0PRHOuhrYzpd5EGZUNg6_38.788017_-90.600346@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462593390,
+    "wof:geomhash":"2b9d7fed156957aad3450e75e36573c8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":790134565
+        }
+    ],
+    "wof:id":790134565,
+    "wof:lastmodified":1462593390,
+    "wof:name":"V Grant & Sons Trucking",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -90.600346,
+    38.788017,
+    -90.600346,
+    38.788017
+],
+  "geometry": {"coordinates":[-90.600346,38.788017],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 807101215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.777099,37.953325,-91.777099,37.953325",
+    "geom:latitude":37.953325,
+    "geom:longitude":-91.777099,
+    "iso:country":"US",
+    "sg:address":"1203 N Bishop Ave",
+    "sg:city":"Rolla",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/rolla/156067-hardees/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 364 8400",
+    "sg:postcode":"65401",
+    "sg:province":"MO",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970821,
+        102086893,
+        85814531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_26QC5XjxcywgleEbIYx7mM_37.953358_-91.777170@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462603746,
+    "wof:geomhash":"f946ffc85182d1f9530a8fc16e25d51c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086893,
+            "locality_id":85970821,
+            "neighbourhood_id":85814531,
+            "region_id":85688661,
+            "venue_id":807101215
+        }
+    ],
+    "wof:id":807101215,
+    "wof:lastmodified":1462603746,
+    "wof:name":"Hardee's",
+    "wof:parent_id":85814531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -91.777099,
+    37.953325,
+    -91.777099,
+    37.953325
+],
+  "geometry": {"coordinates":[-91.77709900000001,37.953325],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 790569633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.210751,39.342019,-91.210751,39.342019",
+    "geom:latitude":39.342019,
+    "geom:longitude":-91.210751,
+    "iso:country":"US",
+    "sg:address":"1605 W Main St",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 324 3927",
+    "sg:postcode":"63334",
+    "sg:province":"MO",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971907,
+        102086151,
+        85817909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4HjSi3ZbP6UGIP6tf9TuMn_39.342019_-91.210751@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462596958,
+    "wof:geomhash":"c1efe966016371641d14107b4c65f46f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086151,
+            "locality_id":85971907,
+            "neighbourhood_id":85817909,
+            "region_id":85688661,
+            "venue_id":790569633
+        }
+    ],
+    "wof:id":790569633,
+    "wof:lastmodified":1462596958,
+    "wof:name":"Colbert Plumbing Svc",
+    "wof:parent_id":85817909,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -91.210751,
+    39.342019,
+    -91.210751,
+    39.342019
+],
+  "geometry": {"coordinates":[-91.210751,39.342019],"type":"Point"}
+}

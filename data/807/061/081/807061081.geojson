@@ -1,0 +1,74 @@
+{
+  "id": 807061081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.403861,38.212549,-90.403861,38.212549",
+    "geom:latitude":38.212549,
+    "geom:longitude":-90.403861,
+    "iso:country":"US",
+    "sg:address":"1075 W Gannon Dr",
+    "sg:city":"Festus",
+    "sg:classifiers":[
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/river-view/105868-panera-bread/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 931 9994",
+    "sg:postcode":"63028",
+    "sg:province":"MO",
+    "sg:tags":[
+        "american",
+        "sandwich",
+        "pastry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85848677,
+        102080787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Rxr4LOce1NO5GTrsIFVWX_38.212549_-90.403861@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462603379,
+    "wof:geomhash":"ff4de79a37021ad444e0d385e60c78b4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080787,
+            "neighbourhood_id":85848677,
+            "region_id":85688661,
+            "venue_id":807061081
+        }
+    ],
+    "wof:id":807061081,
+    "wof:lastmodified":1462603379,
+    "wof:name":"Panera Bread",
+    "wof:parent_id":85848677,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich",
+        "pastry"
+    ]
+},
+  "bbox": [
+    -90.403861,
+    38.212549,
+    -90.403861,
+    38.212549
+],
+  "geometry": {"coordinates":[-90.40386100000001,38.212549],"type":"Point"}
+}

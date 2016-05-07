@@ -1,0 +1,80 @@
+{
+  "id": 807306115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.20488,37.221563,-93.20488,37.221563",
+    "geom:latitude":37.221563,
+    "geom:longitude":-93.20488,
+    "iso:country":"US",
+    "sg:address":"1393 N Bristol Ave",
+    "sg:city":"Springfield",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 889 4444",
+    "sg:postcode":"65802",
+    "sg:province":"MO",
+    "sg:tags":[
+        "buyer",
+        "commercial",
+        "broker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971363,
+        102087523,
+        85881137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4YZrgIvZxrsJlT7Fm5CgYw_37.221563_-93.204880@1303262938"
+    },
+    "wof:country":"US",
+    "wof:created":1462605918,
+    "wof:geomhash":"f1c39e1b9e8a6711c9bc53b3121e209a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087523,
+            "locality_id":85971363,
+            "neighbourhood_id":85881137,
+            "region_id":85688661,
+            "venue_id":807306115
+        }
+    ],
+    "wof:id":807306115,
+    "wof:lastmodified":1462605918,
+    "wof:name":"Chambers Real Estate",
+    "wof:parent_id":85881137,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "buyer",
+        "commercial",
+        "broker"
+    ]
+},
+  "bbox": [
+    -93.20488,
+    37.221563,
+    -93.20488,
+    37.221563
+],
+  "geometry": {"coordinates":[-93.20488,37.221563],"type":"Point"}
+}

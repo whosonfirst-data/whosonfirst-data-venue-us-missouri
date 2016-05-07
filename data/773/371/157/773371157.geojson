@@ -1,0 +1,73 @@
+{
+  "id": 773371157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.527095,37.120983,-94.527095,37.120983",
+    "geom:latitude":37.120983,
+    "geom:longitude":-94.527095,
+    "iso:country":"US",
+    "sg:address":"1234 W Estate Ln",
+    "sg:city":"Joplin",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 659 8023",
+    "sg:postcode":"64801",
+    "sg:province":"MO",
+    "sg:tags":[
+        "concrete",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970893,
+        102087525,
+        85810925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4cWwwKMd0yZMIOHUWPCNmT_37.120983_-94.527095@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462585188,
+    "wof:geomhash":"19aae96c6b4e7e1d1f1da10251f4c5e1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087525,
+            "locality_id":85970893,
+            "neighbourhood_id":85810925,
+            "region_id":85688661,
+            "venue_id":773371157
+        }
+    ],
+    "wof:id":773371157,
+    "wof:lastmodified":1462585188,
+    "wof:name":"J & S Concrete Construction Co",
+    "wof:parent_id":85810925,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -94.527095,
+    37.120983,
+    -94.527095,
+    37.120983
+],
+  "geometry": {"coordinates":[-94.527095,37.120983],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 806624105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.481727,38.781332,-90.481727,38.781332",
+    "geom:latitude":38.781332,
+    "geom:longitude":-90.481727,
+    "iso:country":"US",
+    "sg:address":"120 Jefferson St",
+    "sg:city":"St Charles",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 947 1346",
+    "sg:postcode":"63301",
+    "sg:province":"MO",
+    "sg:tags":[
+        "savings",
+        "institution"
+    ],
+    "sg:website":"www.firstbanks.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3joER4PejIlqis6kfbZDZB_38.781332_-90.481727@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462599686,
+    "wof:geomhash":"2f02e99b2ad788dfb3bf7982b9c7ff33",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":806624105
+        }
+    ],
+    "wof:id":806624105,
+    "wof:lastmodified":1462599686,
+    "wof:name":"First Bank",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "savings",
+        "institution"
+    ]
+},
+  "bbox": [
+    -90.481727,
+    38.781332,
+    -90.481727,
+    38.781332
+],
+  "geometry": {"coordinates":[-90.48172700000001,38.781332],"type":"Point"}
+}

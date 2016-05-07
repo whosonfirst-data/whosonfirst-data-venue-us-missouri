@@ -1,0 +1,73 @@
+{
+  "id": 806704253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.563,38.22891,-90.563,38.22891",
+    "geom:latitude":38.22891,
+    "geom:longitude":-90.563,
+    "iso:country":"US",
+    "sg:address":"10661 State Hwy 21",
+    "sg:city":"Hillsboro",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 797 2500",
+    "sg:postcode":"63050",
+    "sg:province":"MO",
+    "sg:tags":[
+        "physician",
+        "medical",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85848677,
+        102080787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ChgvlnUikhDv0f7Aik6dS_38.228910_-90.563000@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462600371,
+    "wof:geomhash":"68aa005363052bd551bdd601bcfff6d4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080787,
+            "neighbourhood_id":85848677,
+            "region_id":85688661,
+            "venue_id":806704253
+        }
+    ],
+    "wof:id":806704253,
+    "wof:lastmodified":1462600371,
+    "wof:name":"Rowden Family Medicine",
+    "wof:parent_id":85848677,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "medical",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -90.563,
+    38.22891,
+    -90.563,
+    38.22891
+],
+  "geometry": {"coordinates":[-90.563,38.22891],"type":"Point"}
+}

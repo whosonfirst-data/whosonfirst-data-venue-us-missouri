@@ -1,0 +1,71 @@
+{
+  "id": 806896797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.494318,38.78695,-90.494318,38.78695",
+    "geom:latitude":38.78695,
+    "geom:longitude":-90.494318,
+    "iso:country":"US",
+    "sg:address":"200 N Kingshighway St",
+    "sg:city":"St Charles",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 724 6100",
+    "sg:postcode":"63301",
+    "sg:province":"MO",
+    "sg:tags":[
+        "cleaners"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5V9msbgkw9thxvIawMKlJv_38.786950_-90.494318@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462601986,
+    "wof:geomhash":"ba66dea621962d918308494cc28519aa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":806896797
+        }
+    ],
+    "wof:id":806896797,
+    "wof:lastmodified":1462601986,
+    "wof:name":"Band Box Cleaners Inc",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners"
+    ]
+},
+  "bbox": [
+    -90.494318,
+    38.78695,
+    -90.494318,
+    38.78695
+],
+  "geometry": {"coordinates":[-90.49431800000001,38.78695],"type":"Point"}
+}

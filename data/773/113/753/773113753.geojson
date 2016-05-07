@@ -1,0 +1,86 @@
+{
+  "id": 773113753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.648696,38.663039,-90.648696,38.663039",
+    "geom:latitude":38.663039,
+    "geom:longitude":-90.648696,
+    "iso:country":"US",
+    "sg:address":"567 Bell Ave",
+    "sg:city":"Chesterfield",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 733 9002",
+    "sg:postcode":"63005",
+    "sg:province":"MO",
+    "sg:tags":[
+        "bathroom",
+        "remodeling",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102533513,
+        85834749,
+        102191575,
+        404517241,
+        85633793,
+        85972357,
+        102086173,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3cKoVpTYK8gNL6rrSU1CAU_38.663039_-90.648696@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462583246,
+    "wof:geomhash":"01be0c38bbb9cb15266e80e0dd56ef6c",
+    "wof:hierarchy":[
+        {
+            "campus_id":102533513,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086173,
+            "localadmin_id":404517241,
+            "locality_id":85972357,
+            "neighbourhood_id":85834749,
+            "region_id":85688661,
+            "venue_id":773113753
+        }
+    ],
+    "wof:id":773113753,
+    "wof:lastmodified":1462583246,
+    "wof:name":"Plumbing Solutions Inc",
+    "wof:parent_id":102533513,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bathroom",
+        "remodeling",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -90.648696,
+    38.663039,
+    -90.648696,
+    38.663039
+],
+  "geometry": {"coordinates":[-90.648696,38.663039],"type":"Point"}
+}

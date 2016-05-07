@@ -1,0 +1,72 @@
+{
+  "id": 807096047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.303491,37.160014,-93.303491,37.160014",
+    "geom:latitude":37.160014,
+    "geom:longitude":-93.303491,
+    "iso:country":"US",
+    "sg:address":"900 W Battlefield St",
+    "sg:city":"Springfield",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/springfield/54923-bandanas-bar-b-q/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 887 5555",
+    "sg:postcode":"65807",
+    "sg:province":"MO",
+    "sg:tags":[
+        "barbecue",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85881151,
+        102087523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3UAX3oCZGjkfbIzcPHoID5_37.160014_-93.303491@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462603676,
+    "wof:geomhash":"0b2c267dc4228fc3ba61e0eab3a74c16",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087523,
+            "neighbourhood_id":85881151,
+            "region_id":85688661,
+            "venue_id":807096047
+        }
+    ],
+    "wof:id":807096047,
+    "wof:lastmodified":1462603676,
+    "wof:name":"Bandana's BBQ",
+    "wof:parent_id":85881151,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "barbecue",
+        "american"
+    ]
+},
+  "bbox": [
+    -93.303491,
+    37.160014,
+    -93.303491,
+    37.160014
+],
+  "geometry": {"coordinates":[-93.30349099999999,37.160014],"type":"Point"}
+}

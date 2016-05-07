@@ -1,0 +1,71 @@
+{
+  "id": 806875183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.843403,38.81393,-90.843403,38.81393",
+    "geom:latitude":38.81393,
+    "geom:longitude":-90.843403,
+    "iso:country":"US",
+    "sg:address":"1100 E Pearce Blvd",
+    "sg:city":"Wentzville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 639 9114",
+    "sg:postcode":"63385",
+    "sg:province":"MO",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4oaXl2m9pZq4NY4yolEwmI_38.813930_-90.843403@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462601813,
+    "wof:geomhash":"f5aed04e33379d28ab6f99130e03be91",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":806875183
+        }
+    ],
+    "wof:id":806875183,
+    "wof:lastmodified":1462601813,
+    "wof:name":"Express Care",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -90.843403,
+    38.81393,
+    -90.843403,
+    38.81393
+],
+  "geometry": {"coordinates":[-90.843403,38.81393],"type":"Point"}
+}

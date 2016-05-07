@@ -1,0 +1,71 @@
+{
+  "id": 806605843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.666199,39.312388,-94.666199,39.312388",
+    "geom:latitude":39.312388,
+    "geom:longitude":-94.666199,
+    "iso:country":"US",
+    "sg:address":"219 N Chester St",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 464 2396",
+    "sg:postcode":"64163",
+    "sg:province":"MO",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970739,
+        102085271,
+        85851839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0sPT79L3yDqrboZA3JK5AM_39.312388_-94.666199@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462599535,
+    "wof:geomhash":"7c987ced6792f2aaa0956d6a18f961cf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085271,
+            "locality_id":85970739,
+            "neighbourhood_id":85851839,
+            "region_id":85688661,
+            "venue_id":806605843
+        }
+    ],
+    "wof:id":806605843,
+    "wof:lastmodified":1462599535,
+    "wof:name":"Mobile Chef",
+    "wof:parent_id":85851839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -94.666199,
+    39.312388,
+    -94.666199,
+    39.312388
+],
+  "geometry": {"coordinates":[-94.66619900000001,39.312388],"type":"Point"}
+}

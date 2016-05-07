@@ -1,0 +1,77 @@
+{
+  "id": 789672895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.351193,38.732558,-90.351193,38.732558",
+    "geom:latitude":38.732558,
+    "geom:longitude":-90.351193,
+    "iso:country":"US",
+    "sg:address":"10000 Natural Bridge Rd",
+    "sg:city":"St Louis",
+    "sg:classifiers":[
+        {
+            "category":"Parking",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 429 2345",
+    "sg:postcode":"63134",
+    "sg:province":"MO",
+    "sg:tags":[
+        "garage",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85847351,
+        102191575,
+        404517201,
+        85633793,
+        85972285,
+        102086173,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6mtWVBnkOXHXLQgLs42Qs6_38.732558_-90.351193@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462589648,
+    "wof:geomhash":"7f0acdd6cfe404f1c901e07c0c7f83f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086173,
+            "localadmin_id":404517201,
+            "locality_id":85972285,
+            "neighbourhood_id":85847351,
+            "region_id":85688661,
+            "venue_id":789672895
+        }
+    ],
+    "wof:id":789672895,
+    "wof:lastmodified":1462589648,
+    "wof:name":"Budget Airport Parking",
+    "wof:parent_id":85847351,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garage",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -90.351193,
+    38.732558,
+    -90.351193,
+    38.732558
+],
+  "geometry": {"coordinates":[-90.35119299999999,38.732558],"type":"Point"}
+}

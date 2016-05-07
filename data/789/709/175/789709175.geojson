@@ -1,0 +1,85 @@
+{
+  "id": 789709175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.482317,38.648348,-90.482317,38.648348",
+    "geom:latitude":38.648348,
+    "geom:longitude":-90.482317,
+    "iso:country":"US",
+    "sg:address":"500 S Mason Rd",
+    "sg:city":"Creve Coeur",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        },
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 434 3690",
+    "sg:postcode":"63141",
+    "sg:province":"MO",
+    "sg:tags":[
+        "monastery",
+        "catholic",
+        "boy"
+    ],
+    "sg:website":"www.stlouisabbey.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85802943,
+        102191575,
+        404517387,
+        85633793,
+        85972231,
+        102086173,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6HpDHU2pJevAc7XrgjwHgh_38.648348_-90.482317@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462589928,
+    "wof:geomhash":"f6c33c2b71f3b082642c8341f92eadb8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086173,
+            "localadmin_id":404517387,
+            "locality_id":85972231,
+            "neighbourhood_id":85802943,
+            "region_id":85688661,
+            "venue_id":789709175
+        }
+    ],
+    "wof:id":789709175,
+    "wof:lastmodified":1462589928,
+    "wof:name":"Saint Louis Priory School",
+    "wof:parent_id":85802943,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "monastery",
+        "catholic",
+        "boy"
+    ]
+},
+  "bbox": [
+    -90.482317,
+    38.648348,
+    -90.482317,
+    38.648348
+],
+  "geometry": {"coordinates":[-90.48231699999999,38.648348],"type":"Point"}
+}

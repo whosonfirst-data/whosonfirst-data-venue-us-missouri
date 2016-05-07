@@ -1,0 +1,71 @@
+{
+  "id": 789964417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.390957,38.476436,-90.390957,38.476436",
+    "geom:latitude":38.476436,
+    "geom:longitude":-90.390957,
+    "iso:country":"US",
+    "sg:address":"5110 Suson Hills Dr",
+    "sg:city":"St Louis",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Portrait Studio",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 544 9944",
+    "sg:postcode":"63128",
+    "sg:province":"MO",
+    "sg:tags":[
+        "photographer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971021,
+        102080787,
+        85832925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2mTd63uclIekgIf2jvt93N_38.476436_-90.390957@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462592033,
+    "wof:geomhash":"e8d5a9ac2d407066237b592bcef2d762",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080787,
+            "locality_id":85971021,
+            "neighbourhood_id":85832925,
+            "region_id":85688661,
+            "venue_id":789964417
+        }
+    ],
+    "wof:id":789964417,
+    "wof:lastmodified":1462592033,
+    "wof:name":"Crown Studios LTD",
+    "wof:parent_id":85832925,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "photographer"
+    ]
+},
+  "bbox": [
+    -90.390957,
+    38.476436,
+    -90.390957,
+    38.476436
+],
+  "geometry": {"coordinates":[-90.390957,38.476436],"type":"Point"}
+}

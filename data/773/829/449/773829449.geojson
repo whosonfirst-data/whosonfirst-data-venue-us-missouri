@@ -1,0 +1,73 @@
+{
+  "id": 773829449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.706591,37.957238,-91.706591,37.957238",
+    "geom:latitude":37.957238,
+    "geom:longitude":-91.706591,
+    "iso:country":"US",
+    "sg:address":"11970 Meadowview Ln",
+    "sg:city":"Rolla",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 341 3497",
+    "sg:postcode":"65401",
+    "sg:province":"MO",
+    "sg:tags":[
+        "specialty",
+        "outpatient"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970821,
+        102086893,
+        85814531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2GVcY30LXbNVisqv1x7BsC_37.957238_-91.706591@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462588715,
+    "wof:geomhash":"195fa05c6790cf4b60b90c2ab17dda85",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086893,
+            "locality_id":85970821,
+            "neighbourhood_id":85814531,
+            "region_id":85688661,
+            "venue_id":773829449
+        }
+    ],
+    "wof:id":773829449,
+    "wof:lastmodified":1462588715,
+    "wof:name":"Boys and Girls Town Missour",
+    "wof:parent_id":85814531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "specialty",
+        "outpatient"
+    ]
+},
+  "bbox": [
+    -91.706591,
+    37.957238,
+    -91.706591,
+    37.957238
+],
+  "geometry": {"coordinates":[-91.706591,37.957238],"type":"Point"}
+}

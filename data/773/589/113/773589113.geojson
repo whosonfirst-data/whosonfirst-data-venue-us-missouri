@@ -1,0 +1,71 @@
+{
+  "id": 773589113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.063413,38.512325,-92.063413,38.512325",
+    "geom:latitude":38.512325,
+    "geom:longitude":-92.063413,
+    "iso:country":"US",
+    "sg:address":"7704 Rte M",
+    "sg:city":"Jefferson City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 395 0145",
+    "sg:postcode":"65101",
+    "sg:province":"MO",
+    "sg:tags":[
+        "carwash"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970647,
+        102087511,
+        85837745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5KHXkzRlvQulSOCIZC5z0d_38.512325_-92.063413@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462586865,
+    "wof:geomhash":"60dbfc377ca733225216f0d3d64ff335",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087511,
+            "locality_id":85970647,
+            "neighbourhood_id":85837745,
+            "region_id":85688661,
+            "venue_id":773589113
+        }
+    ],
+    "wof:id":773589113,
+    "wof:lastmodified":1462586865,
+    "wof:name":"Spotless Tais Car Wash",
+    "wof:parent_id":85837745,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carwash"
+    ]
+},
+  "bbox": [
+    -92.063413,
+    38.512325,
+    -92.063413,
+    38.512325
+],
+  "geometry": {"coordinates":[-92.063413,38.512325],"type":"Point"}
+}

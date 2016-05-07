@@ -1,0 +1,69 @@
+{
+  "id": 773211941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.445248,38.216947,-90.445248,38.216947",
+    "geom:latitude":38.216947,
+    "geom:longitude":-90.445248,
+    "iso:country":"US",
+    "sg:address":"2650 State Rte 21A",
+    "sg:city":"Festus",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Natural Gas",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 931 8708",
+    "sg:postcode":"63028",
+    "sg:province":"MO",
+    "sg:tags":[
+        "distribution"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85848677,
+        102080787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2TI8EVCVUC7IkHGNsHgeNi_38.216947_-90.445248@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462584010,
+    "wof:geomhash":"ede55b576dbc520baf76db8e30684164",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080787,
+            "neighbourhood_id":85848677,
+            "region_id":85688661,
+            "venue_id":773211941
+        }
+    ],
+    "wof:id":773211941,
+    "wof:lastmodified":1462584010,
+    "wof:name":"Mo Natural Gas",
+    "wof:parent_id":85848677,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "distribution"
+    ]
+},
+  "bbox": [
+    -90.445248,
+    38.216947,
+    -90.445248,
+    38.216947
+],
+  "geometry": {"coordinates":[-90.44524800000001,38.216947],"type":"Point"}
+}

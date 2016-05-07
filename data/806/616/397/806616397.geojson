@@ -1,0 +1,88 @@
+{
+  "id": 806616397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.3562,38.477444,-90.3562,38.477444",
+    "geom:latitude":38.477444,
+    "geom:longitude":-90.3562,
+    "iso:country":"US",
+    "sg:address":"4216 Providence Pointe Dr",
+    "sg:city":"St Louis",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 845 2888",
+    "sg:postcode":"63129",
+    "sg:province":"MO",
+    "sg:tags":[
+        "home",
+        "builder"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971021,
+        102080787,
+        85832925,
+        85885365,
+        102191575,
+        404517459,
+        85972631,
+        102086173
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7SwOpuPEyY9DZAU4RmTefn_38.477444_-90.356200@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462599624,
+    "wof:geomhash":"bd8510cf7f880742ac2f37e69d676570",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080787,
+            "locality_id":85971021,
+            "neighbourhood_id":85832925,
+            "region_id":85688661,
+            "venue_id":806616397
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086173,
+            "localadmin_id":404517459,
+            "locality_id":85972631,
+            "neighbourhood_id":85885365,
+            "region_id":85688661,
+            "venue_id":806616397
+        }
+    ],
+    "wof:id":806616397,
+    "wof:lastmodified":1462599624,
+    "wof:name":"Providence Point",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "builder"
+    ]
+},
+  "bbox": [
+    -90.3562,
+    38.477444,
+    -90.3562,
+    38.477444
+],
+  "geometry": {"coordinates":[-90.3562,38.477444],"type":"Point"}
+}

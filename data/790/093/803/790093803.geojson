@@ -1,0 +1,80 @@
+{
+  "id": 790093803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.187248,38.560142,-92.187248,38.560142",
+    "geom:latitude":38.560142,
+    "geom:longitude":-92.187248,
+    "iso:country":"US",
+    "sg:address":"1501 Legion Ln",
+    "sg:city":"Jefferson City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Auto Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 632 2075",
+    "sg:postcode":"65101",
+    "sg:province":"MO",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970647,
+        102087511,
+        85837745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4oM7Git3gYBsjw40pWGDSq_38.560142_-92.187248@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462593082,
+    "wof:geomhash":"e01d866522463c10a563cc411ae17ef5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087511,
+            "locality_id":85970647,
+            "neighbourhood_id":85837745,
+            "region_id":85688661,
+            "venue_id":790093803
+        }
+    ],
+    "wof:id":790093803,
+    "wof:lastmodified":1462593082,
+    "wof:name":"Colormaster Automotive Paint",
+    "wof:parent_id":85837745,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -92.187248,
+    38.560142,
+    -92.187248,
+    38.560142
+],
+  "geometry": {"coordinates":[-92.187248,38.560142],"type":"Point"}
+}

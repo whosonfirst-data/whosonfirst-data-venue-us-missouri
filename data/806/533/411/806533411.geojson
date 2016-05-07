@@ -1,0 +1,91 @@
+{
+  "id": 806533411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.274293,38.618033,-90.274293,38.618033",
+    "geom:latitude":38.618033,
+    "geom:longitude":-90.274293,
+    "iso:country":"US",
+    "sg:address":"5218 Shaw Ave",
+    "sg:city":"St Louis",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Hardware",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 776 1660",
+    "sg:postcode":"63110",
+    "sg:province":"MO",
+    "sg:tags":[
+        "filter",
+        "electric",
+        "cooler",
+        "water",
+        "fountain",
+        "drinking"
+    ],
+    "sg:website":"www.standardrefrigeration.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85867039,
+        102191575,
+        404518053,
+        85633793,
+        85971343,
+        102080791,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5gT0Jl6VHh4d8MmGXBIoM8_38.618033_-90.274293@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462598896,
+    "wof:geomhash":"1405fff49b1eb7d0d8d469eb6b00a9d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080791,
+            "localadmin_id":404518053,
+            "locality_id":85971343,
+            "neighbourhood_id":85867039,
+            "region_id":85688661,
+            "venue_id":806533411
+        }
+    ],
+    "wof:id":806533411,
+    "wof:lastmodified":1462598896,
+    "wof:name":"Standard Refrigeration",
+    "wof:parent_id":85867039,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "filter",
+        "electric",
+        "cooler",
+        "water",
+        "fountain",
+        "drinking"
+    ]
+},
+  "bbox": [
+    -90.274293,
+    38.618033,
+    -90.274293,
+    38.618033
+],
+  "geometry": {"coordinates":[-90.274293,38.618033],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 789869543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.648657,38.66293,-90.648657,38.66293",
+    "geom:latitude":38.66293,
+    "geom:longitude":-90.648657,
+    "iso:country":"US",
+    "sg:address":"583 Bell Ave",
+    "sg:city":"Chesterfield",
+    "sg:classifiers":[
+        {
+            "category":"Airline",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 532 1918",
+    "sg:postcode":"63005",
+    "sg:province":"MO",
+    "sg:tags":[
+        "nonscheduled",
+        "air"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102533513,
+        85834749,
+        102191575,
+        404517241,
+        85633793,
+        85972357,
+        102086173,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4xpd0svqM8iR1KXxGuFRBV_38.662930_-90.648657@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462591185,
+    "wof:geomhash":"ed76c294e20b58767c8a24eba973600c",
+    "wof:hierarchy":[
+        {
+            "campus_id":102533513,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086173,
+            "localadmin_id":404517241,
+            "locality_id":85972357,
+            "neighbourhood_id":85834749,
+            "region_id":85688661,
+            "venue_id":789869543
+        }
+    ],
+    "wof:id":789869543,
+    "wof:lastmodified":1462591185,
+    "wof:name":"Corporate Aircraft",
+    "wof:parent_id":102533513,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "nonscheduled",
+        "air"
+    ]
+},
+  "bbox": [
+    -90.648657,
+    38.66293,
+    -90.648657,
+    38.66293
+],
+  "geometry": {"coordinates":[-90.648657,38.66293],"type":"Point"}
+}

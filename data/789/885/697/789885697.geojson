@@ -1,0 +1,80 @@
+{
+  "id": 789885697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.432538,38.702636,-90.432538,38.702636",
+    "geom:latitude":38.702636,
+    "geom:longitude":-90.432538,
+    "iso:country":"US",
+    "sg:address":"2277 Administration Dr",
+    "sg:city":"St Louis",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 991 2277",
+    "sg:postcode":"63146",
+    "sg:province":"MO",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ],
+    "sg:website":"www.cardoc.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85803699,
+        102191575,
+        404517323,
+        85633793,
+        85972315,
+        102086173,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6TykFuLv7ALzX21LyhVPuh_38.702636_-90.432538@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462591336,
+    "wof:geomhash":"ff010544293cbd70effafa43e8c42f24",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086173,
+            "localadmin_id":404517323,
+            "locality_id":85972315,
+            "neighbourhood_id":85803699,
+            "region_id":85688661,
+            "venue_id":789885697
+        }
+    ],
+    "wof:id":789885697,
+    "wof:lastmodified":1462591336,
+    "wof:name":"Car-Doc Automotive",
+    "wof:parent_id":85803699,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ]
+},
+  "bbox": [
+    -90.432538,
+    38.702636,
+    -90.432538,
+    38.702636
+],
+  "geometry": {"coordinates":[-90.43253799999999,38.702636],"type":"Point"}
+}

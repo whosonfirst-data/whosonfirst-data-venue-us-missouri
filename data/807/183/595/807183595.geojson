@@ -1,0 +1,87 @@
+{
+  "id": 807183595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.853952,38.809283,-90.853952,38.809283",
+    "geom:latitude":38.809283,
+    "geom:longitude":-90.853952,
+    "iso:country":"US",
+    "sg:address":"402 S Church St Wentzville",
+    "sg:city":"Wentzville",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 332 2453",
+    "sg:postcode":"63385",
+    "sg:province":"MO",
+    "sg:tags":[
+        "shop",
+        "skateboard",
+        "bicycles-repair",
+        "equipment",
+        "apparel",
+        "riding"
+    ],
+    "sg:website":"http://www.wheelsportsbicycleshop.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2v4GjR7Jo0Ty4ddcwF0Mow_38.809283_-90.853952@1303262930"
+    },
+    "wof:country":"US",
+    "wof:created":1462604620,
+    "wof:geomhash":"6cbf9a8a3d0043389d5cef842cdc97b9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":807183595
+        }
+    ],
+    "wof:id":807183595,
+    "wof:lastmodified":1462604620,
+    "wof:name":"Wheel Sports Bicycle Shop",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "skateboard",
+        "bicycles-repair",
+        "equipment",
+        "apparel",
+        "riding"
+    ]
+},
+  "bbox": [
+    -90.853952,
+    38.809283,
+    -90.853952,
+    38.809283
+],
+  "geometry": {"coordinates":[-90.85395200000001,38.809283],"type":"Point"}
+}

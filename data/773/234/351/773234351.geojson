@@ -1,0 +1,73 @@
+{
+  "id": 773234351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.235015,39.354413,-94.235015,39.354413",
+    "geom:latitude":39.354413,
+    "geom:longitude":-94.235015,
+    "iso:country":"US",
+    "sg:address":"1217 N Jesse James Rd",
+    "sg:city":"Excelsior Springs",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 637 7788",
+    "sg:postcode":"64024",
+    "sg:province":"MO",
+    "sg:tags":[
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971507,
+        102086177,
+        85822189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_44fDEqgBErd2tTA3G38qd7_39.354413_-94.235015@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462584178,
+    "wof:geomhash":"77b0bb50abc65866711c89f0e6ef7a5c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086177,
+            "locality_id":85971507,
+            "neighbourhood_id":85822189,
+            "region_id":85688661,
+            "venue_id":773234351
+        }
+    ],
+    "wof:id":773234351,
+    "wof:lastmodified":1462584178,
+    "wof:name":"Q F C",
+    "wof:parent_id":85822189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -94.235015,
+    39.354413,
+    -94.235015,
+    39.354413
+],
+  "geometry": {"coordinates":[-94.235015,39.354413],"type":"Point"}
+}

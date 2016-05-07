@@ -1,0 +1,71 @@
+{
+  "id": 789670767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.481847,38.819913,-90.481847,38.819913",
+    "geom:latitude":38.819913,
+    "geom:longitude":-90.481847,
+    "iso:country":"US",
+    "sg:address":"3113 Persimmon Dr",
+    "sg:city":"St Charles",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 947 0291",
+    "sg:postcode":"63301",
+    "sg:province":"MO",
+    "sg:tags":[
+        "painter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2priqMvrPXR4jg0ohWzJjH_38.819913_-90.481847@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462589632,
+    "wof:geomhash":"a0b4805d437c0c8637dee0e4288f39a4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":789670767
+        }
+    ],
+    "wof:id":789670767,
+    "wof:lastmodified":1462589632,
+    "wof:name":"Drewes Painting",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "painter"
+    ]
+},
+  "bbox": [
+    -90.481847,
+    38.819913,
+    -90.481847,
+    38.819913
+],
+  "geometry": {"coordinates":[-90.481847,38.819913],"type":"Point"}
+}

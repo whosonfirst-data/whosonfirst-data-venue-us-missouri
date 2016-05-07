@@ -1,0 +1,71 @@
+{
+  "id": 789934567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.491514,40.025343,-92.491514,40.025343",
+    "geom:latitude":40.025343,
+    "geom:longitude":-92.491514,
+    "iso:country":"US",
+    "sg:address":"220 N Gex St",
+    "sg:city":"La Plata",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 660 332 4508",
+    "sg:postcode":"63549",
+    "sg:province":"MO",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971149,
+        102086189,
+        85821499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3D6jTjkTmsdCgujCL3RZCB_40.025343_-92.491514@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462591749,
+    "wof:geomhash":"c6b90d60f6eec8b68c2ac31b7b5ce0e0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086189,
+            "locality_id":85971149,
+            "neighbourhood_id":85821499,
+            "region_id":85688661,
+            "venue_id":789934567
+        }
+    ],
+    "wof:id":789934567,
+    "wof:lastmodified":1462591749,
+    "wof:name":"First United Methodist Church",
+    "wof:parent_id":85821499,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -92.491514,
+    40.025343,
+    -92.491514,
+    40.025343
+],
+  "geometry": {"coordinates":[-92.491514,40.025343],"type":"Point"}
+}

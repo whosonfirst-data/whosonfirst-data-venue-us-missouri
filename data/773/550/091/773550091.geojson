@@ -1,0 +1,73 @@
+{
+  "id": 773550091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.223991,39.115292,-92.223991,39.115292",
+    "geom:latitude":39.115292,
+    "geom:longitude":-92.223991,
+    "iso:country":"US",
+    "sg:address":"215 Hudson Ave",
+    "sg:city":"Hallsville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 696 8327",
+    "sg:postcode":"65255",
+    "sg:province":"MO",
+    "sg:tags":[
+        "tea",
+        "rooms"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970425,
+        102086187,
+        85851713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_171uOgPXOI35VAwhsccJBy_39.115292_-92.223991@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462586567,
+    "wof:geomhash":"bb656e6840a220d6494f33b944c5fe3a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086187,
+            "locality_id":85970425,
+            "neighbourhood_id":85851713,
+            "region_id":85688661,
+            "venue_id":773550091
+        }
+    ],
+    "wof:id":773550091,
+    "wof:lastmodified":1462586567,
+    "wof:name":"Hudson Street Tea Room",
+    "wof:parent_id":85851713,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tea",
+        "rooms"
+    ]
+},
+  "bbox": [
+    -92.223991,
+    39.115292,
+    -92.223991,
+    39.115292
+],
+  "geometry": {"coordinates":[-92.223991,39.115292],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 806620209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.378991,38.413076,-90.378991,38.413076",
+    "geom:latitude":38.413076,
+    "geom:longitude":-90.378991,
+    "iso:country":"US",
+    "sg:address":"18 Grandview Park Dr",
+    "sg:city":"Arnold",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 464 0320",
+    "sg:postcode":"63010",
+    "sg:province":"MO",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85805175,
+        102080787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4h4Tlpbht3c22ORA2Gq0Ts_38.413076_-90.378991@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462599654,
+    "wof:geomhash":"aa59163194ad7f24920b41481ae18887",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080787,
+            "neighbourhood_id":85805175,
+            "region_id":85688661,
+            "venue_id":806620209
+        }
+    ],
+    "wof:id":806620209,
+    "wof:lastmodified":1462599654,
+    "wof:name":"Turk's Auto Body Inc",
+    "wof:parent_id":85805175,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -90.378991,
+    38.413076,
+    -90.378991,
+    38.413076
+],
+  "geometry": {"coordinates":[-90.378991,38.413076],"type":"Point"}
+}

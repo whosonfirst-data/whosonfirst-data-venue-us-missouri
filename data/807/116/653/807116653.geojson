@@ -1,0 +1,78 @@
+{
+  "id": 807116653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.371133,38.168858,-90.371133,38.168858",
+    "geom:latitude":38.168858,
+    "geom:longitude":-90.371133,
+    "iso:country":"US",
+    "sg:address":"50 Canepa Estates Rd",
+    "sg:city":"Festus",
+    "sg:classifiers":[
+        {
+            "category":"Transit Center",
+            "subcategory":"Freight",
+            "type":"Transportation"
+        },
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 937 4500",
+    "sg:postcode":"63028",
+    "sg:province":"MO",
+    "sg:tags":[
+        "trucking-motor",
+        "broker",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85848677,
+        102080787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3MYyihXMQJkvECicZhHDD8_38.168858_-90.371133@1303262925"
+    },
+    "wof:country":"US",
+    "wof:created":1462603905,
+    "wof:geomhash":"8adc01b72c811278dbec8c9d9056fa33",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080787,
+            "neighbourhood_id":85848677,
+            "region_id":85688661,
+            "venue_id":807116653
+        }
+    ],
+    "wof:id":807116653,
+    "wof:lastmodified":1462603905,
+    "wof:name":"Packard Transport",
+    "wof:parent_id":85848677,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking-motor",
+        "broker",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -90.371133,
+    38.168858,
+    -90.371133,
+    38.168858
+],
+  "geometry": {"coordinates":[-90.371133,38.168858],"type":"Point"}
+}

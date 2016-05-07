@@ -1,0 +1,84 @@
+{
+  "id": 790509481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.357928,38.72816,-90.357928,38.72816",
+    "geom:latitude":38.72816,
+    "geom:longitude":-90.357928,
+    "iso:country":"US",
+    "sg:address":"4349 Woodson Rd",
+    "sg:city":"St Louis",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        },
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 423 5850",
+    "sg:postcode":"63134",
+    "sg:province":"MO",
+    "sg:tags":[
+        "organization",
+        "medical",
+        "surgical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85847351,
+        102191575,
+        404517201,
+        85633793,
+        85972285,
+        102086173,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1FMDw1jk3FOk0ACixjklXg_38.728160_-90.357928@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462596447,
+    "wof:geomhash":"d8f3abf8cf3260a62c550421c91f0510",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086173,
+            "localadmin_id":404517201,
+            "locality_id":85972285,
+            "neighbourhood_id":85847351,
+            "region_id":85688661,
+            "venue_id":790509481
+        }
+    ],
+    "wof:id":790509481,
+    "wof:lastmodified":1462596447,
+    "wof:name":"Epilepsy Foundation Conference",
+    "wof:parent_id":85847351,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organization",
+        "medical",
+        "surgical"
+    ]
+},
+  "bbox": [
+    -90.357928,
+    38.72816,
+    -90.357928,
+    38.72816
+],
+  "geometry": {"coordinates":[-90.357928,38.72816],"type":"Point"}
+}

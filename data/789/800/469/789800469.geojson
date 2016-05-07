@@ -1,0 +1,75 @@
+{
+  "id": 789800469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.428352,39.889172,-92.428352,39.889172",
+    "geom:latitude":39.889172,
+    "geom:longitude":-92.428352,
+    "iso:country":"US",
+    "sg:address":"32583 Lamplighter Pl",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 660 239 4233",
+    "sg:postcode":"63530",
+    "sg:province":"MO",
+    "sg:tags":[
+        "farm",
+        "equipment",
+        "parts"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971149,
+        102086189,
+        85821499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2INwST72VZCLbqAynwfiHB_39.889172_-92.428352@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462590645,
+    "wof:geomhash":"4de6c4812b6c8d63ed1f3e15a98d6f90",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086189,
+            "locality_id":85971149,
+            "neighbourhood_id":85821499,
+            "region_id":85688661,
+            "venue_id":789800469
+        }
+    ],
+    "wof:id":789800469,
+    "wof:lastmodified":1462590645,
+    "wof:name":"Harrington's Garage",
+    "wof:parent_id":85821499,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "farm",
+        "equipment",
+        "parts"
+    ]
+},
+  "bbox": [
+    -92.428352,
+    39.889172,
+    -92.428352,
+    39.889172
+],
+  "geometry": {"coordinates":[-92.428352,39.889172],"type":"Point"}
+}

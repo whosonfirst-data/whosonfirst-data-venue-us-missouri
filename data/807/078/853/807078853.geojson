@@ -1,0 +1,87 @@
+{
+  "id": 807078853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.435298,39.239884,-94.435298,39.239884",
+    "geom:latitude":39.239884,
+    "geom:longitude":-94.435298,
+    "iso:country":"US",
+    "sg:address":"906 W Liberty Dr",
+    "sg:city":"Liberty",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/liberty/42702-retro-bowl/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 781 1998",
+    "sg:postcode":"64068",
+    "sg:province":"MO",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420525367,
+        102191575,
+        404516717,
+        85633793,
+        85972461,
+        102086177,
+        85688661,
+        420525305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_34R9EdDmd2oLDcwt9jPc8g_39.239884_-94.435298@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462603523,
+    "wof:geomhash":"d530c442d797c24f9f14466d6c7a62eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086177,
+            "localadmin_id":404516717,
+            "locality_id":85972461,
+            "neighbourhood_id":420525367,
+            "region_id":85688661,
+            "venue_id":807078853
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086177,
+            "localadmin_id":404516717,
+            "locality_id":85972461,
+            "neighbourhood_id":420525305,
+            "region_id":85688661,
+            "venue_id":807078853
+        }
+    ],
+    "wof:id":807078853,
+    "wof:lastmodified":1462603523,
+    "wof:name":"Retro Bowl",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -94.435298,
+    39.239884,
+    -94.435298,
+    39.239884
+],
+  "geometry": {"coordinates":[-94.435298,39.239884],"type":"Point"}
+}

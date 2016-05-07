@@ -1,0 +1,73 @@
+{
+  "id": 806424181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.698598,39.220434,-94.698598,39.220434",
+    "geom:latitude":39.220434,
+    "geom:longitude":-94.698598,
+    "iso:country":"US",
+    "sg:address":"7006 NW Kerns Dr",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 741 7726",
+    "sg:postcode":"64152",
+    "sg:province":"MO",
+    "sg:tags":[
+        "operator",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970739,
+        102085271,
+        85852241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2E6syNl340VTHp6awKM1IF_39.220434_-94.698598@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462598036,
+    "wof:geomhash":"a7a2b79b605c7712b52aae68b0cc58b6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085271,
+            "locality_id":85970739,
+            "neighbourhood_id":85852241,
+            "region_id":85688661,
+            "venue_id":806424181
+        }
+    ],
+    "wof:id":806424181,
+    "wof:lastmodified":1462598036,
+    "wof:name":"Robert W Jones Trucking",
+    "wof:parent_id":85852241,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -94.698598,
+    39.220434,
+    -94.698598,
+    39.220434
+],
+  "geometry": {"coordinates":[-94.698598,39.220434],"type":"Point"}
+}

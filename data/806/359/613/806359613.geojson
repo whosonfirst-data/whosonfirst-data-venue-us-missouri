@@ -1,0 +1,82 @@
+{
+  "id": 806359613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.445214,38.775991,-90.445214,38.775991",
+    "geom:latitude":38.775991,
+    "geom:longitude":-90.445214,
+    "iso:country":"US",
+    "sg:address":"13586 NW Industrial Dr",
+    "sg:city":"Bridgeton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 291 4099",
+    "sg:postcode":"63044",
+    "sg:province":"MO",
+    "sg:tags":[
+        "automobile",
+        "detailing",
+        "detail",
+        "clean"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972341,
+        102086173,
+        85806637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3xqe6GjbFH4bcdhth84glA_38.775991_-90.445214@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462597504,
+    "wof:geomhash":"67df34e9d751617ada4bfff0243d176c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086173,
+            "locality_id":85972341,
+            "neighbourhood_id":85806637,
+            "region_id":85688661,
+            "venue_id":806359613
+        }
+    ],
+    "wof:id":806359613,
+    "wof:lastmodified":1462597504,
+    "wof:name":"Every Little Detail Inc",
+    "wof:parent_id":85806637,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "detailing",
+        "detail",
+        "clean"
+    ]
+},
+  "bbox": [
+    -90.445214,
+    38.775991,
+    -90.445214,
+    38.775991
+],
+  "geometry": {"coordinates":[-90.44521400000001,38.775991],"type":"Point"}
+}

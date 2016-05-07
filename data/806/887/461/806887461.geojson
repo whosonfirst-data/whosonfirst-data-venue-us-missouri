@@ -1,0 +1,71 @@
+{
+  "id": 806887461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.76186,37.952235,-91.76186,37.952235",
+    "geom:latitude":37.952235,
+    "geom:longitude":-91.76186,
+    "iso:country":"US",
+    "sg:address":"1008 Holloway St",
+    "sg:city":"Rolla",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 364 7687",
+    "sg:postcode":"65401",
+    "sg:province":"MO",
+    "sg:tags":[
+        "passenger"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970821,
+        102086893,
+        85814531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4P8na4BBBMPoyNrDzVm6Y3_37.952235_-91.761860@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462601911,
+    "wof:geomhash":"345e85a5bf780041404a27d867510627",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086893,
+            "locality_id":85970821,
+            "neighbourhood_id":85814531,
+            "region_id":85688661,
+            "venue_id":806887461
+        }
+    ],
+    "wof:id":806887461,
+    "wof:lastmodified":1462601911,
+    "wof:name":"Southeast Missouri Trnsp Svc",
+    "wof:parent_id":85814531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "passenger"
+    ]
+},
+  "bbox": [
+    -91.76186,
+    37.952235,
+    -91.76186,
+    37.952235
+],
+  "geometry": {"coordinates":[-91.76186,37.952235],"type":"Point"}
+}

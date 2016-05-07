@@ -1,0 +1,75 @@
+{
+  "id": 789698409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.651602,38.354298,-90.651602,38.354298",
+    "geom:latitude":38.354298,
+    "geom:longitude":-90.651602,
+    "iso:country":"US",
+    "sg:address":"6606 Gazebo Dr",
+    "sg:city":"Cedar Hill",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 274 3950",
+    "sg:postcode":"63016",
+    "sg:province":"MO",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971019,
+        102080787,
+        85817237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0nsGNaph90W6ypRbCLXTAD_38.354298_-90.651602@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462589847,
+    "wof:geomhash":"4dea04f7ef37650a8de3a27680e4f680",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080787,
+            "locality_id":85971019,
+            "neighbourhood_id":85817237,
+            "region_id":85688661,
+            "venue_id":789698409
+        }
+    ],
+    "wof:id":789698409,
+    "wof:lastmodified":1462589847,
+    "wof:name":"Mass Delivery Service Inc",
+    "wof:parent_id":85817237,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -90.651602,
+    38.354298,
+    -90.651602,
+    38.354298
+],
+  "geometry": {"coordinates":[-90.651602,38.354298],"type":"Point"}
+}

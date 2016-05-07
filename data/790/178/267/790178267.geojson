@@ -1,0 +1,75 @@
+{
+  "id": 790178267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.384607,38.603355,-90.384607,38.603355",
+    "geom:latitude":38.603355,
+    "geom:longitude":-90.384607,
+    "iso:country":"US",
+    "sg:address":"10000 Manchester Rd",
+    "sg:city":"St Louis",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 821 2373",
+    "sg:postcode":"63122",
+    "sg:province":"MO",
+    "sg:tags":[
+        "cleaners"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85858243,
+        102191575,
+        404517253,
+        85633793,
+        85972177,
+        102086173,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2uYd6rEx6pbvK77IMtkNIt_38.603355_-90.384607@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462593759,
+    "wof:geomhash":"7561c4d109486b86cdb333d5b0f932ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086173,
+            "localadmin_id":404517253,
+            "locality_id":85972177,
+            "neighbourhood_id":85858243,
+            "region_id":85688661,
+            "venue_id":790178267
+        }
+    ],
+    "wof:id":790178267,
+    "wof:lastmodified":1462593759,
+    "wof:name":"American Cleaners",
+    "wof:parent_id":85858243,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners"
+    ]
+},
+  "bbox": [
+    -90.384607,
+    38.603355,
+    -90.384607,
+    38.603355
+],
+  "geometry": {"coordinates":[-90.384607,38.603355],"type":"Point"}
+}

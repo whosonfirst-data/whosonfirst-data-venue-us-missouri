@@ -1,0 +1,71 @@
+{
+  "id": 806848553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.2919,37.129631,-93.2919,37.129631",
+    "geom:latitude":37.129631,
+    "geom:longitude":-93.2919,
+    "iso:country":"US",
+    "sg:address":"273 E Lafayette St",
+    "sg:city":"Springfield",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 882 9652",
+    "sg:postcode":"65810",
+    "sg:province":"MO",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85881143,
+        102087523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3LzwRUGafYcPaU3ZAelMxQ_37.129631_-93.291900@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462601595,
+    "wof:geomhash":"4ac011b73606832836020eb8a6fe2272",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087523,
+            "neighbourhood_id":85881143,
+            "region_id":85688661,
+            "venue_id":806848553
+        }
+    ],
+    "wof:id":806848553,
+    "wof:lastmodified":1462601595,
+    "wof:name":"Pabst Plumbing",
+    "wof:parent_id":85881143,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -93.2919,
+    37.129631,
+    -93.2919,
+    37.129631
+],
+  "geometry": {"coordinates":[-93.2919,37.129631],"type":"Point"}
+}

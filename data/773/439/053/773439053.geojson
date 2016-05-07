@@ -1,0 +1,71 @@
+{
+  "id": 773439053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.178488,38.573676,-92.178488,38.573676",
+    "geom:latitude":38.573676,
+    "geom:longitude":-92.178488,
+    "iso:country":"US",
+    "sg:address":"713 Washington St",
+    "sg:city":"Jefferson City",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 659 7304",
+    "sg:postcode":"65101",
+    "sg:province":"MO",
+    "sg:tags":[
+        "mental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970647,
+        102087511,
+        85837745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Z2XKhlZJujxARepZlXw7D_38.573676_-92.178488@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462585751,
+    "wof:geomhash":"dc8697a4840b21c76f867782f7b0a5d2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087511,
+            "locality_id":85970647,
+            "neighbourhood_id":85837745,
+            "region_id":85688661,
+            "venue_id":773439053
+        }
+    ],
+    "wof:id":773439053,
+    "wof:lastmodified":1462585751,
+    "wof:name":"Central House",
+    "wof:parent_id":85837745,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mental"
+    ]
+},
+  "bbox": [
+    -92.178488,
+    38.573676,
+    -92.178488,
+    38.573676
+],
+  "geometry": {"coordinates":[-92.178488,38.573676],"type":"Point"}
+}

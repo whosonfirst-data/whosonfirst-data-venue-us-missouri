@@ -1,0 +1,71 @@
+{
+  "id": 806526935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.589889,38.417738,-90.589889,38.417738",
+    "geom:latitude":38.417738,
+    "geom:longitude":-90.589889,
+    "iso:country":"US",
+    "sg:address":"6951 Burgan Grove Rd",
+    "sg:city":"House Springs",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 671 8596",
+    "sg:postcode":"63051",
+    "sg:province":"MO",
+    "sg:tags":[
+        "transmission"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971019,
+        102080787,
+        85817237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_31VuhK0qJGkmyozhl6h96a_38.417738_-90.589889@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462598846,
+    "wof:geomhash":"26e2c7d38381c5f8dba00101a0518268",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080787,
+            "locality_id":85971019,
+            "neighbourhood_id":85817237,
+            "region_id":85688661,
+            "venue_id":806526935
+        }
+    ],
+    "wof:id":806526935,
+    "wof:lastmodified":1462598846,
+    "wof:name":"Bill's Transmissions",
+    "wof:parent_id":85817237,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission"
+    ]
+},
+  "bbox": [
+    -90.589889,
+    38.417738,
+    -90.589889,
+    38.417738
+],
+  "geometry": {"coordinates":[-90.589889,38.417738],"type":"Point"}
+}

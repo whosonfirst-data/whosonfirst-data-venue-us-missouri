@@ -1,0 +1,74 @@
+{
+  "id": 807074207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.525913,37.870046,-90.525913,37.870046",
+    "geom:latitude":37.870046,
+    "geom:longitude":-90.525913,
+    "iso:country":"US",
+    "sg:address":"247 S Desloge Dr",
+    "sg:city":"Park Hills",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/randolph/148870-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 431 3333",
+    "sg:postcode":"63601",
+    "sg:province":"MO",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970665,
+        102085297,
+        85816309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4iZKbniGDNtY9yrCz6k6IL_37.870046_-90.525913@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462603489,
+    "wof:geomhash":"92250f7e40109ff2f24b14ef57589392",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085297,
+            "locality_id":85970665,
+            "neighbourhood_id":85816309,
+            "region_id":85688661,
+            "venue_id":807074207
+        }
+    ],
+    "wof:id":807074207,
+    "wof:lastmodified":1462603489,
+    "wof:name":"Subway",
+    "wof:parent_id":85816309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -90.525913,
+    37.870046,
+    -90.525913,
+    37.870046
+],
+  "geometry": {"coordinates":[-90.525913,37.870046],"type":"Point"}
+}

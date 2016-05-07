@@ -1,0 +1,71 @@
+{
+  "id": 789694051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.779177,39.36739,-94.779177,39.36739",
+    "geom:latitude":39.36739,
+    "geom:longitude":-94.779177,
+    "iso:country":"US",
+    "sg:address":"510 Branch St",
+    "sg:city":"Platte City",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 858 5343",
+    "sg:postcode":"64079",
+    "sg:province":"MO",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970739,
+        102085271,
+        85851839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_157Rk7Z2s8ngpm5C8QEQuV_39.367390_-94.779177@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462589811,
+    "wof:geomhash":"587a1c12ada0ef95b780712fc400e611",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085271,
+            "locality_id":85970739,
+            "neighbourhood_id":85851839,
+            "region_id":85688661,
+            "venue_id":789694051
+        }
+    ],
+    "wof:id":789694051,
+    "wof:lastmodified":1462589811,
+    "wof:name":"Jack W Swaney DDS",
+    "wof:parent_id":85851839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -94.779177,
+    39.36739,
+    -94.779177,
+    39.36739
+],
+  "geometry": {"coordinates":[-94.779177,39.36739],"type":"Point"}
+}

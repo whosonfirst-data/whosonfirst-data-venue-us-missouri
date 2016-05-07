@@ -1,0 +1,71 @@
+{
+  "id": 789755203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.367439,37.676022,-90.367439,37.676022",
+    "geom:latitude":37.676022,
+    "geom:longitude":-90.367439,
+    "iso:country":"US",
+    "sg:address":"5959 Hwy Dd",
+    "sg:city":"Farmington",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 756 1778",
+    "sg:postcode":"63640",
+    "sg:province":"MO",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970665,
+        102085297,
+        85816309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6cxlwMwXVIQUOu0wTJl2Gm_37.676022_-90.367439@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462590292,
+    "wof:geomhash":"4ef26d975f955d98aa8b15e0be6a1cf9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085297,
+            "locality_id":85970665,
+            "neighbourhood_id":85816309,
+            "region_id":85688661,
+            "venue_id":789755203
+        }
+    ],
+    "wof:id":789755203,
+    "wof:lastmodified":1462590292,
+    "wof:name":"Bailey's Grocery",
+    "wof:parent_id":85816309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -90.367439,
+    37.676022,
+    -90.367439,
+    37.676022
+],
+  "geometry": {"coordinates":[-90.367439,37.676022],"type":"Point"}
+}

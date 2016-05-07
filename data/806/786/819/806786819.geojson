@@ -1,0 +1,69 @@
+{
+  "id": 806786819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.319445,37.138413,-93.319445,37.138413",
+    "geom:latitude":37.138413,
+    "geom:longitude":-93.319445,
+    "iso:country":"US",
+    "sg:address":"4112 S Kansas Expy",
+    "sg:city":"Springfield",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 887 5945",
+    "sg:postcode":"65807",
+    "sg:province":"MO",
+    "sg:tags":[
+        "carwash"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85881143,
+        102087523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5wXnLi6T2Nn3iR1VdKVBmQ_37.138413_-93.319445@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462601075,
+    "wof:geomhash":"6bc131c15c06b1e1d5798e84c0bb210d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087523,
+            "neighbourhood_id":85881143,
+            "region_id":85688661,
+            "venue_id":806786819
+        }
+    ],
+    "wof:id":806786819,
+    "wof:lastmodified":1462601075,
+    "wof:name":"KWIK Kar Lube & Tune",
+    "wof:parent_id":85881143,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carwash"
+    ]
+},
+  "bbox": [
+    -93.319445,
+    37.138413,
+    -93.319445,
+    37.138413
+],
+  "geometry": {"coordinates":[-93.319445,37.138413],"type":"Point"}
+}

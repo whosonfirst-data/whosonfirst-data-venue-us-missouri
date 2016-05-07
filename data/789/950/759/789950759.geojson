@@ -1,0 +1,75 @@
+{
+  "id": 789950759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.58345,39.385391,-94.58345,39.385391",
+    "geom:latitude":39.385391,
+    "geom:longitude":-94.58345,
+    "iso:country":"US",
+    "sg:address":"207 W Brasfield St",
+    "sg:city":"Smithville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 587 8257",
+    "sg:postcode":"64089",
+    "sg:province":"MO",
+    "sg:tags":[
+        "cooling",
+        "heating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970739,
+        102086177,
+        85836329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2AgWzcqwJf78FItJixbOzY_39.385391_-94.583450@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462591919,
+    "wof:geomhash":"b0e2e808f940b4529e24196030639994",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086177,
+            "locality_id":85970739,
+            "neighbourhood_id":85836329,
+            "region_id":85688661,
+            "venue_id":789950759
+        }
+    ],
+    "wof:id":789950759,
+    "wof:lastmodified":1462591919,
+    "wof:name":"Wilson Mechanical Inc",
+    "wof:parent_id":85836329,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cooling",
+        "heating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -94.58345,
+    39.385391,
+    -94.58345,
+    39.385391
+],
+  "geometry": {"coordinates":[-94.58345,39.385391],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 790333561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.468336,39.377117,-94.468336,39.377117",
+    "geom:latitude":39.377117,
+    "geom:longitude":-94.468336,
+    "iso:country":"US",
+    "sg:address":"9007 NE 157th St",
+    "sg:city":"Smithville",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 532 2303",
+    "sg:postcode":"64089",
+    "sg:province":"MO",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970739,
+        102086177,
+        85836329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4QcMRFGNuoehNYLIB7lvc7_39.377117_-94.468336@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462595017,
+    "wof:geomhash":"acbfb6297f232430ba511837dbcc1537",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086177,
+            "locality_id":85970739,
+            "neighbourhood_id":85836329,
+            "region_id":85688661,
+            "venue_id":790333561
+        }
+    ],
+    "wof:id":790333561,
+    "wof:lastmodified":1462595017,
+    "wof:name":"Cedarwood Apartments",
+    "wof:parent_id":85836329,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -94.468336,
+    39.377117,
+    -94.468336,
+    39.377117
+],
+  "geometry": {"coordinates":[-94.46833599999999,39.377117],"type":"Point"}
+}

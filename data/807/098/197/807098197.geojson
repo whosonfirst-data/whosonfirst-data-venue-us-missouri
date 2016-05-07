@@ -1,0 +1,72 @@
+{
+  "id": 807098197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.481245,38.781478,-90.481245,38.781478",
+    "geom:latitude":38.781478,
+    "geom:longitude":-90.481245,
+    "iso:country":"US",
+    "sg:address":"132 N Main St",
+    "sg:city":"Saint Charles",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/rivers/42705-tonys-on-main-street/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 940 1960",
+    "sg:postcode":"63301",
+    "sg:province":"MO",
+    "sg:tags":[
+        "italian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2pNWDjvGe5l6mP3HOeSe2w_38.781866_-90.480944@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462603701,
+    "wof:geomhash":"6319d4407c243c4d6ce54194ab2f4cd5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":807098197
+        }
+    ],
+    "wof:id":807098197,
+    "wof:lastmodified":1462603701,
+    "wof:name":"Tony's on Main Street",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "italian"
+    ]
+},
+  "bbox": [
+    -90.481245,
+    38.781478,
+    -90.481245,
+    38.781478
+],
+  "geometry": {"coordinates":[-90.481245,38.781478],"type":"Point"}
+}

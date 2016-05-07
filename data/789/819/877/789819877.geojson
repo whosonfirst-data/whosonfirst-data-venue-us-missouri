@@ -1,0 +1,73 @@
+{
+  "id": 789819877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.48764,38.779779,-90.48764,38.779779",
+    "geom:latitude":38.779779,
+    "geom:longitude":-90.48764,
+    "iso:country":"US",
+    "sg:address":"498 S 5th St",
+    "sg:city":"St Charles",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Advertising",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 940 0664",
+    "sg:postcode":"63301",
+    "sg:province":"MO",
+    "sg:tags":[
+        "mailing",
+        "shipping"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Kj7kKXr51wKbUUzfE4sJt_38.779779_-90.487640@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462590787,
+    "wof:geomhash":"b94ecd105d7c9d250bc37f4743aa7271",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":789819877
+        }
+    ],
+    "wof:id":789819877,
+    "wof:lastmodified":1462590787,
+    "wof:name":"UPS Store",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mailing",
+        "shipping"
+    ]
+},
+  "bbox": [
+    -90.48764,
+    38.779779,
+    -90.48764,
+    38.779779
+],
+  "geometry": {"coordinates":[-90.48764,38.779779],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 773799333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.567356,38.800275,-90.567356,38.800275",
+    "geom:latitude":38.800275,
+    "geom:longitude":-90.567356,
+    "iso:country":"US",
+    "sg:address":"4100 Ehlmann Rd",
+    "sg:city":"Saint Peters",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 447 7191",
+    "sg:postcode":"63376",
+    "sg:province":"MO",
+    "sg:tags":[
+        "body"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0YPaGxw7Vz7SBcHZmtKpAg_38.800275_-90.567356@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462588461,
+    "wof:geomhash":"0dd115484fda9a9c6b2c28afb299d0d0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":773799333
+        }
+    ],
+    "wof:id":773799333,
+    "wof:lastmodified":1462588461,
+    "wof:name":"Bills Body Shop",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body"
+    ]
+},
+  "bbox": [
+    -90.567356,
+    38.800275,
+    -90.567356,
+    38.800275
+],
+  "geometry": {"coordinates":[-90.567356,38.800275],"type":"Point"}
+}

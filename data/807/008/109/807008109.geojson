@@ -1,0 +1,73 @@
+{
+  "id": 807008109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.756554,37.968304,-91.756554,37.968304",
+    "geom:latitude":37.968304,
+    "geom:longitude":-91.756554,
+    "iso:country":"US",
+    "sg:address":"11227 Twitty Dr",
+    "sg:city":"Rolla",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 364 5721",
+    "sg:postcode":"65401",
+    "sg:province":"MO",
+    "sg:tags":[
+        "broker",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970821,
+        102086893,
+        85814531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1t8lAd9CGhTxg9BWIFTR3l_37.968548_-91.756403@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1462602928,
+    "wof:geomhash":"1aa71a769ecb032bd9d4f6ca9f1ef98b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086893,
+            "locality_id":85970821,
+            "neighbourhood_id":85814531,
+            "region_id":85688661,
+            "venue_id":807008109
+        }
+    ],
+    "wof:id":807008109,
+    "wof:lastmodified":1462602928,
+    "wof:name":"Turtle Trucking",
+    "wof:parent_id":85814531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "broker",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -91.756554,
+    37.968304,
+    -91.756554,
+    37.968304
+],
+  "geometry": {"coordinates":[-91.75655399999999,37.968304],"type":"Point"}
+}

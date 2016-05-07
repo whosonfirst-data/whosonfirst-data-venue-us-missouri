@@ -1,0 +1,73 @@
+{
+  "id": 807091057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.777454,37.939272,-91.777454,37.939272",
+    "geom:latitude":37.939272,
+    "geom:longitude":-91.777454,
+    "iso:country":"US",
+    "sg:address":"500 S Bishop Ave",
+    "sg:city":"Rolla",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/rolla/194290-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"65401",
+    "sg:province":"MO",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970821,
+        102086893,
+        85814531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1OUAO96wJXdQ007s7B13WJ_37.939272_-91.777454@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462603627,
+    "wof:geomhash":"36d76150d183b5b0c4964e27d6a148e0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086893,
+            "locality_id":85970821,
+            "neighbourhood_id":85814531,
+            "region_id":85688661,
+            "venue_id":807091057
+        }
+    ],
+    "wof:id":807091057,
+    "wof:lastmodified":1462603627,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85814531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -91.777454,
+    37.939272,
+    -91.777454,
+    37.939272
+],
+  "geometry": {"coordinates":[-91.77745400000001,37.939272],"type":"Point"}
+}

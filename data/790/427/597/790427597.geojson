@@ -1,0 +1,71 @@
+{
+  "id": 790427597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.399376,38.473568,-90.399376,38.473568",
+    "geom:latitude":38.473568,
+    "geom:longitude":-90.399376,
+    "iso:country":"US",
+    "sg:address":"5423 Duchesne Parque Dr",
+    "sg:city":"St Louis",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 843 1230",
+    "sg:postcode":"63128",
+    "sg:province":"MO",
+    "sg:tags":[
+        "appliance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971021,
+        102080787,
+        85832925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3MrGVWcEdsyWRPwbfSesqn_38.473568_-90.399376@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462595753,
+    "wof:geomhash":"83978a0318651686b48d425acfdf9321",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080787,
+            "locality_id":85971021,
+            "neighbourhood_id":85832925,
+            "region_id":85688661,
+            "venue_id":790427597
+        }
+    ],
+    "wof:id":790427597,
+    "wof:lastmodified":1462595753,
+    "wof:name":"A-Asco Appliance Svc Co",
+    "wof:parent_id":85832925,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "appliance"
+    ]
+},
+  "bbox": [
+    -90.399376,
+    38.473568,
+    -90.399376,
+    38.473568
+],
+  "geometry": {"coordinates":[-90.399376,38.473568],"type":"Point"}
+}

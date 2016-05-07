@@ -1,0 +1,73 @@
+{
+  "id": 789751301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.831358,38.82768,-90.831358,38.82768",
+    "geom:latitude":38.82768,
+    "geom:longitude":-90.831358,
+    "iso:country":"US",
+    "sg:address":"655 Parr Rd",
+    "sg:city":"Wentzville",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 332 2200",
+    "sg:postcode":"63385",
+    "sg:province":"MO",
+    "sg:tags":[
+        "auto",
+        "transport"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6KXSDq3Nf4l7TKwrZKb278_38.827680_-90.831358@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462590262,
+    "wof:geomhash":"8b5246e24ec32f302df22995dd701a71",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":789751301
+        }
+    ],
+    "wof:id":789751301,
+    "wof:lastmodified":1462590262,
+    "wof:name":"Jack Cooper Transport Co Inc",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "auto",
+        "transport"
+    ]
+},
+  "bbox": [
+    -90.831358,
+    38.82768,
+    -90.831358,
+    38.82768
+],
+  "geometry": {"coordinates":[-90.83135799999999,38.82768],"type":"Point"}
+}

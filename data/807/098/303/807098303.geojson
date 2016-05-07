@@ -1,0 +1,74 @@
+{
+  "id": 807098303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.700198,38.80146,-90.700198,38.80146",
+    "geom:latitude":38.80146,
+    "geom:longitude":-90.700198,
+    "iso:country":"US",
+    "sg:address":"705 Highway K",
+    "sg:city":"O Fallon",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/dardenne/210941-arbys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 240 1004",
+    "sg:postcode":"63366",
+    "sg:province":"MO",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2oSny0dVGuuQlho9LTUmAR_38.802088_-90.700197@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462603702,
+    "wof:geomhash":"7a08fe9fa11a3817d94a1189ef4998f3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":807098303
+        }
+    ],
+    "wof:id":807098303,
+    "wof:lastmodified":1462603702,
+    "wof:name":"Arby's",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -90.700198,
+    38.80146,
+    -90.700198,
+    38.80146
+],
+  "geometry": {"coordinates":[-90.700198,38.80146],"type":"Point"}
+}

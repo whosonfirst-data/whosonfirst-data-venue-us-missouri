@@ -1,0 +1,73 @@
+{
+  "id": 806406155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.528339,38.786287,-90.528339,38.786287",
+    "geom:latitude":38.786287,
+    "geom:longitude":-90.528339,
+    "iso:country":"US",
+    "sg:address":"2840 W Clay St",
+    "sg:city":"Saint Charles",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 946 6100",
+    "sg:postcode":"63301",
+    "sg:province":"MO",
+    "sg:tags":[
+        "home",
+        "skilled"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0hYS36oKG2NbKj0Tu6Ug4H_38.786287_-90.528339@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462597883,
+    "wof:geomhash":"505e3cc041ab3b1565dfd00c387cfca5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":806406155
+        }
+    ],
+    "wof:id":806406155,
+    "wof:lastmodified":1462597883,
+    "wof:name":"American Healthcare",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "skilled"
+    ]
+},
+  "bbox": [
+    -90.528339,
+    38.786287,
+    -90.528339,
+    38.786287
+],
+  "geometry": {"coordinates":[-90.528339,38.786287],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 806598071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.699799,38.812154,-90.699799,38.812154",
+    "geom:latitude":38.812154,
+    "geom:longitude":-90.699799,
+    "iso:country":"US",
+    "sg:address":"100 N Main St",
+    "sg:city":"O Fallon",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 240 2000",
+    "sg:postcode":"63366",
+    "sg:province":"MO",
+    "sg:tags":[
+        "executive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0kQ5AlJ62jYV5ruSVXdnA2_38.812154_-90.699799@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462599472,
+    "wof:geomhash":"31b783489d6e5604aeb24f9d0fc67108",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":806598071
+        }
+    ],
+    "wof:id":806598071,
+    "wof:lastmodified":1462599472,
+    "wof:name":"City of OFallon",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "executive"
+    ]
+},
+  "bbox": [
+    -90.699799,
+    38.812154,
+    -90.699799,
+    38.812154
+],
+  "geometry": {"coordinates":[-90.699799,38.812154],"type":"Point"}
+}

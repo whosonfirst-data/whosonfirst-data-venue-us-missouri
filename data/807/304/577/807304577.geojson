@@ -1,0 +1,82 @@
+{
+  "id": 807304577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.402861,37.284439,-93.402861,37.284439",
+    "geom:latitude":37.284439,
+    "geom:longitude":-93.402861,
+    "iso:country":"US",
+    "sg:address":"801 Hughes Rd",
+    "sg:city":"Willard",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 742 5288",
+    "sg:postcode":"65781",
+    "sg:province":"MO",
+    "sg:tags":[
+        "vacancy",
+        "apartment",
+        "rental",
+        "listing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971363,
+        102087523,
+        85881139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7YUWKMj3BWgMDBcLiLvgLm_37.284439_-93.402861@1303262938"
+    },
+    "wof:country":"US",
+    "wof:created":1462605900,
+    "wof:geomhash":"c26abeeea1fca96e091a0713e94a8b77",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087523,
+            "locality_id":85971363,
+            "neighbourhood_id":85881139,
+            "region_id":85688661,
+            "venue_id":807304577
+        }
+    ],
+    "wof:id":807304577,
+    "wof:lastmodified":1462605900,
+    "wof:name":"North Brooke Apartments",
+    "wof:parent_id":85881139,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "vacancy",
+        "apartment",
+        "rental",
+        "listing"
+    ]
+},
+  "bbox": [
+    -93.402861,
+    37.284439,
+    -93.402861,
+    37.284439
+],
+  "geometry": {"coordinates":[-93.402861,37.284439],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 790489327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.137895,38.565802,-92.137895,38.565802",
+    "geom:latitude":38.565802,
+    "geom:longitude":-92.137895,
+    "iso:country":"US",
+    "sg:address":"203 Riverview Dr",
+    "sg:city":"Jefferson City",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Telephone",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 634 8220",
+    "sg:postcode":"65101",
+    "sg:province":"MO",
+    "sg:tags":[
+        "communications"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970647,
+        102087511,
+        85837745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3DEwaBVOm2r6QWRJuov6Dw_38.565802_-92.137895@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462596285,
+    "wof:geomhash":"8bf9fc125451fcc224de8e19d801c639",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087511,
+            "locality_id":85970647,
+            "neighbourhood_id":85837745,
+            "region_id":85688661,
+            "venue_id":790489327
+        }
+    ],
+    "wof:id":790489327,
+    "wof:lastmodified":1462596285,
+    "wof:name":"JC Networks",
+    "wof:parent_id":85837745,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "communications"
+    ]
+},
+  "bbox": [
+    -92.137895,
+    38.565802,
+    -92.137895,
+    38.565802
+],
+  "geometry": {"coordinates":[-92.137895,38.565802],"type":"Point"}
+}

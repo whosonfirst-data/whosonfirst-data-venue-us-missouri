@@ -1,0 +1,71 @@
+{
+  "id": 789785935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.785395,37.951425,-91.785395,37.951425",
+    "geom:latitude":37.951425,
+    "geom:longitude":-91.785395,
+    "iso:country":"US",
+    "sg:address":"1000 W 10th St",
+    "sg:city":"Rolla",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 364 8899",
+    "sg:postcode":"65401",
+    "sg:province":"MO",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970821,
+        102086893,
+        85814531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_41YT64VnxVLNaWP0cpwpwr_37.951425_-91.785395@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462590534,
+    "wof:geomhash":"e7f78d7e754ba9f363f9dba63265e2dd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086893,
+            "locality_id":85970821,
+            "neighbourhood_id":85814531,
+            "region_id":85688661,
+            "venue_id":789785935
+        }
+    ],
+    "wof:id":789785935,
+    "wof:lastmodified":1462590534,
+    "wof:name":"Graham Mary V MD",
+    "wof:parent_id":85814531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -91.785395,
+    37.951425,
+    -91.785395,
+    37.951425
+],
+  "geometry": {"coordinates":[-91.78539499999999,37.951425],"type":"Point"}
+}

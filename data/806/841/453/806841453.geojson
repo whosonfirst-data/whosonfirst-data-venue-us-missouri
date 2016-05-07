@@ -1,0 +1,71 @@
+{
+  "id": 806841453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.235114,37.209914,-93.235114,37.209914",
+    "geom:latitude":37.209914,
+    "geom:longitude":-93.235114,
+    "iso:country":"US",
+    "sg:address":"2959 E Chestnut Expy",
+    "sg:city":"Springfield",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 866 7707",
+    "sg:postcode":"65802",
+    "sg:province":"MO",
+    "sg:tags":[
+        "manicuring"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971363,
+        102087523,
+        85881137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_63BYDwv8hhzOHYv9ulmlXJ_37.209914_-93.235114@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462601520,
+    "wof:geomhash":"6f9215412fbd163b87a1b5d7390e4ac0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087523,
+            "locality_id":85971363,
+            "neighbourhood_id":85881137,
+            "region_id":85688661,
+            "venue_id":806841453
+        }
+    ],
+    "wof:id":806841453,
+    "wof:lastmodified":1462601520,
+    "wof:name":"Hot Nails",
+    "wof:parent_id":85881137,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "manicuring"
+    ]
+},
+  "bbox": [
+    -93.235114,
+    37.209914,
+    -93.235114,
+    37.209914
+],
+  "geometry": {"coordinates":[-93.235114,37.209914],"type":"Point"}
+}

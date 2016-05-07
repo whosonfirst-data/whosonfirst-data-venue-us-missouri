@@ -1,0 +1,73 @@
+{
+  "id": 773737343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.479399,39.898648,-92.479399,39.898648",
+    "geom:latitude":39.898648,
+    "geom:longitude":-92.479399,
+    "iso:country":"US",
+    "sg:address":"111 S Atterberry St",
+    "sg:city":"Atlanta",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 660 239 4450",
+    "sg:postcode":"63530",
+    "sg:province":"MO",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971149,
+        102086189,
+        85821499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_09w9a1o1WZUb0C8KSh7ZTx_39.898648_-92.479399@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462588002,
+    "wof:geomhash":"3f91805930ef5886ecffe04ef66cc72e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086189,
+            "locality_id":85971149,
+            "neighbourhood_id":85821499,
+            "region_id":85688661,
+            "venue_id":773737343
+        }
+    ],
+    "wof:id":773737343,
+    "wof:lastmodified":1462588002,
+    "wof:name":"Charley's Service",
+    "wof:parent_id":85821499,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -92.479399,
+    39.898648,
+    -92.479399,
+    39.898648
+],
+  "geometry": {"coordinates":[-92.479399,39.898648],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 789947511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.227397,37.184409,-93.227397,37.184409",
+    "geom:latitude":37.184409,
+    "geom:longitude":-93.227397,
+    "iso:country":"US",
+    "sg:address":"3342 E Linwood Dr",
+    "sg:city":"Springfield",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 877 8111",
+    "sg:postcode":"65804",
+    "sg:province":"MO",
+    "sg:tags":[
+        "laboratory",
+        "dental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971363,
+        102087523,
+        85881121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4XJzl6365tpFgPLsitPmu5_37.184409_-93.227397@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462591878,
+    "wof:geomhash":"4eea8633b1c6c295bfbad7d6b0441a49",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087523,
+            "locality_id":85971363,
+            "neighbourhood_id":85881121,
+            "region_id":85688661,
+            "venue_id":789947511
+        }
+    ],
+    "wof:id":789947511,
+    "wof:lastmodified":1462591878,
+    "wof:name":"Tru Fit Dental Lab",
+    "wof:parent_id":85881121,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory",
+        "dental"
+    ]
+},
+  "bbox": [
+    -93.227397,
+    37.184409,
+    -93.227397,
+    37.184409
+],
+  "geometry": {"coordinates":[-93.227397,37.184409],"type":"Point"}
+}

@@ -1,0 +1,84 @@
+{
+  "id": 807170055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.318298,38.7173,-90.318298,38.7173",
+    "geom:latitude":38.7173,
+    "geom:longitude":-90.318298,
+    "iso:country":"US",
+    "sg:address":"4215 N Hanley Rd",
+    "sg:city":"Saint Louis",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Garden Supply",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Fruits & Vegetables",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 429 5506",
+    "sg:postcode":"63121",
+    "sg:province":"MO",
+    "sg:tags":[
+        "nursery",
+        "gardening",
+        "veggie"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85859027,
+        102191575,
+        404517247,
+        85633793,
+        85972205,
+        102086173,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6yGKo8BAIjg3joywzVADX9_38.717300_-90.318298@1303262929"
+    },
+    "wof:country":"US",
+    "wof:created":1462604485,
+    "wof:geomhash":"d5494a58e4fa1b797a41ab7088adec84",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086173,
+            "localadmin_id":404517247,
+            "locality_id":85972205,
+            "neighbourhood_id":85859027,
+            "region_id":85688661,
+            "venue_id":807170055
+        }
+    ],
+    "wof:id":807170055,
+    "wof:lastmodified":1462604485,
+    "wof:name":"Thies Farm & Greenhouse",
+    "wof:parent_id":85859027,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "nursery",
+        "gardening",
+        "veggie"
+    ]
+},
+  "bbox": [
+    -90.318298,
+    38.7173,
+    -90.318298,
+    38.7173
+],
+  "geometry": {"coordinates":[-90.318298,38.7173],"type":"Point"}
+}

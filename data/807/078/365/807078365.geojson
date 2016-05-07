@@ -1,0 +1,73 @@
+{
+  "id": 807078365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.356011,39.367825,-94.356011,39.367825",
+    "geom:latitude":39.367825,
+    "geom:longitude":-94.356011,
+    "iso:country":"US",
+    "sg:address":"500 W State Route 92",
+    "sg:city":"Kearney",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/kearney/194217-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"64060",
+    "sg:province":"MO",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971507,
+        102086177,
+        85812855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3eQqLHRoOi8bUnjc7SRWCv_39.367825_-94.356011@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462603520,
+    "wof:geomhash":"d38510f99ece2c9efce9a0a809e6f9cf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086177,
+            "locality_id":85971507,
+            "neighbourhood_id":85812855,
+            "region_id":85688661,
+            "venue_id":807078365
+        }
+    ],
+    "wof:id":807078365,
+    "wof:lastmodified":1462603520,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85812855,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -94.356011,
+    39.367825,
+    -94.356011,
+    39.367825
+],
+  "geometry": {"coordinates":[-94.356011,39.367825],"type":"Point"}
+}

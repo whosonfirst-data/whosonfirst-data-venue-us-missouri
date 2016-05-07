@@ -1,0 +1,71 @@
+{
+  "id": 806529293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.509157,38.778767,-90.509157,38.778767",
+    "geom:latitude":38.778767,
+    "geom:longitude":-90.509157,
+    "iso:country":"US",
+    "sg:address":"2295 First Capitol Dr",
+    "sg:city":"Saint Charles",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Telephone",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 946 7060",
+    "sg:postcode":"63301",
+    "sg:province":"MO",
+    "sg:tags":[
+        "communications"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0AHCAppOMsBXA1xY8mXgg7_38.778767_-90.509157@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462598864,
+    "wof:geomhash":"cae33bf3cbe714d225a3a8a786a4d2bb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":806529293
+        }
+    ],
+    "wof:id":806529293,
+    "wof:lastmodified":1462598864,
+    "wof:name":"Intensenet",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "communications"
+    ]
+},
+  "bbox": [
+    -90.509157,
+    38.778767,
+    -90.509157,
+    38.778767
+],
+  "geometry": {"coordinates":[-90.509157,38.778767],"type":"Point"}
+}

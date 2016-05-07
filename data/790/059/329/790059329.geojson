@@ -1,0 +1,73 @@
+{
+  "id": 790059329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.439113,38.768654,-90.439113,38.768654",
+    "geom:latitude":38.768654,
+    "geom:longitude":-90.439113,
+    "iso:country":"US",
+    "sg:address":"12976 Saint Charles Rock Rd",
+    "sg:city":"Bridgeton",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 947 5959",
+    "sg:postcode":"63044",
+    "sg:province":"MO",
+    "sg:tags":[
+        "garbage",
+        "collection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972341,
+        102086173,
+        85806637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0szQSyaAfOnRkyqCpbhkfX_38.768654_-90.439113@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462592817,
+    "wof:geomhash":"127b7f933742e2600628c7069498c23c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086173,
+            "locality_id":85972341,
+            "neighbourhood_id":85806637,
+            "region_id":85688661,
+            "venue_id":790059329
+        }
+    ],
+    "wof:id":790059329,
+    "wof:lastmodified":1462592817,
+    "wof:name":"Midwest Waste",
+    "wof:parent_id":85806637,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garbage",
+        "collection"
+    ]
+},
+  "bbox": [
+    -90.439113,
+    38.768654,
+    -90.439113,
+    38.768654
+],
+  "geometry": {"coordinates":[-90.43911300000001,38.768654],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 789791347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.439085,37.788351,-90.439085,37.788351",
+    "geom:latitude":37.788351,
+    "geom:longitude":-90.439085,
+    "iso:country":"US",
+    "sg:address":"1207 Maple St",
+    "sg:city":"Farmington",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 756 2224",
+    "sg:postcode":"63640",
+    "sg:province":"MO",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970665,
+        102085297,
+        85816309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2a8hgnYTPAJ11ebDHwd9LO_37.788351_-90.439085@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462590575,
+    "wof:geomhash":"589a1dc5bf32f459f9b505a1ec4e6703",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085297,
+            "locality_id":85970665,
+            "neighbourhood_id":85816309,
+            "region_id":85688661,
+            "venue_id":789791347
+        }
+    ],
+    "wof:id":789791347,
+    "wof:lastmodified":1462590575,
+    "wof:name":"William Harris Bone & Joint",
+    "wof:parent_id":85816309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -90.439085,
+    37.788351,
+    -90.439085,
+    37.788351
+],
+  "geometry": {"coordinates":[-90.43908500000001,37.788351],"type":"Point"}
+}

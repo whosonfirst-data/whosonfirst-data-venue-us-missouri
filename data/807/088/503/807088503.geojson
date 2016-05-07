@@ -1,0 +1,72 @@
+{
+  "id": 807088503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.200126,38.55616,-92.200126,38.55616",
+    "geom:latitude":38.55616,
+    "geom:longitude":-92.200126,
+    "iso:country":"US",
+    "sg:address":"1905 Southwest Blvd",
+    "sg:city":"Jefferson City",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/jefferson/195601-taco-bell/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 635 3773",
+    "sg:postcode":"65109",
+    "sg:province":"MO",
+    "sg:tags":[
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970647,
+        102087511,
+        85837745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6s6R8yV4YF6eovEBXdgaDb_38.556160_-92.200126@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462603604,
+    "wof:geomhash":"8f6ea4e93cdf5b6612d7580e53edd343",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087511,
+            "locality_id":85970647,
+            "neighbourhood_id":85837745,
+            "region_id":85688661,
+            "venue_id":807088503
+        }
+    ],
+    "wof:id":807088503,
+    "wof:lastmodified":1462603604,
+    "wof:name":"Taco Bell",
+    "wof:parent_id":85837745,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican"
+    ]
+},
+  "bbox": [
+    -92.200126,
+    38.55616,
+    -92.200126,
+    38.55616
+],
+  "geometry": {"coordinates":[-92.200126,38.55616],"type":"Point"}
+}

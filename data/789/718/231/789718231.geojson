@@ -1,0 +1,73 @@
+{
+  "id": 789718231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.439978,38.774369,-90.439978,38.774369",
+    "geom:latitude":38.774369,
+    "geom:longitude":-90.439978,
+    "iso:country":"US",
+    "sg:address":"13501 NW Industrial Dr",
+    "sg:city":"Bridgeton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 298 7505",
+    "sg:postcode":"63044",
+    "sg:province":"MO",
+    "sg:tags":[
+        "concrete",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972341,
+        102086173,
+        85806637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0jG2UTYkduB8YNEXLywOOo_38.774369_-90.439978@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462589997,
+    "wof:geomhash":"e020bc75b770707e09fa1c23567f434b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086173,
+            "locality_id":85972341,
+            "neighbourhood_id":85806637,
+            "region_id":85688661,
+            "venue_id":789718231
+        }
+    ],
+    "wof:id":789718231,
+    "wof:lastmodified":1462589997,
+    "wof:name":"Concrete Forming Inc",
+    "wof:parent_id":85806637,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -90.439978,
+    38.774369,
+    -90.439978,
+    38.774369
+],
+  "geometry": {"coordinates":[-90.439978,38.774369],"type":"Point"}
+}

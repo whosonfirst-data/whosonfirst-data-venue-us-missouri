@@ -1,0 +1,81 @@
+{
+  "id": 789588529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.505379,37.054504,-94.505379,37.054504",
+    "geom:latitude":37.054504,
+    "geom:longitude":-94.505379,
+    "iso:country":"US",
+    "sg:address":"3220 Indiana Ave",
+    "sg:city":"Joplin",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 781 1660",
+    "sg:postcode":"64804",
+    "sg:province":"MO",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85885363,
+        102191575,
+        404518215,
+        85633793,
+        85970893,
+        102087525,
+        85688661,
+        420525385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0OE3XrGAggZdGsv9YYJqvE_37.054504_-94.505379@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462588975,
+    "wof:geomhash":"6074808d4b2ddbac938c2ba034e17313",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087525,
+            "localadmin_id":404518215,
+            "locality_id":85970893,
+            "neighbourhood_id":85885363,
+            "region_id":85688661,
+            "venue_id":789588529
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087525,
+            "localadmin_id":404518215,
+            "locality_id":85970893,
+            "neighbourhood_id":420525385,
+            "region_id":85688661,
+            "venue_id":789588529
+        }
+    ],
+    "wof:id":789588529,
+    "wof:lastmodified":1462588975,
+    "wof:name":"Park Plaza Christian Church",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -94.505379,
+    37.054504,
+    -94.505379,
+    37.054504
+],
+  "geometry": {"coordinates":[-94.505379,37.054504],"type":"Point"}
+}

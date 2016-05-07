@@ -1,0 +1,69 @@
+{
+  "id": 807123835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.521472,38.262122,-90.521472,38.262122",
+    "geom:latitude":38.262122,
+    "geom:longitude":-90.521472,
+    "iso:country":"US",
+    "sg:address":"4444 Hickory Ln",
+    "sg:city":"Hillsboro",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 789 3676",
+    "sg:postcode":"63050",
+    "sg:province":"MO",
+    "sg:tags":[
+        "lawn"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85848677,
+        102080787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_41Ifu7frR9gxtJ9zCRfAuv_38.262122_-90.521472@1303262926"
+    },
+    "wof:country":"US",
+    "wof:created":1462603985,
+    "wof:geomhash":"802ca47538c4f7ef68f86f2570eb764c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080787,
+            "neighbourhood_id":85848677,
+            "region_id":85688661,
+            "venue_id":807123835
+        }
+    ],
+    "wof:id":807123835,
+    "wof:lastmodified":1462603985,
+    "wof:name":"Superior Lawn & Landscaping",
+    "wof:parent_id":85848677,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lawn"
+    ]
+},
+  "bbox": [
+    -90.521472,
+    38.262122,
+    -90.521472,
+    38.262122
+],
+  "geometry": {"coordinates":[-90.521472,38.262122],"type":"Point"}
+}

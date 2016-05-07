@@ -1,0 +1,71 @@
+{
+  "id": 773228279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.128438,38.557024,-92.128438,38.557024",
+    "geom:latitude":38.557024,
+    "geom:longitude":-92.128438,
+    "iso:country":"US",
+    "sg:address":"2522 E McCarty St",
+    "sg:city":"Jefferson City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 636 3334",
+    "sg:postcode":"65101",
+    "sg:province":"MO",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970647,
+        102087511,
+        85837745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3V1UsD1ahx1O2kPjyCRmGf_38.557024_-92.128438@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462584130,
+    "wof:geomhash":"ca2b016d0cfd6152ffd336d599af20e8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087511,
+            "locality_id":85970647,
+            "neighbourhood_id":85837745,
+            "region_id":85688661,
+            "venue_id":773228279
+        }
+    ],
+    "wof:id":773228279,
+    "wof:lastmodified":1462584130,
+    "wof:name":"Mikes A A A Road Service",
+    "wof:parent_id":85837745,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -92.128438,
+    38.557024,
+    -92.128438,
+    38.557024
+],
+  "geometry": {"coordinates":[-92.128438,38.557024],"type":"Point"}
+}

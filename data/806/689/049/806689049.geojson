@@ -1,0 +1,90 @@
+{
+  "id": 806689049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.428812,38.671989,-90.428812,38.671989",
+    "geom:latitude":38.671989,
+    "geom:longitude":-90.428812,
+    "iso:country":"US",
+    "sg:address":"11160 Olive Blvd",
+    "sg:city":"St Louis",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Non-durable Goods",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 991 4180",
+    "sg:postcode":"63141",
+    "sg:province":"MO",
+    "sg:tags":[
+        "leaf",
+        "mfg",
+        "rep",
+        "material",
+        "binder",
+        "pkg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85803699,
+        102191575,
+        404517323,
+        85633793,
+        85972315,
+        102086173,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Qe6N44HB0ftKeuAOxIPQz_38.671989_-90.428812@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462600246,
+    "wof:geomhash":"9ad4078f4e89436c172a81cf2617d5d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086173,
+            "localadmin_id":404517323,
+            "locality_id":85972315,
+            "neighbourhood_id":85803699,
+            "region_id":85688661,
+            "venue_id":806689049
+        }
+    ],
+    "wof:id":806689049,
+    "wof:lastmodified":1462600246,
+    "wof:name":"Communipak Group",
+    "wof:parent_id":85803699,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "leaf",
+        "mfg",
+        "rep",
+        "material",
+        "binder",
+        "pkg"
+    ]
+},
+  "bbox": [
+    -90.428812,
+    38.671989,
+    -90.428812,
+    38.671989
+],
+  "geometry": {"coordinates":[-90.42881199999999,38.671989],"type":"Point"}
+}

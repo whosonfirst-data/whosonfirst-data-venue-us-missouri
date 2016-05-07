@@ -1,0 +1,71 @@
+{
+  "id": 773845355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.701761,38.801515,-90.701761,38.801515",
+    "geom:latitude":38.801515,
+    "geom:longitude":-90.701761,
+    "iso:country":"US",
+    "sg:address":"7 Ofallon Sq",
+    "sg:city":"O Fallon",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 272 8585",
+    "sg:postcode":"63366",
+    "sg:province":"MO",
+    "sg:tags":[
+        "cleaners"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5mETUv8J2hxrFdbcFA6nAR_38.801515_-90.701761@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462588861,
+    "wof:geomhash":"fa4f8b04696faa7246c13285523056ca",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":773845355
+        }
+    ],
+    "wof:id":773845355,
+    "wof:lastmodified":1462588861,
+    "wof:name":"American Cleaners",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners"
+    ]
+},
+  "bbox": [
+    -90.701761,
+    38.801515,
+    -90.701761,
+    38.801515
+],
+  "geometry": {"coordinates":[-90.701761,38.801515],"type":"Point"}
+}

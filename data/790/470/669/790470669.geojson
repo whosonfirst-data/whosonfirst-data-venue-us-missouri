@@ -1,0 +1,71 @@
+{
+  "id": 790470669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.362416,39.372986,-94.362416,39.372986",
+    "geom:latitude":39.372986,
+    "geom:longitude":-94.362416,
+    "iso:country":"US",
+    "sg:address":"102 N Jefferson St",
+    "sg:city":"Kearney",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 628 6010",
+    "sg:postcode":"64060",
+    "sg:province":"MO",
+    "sg:tags":[
+        "newspaper"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971507,
+        102086177,
+        85812855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ifnV1Flnyfj8i9HW1zxXQ_39.372986_-94.362416@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462596102,
+    "wof:geomhash":"d5b48341bd6c0a347ef203c11557b0e7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086177,
+            "locality_id":85971507,
+            "neighbourhood_id":85812855,
+            "region_id":85688661,
+            "venue_id":790470669
+        }
+    ],
+    "wof:id":790470669,
+    "wof:lastmodified":1462596102,
+    "wof:name":"Kearney Courier",
+    "wof:parent_id":85812855,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "newspaper"
+    ]
+},
+  "bbox": [
+    -94.362416,
+    39.372986,
+    -94.362416,
+    39.372986
+],
+  "geometry": {"coordinates":[-94.362416,39.372986],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 789824839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.284382,38.695245,-90.284382,38.695245",
+    "geom:latitude":38.695245,
+    "geom:longitude":-90.284382,
+    "iso:country":"US",
+    "sg:address":"3712 Avondale Ave",
+    "sg:city":"Saint Louis",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 383 6740",
+    "sg:postcode":"63121",
+    "sg:province":"MO",
+    "sg:tags":[
+        "electrical",
+        "maintenance",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85803359,
+        102191575,
+        404515929,
+        85633793,
+        85972327,
+        102086173,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5KbNbzcm2nJmUfjOfbGcZy_38.695245_-90.284382@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462590831,
+    "wof:geomhash":"d4790fde589d6eecb3e8b47536019b61",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086173,
+            "localadmin_id":404515929,
+            "locality_id":85972327,
+            "neighbourhood_id":85803359,
+            "region_id":85688661,
+            "venue_id":789824839
+        }
+    ],
+    "wof:id":789824839,
+    "wof:lastmodified":1462590831,
+    "wof:name":"Carlisles Elc & Bldg Maint",
+    "wof:parent_id":85803359,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "maintenance",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -90.284382,
+    38.695245,
+    -90.284382,
+    38.695245
+],
+  "geometry": {"coordinates":[-90.28438199999999,38.695245],"type":"Point"}
+}

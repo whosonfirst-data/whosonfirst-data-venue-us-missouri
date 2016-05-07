@@ -1,0 +1,71 @@
+{
+  "id": 807036001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.356975,37.202906,-93.356975,37.202906",
+    "geom:latitude":37.202906,
+    "geom:longitude":-93.356975,
+    "iso:country":"US",
+    "sg:address":"3844 W State St",
+    "sg:city":"Springfield",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 890 9080",
+    "sg:postcode":"65802",
+    "sg:province":"MO",
+    "sg:tags":[
+        "handyman"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971363,
+        102087523,
+        85836941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_53qceGbgTPwIiDXBNUmaDG_37.202752_-93.356990@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1462603171,
+    "wof:geomhash":"aff7f8a8d0099f7cbfaf5d3fae85ab98",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087523,
+            "locality_id":85971363,
+            "neighbourhood_id":85836941,
+            "region_id":85688661,
+            "venue_id":807036001
+        }
+    ],
+    "wof:id":807036001,
+    "wof:lastmodified":1462603171,
+    "wof:name":"Pop A Lock",
+    "wof:parent_id":85836941,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "handyman"
+    ]
+},
+  "bbox": [
+    -93.356975,
+    37.202906,
+    -93.356975,
+    37.202906
+],
+  "geometry": {"coordinates":[-93.35697500000001,37.202906],"type":"Point"}
+}

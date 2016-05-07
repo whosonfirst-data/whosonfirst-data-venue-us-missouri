@@ -1,0 +1,75 @@
+{
+  "id": 789730001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.331566,37.032901,-93.331566,37.032901",
+    "geom:latitude":37.032901,
+    "geom:longitude":-93.331566,
+    "iso:country":"US",
+    "sg:address":"1420 Old Bittersweet Ct",
+    "sg:city":"Nixa",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 725 5211",
+    "sg:postcode":"65714",
+    "sg:province":"MO",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971577,
+        102087497,
+        85809751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Kai1GT7OLPwepRGXhfQYF_37.032901_-93.331566@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462590104,
+    "wof:geomhash":"16b46b4806bec2c42d26b550adf25019",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087497,
+            "locality_id":85971577,
+            "neighbourhood_id":85809751,
+            "region_id":85688661,
+            "venue_id":789730001
+        }
+    ],
+    "wof:id":789730001,
+    "wof:lastmodified":1462590104,
+    "wof:name":"Nixa Dent",
+    "wof:parent_id":85809751,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -93.331566,
+    37.032901,
+    -93.331566,
+    37.032901
+],
+  "geometry": {"coordinates":[-93.331566,37.032901],"type":"Point"}
+}

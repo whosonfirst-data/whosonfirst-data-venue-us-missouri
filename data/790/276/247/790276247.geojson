@@ -1,0 +1,85 @@
+{
+  "id": 790276247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.585659,39.097367,-94.585659,39.097367",
+    "geom:latitude":39.097367,
+    "geom:longitude":-94.585659,
+    "iso:country":"US",
+    "sg:address":"106 W 14 St",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 472 9012",
+    "sg:postcode":"64105",
+    "sg:province":"MO",
+    "sg:tags":[
+        "mental",
+        "outpatient",
+        "specialty"
+    ],
+    "sg:website":"www.commcare1.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85867019,
+        102191575,
+        404518075,
+        85633793,
+        85970739,
+        102081227,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_776l6X3ODfMyVPCTplnumD_39.097367_-94.585659@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462594571,
+    "wof:geomhash":"f15bd87da8dfa47237c525052167f2da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081227,
+            "localadmin_id":404518075,
+            "locality_id":85970739,
+            "neighbourhood_id":85867019,
+            "region_id":85688661,
+            "venue_id":790276247
+        }
+    ],
+    "wof:id":790276247,
+    "wof:lastmodified":1462594571,
+    "wof:name":"Commcare",
+    "wof:parent_id":85867019,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mental",
+        "outpatient",
+        "specialty"
+    ]
+},
+  "bbox": [
+    -94.585659,
+    39.097367,
+    -94.585659,
+    39.097367
+],
+  "geometry": {"coordinates":[-94.58565900000001,39.097367],"type":"Point"}
+}

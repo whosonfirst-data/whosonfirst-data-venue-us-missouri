@@ -1,0 +1,90 @@
+{
+  "id": 807253543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.326312,38.951487,-92.326312,38.951487",
+    "geom:latitude":38.951487,
+    "geom:longitude":-92.326312,
+    "iso:country":"US",
+    "sg:address":"1019 E Broadway",
+    "sg:city":"Columbia",
+    "sg:classifiers":[
+        {
+            "category":"Fast Food",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 815 0043",
+    "sg:postcode":"65201",
+    "sg:province":"MO",
+    "sg:tags":[
+        "shop",
+        "sandwich",
+        "take"
+    ],
+    "sg:website":"http://www.jimmyjohns.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85835171,
+        102191575,
+        404516389,
+        85633793,
+        85970425,
+        102086187,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_78dCpyOnzhuJXNK0V6ixa0_38.951487_-92.326312@1303262935"
+    },
+    "wof:country":"US",
+    "wof:created":1462605364,
+    "wof:geomhash":"39c8af107601dcd5bc7b0f2f6291cb51",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086187,
+            "localadmin_id":404516389,
+            "locality_id":85970425,
+            "neighbourhood_id":85835171,
+            "region_id":85688661,
+            "venue_id":807253543
+        }
+    ],
+    "wof:id":807253543,
+    "wof:lastmodified":1462605364,
+    "wof:name":"Jimmy John's",
+    "wof:parent_id":85835171,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "sandwich",
+        "take"
+    ]
+},
+  "bbox": [
+    -92.326312,
+    38.951487,
+    -92.326312,
+    38.951487
+],
+  "geometry": {"coordinates":[-92.326312,38.951487],"type":"Point"}
+}

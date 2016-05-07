@@ -1,0 +1,75 @@
+{
+  "id": 790562887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.097129,39.32555,-91.097129,39.32555",
+    "geom:latitude":39.32555,
+    "geom:longitude":-91.097129,
+    "iso:country":"US",
+    "sg:address":"18190 Pike 256",
+    "sg:city":"Bowling Green",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 324 3596",
+    "sg:postcode":"63334",
+    "sg:province":"MO",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971907,
+        102086151,
+        85817909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4UONvX3pl1MAlKr8PQe6ul_39.325550_-91.097129@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462596897,
+    "wof:geomhash":"561b9cc67bdaedf583588e02686d683a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086151,
+            "locality_id":85971907,
+            "neighbourhood_id":85817909,
+            "region_id":85688661,
+            "venue_id":790562887
+        }
+    ],
+    "wof:id":790562887,
+    "wof:lastmodified":1462596897,
+    "wof:name":"T J Grote Trucking",
+    "wof:parent_id":85817909,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -91.097129,
+    39.32555,
+    -91.097129,
+    39.32555
+],
+  "geometry": {"coordinates":[-91.097129,39.32555],"type":"Point"}
+}

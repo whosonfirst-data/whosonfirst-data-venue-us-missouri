@@ -1,0 +1,77 @@
+{
+  "id": 789678483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.622415,38.794533,-90.622415,38.794533",
+    "geom:latitude":38.794533,
+    "geom:longitude":-90.622415,
+    "iso:country":"US",
+    "sg:address":"180 Mid Rivers Mall Dr",
+    "sg:city":"St Peters",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Home Furnishings",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 970 3636",
+    "sg:postcode":"63376",
+    "sg:province":"MO",
+    "sg:tags":[
+        "shop"
+    ],
+    "sg:website":"www.pier1.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7f5ZBsv4P2wGVh5BllpiBv_38.794533_-90.622415@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462589688,
+    "wof:geomhash":"b700b8a72b2a362e245953898eb958d1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":789678483
+        }
+    ],
+    "wof:id":789678483,
+    "wof:lastmodified":1462589688,
+    "wof:name":"Pier 1 Imports 622",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -90.622415,
+    38.794533,
+    -90.622415,
+    38.794533
+],
+  "geometry": {"coordinates":[-90.622415,38.794533],"type":"Point"}
+}

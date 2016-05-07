@@ -1,0 +1,71 @@
+{
+  "id": 773175341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.341774,39.134988,-94.341774,39.134988",
+    "geom:latitude":39.134988,
+    "geom:longitude":-94.341774,
+    "iso:country":"US",
+    "sg:address":"19702 E Old Lexington Rd",
+    "sg:city":"Independence",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 796 1000",
+    "sg:postcode":"64058",
+    "sg:province":"MO",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971449,
+        102081227,
+        85844675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5OvYc9Hm0N6PlJkmPzhbuw_39.134988_-94.341774@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462583702,
+    "wof:geomhash":"aabb8ad49674e2abd64a32f229d53e9f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081227,
+            "locality_id":85971449,
+            "neighbourhood_id":85844675,
+            "region_id":85688661,
+            "venue_id":773175341
+        }
+    ],
+    "wof:id":773175341,
+    "wof:lastmodified":1462583702,
+    "wof:name":"Blue Mills Pediatrics",
+    "wof:parent_id":85844675,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -94.341774,
+    39.134988,
+    -94.341774,
+    39.134988
+],
+  "geometry": {"coordinates":[-94.341774,39.134988],"type":"Point"}
+}

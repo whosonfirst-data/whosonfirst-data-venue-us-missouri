@@ -1,0 +1,80 @@
+{
+  "id": 789607055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.546097,37.175347,-94.546097,37.175347",
+    "geom:latitude":37.175347,
+    "geom:longitude":-94.546097,
+    "iso:country":"US",
+    "sg:address":"1307 Pennell St",
+    "sg:city":"Carl Junction",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Discount & Variety Stores",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 649 7624",
+    "sg:postcode":"64834",
+    "sg:province":"MO",
+    "sg:tags":[
+        "shop",
+        "merchandise",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970893,
+        102087525,
+        85810925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_25bVUprZmWaaUdUJCHwG6j_37.175347_-94.546097@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462589118,
+    "wof:geomhash":"ba5ab41d149710c25689be37859eb95d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087525,
+            "locality_id":85970893,
+            "neighbourhood_id":85810925,
+            "region_id":85688661,
+            "venue_id":789607055
+        }
+    ],
+    "wof:id":789607055,
+    "wof:lastmodified":1462589118,
+    "wof:name":"Dollar General",
+    "wof:parent_id":85810925,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "merchandise",
+        "general"
+    ]
+},
+  "bbox": [
+    -94.546097,
+    37.175347,
+    -94.546097,
+    37.175347
+],
+  "geometry": {"coordinates":[-94.546097,37.175347],"type":"Point"}
+}

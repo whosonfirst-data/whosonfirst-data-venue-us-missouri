@@ -1,0 +1,73 @@
+{
+  "id": 807043313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.586403,39.374008,-94.586403,39.374008",
+    "geom:latitude":39.374008,
+    "geom:longitude":-94.586403,
+    "iso:country":"US",
+    "sg:address":"101 James St",
+    "sg:city":"Smithville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 532 3094",
+    "sg:postcode":"64089",
+    "sg:province":"MO",
+    "sg:tags":[
+        "plumber",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970739,
+        102086177,
+        85836329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5xIY6rNGhAwpes6cOjKGe9_39.374075_-94.586404@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1462603238,
+    "wof:geomhash":"5c76bc7004b79dfbb986d5f948748718",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086177,
+            "locality_id":85970739,
+            "neighbourhood_id":85836329,
+            "region_id":85688661,
+            "venue_id":807043313
+        }
+    ],
+    "wof:id":807043313,
+    "wof:lastmodified":1462603238,
+    "wof:name":"Minder Plumbing Inc",
+    "wof:parent_id":85836329,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumber",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -94.586403,
+    39.374008,
+    -94.586403,
+    39.374008
+],
+  "geometry": {"coordinates":[-94.586403,39.374008],"type":"Point"}
+}

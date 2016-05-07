@@ -1,0 +1,73 @@
+{
+  "id": 806430563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.545231,38.781621,-90.545231,38.781621",
+    "geom:latitude":38.781621,
+    "geom:longitude":-90.545231,
+    "iso:country":"US",
+    "sg:address":"2904 Kristopher Bend Dr",
+    "sg:city":"Saint Charles",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 949 8844",
+    "sg:postcode":"63303",
+    "sg:province":"MO",
+    "sg:tags":[
+        "residential",
+        "home"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7WQYyGoEQuRbymYGlSnQ05_38.781621_-90.545231@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462598092,
+    "wof:geomhash":"23191d255a2105855b6f1fb40405c58a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":806430563
+        }
+    ],
+    "wof:id":806430563,
+    "wof:lastmodified":1462598092,
+    "wof:name":"TRC",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential",
+        "home"
+    ]
+},
+  "bbox": [
+    -90.545231,
+    38.781621,
+    -90.545231,
+    38.781621
+],
+  "geometry": {"coordinates":[-90.545231,38.781621],"type":"Point"}
+}

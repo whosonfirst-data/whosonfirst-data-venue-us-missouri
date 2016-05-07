@@ -1,0 +1,88 @@
+{
+  "id": 789746891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.421157,39.231069,-94.421157,39.231069",
+    "geom:latitude":39.231069,
+    "geom:longitude":-94.421157,
+    "iso:country":"US",
+    "sg:address":"198 Meade St",
+    "sg:city":"Liberty",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 781 1991",
+    "sg:postcode":"64068",
+    "sg:province":"MO",
+    "sg:tags":[
+        "grocery",
+        "alcoholic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420525367,
+        102191575,
+        404516717,
+        85633793,
+        85972461,
+        102086177,
+        85688661,
+        420525305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3NhiJ3Q3qRJfKRJ5leeKmb_39.231069_-94.421157@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462590231,
+    "wof:geomhash":"f620848e93efeea00974d7a7e4722bcc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086177,
+            "localadmin_id":404516717,
+            "locality_id":85972461,
+            "neighbourhood_id":420525367,
+            "region_id":85688661,
+            "venue_id":789746891
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086177,
+            "localadmin_id":404516717,
+            "locality_id":85972461,
+            "neighbourhood_id":420525305,
+            "region_id":85688661,
+            "venue_id":789746891
+        }
+    ],
+    "wof:id":789746891,
+    "wof:lastmodified":1462590231,
+    "wof:name":"Pleasant Valley Liquor",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocery",
+        "alcoholic"
+    ]
+},
+  "bbox": [
+    -94.421157,
+    39.231069,
+    -94.421157,
+    39.231069
+],
+  "geometry": {"coordinates":[-94.42115699999999,39.231069],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 789776911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.261792,38.551185,-90.261792,38.551185",
+    "geom:latitude":38.551185,
+    "geom:longitude":-90.261792,
+    "iso:country":"US",
+    "sg:address":"517 Koeln Ave",
+    "sg:city":"St Louis",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        },
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 353 3276",
+    "sg:postcode":"63111",
+    "sg:province":"MO",
+    "sg:tags":[
+        "day",
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85809597,
+        102191575,
+        404518053,
+        85633793,
+        85971343,
+        102080791,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3PyJiubo62kbpACPykHBmM_38.551185_-90.261792@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462590453,
+    "wof:geomhash":"7fea6c587083671cdf1de2833c51e2fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080791,
+            "localadmin_id":404518053,
+            "locality_id":85971343,
+            "neighbourhood_id":85809597,
+            "region_id":85688661,
+            "venue_id":789776911
+        }
+    ],
+    "wof:id":789776911,
+    "wof:lastmodified":1462590453,
+    "wof:name":"Saint Trinity Lutheran Church",
+    "wof:parent_id":85809597,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "day",
+        "church"
+    ]
+},
+  "bbox": [
+    -90.261792,
+    38.551185,
+    -90.261792,
+    38.551185
+],
+  "geometry": {"coordinates":[-90.261792,38.551185],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 807082811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.581041,39.135277,-94.581041,39.135277",
+    "geom:latitude":39.135277,
+    "geom:longitude":-94.581041,
+    "iso:country":"US",
+    "sg:address":"1412 Burlington St",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/gallatin/201651-sonic/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 421 5941",
+    "sg:postcode":"64116",
+    "sg:province":"MO",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85823983,
+        102191575,
+        404516715,
+        85633793,
+        85972453,
+        102086177,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_11LnWObvWctKY7VJoboi4r_39.135277_-94.581041@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462603557,
+    "wof:geomhash":"19732dd6915362002a3e2fb813604aba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086177,
+            "localadmin_id":404516715,
+            "locality_id":85972453,
+            "neighbourhood_id":85823983,
+            "region_id":85688661,
+            "venue_id":807082811
+        }
+    ],
+    "wof:id":807082811,
+    "wof:lastmodified":1462603557,
+    "wof:name":"Sonic",
+    "wof:parent_id":85823983,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -94.581041,
+    39.135277,
+    -94.581041,
+    39.135277
+],
+  "geometry": {"coordinates":[-94.581041,39.135277],"type":"Point"}
+}

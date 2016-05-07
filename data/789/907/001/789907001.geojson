@@ -1,0 +1,73 @@
+{
+  "id": 789907001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.614609,38.00006,-91.614609,38.00006",
+    "geom:latitude":38.00006,
+    "geom:longitude":-91.614609,
+    "iso:country":"US",
+    "sg:address":"103 E James Blvd",
+    "sg:city":"Saint James",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 265 5034",
+    "sg:postcode":"65559",
+    "sg:province":"MO",
+    "sg:tags":[
+        "automotive",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970819,
+        102086893,
+        85847353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1CUkiK4xLsnnBqJJQlUNRK_38.000060_-91.614609@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462591501,
+    "wof:geomhash":"76b7c7a540279a5fc502663781448684",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086893,
+            "locality_id":85970819,
+            "neighbourhood_id":85847353,
+            "region_id":85688661,
+            "venue_id":789907001
+        }
+    ],
+    "wof:id":789907001,
+    "wof:lastmodified":1462591501,
+    "wof:name":"Saint James Tractor Sls & Repr",
+    "wof:parent_id":85847353,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive",
+        "general"
+    ]
+},
+  "bbox": [
+    -91.614609,
+    38.00006,
+    -91.614609,
+    38.00006
+],
+  "geometry": {"coordinates":[-91.614609,38.00006],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 806842675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.645609,38.358665,-90.645609,38.358665",
+    "geom:latitude":38.358665,
+    "geom:longitude":-90.645609,
+    "iso:country":"US",
+    "sg:address":"6420 The Cedars Ct",
+    "sg:city":"Cedar Hill",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 274 2700",
+    "sg:postcode":"63016",
+    "sg:province":"MO",
+    "sg:tags":[
+        "clinic",
+        "osteopathic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971019,
+        102080787,
+        85817237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ETmT8Vb9RIUjQgDs1FxvG_38.358665_-90.645609@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462601532,
+    "wof:geomhash":"f61f511fd80ad0635b1474e8201a89f4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080787,
+            "locality_id":85971019,
+            "neighbourhood_id":85817237,
+            "region_id":85688661,
+            "venue_id":806842675
+        }
+    ],
+    "wof:id":806842675,
+    "wof:lastmodified":1462601532,
+    "wof:name":"Cedar Hill Medical Center",
+    "wof:parent_id":85817237,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic",
+        "osteopathic"
+    ]
+},
+  "bbox": [
+    -90.645609,
+    38.358665,
+    -90.645609,
+    38.358665
+],
+  "geometry": {"coordinates":[-90.64560899999999,38.358665],"type":"Point"}
+}

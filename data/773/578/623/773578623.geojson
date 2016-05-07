@@ -1,0 +1,73 @@
+{
+  "id": 773578623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.523169,39.789186,-91.523169,39.789186",
+    "geom:latitude":39.789186,
+    "geom:longitude":-91.523169,
+    "iso:country":"US",
+    "sg:address":"1219 S Main St",
+    "sg:city":"Palmyra",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 769 6166",
+    "sg:postcode":"63461",
+    "sg:province":"MO",
+    "sg:tags":[
+        "therapist",
+        "physical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688697,
+        85633793,
+        85938427,
+        102086213,
+        85867477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ywSMlxr7WaF9Y2gHPgffe_39.789186_-91.523169@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462586795,
+    "wof:geomhash":"f18b51bc238ad5f9e85f2e4d98a63e04",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086213,
+            "locality_id":85938427,
+            "neighbourhood_id":85867477,
+            "region_id":85688697,
+            "venue_id":773578623
+        }
+    ],
+    "wof:id":773578623,
+    "wof:lastmodified":1462586795,
+    "wof:name":"Priority Physical Therapy",
+    "wof:parent_id":85867477,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "therapist",
+        "physical"
+    ]
+},
+  "bbox": [
+    -91.523169,
+    39.789186,
+    -91.523169,
+    39.789186
+],
+  "geometry": {"coordinates":[-91.523169,39.789186],"type":"Point"}
+}

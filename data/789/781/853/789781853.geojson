@@ -1,0 +1,73 @@
+{
+  "id": 789781853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.55361,38.404195,-90.55361,38.404195",
+    "geom:latitude":38.404195,
+    "geom:longitude":-90.55361,
+    "iso:country":"US",
+    "sg:address":"6032 Duda Rd",
+    "sg:city":"House Springs",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 671 3878",
+    "sg:postcode":"63051",
+    "sg:province":"MO",
+    "sg:tags":[
+        "body",
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971019,
+        102080787,
+        85817237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5XudauUezDthDakxTFQ7md_38.404195_-90.553610@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462590500,
+    "wof:geomhash":"27ce152b8d583b6e483400b84fbf2614",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080787,
+            "locality_id":85971019,
+            "neighbourhood_id":85817237,
+            "region_id":85688661,
+            "venue_id":789781853
+        }
+    ],
+    "wof:id":789781853,
+    "wof:lastmodified":1462590500,
+    "wof:name":"Hardings Auto Works",
+    "wof:parent_id":85817237,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automotive"
+    ]
+},
+  "bbox": [
+    -90.55361,
+    38.404195,
+    -90.55361,
+    38.404195
+],
+  "geometry": {"coordinates":[-90.55361000000001,38.404195],"type":"Point"}
+}

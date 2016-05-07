@@ -1,0 +1,71 @@
+{
+  "id": 773523407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.235267,37.209918,-93.235267,37.209918",
+    "geom:latitude":37.209918,
+    "geom:longitude":-93.235267,
+    "iso:country":"US",
+    "sg:address":"2965 E Chestnut Expy",
+    "sg:city":"Springfield",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 831 3311",
+    "sg:postcode":"65802",
+    "sg:province":"MO",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971363,
+        102087523,
+        85881137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4q1xmayVOZP5dHzGvUXmOJ_37.209918_-93.235267@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462586364,
+    "wof:geomhash":"4925c29ede5e1a44502048604626b3c7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087523,
+            "locality_id":85971363,
+            "neighbourhood_id":85881137,
+            "region_id":85688661,
+            "venue_id":773523407
+        }
+    ],
+    "wof:id":773523407,
+    "wof:lastmodified":1462586364,
+    "wof:name":"Keith V Myers DDS",
+    "wof:parent_id":85881137,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -93.235267,
+    37.209918,
+    -93.235267,
+    37.209918
+],
+  "geometry": {"coordinates":[-93.23526699999999,37.209918],"type":"Point"}
+}

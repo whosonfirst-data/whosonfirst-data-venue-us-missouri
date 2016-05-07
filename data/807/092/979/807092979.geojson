@@ -1,0 +1,72 @@
+{
+  "id": 807092979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-93.288822,37.04334,-93.288822,37.04334",
+    "geom:latitude":37.04334,
+    "geom:longitude":-93.288822,
+    "iso:country":"US",
+    "sg:address":"507 E Mount Vernon St",
+    "sg:city":"Nixa",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/mo/northview/195641-taco-bell/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 417 725 5643",
+    "sg:postcode":"65714",
+    "sg:province":"MO",
+    "sg:tags":[
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85971577,
+        102087497,
+        85809751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0CQaL6MbH3lK6Ug9MzbNyN_37.043340_-93.288822@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462603644,
+    "wof:geomhash":"d2a6b95de92bddfd0c83d4ee89c71201",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087497,
+            "locality_id":85971577,
+            "neighbourhood_id":85809751,
+            "region_id":85688661,
+            "venue_id":807092979
+        }
+    ],
+    "wof:id":807092979,
+    "wof:lastmodified":1462603644,
+    "wof:name":"Taco Bell",
+    "wof:parent_id":85809751,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican"
+    ]
+},
+  "bbox": [
+    -93.288822,
+    37.04334,
+    -93.288822,
+    37.04334
+],
+  "geometry": {"coordinates":[-93.288822,37.04334],"type":"Point"}
+}

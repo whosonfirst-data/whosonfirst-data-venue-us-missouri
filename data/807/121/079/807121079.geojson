@@ -1,0 +1,86 @@
+{
+  "id": 807121079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.380859,38.79306,-90.380859,38.79306",
+    "geom:latitude":38.79306,
+    "geom:longitude":-90.380859,
+    "iso:country":"US",
+    "sg:address":"1186 Teson Rd",
+    "sg:city":"Hazelwood",
+    "sg:classifiers":[
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Swimming Pool",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 895 4157",
+    "sg:postcode":"63042",
+    "sg:province":"MO",
+    "sg:tags":[
+        "pools-public",
+        "township",
+        "government-city",
+        "village"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85840903,
+        102191575,
+        404517389,
+        85633793,
+        85972265,
+        102086173,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4wAkKqLoY0oeGI17vsIKBd_38.793060_-90.380859@1303262926"
+    },
+    "wof:country":"US",
+    "wof:created":1462603951,
+    "wof:geomhash":"8edbc0bc1a4305e5ee169164fdb3dc86",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086173,
+            "localadmin_id":404517389,
+            "locality_id":85972265,
+            "neighbourhood_id":85840903,
+            "region_id":85688661,
+            "venue_id":807121079
+        }
+    ],
+    "wof:id":807121079,
+    "wof:lastmodified":1462603951,
+    "wof:name":"Village of Hazelwood Pool",
+    "wof:parent_id":85840903,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pools-public",
+        "township",
+        "government-city",
+        "village"
+    ]
+},
+  "bbox": [
+    -90.380859,
+    38.79306,
+    -90.380859,
+    38.79306
+],
+  "geometry": {"coordinates":[-90.380859,38.79306],"type":"Point"}
+}

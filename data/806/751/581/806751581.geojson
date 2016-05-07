@@ -1,0 +1,75 @@
+{
+  "id": 806751581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.510111,38.783991,-90.510111,38.783991",
+    "geom:latitude":38.783991,
+    "geom:longitude":-90.510111,
+    "iso:country":"US",
+    "sg:address":"2402 W Clay St",
+    "sg:city":"St Charles",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 723 1200",
+    "sg:postcode":"63301",
+    "sg:province":"MO",
+    "sg:tags":[
+        "drycleaning",
+        "plant",
+        "cleaners"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4uPXlg247O13ClfNoOeIVd_38.783991_-90.510111@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462600778,
+    "wof:geomhash":"dd6fa09809e4dd2d0ee02c86f8a6d8bb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":806751581
+        }
+    ],
+    "wof:id":806751581,
+    "wof:lastmodified":1462600778,
+    "wof:name":"Paris Cleaners",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drycleaning",
+        "plant",
+        "cleaners"
+    ]
+},
+  "bbox": [
+    -90.510111,
+    38.783991,
+    -90.510111,
+    38.783991
+],
+  "geometry": {"coordinates":[-90.51011099999999,38.783991],"type":"Point"}
+}

@@ -1,0 +1,88 @@
+{
+  "id": 789942245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.372517,38.360514,-90.372517,38.360514",
+    "geom:latitude":38.360514,
+    "geom:longitude":-90.372517,
+    "iso:country":"US",
+    "sg:address":"920 Windsor Dr",
+    "sg:city":"Imperial",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 464 1406",
+    "sg:postcode":"63052",
+    "sg:province":"MO",
+    "sg:tags":[
+        "excavation",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420525373,
+        102191575,
+        404518285,
+        85633793,
+        85972523,
+        102080787,
+        85688661,
+        420525431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2zAxst4nOJZn9BjflbH513_38.360514_-90.372517@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462591804,
+    "wof:geomhash":"a272da6387569d509cc7efc8ac2746f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080787,
+            "localadmin_id":404518285,
+            "locality_id":85972523,
+            "neighbourhood_id":420525373,
+            "region_id":85688661,
+            "venue_id":789942245
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080787,
+            "localadmin_id":404518285,
+            "locality_id":85972523,
+            "neighbourhood_id":420525431,
+            "region_id":85688661,
+            "venue_id":789942245
+        }
+    ],
+    "wof:id":789942245,
+    "wof:lastmodified":1462591804,
+    "wof:name":"Hensley Escavating",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavation",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -90.372517,
+    38.360514,
+    -90.372517,
+    38.360514
+],
+  "geometry": {"coordinates":[-90.372517,38.360514],"type":"Point"}
+}

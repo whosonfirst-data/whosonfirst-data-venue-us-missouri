@@ -1,0 +1,71 @@
+{
+  "id": 773661293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.502988,38.799156,-90.502988,38.799156",
+    "geom:latitude":38.799156,
+    "geom:longitude":-90.502988,
+    "iso:country":"US",
+    "sg:address":"2817 Elm St",
+    "sg:city":"St Charles",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 949 3387",
+    "sg:postcode":"63301",
+    "sg:province":"MO",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6dRzM0B2GZYALdNCLDhytX_38.799156_-90.502988@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462587405,
+    "wof:geomhash":"bbae8d225d3bf777dd8c723cac54eaba",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":773661293
+        }
+    ],
+    "wof:id":773661293,
+    "wof:lastmodified":1462587405,
+    "wof:name":"St Charles Fire Dept",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -90.502988,
+    38.799156,
+    -90.502988,
+    38.799156
+],
+  "geometry": {"coordinates":[-90.502988,38.799156],"type":"Point"}
+}

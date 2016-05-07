@@ -1,0 +1,71 @@
+{
+  "id": 789711413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.387498,38.410494,-90.387498,38.410494",
+    "geom:latitude":38.410494,
+    "geom:longitude":-90.387498,
+    "iso:country":"US",
+    "sg:address":"1917 Meyer Drury Dr",
+    "sg:city":"Arnold",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 464 9902",
+    "sg:postcode":"63010",
+    "sg:province":"MO",
+    "sg:tags":[
+        "house",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85805175,
+        102080787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4lwt0aP0KUvzywMvKET2B7_38.410494_-90.387498@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462589943,
+    "wof:geomhash":"e73c8ff8b9614594b76162849e6b95bb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080787,
+            "neighbourhood_id":85805175,
+            "region_id":85688661,
+            "venue_id":789711413
+        }
+    ],
+    "wof:id":789711413,
+    "wof:lastmodified":1462589943,
+    "wof:name":"Mullins Homes",
+    "wof:parent_id":85805175,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -90.387498,
+    38.410494,
+    -90.387498,
+    38.410494
+],
+  "geometry": {"coordinates":[-90.38749799999999,38.410494],"type":"Point"}
+}

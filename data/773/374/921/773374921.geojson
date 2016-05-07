@@ -1,0 +1,71 @@
+{
+  "id": 773374921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-91.620283,37.997161,-91.620283,37.997161",
+    "geom:latitude":37.997161,
+    "geom:longitude":-91.620283,
+    "iso:country":"US",
+    "sg:address":"414 W James Blvd",
+    "sg:city":"St James",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 265 8402",
+    "sg:postcode":"65559",
+    "sg:province":"MO",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970819,
+        102086893,
+        85847353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1GBKPfILJBo6PDYACDlWal_37.997161_-91.620283@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462585217,
+    "wof:geomhash":"6b12ce78899db45b923bf1ea92050217",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086893,
+            "locality_id":85970819,
+            "neighbourhood_id":85847353,
+            "region_id":85688661,
+            "venue_id":773374921
+        }
+    ],
+    "wof:id":773374921,
+    "wof:lastmodified":1462585217,
+    "wof:name":"St James Dental Center",
+    "wof:parent_id":85847353,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -91.620283,
+    37.997161,
+    -91.620283,
+    37.997161
+],
+  "geometry": {"coordinates":[-91.620283,37.997161],"type":"Point"}
+}

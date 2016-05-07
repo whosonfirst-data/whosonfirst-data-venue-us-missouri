@@ -1,0 +1,73 @@
+{
+  "id": 773364193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.420887,37.781152,-90.420887,37.781152",
+    "geom:latitude":37.781152,
+    "geom:longitude":-90.420887,
+    "iso:country":"US",
+    "sg:address":"1 N Washington St",
+    "sg:city":"Farmington",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Court House",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 756 6666",
+    "sg:postcode":"63640",
+    "sg:province":"MO",
+    "sg:tags":[
+        "county",
+        "counsel"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85970665,
+        102085297,
+        85816309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0rtNNEezUDRIZppm33i8wN_37.781152_-90.420887@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462585141,
+    "wof:geomhash":"1bb4577c81048ed77f65729d1debf43f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085297,
+            "locality_id":85970665,
+            "neighbourhood_id":85816309,
+            "region_id":85688661,
+            "venue_id":773364193
+        }
+    ],
+    "wof:id":773364193,
+    "wof:lastmodified":1462585141,
+    "wof:name":"St Francois Prosecuting Atty",
+    "wof:parent_id":85816309,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "county",
+        "counsel"
+    ]
+},
+  "bbox": [
+    -90.420887,
+    37.781152,
+    -90.420887,
+    37.781152
+],
+  "geometry": {"coordinates":[-90.42088699999999,37.781152],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 773174081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.87521,38.81296,-90.87521,38.81296",
+    "geom:latitude":38.81296,
+    "geom:longitude":-90.87521,
+    "iso:country":"US",
+    "sg:address":"1944 Wentzville Pkwy",
+    "sg:city":"Wentzville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 636 332 5683",
+    "sg:postcode":"63385",
+    "sg:province":"MO",
+    "sg:tags":[
+        "fast"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688661,
+        85633793,
+        85972039,
+        102086159,
+        85821097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_20N3TZrTNqRHenonMNFv4u_38.812960_-90.875210@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462583695,
+    "wof:geomhash":"183cc80b4863691e97e162f3cc713550",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086159,
+            "locality_id":85972039,
+            "neighbourhood_id":85821097,
+            "region_id":85688661,
+            "venue_id":773174081
+        }
+    ],
+    "wof:id":773174081,
+    "wof:lastmodified":1462583695,
+    "wof:name":"Hardees",
+    "wof:parent_id":85821097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fast"
+    ]
+},
+  "bbox": [
+    -90.87521,
+    38.81296,
+    -90.87521,
+    38.81296
+],
+  "geometry": {"coordinates":[-90.87521,38.81296],"type":"Point"}
+}

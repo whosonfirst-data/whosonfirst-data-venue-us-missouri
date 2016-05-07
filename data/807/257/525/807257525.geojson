@@ -1,0 +1,92 @@
+{
+  "id": 807257525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-92.252581,38.9611,-92.252581,38.9611",
+    "geom:latitude":38.9611,
+    "geom:longitude":-92.252581,
+    "iso:country":"US",
+    "sg:address":"5612 E Saint Charles Rd",
+    "sg:city":"Columbia",
+    "sg:classifiers":[
+        {
+            "category":"Fast Food",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 573 886 9995",
+    "sg:postcode":"65202",
+    "sg:province":"MO",
+    "sg:tags":[
+        "shop",
+        "american",
+        "sandwich",
+        "take"
+    ],
+    "sg:website":"http://www.subway.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85835171,
+        102191575,
+        404516389,
+        85633793,
+        85970425,
+        102086187,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2SA1wTU7jiIxH5o4PLa9LF_38.961100_-92.252581@1303262935"
+    },
+    "wof:country":"US",
+    "wof:created":1462605406,
+    "wof:geomhash":"34ffa1a792bb0443f99abacd483859fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086187,
+            "localadmin_id":404516389,
+            "locality_id":85970425,
+            "neighbourhood_id":85835171,
+            "region_id":85688661,
+            "venue_id":807257525
+        }
+    ],
+    "wof:id":807257525,
+    "wof:lastmodified":1462605406,
+    "wof:name":"Subway",
+    "wof:parent_id":85835171,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "american",
+        "sandwich",
+        "take"
+    ]
+},
+  "bbox": [
+    -92.252581,
+    38.9611,
+    -92.252581,
+    38.9611
+],
+  "geometry": {"coordinates":[-92.25258100000001,38.9611],"type":"Point"}
+}

@@ -1,0 +1,89 @@
+{
+  "id": 806944189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.302068,38.592308,-90.302068,38.592308",
+    "geom:latitude":38.592308,
+    "geom:longitude":-90.302068,
+    "iso:country":"US",
+    "sg:address":"4249 Watson Rd",
+    "sg:city":"St Louis",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 781 0233",
+    "sg:postcode":"63109",
+    "sg:province":"MO",
+    "sg:tags":[
+        "program",
+        "hard",
+        "design",
+        "analysis",
+        "software"
+    ],
+    "sg:website":"www.sdainc.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85873685,
+        102191575,
+        404518053,
+        85633793,
+        85971343,
+        102080791,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5CdOYabpbXydebXglNb1j7_38.592308_-90.302068@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462602394,
+    "wof:geomhash":"2f9b06e6540cd01acda6685abd7d4a9c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080791,
+            "localadmin_id":404518053,
+            "locality_id":85971343,
+            "neighbourhood_id":85873685,
+            "region_id":85688661,
+            "venue_id":806944189
+        }
+    ],
+    "wof:id":806944189,
+    "wof:lastmodified":1462602394,
+    "wof:name":"Systems Design Associates",
+    "wof:parent_id":85873685,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "program",
+        "hard",
+        "design",
+        "analysis",
+        "software"
+    ]
+},
+  "bbox": [
+    -90.302068,
+    38.592308,
+    -90.302068,
+    38.592308
+],
+  "geometry": {"coordinates":[-90.30206800000001,38.592308],"type":"Point"}
+}

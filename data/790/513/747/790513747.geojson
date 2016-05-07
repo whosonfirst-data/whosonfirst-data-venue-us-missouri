@@ -1,0 +1,82 @@
+{
+  "id": 790513747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-94.58359,39.211995,-94.58359,39.211995",
+    "geom:latitude":39.211995,
+    "geom:longitude":-94.58359,
+    "iso:country":"US",
+    "sg:address":"103 NW 65 St",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 436 9800",
+    "sg:postcode":"64118",
+    "sg:province":"MO",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85830711,
+        102191575,
+        404516715,
+        85633793,
+        85972467,
+        102086177,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1oo4JcXOizJuWfFN0ATM8B_39.211995_-94.583590@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1462596480,
+    "wof:geomhash":"d5568062d97c89a5ba7709351d44cbb4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086177,
+            "localadmin_id":404516715,
+            "locality_id":85972467,
+            "neighbourhood_id":85830711,
+            "region_id":85688661,
+            "venue_id":790513747
+        }
+    ],
+    "wof:id":790513747,
+    "wof:lastmodified":1462596480,
+    "wof:name":"Northland Thrifty Rooter Inc",
+    "wof:parent_id":85830711,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -94.58359,
+    39.211995,
+    -94.58359,
+    39.211995
+],
+  "geometry": {"coordinates":[-94.58359,39.211995],"type":"Point"}
+}
