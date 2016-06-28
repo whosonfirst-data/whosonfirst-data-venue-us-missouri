@@ -2,13 +2,14 @@
   "id": 186632185,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.44924,39.087825,-94.44924,39.087825",
     "geom:latitude":39.087825,
     "geom:longitude":-94.44924,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10912 E Winner Rd",
     "sg:city":"Independence",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":186632185,
-    "wof:lastmodified":1449052089,
+    "wof:lastmodified":1466622250,
     "wof:name":"Duncan Bruce",
     "wof:parent_id":85818127,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "chiropractic"
     ]
 },
-  "bbox": [-94.44924,39.087825,-94.44924,39.087825],
+  "bbox": [
+    -94.44924,
+    39.087825,
+    -94.44924,
+    39.087825
+],
   "geometry": {"coordinates":[-94.44924,39.087825],"type":"Point"}
 }

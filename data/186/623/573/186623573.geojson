@@ -2,13 +2,14 @@
   "id": 186623573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.866918,39.377212,-93.866918,39.377212",
     "geom:latitude":39.377212,
     "geom:longitude":-93.866918,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15773 White House Rd",
     "sg:city":"Hardin",
     "sg:classifiers":[
@@ -53,16 +54,22 @@
         }
     ],
     "wof:id":186623573,
-    "wof:lastmodified":1449052241,
+    "wof:lastmodified":1466622236,
     "wof:name":"Dean Wall",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "ranch"
     ]
 },
-  "bbox": [-93.866918,39.377212,-93.866918,39.377212],
+  "bbox": [
+    -93.866918,
+    39.377212,
+    -93.866918,
+    39.377212
+],
   "geometry": {"coordinates":[-93.866918,39.377212],"type":"Point"}
 }

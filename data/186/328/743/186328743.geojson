@@ -2,13 +2,14 @@
   "id": 186328743,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.255402,38.618599,-90.255402,38.618599",
     "geom:latitude":38.618599,
     "geom:longitude":-90.255402,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"Forest Park",
     "sg:city":"Saint Louis",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186328743,
-    "wof:lastmodified":1449051948,
+    "wof:lastmodified":1466622316,
     "wof:name":"Municipal Theatre Association of St Louis",
     "wof:parent_id":85873657,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "performing"
     ]
 },
-  "bbox": [-90.255402,38.618599,-90.255402,38.618599],
+  "bbox": [
+    -90.255402,
+    38.618599,
+    -90.255402,
+    38.618599
+],
   "geometry": {"coordinates":[-90.255402,38.618599],"type":"Point"}
 }

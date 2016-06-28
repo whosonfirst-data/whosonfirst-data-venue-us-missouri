@@ -2,13 +2,14 @@
   "id": 202545601,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.490961,36.870498,-94.490961,36.870498",
     "geom:latitude":36.870498,
     "geom:longitude":-94.490961,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8327 Linden Dr",
     "sg:city":"Neosho",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":202545601,
-    "wof:lastmodified":1449060723,
+    "wof:lastmodified":1466622212,
     "wof:name":"Goad's Roofing",
     "wof:parent_id":85814333,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "contractor"
     ]
 },
-  "bbox": [-94.490961,36.870498,-94.490961,36.870498],
+  "bbox": [
+    -94.490961,
+    36.870498,
+    -94.490961,
+    36.870498
+],
   "geometry": {"coordinates":[-94.490961,36.870498],"type":"Point"}
 }

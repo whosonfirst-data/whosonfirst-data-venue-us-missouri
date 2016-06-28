@@ -2,13 +2,14 @@
   "id": 202467589,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.073968,39.785842,-93.073968,39.785842",
     "geom:latitude":39.785842,
     "geom:longitude":-93.073968,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"119 E Boston St",
     "sg:city":"Brookfield",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202467589,
-    "wof:lastmodified":1449062111,
+    "wof:lastmodified":1466622183,
     "wof:name":"Custom Glass Of Brookfield",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "glass-auto"
     ]
 },
-  "bbox": [-93.073968,39.785842,-93.073968,39.785842],
-  "geometry": {"coordinates":[-93.073968,39.785842],"type":"Point"}
+  "bbox": [
+    -93.073968,
+    39.785842,
+    -93.073968,
+    39.785842
+],
+  "geometry": {"coordinates":[-93.07396799999999,39.785842],"type":"Point"}
 }

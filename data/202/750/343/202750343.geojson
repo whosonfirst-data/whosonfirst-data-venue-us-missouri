@@ -2,13 +2,14 @@
   "id": 202750343,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.233988,36.66323,-93.233988,36.66323",
     "geom:latitude":36.66323,
     "geom:longitude":-93.233988,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1065 State Highway 248",
     "sg:city":"Branson",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202750343,
-    "wof:lastmodified":1449061662,
+    "wof:lastmodified":1466622304,
     "wof:name":"Branson Mediquick",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-93.233988,36.66323,-93.233988,36.66323],
+  "bbox": [
+    -93.233988,
+    36.66323,
+    -93.233988,
+    36.66323
+],
   "geometry": {"coordinates":[-93.233988,36.66323],"type":"Point"}
 }

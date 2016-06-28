@@ -2,13 +2,14 @@
   "id": 202418473,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.445836,39.00798,-94.445836,39.00798",
     "geom:latitude":39.00798,
     "geom:longitude":-94.445836,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11541 E 63rd St",
     "sg:city":"Raytown",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":202418473,
-    "wof:lastmodified":1449062105,
+    "wof:lastmodified":1466622167,
     "wof:name":"Carlitos Mexican Food",
     "wof:parent_id":85871965,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "mexican"
     ]
 },
-  "bbox": [-94.445836,39.00798,-94.445836,39.00798],
+  "bbox": [
+    -94.445836,
+    39.00798,
+    -94.445836,
+    39.00798
+],
   "geometry": {"coordinates":[-94.445836,39.00798],"type":"Point"}
 }

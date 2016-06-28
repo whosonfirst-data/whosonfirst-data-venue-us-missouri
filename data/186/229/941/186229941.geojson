@@ -2,13 +2,14 @@
   "id": 186229941,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.19635,38.631664,-90.19635,38.631664",
     "geom:latitude":38.631664,
     "geom:longitude":-90.19635,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1130 Washington Ave",
     "sg:city":"St Louis",
     "sg:classifiers":[
@@ -54,14 +55,20 @@
         }
     ],
     "wof:id":186229941,
-    "wof:lastmodified":1449052469,
+    "wof:lastmodified":1466622253,
     "wof:name":"Shiver Vodka Bar and Champagne Lounge",
     "wof:parent_id":85873643,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.19635,38.631664,-90.19635,38.631664],
+  "bbox": [
+    -90.19635,
+    38.631664,
+    -90.19635,
+    38.631664
+],
   "geometry": {"coordinates":[-90.19635,38.631664],"type":"Point"}
 }

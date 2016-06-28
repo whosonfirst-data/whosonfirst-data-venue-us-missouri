@@ -2,13 +2,14 @@
   "id": 186618265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.54081,38.895061,-94.54081,38.895061",
     "geom:latitude":38.895061,
     "geom:longitude":-94.54081,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"301 Duck Rd",
     "sg:city":"Grandview",
     "sg:classifiers":[
@@ -91,10 +92,11 @@
         }
     ],
     "wof:id":186618265,
-    "wof:lastmodified":1449052034,
+    "wof:lastmodified":1466622211,
     "wof:name":"United Heating Cooling & Plumbing",
     "wof:parent_id":85824757,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -115,6 +117,11 @@
         "furnaces-heating"
     ]
 },
-  "bbox": [-94.54081,38.895061,-94.54081,38.895061],
-  "geometry": {"coordinates":[-94.54081,38.895061],"type":"Point"}
+  "bbox": [
+    -94.54081,
+    38.895061,
+    -94.54081,
+    38.895061
+],
+  "geometry": {"coordinates":[-94.54080999999999,38.895061],"type":"Point"}
 }

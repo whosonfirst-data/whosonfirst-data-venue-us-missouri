@@ -2,13 +2,14 @@
   "id": 202424169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.683708,39.189789,-94.683708,39.189789",
     "geom:latitude":39.189789,
     "geom:longitude":-94.683708,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 Main St",
     "sg:city":"Parkville",
     "sg:classifiers":[
@@ -69,10 +70,11 @@
         }
     ],
     "wof:id":202424169,
-    "wof:lastmodified":1449062487,
+    "wof:lastmodified":1466622168,
     "wof:name":"Producers Choice Inc",
     "wof:parent_id":85840629,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -87,6 +89,11 @@
         "pension"
     ]
 },
-  "bbox": [-94.683708,39.189789,-94.683708,39.189789],
+  "bbox": [
+    -94.683708,
+    39.189789,
+    -94.683708,
+    39.189789
+],
   "geometry": {"coordinates":[-94.683708,39.189789],"type":"Point"}
 }

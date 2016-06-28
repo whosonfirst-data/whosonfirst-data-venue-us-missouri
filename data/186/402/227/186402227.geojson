@@ -2,13 +2,14 @@
   "id": 186402227,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.300464,38.64956,-90.300464,38.64956",
     "geom:latitude":38.64956,
     "geom:longitude":-90.300464,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"276 N Skinker Blvd",
     "sg:city":"Saint Louis",
     "sg:classifiers":[
@@ -57,16 +58,22 @@
         }
     ],
     "wof:id":186402227,
-    "wof:lastmodified":1449051245,
+    "wof:lastmodified":1466622417,
     "wof:name":"Kayak's Coffee & Provisions",
     "wof:parent_id":85873631,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "sandwich"
     ]
 },
-  "bbox": [-90.300464,38.64956,-90.300464,38.64956],
-  "geometry": {"coordinates":[-90.300464,38.64956],"type":"Point"}
+  "bbox": [
+    -90.300464,
+    38.64956,
+    -90.300464,
+    38.64956
+],
+  "geometry": {"coordinates":[-90.30046400000001,38.64956],"type":"Point"}
 }

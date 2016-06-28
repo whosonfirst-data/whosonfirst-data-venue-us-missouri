@@ -2,13 +2,14 @@
   "id": 186362953,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.320198,38.627499,-90.320198,38.627499",
     "geom:latitude":38.627499,
     "geom:longitude":-90.320198,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1416 S Big Bend Blvd",
     "sg:city":"Saint Louis",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186362953,
-    "wof:lastmodified":1449052108,
+    "wof:lastmodified":1466622333,
     "wof:name":"Brunetti Language School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "language"
     ]
 },
-  "bbox": [-90.320198,38.627499,-90.320198,38.627499],
+  "bbox": [
+    -90.320198,
+    38.627499,
+    -90.320198,
+    38.627499
+],
   "geometry": {"coordinates":[-90.320198,38.627499],"type":"Point"}
 }

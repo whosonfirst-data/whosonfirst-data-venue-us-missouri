@@ -2,13 +2,14 @@
   "id": 202689533,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.25712,38.148705,-91.25712,38.148705",
     "geom:latitude":38.148705,
     "geom:longitude":-91.25712,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"145 Old Springfield Rd",
     "sg:city":"Bourbon",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202689533,
-    "wof:lastmodified":1449062234,
+    "wof:lastmodified":1466622413,
     "wof:name":"Skweeky Kleen Windows",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "window"
     ]
 },
-  "bbox": [-91.25712,38.148705,-91.25712,38.148705],
+  "bbox": [
+    -91.25712,
+    38.148705,
+    -91.25712,
+    38.148705
+],
   "geometry": {"coordinates":[-91.25712,38.148705],"type":"Point"}
 }

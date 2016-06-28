@@ -2,13 +2,14 @@
   "id": 186422401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.293297,38.627399,-90.293297,38.627399",
     "geom:latitude":38.627399,
     "geom:longitude":-90.293297,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6400 W Park Ave",
     "sg:city":"Saint Louis",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186422401,
-    "wof:lastmodified":1449050447,
+    "wof:lastmodified":1466622358,
     "wof:name":"Patrick's Dogtown Liquors",
     "wof:parent_id":85873705,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "wine"
     ]
 },
-  "bbox": [-90.293297,38.627399,-90.293297,38.627399],
+  "bbox": [
+    -90.293297,
+    38.627399,
+    -90.293297,
+    38.627399
+],
   "geometry": {"coordinates":[-90.293297,38.627399],"type":"Point"}
 }

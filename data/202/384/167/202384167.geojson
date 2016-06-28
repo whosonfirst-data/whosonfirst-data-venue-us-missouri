@@ -2,13 +2,14 @@
   "id": 202384167,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.419292,39.238932,-94.419292,39.238932",
     "geom:latitude":39.238932,
     "geom:longitude":-94.419292,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"117 E Brown St",
     "sg:city":"Liberty",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":202384167,
-    "wof:lastmodified":1449060417,
+    "wof:lastmodified":1466622132,
     "wof:name":"Marcys Cleaning",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "house"
     ]
 },
-  "bbox": [-94.419292,39.238932,-94.419292,39.238932],
+  "bbox": [
+    -94.419292,
+    39.238932,
+    -94.419292,
+    39.238932
+],
   "geometry": {"coordinates":[-94.419292,39.238932],"type":"Point"}
 }

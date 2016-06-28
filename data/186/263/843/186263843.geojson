@@ -2,13 +2,14 @@
   "id": 186263843,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.199536,38.626499,-90.199536,38.626499",
     "geom:latitude":38.626499,
     "geom:longitude":-90.199536,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1200 Market St City Hall, Room 230",
     "sg:city":"St Louis",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":186263843,
-    "wof:lastmodified":1449052955,
+    "wof:lastmodified":1466622265,
     "wof:name":"City of St. Louis Board of Aldermen",
     "wof:parent_id":85873645,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.199536,38.626499,-90.199536,38.626499],
-  "geometry": {"coordinates":[-90.199536,38.626499],"type":"Point"}
+  "bbox": [
+    -90.199536,
+    38.626499,
+    -90.199536,
+    38.626499
+],
+  "geometry": {"coordinates":[-90.19953599999999,38.626499],"type":"Point"}
 }

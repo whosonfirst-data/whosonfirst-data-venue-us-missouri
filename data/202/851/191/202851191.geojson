@@ -2,13 +2,14 @@
   "id": 202851191,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.205193,37.077171,-93.205193,37.077171",
     "geom:latitude":37.077171,
     "geom:longitude":-93.205193,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1129 Bluestem Rd",
     "sg:city":"Ozark",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202851191,
-    "wof:lastmodified":1449061757,
+    "wof:lastmodified":1466622348,
     "wof:name":"Iron Horse Agri Services",
     "wof:parent_id":85809751,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "bureau"
     ]
 },
-  "bbox": [-93.205193,37.077171,-93.205193,37.077171],
-  "geometry": {"coordinates":[-93.205193,37.077171],"type":"Point"}
+  "bbox": [
+    -93.205193,
+    37.077171,
+    -93.205193,
+    37.077171
+],
+  "geometry": {"coordinates":[-93.20519299999999,37.077171],"type":"Point"}
 }

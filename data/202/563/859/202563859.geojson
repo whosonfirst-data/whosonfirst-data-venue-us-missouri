@@ -2,13 +2,14 @@
   "id": 202563859,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.7451,38.008358,-92.7451,38.008358",
     "geom:latitude":38.008358,
     "geom:longitude":-92.7451,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"34 Camden Ct SW",
     "sg:city":"Camdenton",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":202563859,
-    "wof:lastmodified":1449060146,
+    "wof:lastmodified":1466622218,
     "wof:name":"W Johnson Contracting Inc",
     "wof:parent_id":85813457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "contractor"
     ]
 },
-  "bbox": [-92.7451,38.008358,-92.7451,38.008358],
-  "geometry": {"coordinates":[-92.7451,38.008358],"type":"Point"}
+  "bbox": [
+    -92.7451,
+    38.008358,
+    -92.7451,
+    38.008358
+],
+  "geometry": {"coordinates":[-92.74509999999999,38.008358],"type":"Point"}
 }

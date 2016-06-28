@@ -2,13 +2,14 @@
   "id": 186149449,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.314338,38.780486,-90.314338,38.780486",
     "geom:latitude":38.780486,
     "geom:longitude":-90.314338,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1955 Washington St",
     "sg:city":"Florissant",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186149449,
-    "wof:lastmodified":1449050265,
+    "wof:lastmodified":1466622178,
     "wof:name":"B & B Heating & Cooling Inc",
     "wof:parent_id":85813019,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "air conditioning"
     ]
 },
-  "bbox": [-90.314338,38.780486,-90.314338,38.780486],
-  "geometry": {"coordinates":[-90.314338,38.780486],"type":"Point"}
+  "bbox": [
+    -90.314338,
+    38.780486,
+    -90.314338,
+    38.780486
+],
+  "geometry": {"coordinates":[-90.31433800000001,38.780486],"type":"Point"}
 }

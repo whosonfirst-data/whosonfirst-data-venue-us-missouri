@@ -2,13 +2,14 @@
   "id": 202733239,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.41045,37.613596,-93.41045,37.613596",
     "geom:latitude":37.613596,
     "geom:longitude":-93.41045,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"206 E Jackson St",
     "sg:city":"Bolivar",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202733239,
-    "wof:lastmodified":1449060456,
+    "wof:lastmodified":1466622290,
     "wof:name":"James M Clampitt Attorney",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "practice"
     ]
 },
-  "bbox": [-93.41045,37.613596,-93.41045,37.613596],
+  "bbox": [
+    -93.41045,
+    37.613596,
+    -93.41045,
+    37.613596
+],
   "geometry": {"coordinates":[-93.41045,37.613596],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186305575,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.232539,38.641184,-90.232539,38.641184",
     "geom:latitude":38.641184,
     "geom:longitude":-90.232539,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3701 Grandel Sq",
     "sg:city":"Saint Louis",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":186305575,
-    "wof:lastmodified":1449050804,
+    "wof:lastmodified":1466622296,
     "wof:name":"Discrimination",
     "wof:parent_id":85873637,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "day"
     ]
 },
-  "bbox": [-90.232539,38.641184,-90.232539,38.641184],
+  "bbox": [
+    -90.232539,
+    38.641184,
+    -90.232539,
+    38.641184
+],
   "geometry": {"coordinates":[-90.232539,38.641184],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186642507,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.320716,39.38628,-94.320716,39.38628",
     "geom:latitude":39.38628,
     "geom:longitude":-94.320716,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"21422 NE 162nd St",
     "sg:city":"Kearney",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":186642507,
-    "wof:lastmodified":1449050418,
+    "wof:lastmodified":1466622294,
     "wof:name":"Precision Auto Body",
     "wof:parent_id":85812855,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "automobile"
     ]
 },
-  "bbox": [-94.320716,39.38628,-94.320716,39.38628],
+  "bbox": [
+    -94.320716,
+    39.38628,
+    -94.320716,
+    39.38628
+],
   "geometry": {"coordinates":[-94.320716,39.38628],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202546011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.480595,36.938902,-94.480595,36.938902",
     "geom:latitude":36.938902,
     "geom:longitude":-94.480595,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9018 Holly Rd",
     "sg:city":"Neosho",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":202546011,
-    "wof:lastmodified":1449060107,
+    "wof:lastmodified":1466622211,
     "wof:name":"America S Tree Service",
     "wof:parent_id":85821247,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "removal"
     ]
 },
-  "bbox": [-94.480595,36.938902,-94.480595,36.938902],
-  "geometry": {"coordinates":[-94.480595,36.938902],"type":"Point"}
+  "bbox": [
+    -94.480595,
+    36.938902,
+    -94.480595,
+    36.938902
+],
+  "geometry": {"coordinates":[-94.48059499999999,36.938902],"type":"Point"}
 }

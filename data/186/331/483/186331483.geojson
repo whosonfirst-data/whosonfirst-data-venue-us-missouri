@@ -2,13 +2,14 @@
   "id": 186331483,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.263203,38.638279,-90.263203,38.638279",
     "geom:latitude":38.638279,
     "geom:longitude":-90.263203,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4921 Parkview Pl",
     "sg:city":"Saint Louis",
     "sg:classifiers":[
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":186331483,
-    "wof:lastmodified":1449051995,
+    "wof:lastmodified":1466622319,
     "wof:name":"Goldfarb Charles A MD",
     "wof:parent_id":85867031,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.263203,38.638279,-90.263203,38.638279],
+  "bbox": [
+    -90.263203,
+    38.638279,
+    -90.263203,
+    38.638279
+],
   "geometry": {"coordinates":[-90.263203,38.638279],"type":"Point"}
 }

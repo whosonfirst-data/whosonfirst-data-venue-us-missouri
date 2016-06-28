@@ -2,13 +2,14 @@
   "id": 186426013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.325699,38.6022,-90.325699,38.6022",
     "geom:latitude":38.6022,
     "geom:longitude":-90.325699,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3604 S Big Bend Blvd",
     "sg:city":"Saint Louis",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186426013,
-    "wof:lastmodified":1449050973,
+    "wof:lastmodified":1466622418,
     "wof:name":"Mc Jac Electric Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "electrician"
     ]
 },
-  "bbox": [-90.325699,38.6022,-90.325699,38.6022],
+  "bbox": [
+    -90.325699,
+    38.6022,
+    -90.325699,
+    38.6022
+],
   "geometry": {"coordinates":[-90.325699,38.6022],"type":"Point"}
 }

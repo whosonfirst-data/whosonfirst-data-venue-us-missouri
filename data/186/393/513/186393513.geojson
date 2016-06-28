@@ -2,13 +2,14 @@
   "id": 186393513,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.304802,38.723801,-90.304802,38.723801",
     "geom:latitude":38.723801,
     "geom:longitude":-90.304802,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1610 S Florissant Rd",
     "sg:city":"Saint Louis",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186393513,
-    "wof:lastmodified":1449051229,
+    "wof:lastmodified":1466622345,
     "wof:name":"Church of the Living God the Temple Number One",
     "wof:parent_id":85859027,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.304802,38.723801,-90.304802,38.723801],
+  "bbox": [
+    -90.304802,
+    38.723801,
+    -90.304802,
+    38.723801
+],
   "geometry": {"coordinates":[-90.304802,38.723801],"type":"Point"}
 }

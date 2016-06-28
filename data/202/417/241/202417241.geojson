@@ -2,13 +2,14 @@
   "id": 202417241,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.463539,39.005951,-94.463539,39.005951",
     "geom:latitude":39.005951,
     "geom:longitude":-94.463539,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5885 Raytown Rd",
     "sg:city":"Raytown",
     "sg:classifiers":[
@@ -66,10 +67,11 @@
         }
     ],
     "wof:id":202417241,
-    "wof:lastmodified":1449061149,
+    "wof:lastmodified":1466622165,
     "wof:name":"F 4 Industrial",
     "wof:parent_id":85871965,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -81,6 +83,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-94.463539,39.005951,-94.463539,39.005951],
+  "bbox": [
+    -94.463539,
+    39.005951,
+    -94.463539,
+    39.005951
+],
   "geometry": {"coordinates":[-94.463539,39.005951],"type":"Point"}
 }

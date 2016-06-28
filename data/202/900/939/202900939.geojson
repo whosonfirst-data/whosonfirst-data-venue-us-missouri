@@ -2,13 +2,14 @@
   "id": 202900939,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.282408,37.13824,-93.282408,37.13824",
     "geom:latitude":37.13824,
     "geom:longitude":-93.282408,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"909 E Republic Rd Ste. E200",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -67,10 +68,11 @@
         }
     ],
     "wof:id":202900939,
-    "wof:lastmodified":1449061209,
+    "wof:lastmodified":1466622375,
     "wof:name":"Audiology & Hearing Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -83,6 +85,11 @@
         "audiologists"
     ]
 },
-  "bbox": [-93.282408,37.13824,-93.282408,37.13824],
+  "bbox": [
+    -93.282408,
+    37.13824,
+    -93.282408,
+    37.13824
+],
   "geometry": {"coordinates":[-93.282408,37.13824],"type":"Point"}
 }

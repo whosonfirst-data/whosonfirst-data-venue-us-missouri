@@ -2,13 +2,14 @@
   "id": 202893679,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.273073,37.165575,-93.273073,37.165575",
     "geom:latitude":37.165575,
     "geom:longitude":-93.273073,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1305 E Gretna St",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":202893679,
-    "wof:lastmodified":1449062188,
+    "wof:lastmodified":1466622371,
     "wof:name":"Jack Hagen Painting Co",
     "wof:parent_id":85881149,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "contractor"
     ]
 },
-  "bbox": [-93.273073,37.165575,-93.273073,37.165575],
+  "bbox": [
+    -93.273073,
+    37.165575,
+    -93.273073,
+    37.165575
+],
   "geometry": {"coordinates":[-93.273073,37.165575],"type":"Point"}
 }

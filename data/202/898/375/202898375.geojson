@@ -2,13 +2,14 @@
   "id": 202898375,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.29644,37.211904,-93.29644,37.211904",
     "geom:latitude":37.211904,
     "geom:longitude":-93.29644,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"419 N Main Ave",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":202898375,
-    "wof:lastmodified":1449060056,
+    "wof:lastmodified":1466622371,
     "wof:name":"Melton Electric Co",
     "wof:parent_id":85881163,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "electric"
     ]
 },
-  "bbox": [-93.29644,37.211904,-93.29644,37.211904],
+  "bbox": [
+    -93.29644,
+    37.211904,
+    -93.29644,
+    37.211904
+],
   "geometry": {"coordinates":[-93.29644,37.211904],"type":"Point"}
 }

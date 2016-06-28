@@ -2,13 +2,14 @@
   "id": 202416437,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.467557,39.008324,-94.467557,39.008324",
     "geom:latitude":39.008324,
     "geom:longitude":-94.467557,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6303 Evanston Ave",
     "sg:city":"Raytown",
     "sg:classifiers":[
@@ -57,16 +58,22 @@
         }
     ],
     "wof:id":202416437,
-    "wof:lastmodified":1449061270,
+    "wof:lastmodified":1466622165,
     "wof:name":"Mercy & Truth Medical Missions, Inc.",
     "wof:parent_id":85871965,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-94.467557,39.008324,-94.467557,39.008324],
+  "bbox": [
+    -94.467557,
+    39.008324,
+    -94.467557,
+    39.008324
+],
   "geometry": {"coordinates":[-94.467557,39.008324],"type":"Point"}
 }

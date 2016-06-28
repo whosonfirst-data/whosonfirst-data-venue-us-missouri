@@ -2,13 +2,14 @@
   "id": 186403807,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.324501,38.6637,-90.324501,38.6637",
     "geom:latitude":38.6637,
     "geom:longitude":-90.324501,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8100 Page Ave Rear",
     "sg:city":"Saint Louis",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186403807,
-    "wof:lastmodified":1449052642,
+    "wof:lastmodified":1466622350,
     "wof:name":"Discount Tires",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tire"
     ]
 },
-  "bbox": [-90.324501,38.6637,-90.324501,38.6637],
+  "bbox": [
+    -90.324501,
+    38.6637,
+    -90.324501,
+    38.6637
+],
   "geometry": {"coordinates":[-90.324501,38.6637],"type":"Point"}
 }

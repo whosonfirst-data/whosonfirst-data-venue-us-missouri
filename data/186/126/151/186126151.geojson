@@ -2,13 +2,14 @@
   "id": 186126151,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.655717,38.504786,-90.655717,38.504786",
     "geom:latitude":38.504786,
     "geom:longitude":-90.655717,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"183 Eureka Towne Center Dr",
     "sg:city":"Eureka",
     "sg:classifiers":[
@@ -64,10 +65,11 @@
         }
     ],
     "wof:id":186126151,
-    "wof:lastmodified":1449051372,
+    "wof:lastmodified":1466622157,
     "wof:name":"Mr Goodcents Subs & Pastas",
     "wof:parent_id":85809151,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -76,6 +78,11 @@
         "sandwich"
     ]
 },
-  "bbox": [-90.655717,38.504786,-90.655717,38.504786],
+  "bbox": [
+    -90.655717,
+    38.504786,
+    -90.655717,
+    38.504786
+],
   "geometry": {"coordinates":[-90.655717,38.504786],"type":"Point"}
 }

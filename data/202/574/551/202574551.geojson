@@ -2,13 +2,14 @@
   "id": 202574551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.427498,38.70643,-91.427498,38.70643",
     "geom:latitude":38.70643,
     "geom:longitude":-91.427498,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"231 E 1st St",
     "sg:city":"Hermann",
     "sg:classifiers":[
@@ -55,16 +56,22 @@
         }
     ],
     "wof:id":202574551,
-    "wof:lastmodified":1449060093,
+    "wof:lastmodified":1466622218,
     "wof:name":"Mj's Bar & Grill",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tavern"
     ]
 },
-  "bbox": [-91.427498,38.70643,-91.427498,38.70643],
+  "bbox": [
+    -91.427498,
+    38.70643,
+    -91.427498,
+    38.70643
+],
   "geometry": {"coordinates":[-91.427498,38.70643],"type":"Point"}
 }

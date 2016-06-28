@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102368905,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.408614,36.512589,-93.408614,36.512589",
     "geom:latitude":36.512589,
     "geom:longitude":-93.408614,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1836 State Hwy 13",
     "sg:city":"Blue Eye",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":102368905,
-    "wof:lastmodified":1449068346,
+    "wof:lastmodified":1466622394,
     "wof:name":"Westside Grocery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.408614,36.512589,-93.408614,36.512589],
+  "bbox": [
+    -93.408614,
+    36.512589,
+    -93.408614,
+    36.512589
+],
   "geometry": {"coordinates":[-93.408614,36.512589],"type":"Point"}
 }

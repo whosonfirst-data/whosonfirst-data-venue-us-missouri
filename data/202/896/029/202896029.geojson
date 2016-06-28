@@ -2,13 +2,14 @@
   "id": 202896029,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.255683,37.1754,-93.255683,37.1754",
     "geom:latitude":37.1754,
     "geom:longitude":-93.255683,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2133 S Link Ave",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":202896029,
-    "wof:lastmodified":1449061032,
+    "wof:lastmodified":1466622367,
     "wof:name":"Spartan & Associates",
     "wof:parent_id":85829759,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "management"
     ]
 },
-  "bbox": [-93.255683,37.1754,-93.255683,37.1754],
+  "bbox": [
+    -93.255683,
+    37.1754,
+    -93.255683,
+    37.1754
+],
   "geometry": {"coordinates":[-93.255683,37.1754],"type":"Point"}
 }

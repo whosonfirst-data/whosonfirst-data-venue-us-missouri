@@ -2,13 +2,14 @@
   "id": 169629055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.571728,39.087412,-94.571728,39.087412",
     "geom:latitude":39.087412,
     "geom:longitude":-94.571728,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"900 E 21 St",
     "sg:city":"Kansas City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169629055,
-    "wof:lastmodified":1449035182,
+    "wof:lastmodified":1466622116,
     "wof:name":"Burge Ice Svc",
     "wof:parent_id":85872019,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "ice"
     ]
 },
-  "bbox": [-94.571728,39.087412,-94.571728,39.087412],
-  "geometry": {"coordinates":[-94.571728,39.087412],"type":"Point"}
+  "bbox": [
+    -94.571728,
+    39.087412,
+    -94.571728,
+    39.087412
+],
+  "geometry": {"coordinates":[-94.57172799999999,39.087412],"type":"Point"}
 }

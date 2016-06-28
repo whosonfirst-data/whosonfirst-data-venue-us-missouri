@@ -2,13 +2,14 @@
   "id": 202613027,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.733247,38.972805,-92.733247,38.972805",
     "geom:latitude":38.972805,
     "geom:longitude":-92.733247,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1200 Locust St",
     "sg:city":"Boonville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202613027,
-    "wof:lastmodified":1449061304,
+    "wof:lastmodified":1466622239,
     "wof:name":"City Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "village"
     ]
 },
-  "bbox": [-92.733247,38.972805,-92.733247,38.972805],
-  "geometry": {"coordinates":[-92.733247,38.972805],"type":"Point"}
+  "bbox": [
+    -92.733247,
+    38.972805,
+    -92.733247,
+    38.972805
+],
+  "geometry": {"coordinates":[-92.73324700000001,38.972805],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202564069,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.771232,38.059045,-92.771232,38.059045",
     "geom:latitude":38.059045,
     "geom:longitude":-92.771232,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"53 Crown Dr",
     "sg:city":"Camdenton",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":202564069,
-    "wof:lastmodified":1449062498,
+    "wof:lastmodified":1466622408,
     "wof:name":"Dave Osment Painting Dba",
     "wof:parent_id":85813457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "contractor"
     ]
 },
-  "bbox": [-92.771232,38.059045,-92.771232,38.059045],
+  "bbox": [
+    -92.771232,
+    38.059045,
+    -92.771232,
+    38.059045
+],
   "geometry": {"coordinates":[-92.771232,38.059045],"type":"Point"}
 }

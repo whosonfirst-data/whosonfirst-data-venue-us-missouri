@@ -2,13 +2,14 @@
   "id": 202382693,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.451881,39.251331,-94.451881,39.251331",
     "geom:latitude":39.251331,
     "geom:longitude":-94.451881,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2100 Kara Ct",
     "sg:city":"Liberty",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":202382693,
-    "wof:lastmodified":1449060792,
+    "wof:lastmodified":1466622135,
     "wof:name":"Steve's Auto Repair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -77,6 +79,11 @@
         "air conditioning"
     ]
 },
-  "bbox": [-94.451881,39.251331,-94.451881,39.251331],
+  "bbox": [
+    -94.451881,
+    39.251331,
+    -94.451881,
+    39.251331
+],
   "geometry": {"coordinates":[-94.451881,39.251331],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202580381,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.524016,38.334387,-91.524016,38.334387",
     "geom:latitude":38.334387,
     "geom:longitude":-91.524016,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1014 W Highway 28 Ste A",
     "sg:city":"Owensville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202580381,
-    "wof:lastmodified":1449061798,
+    "wof:lastmodified":1466622218,
     "wof:name":"Ray's Television",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "store"
     ]
 },
-  "bbox": [-91.524016,38.334387,-91.524016,38.334387],
+  "bbox": [
+    -91.524016,
+    38.334387,
+    -91.524016,
+    38.334387
+],
   "geometry": {"coordinates":[-91.524016,38.334387],"type":"Point"}
 }

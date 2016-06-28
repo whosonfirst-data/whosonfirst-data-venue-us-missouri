@@ -2,13 +2,14 @@
   "id": 202697051,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.951373,37.327177,-91.951373,37.327177",
     "geom:latitude":37.327177,
     "geom:longitude":-91.951373,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1476 S Sam Houston Blvd",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -67,10 +68,11 @@
         }
     ],
     "wof:id":202697051,
-    "wof:lastmodified":1449061697,
+    "wof:lastmodified":1466622413,
     "wof:name":"Orscheln Farm & Home",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -79,6 +81,11 @@
         "baling"
     ]
 },
-  "bbox": [-91.951373,37.327177,-91.951373,37.327177],
+  "bbox": [
+    -91.951373,
+    37.327177,
+    -91.951373,
+    37.327177
+],
   "geometry": {"coordinates":[-91.951373,37.327177],"type":"Point"}
 }

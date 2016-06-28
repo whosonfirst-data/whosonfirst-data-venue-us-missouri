@@ -2,13 +2,14 @@
   "id": 202383983,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.421309,39.246089,-94.421309,39.246089",
     "geom:latitude":39.246089,
     "geom:longitude":-94.421309,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"105 W Kansas St",
     "sg:city":"Liberty",
     "sg:classifiers":[
@@ -66,10 +67,11 @@
         }
     ],
     "wof:id":202383983,
-    "wof:lastmodified":1449061188,
+    "wof:lastmodified":1466622138,
     "wof:name":"Deborah J. Crego, Attorney at Law",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -86,6 +88,11 @@
         "dwi"
     ]
 },
-  "bbox": [-94.421309,39.246089,-94.421309,39.246089],
-  "geometry": {"coordinates":[-94.421309,39.246089],"type":"Point"}
+  "bbox": [
+    -94.421309,
+    39.246089,
+    -94.421309,
+    39.246089
+],
+  "geometry": {"coordinates":[-94.42130899999999,39.246089],"type":"Point"}
 }

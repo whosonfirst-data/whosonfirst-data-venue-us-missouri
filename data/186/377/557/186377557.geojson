@@ -2,13 +2,14 @@
   "id": 186377557,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.234413,38.605672,-90.234413,38.605672",
     "geom:latitude":38.605672,
     "geom:longitude":-90.234413,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2712 S Compton Ave",
     "sg:city":"Saint Louis",
     "sg:classifiers":[
@@ -57,16 +58,22 @@
         }
     ],
     "wof:id":186377557,
-    "wof:lastmodified":1449051390,
+    "wof:lastmodified":1466622339,
     "wof:name":"Forget-me-not Bed and Breakfast",
     "wof:parent_id":85873677,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "local"
     ]
 },
-  "bbox": [-90.234413,38.605672,-90.234413,38.605672],
+  "bbox": [
+    -90.234413,
+    38.605672,
+    -90.234413,
+    38.605672
+],
   "geometry": {"coordinates":[-90.234413,38.605672],"type":"Point"}
 }

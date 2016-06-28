@@ -2,13 +2,14 @@
   "id": 202893875,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.261961,37.162821,-93.261961,37.162821",
     "geom:latitude":37.162821,
     "geom:longitude":-93.261961,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2825 S Glenstone Ave",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -64,10 +65,11 @@
         }
     ],
     "wof:id":202893875,
-    "wof:lastmodified":1449062188,
+    "wof:lastmodified":1466622373,
     "wof:name":"H&R Block",
     "wof:parent_id":85881149,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -81,6 +83,11 @@
         "bookkeeping"
     ]
 },
-  "bbox": [-93.261961,37.162821,-93.261961,37.162821],
+  "bbox": [
+    -93.261961,
+    37.162821,
+    -93.261961,
+    37.162821
+],
   "geometry": {"coordinates":[-93.261961,37.162821],"type":"Point"}
 }

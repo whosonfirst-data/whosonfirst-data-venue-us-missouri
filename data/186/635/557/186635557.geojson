@@ -2,13 +2,14 @@
   "id": 186635557,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.410478,39.044463,-94.410478,39.044463",
     "geom:latitude":39.044463,
     "geom:longitude":-94.410478,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14330 E 42nd St S",
     "sg:city":"Independence",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186635557,
-    "wof:lastmodified":1449051529,
+    "wof:lastmodified":1466622267,
     "wof:name":"Fears Schnell & Assoc Cpa",
     "wof:parent_id":85847737,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "accountants-certified"
     ]
 },
-  "bbox": [-94.410478,39.044463,-94.410478,39.044463],
+  "bbox": [
+    -94.410478,
+    39.044463,
+    -94.410478,
+    39.044463
+],
   "geometry": {"coordinates":[-94.410478,39.044463],"type":"Point"}
 }

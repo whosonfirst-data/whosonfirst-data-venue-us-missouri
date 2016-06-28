@@ -2,13 +2,14 @@
   "id": 186139715,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.395186,38.212747,-90.395186,38.212747",
     "geom:latitude":38.212747,
     "geom:longitude":-90.395186,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"363 Festus Centre Dr",
     "sg:city":"Festus",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186139715,
-    "wof:lastmodified":1449050496,
+    "wof:lastmodified":1466622171,
     "wof:name":"Midwest Regional Bank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "commercial"
     ]
 },
-  "bbox": [-90.395186,38.212747,-90.395186,38.212747],
+  "bbox": [
+    -90.395186,
+    38.212747,
+    -90.395186,
+    38.212747
+],
   "geometry": {"coordinates":[-90.395186,38.212747],"type":"Point"}
 }

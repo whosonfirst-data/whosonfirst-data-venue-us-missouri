@@ -2,13 +2,14 @@
   "id": 202895485,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.277505,37.158299,-93.277505,37.158299",
     "geom:latitude":37.158299,
     "geom:longitude":-93.277505,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3045 S National Ave",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202895485,
-    "wof:lastmodified":1449061190,
+    "wof:lastmodified":1466622369,
     "wof:name":"Functional Individualized Training, Inc.",
     "wof:parent_id":85881149,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "treatment"
     ]
 },
-  "bbox": [-93.277505,37.158299,-93.277505,37.158299],
+  "bbox": [
+    -93.277505,
+    37.158299,
+    -93.277505,
+    37.158299
+],
   "geometry": {"coordinates":[-93.277505,37.158299],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202816129,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.236045,36.546187,-93.236045,36.546187",
     "geom:latitude":36.546187,
     "geom:longitude":-93.236045,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"120 Nathan Dr",
     "sg:city":"Hollister",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":202816129,
-    "wof:lastmodified":1449061595,
+    "wof:lastmodified":1466622334,
     "wof:name":"Jerry Ozee D D S",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.236045,36.546187,-93.236045,36.546187],
+  "bbox": [
+    -93.236045,
+    36.546187,
+    -93.236045,
+    36.546187
+],
   "geometry": {"coordinates":[-93.236045,36.546187],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202852247,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.206686,37.002708,-93.206686,37.002708",
     "geom:latitude":37.002708,
     "geom:longitude":-93.206686,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1810 Selmore Rd",
     "sg:city":"Ozark",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202852247,
-    "wof:lastmodified":1449062231,
+    "wof:lastmodified":1466622348,
     "wof:name":"Missouri Department Of Transportation",
     "wof:parent_id":85809751,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "government-state"
     ]
 },
-  "bbox": [-93.206686,37.002708,-93.206686,37.002708],
+  "bbox": [
+    -93.206686,
+    37.002708,
+    -93.206686,
+    37.002708
+],
   "geometry": {"coordinates":[-93.206686,37.002708],"type":"Point"}
 }

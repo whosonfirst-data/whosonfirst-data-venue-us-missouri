@@ -2,13 +2,14 @@
   "id": 186368035,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.311996,38.633499,-90.311996,38.633499",
     "geom:latitude":38.633499,
     "geom:longitude":-90.311996,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1027 Bellevue Ave Ste 25",
     "sg:city":"Saint Louis",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186368035,
-    "wof:lastmodified":1449051020,
+    "wof:lastmodified":1466622416,
     "wof:name":"Zehnder Kenneth W MD",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "orthopedist"
     ]
 },
-  "bbox": [-90.311996,38.633499,-90.311996,38.633499],
-  "geometry": {"coordinates":[-90.311996,38.633499],"type":"Point"}
+  "bbox": [
+    -90.311996,
+    38.633499,
+    -90.311996,
+    38.633499
+],
+  "geometry": {"coordinates":[-90.31199599999999,38.633499],"type":"Point"}
 }

@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102305027",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.384511,36.538683,-93.384511,36.538683",
     "geom:latitude":36.538683,
     "geom:longitude":-93.384511,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"176 Anderson Ln",
     "sg:city":"Blue Eye",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":"102305027",
-    "wof:lastmodified":1449068169,
+    "wof:lastmodified":1466622386,
     "wof:name":"Now Realty",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.384511,36.538683,-93.384511,36.538683],
+  "bbox": [
+    -93.384511,
+    36.538683,
+    -93.384511,
+    36.538683
+],
   "geometry": {"coordinates":[-93.384511,36.538683],"type":"Point"}
 }

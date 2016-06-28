@@ -2,13 +2,14 @@
   "id": 202525097,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.515619,37.085412,-94.515619,37.085412",
     "geom:latitude":37.085412,
     "geom:longitude":-94.515619,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"610 S Wall Ave",
     "sg:city":"Joplin",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202525097,
-    "wof:lastmodified":1449062134,
+    "wof:lastmodified":1466622202,
     "wof:name":"Jcdm Church Builders",
     "wof:parent_id":85885363,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "contractors-commercial"
     ]
 },
-  "bbox": [-94.515619,37.085412,-94.515619,37.085412],
+  "bbox": [
+    -94.515619,
+    37.085412,
+    -94.515619,
+    37.085412
+],
   "geometry": {"coordinates":[-94.515619,37.085412],"type":"Point"}
 }

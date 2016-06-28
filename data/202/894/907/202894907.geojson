@@ -2,13 +2,14 @@
   "id": 202894907,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.26016,37.177253,-93.26016,37.177253",
     "geom:latitude":37.177253,
     "geom:longitude":-93.26016,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1936 S Stewart Ave",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -61,10 +62,11 @@
         }
     ],
     "wof:id":202894907,
-    "wof:lastmodified":1449061161,
+    "wof:lastmodified":1466622370,
     "wof:name":"Thermal Components",
     "wof:parent_id":85829759,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -76,6 +78,11 @@
         "air conditioning"
     ]
 },
-  "bbox": [-93.26016,37.177253,-93.26016,37.177253],
+  "bbox": [
+    -93.26016,
+    37.177253,
+    -93.26016,
+    37.177253
+],
   "geometry": {"coordinates":[-93.26016,37.177253],"type":"Point"}
 }

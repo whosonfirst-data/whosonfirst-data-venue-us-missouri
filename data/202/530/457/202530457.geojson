@@ -2,13 +2,14 @@
   "id": 202530457,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.50621,37.074829,-94.50621,37.074829",
     "geom:latitude":37.074829,
     "geom:longitude":-94.50621,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"801 E 15th St",
     "sg:city":"Joplin",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":202530457,
-    "wof:lastmodified":1449061463,
+    "wof:lastmodified":1466622206,
     "wof:name":"Tres Couture Salon",
     "wof:parent_id":85885363,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "replacement"
     ]
 },
-  "bbox": [-94.50621,37.074829,-94.50621,37.074829],
+  "bbox": [
+    -94.50621,
+    37.074829,
+    -94.50621,
+    37.074829
+],
   "geometry": {"coordinates":[-94.50621,37.074829],"type":"Point"}
 }

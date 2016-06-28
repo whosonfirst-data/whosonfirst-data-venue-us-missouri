@@ -2,13 +2,14 @@
   "id": 186641467,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.362221,39.367908,-94.362221,39.367908",
     "geom:latitude":39.367908,
     "geom:longitude":-94.362221,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"601 S Jefferson St",
     "sg:city":"Kearney",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186641467,
-    "wof:lastmodified":1449052367,
+    "wof:lastmodified":1466622290,
     "wof:name":"Albertsons Grocery",
     "wof:parent_id":85812855,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.362221,39.367908,-94.362221,39.367908],
-  "geometry": {"coordinates":[-94.362221,39.367908],"type":"Point"}
+  "bbox": [
+    -94.362221,
+    39.367908,
+    -94.362221,
+    39.367908
+],
+  "geometry": {"coordinates":[-94.36222100000001,39.367908],"type":"Point"}
 }

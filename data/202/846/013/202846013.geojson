@@ -2,13 +2,14 @@
   "id": 202846013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.30265,37.062382,-93.30265,37.062382",
     "geom:latitude":37.062382,
     "geom:longitude":-93.30265,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1238 N Bryan Dr",
     "sg:city":"Nixa",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202846013,
-    "wof:lastmodified":1449062092,
+    "wof:lastmodified":1466622417,
     "wof:name":"Currys Hot Rods",
     "wof:parent_id":85809751,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "customizing"
     ]
 },
-  "bbox": [-93.30265,37.062382,-93.30265,37.062382],
+  "bbox": [
+    -93.30265,
+    37.062382,
+    -93.30265,
+    37.062382
+],
   "geometry": {"coordinates":[-93.30265,37.062382],"type":"Point"}
 }

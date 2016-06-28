@@ -2,13 +2,14 @@
   "id": 186475233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.356061,39.709524,-91.356061,39.709524",
     "geom:latitude":39.709524,
     "geom:longitude":-91.356061,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"999 Broadway",
     "sg:city":"Hannibal",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":186475233,
-    "wof:lastmodified":1449051491,
+    "wof:lastmodified":1466622138,
     "wof:name":"Holliday Michael D",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "law"
     ]
 },
-  "bbox": [-91.356061,39.709524,-91.356061,39.709524],
+  "bbox": [
+    -91.356061,
+    39.709524,
+    -91.356061,
+    39.709524
+],
   "geometry": {"coordinates":[-91.356061,39.709524],"type":"Point"}
 }

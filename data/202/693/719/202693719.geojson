@@ -2,13 +2,14 @@
   "id": 202693719,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.402203,38.05952,-91.402203,38.05952",
     "geom:latitude":38.05952,
     "geom:longitude":-91.402203,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"602 N Franklin St",
     "sg:city":"Cuba",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202693719,
-    "wof:lastmodified":1449060250,
+    "wof:lastmodified":1466622265,
     "wof:name":"Smokers Express",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "cigar"
     ]
 },
-  "bbox": [-91.402203,38.05952,-91.402203,38.05952],
+  "bbox": [
+    -91.402203,
+    38.05952,
+    -91.402203,
+    38.05952
+],
   "geometry": {"coordinates":[-91.402203,38.05952],"type":"Point"}
 }

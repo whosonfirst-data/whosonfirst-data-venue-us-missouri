@@ -2,13 +2,14 @@
   "id": 202638073,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.88575,39.160431,-91.88575,39.160431",
     "geom:latitude":39.160431,
     "geom:longitude":-91.88575,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"400 Harvard St",
     "sg:city":"Mexico",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202638073,
-    "wof:lastmodified":1449060239,
+    "wof:lastmodified":1466622245,
     "wof:name":"David W Robertson",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "mason"
     ]
 },
-  "bbox": [-91.88575,39.160431,-91.88575,39.160431],
+  "bbox": [
+    -91.88575,
+    39.160431,
+    -91.88575,
+    39.160431
+],
   "geometry": {"coordinates":[-91.88575,39.160431],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186118889,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.532344,38.626933,-90.532344,38.626933",
     "geom:latitude":38.626933,
     "geom:longitude":-90.532344,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2137 Brook Hill Ct",
     "sg:city":"Chesterfield",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":186118889,
-    "wof:lastmodified":1449052497,
+    "wof:lastmodified":1466622160,
     "wof:name":"Anna & Friends",
     "wof:parent_id":85831197,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "accessory"
     ]
 },
-  "bbox": [-90.532344,38.626933,-90.532344,38.626933],
-  "geometry": {"coordinates":[-90.532344,38.626933],"type":"Point"}
+  "bbox": [
+    -90.532344,
+    38.626933,
+    -90.532344,
+    38.626933
+],
+  "geometry": {"coordinates":[-90.53234399999999,38.626933],"type":"Point"}
 }

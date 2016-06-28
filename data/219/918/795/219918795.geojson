@@ -2,13 +2,14 @@
   "id": 219918795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.917643,36.498942,-93.917643,36.498942",
     "geom:latitude":36.498942,
     "geom:longitude":-93.917643,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17674 Clantonville Rd",
     "sg:city":"Garfield",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":219918795,
-    "wof:lastmodified":1449072788,
+    "wof:lastmodified":1466622418,
     "wof:name":"Bobby Browns Plumbing Ll",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "contractors-commercial"
     ]
 },
-  "bbox": [-93.917643,36.498942,-93.917643,36.498942],
+  "bbox": [
+    -93.917643,
+    36.498942,
+    -93.917643,
+    36.498942
+],
   "geometry": {"coordinates":[-93.917643,36.498942],"type":"Point"}
 }

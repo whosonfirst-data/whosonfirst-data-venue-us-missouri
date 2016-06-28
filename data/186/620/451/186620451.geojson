@@ -2,13 +2,14 @@
   "id": 186620451,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.524397,38.907803,-94.524397,38.907803",
     "geom:latitude":38.907803,
     "geom:longitude":-94.524397,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11902 Blue Ridge Ext",
     "sg:city":"Grandview",
     "sg:classifiers":[
@@ -71,10 +72,11 @@
         }
     ],
     "wof:id":186620451,
-    "wof:lastmodified":1449052787,
+    "wof:lastmodified":1466622223,
     "wof:name":"Allstate Insurance Company - George Devereaux",
     "wof:parent_id":85824757,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -86,6 +88,11 @@
         "renter"
     ]
 },
-  "bbox": [-94.524397,38.907803,-94.524397,38.907803],
-  "geometry": {"coordinates":[-94.524397,38.907803],"type":"Point"}
+  "bbox": [
+    -94.524397,
+    38.907803,
+    -94.524397,
+    38.907803
+],
+  "geometry": {"coordinates":[-94.52439699999999,38.907803],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202761391,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.221741,36.644211,-93.221741,36.644211",
     "geom:latitude":36.644211,
     "geom:longitude":-93.221741,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"500 W Main St Ste 202B",
     "sg:city":"Branson",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202761391,
-    "wof:lastmodified":1449062053,
+    "wof:lastmodified":1466622307,
     "wof:name":"Juli Russell Interior Design Group",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "producer"
     ]
 },
-  "bbox": [-93.221741,36.644211,-93.221741,36.644211],
-  "geometry": {"coordinates":[-93.221741,36.644211],"type":"Point"}
+  "bbox": [
+    -93.221741,
+    36.644211,
+    -93.221741,
+    36.644211
+],
+  "geometry": {"coordinates":[-93.22174099999999,36.644211],"type":"Point"}
 }

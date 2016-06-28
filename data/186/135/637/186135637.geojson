@@ -2,13 +2,14 @@
   "id": 186135637,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.471527,38.540169,-90.471527,38.540169",
     "geom:latitude":38.540169,
     "geom:longitude":-90.471527,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1859 Bowles Ave",
     "sg:city":"Fenton",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":186135637,
-    "wof:lastmodified":1449051404,
+    "wof:lastmodified":1466622170,
     "wof:name":"Jackson Safety",
     "wof:parent_id":85841473,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-90.471527,38.540169,-90.471527,38.540169],
-  "geometry": {"coordinates":[-90.471527,38.540169],"type":"Point"}
+  "bbox": [
+    -90.471527,
+    38.540169,
+    -90.471527,
+    38.540169
+],
+  "geometry": {"coordinates":[-90.47152699999999,38.540169],"type":"Point"}
 }

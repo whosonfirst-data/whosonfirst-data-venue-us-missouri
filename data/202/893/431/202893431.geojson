@@ -2,13 +2,14 @@
   "id": 202893431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.267115,37.147025,-93.267115,37.147025",
     "geom:latitude":37.147025,
     "geom:longitude":-93.267115,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1630 E Primrose St",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -57,16 +58,22 @@
         }
     ],
     "wof:id":202893431,
-    "wof:lastmodified":1449062187,
+    "wof:lastmodified":1466622367,
     "wof:name":"Select Specialty Hospital Springfield",
     "wof:parent_id":85881149,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-93.267115,37.147025,-93.267115,37.147025],
+  "bbox": [
+    -93.267115,
+    37.147025,
+    -93.267115,
+    37.147025
+],
   "geometry": {"coordinates":[-93.267115,37.147025],"type":"Point"}
 }

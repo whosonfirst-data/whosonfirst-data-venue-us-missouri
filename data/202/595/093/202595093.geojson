@@ -2,13 +2,14 @@
   "id": 202595093,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.327572,38.950385,-92.327572,38.950385",
     "geom:latitude":38.950385,
     "geom:longitude":-92.327572,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"111 S 9th St Ste 170 Ste 170",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":202595093,
-    "wof:lastmodified":1449062399,
+    "wof:lastmodified":1466622223,
     "wof:name":"Allen's Flowers Inc - Fine Gifts & Home Decor",
     "wof:parent_id":85835171,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.327572,38.950385,-92.327572,38.950385],
+  "bbox": [
+    -92.327572,
+    38.950385,
+    -92.327572,
+    38.950385
+],
   "geometry": {"coordinates":[-92.327572,38.950385],"type":"Point"}
 }

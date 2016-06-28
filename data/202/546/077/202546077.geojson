@@ -2,13 +2,14 @@
   "id": 202546077,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.37843,36.881539,-94.37843,36.881539",
     "geom:latitude":36.881539,
     "geom:longitude":-94.37843,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1212 Oak St",
     "sg:city":"Neosho",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":202546077,
-    "wof:lastmodified":1449060104,
+    "wof:lastmodified":1466622212,
     "wof:name":"Vanda Beauty Counselor",
     "wof:parent_id":85821247,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "supply"
     ]
 },
-  "bbox": [-94.37843,36.881539,-94.37843,36.881539],
-  "geometry": {"coordinates":[-94.37843,36.881539],"type":"Point"}
+  "bbox": [
+    -94.37843,
+    36.881539,
+    -94.37843,
+    36.881539
+],
+  "geometry": {"coordinates":[-94.37842999999999,36.881539],"type":"Point"}
 }

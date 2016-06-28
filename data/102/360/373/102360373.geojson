@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102360373,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.042725,36.510164,-92.042725,36.510164",
     "geom:latitude":36.510164,
     "geom:longitude":-92.042725,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1601 Co Rd 7920",
     "sg:city":"Caulfield",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":102360373,
-    "wof:lastmodified":1449069641,
+    "wof:lastmodified":1466622391,
     "wof:name":"Clinton Guffey",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.042725,36.510164,-92.042725,36.510164],
+  "bbox": [
+    -92.042725,
+    36.510164,
+    -92.042725,
+    36.510164
+],
   "geometry": {"coordinates":[-92.042725,36.510164],"type":"Point"}
 }

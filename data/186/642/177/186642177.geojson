@@ -2,13 +2,14 @@
   "id": 186642177,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.411635,39.359218,-94.411635,39.359218",
     "geom:latitude":39.359218,
     "geom:longitude":-94.411635,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14726 Plattsburg Rd",
     "sg:city":"Kearney",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":186642177,
-    "wof:lastmodified":1449050424,
+    "wof:lastmodified":1466622292,
     "wof:name":"Neals Northland Lawncare",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "maintenance"
     ]
 },
-  "bbox": [-94.411635,39.359218,-94.411635,39.359218],
+  "bbox": [
+    -94.411635,
+    39.359218,
+    -94.411635,
+    39.359218
+],
   "geometry": {"coordinates":[-94.411635,39.359218],"type":"Point"}
 }

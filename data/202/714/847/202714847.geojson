@@ -2,13 +2,14 @@
   "id": 202714847,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.403725,37.858959,-92.403725,37.858959",
     "geom:latitude":37.858959,
     "geom:longitude":-92.403725,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"104 N Chestnut St",
     "sg:city":"Richland",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202714847,
-    "wof:lastmodified":1449061374,
+    "wof:lastmodified":1466622279,
     "wof:name":"Richland Auto Supply",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "accessory"
     ]
 },
-  "bbox": [-92.403725,37.858959,-92.403725,37.858959],
-  "geometry": {"coordinates":[-92.403725,37.858959],"type":"Point"}
+  "bbox": [
+    -92.403725,
+    37.858959,
+    -92.403725,
+    37.858959
+],
+  "geometry": {"coordinates":[-92.40372499999999,37.858959],"type":"Point"}
 }

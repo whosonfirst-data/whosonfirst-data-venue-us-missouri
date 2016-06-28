@@ -2,13 +2,14 @@
   "id": 186290423,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.204854,38.637316,-90.204854,38.637316",
     "geom:latitude":38.637316,
     "geom:longitude":-90.204854,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1000 N 19th St",
     "sg:city":"Saint Louis",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186290423,
-    "wof:lastmodified":1449051525,
+    "wof:lastmodified":1466622282,
     "wof:name":"Gateway Homeless Services",
     "wof:parent_id":85873641,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "community"
     ]
 },
-  "bbox": [-90.204854,38.637316,-90.204854,38.637316],
+  "bbox": [
+    -90.204854,
+    38.637316,
+    -90.204854,
+    38.637316
+],
   "geometry": {"coordinates":[-90.204854,38.637316],"type":"Point"}
 }

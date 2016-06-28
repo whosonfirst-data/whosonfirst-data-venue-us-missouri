@@ -2,13 +2,14 @@
   "id": 186631331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.414757,39.092085,-94.414757,39.092085",
     "geom:latitude":39.092085,
     "geom:longitude":-94.414757,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"139 E Lexington Ave Ste 141",
     "sg:city":"Independence",
     "sg:classifiers":[
@@ -68,10 +69,11 @@
         }
     ],
     "wof:id":186631331,
-    "wof:lastmodified":1449051207,
+    "wof:lastmodified":1466622247,
     "wof:name":"Peddlers Bicycle Shop",
     "wof:parent_id":85833097,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -84,6 +86,11 @@
         "rack"
     ]
 },
-  "bbox": [-94.414757,39.092085,-94.414757,39.092085],
-  "geometry": {"coordinates":[-94.414757,39.092085],"type":"Point"}
+  "bbox": [
+    -94.414757,
+    39.092085,
+    -94.414757,
+    39.092085
+],
+  "geometry": {"coordinates":[-94.41475699999999,39.092085],"type":"Point"}
 }

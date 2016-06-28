@@ -2,13 +2,14 @@
   "id": 186474049,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.392487,39.722832,-91.392487,39.722832",
     "geom:latitude":39.722832,
     "geom:longitude":-91.392487,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3650 Stardust Dr",
     "sg:city":"Hannibal",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":186474049,
-    "wof:lastmodified":1449050387,
+    "wof:lastmodified":1466622133,
     "wof:name":"Hnb Bank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -75,6 +77,11 @@
         "saving"
     ]
 },
-  "bbox": [-91.392487,39.722832,-91.392487,39.722832],
+  "bbox": [
+    -91.392487,
+    39.722832,
+    -91.392487,
+    39.722832
+],
   "geometry": {"coordinates":[-91.392487,39.722832],"type":"Point"}
 }

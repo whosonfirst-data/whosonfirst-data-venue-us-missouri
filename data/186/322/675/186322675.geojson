@@ -2,13 +2,14 @@
   "id": 186322675,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.253817,38.624532,-90.253817,38.624532",
     "geom:latitude":38.624532,
     "geom:longitude":-90.253817,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1401 S Boyle Ave",
     "sg:city":"St Louis",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":186322675,
-    "wof:lastmodified":1449050219,
+    "wof:lastmodified":1466622311,
     "wof:name":"TrafficPRM",
     "wof:parent_id":85873649,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "public"
     ]
 },
-  "bbox": [-90.253817,38.624532,-90.253817,38.624532],
+  "bbox": [
+    -90.253817,
+    38.624532,
+    -90.253817,
+    38.624532
+],
   "geometry": {"coordinates":[-90.253817,38.624532],"type":"Point"}
 }

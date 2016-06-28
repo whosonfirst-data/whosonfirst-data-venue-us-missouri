@@ -2,13 +2,14 @@
   "id": 202662577,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.244964,38.687688,-93.244964,38.687688",
     "geom:latitude":38.687688,
     "geom:longitude":-93.244964,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2806 Matthew Dr",
     "sg:city":"Sedalia",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202662577,
-    "wof:lastmodified":1449061808,
+    "wof:lastmodified":1466622255,
     "wof:name":"Sedalia School District 200",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.244964,38.687688,-93.244964,38.687688],
+  "bbox": [
+    -93.244964,
+    38.687688,
+    -93.244964,
+    38.687688
+],
   "geometry": {"coordinates":[-93.244964,38.687688],"type":"Point"}
 }

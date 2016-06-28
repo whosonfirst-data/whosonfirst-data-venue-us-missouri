@@ -2,13 +2,14 @@
   "id": 186162131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.410085,38.725105,-90.410085,38.725105",
     "geom:latitude":38.725105,
     "geom:longitude":-90.410085,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11096 Whitehall Manor Dr",
     "sg:city":"Bridgeton",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":186162131,
-    "wof:lastmodified":1449052621,
+    "wof:lastmodified":1466622184,
     "wof:name":"Home Away From Home",
     "wof:parent_id":85803699,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "contractor"
     ]
 },
-  "bbox": [-90.410085,38.725105,-90.410085,38.725105],
+  "bbox": [
+    -90.410085,
+    38.725105,
+    -90.410085,
+    38.725105
+],
   "geometry": {"coordinates":[-90.410085,38.725105],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186090103,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.642216,38.651144,-90.642216,38.651144",
     "geom:latitude":38.651144,
     "geom:longitude":-90.642216,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1018 Savonne Ct",
     "sg:city":"Chesterfield",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186090103,
-    "wof:lastmodified":1449052466,
+    "wof:lastmodified":1466622130,
     "wof:name":"Cap-Tivating Designs",
     "wof:parent_id":85839809,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "producer"
     ]
 },
-  "bbox": [-90.642216,38.651144,-90.642216,38.651144],
+  "bbox": [
+    -90.642216,
+    38.651144,
+    -90.642216,
+    38.651144
+],
   "geometry": {"coordinates":[-90.642216,38.651144],"type":"Point"}
 }

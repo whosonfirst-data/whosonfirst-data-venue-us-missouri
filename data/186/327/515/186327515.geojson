@@ -2,13 +2,14 @@
   "id": 186327515,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.255402,38.618599,-90.255402,38.618599",
     "geom:latitude":38.618599,
     "geom:longitude":-90.255402,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Barns Jwsh Hsptl Plz",
     "sg:city":"Saint Louis",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186327515,
-    "wof:lastmodified":1449050446,
+    "wof:lastmodified":1466622316,
     "wof:name":"Flye M Wayne MD",
     "wof:parent_id":85873657,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.255402,38.618599,-90.255402,38.618599],
+  "bbox": [
+    -90.255402,
+    38.618599,
+    -90.255402,
+    38.618599
+],
   "geometry": {"coordinates":[-90.255402,38.618599],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 337283353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.856917,37.499344,-91.856917,37.499344",
     "geom:latitude":37.499344,
     "geom:longitude":-91.856917,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"104 N Main St",
     "sg:city":"Licking",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":337283353,
-    "wof:lastmodified":1449027181,
+    "wof:lastmodified":1466622125,
     "wof:name":"The Coffee Pot",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "family"
     ]
 },
-  "bbox": [-91.856917,37.499344,-91.856917,37.499344],
+  "bbox": [
+    -91.856917,
+    37.499344,
+    -91.856917,
+    37.499344
+],
   "geometry": {"coordinates":[-91.856917,37.499344],"type":"Point"}
 }

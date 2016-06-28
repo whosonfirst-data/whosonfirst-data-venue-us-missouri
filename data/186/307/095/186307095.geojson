@@ -2,13 +2,14 @@
   "id": 186307095,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.263397,38.639301,-90.263397,38.639301",
     "geom:latitude":38.639301,
     "geom:longitude":-90.263397,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4910 Forest Park Ave",
     "sg:city":"Saint Louis",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186307095,
-    "wof:lastmodified":1449051085,
+    "wof:lastmodified":1466622296,
     "wof:name":"Bernhard Lisa M MD",
     "wof:parent_id":85867031,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.263397,38.639301,-90.263397,38.639301],
+  "bbox": [
+    -90.263397,
+    38.639301,
+    -90.263397,
+    38.639301
+],
   "geometry": {"coordinates":[-90.263397,38.639301],"type":"Point"}
 }

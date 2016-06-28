@@ -2,13 +2,14 @@
   "id": 186146583,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.295916,38.804492,-90.295916,38.804492",
     "geom:latitude":38.804492,
     "geom:longitude":-90.295916,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13931 New Halls Ferry Rd",
     "sg:city":"Florissant",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":186146583,
-    "wof:lastmodified":1449051487,
+    "wof:lastmodified":1466622177,
     "wof:name":"Deals",
     "wof:parent_id":85813019,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "merchandise"
     ]
 },
-  "bbox": [-90.295916,38.804492,-90.295916,38.804492],
-  "geometry": {"coordinates":[-90.295916,38.804492],"type":"Point"}
+  "bbox": [
+    -90.295916,
+    38.804492,
+    -90.295916,
+    38.804492
+],
+  "geometry": {"coordinates":[-90.29591600000001,38.804492],"type":"Point"}
 }

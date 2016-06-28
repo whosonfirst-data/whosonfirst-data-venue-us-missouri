@@ -2,13 +2,14 @@
   "id": 202781299,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.22023,36.649689,-93.22023,36.649689",
     "geom:latitude":36.649689,
     "geom:longitude":-93.22023,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 Skaggs Rd Ste 402",
     "sg:city":"Branson",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202781299,
-    "wof:lastmodified":1449060585,
+    "wof:lastmodified":1466622322,
     "wof:name":"Sharp, Frank Dds Ms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentists-orthodontists"
     ]
 },
-  "bbox": [-93.22023,36.649689,-93.22023,36.649689],
+  "bbox": [
+    -93.22023,
+    36.649689,
+    -93.22023,
+    36.649689
+],
   "geometry": {"coordinates":[-93.22023,36.649689],"type":"Point"}
 }

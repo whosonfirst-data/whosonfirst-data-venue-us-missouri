@@ -2,13 +2,14 @@
   "id": 202405631,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.727753,38.756402,-93.727753,38.756402",
     "geom:latitude":38.756402,
     "geom:longitude":-93.727753,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"505 Crestview Dr",
     "sg:city":"Warrensburg",
     "sg:classifiers":[
@@ -65,10 +66,11 @@
         }
     ],
     "wof:id":202405631,
-    "wof:lastmodified":1449062446,
+    "wof:lastmodified":1466622161,
     "wof:name":"Trucking Div",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -80,6 +82,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-93.727753,38.756402,-93.727753,38.756402],
-  "geometry": {"coordinates":[-93.727753,38.756402],"type":"Point"}
+  "bbox": [
+    -93.727753,
+    38.756402,
+    -93.727753,
+    38.756402
+],
+  "geometry": {"coordinates":[-93.72775300000001,38.756402],"type":"Point"}
 }

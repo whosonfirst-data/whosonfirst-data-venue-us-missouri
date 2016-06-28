@@ -2,13 +2,14 @@
   "id": 202382053,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.406475,39.214554,-94.406475,39.214554",
     "geom:latitude":39.214554,
     "geom:longitude":-94.406475,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"906 Antietam Ct",
     "sg:city":"Liberty",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":202382053,
-    "wof:lastmodified":1449060794,
+    "wof:lastmodified":1466622129,
     "wof:name":"Gary Edlin",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "product"
     ]
 },
-  "bbox": [-94.406475,39.214554,-94.406475,39.214554],
+  "bbox": [
+    -94.406475,
+    39.214554,
+    -94.406475,
+    39.214554
+],
   "geometry": {"coordinates":[-94.406475,39.214554],"type":"Point"}
 }

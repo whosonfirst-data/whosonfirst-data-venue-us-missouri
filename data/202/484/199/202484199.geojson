@@ -2,13 +2,14 @@
   "id": 202484199,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.582345,40.065423,-93.582345,40.065423",
     "geom:latitude":40.065423,
     "geom:longitude":-93.582345,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"351 N Highway 65",
     "sg:city":"Trenton",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":202484199,
-    "wof:lastmodified":1449062500,
+    "wof:lastmodified":1466622189,
     "wof:name":"Hagan, Ferril",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "farm"
     ]
 },
-  "bbox": [-93.582345,40.065423,-93.582345,40.065423],
+  "bbox": [
+    -93.582345,
+    40.065423,
+    -93.582345,
+    40.065423
+],
   "geometry": {"coordinates":[-93.582345,40.065423],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186317359,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.284698,38.616402,-90.284698,38.616402",
     "geom:latitude":38.616402,
     "geom:longitude":-90.284698,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2141 59th St",
     "sg:city":"Saint Louis",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186317359,
-    "wof:lastmodified":1449051592,
+    "wof:lastmodified":1466622304,
     "wof:name":"Catering St Louis",
     "wof:parent_id":85867039,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "caterer"
     ]
 },
-  "bbox": [-90.284698,38.616402,-90.284698,38.616402],
-  "geometry": {"coordinates":[-90.284698,38.616402],"type":"Point"}
+  "bbox": [
+    -90.284698,
+    38.616402,
+    -90.284698,
+    38.616402
+],
+  "geometry": {"coordinates":[-90.28469800000001,38.616402],"type":"Point"}
 }

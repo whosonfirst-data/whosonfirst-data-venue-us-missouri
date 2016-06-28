@@ -2,13 +2,14 @@
   "id": 186295211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.2313,38.6394,-90.2313,38.6394",
     "geom:latitude":38.6394,
     "geom:longitude":-90.2313,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3648 Washington Blvd",
     "sg:city":"Saint Louis",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":186295211,
-    "wof:lastmodified":1449051459,
+    "wof:lastmodified":1466622286,
     "wof:name":"Sheldon Concert Hall & Ballroom",
     "wof:parent_id":85873637,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "venue"
     ]
 },
-  "bbox": [-90.2313,38.6394,-90.2313,38.6394],
+  "bbox": [
+    -90.2313,
+    38.6394,
+    -90.2313,
+    38.6394
+],
   "geometry": {"coordinates":[-90.2313,38.6394],"type":"Point"}
 }

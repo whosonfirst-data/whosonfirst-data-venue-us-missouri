@@ -2,13 +2,14 @@
   "id": 202885511,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.285425,37.231919,-93.285425,37.231919",
     "geom:latitude":37.231919,
     "geom:longitude":-93.285425,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1918 N Washington Ave",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":202885511,
-    "wof:lastmodified":1449061460,
+    "wof:lastmodified":1466622359,
     "wof:name":"Moore's Trash Service",
     "wof:parent_id":85881167,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "equipment"
     ]
 },
-  "bbox": [-93.285425,37.231919,-93.285425,37.231919],
+  "bbox": [
+    -93.285425,
+    37.231919,
+    -93.285425,
+    37.231919
+],
   "geometry": {"coordinates":[-93.285425,37.231919],"type":"Point"}
 }

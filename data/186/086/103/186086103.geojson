@@ -2,13 +2,14 @@
   "id": 186086103,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.624401,38.662923,-90.624401,38.662923",
     "geom:latitude":38.662923,
     "geom:longitude":-90.624401,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"536 Trade Center Blvd",
     "sg:city":"Chesterfield",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":186086103,
-    "wof:lastmodified":1449052166,
+    "wof:lastmodified":1466622119,
     "wof:name":"Spinesource, Inc",
     "wof:parent_id":85834749,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "supply"
     ]
 },
-  "bbox": [-90.624401,38.662923,-90.624401,38.662923],
-  "geometry": {"coordinates":[-90.624401,38.662923],"type":"Point"}
+  "bbox": [
+    -90.624401,
+    38.662923,
+    -90.624401,
+    38.662923
+],
+  "geometry": {"coordinates":[-90.62440100000001,38.662923],"type":"Point"}
 }

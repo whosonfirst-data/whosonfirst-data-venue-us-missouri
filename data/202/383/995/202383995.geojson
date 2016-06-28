@@ -2,13 +2,14 @@
   "id": 202383995,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.416831,39.239622,-94.416831,39.239622",
     "geom:latitude":39.239622,
     "geom:longitude":-94.416831,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"405 S Leonard St",
     "sg:city":"Liberty",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202383995,
-    "wof:lastmodified":1449061188,
+    "wof:lastmodified":1466622139,
     "wof:name":"Piston Automotive",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "part"
     ]
 },
-  "bbox": [-94.416831,39.239622,-94.416831,39.239622],
+  "bbox": [
+    -94.416831,
+    39.239622,
+    -94.416831,
+    39.239622
+],
   "geometry": {"coordinates":[-94.416831,39.239622],"type":"Point"}
 }

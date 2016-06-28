@@ -2,13 +2,14 @@
   "id": 186130829,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.443958,38.534163,-90.443958,38.534163",
     "geom:latitude":38.534163,
     "geom:longitude":-90.443958,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1628 Manufacturers Dr",
     "sg:city":"Fenton",
     "sg:classifiers":[
@@ -78,10 +79,11 @@
         }
     ],
     "wof:id":186130829,
-    "wof:lastmodified":1449051318,
+    "wof:lastmodified":1466622161,
     "wof:name":"Creative Mailers",
     "wof:parent_id":85858661,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -94,6 +96,11 @@
         "mailing"
     ]
 },
-  "bbox": [-90.443958,38.534163,-90.443958,38.534163],
-  "geometry": {"coordinates":[-90.443958,38.534163],"type":"Point"}
+  "bbox": [
+    -90.443958,
+    38.534163,
+    -90.443958,
+    38.534163
+],
+  "geometry": {"coordinates":[-90.44395799999999,38.534163],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186308025,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.254601,38.643398,-90.254601,38.643398",
     "geom:latitude":38.643398,
     "geom:longitude":-90.254601,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4430 Maryland Ave",
     "sg:city":"Saint Louis",
     "sg:classifiers":[
@@ -54,14 +55,20 @@
         }
     ],
     "wof:id":186308025,
-    "wof:lastmodified":1449053091,
+    "wof:lastmodified":1466622297,
     "wof:name":"Cathedral Basilica of St. Louis",
     "wof:parent_id":85867031,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.254601,38.643398,-90.254601,38.643398],
-  "geometry": {"coordinates":[-90.254601,38.643398],"type":"Point"}
+  "bbox": [
+    -90.254601,
+    38.643398,
+    -90.254601,
+    38.643398
+],
+  "geometry": {"coordinates":[-90.25460099999999,38.643398],"type":"Point"}
 }

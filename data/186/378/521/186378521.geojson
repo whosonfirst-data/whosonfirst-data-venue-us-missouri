@@ -2,13 +2,14 @@
   "id": 186378521,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.243048,38.600219,-90.243048,38.600219",
     "geom:latitude":38.600219,
     "geom:longitude":-90.243048,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3177 S Grand Blvd",
     "sg:city":"St Louis",
     "sg:classifiers":[
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":186378521,
-    "wof:lastmodified":1449052183,
+    "wof:lastmodified":1466622338,
     "wof:name":"The Petra Cafe and Hookah Lounge",
     "wof:parent_id":85873677,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.243048,38.600219,-90.243048,38.600219],
+  "bbox": [
+    -90.243048,
+    38.600219,
+    -90.243048,
+    38.600219
+],
   "geometry": {"coordinates":[-90.243048,38.600219],"type":"Point"}
 }

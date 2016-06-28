@@ -2,13 +2,14 @@
   "id": 186315851,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.301201,38.595501,-90.301201,38.595501",
     "geom:latitude":38.595501,
     "geom:longitude":-90.301201,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3800 Watson Rd",
     "sg:city":"Saint Louis",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":186315851,
-    "wof:lastmodified":1449052901,
+    "wof:lastmodified":1466622302,
     "wof:name":"Mary Margaret's Day Care & Learning Center",
     "wof:parent_id":85873685,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "elementary"
     ]
 },
-  "bbox": [-90.301201,38.595501,-90.301201,38.595501],
-  "geometry": {"coordinates":[-90.301201,38.595501],"type":"Point"}
+  "bbox": [
+    -90.301201,
+    38.595501,
+    -90.301201,
+    38.595501
+],
+  "geometry": {"coordinates":[-90.30120100000001,38.595501],"type":"Point"}
 }

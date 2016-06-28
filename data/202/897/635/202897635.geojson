@@ -2,13 +2,14 @@
   "id": 202897635,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.240446,37.180726,-93.240446,37.180726",
     "geom:latitude":37.180726,
     "geom:longitude":-93.240446,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2750 E Sunshine St",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":202897635,
-    "wof:lastmodified":1449062249,
+    "wof:lastmodified":1466622372,
     "wof:name":"American College Of Forensic Examiners Institute Of Forensic Science, Inc.",
     "wof:parent_id":85829759,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "college"
     ]
 },
-  "bbox": [-93.240446,37.180726,-93.240446,37.180726],
-  "geometry": {"coordinates":[-93.240446,37.180726],"type":"Point"}
+  "bbox": [
+    -93.240446,
+    37.180726,
+    -93.240446,
+    37.180726
+],
+  "geometry": {"coordinates":[-93.24044600000001,37.180726],"type":"Point"}
 }

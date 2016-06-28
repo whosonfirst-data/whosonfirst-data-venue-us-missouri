@@ -2,13 +2,14 @@
   "id": 202375345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.886436,39.18564,-93.886436,39.18564",
     "geom:latitude":39.18564,
     "geom:longitude":-93.886436,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1002 Main St",
     "sg:city":"Lexington",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202375345,
-    "wof:lastmodified":1449060188,
+    "wof:lastmodified":1466622117,
     "wof:name":"Perry Law Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "plan"
     ]
 },
-  "bbox": [-93.886436,39.18564,-93.886436,39.18564],
+  "bbox": [
+    -93.886436,
+    39.18564,
+    -93.886436,
+    39.18564
+],
   "geometry": {"coordinates":[-93.886436,39.18564],"type":"Point"}
 }

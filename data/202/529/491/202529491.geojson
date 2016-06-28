@@ -2,13 +2,14 @@
   "id": 202529491,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.500733,37.074697,-94.500733,37.074697",
     "geom:latitude":37.074697,
     "geom:longitude":-94.500733,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1502 S Michigan Ave B1",
     "sg:city":"Joplin",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202529491,
-    "wof:lastmodified":1449061229,
+    "wof:lastmodified":1466622205,
     "wof:name":"Ace Paint Body",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-94.500733,37.074697,-94.500733,37.074697],
+  "bbox": [
+    -94.500733,
+    37.074697,
+    -94.500733,
+    37.074697
+],
   "geometry": {"coordinates":[-94.500733,37.074697],"type":"Point"}
 }

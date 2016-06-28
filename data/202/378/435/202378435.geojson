@@ -2,13 +2,14 @@
   "id": 202378435,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.43334,39.238209,-94.43334,39.238209",
     "geom:latitude":39.238209,
     "geom:longitude":-94.43334,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"837 Reed St",
     "sg:city":"Liberty",
     "sg:classifiers":[
@@ -70,10 +71,11 @@
         }
     ],
     "wof:id":202378435,
-    "wof:lastmodified":1449061805,
+    "wof:lastmodified":1466622126,
     "wof:name":"Allstate Insurance Company - John P Schwarzel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -85,6 +87,11 @@
         "renter"
     ]
 },
-  "bbox": [-94.43334,39.238209,-94.43334,39.238209],
+  "bbox": [
+    -94.43334,
+    39.238209,
+    -94.43334,
+    39.238209
+],
   "geometry": {"coordinates":[-94.43334,39.238209],"type":"Point"}
 }

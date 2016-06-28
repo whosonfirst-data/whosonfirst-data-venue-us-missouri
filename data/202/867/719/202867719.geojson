@@ -2,13 +2,14 @@
   "id": 202867719,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.995392,37.220597,-92.995392,37.220597",
     "geom:latitude":37.220597,
     "geom:longitude":-92.995392,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"278 Dartmoore Dr",
     "sg:city":"Rogersville",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":202867719,
-    "wof:lastmodified":1449061213,
+    "wof:lastmodified":1466622351,
     "wof:name":"Thornton Masonry Home Improv",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "contractor"
     ]
 },
-  "bbox": [-92.995392,37.220597,-92.995392,37.220597],
+  "bbox": [
+    -92.995392,
+    37.220597,
+    -92.995392,
+    37.220597
+],
   "geometry": {"coordinates":[-92.995392,37.220597],"type":"Point"}
 }

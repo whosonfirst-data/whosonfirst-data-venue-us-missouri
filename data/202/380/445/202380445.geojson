@@ -2,13 +2,14 @@
   "id": 202380445,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.330278,39.269862,-94.330278,39.269862",
     "geom:latitude":39.269862,
     "geom:longitude":-94.330278,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9814 Russell Cir Ste 100",
     "sg:city":"Liberty",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":202380445,
-    "wof:lastmodified":1449061295,
+    "wof:lastmodified":1466622123,
     "wof:name":"It's All About Meetings",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "consultant"
     ]
 },
-  "bbox": [-94.330278,39.269862,-94.330278,39.269862],
-  "geometry": {"coordinates":[-94.330278,39.269862],"type":"Point"}
+  "bbox": [
+    -94.330278,
+    39.269862,
+    -94.330278,
+    39.269862
+],
+  "geometry": {"coordinates":[-94.33027800000001,39.269862],"type":"Point"}
 }

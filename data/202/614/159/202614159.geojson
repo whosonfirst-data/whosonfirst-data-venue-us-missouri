@@ -2,13 +2,14 @@
   "id": 202614159,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.691449,38.935247,-92.691449,38.935247",
     "geom:latitude":38.935247,
     "geom:longitude":-92.691449,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"19459 Steven Kole Ct",
     "sg:city":"Boonville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202614159,
-    "wof:lastmodified":1449062741,
+    "wof:lastmodified":1466622240,
     "wof:name":"Leathers Auto Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.691449,38.935247,-92.691449,38.935247],
-  "geometry": {"coordinates":[-92.691449,38.935247],"type":"Point"}
+  "bbox": [
+    -92.691449,
+    38.935247,
+    -92.691449,
+    38.935247
+],
+  "geometry": {"coordinates":[-92.69144900000001,38.935247],"type":"Point"}
 }

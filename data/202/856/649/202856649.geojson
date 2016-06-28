@@ -2,13 +2,14 @@
   "id": 202856649,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.918724,36.813986,-93.918724,36.813986",
     "geom:latitude":36.813986,
     "geom:longitude":-93.918724,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"301 5th St",
     "sg:city":"Purdy",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":202856649,
-    "wof:lastmodified":1449060845,
+    "wof:lastmodified":1466622348,
     "wof:name":"M E Knight Trucking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "trucking"
     ]
 },
-  "bbox": [-93.918724,36.813986,-93.918724,36.813986],
+  "bbox": [
+    -93.918724,
+    36.813986,
+    -93.918724,
+    36.813986
+],
   "geometry": {"coordinates":[-93.918724,36.813986],"type":"Point"}
 }

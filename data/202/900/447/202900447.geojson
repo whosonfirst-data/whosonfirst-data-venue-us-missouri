@@ -2,13 +2,14 @@
   "id": 202900447,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.282672,37.159714,-93.282672,37.159714",
     "geom:latitude":37.159714,
     "geom:longitude":-93.282672,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"900 E Battlefield St",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":202900447,
-    "wof:lastmodified":1449061212,
+    "wof:lastmodified":1466622373,
     "wof:name":"Epperson Roofing",
     "wof:parent_id":85881149,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "contractor"
     ]
 },
-  "bbox": [-93.282672,37.159714,-93.282672,37.159714],
-  "geometry": {"coordinates":[-93.282672,37.159714],"type":"Point"}
+  "bbox": [
+    -93.282672,
+    37.159714,
+    -93.282672,
+    37.159714
+],
+  "geometry": {"coordinates":[-93.28267200000001,37.159714],"type":"Point"}
 }

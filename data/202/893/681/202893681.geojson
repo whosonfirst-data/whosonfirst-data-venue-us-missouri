@@ -2,13 +2,14 @@
   "id": 202893681,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.249273,37.184614,-93.249273,37.184614",
     "geom:latitude":37.184614,
     "geom:longitude":-93.249273,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1655 S Enterprise Ave",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":202893681,
-    "wof:lastmodified":1449062189,
+    "wof:lastmodified":1466622371,
     "wof:name":"Ssl Enterprises Inc.",
     "wof:parent_id":85829759,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "warehouses-public-commercial"
     ]
 },
-  "bbox": [-93.249273,37.184614,-93.249273,37.184614],
+  "bbox": [
+    -93.249273,
+    37.184614,
+    -93.249273,
+    37.184614
+],
   "geometry": {"coordinates":[-93.249273,37.184614],"type":"Point"}
 }

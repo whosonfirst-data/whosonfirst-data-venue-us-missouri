@@ -2,13 +2,14 @@
   "id": 202500149,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.776192,38.369431,-93.776192,38.369431",
     "geom:latitude":38.369431,
     "geom:longitude":-93.776192,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 S Main St",
     "sg:city":"Clinton",
     "sg:classifiers":[
@@ -55,16 +56,22 @@
         }
     ],
     "wof:id":202500149,
-    "wof:lastmodified":1449060752,
+    "wof:lastmodified":1466622195,
     "wof:name":"Clinton Main Street Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "employer"
     ]
 },
-  "bbox": [-93.776192,38.369431,-93.776192,38.369431],
-  "geometry": {"coordinates":[-93.776192,38.369431],"type":"Point"}
+  "bbox": [
+    -93.776192,
+    38.369431,
+    -93.776192,
+    38.369431
+],
+  "geometry": {"coordinates":[-93.77619199999999,38.369431],"type":"Point"}
 }

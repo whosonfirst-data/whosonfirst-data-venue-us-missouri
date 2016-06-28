@@ -2,13 +2,14 @@
   "id": 169644147,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.591388,38.99776,-94.591388,38.99776",
     "geom:latitude":38.99776,
     "geom:longitude":-94.591388,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"120 W 72 St",
     "sg:city":"Kansas City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169644147,
-    "wof:lastmodified":1449034578,
+    "wof:lastmodified":1466622389,
     "wof:name":"Kc Coring & Cutting",
     "wof:parent_id":85854229,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-94.591388,38.99776,-94.591388,38.99776],
-  "geometry": {"coordinates":[-94.591388,38.99776],"type":"Point"}
+  "bbox": [
+    -94.591388,
+    38.99776,
+    -94.591388,
+    38.99776
+],
+  "geometry": {"coordinates":[-94.59138799999999,38.99776],"type":"Point"}
 }

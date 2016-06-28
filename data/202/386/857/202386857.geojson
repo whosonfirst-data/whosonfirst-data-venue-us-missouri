@@ -2,13 +2,14 @@
   "id": 202386857,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.397987,39.261738,-94.397987,39.261738",
     "geom:latitude":39.261738,
     "geom:longitude":-94.397987,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1350 County Road B",
     "sg:city":"Liberty",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202386857,
-    "wof:lastmodified":1449061442,
+    "wof:lastmodified":1466622147,
     "wof:name":"B J's Clip & Curl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.397987,39.261738,-94.397987,39.261738],
+  "bbox": [
+    -94.397987,
+    39.261738,
+    -94.397987,
+    39.261738
+],
   "geometry": {"coordinates":[-94.397987,39.261738],"type":"Point"}
 }

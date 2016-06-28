@@ -2,13 +2,14 @@
   "id": 186459605,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.522419,39.218996,-91.522419,39.218996",
     "geom:latitude":39.218996,
     "geom:longitude":-91.522419,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"41152 Audrain Road 516",
     "sg:city":"Vandalia",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186459605,
-    "wof:lastmodified":1449051466,
+    "wof:lastmodified":1466622119,
     "wof:name":"Danny Barnes Trucking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "trucking"
     ]
 },
-  "bbox": [-91.522419,39.218996,-91.522419,39.218996],
+  "bbox": [
+    -91.522419,
+    39.218996,
+    -91.522419,
+    39.218996
+],
   "geometry": {"coordinates":[-91.522419,39.218996],"type":"Point"}
 }

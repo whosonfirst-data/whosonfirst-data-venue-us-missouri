@@ -2,13 +2,14 @@
   "id": 202518987,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.516844,37.085453,-94.516844,37.085453",
     "geom:latitude":37.085453,
     "geom:longitude":-94.516844,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"610 S Pearl Ave Ste C",
     "sg:city":"Joplin",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202518987,
-    "wof:lastmodified":1449061537,
+    "wof:lastmodified":1466622203,
     "wof:name":"Richart Law Firm",
     "wof:parent_id":85885363,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "practice"
     ]
 },
-  "bbox": [-94.516844,37.085453,-94.516844,37.085453],
-  "geometry": {"coordinates":[-94.516844,37.085453],"type":"Point"}
+  "bbox": [
+    -94.516844,
+    37.085453,
+    -94.516844,
+    37.085453
+],
+  "geometry": {"coordinates":[-94.51684400000001,37.085453],"type":"Point"}
 }

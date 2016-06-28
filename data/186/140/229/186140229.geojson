@@ -2,13 +2,14 @@
   "id": 186140229,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.400546,38.218982,-90.400546,38.218982",
     "geom:latitude":38.218982,
     "geom:longitude":-90.400546,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"806 W Main St",
     "sg:city":"Festus",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186140229,
-    "wof:lastmodified":1449050758,
+    "wof:lastmodified":1466622173,
     "wof:name":"Ed Brown Bookkeeping & Tax Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "preparation-business"
     ]
 },
-  "bbox": [-90.400546,38.218982,-90.400546,38.218982],
-  "geometry": {"coordinates":[-90.400546,38.218982],"type":"Point"}
+  "bbox": [
+    -90.400546,
+    38.218982,
+    -90.400546,
+    38.218982
+],
+  "geometry": {"coordinates":[-90.40054600000001,38.218982],"type":"Point"}
 }

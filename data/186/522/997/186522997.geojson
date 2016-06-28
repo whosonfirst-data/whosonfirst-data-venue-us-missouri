@@ -2,13 +2,14 @@
   "id": 186522997,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.784769,37.931956,-90.784769,37.931956",
     "geom:latitude":37.931956,
     "geom:longitude":-90.784769,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"306 Maple Ln",
     "sg:city":"Potosi",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186522997,
-    "wof:lastmodified":1449051657,
+    "wof:lastmodified":1466622166,
     "wof:name":"Afs Dealer Services, Inc.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "bureau"
     ]
 },
-  "bbox": [-90.784769,37.931956,-90.784769,37.931956],
+  "bbox": [
+    -90.784769,
+    37.931956,
+    -90.784769,
+    37.931956
+],
   "geometry": {"coordinates":[-90.784769,37.931956],"type":"Point"}
 }

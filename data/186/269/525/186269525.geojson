@@ -2,13 +2,14 @@
   "id": 186269525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.225519,38.636433,-90.225519,38.636433",
     "geom:latitude":38.636433,
     "geom:longitude":-90.225519,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3216 Locust St",
     "sg:city":"Saint Louis",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186269525,
-    "wof:lastmodified":1449052056,
+    "wof:lastmodified":1466622269,
     "wof:name":"Tlw Llc",
     "wof:parent_id":85867035,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.225519,38.636433,-90.225519,38.636433],
-  "geometry": {"coordinates":[-90.225519,38.636433],"type":"Point"}
+  "bbox": [
+    -90.225519,
+    38.636433,
+    -90.225519,
+    38.636433
+],
+  "geometry": {"coordinates":[-90.22551900000001,38.636433],"type":"Point"}
 }

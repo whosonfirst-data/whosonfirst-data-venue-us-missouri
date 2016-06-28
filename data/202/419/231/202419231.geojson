@@ -2,13 +2,14 @@
   "id": 202419231,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.463393,39.00929,-94.463393,39.00929",
     "geom:latitude":39.00929,
     "geom:longitude":-94.463393,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6224 Raytown Rd",
     "sg:city":"Raytown",
     "sg:classifiers":[
@@ -64,10 +65,11 @@
         }
     ],
     "wof:id":202419231,
-    "wof:lastmodified":1449062584,
+    "wof:lastmodified":1466622166,
     "wof:name":"H&R Block",
     "wof:parent_id":85871965,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -81,6 +83,11 @@
         "bookkeeping"
     ]
 },
-  "bbox": [-94.463393,39.00929,-94.463393,39.00929],
+  "bbox": [
+    -94.463393,
+    39.00929,
+    -94.463393,
+    39.00929
+],
   "geometry": {"coordinates":[-94.463393,39.00929],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186620871,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.548978,38.900633,-94.548978,38.900633",
     "geom:latitude":38.900633,
     "geom:longitude":-94.548978,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12416 Valley Brook Dr",
     "sg:city":"Grandview",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":186620871,
-    "wof:lastmodified":1449052788,
+    "wof:lastmodified":1466622224,
     "wof:name":"Peace Of Mind Pet Sitting",
     "wof:parent_id":85871941,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "cat"
     ]
 },
-  "bbox": [-94.548978,38.900633,-94.548978,38.900633],
-  "geometry": {"coordinates":[-94.548978,38.900633],"type":"Point"}
+  "bbox": [
+    -94.548978,
+    38.900633,
+    -94.548978,
+    38.900633
+],
+  "geometry": {"coordinates":[-94.54897800000001,38.900633],"type":"Point"}
 }

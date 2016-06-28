@@ -2,13 +2,14 @@
   "id": 202757317,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.28476,36.638245,-93.28476,36.638245",
     "geom:latitude":36.638245,
     "geom:longitude":-93.28476,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2005 E State Highway 76 203",
     "sg:city":"Branson",
     "sg:classifiers":[
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":202757317,
-    "wof:lastmodified":1449061531,
+    "wof:lastmodified":1466622306,
     "wof:name":"Hair & Nails Studio",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.28476,36.638245,-93.28476,36.638245],
-  "geometry": {"coordinates":[-93.28476,36.638245],"type":"Point"}
+  "bbox": [
+    -93.28476,
+    36.638245,
+    -93.28476,
+    36.638245
+],
+  "geometry": {"coordinates":[-93.28476000000001,36.638245],"type":"Point"}
 }

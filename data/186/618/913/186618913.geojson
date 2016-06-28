@@ -2,13 +2,14 @@
   "id": 186618913,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.521258,38.886263,-94.521258,38.886263",
     "geom:latitude":38.886263,
     "geom:longitude":-94.521258,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13116 Parker Ave",
     "sg:city":"Grandview",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":186618913,
-    "wof:lastmodified":1449052034,
+    "wof:lastmodified":1466622215,
     "wof:name":"Ll Tripp Tree Serv Truck",
     "wof:parent_id":85871945,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "trucking"
     ]
 },
-  "bbox": [-94.521258,38.886263,-94.521258,38.886263],
+  "bbox": [
+    -94.521258,
+    38.886263,
+    -94.521258,
+    38.886263
+],
   "geometry": {"coordinates":[-94.521258,38.886263],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186312301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.307198,38.59,-90.307198,38.59",
     "geom:latitude":38.59,
     "geom:longitude":-90.307198,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6723 Plainview Ave",
     "sg:city":"Saint Louis",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186312301,
-    "wof:lastmodified":1449051726,
+    "wof:lastmodified":1466622301,
     "wof:name":"Gilmore Electric Co Inc",
     "wof:parent_id":85873685,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "electrician"
     ]
 },
-  "bbox": [-90.307198,38.59,-90.307198,38.59],
+  "bbox": [
+    -90.307198,
+    38.59,
+    -90.307198,
+    38.59
+],
   "geometry": {"coordinates":[-90.307198,38.59],"type":"Point"}
 }

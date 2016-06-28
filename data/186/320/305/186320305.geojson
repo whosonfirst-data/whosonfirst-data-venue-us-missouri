@@ -2,13 +2,14 @@
   "id": 186320305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.2752,38.6147,-90.2752,38.6147",
     "geom:latitude":38.6147,
     "geom:longitude":-90.2752,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2201 Edwards St",
     "sg:city":"Saint Louis",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186320305,
-    "wof:lastmodified":1449051073,
+    "wof:lastmodified":1466622309,
     "wof:name":"Oldani Brothers Sausage Company Inc",
     "wof:parent_id":85867039,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-90.2752,38.6147,-90.2752,38.6147],
+  "bbox": [
+    -90.2752,
+    38.6147,
+    -90.2752,
+    38.6147
+],
   "geometry": {"coordinates":[-90.2752,38.6147],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186580113,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.074352,36.211794,-90.074352,36.211794",
     "geom:latitude":36.211794,
     "geom:longitude":-90.074352,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2607 Jonesway Dr",
     "sg:city":"Kennett",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186580113,
-    "wof:lastmodified":1449052179,
+    "wof:lastmodified":1466622191,
     "wof:name":"Bootheel Limestone Co Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "lime"
     ]
 },
-  "bbox": [-90.074352,36.211794,-90.074352,36.211794],
+  "bbox": [
+    -90.074352,
+    36.211794,
+    -90.074352,
+    36.211794
+],
   "geometry": {"coordinates":[-90.074352,36.211794],"type":"Point"}
 }

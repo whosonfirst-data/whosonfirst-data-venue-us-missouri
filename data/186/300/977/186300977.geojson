@@ -2,13 +2,14 @@
   "id": 186300977,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.273102,38.653301,-90.273102,38.653301",
     "geom:latitude":38.653301,
     "geom:longitude":-90.273102,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"724 Union Blvd",
     "sg:city":"Saint Louis",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186300977,
-    "wof:lastmodified":1449051896,
+    "wof:lastmodified":1466622293,
     "wof:name":"University Otrch and Extnsn-U of Mo/Lncln U Cprtve",
     "wof:parent_id":85873623,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "college"
     ]
 },
-  "bbox": [-90.273102,38.653301,-90.273102,38.653301],
-  "geometry": {"coordinates":[-90.273102,38.653301],"type":"Point"}
+  "bbox": [
+    -90.273102,
+    38.653301,
+    -90.273102,
+    38.653301
+],
+  "geometry": {"coordinates":[-90.27310199999999,38.653301],"type":"Point"}
 }

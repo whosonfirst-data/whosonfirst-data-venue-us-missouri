@@ -2,13 +2,14 @@
   "id": 186477477,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.384426,39.692897,-91.384426,39.692897",
     "geom:latitude":39.692897,
     "geom:longitude":-91.384426,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2719 Market St",
     "sg:city":"Hannibal",
     "sg:classifiers":[
@@ -67,10 +68,11 @@
         }
     ],
     "wof:id":186477477,
-    "wof:lastmodified":1449050869,
+    "wof:lastmodified":1466622140,
     "wof:name":"Bowen Auto Body",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -84,6 +86,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-91.384426,39.692897,-91.384426,39.692897],
+  "bbox": [
+    -91.384426,
+    39.692897,
+    -91.384426,
+    39.692897
+],
   "geometry": {"coordinates":[-91.384426,39.692897],"type":"Point"}
 }

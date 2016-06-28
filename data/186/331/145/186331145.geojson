@@ -2,13 +2,14 @@
   "id": 186331145,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.263397,38.616001,-90.263397,38.616001",
     "geom:latitude":38.616001,
     "geom:longitude":-90.263397,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2030 S Vandeventer Ave",
     "sg:city":"Saint Louis",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186331145,
-    "wof:lastmodified":1449051993,
+    "wof:lastmodified":1466622317,
     "wof:name":"Meda P Washington Center",
     "wof:parent_id":85867039,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "elementary"
     ]
 },
-  "bbox": [-90.263397,38.616001,-90.263397,38.616001],
+  "bbox": [
+    -90.263397,
+    38.616001,
+    -90.263397,
+    38.616001
+],
   "geometry": {"coordinates":[-90.263397,38.616001],"type":"Point"}
 }

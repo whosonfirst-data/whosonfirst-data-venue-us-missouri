@@ -2,13 +2,14 @@
   "id": 337283245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.213154,37.821056,-92.213154,37.821056",
     "geom:latitude":37.821056,
     "geom:longitude":-92.213154,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1119 Historic 66 W",
     "sg:city":"Waynesville",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":337283245,
-    "wof:lastmodified":1449027184,
+    "wof:lastmodified":1466622124,
     "wof:name":"West Side Cafe",
     "wof:parent_id":85822351,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "pan"
     ]
 },
-  "bbox": [-92.213154,37.821056,-92.213154,37.821056],
+  "bbox": [
+    -92.213154,
+    37.821056,
+    -92.213154,
+    37.821056
+],
   "geometry": {"coordinates":[-92.213154,37.821056],"type":"Point"}
 }

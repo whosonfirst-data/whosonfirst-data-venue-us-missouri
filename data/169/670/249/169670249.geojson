@@ -2,13 +2,14 @@
   "id": 169670249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.583943,39.087349,-94.583943,39.087349",
     "geom:latitude":39.087349,
     "geom:longitude":-94.583943,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2010 Main St",
     "sg:city":"Kansas City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":169670249,
-    "wof:lastmodified":1449033184,
+    "wof:lastmodified":1466622398,
     "wof:name":"Office Express",
     "wof:parent_id":85867023,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.583943,39.087349,-94.583943,39.087349],
+  "bbox": [
+    -94.583943,
+    39.087349,
+    -94.583943,
+    39.087349
+],
   "geometry": {"coordinates":[-94.583943,39.087349],"type":"Point"}
 }

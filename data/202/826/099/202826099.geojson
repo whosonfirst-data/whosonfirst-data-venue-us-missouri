@@ -2,13 +2,14 @@
   "id": 202826099,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.139639,36.625388,-93.139639,36.625388",
     "geom:latitude":36.625388,
     "geom:longitude":-93.139639,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7031 E State Highway 76",
     "sg:city":"Kirbyville",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202826099,
-    "wof:lastmodified":1449061943,
+    "wof:lastmodified":1466622335,
     "wof:name":"Favour Realty",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "broker"
     ]
 },
-  "bbox": [-93.139639,36.625388,-93.139639,36.625388],
+  "bbox": [
+    -93.139639,
+    36.625388,
+    -93.139639,
+    36.625388
+],
   "geometry": {"coordinates":[-93.139639,36.625388],"type":"Point"}
 }

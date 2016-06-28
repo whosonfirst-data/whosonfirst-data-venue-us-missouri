@@ -2,13 +2,14 @@
   "id": 169596071,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.605702,39.071774,-94.605702,39.071774",
     "geom:latitude":39.071774,
     "geom:longitude":-94.605702,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1501 W 31 St",
     "sg:city":"Kansas City",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169596071,
-    "wof:lastmodified":1449034374,
+    "wof:lastmodified":1466622115,
     "wof:name":"Signature Canvas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "supply"
     ]
 },
-  "bbox": [-94.605702,39.071774,-94.605702,39.071774],
-  "geometry": {"coordinates":[-94.605702,39.071774],"type":"Point"}
+  "bbox": [
+    -94.605702,
+    39.071774,
+    -94.605702,
+    39.071774
+],
+  "geometry": {"coordinates":[-94.60570199999999,39.071774],"type":"Point"}
 }

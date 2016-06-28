@@ -2,13 +2,14 @@
   "id": 202494399,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.37238,38.48377,-94.37238,38.48377",
     "geom:latitude":38.48377,
     "geom:longitude":-94.37238,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"19707 E State Route A",
     "sg:city":"Archie",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":202494399,
-    "wof:lastmodified":1449062370,
+    "wof:lastmodified":1466622194,
     "wof:name":"Kfg Enterprises",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "trade"
     ]
 },
-  "bbox": [-94.37238,38.48377,-94.37238,38.48377],
-  "geometry": {"coordinates":[-94.37238,38.48377],"type":"Point"}
+  "bbox": [
+    -94.37238,
+    38.48377,
+    -94.37238,
+    38.48377
+],
+  "geometry": {"coordinates":[-94.37238000000001,38.48377],"type":"Point"}
 }

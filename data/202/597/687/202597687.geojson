@@ -2,13 +2,14 @@
   "id": 202597687,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.285713,38.96656,-92.285713,38.96656",
     "geom:latitude":38.96656,
     "geom:longitude":-92.285713,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3200 Penn Ter Ste 101",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202597687,
-    "wof:lastmodified":1449062601,
+    "wof:lastmodified":1466622230,
     "wof:name":"El Jimabor",
     "wof:parent_id":85851713,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mexican"
     ]
 },
-  "bbox": [-92.285713,38.96656,-92.285713,38.96656],
+  "bbox": [
+    -92.285713,
+    38.96656,
+    -92.285713,
+    38.96656
+],
   "geometry": {"coordinates":[-92.285713,38.96656],"type":"Point"}
 }

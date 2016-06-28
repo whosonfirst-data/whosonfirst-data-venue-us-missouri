@@ -2,13 +2,14 @@
   "id": 202885707,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.239949,37.232491,-93.239949,37.232491",
     "geom:latitude":37.232491,
     "geom:longitude":-93.239949,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2729 E Atlantic St",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202885707,
-    "wof:lastmodified":1449061460,
+    "wof:lastmodified":1466622360,
     "wof:name":"Wpd Energy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.239949,37.232491,-93.239949,37.232491],
+  "bbox": [
+    -93.239949,
+    37.232491,
+    -93.239949,
+    37.232491
+],
   "geometry": {"coordinates":[-93.239949,37.232491],"type":"Point"}
 }

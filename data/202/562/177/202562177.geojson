@@ -2,13 +2,14 @@
   "id": 202562177,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.555241,38.627251,-92.555241,38.627251",
     "geom:latitude":38.627251,
     "geom:longitude":-92.555241,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1105 W Buchanan St",
     "sg:city":"California",
     "sg:classifiers":[
@@ -64,10 +65,11 @@
         }
     ],
     "wof:id":202562177,
-    "wof:lastmodified":1449061454,
+    "wof:lastmodified":1466622215,
     "wof:name":"Mfa Oil",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -78,6 +80,11 @@
         "oils-fuel"
     ]
 },
-  "bbox": [-92.555241,38.627251,-92.555241,38.627251],
+  "bbox": [
+    -92.555241,
+    38.627251,
+    -92.555241,
+    38.627251
+],
   "geometry": {"coordinates":[-92.555241,38.627251],"type":"Point"}
 }

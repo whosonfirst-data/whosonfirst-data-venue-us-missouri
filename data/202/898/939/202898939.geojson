@@ -2,13 +2,14 @@
   "id": 202898939,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.299223,37.209392,-93.299223,37.209392",
     "geom:latitude":37.209392,
     "geom:longitude":-93.299223,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"722B W Olive St",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":202898939,
-    "wof:lastmodified":1449060056,
+    "wof:lastmodified":1466622379,
     "wof:name":"Morelock-Ross Properties Mgt",
     "wof:parent_id":85881163,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "management"
     ]
 },
-  "bbox": [-93.299223,37.209392,-93.299223,37.209392],
+  "bbox": [
+    -93.299223,
+    37.209392,
+    -93.299223,
+    37.209392
+],
   "geometry": {"coordinates":[-93.299223,37.209392],"type":"Point"}
 }

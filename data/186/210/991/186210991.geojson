@@ -2,13 +2,14 @@
   "id": 186210991,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.196123,38.629343,-90.196123,38.629343",
     "geom:latitude":38.629343,
     "geom:longitude":-90.196123,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1108 Olive St Ste 100",
     "sg:city":"Saint Louis",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":186210991,
-    "wof:lastmodified":1449051299,
+    "wof:lastmodified":1466622246,
     "wof:name":"Saeger Search",
     "wof:parent_id":85873645,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.196123,38.629343,-90.196123,38.629343],
+  "bbox": [
+    -90.196123,
+    38.629343,
+    -90.196123,
+    38.629343
+],
   "geometry": {"coordinates":[-90.196123,38.629343],"type":"Point"}
 }

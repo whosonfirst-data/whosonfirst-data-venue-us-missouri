@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102204577",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.322415,36.525142,-93.322415,36.525142",
     "geom:latitude":36.525142,
     "geom:longitude":-93.322415,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"86 S Ridge Ln",
     "sg:city":"Blue Eye",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":"102204577",
-    "wof:lastmodified":1449070284,
+    "wof:lastmodified":1466622117,
     "wof:name":"Marine Specialists",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.322415,36.525142,-93.322415,36.525142],
-  "geometry": {"coordinates":[-93.322415,36.525142],"type":"Point"}
+  "bbox": [
+    -93.322415,
+    36.525142,
+    -93.322415,
+    36.525142
+],
+  "geometry": {"coordinates":[-93.32241500000001,36.525142],"type":"Point"}
 }

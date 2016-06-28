@@ -2,13 +2,14 @@
   "id": 202378303,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.451492,39.25624,-94.451492,39.25624",
     "geom:latitude":39.25624,
     "geom:longitude":-94.451492,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"888 Haines Ste 212",
     "sg:city":"Liberty",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202378303,
-    "wof:lastmodified":1449061799,
+    "wof:lastmodified":1466622124,
     "wof:name":"Pnd Investments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "advisory"
     ]
 },
-  "bbox": [-94.451492,39.25624,-94.451492,39.25624],
+  "bbox": [
+    -94.451492,
+    39.25624,
+    -94.451492,
+    39.25624
+],
   "geometry": {"coordinates":[-94.451492,39.25624],"type":"Point"}
 }

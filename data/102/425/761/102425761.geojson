@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102425761,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.090492,36.614263,-92.090492,36.614263",
     "geom:latitude":36.614263,
     "geom:longitude":-92.090492,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"611 US Hwy 160",
     "sg:city":"Caulfield",
     "sg:classifiers":[
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":102425761,
-    "wof:lastmodified":1449068636,
+    "wof:lastmodified":1466622401,
     "wof:name":"Reid's Auction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.090492,36.614263,-92.090492,36.614263],
+  "bbox": [
+    -92.090492,
+    36.614263,
+    -92.090492,
+    36.614263
+],
   "geometry": {"coordinates":[-92.090492,36.614263],"type":"Point"}
 }

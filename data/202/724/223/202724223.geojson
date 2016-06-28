@@ -2,13 +2,14 @@
   "id": 202724223,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.273037,37.861681,-92.273037,37.861681",
     "geom:latitude":37.861681,
     "geom:longitude":-92.273037,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"20500 Ridge Ln",
     "sg:city":"Waynesville",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":202724223,
-    "wof:lastmodified":1449062574,
+    "wof:lastmodified":1466622285,
     "wof:name":"Gasconade Christian Svc Camp",
     "wof:parent_id":85822351,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "church"
     ]
 },
-  "bbox": [-92.273037,37.861681,-92.273037,37.861681],
+  "bbox": [
+    -92.273037,
+    37.861681,
+    -92.273037,
+    37.861681
+],
   "geometry": {"coordinates":[-92.273037,37.861681],"type":"Point"}
 }

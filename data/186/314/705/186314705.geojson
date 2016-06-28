@@ -2,13 +2,14 @@
   "id": 186314705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.303703,38.590801,-90.303703,38.590801",
     "geom:latitude":38.590801,
     "geom:longitude":-90.303703,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6500 Lansdowne Ave",
     "sg:city":"Saint Louis",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186314705,
-    "wof:lastmodified":1449052925,
+    "wof:lastmodified":1466622303,
     "wof:name":"Doctor's Office Inc the",
     "wof:parent_id":85873685,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.303703,38.590801,-90.303703,38.590801],
+  "bbox": [
+    -90.303703,
+    38.590801,
+    -90.303703,
+    38.590801
+],
   "geometry": {"coordinates":[-90.303703,38.590801],"type":"Point"}
 }

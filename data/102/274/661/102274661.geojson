@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102274661",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.397064,36.500274,-93.397064,36.500274",
     "geom:latitude":36.500274,
     "geom:longitude":-93.397064,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"139 State Hwy 13",
     "sg:city":"Blue Eye",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":"102274661",
-    "wof:lastmodified":1449068102,
+    "wof:lastmodified":1466622117,
     "wof:name":"State Line Liquor",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.397064,36.500274,-93.397064,36.500274],
+  "bbox": [
+    -93.397064,
+    36.500274,
+    -93.397064,
+    36.500274
+],
   "geometry": {"coordinates":[-93.397064,36.500274],"type":"Point"}
 }

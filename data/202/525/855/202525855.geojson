@@ -2,13 +2,14 @@
   "id": 202525855,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.502775,37.0779,-94.502775,37.0779",
     "geom:latitude":37.0779,
     "geom:longitude":-94.502775,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1211 Illinois Ave",
     "sg:city":"Joplin",
     "sg:classifiers":[
@@ -57,16 +58,22 @@
         }
     ],
     "wof:id":202525855,
-    "wof:lastmodified":1449062137,
+    "wof:lastmodified":1466622206,
     "wof:name":"Judevine Autism Project",
     "wof:parent_id":85885363,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welfare"
     ]
 },
-  "bbox": [-94.502775,37.0779,-94.502775,37.0779],
+  "bbox": [
+    -94.502775,
+    37.0779,
+    -94.502775,
+    37.0779
+],
   "geometry": {"coordinates":[-94.502775,37.0779],"type":"Point"}
 }

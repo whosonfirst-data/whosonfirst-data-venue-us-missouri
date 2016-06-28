@@ -2,13 +2,14 @@
   "id": 202791779,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.367965,37.128862,-93.367965,37.128862",
     "geom:latitude":37.128862,
     "geom:longitude":-93.367965,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4245 S State Highway Ff",
     "sg:city":"Brookline",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202791779,
-    "wof:lastmodified":1449062072,
+    "wof:lastmodified":1466622326,
     "wof:name":"Kt Electric",
     "wof:parent_id":85881151,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "electrician"
     ]
 },
-  "bbox": [-93.367965,37.128862,-93.367965,37.128862],
+  "bbox": [
+    -93.367965,
+    37.128862,
+    -93.367965,
+    37.128862
+],
   "geometry": {"coordinates":[-93.367965,37.128862],"type":"Point"}
 }

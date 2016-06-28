@@ -2,13 +2,14 @@
   "id": 186162479,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.372072,38.743909,-90.372072,38.743909",
     "geom:latitude":38.743909,
     "geom:longitude":-90.372072,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10810 Lambert International Blvd",
     "sg:city":"Bridgeton",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":186162479,
-    "wof:lastmodified":1449052621,
+    "wof:lastmodified":1466622186,
     "wof:name":"Naval Reserve Center St Louis",
     "wof:parent_id":85832777,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "recruiting"
     ]
 },
-  "bbox": [-90.372072,38.743909,-90.372072,38.743909],
+  "bbox": [
+    -90.372072,
+    38.743909,
+    -90.372072,
+    38.743909
+],
   "geometry": {"coordinates":[-90.372072,38.743909],"type":"Point"}
 }

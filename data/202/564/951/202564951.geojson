@@ -2,13 +2,14 @@
   "id": 202564951,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.676541,37.94971,-92.676541,37.94971",
     "geom:latitude":37.94971,
     "geom:longitude":-92.676541,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"124 Meadowlark Ln",
     "sg:city":"Camdenton",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":202564951,
-    "wof:lastmodified":1449062496,
+    "wof:lastmodified":1466622221,
     "wof:name":"Roofing Co Of Lake Of Ozar",
     "wof:parent_id":85813457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "contractor"
     ]
 },
-  "bbox": [-92.676541,37.94971,-92.676541,37.94971],
+  "bbox": [
+    -92.676541,
+    37.94971,
+    -92.676541,
+    37.94971
+],
   "geometry": {"coordinates":[-92.676541,37.94971],"type":"Point"}
 }

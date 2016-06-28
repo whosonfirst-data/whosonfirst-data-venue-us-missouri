@@ -2,13 +2,14 @@
   "id": 202419437,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.44662,39.017778,-94.44662,39.017778",
     "geom:latitude":39.017778,
     "geom:longitude":-94.44662,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11312 E 57th Ter",
     "sg:city":"Raytown",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202419437,
-    "wof:lastmodified":1449062586,
+    "wof:lastmodified":1466622167,
     "wof:name":"Central Rver Waste Wtr. Utility",
     "wof:parent_id":85871965,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.44662,39.017778,-94.44662,39.017778],
+  "bbox": [
+    -94.44662,
+    39.017778,
+    -94.44662,
+    39.017778
+],
   "geometry": {"coordinates":[-94.44662,39.017778],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202764979,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.265324,36.637258,-93.265324,36.637258",
     "geom:latitude":36.637258,
     "geom:longitude":-93.265324,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2501 Green Mountain Dr",
     "sg:city":"Branson",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":202764979,
-    "wof:lastmodified":1449062531,
+    "wof:lastmodified":1466622308,
     "wof:name":"Dinosaur Canyon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "arcade"
     ]
 },
-  "bbox": [-93.265324,36.637258,-93.265324,36.637258],
-  "geometry": {"coordinates":[-93.265324,36.637258],"type":"Point"}
+  "bbox": [
+    -93.265324,
+    36.637258,
+    -93.265324,
+    36.637258
+],
+  "geometry": {"coordinates":[-93.26532400000001,36.637258],"type":"Point"}
 }

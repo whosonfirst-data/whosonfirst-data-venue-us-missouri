@@ -2,13 +2,14 @@
   "id": 202686199,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.77977,37.946095,-91.77977,37.946095",
     "geom:latitude":37.946095,
     "geom:longitude":-91.77977,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1014 Kingshighway St # 5",
     "sg:city":"Rolla",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202686199,
-    "wof:lastmodified":1449062037,
+    "wof:lastmodified":1466622261,
     "wof:name":"R & L Warehouses",
     "wof:parent_id":85814531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "accessory"
     ]
 },
-  "bbox": [-91.77977,37.946095,-91.77977,37.946095],
+  "bbox": [
+    -91.77977,
+    37.946095,
+    -91.77977,
+    37.946095
+],
   "geometry": {"coordinates":[-91.77977,37.946095],"type":"Point"}
 }

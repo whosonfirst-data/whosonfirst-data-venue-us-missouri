@@ -2,13 +2,14 @@
   "id": 186145223,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.318461,38.820315,-90.318461,38.820315",
     "geom:latitude":38.820315,
     "geom:longitude":-90.318461,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2890 Patterson Rd",
     "sg:city":"Florissant",
     "sg:classifiers":[
@@ -69,10 +70,11 @@
         }
     ],
     "wof:id":186145223,
-    "wof:lastmodified":1449051191,
+    "wof:lastmodified":1466622173,
     "wof:name":"First Christian",
     "wof:parent_id":85813019,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -81,6 +83,11 @@
         "churches-non-denominational"
     ]
 },
-  "bbox": [-90.318461,38.820315,-90.318461,38.820315],
+  "bbox": [
+    -90.318461,
+    38.820315,
+    -90.318461,
+    38.820315
+],
   "geometry": {"coordinates":[-90.318461,38.820315],"type":"Point"}
 }

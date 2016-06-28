@@ -2,13 +2,14 @@
   "id": 186255875,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.184502,38.630501,-90.184502,38.630501",
     "geom:latitude":38.630501,
     "geom:longitude":-90.184502,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"700 N 2nd St Ste 402",
     "sg:city":"Saint Louis",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186255875,
-    "wof:lastmodified":1449051590,
+    "wof:lastmodified":1466622261,
     "wof:name":"Cantor & Burger",
     "wof:parent_id":85873643,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "family"
     ]
 },
-  "bbox": [-90.184502,38.630501,-90.184502,38.630501],
-  "geometry": {"coordinates":[-90.184502,38.630501],"type":"Point"}
+  "bbox": [
+    -90.184502,
+    38.630501,
+    -90.184502,
+    38.630501
+],
+  "geometry": {"coordinates":[-90.18450199999999,38.630501],"type":"Point"}
 }

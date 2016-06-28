@@ -2,13 +2,14 @@
   "id": 202387963,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.454947,39.26657,-94.454947,39.26657",
     "geom:latitude":39.26657,
     "geom:longitude":-94.454947,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1512 NE 96th St",
     "sg:city":"Liberty",
     "sg:classifiers":[
@@ -67,10 +68,11 @@
         }
     ],
     "wof:id":202387963,
-    "wof:lastmodified":1449062314,
+    "wof:lastmodified":1466622153,
     "wof:name":"Target Direct Mktg.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -83,6 +85,11 @@
         "mail"
     ]
 },
-  "bbox": [-94.454947,39.26657,-94.454947,39.26657],
+  "bbox": [
+    -94.454947,
+    39.26657,
+    -94.454947,
+    39.26657
+],
   "geometry": {"coordinates":[-94.454947,39.26657],"type":"Point"}
 }

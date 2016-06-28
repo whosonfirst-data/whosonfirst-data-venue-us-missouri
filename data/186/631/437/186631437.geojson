@@ -2,13 +2,14 @@
   "id": 186631437,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.418738,39.091097,-94.418738,39.091097",
     "geom:latitude":39.091097,
     "geom:longitude":-94.418738,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"317 W Kansas Ave",
     "sg:city":"Independence",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":186631437,
-    "wof:lastmodified":1449051207,
+    "wof:lastmodified":1466622247,
     "wof:name":"O'Connor Title Services Inc",
     "wof:parent_id":85833097,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "abstracter"
     ]
 },
-  "bbox": [-94.418738,39.091097,-94.418738,39.091097],
+  "bbox": [
+    -94.418738,
+    39.091097,
+    -94.418738,
+    39.091097
+],
   "geometry": {"coordinates":[-94.418738,39.091097],"type":"Point"}
 }

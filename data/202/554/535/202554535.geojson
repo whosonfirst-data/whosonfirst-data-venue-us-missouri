@@ -2,13 +2,14 @@
   "id": 202554535,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.610815,36.819581,-94.610815,36.819581",
     "geom:latitude":36.819581,
     "geom:longitude":-94.610815,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18345 Highway 43",
     "sg:city":"Seneca",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":202554535,
-    "wof:lastmodified":1449060637,
+    "wof:lastmodified":1466622216,
     "wof:name":"Freight Matcher",
     "wof:parent_id":85814333,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "trucking"
     ]
 },
-  "bbox": [-94.610815,36.819581,-94.610815,36.819581],
+  "bbox": [
+    -94.610815,
+    36.819581,
+    -94.610815,
+    36.819581
+],
   "geometry": {"coordinates":[-94.610815,36.819581],"type":"Point"}
 }

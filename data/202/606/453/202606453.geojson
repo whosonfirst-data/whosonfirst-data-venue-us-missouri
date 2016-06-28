@@ -2,13 +2,14 @@
   "id": 202606453,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.398033,38.93243,-92.398033,38.93243",
     "geom:latitude":38.93243,
     "geom:longitude":-92.398033,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4200 Merchant St. Ste. 103",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -64,10 +65,11 @@
         }
     ],
     "wof:id":202606453,
-    "wof:lastmodified":1449060498,
+    "wof:lastmodified":1466622237,
     "wof:name":"Darrough & Wright Attorneys at Law",
     "wof:parent_id":85835171,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -81,6 +83,11 @@
         "bankruptcy"
     ]
 },
-  "bbox": [-92.398033,38.93243,-92.398033,38.93243],
+  "bbox": [
+    -92.398033,
+    38.93243,
+    -92.398033,
+    38.93243
+],
   "geometry": {"coordinates":[-92.398033,38.93243],"type":"Point"}
 }

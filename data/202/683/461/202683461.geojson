@@ -2,13 +2,14 @@
   "id": 202683461,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.52225,38.532163,-93.52225,38.532163",
     "geom:latitude":38.532163,
     "geom:longitude":-93.52225,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"122 S Main St",
     "sg:city":"Windsor",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202683461,
-    "wof:lastmodified":1449061043,
+    "wof:lastmodified":1466622262,
     "wof:name":"New China",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "pan"
     ]
 },
-  "bbox": [-93.52225,38.532163,-93.52225,38.532163],
+  "bbox": [
+    -93.52225,
+    38.532163,
+    -93.52225,
+    38.532163
+],
   "geometry": {"coordinates":[-93.52225,38.532163],"type":"Point"}
 }

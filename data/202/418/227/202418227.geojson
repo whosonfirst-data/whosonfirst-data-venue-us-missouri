@@ -2,13 +2,14 @@
   "id": 202418227,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.46307,39.008722,-94.46307,39.008722",
     "geom:latitude":39.008722,
     "geom:longitude":-94.46307,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10032 E 63rd St",
     "sg:city":"Raytown",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":202418227,
-    "wof:lastmodified":1449062105,
+    "wof:lastmodified":1466622165,
     "wof:name":"West Central Missouri Fop 50",
     "wof:parent_id":85871965,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "employer"
     ]
 },
-  "bbox": [-94.46307,39.008722,-94.46307,39.008722],
+  "bbox": [
+    -94.46307,
+    39.008722,
+    -94.46307,
+    39.008722
+],
   "geometry": {"coordinates":[-94.46307,39.008722],"type":"Point"}
 }

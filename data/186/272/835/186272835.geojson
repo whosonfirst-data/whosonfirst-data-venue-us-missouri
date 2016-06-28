@@ -2,13 +2,14 @@
   "id": 186272835,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.235497,38.622299,-90.235497,38.622299",
     "geom:latitude":38.622299,
     "geom:longitude":-90.235497,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3504 Caroline St",
     "sg:city":"Saint Louis",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186272835,
-    "wof:lastmodified":1449052846,
+    "wof:lastmodified":1466622273,
     "wof:name":"Good Start Daycare",
     "wof:parent_id":85873659,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "day"
     ]
 },
-  "bbox": [-90.235497,38.622299,-90.235497,38.622299],
+  "bbox": [
+    -90.235497,
+    38.622299,
+    -90.235497,
+    38.622299
+],
   "geometry": {"coordinates":[-90.235497,38.622299],"type":"Point"}
 }

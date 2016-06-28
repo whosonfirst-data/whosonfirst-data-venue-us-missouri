@@ -2,13 +2,14 @@
   "id": 202527697,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.522332,37.063488,-94.522332,37.063488",
     "geom:latitude":37.063488,
     "geom:longitude":-94.522332,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2503 S Jackson Ave",
     "sg:city":"Joplin",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":202527697,
-    "wof:lastmodified":1449062143,
+    "wof:lastmodified":1466622208,
     "wof:name":"Brooks Douglas A",
     "wof:parent_id":85885363,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "psychologist"
     ]
 },
-  "bbox": [-94.522332,37.063488,-94.522332,37.063488],
-  "geometry": {"coordinates":[-94.522332,37.063488],"type":"Point"}
+  "bbox": [
+    -94.522332,
+    37.063488,
+    -94.522332,
+    37.063488
+],
+  "geometry": {"coordinates":[-94.52233200000001,37.063488],"type":"Point"}
 }

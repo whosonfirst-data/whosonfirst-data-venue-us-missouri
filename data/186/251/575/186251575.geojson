@@ -2,13 +2,14 @@
   "id": 186251575,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.197607,38.625455,-90.197607,38.625455",
     "geom:latitude":38.625455,
     "geom:longitude":-90.197607,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"133 S 11th St Ste 350",
     "sg:city":"Saint Louis",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186251575,
-    "wof:lastmodified":1449050312,
+    "wof:lastmodified":1466622260,
     "wof:name":"James E Heckel",
     "wof:parent_id":85873645,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "injury"
     ]
 },
-  "bbox": [-90.197607,38.625455,-90.197607,38.625455],
+  "bbox": [
+    -90.197607,
+    38.625455,
+    -90.197607,
+    38.625455
+],
   "geometry": {"coordinates":[-90.197607,38.625455],"type":"Point"}
 }

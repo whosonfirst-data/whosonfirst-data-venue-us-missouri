@@ -2,13 +2,14 @@
   "id": 186636667,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.403213,39.056841,-94.403213,39.056841",
     "geom:latitude":39.056841,
     "geom:longitude":-94.403213,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15008 E 35th St S",
     "sg:city":"Independence",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":186636667,
-    "wof:lastmodified":1449051432,
+    "wof:lastmodified":1466622273,
     "wof:name":"Church of Christ Zion Witness Restoration Branch",
     "wof:parent_id":85847737,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "christ"
     ]
 },
-  "bbox": [-94.403213,39.056841,-94.403213,39.056841],
-  "geometry": {"coordinates":[-94.403213,39.056841],"type":"Point"}
+  "bbox": [
+    -94.403213,
+    39.056841,
+    -94.403213,
+    39.056841
+],
+  "geometry": {"coordinates":[-94.40321299999999,39.056841],"type":"Point"}
 }

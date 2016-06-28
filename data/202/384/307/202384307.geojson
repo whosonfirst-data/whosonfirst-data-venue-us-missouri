@@ -2,13 +2,14 @@
   "id": 202384307,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.431615,39.235939,-94.431615,39.235939",
     "geom:latitude":39.235939,
     "geom:longitude":-94.431615,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"951 Sutton Pl",
     "sg:city":"Liberty",
     "sg:classifiers":[
@@ -67,10 +68,11 @@
         }
     ],
     "wof:id":202384307,
-    "wof:lastmodified":1449060415,
+    "wof:lastmodified":1466622133,
     "wof:name":"Gene's Tire & Service Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -83,6 +85,11 @@
         "brake"
     ]
 },
-  "bbox": [-94.431615,39.235939,-94.431615,39.235939],
-  "geometry": {"coordinates":[-94.431615,39.235939],"type":"Point"}
+  "bbox": [
+    -94.431615,
+    39.235939,
+    -94.431615,
+    39.235939
+],
+  "geometry": {"coordinates":[-94.43161499999999,39.235939],"type":"Point"}
 }

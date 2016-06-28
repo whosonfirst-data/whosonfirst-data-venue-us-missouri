@@ -2,13 +2,14 @@
   "id": 186329923,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.286817,38.62287,-90.286817,38.62287",
     "geom:latitude":38.62287,
     "geom:longitude":-90.286817,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6001 Manchester Ave",
     "sg:city":"Saint Louis",
     "sg:classifiers":[
@@ -57,16 +58,22 @@
         }
     ],
     "wof:id":186329923,
-    "wof:lastmodified":1449051132,
+    "wof:lastmodified":1466622319,
     "wof:name":"Nick's Pub",
     "wof:parent_id":85873705,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "irish"
     ]
 },
-  "bbox": [-90.286817,38.62287,-90.286817,38.62287],
+  "bbox": [
+    -90.286817,
+    38.62287,
+    -90.286817,
+    38.62287
+],
   "geometry": {"coordinates":[-90.286817,38.62287],"type":"Point"}
 }

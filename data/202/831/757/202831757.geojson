@@ -2,13 +2,14 @@
   "id": 202831757,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.644348,36.593891,-91.644348,36.593891",
     "geom:latitude":36.593891,
     "geom:longitude":-91.644348,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 Luyster St",
     "sg:city":"Koshkonong",
     "sg:classifiers":[
@@ -55,16 +56,22 @@
         }
     ],
     "wof:id":202831757,
-    "wof:lastmodified":1449061602,
+    "wof:lastmodified":1466622336,
     "wof:name":"Gingers Country Cafe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "espresso"
     ]
 },
-  "bbox": [-91.644348,36.593891,-91.644348,36.593891],
-  "geometry": {"coordinates":[-91.644348,36.593891],"type":"Point"}
+  "bbox": [
+    -91.644348,
+    36.593891,
+    -91.644348,
+    36.593891
+],
+  "geometry": {"coordinates":[-91.64434799999999,36.593891],"type":"Point"}
 }

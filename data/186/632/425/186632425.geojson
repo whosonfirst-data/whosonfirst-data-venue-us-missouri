@@ -2,13 +2,14 @@
   "id": 186632425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.444321,39.080026,-94.444321,39.080026",
     "geom:latitude":39.080026,
     "geom:longitude":-94.444321,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2305 S Claremont Ave",
     "sg:city":"Independence",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":186632425,
-    "wof:lastmodified":1449052089,
+    "wof:lastmodified":1466622251,
     "wof:name":"Five Star Auto",
     "wof:parent_id":85818127,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "repairing"
     ]
 },
-  "bbox": [-94.444321,39.080026,-94.444321,39.080026],
+  "bbox": [
+    -94.444321,
+    39.080026,
+    -94.444321,
+    39.080026
+],
   "geometry": {"coordinates":[-94.444321,39.080026],"type":"Point"}
 }

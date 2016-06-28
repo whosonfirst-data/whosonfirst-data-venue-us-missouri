@@ -2,13 +2,14 @@
   "id": 202656163,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.250519,38.700718,-93.250519,38.700718",
     "geom:latitude":38.700718,
     "geom:longitude":-93.250519,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1400 S Limit Ave Unit 76",
     "sg:city":"Sedalia",
     "sg:classifiers":[
@@ -73,10 +74,11 @@
         }
     ],
     "wof:id":202656163,
-    "wof:lastmodified":1449061739,
+    "wof:lastmodified":1466622252,
     "wof:name":"Edward Jones - LINDAL R GRECHUS",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -95,6 +97,11 @@
         "stock"
     ]
 },
-  "bbox": [-93.250519,38.700718,-93.250519,38.700718],
+  "bbox": [
+    -93.250519,
+    38.700718,
+    -93.250519,
+    38.700718
+],
   "geometry": {"coordinates":[-93.250519,38.700718],"type":"Point"}
 }

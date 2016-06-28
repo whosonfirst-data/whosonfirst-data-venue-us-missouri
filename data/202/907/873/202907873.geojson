@@ -2,13 +2,14 @@
   "id": 202907873,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.201079,37.168521,-93.201079,37.168521",
     "geom:latitude":37.168521,
     "geom:longitude":-93.201079,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4515 E Kensington St",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":202907873,
-    "wof:lastmodified":1449062453,
+    "wof:lastmodified":1466622383,
     "wof:name":"Allyn Family Foundation",
     "wof:parent_id":85881121,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "volunteer"
     ]
 },
-  "bbox": [-93.201079,37.168521,-93.201079,37.168521],
-  "geometry": {"coordinates":[-93.201079,37.168521],"type":"Point"}
+  "bbox": [
+    -93.201079,
+    37.168521,
+    -93.201079,
+    37.168521
+],
+  "geometry": {"coordinates":[-93.20107899999999,37.168521],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186098425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.37178,38.451721,-90.37178,38.451721",
     "geom:latitude":38.451721,
     "geom:longitude":-90.37178,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Circle Dr",
     "sg:city":"Arnold",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186098425,
-    "wof:lastmodified":1449052738,
+    "wof:lastmodified":1466622141,
     "wof:name":"L L Properties Trust",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "trust"
     ]
 },
-  "bbox": [-90.37178,38.451721,-90.37178,38.451721],
+  "bbox": [
+    -90.37178,
+    38.451721,
+    -90.37178,
+    38.451721
+],
   "geometry": {"coordinates":[-90.37178,38.451721],"type":"Point"}
 }

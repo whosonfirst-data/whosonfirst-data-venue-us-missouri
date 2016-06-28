@@ -2,13 +2,14 @@
   "id": 186144405,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.320338,38.830275,-90.320338,38.830275",
     "geom:latitude":38.830275,
     "geom:longitude":-90.320338,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3244 Chicory Creek Ln",
     "sg:city":"Florissant",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186144405,
-    "wof:lastmodified":1449052326,
+    "wof:lastmodified":1466622174,
     "wof:name":"AMC Refrigeration",
     "wof:parent_id":85813019,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "refrigerating"
     ]
 },
-  "bbox": [-90.320338,38.830275,-90.320338,38.830275],
-  "geometry": {"coordinates":[-90.320338,38.830275],"type":"Point"}
+  "bbox": [
+    -90.320338,
+    38.830275,
+    -90.320338,
+    38.830275
+],
+  "geometry": {"coordinates":[-90.32033800000001,38.830275],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202666605,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.90429,38.995468,-92.90429,38.995468",
     "geom:latitude":38.995468,
     "geom:longitude":-92.90429,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7665 Arrow Rock Rd",
     "sg:city":"Blackwater",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":202666605,
-    "wof:lastmodified":1449061037,
+    "wof:lastmodified":1466622257,
     "wof:name":"Sites Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.90429,38.995468,-92.90429,38.995468],
+  "bbox": [
+    -92.90429,
+    38.995468,
+    -92.90429,
+    38.995468
+],
   "geometry": {"coordinates":[-92.90429,38.995468],"type":"Point"}
 }

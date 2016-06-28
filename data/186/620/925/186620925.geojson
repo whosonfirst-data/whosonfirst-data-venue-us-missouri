@@ -2,13 +2,14 @@
   "id": 186620925,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.505537,38.896009,-94.505537,38.896009",
     "geom:latitude":38.896009,
     "geom:longitude":-94.505537,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12508 Oakland Ave",
     "sg:city":"Grandview",
     "sg:classifiers":[
@@ -66,10 +67,11 @@
         }
     ],
     "wof:id":186620925,
-    "wof:lastmodified":1449052785,
+    "wof:lastmodified":1466622225,
     "wof:name":"S.B.S. Distributers Inc",
     "wof:parent_id":85871947,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -81,6 +83,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-94.505537,38.896009,-94.505537,38.896009],
+  "bbox": [
+    -94.505537,
+    38.896009,
+    -94.505537,
+    38.896009
+],
   "geometry": {"coordinates":[-94.505537,38.896009],"type":"Point"}
 }

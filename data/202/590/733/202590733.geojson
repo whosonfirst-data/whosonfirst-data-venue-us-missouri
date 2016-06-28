@@ -2,13 +2,14 @@
   "id": 202590733,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.289922,38.955577,-92.289922,38.955577",
     "geom:latitude":38.955577,
     "geom:longitude":-92.289922,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"404 N Keene St",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202590733,
-    "wof:lastmodified":1449061621,
+    "wof:lastmodified":1466622221,
     "wof:name":"Endoscopy Lab",
     "wof:parent_id":85835171,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.289922,38.955577,-92.289922,38.955577],
+  "bbox": [
+    -92.289922,
+    38.955577,
+    -92.289922,
+    38.955577
+],
   "geometry": {"coordinates":[-92.289922,38.955577],"type":"Point"}
 }

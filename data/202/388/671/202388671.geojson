@@ -2,13 +2,14 @@
   "id": 202388671,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.436089,39.257118,-94.436089,39.257118",
     "geom:latitude":39.257118,
     "geom:longitude":-94.436089,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"912 Scott Dr",
     "sg:city":"Liberty",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202388671,
-    "wof:lastmodified":1449060188,
+    "wof:lastmodified":1466622158,
     "wof:name":"Thomas C Capps",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "practice"
     ]
 },
-  "bbox": [-94.436089,39.257118,-94.436089,39.257118],
+  "bbox": [
+    -94.436089,
+    39.257118,
+    -94.436089,
+    39.257118
+],
   "geometry": {"coordinates":[-94.436089,39.257118],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202896589,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.25423,37.143915,-93.25423,37.143915",
     "geom:latitude":37.143915,
     "geom:longitude":-93.25423,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1722 S Glenstone Ave Suite G",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -70,10 +71,11 @@
         }
     ],
     "wof:id":202896589,
-    "wof:lastmodified":1449061033,
+    "wof:lastmodified":1466622372,
     "wof:name":"Step By Step Dance Studio",
     "wof:parent_id":85881149,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -88,6 +90,11 @@
         "wedding"
     ]
 },
-  "bbox": [-93.25423,37.143915,-93.25423,37.143915],
-  "geometry": {"coordinates":[-93.25423,37.143915],"type":"Point"}
+  "bbox": [
+    -93.25423,
+    37.143915,
+    -93.25423,
+    37.143915
+],
+  "geometry": {"coordinates":[-93.25423000000001,37.143915],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202638065,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.882623,39.172174,-91.882623,39.172174",
     "geom:latitude":39.172174,
     "geom:longitude":-91.882623,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"112 S Jefferson St",
     "sg:city":"Mexico",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202638065,
-    "wof:lastmodified":1449060243,
+    "wof:lastmodified":1466622245,
     "wof:name":"Montague's Furniture",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "store"
     ]
 },
-  "bbox": [-91.882623,39.172174,-91.882623,39.172174],
+  "bbox": [
+    -91.882623,
+    39.172174,
+    -91.882623,
+    39.172174
+],
   "geometry": {"coordinates":[-91.882623,39.172174],"type":"Point"}
 }

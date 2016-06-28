@@ -2,13 +2,14 @@
   "id": 186156975,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.634866,38.576322,-90.634866,38.576322",
     "geom:latitude":38.576322,
     "geom:longitude":-90.634866,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16925 Manchester Rd",
     "sg:city":"Grover",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186156975,
-    "wof:lastmodified":1449050941,
+    "wof:lastmodified":1466622182,
     "wof:name":"Finlay, Brian Dds Ms Pc",
     "wof:parent_id":85868453,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentists-orthodontists"
     ]
 },
-  "bbox": [-90.634866,38.576322,-90.634866,38.576322],
+  "bbox": [
+    -90.634866,
+    38.576322,
+    -90.634866,
+    38.576322
+],
   "geometry": {"coordinates":[-90.634866,38.576322],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202891223,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.263672,37.181648,-93.263672,37.181648",
     "geom:latitude":37.181648,
     "geom:longitude":-93.263672,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1736 E Sunshine St",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":202891223,
-    "wof:lastmodified":1449061653,
+    "wof:lastmodified":1466622364,
     "wof:name":"Esterly Schneider & Associates",
     "wof:parent_id":85829759,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "designer"
     ]
 },
-  "bbox": [-93.263672,37.181648,-93.263672,37.181648],
+  "bbox": [
+    -93.263672,
+    37.181648,
+    -93.263672,
+    37.181648
+],
   "geometry": {"coordinates":[-93.263672,37.181648],"type":"Point"}
 }

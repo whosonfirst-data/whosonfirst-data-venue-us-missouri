@@ -2,13 +2,14 @@
   "id": 202714859,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.40248,37.858149,-92.40248,37.858149",
     "geom:latitude":37.858149,
     "geom:longitude":-92.40248,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"112 N Pine St",
     "sg:city":"Richland",
     "sg:classifiers":[
@@ -65,10 +66,11 @@
         }
     ],
     "wof:id":202714859,
-    "wof:lastmodified":1449061373,
+    "wof:lastmodified":1466622280,
     "wof:name":"James Tire & Muffler",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -79,6 +81,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-92.40248,37.858149,-92.40248,37.858149],
+  "bbox": [
+    -92.40248,
+    37.858149,
+    -92.40248,
+    37.858149
+],
   "geometry": {"coordinates":[-92.40248,37.858149],"type":"Point"}
 }

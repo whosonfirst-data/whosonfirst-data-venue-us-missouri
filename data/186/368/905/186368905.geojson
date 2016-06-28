@@ -2,13 +2,14 @@
   "id": 186368905,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.308098,38.633701,-90.308098,38.633701",
     "geom:latitude":38.633701,
     "geom:longitude":-90.308098,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6349 Clayton Rd",
     "sg:city":"Saint Louis",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":186368905,
-    "wof:lastmodified":1449051018,
+    "wof:lastmodified":1466622333,
     "wof:name":"Cody Jean CPA",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accountant"
     ]
 },
-  "bbox": [-90.308098,38.633701,-90.308098,38.633701],
+  "bbox": [
+    -90.308098,
+    38.633701,
+    -90.308098,
+    38.633701
+],
   "geometry": {"coordinates":[-90.308098,38.633701],"type":"Point"}
 }

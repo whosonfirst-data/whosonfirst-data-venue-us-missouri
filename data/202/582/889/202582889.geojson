@@ -2,13 +2,14 @@
   "id": 202582889,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.484676,38.353534,-91.484676,38.353534",
     "geom:latitude":38.353534,
     "geom:longitude":-91.484676,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1582 Highway 28",
     "sg:city":"Owensville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202582889,
-    "wof:lastmodified":1449061479,
+    "wof:lastmodified":1466622220,
     "wof:name":"Connie Smith",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "appraiser"
     ]
 },
-  "bbox": [-91.484676,38.353534,-91.484676,38.353534],
-  "geometry": {"coordinates":[-91.484676,38.353534],"type":"Point"}
+  "bbox": [
+    -91.484676,
+    38.353534,
+    -91.484676,
+    38.353534
+],
+  "geometry": {"coordinates":[-91.48467599999999,38.353534],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186406121,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.3032,38.650299,-90.3032,38.650299",
     "geom:latitude":38.650299,
     "geom:longitude":-90.3032,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6312 Pershing Ave",
     "sg:city":"Saint Louis",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186406121,
-    "wof:lastmodified":1449051814,
+    "wof:lastmodified":1466622349,
     "wof:name":"Roedel John K Jr Atty",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.3032,38.650299,-90.3032,38.650299],
+  "bbox": [
+    -90.3032,
+    38.650299,
+    -90.3032,
+    38.650299
+],
   "geometry": {"coordinates":[-90.3032,38.650299],"type":"Point"}
 }

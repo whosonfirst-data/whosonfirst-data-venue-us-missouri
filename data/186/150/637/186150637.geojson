@@ -2,13 +2,14 @@
   "id": 186150637,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.317779,38.842669,-90.317779,38.842669",
     "geom:latitude":38.842669,
     "geom:longitude":-90.317779,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1321 Northern Dancer Ct",
     "sg:city":"Florissant",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186150637,
-    "wof:lastmodified":1449050288,
+    "wof:lastmodified":1466622181,
     "wof:name":"Pavilion Of Praise Christian Church",
     "wof:parent_id":85813019,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-90.317779,38.842669,-90.317779,38.842669],
+  "bbox": [
+    -90.317779,
+    38.842669,
+    -90.317779,
+    38.842669
+],
   "geometry": {"coordinates":[-90.317779,38.842669],"type":"Point"}
 }

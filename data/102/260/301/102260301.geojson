@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102260301",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.384964,36.503494,-93.384964,36.503494",
     "geom:latitude":36.503494,
     "geom:longitude":-93.384964,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"658 State Hwy Ee",
     "sg:city":"Blue Eye",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":"102260301",
-    "wof:lastmodified":1449068207,
+    "wof:lastmodified":1466622383,
     "wof:name":"Blue Eye School Superintendent",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.384964,36.503494,-93.384964,36.503494],
+  "bbox": [
+    -93.384964,
+    36.503494,
+    -93.384964,
+    36.503494
+],
   "geometry": {"coordinates":[-93.384964,36.503494],"type":"Point"}
 }

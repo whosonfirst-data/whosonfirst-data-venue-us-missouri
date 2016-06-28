@@ -2,13 +2,14 @@
   "id": 202564237,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.772766,38.030066,-92.772766,38.030066",
     "geom:latitude":38.030066,
     "geom:longitude":-92.772766,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"79 Heartland Rd",
     "sg:city":"Camdenton",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":202564237,
-    "wof:lastmodified":1449062497,
+    "wof:lastmodified":1466622216,
     "wof:name":"Heart Worship Center",
     "wof:parent_id":85813457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "churches-non-denominational"
     ]
 },
-  "bbox": [-92.772766,38.030066,-92.772766,38.030066],
+  "bbox": [
+    -92.772766,
+    38.030066,
+    -92.772766,
+    38.030066
+],
   "geometry": {"coordinates":[-92.772766,38.030066],"type":"Point"}
 }

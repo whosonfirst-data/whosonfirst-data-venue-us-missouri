@@ -2,13 +2,14 @@
   "id": 186266351,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.200841,38.633695,-90.200841,38.633695",
     "geom:latitude":38.633695,
     "geom:longitude":-90.200841,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"701 N 15th St 4th Floor - in the City Museum",
     "sg:city":"Saint Louis",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186266351,
-    "wof:lastmodified":1449050352,
+    "wof:lastmodified":1466622269,
     "wof:name":"The Baleout",
     "wof:parent_id":85873645,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "consignment"
     ]
 },
-  "bbox": [-90.200841,38.633695,-90.200841,38.633695],
+  "bbox": [
+    -90.200841,
+    38.633695,
+    -90.200841,
+    38.633695
+],
   "geometry": {"coordinates":[-90.200841,38.633695],"type":"Point"}
 }

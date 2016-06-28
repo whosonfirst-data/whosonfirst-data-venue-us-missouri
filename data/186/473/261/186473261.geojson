@@ -2,13 +2,14 @@
   "id": 186473261,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.401367,39.685412,-91.401367,39.685412",
     "geom:latitude":39.685412,
     "geom:longitude":-91.401367,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4007 Market St",
     "sg:city":"Hannibal",
     "sg:classifiers":[
@@ -64,10 +65,11 @@
         }
     ],
     "wof:id":186473261,
-    "wof:lastmodified":1449050964,
+    "wof:lastmodified":1466622130,
     "wof:name":"H&R Block",
     "wof:parent_id":85843695,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -81,6 +83,11 @@
         "bookkeeping"
     ]
 },
-  "bbox": [-91.401367,39.685412,-91.401367,39.685412],
-  "geometry": {"coordinates":[-91.401367,39.685412],"type":"Point"}
+  "bbox": [
+    -91.401367,
+    39.685412,
+    -91.401367,
+    39.685412
+],
+  "geometry": {"coordinates":[-91.40136699999999,39.685412],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202899207,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.289858,37.20989,-93.289858,37.20989",
     "geom:latitude":37.20989,
     "geom:longitude":-93.289858,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"309 N Jefferson Ave",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":202899207,
-    "wof:lastmodified":1449062516,
+    "wof:lastmodified":1466622371,
     "wof:name":"Bender, Joan",
     "wof:parent_id":85881119,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "psychologist"
     ]
 },
-  "bbox": [-93.289858,37.20989,-93.289858,37.20989],
+  "bbox": [
+    -93.289858,
+    37.20989,
+    -93.289858,
+    37.20989
+],
   "geometry": {"coordinates":[-93.289858,37.20989],"type":"Point"}
 }

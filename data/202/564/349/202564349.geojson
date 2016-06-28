@@ -2,13 +2,14 @@
   "id": 202564349,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.827625,38.131963,-92.827625,38.131963",
     "geom:latitude":38.131963,
     "geom:longitude":-92.827625,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"632 Mistwood Bluff Rd",
     "sg:city":"Camdenton",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":202564349,
-    "wof:lastmodified":1449062499,
+    "wof:lastmodified":1466622217,
     "wof:name":"L And N Painting Inc",
     "wof:parent_id":85813457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "contractor"
     ]
 },
-  "bbox": [-92.827625,38.131963,-92.827625,38.131963],
+  "bbox": [
+    -92.827625,
+    38.131963,
+    -92.827625,
+    38.131963
+],
   "geometry": {"coordinates":[-92.827625,38.131963],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186622403,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.361299,38.832811,-94.361299,38.832811",
     "geom:latitude":38.832811,
     "geom:longitude":-94.361299,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"316 N Winnebago Dr",
     "sg:city":"Greenwood",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186622403,
-    "wof:lastmodified":1449052531,
+    "wof:lastmodified":1466622232,
     "wof:name":"Homer E Connell Dvm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "specialty"
     ]
 },
-  "bbox": [-94.361299,38.832811,-94.361299,38.832811],
+  "bbox": [
+    -94.361299,
+    38.832811,
+    -94.361299,
+    38.832811
+],
   "geometry": {"coordinates":[-94.361299,38.832811],"type":"Point"}
 }

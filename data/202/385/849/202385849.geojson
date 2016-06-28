@@ -2,13 +2,14 @@
   "id": 202385849,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.42218,39.24472,-94.42218,39.24472",
     "geom:latitude":39.24472,
     "geom:longitude":-94.42218,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 W Mill St",
     "sg:city":"Liberty",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202385849,
-    "wof:lastmodified":1449061619,
+    "wof:lastmodified":1466622140,
     "wof:name":"Tom Mcgiffin",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "practice"
     ]
 },
-  "bbox": [-94.42218,39.24472,-94.42218,39.24472],
+  "bbox": [
+    -94.42218,
+    39.24472,
+    -94.42218,
+    39.24472
+],
   "geometry": {"coordinates":[-94.42218,39.24472],"type":"Point"}
 }

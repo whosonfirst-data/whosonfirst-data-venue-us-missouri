@@ -2,13 +2,14 @@
   "id": 186423313,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.290051,38.621347,-90.290051,38.621347",
     "geom:latitude":38.621347,
     "geom:longitude":-90.290051,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1830 Knox Ave",
     "sg:city":"Saint Louis",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186423313,
-    "wof:lastmodified":1449050853,
+    "wof:lastmodified":1466622358,
     "wof:name":"Ace Construction & Engineering",
     "wof:parent_id":85873705,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-90.290051,38.621347,-90.290051,38.621347],
-  "geometry": {"coordinates":[-90.290051,38.621347],"type":"Point"}
+  "bbox": [
+    -90.290051,
+    38.621347,
+    -90.290051,
+    38.621347
+],
+  "geometry": {"coordinates":[-90.29005100000001,38.621347],"type":"Point"}
 }

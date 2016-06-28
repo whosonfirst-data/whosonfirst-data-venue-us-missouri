@@ -2,13 +2,14 @@
   "id": 186160783,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.404128,38.775964,-90.404128,38.775964",
     "geom:latitude":38.775964,
     "geom:longitude":-90.404128,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12613 Missouri Bottom Rd",
     "sg:city":"Hazelwood",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":186160783,
-    "wof:lastmodified":1449052577,
+    "wof:lastmodified":1466622186,
     "wof:name":"Julie Arts Sand & Craft",
     "wof:parent_id":85836381,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "supply"
     ]
 },
-  "bbox": [-90.404128,38.775964,-90.404128,38.775964],
+  "bbox": [
+    -90.404128,
+    38.775964,
+    -90.404128,
+    38.775964
+],
   "geometry": {"coordinates":[-90.404128,38.775964],"type":"Point"}
 }

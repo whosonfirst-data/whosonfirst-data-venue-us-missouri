@@ -2,13 +2,14 @@
   "id": 186154411,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.671249,38.610168,-90.671249,38.610168",
     "geom:latitude":38.610168,
     "geom:longitude":-90.671249,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1138 Pond Rd",
     "sg:city":"Glencoe",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":186154411,
-    "wof:lastmodified":1449053056,
+    "wof:lastmodified":1466622181,
     "wof:name":"Wl Lange & Assoc",
     "wof:parent_id":85810129,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "labeling"
     ]
 },
-  "bbox": [-90.671249,38.610168,-90.671249,38.610168],
+  "bbox": [
+    -90.671249,
+    38.610168,
+    -90.671249,
+    38.610168
+],
   "geometry": {"coordinates":[-90.671249,38.610168],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186420293,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.292397,38.6101,-90.292397,38.6101",
     "geom:latitude":38.6101,
     "geom:longitude":-90.292397,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6125 Clayton Ave Ste 101",
     "sg:city":"Saint Louis",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186420293,
-    "wof:lastmodified":1449051663,
+    "wof:lastmodified":1466622354,
     "wof:name":"Carmicheael Kim A MD",
     "wof:parent_id":85811407,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.292397,38.6101,-90.292397,38.6101],
-  "geometry": {"coordinates":[-90.292397,38.6101],"type":"Point"}
+  "bbox": [
+    -90.292397,
+    38.6101,
+    -90.292397,
+    38.6101
+],
+  "geometry": {"coordinates":[-90.29239699999999,38.6101],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186332451,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.251255,38.610584,-90.251255,38.610584",
     "geom:latitude":38.610584,
     "geom:longitude":-90.251255,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4069 Shenandoah Ave",
     "sg:city":"Saint Louis",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186332451,
-    "wof:lastmodified":1449051870,
+    "wof:lastmodified":1466622321,
     "wof:name":"Thurman Grill & Provisions",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.251255,38.610584,-90.251255,38.610584],
+  "bbox": [
+    -90.251255,
+    38.610584,
+    -90.251255,
+    38.610584
+],
   "geometry": {"coordinates":[-90.251255,38.610584],"type":"Point"}
 }

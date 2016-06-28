@@ -2,13 +2,14 @@
   "id": 202695115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.100922,37.991002,-92.100922,37.991002",
     "geom:latitude":37.991002,
     "geom:longitude":-92.100922,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"503 W Chestnut St",
     "sg:city":"Dixon",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":202695115,
-    "wof:lastmodified":1449061071,
+    "wof:lastmodified":1466622265,
     "wof:name":"Bekins Agent - Baden Moving & Storage",
     "wof:parent_id":85822351,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.100922,37.991002,-92.100922,37.991002],
+  "bbox": [
+    -92.100922,
+    37.991002,
+    -92.100922,
+    37.991002
+],
   "geometry": {"coordinates":[-92.100922,37.991002],"type":"Point"}
 }

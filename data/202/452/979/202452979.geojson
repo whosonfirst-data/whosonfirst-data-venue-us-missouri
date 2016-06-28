@@ -2,13 +2,14 @@
   "id": 202452979,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.613138,40.516999,-94.613138,40.516999",
     "geom:latitude":40.516999,
     "geom:longitude":-94.613138,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"206 W Noble Rd",
     "sg:city":"Sheridan",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202452979,
-    "wof:lastmodified":1449060705,
+    "wof:lastmodified":1466622181,
     "wof:name":"Main Street Cuts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.613138,40.516999,-94.613138,40.516999],
-  "geometry": {"coordinates":[-94.613138,40.516999],"type":"Point"}
+  "bbox": [
+    -94.613138,
+    40.516999,
+    -94.613138,
+    40.516999
+],
+  "geometry": {"coordinates":[-94.61313800000001,40.516999],"type":"Point"}
 }

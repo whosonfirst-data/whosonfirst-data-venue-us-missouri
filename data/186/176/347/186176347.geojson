@@ -2,13 +2,14 @@
   "id": 186176347,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.708461,38.557226,-90.708461,38.557226",
     "geom:latitude":38.557226,
     "geom:longitude":-90.708461,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18515 Hawks Hill Rd",
     "sg:city":"Pacific",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":186176347,
-    "wof:lastmodified":1449052124,
+    "wof:lastmodified":1466622194,
     "wof:name":"T R E Development",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "contractor"
     ]
 },
-  "bbox": [-90.708461,38.557226,-90.708461,38.557226],
+  "bbox": [
+    -90.708461,
+    38.557226,
+    -90.708461,
+    38.557226
+],
   "geometry": {"coordinates":[-90.708461,38.557226],"type":"Point"}
 }

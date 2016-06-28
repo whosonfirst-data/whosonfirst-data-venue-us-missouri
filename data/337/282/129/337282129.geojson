@@ -2,13 +2,14 @@
   "id": 337282129,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.326354,36.86684,-94.326354,36.86684",
     "geom:latitude":36.86684,
     "geom:longitude":-94.326354,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13839 Sunset Dr",
     "sg:city":"Neosho",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":337282129,
-    "wof:lastmodified":1449027463,
+    "wof:lastmodified":1466622121,
     "wof:name":"O P Trust",
     "wof:parent_id":85821247,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "homeowner"
     ]
 },
-  "bbox": [-94.326354,36.86684,-94.326354,36.86684],
-  "geometry": {"coordinates":[-94.326354,36.86684],"type":"Point"}
+  "bbox": [
+    -94.326354,
+    36.86684,
+    -94.326354,
+    36.86684
+],
+  "geometry": {"coordinates":[-94.32635399999999,36.86684],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186142427,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.40072,38.210044,-90.40072,38.210044",
     "geom:latitude":38.210044,
     "geom:longitude":-90.40072,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1181 E Gannon Dr",
     "sg:city":"Festus",
     "sg:classifiers":[
@@ -58,14 +59,20 @@
         }
     ],
     "wof:id":186142427,
-    "wof:lastmodified":1449052474,
+    "wof:lastmodified":1466622173,
     "wof:name":"Schnucks Festus",
     "wof:parent_id":85848677,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.40072,38.210044,-90.40072,38.210044],
-  "geometry": {"coordinates":[-90.40072,38.210044],"type":"Point"}
+  "bbox": [
+    -90.40072,
+    38.210044,
+    -90.40072,
+    38.210044
+],
+  "geometry": {"coordinates":[-90.40072000000001,38.210044],"type":"Point"}
 }

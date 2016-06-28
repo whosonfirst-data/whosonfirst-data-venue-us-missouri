@@ -2,13 +2,14 @@
   "id": 202383973,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.420341,39.246811,-94.420341,39.246811",
     "geom:latitude":39.246811,
     "geom:longitude":-94.420341,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 N Main St",
     "sg:city":"Liberty",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202383973,
-    "wof:lastmodified":1449061188,
+    "wof:lastmodified":1466622138,
     "wof:name":"Thompson Krebbs Thompson",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-94.420341,39.246811,-94.420341,39.246811],
-  "geometry": {"coordinates":[-94.420341,39.246811],"type":"Point"}
+  "bbox": [
+    -94.420341,
+    39.246811,
+    -94.420341,
+    39.246811
+],
+  "geometry": {"coordinates":[-94.42034099999999,39.246811],"type":"Point"}
 }

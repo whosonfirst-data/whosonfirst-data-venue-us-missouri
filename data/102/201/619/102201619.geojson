@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102201619",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.422651,36.631215,-93.422651,36.631215",
     "geom:latitude":36.631215,
     "geom:longitude":-93.422651,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11863 State Hwy 13",
     "sg:city":"Blue Eye",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":"102201619",
-    "wof:lastmodified":1449069851,
+    "wof:lastmodified":1466622116,
     "wof:name":"R T's Family Restaurant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.422651,36.631215,-93.422651,36.631215],
+  "bbox": [
+    -93.422651,
+    36.631215,
+    -93.422651,
+    36.631215
+],
   "geometry": {"coordinates":[-93.422651,36.631215],"type":"Point"}
 }

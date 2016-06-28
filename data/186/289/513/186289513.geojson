@@ -2,13 +2,14 @@
   "id": 186289513,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.223974,38.651318,-90.223974,38.651318",
     "geom:latitude":38.651318,
     "geom:longitude":-90.223974,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2401 N Grand Blvd",
     "sg:city":"Saint Louis",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186289513,
-    "wof:lastmodified":1449052561,
+    "wof:lastmodified":1466622282,
     "wof:name":"Sts Tersea & Bridget Svdtp Conference",
     "wof:parent_id":85873625,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "community"
     ]
 },
-  "bbox": [-90.223974,38.651318,-90.223974,38.651318],
+  "bbox": [
+    -90.223974,
+    38.651318,
+    -90.223974,
+    38.651318
+],
   "geometry": {"coordinates":[-90.223974,38.651318],"type":"Point"}
 }

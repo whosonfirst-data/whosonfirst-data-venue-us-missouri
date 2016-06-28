@@ -2,13 +2,14 @@
   "id": 202871201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.174425,37.234748,-93.174425,37.234748",
     "geom:latitude":37.234748,
     "geom:longitude":-93.174425,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2161 N Farm Road 203",
     "sg:city":"Strafford",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202871201,
-    "wof:lastmodified":1449060939,
+    "wof:lastmodified":1466622351,
     "wof:name":"Noble Floors",
     "wof:parent_id":85881137,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "material"
     ]
 },
-  "bbox": [-93.174425,37.234748,-93.174425,37.234748],
+  "bbox": [
+    -93.174425,
+    37.234748,
+    -93.174425,
+    37.234748
+],
   "geometry": {"coordinates":[-93.174425,37.234748],"type":"Point"}
 }

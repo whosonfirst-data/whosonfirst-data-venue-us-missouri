@@ -2,13 +2,14 @@
   "id": 202379225,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.429787,39.247498,-94.429787,39.247498",
     "geom:latitude":39.247498,
     "geom:longitude":-94.429787,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"102 Jefferson Cir",
     "sg:city":"Liberty",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202379225,
-    "wof:lastmodified":1449061591,
+    "wof:lastmodified":1466622122,
     "wof:name":"Thomas R Alley",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "practice"
     ]
 },
-  "bbox": [-94.429787,39.247498,-94.429787,39.247498],
+  "bbox": [
+    -94.429787,
+    39.247498,
+    -94.429787,
+    39.247498
+],
   "geometry": {"coordinates":[-94.429787,39.247498],"type":"Point"}
 }

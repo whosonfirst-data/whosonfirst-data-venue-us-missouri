@@ -2,13 +2,14 @@
   "id": 202602615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.325623,38.988972,-92.325623,38.988972",
     "geom:latitude":38.988972,
     "geom:longitude":-92.325623,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"908 Rain Forest Pkwy Ste A",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -64,10 +65,11 @@
         }
     ],
     "wof:id":202602615,
-    "wof:lastmodified":1449061313,
+    "wof:lastmodified":1466622235,
     "wof:name":"H&R Block",
     "wof:parent_id":85835171,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -81,6 +83,11 @@
         "bookkeeping"
     ]
 },
-  "bbox": [-92.325623,38.988972,-92.325623,38.988972],
-  "geometry": {"coordinates":[-92.325623,38.988972],"type":"Point"}
+  "bbox": [
+    -92.325623,
+    38.988972,
+    -92.325623,
+    38.988972
+],
+  "geometry": {"coordinates":[-92.32562299999999,38.988972],"type":"Point"}
 }

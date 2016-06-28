@@ -2,13 +2,14 @@
   "id": 202885909,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.294026,37.231048,-93.294026,37.231048",
     "geom:latitude":37.231048,
     "geom:longitude":-93.294026,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"421 W Chase St",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":202885909,
-    "wof:lastmodified":1449061459,
+    "wof:lastmodified":1466622362,
     "wof:name":"Randy Inman's Springfield Roofers",
     "wof:parent_id":85881167,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "contractor"
     ]
 },
-  "bbox": [-93.294026,37.231048,-93.294026,37.231048],
+  "bbox": [
+    -93.294026,
+    37.231048,
+    -93.294026,
+    37.231048
+],
   "geometry": {"coordinates":[-93.294026,37.231048],"type":"Point"}
 }

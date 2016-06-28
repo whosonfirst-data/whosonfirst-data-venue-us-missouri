@@ -2,13 +2,14 @@
   "id": 202593845,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.330664,38.951588,-92.330664,38.951588",
     "geom:latitude":38.951588,
     "geom:longitude":-92.330664,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"609 E Broadway",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":202593845,
-    "wof:lastmodified":1449061767,
+    "wof:lastmodified":1466622225,
     "wof:name":"Wyse Law Firm PC",
     "wof:parent_id":85835171,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "law"
     ]
 },
-  "bbox": [-92.330664,38.951588,-92.330664,38.951588],
+  "bbox": [
+    -92.330664,
+    38.951588,
+    -92.330664,
+    38.951588
+],
   "geometry": {"coordinates":[-92.330664,38.951588],"type":"Point"}
 }

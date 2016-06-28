@@ -2,13 +2,14 @@
   "id": 186164255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.429979,38.754536,-90.429979,38.754536",
     "geom:latitude":38.754536,
     "geom:longitude":-90.429979,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12433 Saint Charles Rock Rd",
     "sg:city":"Bridgeton",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186164255,
-    "wof:lastmodified":1449050571,
+    "wof:lastmodified":1466622189,
     "wof:name":"Economy Inn & Suites",
     "wof:parent_id":85836381,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "lodging"
     ]
 },
-  "bbox": [-90.429979,38.754536,-90.429979,38.754536],
+  "bbox": [
+    -90.429979,
+    38.754536,
+    -90.429979,
+    38.754536
+],
   "geometry": {"coordinates":[-90.429979,38.754536],"type":"Point"}
 }

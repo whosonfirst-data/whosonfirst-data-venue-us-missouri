@@ -2,13 +2,14 @@
   "id": 202898491,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.279475,37.206646,-93.279475,37.206646",
     "geom:latitude":37.206646,
     "geom:longitude":-93.279475,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1041 E Walnut St",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202898491,
-    "wof:lastmodified":1449060056,
+    "wof:lastmodified":1466622374,
     "wof:name":"Steven C Fenner",
     "wof:parent_id":85881125,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "practice"
     ]
 },
-  "bbox": [-93.279475,37.206646,-93.279475,37.206646],
-  "geometry": {"coordinates":[-93.279475,37.206646],"type":"Point"}
+  "bbox": [
+    -93.279475,
+    37.206646,
+    -93.279475,
+    37.206646
+],
+  "geometry": {"coordinates":[-93.27947500000001,37.206646],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202529089,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.516455,37.069599,-94.516455,37.069599",
     "geom:latitude":37.069599,
     "geom:longitude":-94.516455,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"309 W 20th St",
     "sg:city":"Joplin",
     "sg:classifiers":[
@@ -74,10 +75,11 @@
         }
     ],
     "wof:id":202529089,
-    "wof:lastmodified":1449061230,
+    "wof:lastmodified":1466622204,
     "wof:name":"Good Vibrations",
     "wof:parent_id":85885363,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -91,6 +93,11 @@
         "wellness"
     ]
 },
-  "bbox": [-94.516455,37.069599,-94.516455,37.069599],
-  "geometry": {"coordinates":[-94.516455,37.069599],"type":"Point"}
+  "bbox": [
+    -94.516455,
+    37.069599,
+    -94.516455,
+    37.069599
+],
+  "geometry": {"coordinates":[-94.51645499999999,37.069599],"type":"Point"}
 }

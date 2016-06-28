@@ -2,13 +2,14 @@
   "id": 202895591,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.237558,37.180622,-93.237558,37.180622",
     "geom:latitude":37.180622,
     "geom:longitude":-93.237558,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2940 E Sunshine St",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202895591,
-    "wof:lastmodified":1449061191,
+    "wof:lastmodified":1466622370,
     "wof:name":"Glidden Professional Paint Center",
     "wof:parent_id":85829759,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "coating"
     ]
 },
-  "bbox": [-93.237558,37.180622,-93.237558,37.180622],
-  "geometry": {"coordinates":[-93.237558,37.180622],"type":"Point"}
+  "bbox": [
+    -93.237558,
+    37.180622,
+    -93.237558,
+    37.180622
+],
+  "geometry": {"coordinates":[-93.23755800000001,37.180622],"type":"Point"}
 }

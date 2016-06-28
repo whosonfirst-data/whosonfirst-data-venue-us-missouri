@@ -2,13 +2,14 @@
   "id": 186424023,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.288002,38.605099,-90.288002,38.605099",
     "geom:latitude":38.605099,
     "geom:longitude":-90.288002,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Campbell Plz Ste 3A",
     "sg:city":"Saint Louis",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":186424023,
-    "wof:lastmodified":1449052866,
+    "wof:lastmodified":1466622357,
     "wof:name":"Cdg Engineers Architects Planners Inc",
     "wof:parent_id":85873683,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.288002,38.605099,-90.288002,38.605099],
-  "geometry": {"coordinates":[-90.288002,38.605099],"type":"Point"}
+  "bbox": [
+    -90.288002,
+    38.605099,
+    -90.288002,
+    38.605099
+],
+  "geometry": {"coordinates":[-90.28800200000001,38.605099],"type":"Point"}
 }

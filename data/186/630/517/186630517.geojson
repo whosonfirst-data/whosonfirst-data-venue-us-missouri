@@ -2,13 +2,14 @@
   "id": 186630517,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.423873,39.092327,-94.423873,39.092327",
     "geom:latitude":39.092327,
     "geom:longitude":-94.423873,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"700 W Lexington Ave",
     "sg:city":"Independence",
     "sg:classifiers":[
@@ -61,10 +62,11 @@
         }
     ],
     "wof:id":186630517,
-    "wof:lastmodified":1449051353,
+    "wof:lastmodified":1466622242,
     "wof:name":"Church of Jesus Christ of Latter-Day Saints",
     "wof:parent_id":85833097,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -75,6 +77,11 @@
         "latter-day"
     ]
 },
-  "bbox": [-94.423873,39.092327,-94.423873,39.092327],
+  "bbox": [
+    -94.423873,
+    39.092327,
+    -94.423873,
+    39.092327
+],
   "geometry": {"coordinates":[-94.423873,39.092327],"type":"Point"}
 }

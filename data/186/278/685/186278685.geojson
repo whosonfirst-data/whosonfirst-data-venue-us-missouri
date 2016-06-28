@@ -2,13 +2,14 @@
   "id": 186278685,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.214639,38.607891,-90.214639,38.607891",
     "geom:latitude":38.607891,
     "geom:longitude":-90.214639,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1865 Gravois Ave",
     "sg:city":"Saint Louis",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":186278685,
-    "wof:lastmodified":1449051862,
+    "wof:lastmodified":1466622276,
     "wof:name":"Shop 'n Save",
     "wof:parent_id":85873675,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "drugstore"
     ]
 },
-  "bbox": [-90.214639,38.607891,-90.214639,38.607891],
-  "geometry": {"coordinates":[-90.214639,38.607891],"type":"Point"}
+  "bbox": [
+    -90.214639,
+    38.607891,
+    -90.214639,
+    38.607891
+],
+  "geometry": {"coordinates":[-90.21463900000001,38.607891],"type":"Point"}
 }

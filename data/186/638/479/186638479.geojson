@@ -2,13 +2,14 @@
   "id": 186638479,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.349363,39.083924,-94.349363,39.083924",
     "geom:latitude":39.083924,
     "geom:longitude":-94.349363,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1925 S Aztec Ave",
     "sg:city":"Independence",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186638479,
-    "wof:lastmodified":1449050417,
+    "wof:lastmodified":1466622279,
     "wof:name":"Orthosport Rehab Inc",
     "wof:parent_id":85816457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "treatment"
     ]
 },
-  "bbox": [-94.349363,39.083924,-94.349363,39.083924],
+  "bbox": [
+    -94.349363,
+    39.083924,
+    -94.349363,
+    39.083924
+],
   "geometry": {"coordinates":[-94.349363,39.083924],"type":"Point"}
 }

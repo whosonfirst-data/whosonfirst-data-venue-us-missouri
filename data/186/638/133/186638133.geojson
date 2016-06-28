@@ -2,13 +2,14 @@
   "id": 186638133,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.360924,39.048901,-94.360924,39.048901",
     "geom:latitude":39.048901,
     "geom:longitude":-94.360924,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3800 S Elizabeth St Suite F",
     "sg:city":"Independence",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":186638133,
-    "wof:lastmodified":1449050417,
+    "wof:lastmodified":1466622278,
     "wof:name":"Gray Chiropractic",
     "wof:parent_id":85847737,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "chiropractic"
     ]
 },
-  "bbox": [-94.360924,39.048901,-94.360924,39.048901],
+  "bbox": [
+    -94.360924,
+    39.048901,
+    -94.360924,
+    39.048901
+],
   "geometry": {"coordinates":[-94.360924,39.048901],"type":"Point"}
 }

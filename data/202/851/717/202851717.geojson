@@ -2,13 +2,14 @@
   "id": 202851717,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.246951,37.045423,-93.246951,37.045423",
     "geom:latitude":37.045423,
     "geom:longitude":-93.246951,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2808 N Fremont Rd",
     "sg:city":"Ozark",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":202851717,
-    "wof:lastmodified":1449061754,
+    "wof:lastmodified":1466622349,
     "wof:name":"Next Generation Drywall",
     "wof:parent_id":85809751,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "contractor"
     ]
 },
-  "bbox": [-93.246951,37.045423,-93.246951,37.045423],
+  "bbox": [
+    -93.246951,
+    37.045423,
+    -93.246951,
+    37.045423
+],
   "geometry": {"coordinates":[-93.246951,37.045423],"type":"Point"}
 }

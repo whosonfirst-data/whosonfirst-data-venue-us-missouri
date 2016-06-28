@@ -2,13 +2,14 @@
   "id": 202377217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.426495,39.260399,-94.426495,39.260399",
     "geom:latitude":39.260399,
     "geom:longitude":-94.426495,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1211 Telford Dr",
     "sg:city":"Liberty",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":202377217,
-    "wof:lastmodified":1449061065,
+    "wof:lastmodified":1466622121,
     "wof:name":"Scrappy Gourmet",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "support"
     ]
 },
-  "bbox": [-94.426495,39.260399,-94.426495,39.260399],
+  "bbox": [
+    -94.426495,
+    39.260399,
+    -94.426495,
+    39.260399
+],
   "geometry": {"coordinates":[-94.426495,39.260399],"type":"Point"}
 }

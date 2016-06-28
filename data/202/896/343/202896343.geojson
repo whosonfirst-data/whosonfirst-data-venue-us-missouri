@@ -2,13 +2,14 @@
   "id": 202896343,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.24202,37.160019,-93.24202,37.160019",
     "geom:latitude":37.160019,
     "geom:longitude":-93.24202,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2914 S Lone Pine Ave",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -64,10 +65,11 @@
         }
     ],
     "wof:id":202896343,
-    "wof:lastmodified":1449061034,
+    "wof:lastmodified":1466622369,
     "wof:name":"H&R Block",
     "wof:parent_id":85881149,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -81,6 +83,11 @@
         "bookkeeping"
     ]
 },
-  "bbox": [-93.24202,37.160019,-93.24202,37.160019],
+  "bbox": [
+    -93.24202,
+    37.160019,
+    -93.24202,
+    37.160019
+],
   "geometry": {"coordinates":[-93.24202,37.160019],"type":"Point"}
 }

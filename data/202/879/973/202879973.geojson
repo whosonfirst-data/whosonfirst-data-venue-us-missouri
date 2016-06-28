@@ -2,13 +2,14 @@
   "id": 202879973,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.292341,37.217961,-93.292341,37.217961",
     "geom:latitude":37.217961,
     "geom:longitude":-93.292341,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"939 N Boonville Ave Suite A",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -65,10 +66,11 @@
         }
     ],
     "wof:id":202879973,
-    "wof:lastmodified":1449060137,
+    "wof:lastmodified":1466622356,
     "wof:name":"Healy, & Healy Attorneys At Law LLC",
     "wof:parent_id":85881135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -83,6 +85,11 @@
         "law"
     ]
 },
-  "bbox": [-93.292341,37.217961,-93.292341,37.217961],
-  "geometry": {"coordinates":[-93.292341,37.217961],"type":"Point"}
+  "bbox": [
+    -93.292341,
+    37.217961,
+    -93.292341,
+    37.217961
+],
+  "geometry": {"coordinates":[-93.29234099999999,37.217961],"type":"Point"}
 }

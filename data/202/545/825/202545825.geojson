@@ -2,13 +2,14 @@
   "id": 202545825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.377541,36.877895,-94.377541,36.877895",
     "geom:latitude":36.877895,
     "geom:longitude":-94.377541,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"906 N Summit St",
     "sg:city":"Neosho",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":202545825,
-    "wof:lastmodified":1449060720,
+    "wof:lastmodified":1466622212,
     "wof:name":"Ozark Bible Institute",
     "wof:parent_id":85821247,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "interest"
     ]
 },
-  "bbox": [-94.377541,36.877895,-94.377541,36.877895],
-  "geometry": {"coordinates":[-94.377541,36.877895],"type":"Point"}
+  "bbox": [
+    -94.377541,
+    36.877895,
+    -94.377541,
+    36.877895
+],
+  "geometry": {"coordinates":[-94.37754099999999,36.877895],"type":"Point"}
 }

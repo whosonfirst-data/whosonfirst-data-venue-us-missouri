@@ -2,13 +2,14 @@
   "id": 186633629,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.410744,39.079048,-94.410744,39.079048",
     "geom:latitude":39.079048,
     "geom:longitude":-94.410744,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"401 E 23rd St S",
     "sg:city":"Independence",
     "sg:classifiers":[
@@ -72,10 +73,11 @@
         }
     ],
     "wof:id":186633629,
-    "wof:lastmodified":1449053012,
+    "wof:lastmodified":1466622258,
     "wof:name":"Kings Small Engine Repair",
     "wof:parent_id":85833097,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -88,6 +90,11 @@
         "saw"
     ]
 },
-  "bbox": [-94.410744,39.079048,-94.410744,39.079048],
-  "geometry": {"coordinates":[-94.410744,39.079048],"type":"Point"}
+  "bbox": [
+    -94.410744,
+    39.079048,
+    -94.410744,
+    39.079048
+],
+  "geometry": {"coordinates":[-94.41074399999999,39.079048],"type":"Point"}
 }

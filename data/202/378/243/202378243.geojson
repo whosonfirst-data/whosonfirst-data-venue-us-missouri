@@ -2,13 +2,14 @@
   "id": 202378243,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.454947,39.26657,-94.454947,39.26657",
     "geom:latitude":39.26657,
     "geom:longitude":-94.454947,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1512 NE 96th St Ste D",
     "sg:city":"Liberty",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202378243,
-    "wof:lastmodified":1449061803,
+    "wof:lastmodified":1466622122,
     "wof:name":"Kanning Orthodontics",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentists-orthodontists"
     ]
 },
-  "bbox": [-94.454947,39.26657,-94.454947,39.26657],
+  "bbox": [
+    -94.454947,
+    39.26657,
+    -94.454947,
+    39.26657
+],
   "geometry": {"coordinates":[-94.454947,39.26657],"type":"Point"}
 }

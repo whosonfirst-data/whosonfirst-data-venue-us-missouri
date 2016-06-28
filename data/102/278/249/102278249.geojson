@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102278249",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.395965,36.501796,-93.395965,36.501796",
     "geom:latitude":36.501796,
     "geom:longitude":-93.395965,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"341 State Hwy 13",
     "sg:city":"Blue Eye",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":"102278249",
-    "wof:lastmodified":1449069064,
+    "wof:lastmodified":1466622384,
     "wof:name":"Blue Eye Chiropractic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.395965,36.501796,-93.395965,36.501796],
+  "bbox": [
+    -93.395965,
+    36.501796,
+    -93.395965,
+    36.501796
+],
   "geometry": {"coordinates":[-93.395965,36.501796],"type":"Point"}
 }

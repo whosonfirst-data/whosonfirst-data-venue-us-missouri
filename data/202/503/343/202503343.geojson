@@ -2,13 +2,14 @@
   "id": 202503343,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.807759,38.38952,-93.807759,38.38952",
     "geom:latitude":38.38952,
     "geom:longitude":-93.807759,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"280 NW Highway 7",
     "sg:city":"Clinton",
     "sg:classifiers":[
@@ -69,10 +70,11 @@
         }
     ],
     "wof:id":202503343,
-    "wof:lastmodified":1449062655,
+    "wof:lastmodified":1466622196,
     "wof:name":"Morton Buildings",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -85,6 +87,11 @@
         "garages-building"
     ]
 },
-  "bbox": [-93.807759,38.38952,-93.807759,38.38952],
+  "bbox": [
+    -93.807759,
+    38.38952,
+    -93.807759,
+    38.38952
+],
   "geometry": {"coordinates":[-93.807759,38.38952],"type":"Point"}
 }

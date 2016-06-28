@@ -2,13 +2,14 @@
   "id": 186369851,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.320702,38.624699,-90.320702,38.624699",
     "geom:latitude":38.624699,
     "geom:longitude":-90.320702,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1606 S Big Bend Blvd",
     "sg:city":"Saint Louis",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186369851,
-    "wof:lastmodified":1449052903,
+    "wof:lastmodified":1466622333,
     "wof:name":"Marshall Michele Msw",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "mental"
     ]
 },
-  "bbox": [-90.320702,38.624699,-90.320702,38.624699],
+  "bbox": [
+    -90.320702,
+    38.624699,
+    -90.320702,
+    38.624699
+],
   "geometry": {"coordinates":[-90.320702,38.624699],"type":"Point"}
 }

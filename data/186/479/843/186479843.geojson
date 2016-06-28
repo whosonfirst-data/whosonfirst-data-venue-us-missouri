@@ -2,13 +2,14 @@
   "id": 186479843,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.529129,39.509064,-91.529129,39.509064",
     "geom:latitude":39.509064,
     "geom:longitude":-91.529129,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 E Highway 19",
     "sg:city":"Center",
     "sg:classifiers":[
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":186479843,
-    "wof:lastmodified":1449052205,
+    "wof:lastmodified":1466622144,
     "wof:name":"Pick-A-Dilly Quik Stop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.529129,39.509064,-91.529129,39.509064],
+  "bbox": [
+    -91.529129,
+    39.509064,
+    -91.529129,
+    39.509064
+],
   "geometry": {"coordinates":[-91.529129,39.509064],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202547499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.381963,36.868993,-94.381963,36.868993",
     "geom:latitude":36.868993,
     "geom:longitude":-94.381963,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"919 W Harmony St",
     "sg:city":"Neosho",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":202547499,
-    "wof:lastmodified":1449060374,
+    "wof:lastmodified":1466622213,
     "wof:name":"Sears Hometown Store",
     "wof:parent_id":85821247,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "major"
     ]
 },
-  "bbox": [-94.381963,36.868993,-94.381963,36.868993],
+  "bbox": [
+    -94.381963,
+    36.868993,
+    -94.381963,
+    36.868993
+],
   "geometry": {"coordinates":[-94.381963,36.868993],"type":"Point"}
 }

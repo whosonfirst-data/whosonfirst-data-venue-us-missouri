@@ -2,13 +2,14 @@
   "id": 202379331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.421309,39.246089,-94.421309,39.246089",
     "geom:latitude":39.246089,
     "geom:longitude":-94.421309,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"105 W Kansas St # A",
     "sg:city":"Liberty",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202379331,
-    "wof:lastmodified":1449061591,
+    "wof:lastmodified":1466622125,
     "wof:name":"Montee Law Firm Pc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "referral"
     ]
 },
-  "bbox": [-94.421309,39.246089,-94.421309,39.246089],
-  "geometry": {"coordinates":[-94.421309,39.246089],"type":"Point"}
+  "bbox": [
+    -94.421309,
+    39.246089,
+    -94.421309,
+    39.246089
+],
+  "geometry": {"coordinates":[-94.42130899999999,39.246089],"type":"Point"}
 }

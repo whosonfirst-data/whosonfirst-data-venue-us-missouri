@@ -2,13 +2,14 @@
   "id": 186297019,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.261002,38.648102,-90.261002,38.648102",
     "geom:latitude":38.648102,
     "geom:longitude":-90.261002,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"393 N Euclid Ave Ste 220",
     "sg:city":"Saint Louis",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186297019,
-    "wof:lastmodified":1449052083,
+    "wof:lastmodified":1466622287,
     "wof:name":"Howard David C Atty",
     "wof:parent_id":85867031,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.261002,38.648102,-90.261002,38.648102],
+  "bbox": [
+    -90.261002,
+    38.648102,
+    -90.261002,
+    38.648102
+],
   "geometry": {"coordinates":[-90.261002,38.648102],"type":"Point"}
 }

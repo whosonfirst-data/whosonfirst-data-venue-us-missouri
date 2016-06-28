@@ -2,13 +2,14 @@
   "id": 186155753,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.645077,38.574724,-90.645077,38.574724",
     "geom:latitude":38.574724,
     "geom:longitude":-90.645077,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2642 Highway 109 Ste A",
     "sg:city":"Grover",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":186155753,
-    "wof:lastmodified":1449052534,
+    "wof:lastmodified":1466622181,
     "wof:name":"State Farm Insurance Agent-Earl Stinnett",
     "wof:parent_id":85868453,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.645077,38.574724,-90.645077,38.574724],
+  "bbox": [
+    -90.645077,
+    38.574724,
+    -90.645077,
+    38.574724
+],
   "geometry": {"coordinates":[-90.645077,38.574724],"type":"Point"}
 }

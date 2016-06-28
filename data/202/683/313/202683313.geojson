@@ -2,13 +2,14 @@
   "id": 202683313,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.770538,37.951488,-91.770538,37.951488",
     "geom:latitude":37.951488,
     "geom:longitude":-91.770538,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1702 E 10th St",
     "sg:city":"Rolla",
     "sg:classifiers":[
@@ -72,10 +73,11 @@
         }
     ],
     "wof:id":202683313,
-    "wof:lastmodified":1449061042,
+    "wof:lastmodified":1466622261,
     "wof:name":"The Dermatology Center",
     "wof:parent_id":85814531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -88,6 +90,11 @@
         "dermatology"
     ]
 },
-  "bbox": [-91.770538,37.951488,-91.770538,37.951488],
+  "bbox": [
+    -91.770538,
+    37.951488,
+    -91.770538,
+    37.951488
+],
   "geometry": {"coordinates":[-91.770538,37.951488],"type":"Point"}
 }

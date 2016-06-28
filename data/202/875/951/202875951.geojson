@@ -2,13 +2,14 @@
   "id": 202875951,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.869915,38.138903,-92.869915,38.138903",
     "geom:latitude":38.138903,
     "geom:longitude":-92.869915,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"383 Deer Trail Dr",
     "sg:city":"Roach",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":202875951,
-    "wof:lastmodified":1449061987,
+    "wof:lastmodified":1466622353,
     "wof:name":"D K Painting",
     "wof:parent_id":85813457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "contractor"
     ]
 },
-  "bbox": [-92.869915,38.138903,-92.869915,38.138903],
-  "geometry": {"coordinates":[-92.869915,38.138903],"type":"Point"}
+  "bbox": [
+    -92.869915,
+    38.138903,
+    -92.869915,
+    38.138903
+],
+  "geometry": {"coordinates":[-92.86991500000001,38.138903],"type":"Point"}
 }

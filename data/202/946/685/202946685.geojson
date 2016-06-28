@@ -2,13 +2,14 @@
   "id": 202946685,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.607384,39.042831,-94.607384,39.042831",
     "geom:latitude":39.042831,
     "geom:longitude":-94.607384,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1900 W 47th Pl Ste 302",
     "sg:city":"Mission",
     "sg:classifiers":[
@@ -73,10 +74,11 @@
         }
     ],
     "wof:id":202946685,
-    "wof:lastmodified":1449062345,
+    "wof:lastmodified":1466622118,
     "wof:name":"Heartland Foods-Lake",
     "wof:parent_id":85872031,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -89,6 +91,11 @@
         "store"
     ]
 },
-  "bbox": [-94.607384,39.042831,-94.607384,39.042831],
+  "bbox": [
+    -94.607384,
+    39.042831,
+    -94.607384,
+    39.042831
+],
   "geometry": {"coordinates":[-94.607384,39.042831],"type":"Point"}
 }

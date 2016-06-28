@@ -2,13 +2,14 @@
   "id": 186422071,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.303703,38.618401,-90.303703,38.618401",
     "geom:latitude":38.618401,
     "geom:longitude":-90.303703,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6700 Manchester Ave",
     "sg:city":"Saint Louis",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":186422071,
-    "wof:lastmodified":1449050445,
+    "wof:lastmodified":1466622356,
     "wof:name":"Kmart Stores",
     "wof:parent_id":85805777,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "drugstore"
     ]
 },
-  "bbox": [-90.303703,38.618401,-90.303703,38.618401],
+  "bbox": [
+    -90.303703,
+    38.618401,
+    -90.303703,
+    38.618401
+],
   "geometry": {"coordinates":[-90.303703,38.618401],"type":"Point"}
 }

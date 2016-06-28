@@ -2,13 +2,14 @@
   "id": 202821379,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.196545,36.623795,-93.196545,36.623795",
     "geom:latitude":36.623795,
     "geom:longitude":-93.196545,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"115 White River Mountain Blvd",
     "sg:city":"Hollister",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202821379,
-    "wof:lastmodified":1449061494,
+    "wof:lastmodified":1466622334,
     "wof:name":"White River Mtn Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-93.196545,36.623795,-93.196545,36.623795],
+  "bbox": [
+    -93.196545,
+    36.623795,
+    -93.196545,
+    36.623795
+],
   "geometry": {"coordinates":[-93.196545,36.623795],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202535553,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.443756,36.614712,-94.443756,36.614712",
     "geom:latitude":36.614712,
     "geom:longitude":-94.443756,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10895 State Highway 59",
     "sg:city":"Anderson",
     "sg:classifiers":[
@@ -65,10 +66,11 @@
         }
     ],
     "wof:id":202535553,
-    "wof:lastmodified":1449060560,
+    "wof:lastmodified":1466622210,
     "wof:name":"Indian Creek Equipment",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -82,6 +84,11 @@
         "saw"
     ]
 },
-  "bbox": [-94.443756,36.614712,-94.443756,36.614712],
-  "geometry": {"coordinates":[-94.443756,36.614712],"type":"Point"}
+  "bbox": [
+    -94.443756,
+    36.614712,
+    -94.443756,
+    36.614712
+],
+  "geometry": {"coordinates":[-94.44375599999999,36.614712],"type":"Point"}
 }

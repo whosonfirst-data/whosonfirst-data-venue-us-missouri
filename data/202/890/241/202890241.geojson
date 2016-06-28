@@ -2,13 +2,14 @@
   "id": 202890241,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.27423,37.147811,-93.27423,37.147811",
     "geom:latitude":37.147811,
     "geom:longitude":-93.27423,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1370 E Primrose St Ste A",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202890241,
-    "wof:lastmodified":1449060685,
+    "wof:lastmodified":1466622364,
     "wof:name":"Hall, Ansley, Rodgers And Condry A Professional Corporation",
     "wof:parent_id":85881149,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "practice"
     ]
 },
-  "bbox": [-93.27423,37.147811,-93.27423,37.147811],
+  "bbox": [
+    -93.27423,
+    37.147811,
+    -93.27423,
+    37.147811
+],
   "geometry": {"coordinates":[-93.27423,37.147811],"type":"Point"}
 }

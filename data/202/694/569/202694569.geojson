@@ -2,13 +2,14 @@
   "id": 202694569,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.092598,37.988935,-92.092598,37.988935",
     "geom:latitude":37.988935,
     "geom:longitude":-92.092598,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"601 S Pearl Ave",
     "sg:city":"Dixon",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202694569,
-    "wof:lastmodified":1449060838,
+    "wof:lastmodified":1466622266,
     "wof:name":"Fashion Gallery The",
     "wof:parent_id":85822351,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.092598,37.988935,-92.092598,37.988935],
+  "bbox": [
+    -92.092598,
+    37.988935,
+    -92.092598,
+    37.988935
+],
   "geometry": {"coordinates":[-92.092598,37.988935],"type":"Point"}
 }

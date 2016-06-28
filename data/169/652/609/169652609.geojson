@@ -2,13 +2,14 @@
   "id": 169652609,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.583859,39.086985,-94.583859,39.086985",
     "geom:latitude":39.086985,
     "geom:longitude":-94.583859,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2300 Main St",
     "sg:city":"Kansas City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169652609,
-    "wof:lastmodified":1449034807,
+    "wof:lastmodified":1466622391,
     "wof:name":"Hibbard V B Kline",
     "wof:parent_id":85872011,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-94.583859,39.086985,-94.583859,39.086985],
+  "bbox": [
+    -94.583859,
+    39.086985,
+    -94.583859,
+    39.086985
+],
   "geometry": {"coordinates":[-94.583859,39.086985],"type":"Point"}
 }

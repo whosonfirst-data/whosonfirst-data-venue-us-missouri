@@ -2,13 +2,14 @@
   "id": 202902697,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.314407,37.146019,-93.314407,37.146019",
     "geom:latitude":37.146019,
     "geom:longitude":-93.314407,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3801 S Kansas Ave",
     "sg:city":"Springfield",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202902697,
-    "wof:lastmodified":1449061986,
+    "wof:lastmodified":1466622375,
     "wof:name":"Amazing Kidz Daycare And Preschool",
     "wof:parent_id":85881151,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.314407,37.146019,-93.314407,37.146019],
+  "bbox": [
+    -93.314407,
+    37.146019,
+    -93.314407,
+    37.146019
+],
   "geometry": {"coordinates":[-93.314407,37.146019],"type":"Point"}
 }

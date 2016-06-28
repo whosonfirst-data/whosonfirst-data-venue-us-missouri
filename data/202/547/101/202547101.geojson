@@ -2,13 +2,14 @@
   "id": 202547101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.322087,36.887572,-94.322087,36.887572",
     "geom:latitude":36.887572,
     "geom:longitude":-94.322087,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17671 Keisha Ln",
     "sg:city":"Neosho",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":202547101,
-    "wof:lastmodified":1449060375,
+    "wof:lastmodified":1466622212,
     "wof:name":"Fjs Metalworks",
     "wof:parent_id":85821247,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "sheet"
     ]
 },
-  "bbox": [-94.322087,36.887572,-94.322087,36.887572],
+  "bbox": [
+    -94.322087,
+    36.887572,
+    -94.322087,
+    36.887572
+],
   "geometry": {"coordinates":[-94.322087,36.887572],"type":"Point"}
 }

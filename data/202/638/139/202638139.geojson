@@ -2,13 +2,14 @@
   "id": 202638139,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.891636,39.169329,-91.891636,39.169329",
     "geom:latitude":39.169329,
     "geom:longitude":-91.891636,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"408 S Missouri St",
     "sg:city":"Mexico",
     "sg:classifiers":[
@@ -65,10 +66,11 @@
         }
     ],
     "wof:id":202638139,
-    "wof:lastmodified":1449060239,
+    "wof:lastmodified":1466622246,
     "wof:name":"Childrens Therapy & Early Education School Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -80,6 +82,11 @@
         "private"
     ]
 },
-  "bbox": [-91.891636,39.169329,-91.891636,39.169329],
-  "geometry": {"coordinates":[-91.891636,39.169329],"type":"Point"}
+  "bbox": [
+    -91.891636,
+    39.169329,
+    -91.891636,
+    39.169329
+],
+  "geometry": {"coordinates":[-91.89163600000001,39.169329],"type":"Point"}
 }

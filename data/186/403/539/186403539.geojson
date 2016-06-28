@@ -2,13 +2,14 @@
   "id": 186403539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.320801,38.649899,-90.320801,38.649899",
     "geom:latitude":38.649899,
     "geom:longitude":-90.320801,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7201 Maryland Ave",
     "sg:city":"Saint Louis",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186403539,
-    "wof:lastmodified":1449052644,
+    "wof:lastmodified":1466622349,
     "wof:name":"Pew Becky A MD",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.320801,38.649899,-90.320801,38.649899],
+  "bbox": [
+    -90.320801,
+    38.649899,
+    -90.320801,
+    38.649899
+],
   "geometry": {"coordinates":[-90.320801,38.649899],"type":"Point"}
 }

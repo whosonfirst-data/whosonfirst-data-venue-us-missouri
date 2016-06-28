@@ -2,13 +2,14 @@
   "id": 202854019,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.188685,37.061867,-93.188685,37.061867",
     "geom:latitude":37.061867,
     "geom:longitude":-93.188685,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1675 E Cardinal Rd",
     "sg:city":"Ozark",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":202854019,
-    "wof:lastmodified":1449062551,
+    "wof:lastmodified":1466622417,
     "wof:name":"Rosebud Homes",
     "wof:parent_id":85809751,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "contractor"
     ]
 },
-  "bbox": [-93.188685,37.061867,-93.188685,37.061867],
-  "geometry": {"coordinates":[-93.188685,37.061867],"type":"Point"}
+  "bbox": [
+    -93.188685,
+    37.061867,
+    -93.188685,
+    37.061867
+],
+  "geometry": {"coordinates":[-93.18868500000001,37.061867],"type":"Point"}
 }

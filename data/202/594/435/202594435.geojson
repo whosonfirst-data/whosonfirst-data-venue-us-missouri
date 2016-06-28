@@ -2,13 +2,14 @@
   "id": 202594435,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.330618,38.912628,-92.330618,38.912628",
     "geom:latitude":38.912628,
     "geom:longitude":-92.330618,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3610 Buttonwood Dr # 200",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":202594435,
-    "wof:lastmodified":1449060475,
+    "wof:lastmodified":1466622226,
     "wof:name":"Blower Law Office",
     "wof:parent_id":85835171,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "law"
     ]
 },
-  "bbox": [-92.330618,38.912628,-92.330618,38.912628],
+  "bbox": [
+    -92.330618,
+    38.912628,
+    -92.330618,
+    38.912628
+],
   "geometry": {"coordinates":[-92.330618,38.912628],"type":"Point"}
 }

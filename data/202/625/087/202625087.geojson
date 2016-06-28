@@ -2,13 +2,14 @@
   "id": 202625087,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.962685,38.830048,-91.962685,38.830048",
     "geom:latitude":38.830048,
     "geom:longitude":-91.962685,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1211 S Business 54",
     "sg:city":"Fulton",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202625087,
-    "wof:lastmodified":1449062696,
+    "wof:lastmodified":1466622410,
     "wof:name":"Jalisco Mexican Restaurant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mexican"
     ]
 },
-  "bbox": [-91.962685,38.830048,-91.962685,38.830048],
-  "geometry": {"coordinates":[-91.962685,38.830048],"type":"Point"}
+  "bbox": [
+    -91.962685,
+    38.830048,
+    -91.962685,
+    38.830048
+],
+  "geometry": {"coordinates":[-91.96268499999999,38.830048],"type":"Point"}
 }

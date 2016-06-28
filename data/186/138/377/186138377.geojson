@@ -2,13 +2,14 @@
   "id": 186138377,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.449097,38.532879,-90.449097,38.532879",
     "geom:latitude":38.532879,
     "geom:longitude":-90.449097,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1500 Fenpark Dr",
     "sg:city":"Fenton",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":186138377,
-    "wof:lastmodified":1449051148,
+    "wof:lastmodified":1466622170,
     "wof:name":"Mgx Digital",
     "wof:parent_id":85858661,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-90.449097,38.532879,-90.449097,38.532879],
-  "geometry": {"coordinates":[-90.449097,38.532879],"type":"Point"}
+  "bbox": [
+    -90.449097,
+    38.532879,
+    -90.449097,
+    38.532879
+],
+  "geometry": {"coordinates":[-90.44909699999999,38.532879],"type":"Point"}
 }

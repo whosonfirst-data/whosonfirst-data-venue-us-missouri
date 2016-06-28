@@ -2,13 +2,14 @@
   "id": 202420619,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.459729,38.970433,-94.459729,38.970433",
     "geom:latitude":38.970433,
     "geom:longitude":-94.459729,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8412 Hedges Ave",
     "sg:city":"Raytown",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":202420619,
-    "wof:lastmodified":1449061341,
+    "wof:lastmodified":1466622167,
     "wof:name":"T Wiese",
     "wof:parent_id":85871965,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "processing"
     ]
 },
-  "bbox": [-94.459729,38.970433,-94.459729,38.970433],
+  "bbox": [
+    -94.459729,
+    38.970433,
+    -94.459729,
+    38.970433
+],
   "geometry": {"coordinates":[-94.459729,38.970433],"type":"Point"}
 }

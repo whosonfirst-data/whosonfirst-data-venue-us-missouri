@@ -2,13 +2,14 @@
   "id": 202544921,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.25937,36.899682,-94.25937,36.899682",
     "geom:latitude":36.899682,
     "geom:longitude":-94.25937,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"286 E Cemetery Rd",
     "sg:city":"Granby",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":202544921,
-    "wof:lastmodified":1449062645,
+    "wof:lastmodified":1466622212,
     "wof:name":"Hussong Professional Painting",
     "wof:parent_id":85821247,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "contractor"
     ]
 },
-  "bbox": [-94.25937,36.899682,-94.25937,36.899682],
+  "bbox": [
+    -94.25937,
+    36.899682,
+    -94.25937,
+    36.899682
+],
   "geometry": {"coordinates":[-94.25937,36.899682],"type":"Point"}
 }

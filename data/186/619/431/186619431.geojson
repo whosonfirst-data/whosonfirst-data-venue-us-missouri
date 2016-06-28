@@ -2,13 +2,14 @@
   "id": 186619431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.519145,38.871006,-94.519145,38.871006",
     "geom:latitude":38.871006,
     "geom:longitude":-94.519145,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6303 E 140th Ter",
     "sg:city":"Grandview",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186619431,
-    "wof:lastmodified":1449050896,
+    "wof:lastmodified":1466622219,
     "wof:name":"Couzins Catfish Castle",
     "wof:parent_id":85805677,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "seafood"
     ]
 },
-  "bbox": [-94.519145,38.871006,-94.519145,38.871006],
-  "geometry": {"coordinates":[-94.519145,38.871006],"type":"Point"}
+  "bbox": [
+    -94.519145,
+    38.871006,
+    -94.519145,
+    38.871006
+],
+  "geometry": {"coordinates":[-94.51914499999999,38.871006],"type":"Point"}
 }

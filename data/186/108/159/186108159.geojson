@@ -2,13 +2,14 @@
   "id": 186108159,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.541695,38.592981,-90.541695,38.592981",
     "geom:latitude":38.592981,
     "geom:longitude":-90.541695,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14870 Manchester Rd",
     "sg:city":"Ballwin",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":186108159,
-    "wof:lastmodified":1449050307,
+    "wof:lastmodified":1466622144,
     "wof:name":"O'Charley's",
     "wof:parent_id":85831197,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -77,6 +79,11 @@
         "steak"
     ]
 },
-  "bbox": [-90.541695,38.592981,-90.541695,38.592981],
+  "bbox": [
+    -90.541695,
+    38.592981,
+    -90.541695,
+    38.592981
+],
   "geometry": {"coordinates":[-90.541695,38.592981],"type":"Point"}
 }

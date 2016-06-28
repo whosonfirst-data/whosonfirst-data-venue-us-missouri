@@ -2,13 +2,14 @@
   "id": 202848173,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.30648,37.043633,-93.30648,37.043633",
     "geom:latitude":37.043633,
     "geom:longitude":-93.30648,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"611 W Mount Vernon St Vernon",
     "sg:city":"Nixa",
     "sg:classifiers":[
@@ -71,10 +72,11 @@
         }
     ],
     "wof:id":202848173,
-    "wof:lastmodified":1449060460,
+    "wof:lastmodified":1466622344,
     "wof:name":"Allstate Insurance Company - Angela Evans",
     "wof:parent_id":85809751,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -86,6 +88,11 @@
         "renter"
     ]
 },
-  "bbox": [-93.30648,37.043633,-93.30648,37.043633],
-  "geometry": {"coordinates":[-93.30648,37.043633],"type":"Point"}
+  "bbox": [
+    -93.30648,
+    37.043633,
+    -93.30648,
+    37.043633
+],
+  "geometry": {"coordinates":[-93.30647999999999,37.043633],"type":"Point"}
 }

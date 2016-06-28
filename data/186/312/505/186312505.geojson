@@ -2,13 +2,14 @@
   "id": 186312505,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.293198,38.583401,-90.293198,38.583401",
     "geom:latitude":38.583401,
     "geom:longitude":-90.293198,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5301 Hampton Ave",
     "sg:city":"Saint Louis",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186312505,
-    "wof:lastmodified":1449051729,
+    "wof:lastmodified":1466622303,
     "wof:name":"Rotolite of St Louis",
     "wof:parent_id":85850281,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [-90.293198,38.583401,-90.293198,38.583401],
+  "bbox": [
+    -90.293198,
+    38.583401,
+    -90.293198,
+    38.583401
+],
   "geometry": {"coordinates":[-90.293198,38.583401],"type":"Point"}
 }

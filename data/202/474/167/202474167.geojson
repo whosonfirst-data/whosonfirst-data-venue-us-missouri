@@ -2,13 +2,14 @@
   "id": 202474167,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.966077,39.911517,-93.966077,39.911517",
     "geom:latitude":39.911517,
     "geom:longitude":-93.966077,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"412 S Cedar St",
     "sg:city":"Gallatin",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202474167,
-    "wof:lastmodified":1449060203,
+    "wof:lastmodified":1466622183,
     "wof:name":"Mfa Oil Co. Whitney Kenny Agent",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.966077,39.911517,-93.966077,39.911517],
+  "bbox": [
+    -93.966077,
+    39.911517,
+    -93.966077,
+    39.911517
+],
   "geometry": {"coordinates":[-93.966077,39.911517],"type":"Point"}
 }

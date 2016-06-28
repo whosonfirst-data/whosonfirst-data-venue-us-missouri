@@ -2,13 +2,14 @@
   "id": 202385289,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.428909,39.236961,-94.428909,39.236961",
     "geom:latitude":39.236961,
     "geom:longitude":-94.428909,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"801 Kent St",
     "sg:city":"Liberty",
     "sg:classifiers":[
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":202385289,
-    "wof:lastmodified":1449061620,
+    "wof:lastmodified":1466622134,
     "wof:name":"Liberty Public Schools",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.428909,39.236961,-94.428909,39.236961],
+  "bbox": [
+    -94.428909,
+    39.236961,
+    -94.428909,
+    39.236961
+],
   "geometry": {"coordinates":[-94.428909,39.236961],"type":"Point"}
 }

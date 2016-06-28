@@ -2,13 +2,14 @@
   "id": 186159869,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.355738,38.773136,-90.355738,38.773136",
     "geom:latitude":38.773136,
     "geom:longitude":-90.355738,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"115 Ford Ln",
     "sg:city":"Hazelwood",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":186159869,
-    "wof:lastmodified":1449050590,
+    "wof:lastmodified":1466622189,
     "wof:name":"Street & Maintenance Dept",
     "wof:parent_id":85847351,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "road"
     ]
 },
-  "bbox": [-90.355738,38.773136,-90.355738,38.773136],
+  "bbox": [
+    -90.355738,
+    38.773136,
+    -90.355738,
+    38.773136
+],
   "geometry": {"coordinates":[-90.355738,38.773136],"type":"Point"}
 }

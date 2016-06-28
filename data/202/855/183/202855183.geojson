@@ -2,13 +2,14 @@
   "id": 202855183,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.205181,37.019941,-93.205181,37.019941",
     "geom:latitude":37.019941,
     "geom:longitude":-93.205181,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"110 W Elm St Rm 109",
     "sg:city":"Ozark",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":202855183,
-    "wof:lastmodified":1449061972,
+    "wof:lastmodified":1466622349,
     "wof:name":"Prosecutor Office",
     "wof:parent_id":85809751,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "attorney"
     ]
 },
-  "bbox": [-93.205181,37.019941,-93.205181,37.019941],
+  "bbox": [
+    -93.205181,
+    37.019941,
+    -93.205181,
+    37.019941
+],
   "geometry": {"coordinates":[-93.205181,37.019941],"type":"Point"}
 }

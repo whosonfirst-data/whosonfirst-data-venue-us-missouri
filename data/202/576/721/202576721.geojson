@@ -2,13 +2,14 @@
   "id": 202576721,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.441917,38.763645,-92.441917,38.763645",
     "geom:latitude":38.763645,
     "geom:longitude":-92.441917,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"53568 Swiss Valley Rd",
     "sg:city":"Jamestown",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":202576721,
-    "wof:lastmodified":1449062080,
+    "wof:lastmodified":1466622219,
     "wof:name":"B&T One Stop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.441917,38.763645,-92.441917,38.763645],
+  "bbox": [
+    -92.441917,
+    38.763645,
+    -92.441917,
+    38.763645
+],
   "geometry": {"coordinates":[-92.441917,38.763645],"type":"Point"}
 }

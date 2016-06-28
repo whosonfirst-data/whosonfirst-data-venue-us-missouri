@@ -2,13 +2,14 @@
   "id": 169654669,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.586426,39.073559,-94.586426,39.073559",
     "geom:latitude":39.073559,
     "geom:longitude":-94.586426,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2933 Baltimore Ave",
     "sg:city":"Kansas City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":169654669,
-    "wof:lastmodified":1449033792,
+    "wof:lastmodified":1466622392,
     "wof:name":"Marlborough Apartments",
     "wof:parent_id":85872013,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-94.586426,39.073559,-94.586426,39.073559],
+  "bbox": [
+    -94.586426,
+    39.073559,
+    -94.586426,
+    39.073559
+],
   "geometry": {"coordinates":[-94.586426,39.073559],"type":"Point"}
 }

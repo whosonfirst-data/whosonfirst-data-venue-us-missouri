@@ -2,13 +2,14 @@
   "id": 186137215,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.441894,38.507722,-90.441894,38.507722",
     "geom:latitude":38.507722,
     "geom:longitude":-90.441894,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"672 Gravois Bluffs Blvd",
     "sg:city":"Fenton",
     "sg:classifiers":[
@@ -65,10 +66,11 @@
         }
     ],
     "wof:id":186137215,
-    "wof:lastmodified":1449052647,
+    "wof:lastmodified":1466622170,
     "wof:name":"The Bluffs Chiro",
     "wof:parent_id":85858661,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -78,6 +80,11 @@
         "chiropractic"
     ]
 },
-  "bbox": [-90.441894,38.507722,-90.441894,38.507722],
+  "bbox": [
+    -90.441894,
+    38.507722,
+    -90.441894,
+    38.507722
+],
   "geometry": {"coordinates":[-90.441894,38.507722],"type":"Point"}
 }

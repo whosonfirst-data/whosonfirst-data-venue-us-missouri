@@ -2,13 +2,14 @@
   "id": 186309033,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.302101,38.5924,-90.302101,38.5924",
     "geom:latitude":38.5924,
     "geom:longitude":-90.302101,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6500 Chippewa St",
     "sg:city":"Saint Louis",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186309033,
-    "wof:lastmodified":1449050990,
+    "wof:lastmodified":1466622414,
     "wof:name":"Davidson Richard PC",
     "wof:parent_id":85873685,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.302101,38.5924,-90.302101,38.5924],
-  "geometry": {"coordinates":[-90.302101,38.5924],"type":"Point"}
+  "bbox": [
+    -90.302101,
+    38.5924,
+    -90.302101,
+    38.5924
+],
+  "geometry": {"coordinates":[-90.30210099999999,38.5924],"type":"Point"}
 }

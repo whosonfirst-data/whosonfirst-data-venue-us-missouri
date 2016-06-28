@@ -2,13 +2,14 @@
   "id": 186100649,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.559886,38.592822,-90.559886,38.592822",
     "geom:latitude":38.592822,
     "geom:longitude":-90.559886,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15326 Manchester Rd",
     "sg:city":"Ballwin",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186100649,
-    "wof:lastmodified":1449052337,
+    "wof:lastmodified":1466622141,
     "wof:name":"Artistic Kitchen & Bath, Inc",
     "wof:parent_id":85831197,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "cabinet"
     ]
 },
-  "bbox": [-90.559886,38.592822,-90.559886,38.592822],
-  "geometry": {"coordinates":[-90.559886,38.592822],"type":"Point"}
+  "bbox": [
+    -90.559886,
+    38.592822,
+    -90.559886,
+    38.592822
+],
+  "geometry": {"coordinates":[-90.55988600000001,38.592822],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202727375,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.721198,36.975336,-93.721198,36.975336",
     "geom:latitude":36.975336,
     "geom:longitude":-93.721198,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"19 W Olive St",
     "sg:city":"Aurora",
     "sg:classifiers":[
@@ -55,16 +56,22 @@
         }
     ],
     "wof:id":202727375,
-    "wof:lastmodified":1449060486,
+    "wof:lastmodified":1466622285,
     "wof:name":"Betty's Floral & Gift",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-93.721198,36.975336,-93.721198,36.975336],
+  "bbox": [
+    -93.721198,
+    36.975336,
+    -93.721198,
+    36.975336
+],
   "geometry": {"coordinates":[-93.721198,36.975336],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202659461,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.219548,38.663297,-93.219548,38.663297",
     "geom:latitude":38.663297,
     "geom:longitude":-93.219548,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"28866 Highway U",
     "sg:city":"Sedalia",
     "sg:classifiers":[
@@ -65,10 +66,11 @@
         }
     ],
     "wof:id":202659461,
-    "wof:lastmodified":1449060378,
+    "wof:lastmodified":1466622255,
     "wof:name":"Thomas Independent Plumbing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -83,6 +85,11 @@
         "contractors-commercial"
     ]
 },
-  "bbox": [-93.219548,38.663297,-93.219548,38.663297],
+  "bbox": [
+    -93.219548,
+    38.663297,
+    -93.219548,
+    38.663297
+],
   "geometry": {"coordinates":[-93.219548,38.663297],"type":"Point"}
 }

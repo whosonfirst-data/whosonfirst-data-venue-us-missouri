@@ -2,13 +2,14 @@
   "id": 186166585,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.392168,38.25493,-90.392168,38.25493",
     "geom:latitude":38.25493,
     "geom:longitude":-90.392168,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"151 Riverview Plaza Dr",
     "sg:city":"Herculaneum",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186166585,
-    "wof:lastmodified":1449051879,
+    "wof:lastmodified":1466622192,
     "wof:name":"Herculaneum Fire Riv Plz",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "village"
     ]
 },
-  "bbox": [-90.392168,38.25493,-90.392168,38.25493],
+  "bbox": [
+    -90.392168,
+    38.25493,
+    -90.392168,
+    38.25493
+],
   "geometry": {"coordinates":[-90.392168,38.25493],"type":"Point"}
 }

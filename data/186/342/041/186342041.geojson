@@ -2,13 +2,14 @@
   "id": 186342041,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.242565,38.655422,-90.242565,38.655422",
     "geom:latitude":38.655422,
     "geom:longitude":-90.242565,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4251 Martin Luther King Dr",
     "sg:city":"Saint Louis",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":186342041,
-    "wof:lastmodified":1449052838,
+    "wof:lastmodified":1466622325,
     "wof:name":"Jaden's Diner",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "soul"
     ]
 },
-  "bbox": [-90.242565,38.655422,-90.242565,38.655422],
+  "bbox": [
+    -90.242565,
+    38.655422,
+    -90.242565,
+    38.655422
+],
   "geometry": {"coordinates":[-90.242565,38.655422],"type":"Point"}
 }

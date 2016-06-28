@@ -2,13 +2,14 @@
   "id": 202411535,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.701117,38.744081,-93.701117,38.744081",
     "geom:latitude":38.744081,
     "geom:longitude":-93.701117,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1206 Pembrooke Dr",
     "sg:city":"Warrensburg",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202411535,
-    "wof:lastmodified":1449060215,
+    "wof:lastmodified":1466622163,
     "wof:name":"Alicia Ferris-Dannenberg",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "bureau"
     ]
 },
-  "bbox": [-93.701117,38.744081,-93.701117,38.744081],
+  "bbox": [
+    -93.701117,
+    38.744081,
+    -93.701117,
+    38.744081
+],
   "geometry": {"coordinates":[-93.701117,38.744081],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202892333,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.225854,37.178153,-93.225854,37.178153",
     "geom:latitude":37.178153,
     "geom:longitude":-93.225854,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1918 S Ingram Mill Rd",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -55,16 +56,22 @@
         }
     ],
     "wof:id":202892333,
-    "wof:lastmodified":1449060482,
+    "wof:lastmodified":1466622366,
     "wof:name":"Dixon Properties",
     "wof:parent_id":85881133,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "management"
     ]
 },
-  "bbox": [-93.225854,37.178153,-93.225854,37.178153],
+  "bbox": [
+    -93.225854,
+    37.178153,
+    -93.225854,
+    37.178153
+],
   "geometry": {"coordinates":[-93.225854,37.178153],"type":"Point"}
 }

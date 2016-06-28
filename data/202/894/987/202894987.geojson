@@ -2,13 +2,14 @@
   "id": 202894987,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.256635,37.148435,-93.256635,37.148435",
     "geom:latitude":37.148435,
     "geom:longitude":-93.256635,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2139 E Primrose St Ste S",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":202894987,
-    "wof:lastmodified":1449061156,
+    "wof:lastmodified":1466622371,
     "wof:name":"Larkin Group",
     "wof:parent_id":85881149,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "engineer"
     ]
 },
-  "bbox": [-93.256635,37.148435,-93.256635,37.148435],
+  "bbox": [
+    -93.256635,
+    37.148435,
+    -93.256635,
+    37.148435
+],
   "geometry": {"coordinates":[-93.256635,37.148435],"type":"Point"}
 }

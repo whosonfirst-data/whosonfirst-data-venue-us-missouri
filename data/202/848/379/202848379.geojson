@@ -2,13 +2,14 @@
   "id": 202848379,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.305945,37.076358,-93.305945,37.076358",
     "geom:latitude":37.076358,
     "geom:longitude":-93.305945,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"806 W Jackson Ave",
     "sg:city":"Nixa",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202848379,
-    "wof:lastmodified":1449060461,
+    "wof:lastmodified":1466622345,
     "wof:name":"Dancing Needle Designs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-93.305945,37.076358,-93.305945,37.076358],
-  "geometry": {"coordinates":[-93.305945,37.076358],"type":"Point"}
+  "bbox": [
+    -93.305945,
+    37.076358,
+    -93.305945,
+    37.076358
+],
+  "geometry": {"coordinates":[-93.30594499999999,37.076358],"type":"Point"}
 }

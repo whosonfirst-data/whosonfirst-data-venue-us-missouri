@@ -2,13 +2,14 @@
   "id": 202685005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.771911,37.930397,-91.771911,37.930397",
     "geom:latitude":37.930397,
     "geom:longitude":-91.771911,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"49 Gregory Ln",
     "sg:city":"Rolla",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202685005,
-    "wof:lastmodified":1449062570,
+    "wof:lastmodified":1466622412,
     "wof:name":"Boulware Mfg Home Transporting",
     "wof:parent_id":85814531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "transporting"
     ]
 },
-  "bbox": [-91.771911,37.930397,-91.771911,37.930397],
+  "bbox": [
+    -91.771911,
+    37.930397,
+    -91.771911,
+    37.930397
+],
   "geometry": {"coordinates":[-91.771911,37.930397],"type":"Point"}
 }

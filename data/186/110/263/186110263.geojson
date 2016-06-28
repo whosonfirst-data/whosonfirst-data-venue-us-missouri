@@ -2,13 +2,14 @@
   "id": 186110263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.388287,38.332523,-90.388287,38.332523",
     "geom:latitude":38.332523,
     "geom:longitude":-90.388287,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7373 Mulberry Rd",
     "sg:city":"Barnhart",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":186110263,
-    "wof:lastmodified":1449051276,
+    "wof:lastmodified":1466622146,
     "wof:name":"Treasure Chest Jewelry",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "jeweler"
     ]
 },
-  "bbox": [-90.388287,38.332523,-90.388287,38.332523],
-  "geometry": {"coordinates":[-90.388287,38.332523],"type":"Point"}
+  "bbox": [
+    -90.388287,
+    38.332523,
+    -90.388287,
+    38.332523
+],
+  "geometry": {"coordinates":[-90.38828700000001,38.332523],"type":"Point"}
 }

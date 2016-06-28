@@ -2,13 +2,14 @@
   "id": 186309253,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.283699,38.587898,-90.283699,38.587898",
     "geom:latitude":38.587898,
     "geom:longitude":-90.283699,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5346 Devonshire Ave",
     "sg:city":"Saint Louis",
     "sg:classifiers":[
@@ -54,14 +55,20 @@
         }
     ],
     "wof:id":186309253,
-    "wof:lastmodified":1449050993,
+    "wof:lastmodified":1466622300,
     "wof:name":"Manzo Sausage Kitchen & Market",
     "wof:parent_id":85850281,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.283699,38.587898,-90.283699,38.587898],
+  "bbox": [
+    -90.283699,
+    38.587898,
+    -90.283699,
+    38.587898
+],
   "geometry": {"coordinates":[-90.283699,38.587898],"type":"Point"}
 }

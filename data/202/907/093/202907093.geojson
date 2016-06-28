@@ -2,13 +2,14 @@
   "id": 202907093,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.280991,37.194038,-93.280991,37.194038",
     "geom:latitude":37.194038,
     "geom:longitude":-93.280991,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1119 S Kings Ave",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":202907093,
-    "wof:lastmodified":1449062454,
+    "wof:lastmodified":1466622379,
     "wof:name":"Headrage Hair Studio",
     "wof:parent_id":85865461,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.280991,37.194038,-93.280991,37.194038],
+  "bbox": [
+    -93.280991,
+    37.194038,
+    -93.280991,
+    37.194038
+],
   "geometry": {"coordinates":[-93.280991,37.194038],"type":"Point"}
 }

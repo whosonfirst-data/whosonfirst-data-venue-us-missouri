@@ -2,13 +2,14 @@
   "id": 202377515,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.440042,39.245557,-94.440042,39.245557",
     "geom:latitude":39.245557,
     "geom:longitude":-94.440042,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Westowne St Ste 10",
     "sg:city":"Liberty",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202377515,
-    "wof:lastmodified":1449061063,
+    "wof:lastmodified":1466622126,
     "wof:name":"Mid-America Ag Management Corp.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "services-household"
     ]
 },
-  "bbox": [-94.440042,39.245557,-94.440042,39.245557],
-  "geometry": {"coordinates":[-94.440042,39.245557],"type":"Point"}
+  "bbox": [
+    -94.440042,
+    39.245557,
+    -94.440042,
+    39.245557
+],
+  "geometry": {"coordinates":[-94.44004200000001,39.245557],"type":"Point"}
 }

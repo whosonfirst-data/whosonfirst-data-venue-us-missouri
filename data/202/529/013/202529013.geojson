@@ -2,13 +2,14 @@
   "id": 202529013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.512787,37.07502,-94.512787,37.07502",
     "geom:latitude":37.07502,
     "geom:longitude":-94.512787,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 E 15th St",
     "sg:city":"Joplin",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":202529013,
-    "wof:lastmodified":1449061234,
+    "wof:lastmodified":1466622408,
     "wof:name":"Academy Animal Hospital",
     "wof:parent_id":85885363,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "clinic"
     ]
 },
-  "bbox": [-94.512787,37.07502,-94.512787,37.07502],
+  "bbox": [
+    -94.512787,
+    37.07502,
+    -94.512787,
+    37.07502
+],
   "geometry": {"coordinates":[-94.512787,37.07502],"type":"Point"}
 }

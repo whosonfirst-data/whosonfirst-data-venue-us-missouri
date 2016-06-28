@@ -2,13 +2,14 @@
   "id": 202386377,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.431525,39.259208,-94.431525,39.259208",
     "geom:latitude":39.259208,
     "geom:longitude":-94.431525,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1112 N Woodridge Ln",
     "sg:city":"Liberty",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":202386377,
-    "wof:lastmodified":1449061439,
+    "wof:lastmodified":1466622143,
     "wof:name":"Andrews Cleaning Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "house"
     ]
 },
-  "bbox": [-94.431525,39.259208,-94.431525,39.259208],
-  "geometry": {"coordinates":[-94.431525,39.259208],"type":"Point"}
+  "bbox": [
+    -94.431525,
+    39.259208,
+    -94.431525,
+    39.259208
+],
+  "geometry": {"coordinates":[-94.43152499999999,39.259208],"type":"Point"}
 }

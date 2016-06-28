@@ -2,13 +2,14 @@
   "id": 202771931,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.219528,36.643261,-93.219528,36.643261",
     "geom:latitude":36.643261,
     "geom:longitude":-93.219528,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"301 W Pacific St Ste B",
     "sg:city":"Branson",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202771931,
-    "wof:lastmodified":1449061493,
+    "wof:lastmodified":1466622313,
     "wof:name":"Spigarelli & Johnston",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "plan"
     ]
 },
-  "bbox": [-93.219528,36.643261,-93.219528,36.643261],
+  "bbox": [
+    -93.219528,
+    36.643261,
+    -93.219528,
+    36.643261
+],
   "geometry": {"coordinates":[-93.219528,36.643261],"type":"Point"}
 }

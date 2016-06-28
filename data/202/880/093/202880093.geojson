@@ -2,13 +2,14 @@
   "id": 202880093,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.310673,37.211703,-93.310673,37.211703",
     "geom:latitude":37.211703,
     "geom:longitude":-93.310673,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"420 N Nettleton Ave",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":202880093,
-    "wof:lastmodified":1449062674,
+    "wof:lastmodified":1466622356,
     "wof:name":"Team Industry Inc",
     "wof:parent_id":85881163,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "trucking"
     ]
 },
-  "bbox": [-93.310673,37.211703,-93.310673,37.211703],
-  "geometry": {"coordinates":[-93.310673,37.211703],"type":"Point"}
+  "bbox": [
+    -93.310673,
+    37.211703,
+    -93.310673,
+    37.211703
+],
+  "geometry": {"coordinates":[-93.31067299999999,37.211703],"type":"Point"}
 }

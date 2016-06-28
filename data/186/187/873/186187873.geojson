@@ -2,13 +2,14 @@
   "id": 186187873,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.169809,38.211445,-91.169809,38.211445",
     "geom:latitude":38.211445,
     "geom:longitude":-91.169809,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"645 Missouri Ave",
     "sg:city":"Sullivan",
     "sg:classifiers":[
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":186187873,
-    "wof:lastmodified":1449050788,
+    "wof:lastmodified":1466622198,
     "wof:name":"Sullivan Bowl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.169809,38.211445,-91.169809,38.211445],
+  "bbox": [
+    -91.169809,
+    38.211445,
+    -91.169809,
+    38.211445
+],
   "geometry": {"coordinates":[-91.169809,38.211445],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202392183,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.539578,38.70227,-94.539578,38.70227",
     "geom:latitude":38.70227,
     "geom:longitude":-94.539578,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5402 E 233rd St",
     "sg:city":"Peculiar",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":202392183,
-    "wof:lastmodified":1449062158,
+    "wof:lastmodified":1466622157,
     "wof:name":"Mad Jacks",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "seafood"
     ]
 },
-  "bbox": [-94.539578,38.70227,-94.539578,38.70227],
-  "geometry": {"coordinates":[-94.539578,38.70227],"type":"Point"}
+  "bbox": [
+    -94.539578,
+    38.70227,
+    -94.539578,
+    38.70227
+],
+  "geometry": {"coordinates":[-94.53957800000001,38.70227],"type":"Point"}
 }

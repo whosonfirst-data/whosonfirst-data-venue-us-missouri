@@ -2,13 +2,14 @@
   "id": 186354365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.247508,38.594036,-90.247508,38.594036",
     "geom:latitude":38.594036,
     "geom:longitude":-90.247508,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3503 S Spring Ave",
     "sg:city":"Saint Louis",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":186354365,
-    "wof:lastmodified":1449052720,
+    "wof:lastmodified":1466622330,
     "wof:name":"Grey Fox Pub",
     "wof:parent_id":85873681,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "performing"
     ]
 },
-  "bbox": [-90.247508,38.594036,-90.247508,38.594036],
+  "bbox": [
+    -90.247508,
+    38.594036,
+    -90.247508,
+    38.594036
+],
   "geometry": {"coordinates":[-90.247508,38.594036],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202904509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.277657,37.152706,-93.277657,37.152706",
     "geom:latitude":37.152706,
     "geom:longitude":-93.277657,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3424 S National Ave",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":202904509,
-    "wof:lastmodified":1449062720,
+    "wof:lastmodified":1466622376,
     "wof:name":"House Of Travel Inc",
     "wof:parent_id":85881149,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -75,6 +77,11 @@
         "railroads-ticket"
     ]
 },
-  "bbox": [-93.277657,37.152706,-93.277657,37.152706],
+  "bbox": [
+    -93.277657,
+    37.152706,
+    -93.277657,
+    37.152706
+],
   "geometry": {"coordinates":[-93.277657,37.152706],"type":"Point"}
 }

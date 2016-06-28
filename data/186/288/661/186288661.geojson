@@ -2,13 +2,14 @@
   "id": 186288661,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.2164,38.646599,-90.2164,38.646599",
     "geom:latitude":38.646599,
     "geom:longitude":-90.2164,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2829 Howard St Ofc",
     "sg:city":"Saint Louis",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186288661,
-    "wof:lastmodified":1449050528,
+    "wof:lastmodified":1466622282,
     "wof:name":"Jeff Vander Lou Elderly Housing Package 21",
     "wof:parent_id":85873625,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "property"
     ]
 },
-  "bbox": [-90.2164,38.646599,-90.2164,38.646599],
-  "geometry": {"coordinates":[-90.2164,38.646599],"type":"Point"}
+  "bbox": [
+    -90.2164,
+    38.646599,
+    -90.2164,
+    38.646599
+],
+  "geometry": {"coordinates":[-90.21639999999999,38.646599],"type":"Point"}
 }

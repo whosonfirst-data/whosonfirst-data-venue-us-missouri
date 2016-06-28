@@ -2,13 +2,14 @@
   "id": 202895641,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.248932,37.187704,-93.248932,37.187704",
     "geom:latitude":37.187704,
     "geom:longitude":-93.248932,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1420 S Enterprise Ave",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":202895641,
-    "wof:lastmodified":1449061193,
+    "wof:lastmodified":1466622371,
     "wof:name":"Petrol Properties Inc.",
     "wof:parent_id":85829759,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "management"
     ]
 },
-  "bbox": [-93.248932,37.187704,-93.248932,37.187704],
+  "bbox": [
+    -93.248932,
+    37.187704,
+    -93.248932,
+    37.187704
+],
   "geometry": {"coordinates":[-93.248932,37.187704],"type":"Point"}
 }

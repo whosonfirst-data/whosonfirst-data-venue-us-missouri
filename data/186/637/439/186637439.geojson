@@ -2,13 +2,14 @@
   "id": 186637439,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.374519,39.115559,-94.374519,39.115559",
     "geom:latitude":39.115559,
     "geom:longitude":-94.374519,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"603 N Jennings Rd",
     "sg:city":"Independence",
     "sg:classifiers":[
@@ -65,10 +66,11 @@
         }
     ],
     "wof:id":186637439,
-    "wof:lastmodified":1449050252,
+    "wof:lastmodified":1466622275,
     "wof:name":"Saint Marks United Methdst Ch",
     "wof:parent_id":85816457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -78,6 +80,11 @@
         "churches-methodist"
     ]
 },
-  "bbox": [-94.374519,39.115559,-94.374519,39.115559],
-  "geometry": {"coordinates":[-94.374519,39.115559],"type":"Point"}
+  "bbox": [
+    -94.374519,
+    39.115559,
+    -94.374519,
+    39.115559
+],
+  "geometry": {"coordinates":[-94.37451900000001,39.115559],"type":"Point"}
 }

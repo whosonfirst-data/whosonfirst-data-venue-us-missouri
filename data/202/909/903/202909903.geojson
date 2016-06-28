@@ -2,13 +2,14 @@
   "id": 202909903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.297056,37.115988,-93.297056,37.115988",
     "geom:latitude":37.115988,
     "geom:longitude":-93.297056,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5419 S Campbell Ave",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -66,10 +67,11 @@
         }
     ],
     "wof:id":202909903,
-    "wof:lastmodified":1449062021,
+    "wof:lastmodified":1466622379,
     "wof:name":"Bair's Grocery",
     "wof:parent_id":85881143,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -77,6 +79,11 @@
         "fruit"
     ]
 },
-  "bbox": [-93.297056,37.115988,-93.297056,37.115988],
+  "bbox": [
+    -93.297056,
+    37.115988,
+    -93.297056,
+    37.115988
+],
   "geometry": {"coordinates":[-93.297056,37.115988],"type":"Point"}
 }

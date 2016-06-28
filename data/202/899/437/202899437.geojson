@@ -2,13 +2,14 @@
   "id": 202899437,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.289932,37.208141,-93.289932,37.208141",
     "geom:latitude":37.208141,
     "geom:longitude":-93.289932,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"300 S Jefferson Ave Suite 301",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -57,16 +58,22 @@
         }
     ],
     "wof:id":202899437,
-    "wof:lastmodified":1449062515,
+    "wof:lastmodified":1466622372,
     "wof:name":"GHN-Gaskin Hill Norcross",
     "wof:parent_id":85881119,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engineer"
     ]
 },
-  "bbox": [-93.289932,37.208141,-93.289932,37.208141],
-  "geometry": {"coordinates":[-93.289932,37.208141],"type":"Point"}
+  "bbox": [
+    -93.289932,
+    37.208141,
+    -93.289932,
+    37.208141
+],
+  "geometry": {"coordinates":[-93.28993199999999,37.208141],"type":"Point"}
 }

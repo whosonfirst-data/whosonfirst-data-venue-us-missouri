@@ -2,13 +2,14 @@
   "id": 186507017,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.987622,40.472238,-92.987622,40.472238",
     "geom:latitude":40.472238,
     "geom:longitude":-92.987622,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"30407 180th St",
     "sg:city":"Unionville",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":186507017,
-    "wof:lastmodified":1449051747,
+    "wof:lastmodified":1466622154,
     "wof:name":"Rudy Parcel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "courier"
     ]
 },
-  "bbox": [-92.987622,40.472238,-92.987622,40.472238],
+  "bbox": [
+    -92.987622,
+    40.472238,
+    -92.987622,
+    40.472238
+],
   "geometry": {"coordinates":[-92.987622,40.472238],"type":"Point"}
 }

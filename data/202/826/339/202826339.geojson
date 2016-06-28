@@ -2,13 +2,14 @@
   "id": 202826339,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.14954,36.6098,-93.14954,36.6098",
     "geom:latitude":36.6098,
     "geom:longitude":-93.14954,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"406 Zinnia Ln",
     "sg:city":"Kirbyville",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":202826339,
-    "wof:lastmodified":1449061943,
+    "wof:lastmodified":1466622336,
     "wof:name":"Dwight B Shoopman",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "builder"
     ]
 },
-  "bbox": [-93.14954,36.6098,-93.14954,36.6098],
+  "bbox": [
+    -93.14954,
+    36.6098,
+    -93.14954,
+    36.6098
+],
   "geometry": {"coordinates":[-93.14954,36.6098],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186489047,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.585358,40.19477,-92.585358,40.19477",
     "geom:latitude":40.19477,
     "geom:longitude":-92.585358,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"111 N Main St",
     "sg:city":"Kirksville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186489047,
-    "wof:lastmodified":1449051847,
+    "wof:lastmodified":1466622146,
     "wof:name":"La Te Da",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.585358,40.19477,-92.585358,40.19477],
+  "bbox": [
+    -92.585358,
+    40.19477,
+    -92.585358,
+    40.19477
+],
   "geometry": {"coordinates":[-92.585358,40.19477],"type":"Point"}
 }

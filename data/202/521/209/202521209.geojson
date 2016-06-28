@@ -2,13 +2,14 @@
   "id": 202521209,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.509807,37.087554,-94.509807,37.087554",
     "geom:latitude":37.087554,
     "geom:longitude":-94.509807,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"423 E 4th St Ste A",
     "sg:city":"Joplin",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":202521209,
-    "wof:lastmodified":1449062519,
+    "wof:lastmodified":1466622198,
     "wof:name":"Culligan Water Conditioning Of Joplin",
     "wof:parent_id":85885363,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -79,6 +81,11 @@
         "conditioning"
     ]
 },
-  "bbox": [-94.509807,37.087554,-94.509807,37.087554],
+  "bbox": [
+    -94.509807,
+    37.087554,
+    -94.509807,
+    37.087554
+],
   "geometry": {"coordinates":[-94.509807,37.087554],"type":"Point"}
 }

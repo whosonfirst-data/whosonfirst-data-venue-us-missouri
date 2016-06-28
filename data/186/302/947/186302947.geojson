@@ -2,13 +2,14 @@
   "id": 186302947,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.260575,38.650935,-90.260575,38.650935",
     "geom:latitude":38.650935,
     "geom:longitude":-90.260575,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"625 N Euclid Ave Suite 320i",
     "sg:city":"Saint Louis",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186302947,
-    "wof:lastmodified":1449051290,
+    "wof:lastmodified":1466622295,
     "wof:name":"The Meridian Institute for Naturopathic Therapies",
     "wof:parent_id":85873623,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "family"
     ]
 },
-  "bbox": [-90.260575,38.650935,-90.260575,38.650935],
+  "bbox": [
+    -90.260575,
+    38.650935,
+    -90.260575,
+    38.650935
+],
   "geometry": {"coordinates":[-90.260575,38.650935],"type":"Point"}
 }

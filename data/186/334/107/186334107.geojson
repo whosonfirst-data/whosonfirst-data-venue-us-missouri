@@ -2,13 +2,14 @@
   "id": 186334107,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.2537,38.569099,-90.2537,38.569099",
     "geom:latitude":38.569099,
     "geom:longitude":-90.2537,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5541 S Grand Blvd",
     "sg:city":"Saint Louis",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":186334107,
-    "wof:lastmodified":1449051158,
+    "wof:lastmodified":1466622319,
     "wof:name":"Windler Gb Florist",
     "wof:parent_id":85873701,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "gardening"
     ]
 },
-  "bbox": [-90.2537,38.569099,-90.2537,38.569099],
-  "geometry": {"coordinates":[-90.2537,38.569099],"type":"Point"}
+  "bbox": [
+    -90.2537,
+    38.569099,
+    -90.2537,
+    38.569099
+],
+  "geometry": {"coordinates":[-90.25369999999999,38.569099],"type":"Point"}
 }

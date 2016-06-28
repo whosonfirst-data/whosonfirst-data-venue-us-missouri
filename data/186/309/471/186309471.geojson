@@ -2,13 +2,14 @@
   "id": 186309471,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.273697,38.591,-90.273697,38.591",
     "geom:latitude":38.591,
     "geom:longitude":-90.273697,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4210 S Kingshighway Blvd",
     "sg:city":"Saint Louis",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":186309471,
-    "wof:lastmodified":1449050990,
+    "wof:lastmodified":1466622301,
     "wof:name":"Southwest Bank",
     "wof:parent_id":85850281,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "mortgage"
     ]
 },
-  "bbox": [-90.273697,38.591,-90.273697,38.591],
+  "bbox": [
+    -90.273697,
+    38.591,
+    -90.273697,
+    38.591
+],
   "geometry": {"coordinates":[-90.273697,38.591],"type":"Point"}
 }

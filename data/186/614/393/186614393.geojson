@@ -2,13 +2,14 @@
   "id": 186614393,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.19861,39.135261,-94.19861,39.135261",
     "geom:latitude":39.135261,
     "geom:longitude":-94.19861,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"203 S Hudson St",
     "sg:city":"Buckner",
     "sg:classifiers":[
@@ -67,10 +68,11 @@
         }
     ],
     "wof:id":186614393,
-    "wof:lastmodified":1449053093,
+    "wof:lastmodified":1466622210,
     "wof:name":"One Hour Heating & Air Cond",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -84,6 +86,11 @@
         "air conditioning"
     ]
 },
-  "bbox": [-94.19861,39.135261,-94.19861,39.135261],
+  "bbox": [
+    -94.19861,
+    39.135261,
+    -94.19861,
+    39.135261
+],
   "geometry": {"coordinates":[-94.19861,39.135261],"type":"Point"}
 }

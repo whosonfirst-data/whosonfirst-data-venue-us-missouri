@@ -2,13 +2,14 @@
   "id": 202880967,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.287628,37.217361,-93.287628,37.217361",
     "geom:latitude":37.217361,
     "geom:longitude":-93.287628,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"900 N Benton Ave",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":202880967,
-    "wof:lastmodified":1449062675,
+    "wof:lastmodified":1466622358,
     "wof:name":"North Springfield Betterment Foundation",
     "wof:parent_id":85881135,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "volunteer"
     ]
 },
-  "bbox": [-93.287628,37.217361,-93.287628,37.217361],
+  "bbox": [
+    -93.287628,
+    37.217361,
+    -93.287628,
+    37.217361
+],
   "geometry": {"coordinates":[-93.287628,37.217361],"type":"Point"}
 }

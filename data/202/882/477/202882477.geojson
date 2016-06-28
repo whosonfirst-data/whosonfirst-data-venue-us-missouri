@@ -2,13 +2,14 @@
   "id": 202882477,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.231406,37.204596,-93.231406,37.204596",
     "geom:latitude":37.204596,
     "geom:longitude":-93.231406,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"515 S Cavalier Ave",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":202882477,
-    "wof:lastmodified":1449060552,
+    "wof:lastmodified":1466622358,
     "wof:name":"Zickel Flooring",
     "wof:parent_id":85881137,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "tile-contractors"
     ]
 },
-  "bbox": [-93.231406,37.204596,-93.231406,37.204596],
-  "geometry": {"coordinates":[-93.231406,37.204596],"type":"Point"}
+  "bbox": [
+    -93.231406,
+    37.204596,
+    -93.231406,
+    37.204596
+],
+  "geometry": {"coordinates":[-93.23140600000001,37.204596],"type":"Point"}
 }

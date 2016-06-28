@@ -2,13 +2,14 @@
   "id": 202396447,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.471928,38.812944,-94.471928,38.812944",
     "geom:latitude":38.812944,
     "geom:longitude":-94.471928,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"416 Remington Plaza Ct",
     "sg:city":"Raymore",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202396447,
-    "wof:lastmodified":1449061751,
+    "wof:lastmodified":1466622159,
     "wof:name":"Studio M Dance Academy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "dancing"
     ]
 },
-  "bbox": [-94.471928,38.812944,-94.471928,38.812944],
-  "geometry": {"coordinates":[-94.471928,38.812944],"type":"Point"}
+  "bbox": [
+    -94.471928,
+    38.812944,
+    -94.471928,
+    38.812944
+],
+  "geometry": {"coordinates":[-94.47192800000001,38.812944],"type":"Point"}
 }

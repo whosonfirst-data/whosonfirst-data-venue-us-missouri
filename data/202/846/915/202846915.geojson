@@ -2,13 +2,14 @@
   "id": 202846915,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.313948,37.043568,-93.313948,37.043568",
     "geom:latitude":37.043568,
     "geom:longitude":-93.313948,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"940 W Mount Vernon St",
     "sg:city":"Nixa",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202846915,
-    "wof:lastmodified":1449062092,
+    "wof:lastmodified":1466622344,
     "wof:name":"Griffin, Kristin",
     "wof:parent_id":85809751,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-93.313948,37.043568,-93.313948,37.043568],
+  "bbox": [
+    -93.313948,
+    37.043568,
+    -93.313948,
+    37.043568
+],
   "geometry": {"coordinates":[-93.313948,37.043568],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186108209,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.509359,38.593779,-90.509359,38.593779",
     "geom:latitude":38.593779,
     "geom:longitude":-90.509359,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"129 Woods Mill Rd",
     "sg:city":"Ballwin",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":186108209,
-    "wof:lastmodified":1449050310,
+    "wof:lastmodified":1466622145,
     "wof:name":"M U C",
     "wof:parent_id":85802943,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "churches-methodist"
     ]
 },
-  "bbox": [-90.509359,38.593779,-90.509359,38.593779],
+  "bbox": [
+    -90.509359,
+    38.593779,
+    -90.509359,
+    38.593779
+],
   "geometry": {"coordinates":[-90.509359,38.593779],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202755981,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.230407,36.662444,-93.230407,36.662444",
     "geom:latitude":36.662444,
     "geom:longitude":-93.230407,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"800 State Highway 248 2D",
     "sg:city":"Branson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202755981,
-    "wof:lastmodified":1449060842,
+    "wof:lastmodified":1466622306,
     "wof:name":"Hill Family Chiropractic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "chiropractic"
     ]
 },
-  "bbox": [-93.230407,36.662444,-93.230407,36.662444],
+  "bbox": [
+    -93.230407,
+    36.662444,
+    -93.230407,
+    36.662444
+],
   "geometry": {"coordinates":[-93.230407,36.662444],"type":"Point"}
 }

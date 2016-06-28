@@ -2,13 +2,14 @@
   "id": 186621149,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.537223,38.889468,-94.537223,38.889468",
     "geom:latitude":38.889468,
     "geom:longitude":-94.537223,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"702 Main St",
     "sg:city":"Grandview",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":186621149,
-    "wof:lastmodified":1449052694,
+    "wof:lastmodified":1466622226,
     "wof:name":"Corner Bar",
     "wof:parent_id":85871945,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -75,6 +77,11 @@
         "cocktail"
     ]
 },
-  "bbox": [-94.537223,38.889468,-94.537223,38.889468],
+  "bbox": [
+    -94.537223,
+    38.889468,
+    -94.537223,
+    38.889468
+],
   "geometry": {"coordinates":[-94.537223,38.889468],"type":"Point"}
 }

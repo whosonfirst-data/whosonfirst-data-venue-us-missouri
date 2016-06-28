@@ -2,13 +2,14 @@
   "id": 202722455,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.9469,38.195577,-91.9469,38.195577",
     "geom:latitude":38.195577,
     "geom:longitude":-91.9469,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"30921 Highway 63 N",
     "sg:city":"Vienna",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202722455,
-    "wof:lastmodified":1449060994,
+    "wof:lastmodified":1466622282,
     "wof:name":"Larry Kampeter",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "ranch"
     ]
 },
-  "bbox": [-91.9469,38.195577,-91.9469,38.195577],
+  "bbox": [
+    -91.9469,
+    38.195577,
+    -91.9469,
+    38.195577
+],
   "geometry": {"coordinates":[-91.9469,38.195577],"type":"Point"}
 }

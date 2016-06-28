@@ -2,13 +2,14 @@
   "id": 202384965,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.428902,39.263771,-94.428902,39.263771",
     "geom:latitude":39.263771,
     "geom:longitude":-94.428902,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1416 Burch St",
     "sg:city":"Liberty",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202384965,
-    "wof:lastmodified":1449060416,
+    "wof:lastmodified":1466622139,
     "wof:name":"Dennis E Davidson",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "practice"
     ]
 },
-  "bbox": [-94.428902,39.263771,-94.428902,39.263771],
-  "geometry": {"coordinates":[-94.428902,39.263771],"type":"Point"}
+  "bbox": [
+    -94.428902,
+    39.263771,
+    -94.428902,
+    39.263771
+],
+  "geometry": {"coordinates":[-94.42890199999999,39.263771],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202616759,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.744375,38.977477,-92.744375,38.977477",
     "geom:latitude":38.977477,
     "geom:longitude":-92.744375,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"217 Main St",
     "sg:city":"Boonville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202616759,
-    "wof:lastmodified":1449061964,
+    "wof:lastmodified":1466622241,
     "wof:name":"Wooldridge, Mark Law Office Of",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "practice"
     ]
 },
-  "bbox": [-92.744375,38.977477,-92.744375,38.977477],
-  "geometry": {"coordinates":[-92.744375,38.977477],"type":"Point"}
+  "bbox": [
+    -92.744375,
+    38.977477,
+    -92.744375,
+    38.977477
+],
+  "geometry": {"coordinates":[-92.74437500000001,38.977477],"type":"Point"}
 }

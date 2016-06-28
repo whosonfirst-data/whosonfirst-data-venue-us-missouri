@@ -2,13 +2,14 @@
   "id": 186392575,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.293602,38.726299,-90.293602,38.726299",
     "geom:latitude":38.726299,
     "geom:longitude":-90.293602,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5835 Bermuda Dr",
     "sg:city":"Saint Louis",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186392575,
-    "wof:lastmodified":1449052478,
+    "wof:lastmodified":1466622346,
     "wof:name":"Bermuda Elementary School",
     "wof:parent_id":85859027,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "elementary"
     ]
 },
-  "bbox": [-90.293602,38.726299,-90.293602,38.726299],
-  "geometry": {"coordinates":[-90.293602,38.726299],"type":"Point"}
+  "bbox": [
+    -90.293602,
+    38.726299,
+    -90.293602,
+    38.726299
+],
+  "geometry": {"coordinates":[-90.29360200000001,38.726299],"type":"Point"}
 }

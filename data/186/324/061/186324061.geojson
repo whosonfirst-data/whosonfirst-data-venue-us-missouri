@@ -2,13 +2,14 @@
   "id": 186324061,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.251799,38.627696,-90.251799,38.627696",
     "geom:latitude":38.627696,
     "geom:longitude":-90.251799,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4140 Manchester Ave",
     "sg:city":"St Louis",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":186324061,
-    "wof:lastmodified":1449051937,
+    "wof:lastmodified":1466622310,
     "wof:name":"Atomic Cowboy",
     "wof:parent_id":85873649,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "mexican"
     ]
 },
-  "bbox": [-90.251799,38.627696,-90.251799,38.627696],
-  "geometry": {"coordinates":[-90.251799,38.627696],"type":"Point"}
+  "bbox": [
+    -90.251799,
+    38.627696,
+    -90.251799,
+    38.627696
+],
+  "geometry": {"coordinates":[-90.25179900000001,38.627696],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202910909,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.312867,37.136738,-93.312867,37.136738",
     "geom:latitude":37.136738,
     "geom:longitude":-93.312867,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1450 W Lark St",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -64,10 +65,11 @@
         }
     ],
     "wof:id":202910909,
-    "wof:lastmodified":1449061171,
+    "wof:lastmodified":1466622381,
     "wof:name":"Quail Creek Village",
     "wof:parent_id":85881143,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -77,6 +79,11 @@
         "lodging"
     ]
 },
-  "bbox": [-93.312867,37.136738,-93.312867,37.136738],
+  "bbox": [
+    -93.312867,
+    37.136738,
+    -93.312867,
+    37.136738
+],
   "geometry": {"coordinates":[-93.312867,37.136738],"type":"Point"}
 }

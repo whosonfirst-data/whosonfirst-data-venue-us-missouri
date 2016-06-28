@@ -2,13 +2,14 @@
   "id": 186432265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.308701,38.6129,-90.308701,38.6129",
     "geom:latitude":38.6129,
     "geom:longitude":-90.308701,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6909 Southwest Ave",
     "sg:city":"Saint Louis",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":186432265,
-    "wof:lastmodified":1449050188,
+    "wof:lastmodified":1466622362,
     "wof:name":"7-Eleven Dist 1 Police Sub Station",
     "wof:parent_id":85817813,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.308701,38.6129,-90.308701,38.6129],
+  "bbox": [
+    -90.308701,
+    38.6129,
+    -90.308701,
+    38.6129
+],
   "geometry": {"coordinates":[-90.308701,38.6129],"type":"Point"}
 }

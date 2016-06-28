@@ -2,13 +2,14 @@
   "id": 186526963,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.667662,37.382261,-89.667662,37.382261",
     "geom:latitude":37.382261,
     "geom:longitude":-89.667662,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"130 S High St",
     "sg:city":"Jackson",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":186526963,
-    "wof:lastmodified":1449051196,
+    "wof:lastmodified":1466622168,
     "wof:name":"Exmark Logistics",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "trucking"
     ]
 },
-  "bbox": [-89.667662,37.382261,-89.667662,37.382261],
-  "geometry": {"coordinates":[-89.667662,37.382261],"type":"Point"}
+  "bbox": [
+    -89.667662,
+    37.382261,
+    -89.667662,
+    37.382261
+],
+  "geometry": {"coordinates":[-89.66766200000001,37.382261],"type":"Point"}
 }

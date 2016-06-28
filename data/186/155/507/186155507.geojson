@@ -2,13 +2,14 @@
   "id": 186155507,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.627747,38.573101,-90.627747,38.573101",
     "geom:latitude":38.573101,
     "geom:longitude":-90.627747,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"329 Oak Park Village Dr",
     "sg:city":"Grover",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186155507,
-    "wof:lastmodified":1449052539,
+    "wof:lastmodified":1466622180,
     "wof:name":"Tricia Lograsso Inc",
     "wof:parent_id":85868453,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "cabinet"
     ]
 },
-  "bbox": [-90.627747,38.573101,-90.627747,38.573101],
+  "bbox": [
+    -90.627747,
+    38.573101,
+    -90.627747,
+    38.573101
+],
   "geometry": {"coordinates":[-90.627747,38.573101],"type":"Point"}
 }

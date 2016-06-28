@@ -2,13 +2,14 @@
   "id": 202385667,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.436281,39.246679,-94.436281,39.246679",
     "geom:latitude":39.246679,
     "geom:longitude":-94.436281,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"116 Westwoods Dr",
     "sg:city":"Liberty",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202385667,
-    "wof:lastmodified":1449061620,
+    "wof:lastmodified":1466622138,
     "wof:name":"Unger Accounting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "billing"
     ]
 },
-  "bbox": [-94.436281,39.246679,-94.436281,39.246679],
-  "geometry": {"coordinates":[-94.436281,39.246679],"type":"Point"}
+  "bbox": [
+    -94.436281,
+    39.246679,
+    -94.436281,
+    39.246679
+],
+  "geometry": {"coordinates":[-94.43628099999999,39.246679],"type":"Point"}
 }

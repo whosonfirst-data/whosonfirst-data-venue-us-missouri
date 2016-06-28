@@ -2,13 +2,14 @@
   "id": 202795239,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.104079,37.646017,-93.104079,37.646017",
     "geom:latitude":37.646017,
     "geom:longitude":-93.104079,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"309 N Ash St Ste 101",
     "sg:city":"Buffalo",
     "sg:classifiers":[
@@ -76,10 +77,11 @@
         }
     ],
     "wof:id":202795239,
-    "wof:lastmodified":1449061609,
+    "wof:lastmodified":1466622327,
     "wof:name":"Citizens Memorial Hm Hlth Eqp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -91,6 +93,11 @@
         "equipment-repairing"
     ]
 },
-  "bbox": [-93.104079,37.646017,-93.104079,37.646017],
+  "bbox": [
+    -93.104079,
+    37.646017,
+    -93.104079,
+    37.646017
+],
   "geometry": {"coordinates":[-93.104079,37.646017],"type":"Point"}
 }

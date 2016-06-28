@@ -2,13 +2,14 @@
   "id": 202377559,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.356528,39.212664,-94.356528,39.212664",
     "geom:latitude":39.212664,
     "geom:longitude":-94.356528,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18406 Foster Rd",
     "sg:city":"Liberty",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":202377559,
-    "wof:lastmodified":1449061064,
+    "wof:lastmodified":1466622127,
     "wof:name":"Wolfe Painting Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-94.356528,39.212664,-94.356528,39.212664],
+  "bbox": [
+    -94.356528,
+    39.212664,
+    -94.356528,
+    39.212664
+],
   "geometry": {"coordinates":[-94.356528,39.212664],"type":"Point"}
 }

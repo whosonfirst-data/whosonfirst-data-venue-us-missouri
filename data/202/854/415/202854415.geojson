@@ -2,13 +2,14 @@
   "id": 202854415,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.193881,36.972498,-93.193881,36.972498",
     "geom:latitude":36.972498,
     "geom:longitude":-93.193881,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"222 View High Dr",
     "sg:city":"Ozark",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202854415,
-    "wof:lastmodified":1449062551,
+    "wof:lastmodified":1466622348,
     "wof:name":"Affordable Trophies",
     "wof:parent_id":85809751,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "trophies"
     ]
 },
-  "bbox": [-93.193881,36.972498,-93.193881,36.972498],
+  "bbox": [
+    -93.193881,
+    36.972498,
+    -93.193881,
+    36.972498
+],
   "geometry": {"coordinates":[-93.193881,36.972498],"type":"Point"}
 }

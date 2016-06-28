@@ -2,13 +2,14 @@
   "id": 186273247,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.226173,38.618427,-90.226173,38.618427",
     "geom:latitude":38.618427,
     "geom:longitude":-90.226173,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2831 St. Vincent",
     "sg:city":"St Louis",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186273247,
-    "wof:lastmodified":1449051762,
+    "wof:lastmodified":1466622272,
     "wof:name":"Bark Busters Home Dog Training",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "training"
     ]
 },
-  "bbox": [-90.226173,38.618427,-90.226173,38.618427],
+  "bbox": [
+    -90.226173,
+    38.618427,
+    -90.226173,
+    38.618427
+],
   "geometry": {"coordinates":[-90.226173,38.618427],"type":"Point"}
 }

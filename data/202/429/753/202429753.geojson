@@ -2,13 +2,14 @@
   "id": 202429753,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.028722,40.2687,-94.028722,40.2687",
     "geom:latitude":40.2687,
     "geom:longitude":-94.028722,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2302 Main St",
     "sg:city":"Bethany",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202429753,
-    "wof:lastmodified":1449062508,
+    "wof:lastmodified":1466622169,
     "wof:name":"Guernsey Chiropractic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "chiropractic"
     ]
 },
-  "bbox": [-94.028722,40.2687,-94.028722,40.2687],
+  "bbox": [
+    -94.028722,
+    40.2687,
+    -94.028722,
+    40.2687
+],
   "geometry": {"coordinates":[-94.028722,40.2687],"type":"Point"}
 }

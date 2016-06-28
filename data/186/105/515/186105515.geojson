@@ -2,13 +2,14 @@
   "id": 186105515,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.50067,38.601084,-90.50067,38.601084",
     "geom:latitude":38.601084,
     "geom:longitude":-90.50067,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1211 Rivoli Dr",
     "sg:city":"Ballwin",
     "sg:classifiers":[
@@ -68,10 +69,11 @@
         }
     ],
     "wof:id":186105515,
-    "wof:lastmodified":1449051401,
+    "wof:lastmodified":1466622144,
     "wof:name":"Golden Rule Relocations Inc",
     "wof:parent_id":85802943,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -85,6 +87,11 @@
         "local"
     ]
 },
-  "bbox": [-90.50067,38.601084,-90.50067,38.601084],
+  "bbox": [
+    -90.50067,
+    38.601084,
+    -90.50067,
+    38.601084
+],
   "geometry": {"coordinates":[-90.50067,38.601084],"type":"Point"}
 }

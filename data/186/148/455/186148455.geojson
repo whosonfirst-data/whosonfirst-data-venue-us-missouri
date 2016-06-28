@@ -2,13 +2,14 @@
   "id": 186148455,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.315933,38.799792,-90.315933,38.799792",
     "geom:latitude":38.799792,
     "geom:longitude":-90.315933,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1680 N New Florissant Rd",
     "sg:city":"Florissant",
     "sg:classifiers":[
@@ -66,10 +67,11 @@
         }
     ],
     "wof:id":186148455,
-    "wof:lastmodified":1449052586,
+    "wof:lastmodified":1466622177,
     "wof:name":"Premiere Auto Service",
     "wof:parent_id":85813019,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -80,6 +82,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-90.315933,38.799792,-90.315933,38.799792],
+  "bbox": [
+    -90.315933,
+    38.799792,
+    -90.315933,
+    38.799792
+],
   "geometry": {"coordinates":[-90.315933,38.799792],"type":"Point"}
 }

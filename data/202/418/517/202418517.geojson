@@ -2,13 +2,14 @@
   "id": 202418517,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.468952,39.008616,-94.468952,39.008616",
     "geom:latitude":39.008616,
     "geom:longitude":-94.468952,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9504 E 63rd St",
     "sg:city":"Raytown",
     "sg:classifiers":[
@@ -70,10 +71,11 @@
         }
     ],
     "wof:id":202418517,
-    "wof:lastmodified":1449062107,
+    "wof:lastmodified":1466622168,
     "wof:name":"Laura Lynn Health Care Services",
     "wof:parent_id":85871965,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -84,6 +86,11 @@
         "assistant"
     ]
 },
-  "bbox": [-94.468952,39.008616,-94.468952,39.008616],
+  "bbox": [
+    -94.468952,
+    39.008616,
+    -94.468952,
+    39.008616
+],
   "geometry": {"coordinates":[-94.468952,39.008616],"type":"Point"}
 }

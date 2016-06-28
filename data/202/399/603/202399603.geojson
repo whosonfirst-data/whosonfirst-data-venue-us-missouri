@@ -2,13 +2,14 @@
   "id": 202399603,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.49408,38.80718,-94.49408,38.80718",
     "geom:latitude":38.80718,
     "geom:longitude":-94.49408,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"307 N Dean Ave",
     "sg:city":"Raymore",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202399603,
-    "wof:lastmodified":1449060552,
+    "wof:lastmodified":1466622160,
     "wof:name":"Zun Huang Restaurant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "family"
     ]
 },
-  "bbox": [-94.49408,38.80718,-94.49408,38.80718],
+  "bbox": [
+    -94.49408,
+    38.80718,
+    -94.49408,
+    38.80718
+],
   "geometry": {"coordinates":[-94.49408,38.80718],"type":"Point"}
 }

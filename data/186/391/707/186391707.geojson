@@ -2,13 +2,14 @@
   "id": 186391707,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.292105,38.702496,-90.292105,38.702496",
     "geom:latitude":38.702496,
     "geom:longitude":-90.292105,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3855 Lucas and Hunt Rd Ste 100",
     "sg:city":"Saint Louis",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186391707,
-    "wof:lastmodified":1449052097,
+    "wof:lastmodified":1466622346,
     "wof:name":"Normandy School District",
     "wof:parent_id":85803359,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "elementary"
     ]
 },
-  "bbox": [-90.292105,38.702496,-90.292105,38.702496],
-  "geometry": {"coordinates":[-90.292105,38.702496],"type":"Point"}
+  "bbox": [
+    -90.292105,
+    38.702496,
+    -90.292105,
+    38.702496
+],
+  "geometry": {"coordinates":[-90.29210500000001,38.702496],"type":"Point"}
 }

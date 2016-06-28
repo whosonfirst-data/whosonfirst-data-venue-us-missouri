@@ -2,13 +2,14 @@
   "id": 202785699,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.28476,36.638245,-93.28476,36.638245",
     "geom:latitude":36.638245,
     "geom:longitude":-93.28476,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1792 E Hwy 76",
     "sg:city":"Branson",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":202785699,
-    "wof:lastmodified":1449062226,
+    "wof:lastmodified":1466622323,
     "wof:name":"Beverly's Steak House & Saloon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "barbecue"
     ]
 },
-  "bbox": [-93.28476,36.638245,-93.28476,36.638245],
-  "geometry": {"coordinates":[-93.28476,36.638245],"type":"Point"}
+  "bbox": [
+    -93.28476,
+    36.638245,
+    -93.28476,
+    36.638245
+],
+  "geometry": {"coordinates":[-93.28476000000001,36.638245],"type":"Point"}
 }

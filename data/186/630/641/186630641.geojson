@@ -2,13 +2,14 @@
   "id": 186630641,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.419907,39.091129,-94.419907,39.091129",
     "geom:latitude":39.091129,
     "geom:longitude":-94.419907,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 S Spring St",
     "sg:city":"Independence",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":186630641,
-    "wof:lastmodified":1449051353,
+    "wof:lastmodified":1466622242,
     "wof:name":"Old Republic",
     "wof:parent_id":85833097,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "abstracter"
     ]
 },
-  "bbox": [-94.419907,39.091129,-94.419907,39.091129],
-  "geometry": {"coordinates":[-94.419907,39.091129],"type":"Point"}
+  "bbox": [
+    -94.419907,
+    39.091129,
+    -94.419907,
+    39.091129
+],
+  "geometry": {"coordinates":[-94.41990699999999,39.091129],"type":"Point"}
 }

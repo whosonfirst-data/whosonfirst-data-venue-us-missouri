@@ -2,13 +2,14 @@
   "id": 202607363,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.348032,38.836431,-92.348032,38.836431",
     "geom:latitude":38.836431,
     "geom:longitude":-92.348032,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"415 W Robin Ridge Rd",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":202607363,
-    "wof:lastmodified":1449060441,
+    "wof:lastmodified":1466622237,
     "wof:name":"Wayne Porath",
     "wof:parent_id":85835171,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "product"
     ]
 },
-  "bbox": [-92.348032,38.836431,-92.348032,38.836431],
+  "bbox": [
+    -92.348032,
+    38.836431,
+    -92.348032,
+    38.836431
+],
   "geometry": {"coordinates":[-92.348032,38.836431],"type":"Point"}
 }

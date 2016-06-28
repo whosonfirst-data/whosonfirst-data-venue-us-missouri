@@ -2,13 +2,14 @@
   "id": 186377963,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.243148,38.598915,-90.243148,38.598915",
     "geom:latitude":38.598915,
     "geom:longitude":-90.243148,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3201 S Grand Blvd Ste C",
     "sg:city":"Saint Louis",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":186377963,
-    "wof:lastmodified":1449051387,
+    "wof:lastmodified":1466622341,
     "wof:name":"CDS Group Financial Services",
     "wof:parent_id":85873677,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.243148,38.598915,-90.243148,38.598915],
-  "geometry": {"coordinates":[-90.243148,38.598915],"type":"Point"}
+  "bbox": [
+    -90.243148,
+    38.598915,
+    -90.243148,
+    38.598915
+],
+  "geometry": {"coordinates":[-90.24314800000001,38.598915],"type":"Point"}
 }

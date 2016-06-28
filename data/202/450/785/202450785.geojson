@@ -2,13 +2,14 @@
   "id": 202450785,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.82878,39.941551,-94.82878,39.941551",
     "geom:latitude":39.941551,
     "geom:longitude":-94.82878,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"403 W Main St",
     "sg:city":"Savannah",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202450785,
-    "wof:lastmodified":1449062270,
+    "wof:lastmodified":1466622180,
     "wof:name":"A&G Steakhouse",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "steak"
     ]
 },
-  "bbox": [-94.82878,39.941551,-94.82878,39.941551],
-  "geometry": {"coordinates":[-94.82878,39.941551],"type":"Point"}
+  "bbox": [
+    -94.82878,
+    39.941551,
+    -94.82878,
+    39.941551
+],
+  "geometry": {"coordinates":[-94.82877999999999,39.941551],"type":"Point"}
 }

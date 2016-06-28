@@ -2,13 +2,14 @@
   "id": 202883891,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.270293,37.209443,-93.270293,37.209443",
     "geom:latitude":37.209443,
     "geom:longitude":-93.270293,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1416 E Saint Louis St",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -68,10 +69,11 @@
         }
     ],
     "wof:id":202883891,
-    "wof:lastmodified":1449062061,
+    "wof:lastmodified":1466622362,
     "wof:name":"Pampered Paws Pet Grooming",
     "wof:parent_id":85881157,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -85,6 +87,11 @@
         "store"
     ]
 },
-  "bbox": [-93.270293,37.209443,-93.270293,37.209443],
+  "bbox": [
+    -93.270293,
+    37.209443,
+    -93.270293,
+    37.209443
+],
   "geometry": {"coordinates":[-93.270293,37.209443],"type":"Point"}
 }

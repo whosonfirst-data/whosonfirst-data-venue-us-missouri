@@ -2,13 +2,14 @@
   "id": 202610127,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.335518,38.905201,-92.335518,38.905201",
     "geom:latitude":38.905201,
     "geom:longitude":-92.335518,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4107 S Providence Rd",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":202610127,
-    "wof:lastmodified":1449062596,
+    "wof:lastmodified":1466622239,
     "wof:name":"Angelos Pizza & Steak House Incorporated",
     "wof:parent_id":85835171,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "pizza"
     ]
 },
-  "bbox": [-92.335518,38.905201,-92.335518,38.905201],
-  "geometry": {"coordinates":[-92.335518,38.905201],"type":"Point"}
+  "bbox": [
+    -92.335518,
+    38.905201,
+    -92.335518,
+    38.905201
+],
+  "geometry": {"coordinates":[-92.33551799999999,38.905201],"type":"Point"}
 }

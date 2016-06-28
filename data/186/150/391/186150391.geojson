@@ -2,13 +2,14 @@
   "id": 186150391,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.312698,38.85133,-90.312698,38.85133",
     "geom:latitude":38.85133,
     "geom:longitude":-90.312698,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4012 Shackelford Rd",
     "sg:city":"Florissant",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":186150391,
-    "wof:lastmodified":1449050292,
+    "wof:lastmodified":1466622180,
     "wof:name":"Jamestown Nursery",
     "wof:parent_id":85813019,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "bamboo"
     ]
 },
-  "bbox": [-90.312698,38.85133,-90.312698,38.85133],
+  "bbox": [
+    -90.312698,
+    38.85133,
+    -90.312698,
+    38.85133
+],
   "geometry": {"coordinates":[-90.312698,38.85133],"type":"Point"}
 }

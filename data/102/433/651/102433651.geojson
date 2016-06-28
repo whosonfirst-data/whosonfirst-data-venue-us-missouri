@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102433651,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.324216,36.536943,-93.324216,36.536943",
     "geom:latitude":36.536943,
     "geom:longitude":-93.324216,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"167 Glen Oaks Dr",
     "sg:city":"Blue Eye",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":102433651,
-    "wof:lastmodified":1449068074,
+    "wof:lastmodified":1466622402,
     "wof:name":"Some Bunnies Etc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.324216,36.536943,-93.324216,36.536943],
-  "geometry": {"coordinates":[-93.324216,36.536943],"type":"Point"}
+  "bbox": [
+    -93.324216,
+    36.536943,
+    -93.324216,
+    36.536943
+],
+  "geometry": {"coordinates":[-93.32421600000001,36.536943],"type":"Point"}
 }

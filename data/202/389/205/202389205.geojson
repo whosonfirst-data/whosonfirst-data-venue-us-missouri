@@ -2,13 +2,14 @@
   "id": 202389205,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.951804,39.002242,-93.951804,39.002242",
     "geom:latitude":39.002242,
     "geom:longitude":-93.951804,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"421 N 1st St",
     "sg:city":"Odessa",
     "sg:classifiers":[
@@ -67,10 +68,11 @@
         }
     ],
     "wof:id":202389205,
-    "wof:lastmodified":1449062150,
+    "wof:lastmodified":1466622155,
     "wof:name":"Cox DC Ted",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -83,6 +85,11 @@
         "reducing"
     ]
 },
-  "bbox": [-93.951804,39.002242,-93.951804,39.002242],
+  "bbox": [
+    -93.951804,
+    39.002242,
+    -93.951804,
+    39.002242
+],
   "geometry": {"coordinates":[-93.951804,39.002242],"type":"Point"}
 }

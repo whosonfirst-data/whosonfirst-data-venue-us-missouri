@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102320945,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.987873,36.59781,-91.987873,36.59781",
     "geom:latitude":36.59781,
     "geom:longitude":-91.987873,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2680 Co Rd 7360",
     "sg:city":"Caulfield",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102320945,
-    "wof:lastmodified":1449068395,
+    "wof:lastmodified":1466622386,
     "wof:name":"Ozark Wings",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.987873,36.59781,-91.987873,36.59781],
-  "geometry": {"coordinates":[-91.987873,36.59781],"type":"Point"}
+  "bbox": [
+    -91.987873,
+    36.59781,
+    -91.987873,
+    36.59781
+],
+  "geometry": {"coordinates":[-91.98787299999999,36.59781],"type":"Point"}
 }

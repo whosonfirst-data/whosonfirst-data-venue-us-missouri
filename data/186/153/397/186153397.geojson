@@ -2,13 +2,14 @@
   "id": 186153397,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.622454,38.546074,-90.622454,38.546074",
     "geom:latitude":38.546074,
     "geom:longitude":-90.622454,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"306 Clifton Ave",
     "sg:city":"Glencoe",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":186153397,
-    "wof:lastmodified":1449052219,
+    "wof:lastmodified":1466622179,
     "wof:name":"Home Run Painting",
     "wof:parent_id":85868453,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "contractor"
     ]
 },
-  "bbox": [-90.622454,38.546074,-90.622454,38.546074],
+  "bbox": [
+    -90.622454,
+    38.546074,
+    -90.622454,
+    38.546074
+],
   "geometry": {"coordinates":[-90.622454,38.546074],"type":"Point"}
 }

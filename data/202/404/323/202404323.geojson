@@ -2,13 +2,14 @@
   "id": 202404323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.580849,39.387285,-94.580849,39.387285",
     "geom:latitude":39.387285,
     "geom:longitude":-94.580849,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"119 N Bridge St",
     "sg:city":"Smithville",
     "sg:classifiers":[
@@ -71,10 +72,11 @@
         }
     ],
     "wof:id":202404323,
-    "wof:lastmodified":1449061770,
+    "wof:lastmodified":1466622161,
     "wof:name":"First Industrial Controls",
     "wof:parent_id":85836329,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -91,6 +93,11 @@
         "panel"
     ]
 },
-  "bbox": [-94.580849,39.387285,-94.580849,39.387285],
+  "bbox": [
+    -94.580849,
+    39.387285,
+    -94.580849,
+    39.387285
+],
   "geometry": {"coordinates":[-94.580849,39.387285],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202896827,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.229601,37.175656,-93.229601,37.175656",
     "geom:latitude":37.175656,
     "geom:longitude":-93.229601,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3215 E Southern Hills Blvd",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202896827,
-    "wof:lastmodified":1449061033,
+    "wof:lastmodified":1466622374,
     "wof:name":"Bee Clean Carpet Cleaners Inc.",
     "wof:parent_id":85881133,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "carpet"
     ]
 },
-  "bbox": [-93.229601,37.175656,-93.229601,37.175656],
+  "bbox": [
+    -93.229601,
+    37.175656,
+    -93.229601,
+    37.175656
+],
   "geometry": {"coordinates":[-93.229601,37.175656],"type":"Point"}
 }

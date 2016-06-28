@@ -2,13 +2,14 @@
   "id": 202499157,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.77581,38.343571,-93.77581,38.343571",
     "geom:latitude":38.343571,
     "geom:longitude":-93.77581,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1424 N 2nd St",
     "sg:city":"Clinton",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":202499157,
-    "wof:lastmodified":1449060594,
+    "wof:lastmodified":1466622194,
     "wof:name":"Prime Time",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.77581,38.343571,-93.77581,38.343571],
-  "geometry": {"coordinates":[-93.77581,38.343571],"type":"Point"}
+  "bbox": [
+    -93.77581,
+    38.343571,
+    -93.77581,
+    38.343571
+],
+  "geometry": {"coordinates":[-93.77581000000001,38.343571],"type":"Point"}
 }

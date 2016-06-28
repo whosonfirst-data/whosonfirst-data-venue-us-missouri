@@ -2,13 +2,14 @@
   "id": 186513393,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.432595,37.791408,-90.432595,37.791408",
     "geom:latitude":37.791408,
     "geom:longitude":-90.432595,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"738 Weber Rd",
     "sg:city":"Farmington",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186513393,
-    "wof:lastmodified":1449052140,
+    "wof:lastmodified":1466622163,
     "wof:name":"Insurance Solutions",
     "wof:parent_id":85816309,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "business"
     ]
 },
-  "bbox": [-90.432595,37.791408,-90.432595,37.791408],
-  "geometry": {"coordinates":[-90.432595,37.791408],"type":"Point"}
+  "bbox": [
+    -90.432595,
+    37.791408,
+    -90.432595,
+    37.791408
+],
+  "geometry": {"coordinates":[-90.43259500000001,37.791408],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186297361,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.258904,38.639999,-90.258904,38.639999",
     "geom:latitude":38.639999,
     "geom:longitude":-90.258904,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1 N Taylor Ave",
     "sg:city":"Saint Louis",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186297361,
-    "wof:lastmodified":1449052082,
+    "wof:lastmodified":1466622289,
     "wof:name":"Zevan & Associates PC",
     "wof:parent_id":85867031,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.258904,38.639999,-90.258904,38.639999],
+  "bbox": [
+    -90.258904,
+    38.639999,
+    -90.258904,
+    38.639999
+],
   "geometry": {"coordinates":[-90.258904,38.639999],"type":"Point"}
 }

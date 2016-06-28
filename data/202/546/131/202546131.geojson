@@ -2,13 +2,14 @@
   "id": 202546131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.379291,36.884851,-94.379291,36.884851",
     "geom:latitude":36.884851,
     "geom:longitude":-94.379291,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"954 Madison Ave",
     "sg:city":"Neosho",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":202546131,
-    "wof:lastmodified":1449060106,
+    "wof:lastmodified":1466622213,
     "wof:name":"Braunschweig Meat Processing",
     "wof:parent_id":85821247,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "butchering"
     ]
 },
-  "bbox": [-94.379291,36.884851,-94.379291,36.884851],
-  "geometry": {"coordinates":[-94.379291,36.884851],"type":"Point"}
+  "bbox": [
+    -94.379291,
+    36.884851,
+    -94.379291,
+    36.884851
+],
+  "geometry": {"coordinates":[-94.37929099999999,36.884851],"type":"Point"}
 }

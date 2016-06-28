@@ -2,13 +2,14 @@
   "id": 186275677,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.221256,38.611708,-90.221256,38.611708",
     "geom:latitude":38.611708,
     "geom:longitude":-90.221256,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1900 S Jefferson Ave",
     "sg:city":"Saint Louis",
     "sg:classifiers":[
@@ -54,14 +55,20 @@
         }
     ],
     "wof:id":186275677,
-    "wof:lastmodified":1449051248,
+    "wof:lastmodified":1466622273,
     "wof:name":"Johnnie Brock's Dungeon",
     "wof:parent_id":85873675,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.221256,38.611708,-90.221256,38.611708],
+  "bbox": [
+    -90.221256,
+    38.611708,
+    -90.221256,
+    38.611708
+],
   "geometry": {"coordinates":[-90.221256,38.611708],"type":"Point"}
 }

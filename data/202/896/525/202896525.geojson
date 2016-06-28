@@ -2,13 +2,14 @@
   "id": 202896525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.276672,37.180151,-93.276672,37.180151",
     "geom:latitude":37.180151,
     "geom:longitude":-93.276672,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1900 S National Ave Ste 1950",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -61,10 +62,11 @@
         }
     ],
     "wof:id":202896525,
-    "wof:lastmodified":1449061034,
+    "wof:lastmodified":1466622370,
     "wof:name":"St. John's Clinic - General & Traumatic Surgery",
     "wof:parent_id":85881155,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -81,6 +83,11 @@
         "surgery-general"
     ]
 },
-  "bbox": [-93.276672,37.180151,-93.276672,37.180151],
+  "bbox": [
+    -93.276672,
+    37.180151,
+    -93.276672,
+    37.180151
+],
   "geometry": {"coordinates":[-93.276672,37.180151],"type":"Point"}
 }

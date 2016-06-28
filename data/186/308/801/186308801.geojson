@@ -2,13 +2,14 @@
   "id": 186308801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.302299,38.592098,-90.302299,38.592098",
     "geom:latitude":38.592098,
     "geom:longitude":-90.302299,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6525 Chippewa St",
     "sg:city":"Saint Louis",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":186308801,
-    "wof:lastmodified":1449053091,
+    "wof:lastmodified":1466622299,
     "wof:name":"Donut Drive-In",
     "wof:parent_id":85873685,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.302299,38.592098,-90.302299,38.592098],
+  "bbox": [
+    -90.302299,
+    38.592098,
+    -90.302299,
+    38.592098
+],
   "geometry": {"coordinates":[-90.302299,38.592098],"type":"Point"}
 }

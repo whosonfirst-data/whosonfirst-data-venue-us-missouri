@@ -2,13 +2,14 @@
   "id": 202386975,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.436287,39.24667,-94.436287,39.24667",
     "geom:latitude":39.24667,
     "geom:longitude":-94.436287,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 Westwoods Dr",
     "sg:city":"Liberty",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":202386975,
-    "wof:lastmodified":1449061442,
+    "wof:lastmodified":1466622148,
     "wof:name":"Genesis Plastic Surgery and Medical Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -79,6 +81,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-94.436287,39.24667,-94.436287,39.24667],
-  "geometry": {"coordinates":[-94.436287,39.24667],"type":"Point"}
+  "bbox": [
+    -94.436287,
+    39.24667,
+    -94.436287,
+    39.24667
+],
+  "geometry": {"coordinates":[-94.43628699999999,39.24667],"type":"Point"}
 }

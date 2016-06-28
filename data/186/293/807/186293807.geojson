@@ -2,13 +2,14 @@
   "id": 186293807,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.261703,38.6446,-90.261703,38.6446",
     "geom:latitude":38.6446,
     "geom:longitude":-90.261703,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"239 N Euclid Ave",
     "sg:city":"Saint Louis",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":186293807,
-    "wof:lastmodified":1449050936,
+    "wof:lastmodified":1466622287,
     "wof:name":"Big Sleep Books",
     "wof:parent_id":85867031,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "bookstore"
     ]
 },
-  "bbox": [-90.261703,38.6446,-90.261703,38.6446],
+  "bbox": [
+    -90.261703,
+    38.6446,
+    -90.261703,
+    38.6446
+],
   "geometry": {"coordinates":[-90.261703,38.6446],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202605815,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.335216,38.915416,-92.335216,38.915416",
     "geom:latitude":38.915416,
     "geom:longitude":-92.335216,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3217 S Providence Rd",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":202605815,
-    "wof:lastmodified":1449061368,
+    "wof:lastmodified":1466622237,
     "wof:name":"Green Meadows Family Prac Clin",
     "wof:parent_id":85835171,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "family"
     ]
 },
-  "bbox": [-92.335216,38.915416,-92.335216,38.915416],
+  "bbox": [
+    -92.335216,
+    38.915416,
+    -92.335216,
+    38.915416
+],
   "geometry": {"coordinates":[-92.335216,38.915416],"type":"Point"}
 }

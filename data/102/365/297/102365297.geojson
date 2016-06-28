@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102365297,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.33559,36.576516,-93.33559,36.576516",
     "geom:latitude":36.576516,
     "geom:longitude":-93.33559,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"111 Sycamore Ln",
     "sg:city":"Blue Eye",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":102365297,
-    "wof:lastmodified":1449068187,
+    "wof:lastmodified":1466622392,
     "wof:name":"Twin Island Estates POA",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.33559,36.576516,-93.33559,36.576516],
+  "bbox": [
+    -93.33559,
+    36.576516,
+    -93.33559,
+    36.576516
+],
   "geometry": {"coordinates":[-93.33559,36.576516],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186293149,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.261328,38.644716,-90.261328,38.644716",
     "geom:latitude":38.644716,
     "geom:longitude":-90.261328,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4657 Maryland Ave",
     "sg:city":"Saint Louis",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186293149,
-    "wof:lastmodified":1449050934,
+    "wof:lastmodified":1466622284,
     "wof:name":"Chess Club and Scholastic Center of Saint Louis",
     "wof:parent_id":85867031,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "specialty"
     ]
 },
-  "bbox": [-90.261328,38.644716,-90.261328,38.644716],
-  "geometry": {"coordinates":[-90.261328,38.644716],"type":"Point"}
+  "bbox": [
+    -90.261328,
+    38.644716,
+    -90.261328,
+    38.644716
+],
+  "geometry": {"coordinates":[-90.26132800000001,38.644716],"type":"Point"}
 }

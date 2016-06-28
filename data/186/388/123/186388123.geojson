@@ -2,13 +2,14 @@
   "id": 186388123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.315399,38.5853,-90.315399,38.5853",
     "geom:latitude":38.5853,
     "geom:longitude":-90.315399,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7077 Chippewa St",
     "sg:city":"Saint Louis",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":186388123,
-    "wof:lastmodified":1449050373,
+    "wof:lastmodified":1466622417,
     "wof:name":"Value City Furniture",
     "wof:parent_id":85873685,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "mattress"
     ]
 },
-  "bbox": [-90.315399,38.5853,-90.315399,38.5853],
+  "bbox": [
+    -90.315399,
+    38.5853,
+    -90.315399,
+    38.5853
+],
   "geometry": {"coordinates":[-90.315399,38.5853],"type":"Point"}
 }

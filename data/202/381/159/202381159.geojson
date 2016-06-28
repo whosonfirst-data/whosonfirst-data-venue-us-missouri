@@ -2,13 +2,14 @@
   "id": 202381159,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.393377,39.274741,-94.393377,39.274741",
     "geom:latitude":39.274741,
     "geom:longitude":-94.393377,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2280 County Road B",
     "sg:city":"Liberty",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202381159,
-    "wof:lastmodified":1449060322,
+    "wof:lastmodified":1466622125,
     "wof:name":"Lou-Sie Service, Inc.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "bureau"
     ]
 },
-  "bbox": [-94.393377,39.274741,-94.393377,39.274741],
+  "bbox": [
+    -94.393377,
+    39.274741,
+    -94.393377,
+    39.274741
+],
   "geometry": {"coordinates":[-94.393377,39.274741],"type":"Point"}
 }

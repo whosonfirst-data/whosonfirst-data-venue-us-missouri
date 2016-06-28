@@ -2,13 +2,14 @@
   "id": 202705473,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.664751,37.67974,-92.664751,37.67974",
     "geom:latitude":37.67974,
     "geom:longitude":-92.664751,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"203 W Commercial St",
     "sg:city":"Lebanon",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":202705473,
-    "wof:lastmodified":1449062661,
+    "wof:lastmodified":1466622274,
     "wof:name":"Innovative Computerized Engraving",
     "wof:parent_id":85855845,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "trophies"
     ]
 },
-  "bbox": [-92.664751,37.67974,-92.664751,37.67974],
+  "bbox": [
+    -92.664751,
+    37.67974,
+    -92.664751,
+    37.67974
+],
   "geometry": {"coordinates":[-92.664751,37.67974],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202776853,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.227451,36.644346,-93.227451,36.644346",
     "geom:latitude":36.644346,
     "geom:longitude":-93.227451,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"827 W Main St Ste 202",
     "sg:city":"Branson",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202776853,
-    "wof:lastmodified":1449060678,
+    "wof:lastmodified":1466622318,
     "wof:name":"Donald N Vespa Dds",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.227451,36.644346,-93.227451,36.644346],
+  "bbox": [
+    -93.227451,
+    36.644346,
+    -93.227451,
+    36.644346
+],
   "geometry": {"coordinates":[-93.227451,36.644346],"type":"Point"}
 }

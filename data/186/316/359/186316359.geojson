@@ -2,13 +2,14 @@
   "id": 186316359,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.305901,38.5905,-90.305901,38.5905",
     "geom:latitude":38.5905,
     "geom:longitude":-90.305901,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6651 Chippewa St Ste 214",
     "sg:city":"Saint Louis",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186316359,
-    "wof:lastmodified":1449052186,
+    "wof:lastmodified":1466622305,
     "wof:name":"Selvadurai Paul N MD",
     "wof:parent_id":85873685,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.305901,38.5905,-90.305901,38.5905],
-  "geometry": {"coordinates":[-90.305901,38.5905],"type":"Point"}
+  "bbox": [
+    -90.305901,
+    38.5905,
+    -90.305901,
+    38.5905
+],
+  "geometry": {"coordinates":[-90.30590100000001,38.5905],"type":"Point"}
 }

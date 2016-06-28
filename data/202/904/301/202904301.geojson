@@ -2,13 +2,14 @@
   "id": 202904301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.332084,37.157873,-93.332084,37.157873",
     "geom:latitude":37.157873,
     "geom:longitude":-93.332084,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3149 S Scenic Ave",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202904301,
-    "wof:lastmodified":1449062722,
+    "wof:lastmodified":1466622375,
     "wof:name":"Shelter Distribution, Inc.",
     "wof:parent_id":85881151,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-93.332084,37.157873,-93.332084,37.157873],
-  "geometry": {"coordinates":[-93.332084,37.157873],"type":"Point"}
+  "bbox": [
+    -93.332084,
+    37.157873,
+    -93.332084,
+    37.157873
+],
+  "geometry": {"coordinates":[-93.33208399999999,37.157873],"type":"Point"}
 }

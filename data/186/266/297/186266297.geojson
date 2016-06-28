@@ -2,13 +2,14 @@
   "id": 186266297,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.215535,38.630216,-90.215535,38.630216",
     "geom:latitude":38.630216,
     "geom:longitude":-90.215535,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2340 Market St",
     "sg:city":"St Louis",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":186266297,
-    "wof:lastmodified":1449050352,
+    "wof:lastmodified":1466622268,
     "wof:name":"Courtyard by Marriott",
     "wof:parent_id":85873645,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.215535,38.630216,-90.215535,38.630216],
+  "bbox": [
+    -90.215535,
+    38.630216,
+    -90.215535,
+    38.630216
+],
   "geometry": {"coordinates":[-90.215535,38.630216],"type":"Point"}
 }

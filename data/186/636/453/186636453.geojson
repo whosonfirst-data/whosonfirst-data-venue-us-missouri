@@ -2,13 +2,14 @@
   "id": 186636453,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.41881,39.044084,-94.41881,39.044084",
     "geom:latitude":39.044084,
     "geom:longitude":-94.41881,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13712 E 42nd Ter S",
     "sg:city":"Independence",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":186636453,
-    "wof:lastmodified":1449051431,
+    "wof:lastmodified":1466622272,
     "wof:name":"Red Roof Inn",
     "wof:parent_id":85871965,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "lodging"
     ]
 },
-  "bbox": [-94.41881,39.044084,-94.41881,39.044084],
-  "geometry": {"coordinates":[-94.41881,39.044084],"type":"Point"}
+  "bbox": [
+    -94.41881,
+    39.044084,
+    -94.41881,
+    39.044084
+],
+  "geometry": {"coordinates":[-94.41880999999999,39.044084],"type":"Point"}
 }

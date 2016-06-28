@@ -2,13 +2,14 @@
   "id": 202383443,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.434459,39.252782,-94.434459,39.252782",
     "geom:latitude":39.252782,
     "geom:longitude":-94.434459,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"613 Newton Ct",
     "sg:city":"Liberty",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202383443,
-    "wof:lastmodified":1449061189,
+    "wof:lastmodified":1466622133,
     "wof:name":"The Duncan Company",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "consultant"
     ]
 },
-  "bbox": [-94.434459,39.252782,-94.434459,39.252782],
+  "bbox": [
+    -94.434459,
+    39.252782,
+    -94.434459,
+    39.252782
+],
   "geometry": {"coordinates":[-94.434459,39.252782],"type":"Point"}
 }

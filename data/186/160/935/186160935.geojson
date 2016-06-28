@@ -2,13 +2,14 @@
   "id": 186160935,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.34911,38.777351,-90.34911,38.777351",
     "geom:latitude":38.777351,
     "geom:longitude":-90.34911,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8961 Dunn Rd",
     "sg:city":"Hazelwood",
     "sg:classifiers":[
@@ -91,10 +92,11 @@
         }
     ],
     "wof:id":186160935,
-    "wof:lastmodified":1449052580,
+    "wof:lastmodified":1466622188,
     "wof:name":"U-Haul Moving & Storage of Hazelwood",
     "wof:parent_id":85813019,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -115,6 +117,11 @@
         "contractors'"
     ]
 },
-  "bbox": [-90.34911,38.777351,-90.34911,38.777351],
+  "bbox": [
+    -90.34911,
+    38.777351,
+    -90.34911,
+    38.777351
+],
   "geometry": {"coordinates":[-90.34911,38.777351],"type":"Point"}
 }

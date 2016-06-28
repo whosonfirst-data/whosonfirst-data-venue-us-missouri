@@ -2,13 +2,14 @@
   "id": 202381271,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.400133,39.253781,-94.400133,39.253781",
     "geom:latitude":39.253781,
     "geom:longitude":-94.400133,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1319 E County Road H",
     "sg:city":"Liberty",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202381271,
-    "wof:lastmodified":1449060324,
+    "wof:lastmodified":1466622126,
     "wof:name":"Black Top Tools",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "sealcoating"
     ]
 },
-  "bbox": [-94.400133,39.253781,-94.400133,39.253781],
+  "bbox": [
+    -94.400133,
+    39.253781,
+    -94.400133,
+    39.253781
+],
   "geometry": {"coordinates":[-94.400133,39.253781],"type":"Point"}
 }

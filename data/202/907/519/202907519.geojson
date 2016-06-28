@@ -2,13 +2,14 @@
   "id": 202907519,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.277717,37.15514,-93.277717,37.15514",
     "geom:latitude":37.15514,
     "geom:longitude":-93.277717,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3231 S National Ave",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":202907519,
-    "wof:lastmodified":1449062457,
+    "wof:lastmodified":1466622382,
     "wof:name":"Ben C Harmon Md",
     "wof:parent_id":85881149,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "medicine"
     ]
 },
-  "bbox": [-93.277717,37.15514,-93.277717,37.15514],
+  "bbox": [
+    -93.277717,
+    37.15514,
+    -93.277717,
+    37.15514
+],
   "geometry": {"coordinates":[-93.277717,37.15514],"type":"Point"}
 }

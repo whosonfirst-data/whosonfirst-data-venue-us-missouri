@@ -2,13 +2,14 @@
   "id": 202386923,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.45546,39.266571,-94.45546,39.266571",
     "geom:latitude":39.266571,
     "geom:longitude":-94.45546,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1500 NE 96th St",
     "sg:city":"Liberty",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":202386923,
-    "wof:lastmodified":1449061440,
+    "wof:lastmodified":1466622148,
     "wof:name":"Creative World School Inc",
     "wof:parent_id":85858297,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "day"
     ]
 },
-  "bbox": [-94.45546,39.266571,-94.45546,39.266571],
+  "bbox": [
+    -94.45546,
+    39.266571,
+    -94.45546,
+    39.266571
+],
   "geometry": {"coordinates":[-94.45546,39.266571],"type":"Point"}
 }

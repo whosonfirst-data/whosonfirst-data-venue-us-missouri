@@ -2,13 +2,14 @@
   "id": 202889671,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.261934,37.163427,-93.261934,37.163427",
     "geom:latitude":37.163427,
     "geom:longitude":-93.261934,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2704 S Glenstone Ave",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":202889671,
-    "wof:lastmodified":1449060062,
+    "wof:lastmodified":1466622363,
     "wof:name":"Mar-Beck Appliance Service",
     "wof:parent_id":85881149,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "appliances-small"
     ]
 },
-  "bbox": [-93.261934,37.163427,-93.261934,37.163427],
+  "bbox": [
+    -93.261934,
+    37.163427,
+    -93.261934,
+    37.163427
+],
   "geometry": {"coordinates":[-93.261934,37.163427],"type":"Point"}
 }

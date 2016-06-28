@@ -2,13 +2,14 @@
   "id": 202883225,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.396091,37.212774,-93.396091,37.212774",
     "geom:latitude":37.212774,
     "geom:longitude":-93.396091,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4620 W Chestnut Expy",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202883225,
-    "wof:lastmodified":1449062061,
+    "wof:lastmodified":1466622358,
     "wof:name":"Taylor Made Truck Repair",
     "wof:parent_id":85881139,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "truck"
     ]
 },
-  "bbox": [-93.396091,37.212774,-93.396091,37.212774],
+  "bbox": [
+    -93.396091,
+    37.212774,
+    -93.396091,
+    37.212774
+],
   "geometry": {"coordinates":[-93.396091,37.212774],"type":"Point"}
 }

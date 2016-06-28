@@ -2,13 +2,14 @@
   "id": 202902779,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.295508,37.157988,-93.295508,37.157988",
     "geom:latitude":37.157988,
     "geom:longitude":-93.295508,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3145 S Campbell Ave",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -65,10 +66,11 @@
         }
     ],
     "wof:id":202902779,
-    "wof:lastmodified":1449061982,
+    "wof:lastmodified":1466622376,
     "wof:name":"Springfield Imports LLC",
     "wof:parent_id":85881151,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -79,6 +81,11 @@
         "car"
     ]
 },
-  "bbox": [-93.295508,37.157988,-93.295508,37.157988],
+  "bbox": [
+    -93.295508,
+    37.157988,
+    -93.295508,
+    37.157988
+],
   "geometry": {"coordinates":[-93.295508,37.157988],"type":"Point"}
 }

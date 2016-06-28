@@ -2,13 +2,14 @@
   "id": 186392951,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.327864,38.717015,-90.327864,38.717015",
     "geom:latitude":38.717015,
     "geom:longitude":-90.327864,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8933 Natural Bridge Rd",
     "sg:city":"Saint Louis",
     "sg:classifiers":[
@@ -57,16 +58,22 @@
         }
     ],
     "wof:id":186392951,
-    "wof:lastmodified":1449052477,
+    "wof:lastmodified":1466622348,
     "wof:name":"National Rent To Own",
     "wof:parent_id":85859027,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "store"
     ]
 },
-  "bbox": [-90.327864,38.717015,-90.327864,38.717015],
-  "geometry": {"coordinates":[-90.327864,38.717015],"type":"Point"}
+  "bbox": [
+    -90.327864,
+    38.717015,
+    -90.327864,
+    38.717015
+],
+  "geometry": {"coordinates":[-90.32786400000001,38.717015],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202804337,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.573223,36.898061,-93.573223,36.898061",
     "geom:latitude":36.898061,
     "geom:longitude":-93.573223,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"103 South St Ste 1",
     "sg:city":"Crane",
     "sg:classifiers":[
@@ -65,10 +66,11 @@
         }
     ],
     "wof:id":202804337,
-    "wof:lastmodified":1449061859,
+    "wof:lastmodified":1466622330,
     "wof:name":"Walker Insurance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -80,6 +82,11 @@
         "buyer"
     ]
 },
-  "bbox": [-93.573223,36.898061,-93.573223,36.898061],
+  "bbox": [
+    -93.573223,
+    36.898061,
+    -93.573223,
+    36.898061
+],
   "geometry": {"coordinates":[-93.573223,36.898061],"type":"Point"}
 }

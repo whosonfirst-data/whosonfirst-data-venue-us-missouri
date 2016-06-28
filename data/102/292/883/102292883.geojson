@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": "102292883",
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.046252,36.615264,-92.046252,36.615264",
     "geom:latitude":36.615264,
     "geom:longitude":-92.046252,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1606 US Hwy 160",
     "sg:city":"Caulfield",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":"102292883",
-    "wof:lastmodified":1449068006,
+    "wof:lastmodified":1466622385,
     "wof:name":"Dans Cleaning Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.046252,36.615264,-92.046252,36.615264],
+  "bbox": [
+    -92.046252,
+    36.615264,
+    -92.046252,
+    36.615264
+],
   "geometry": {"coordinates":[-92.046252,36.615264],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186307537,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.238602,38.642601,-90.238602,38.642601",
     "geom:latitude":38.642601,
     "geom:longitude":-90.238602,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3900 Washington Blvd",
     "sg:city":"Saint Louis",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":186307537,
-    "wof:lastmodified":1449051086,
+    "wof:lastmodified":1466622298,
     "wof:name":"Centrex Electrical Supply",
     "wof:parent_id":85873637,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "lighting"
     ]
 },
-  "bbox": [-90.238602,38.642601,-90.238602,38.642601],
+  "bbox": [
+    -90.238602,
+    38.642601,
+    -90.238602,
+    38.642601
+],
   "geometry": {"coordinates":[-90.238602,38.642601],"type":"Point"}
 }

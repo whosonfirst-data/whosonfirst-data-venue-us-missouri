@@ -2,13 +2,14 @@
   "id": 202554183,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.003271,37.116264,-94.003271,37.116264",
     "geom:latitude":37.116264,
     "geom:longitude":-94.003271,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11309 Highway F",
     "sg:city":"Sarcoxie",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":202554183,
-    "wof:lastmodified":1449060637,
+    "wof:lastmodified":1466622215,
     "wof:name":"Us Mobile Home Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "bureau"
     ]
 },
-  "bbox": [-94.003271,37.116264,-94.003271,37.116264],
+  "bbox": [
+    -94.003271,
+    37.116264,
+    -94.003271,
+    37.116264
+],
   "geometry": {"coordinates":[-94.003271,37.116264],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202380771,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.411758,39.233291,-94.411758,39.233291",
     "geom:latitude":39.233291,
     "geom:longitude":-94.411758,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"613 Butternut Ln",
     "sg:city":"Liberty",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202380771,
-    "wof:lastmodified":1449061299,
+    "wof:lastmodified":1466622126,
     "wof:name":"The Michael Taylor Group",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "system"
     ]
 },
-  "bbox": [-94.411758,39.233291,-94.411758,39.233291],
-  "geometry": {"coordinates":[-94.411758,39.233291],"type":"Point"}
+  "bbox": [
+    -94.411758,
+    39.233291,
+    -94.411758,
+    39.233291
+],
+  "geometry": {"coordinates":[-94.41175800000001,39.233291],"type":"Point"}
 }

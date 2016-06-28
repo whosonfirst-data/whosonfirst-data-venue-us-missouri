@@ -2,13 +2,14 @@
   "id": 202848883,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.277776,37.064681,-93.277776,37.064681",
     "geom:latitude":37.064681,
     "geom:longitude":-93.277776,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1431 N Wicklow Rd",
     "sg:city":"Nixa",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202848883,
-    "wof:lastmodified":1449060462,
+    "wof:lastmodified":1466622345,
     "wof:name":"Bradshaw Paintless Dent Repair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "handyman"
     ]
 },
-  "bbox": [-93.277776,37.064681,-93.277776,37.064681],
+  "bbox": [
+    -93.277776,
+    37.064681,
+    -93.277776,
+    37.064681
+],
   "geometry": {"coordinates":[-93.277776,37.064681],"type":"Point"}
 }

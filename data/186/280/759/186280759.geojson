@@ -2,13 +2,14 @@
   "id": 186280759,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.328201,38.6422,-90.328201,38.6422",
     "geom:latitude":38.6422,
     "geom:longitude":-90.328201,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"150 N Meramec Ave Lbby",
     "sg:city":"Saint Louis",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":186280759,
-    "wof:lastmodified":1449051700,
+    "wof:lastmodified":1466622277,
     "wof:name":"Gamache David A Jr Atty",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.328201,38.6422,-90.328201,38.6422],
-  "geometry": {"coordinates":[-90.328201,38.6422],"type":"Point"}
+  "bbox": [
+    -90.328201,
+    38.6422,
+    -90.328201,
+    38.6422
+],
+  "geometry": {"coordinates":[-90.32820100000001,38.6422],"type":"Point"}
 }

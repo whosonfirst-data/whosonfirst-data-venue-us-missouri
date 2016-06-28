@@ -2,13 +2,14 @@
   "id": 186636511,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.426885,39.079583,-94.426885,39.079583",
     "geom:latitude":39.079583,
     "geom:longitude":-94.426885,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"915 W 23rd St",
     "sg:city":"Independence",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186636511,
-    "wof:lastmodified":1449051430,
+    "wof:lastmodified":1466622273,
     "wof:name":"R & R Ltd",
     "wof:parent_id":85833097,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "supplies-wholesale"
     ]
 },
-  "bbox": [-94.426885,39.079583,-94.426885,39.079583],
+  "bbox": [
+    -94.426885,
+    39.079583,
+    -94.426885,
+    39.079583
+],
   "geometry": {"coordinates":[-94.426885,39.079583],"type":"Point"}
 }

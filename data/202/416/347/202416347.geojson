@@ -2,13 +2,14 @@
   "id": 202416347,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.466357,39.009816,-94.466357,39.009816",
     "geom:latitude":39.009816,
     "geom:longitude":-94.466357,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6225 Raytown Trfy",
     "sg:city":"Raytown",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":202416347,
-    "wof:lastmodified":1449061270,
+    "wof:lastmodified":1466622164,
     "wof:name":"Tapan Chaudhuri Md",
     "wof:parent_id":85871965,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "surgeons"
     ]
 },
-  "bbox": [-94.466357,39.009816,-94.466357,39.009816],
+  "bbox": [
+    -94.466357,
+    39.009816,
+    -94.466357,
+    39.009816
+],
   "geometry": {"coordinates":[-94.466357,39.009816],"type":"Point"}
 }

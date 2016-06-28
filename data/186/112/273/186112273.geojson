@@ -2,13 +2,14 @@
   "id": 186112273,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.545801,38.62376,-90.545801,38.62376",
     "geom:latitude":38.62376,
     "geom:longitude":-90.545801,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14989 Claymont Estates Dr",
     "sg:city":"Chesterfield",
     "sg:classifiers":[
@@ -61,10 +62,11 @@
         }
     ],
     "wof:id":186112273,
-    "wof:lastmodified":1449051608,
+    "wof:lastmodified":1466622149,
     "wof:name":"T M W & Associates Inc",
     "wof:parent_id":85831197,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -75,6 +77,11 @@
         "manufacturers'"
     ]
 },
-  "bbox": [-90.545801,38.62376,-90.545801,38.62376],
+  "bbox": [
+    -90.545801,
+    38.62376,
+    -90.545801,
+    38.62376
+],
   "geometry": {"coordinates":[-90.545801,38.62376],"type":"Point"}
 }

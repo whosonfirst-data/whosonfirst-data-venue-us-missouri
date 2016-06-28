@@ -2,13 +2,14 @@
   "id": 202909993,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.278353,37.135235,-93.278353,37.135235",
     "geom:latitude":37.135235,
     "geom:longitude":-93.278353,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4301 S National Ave",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202909993,
-    "wof:lastmodified":1449062020,
+    "wof:lastmodified":1466622380,
     "wof:name":"China King",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "pan"
     ]
 },
-  "bbox": [-93.278353,37.135235,-93.278353,37.135235],
+  "bbox": [
+    -93.278353,
+    37.135235,
+    -93.278353,
+    37.135235
+],
   "geometry": {"coordinates":[-93.278353,37.135235],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186377305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.225197,38.605598,-90.225197,38.605598",
     "geom:latitude":38.605598,
     "geom:longitude":-90.225197,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2601 Ohio Ave",
     "sg:city":"Saint Louis",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":186377305,
-    "wof:lastmodified":1449051388,
+    "wof:lastmodified":1466622337,
     "wof:name":"McFadden Lighting Co Inc",
     "wof:parent_id":85873679,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "lighting"
     ]
 },
-  "bbox": [-90.225197,38.605598,-90.225197,38.605598],
-  "geometry": {"coordinates":[-90.225197,38.605598],"type":"Point"}
+  "bbox": [
+    -90.225197,
+    38.605598,
+    -90.225197,
+    38.605598
+],
+  "geometry": {"coordinates":[-90.22519699999999,38.605598],"type":"Point"}
 }

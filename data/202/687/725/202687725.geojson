@@ -2,13 +2,14 @@
   "id": 202687725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.785513,37.95142,-91.785513,37.95142",
     "geom:latitude":37.95142,
     "geom:longitude":-91.785513,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1100 W 10th St Ste 185",
     "sg:city":"Rolla",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202687725,
-    "wof:lastmodified":1449060829,
+    "wof:lastmodified":1466622263,
     "wof:name":"Huddleston, Don Do",
     "wof:parent_id":85814531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-91.785513,37.95142,-91.785513,37.95142],
-  "geometry": {"coordinates":[-91.785513,37.95142],"type":"Point"}
+  "bbox": [
+    -91.785513,
+    37.95142,
+    -91.785513,
+    37.95142
+],
+  "geometry": {"coordinates":[-91.78551299999999,37.95142],"type":"Point"}
 }

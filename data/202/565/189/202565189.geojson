@@ -2,13 +2,14 @@
   "id": 202565189,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.731481,37.9906,-92.731481,37.9906",
     "geom:latitude":37.9906,
     "geom:longitude":-92.731481,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"268 Walnut Ter",
     "sg:city":"Camdenton",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":202565189,
-    "wof:lastmodified":1449062429,
+    "wof:lastmodified":1466622217,
     "wof:name":"Radlund Construction",
     "wof:parent_id":85813457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "contractor"
     ]
 },
-  "bbox": [-92.731481,37.9906,-92.731481,37.9906],
+  "bbox": [
+    -92.731481,
+    37.9906,
+    -92.731481,
+    37.9906
+],
   "geometry": {"coordinates":[-92.731481,37.9906],"type":"Point"}
 }

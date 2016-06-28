@@ -2,13 +2,14 @@
   "id": 186622657,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.358242,38.853066,-94.358242,38.853066",
     "geom:latitude":38.853066,
     "geom:longitude":-94.358242,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"303 20th Ave N",
     "sg:city":"Greenwood",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":186622657,
-    "wof:lastmodified":1449052525,
+    "wof:lastmodified":1466622234,
     "wof:name":"Rogers' Mobile Welding Service",
     "wof:parent_id":85849825,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welder"
     ]
 },
-  "bbox": [-94.358242,38.853066,-94.358242,38.853066],
+  "bbox": [
+    -94.358242,
+    38.853066,
+    -94.358242,
+    38.853066
+],
   "geometry": {"coordinates":[-94.358242,38.853066],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186271195,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.219101,38.614601,-90.219101,38.614601",
     "geom:latitude":38.614601,
     "geom:longitude":-90.219101,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2300 Lafayette Ave",
     "sg:city":"Saint Louis",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":186271195,
-    "wof:lastmodified":1449051778,
+    "wof:lastmodified":1466622270,
     "wof:name":"Lafayette Park United Methodist Church",
     "wof:parent_id":85873661,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "elementary"
     ]
 },
-  "bbox": [-90.219101,38.614601,-90.219101,38.614601],
-  "geometry": {"coordinates":[-90.219101,38.614601],"type":"Point"}
+  "bbox": [
+    -90.219101,
+    38.614601,
+    -90.219101,
+    38.614601
+],
+  "geometry": {"coordinates":[-90.21910099999999,38.614601],"type":"Point"}
 }

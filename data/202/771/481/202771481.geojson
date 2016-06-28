@@ -2,13 +2,14 @@
   "id": 202771481,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.204966,36.70084,-93.204966,36.70084",
     "geom:latitude":36.70084,
     "geom:longitude":-93.204966,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"405 Shary Creek Ln",
     "sg:city":"Branson",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":202771481,
-    "wof:lastmodified":1449061492,
+    "wof:lastmodified":1466622313,
     "wof:name":"The Global Market",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.204966,36.70084,-93.204966,36.70084],
+  "bbox": [
+    -93.204966,
+    36.70084,
+    -93.204966,
+    36.70084
+],
   "geometry": {"coordinates":[-93.204966,36.70084],"type":"Point"}
 }

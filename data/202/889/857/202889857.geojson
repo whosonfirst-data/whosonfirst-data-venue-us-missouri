@@ -2,13 +2,14 @@
   "id": 202889857,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.266887,37.159435,-93.266887,37.159435",
     "geom:latitude":37.159435,
     "geom:longitude":-93.266887,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1610 E Battlefield St",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":202889857,
-    "wof:lastmodified":1449060062,
+    "wof:lastmodified":1466622365,
     "wof:name":"Paws Grooming Spa",
     "wof:parent_id":85881149,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "cat"
     ]
 },
-  "bbox": [-93.266887,37.159435,-93.266887,37.159435],
+  "bbox": [
+    -93.266887,
+    37.159435,
+    -93.266887,
+    37.159435
+],
   "geometry": {"coordinates":[-93.266887,37.159435],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202694547,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.139187,37.926173,-92.139187,37.926173",
     "geom:latitude":37.926173,
     "geom:longitude":-92.139187,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16110 Chloe Ln",
     "sg:city":"Dixon",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":202694547,
-    "wof:lastmodified":1449060830,
+    "wof:lastmodified":1466622265,
     "wof:name":"Mvp Construction",
     "wof:parent_id":85822351,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "contractor"
     ]
 },
-  "bbox": [-92.139187,37.926173,-92.139187,37.926173],
-  "geometry": {"coordinates":[-92.139187,37.926173],"type":"Point"}
+  "bbox": [
+    -92.139187,
+    37.926173,
+    -92.139187,
+    37.926173
+],
+  "geometry": {"coordinates":[-92.13918700000001,37.926173],"type":"Point"}
 }

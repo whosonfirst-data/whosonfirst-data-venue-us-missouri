@@ -2,13 +2,14 @@
   "id": 202723399,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.213432,37.820728,-92.213432,37.820728",
     "geom:latitude":37.820728,
     "geom:longitude":-92.213432,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 S Bates St",
     "sg:city":"Waynesville",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":202723399,
-    "wof:lastmodified":1449061598,
+    "wof:lastmodified":1466622283,
     "wof:name":"Eagle Realty Group & Assoc",
     "wof:parent_id":85822351,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "management"
     ]
 },
-  "bbox": [-92.213432,37.820728,-92.213432,37.820728],
+  "bbox": [
+    -92.213432,
+    37.820728,
+    -92.213432,
+    37.820728
+],
   "geometry": {"coordinates":[-92.213432,37.820728],"type":"Point"}
 }

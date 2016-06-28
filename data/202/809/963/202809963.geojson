@@ -2,13 +2,14 @@
   "id": 202809963,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.431213,36.601597,-92.431213,36.601597",
     "geom:latitude":36.601597,
     "geom:longitude":-92.431213,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"203 Elm St",
     "sg:city":"Gainesville",
     "sg:classifiers":[
@@ -64,10 +65,11 @@
         }
     ],
     "wof:id":202809963,
-    "wof:lastmodified":1449062207,
+    "wof:lastmodified":1466622333,
     "wof:name":"USPS - United States Post Office - Gainesville Main Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -77,6 +79,11 @@
         "shipping"
     ]
 },
-  "bbox": [-92.431213,36.601597,-92.431213,36.601597],
+  "bbox": [
+    -92.431213,
+    36.601597,
+    -92.431213,
+    36.601597
+],
   "geometry": {"coordinates":[-92.431213,36.601597],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186393725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.311501,38.706902,-90.311501,38.706902",
     "geom:latitude":38.706902,
     "geom:longitude":-90.311501,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8001 Natural Bridge Rd",
     "sg:city":"Saint Louis",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":186393725,
-    "wof:lastmodified":1449051226,
+    "wof:lastmodified":1466622346,
     "wof:name":"Kwmu-Fm 90.7",
     "wof:parent_id":85803359,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.311501,38.706902,-90.311501,38.706902],
-  "geometry": {"coordinates":[-90.311501,38.706902],"type":"Point"}
+  "bbox": [
+    -90.311501,
+    38.706902,
+    -90.311501,
+    38.706902
+],
+  "geometry": {"coordinates":[-90.31150100000001,38.706902],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219920129,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.917604,36.498815,-93.917604,36.498815",
     "geom:latitude":36.498815,
     "geom:longitude":-93.917604,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17612 Clantonville Rd",
     "sg:city":"Garfield",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":219920129,
-    "wof:lastmodified":1449073134,
+    "wof:lastmodified":1466622419,
     "wof:name":"Going Platinum",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "site"
     ]
 },
-  "bbox": [-93.917604,36.498815,-93.917604,36.498815],
+  "bbox": [
+    -93.917604,
+    36.498815,
+    -93.917604,
+    36.498815
+],
   "geometry": {"coordinates":[-93.917604,36.498815],"type":"Point"}
 }

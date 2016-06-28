@@ -2,13 +2,14 @@
   "id": 202380763,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.422665,39.244723,-94.422665,39.244723",
     "geom:latitude":39.244723,
     "geom:longitude":-94.422665,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"218 W Mill St",
     "sg:city":"Liberty",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202380763,
-    "wof:lastmodified":1449061301,
+    "wof:lastmodified":1466622126,
     "wof:name":"Mill Street Barber & Style Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-94.422665,39.244723,-94.422665,39.244723],
-  "geometry": {"coordinates":[-94.422665,39.244723],"type":"Point"}
+  "bbox": [
+    -94.422665,
+    39.244723,
+    -94.422665,
+    39.244723
+],
+  "geometry": {"coordinates":[-94.42266499999999,39.244723],"type":"Point"}
 }

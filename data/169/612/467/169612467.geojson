@@ -2,13 +2,14 @@
   "id": 169612467,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.592941,38.999643,-94.592941,38.999643",
     "geom:latitude":38.999643,
     "geom:longitude":-94.592941,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"222 W Gregory Blvd",
     "sg:city":"Kansas City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169612467,
-    "wof:lastmodified":1449034132,
+    "wof:lastmodified":1466622116,
     "wof:name":"Nationwide Tax Svc",
     "wof:parent_id":85854229,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "filing"
     ]
 },
-  "bbox": [-94.592941,38.999643,-94.592941,38.999643],
+  "bbox": [
+    -94.592941,
+    38.999643,
+    -94.592941,
+    38.999643
+],
   "geometry": {"coordinates":[-94.592941,38.999643],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186635027,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.413929,39.077001,-94.413929,39.077001",
     "geom:latitude":39.077001,
     "geom:longitude":-94.413929,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1325 S Noland Rd",
     "sg:city":"Independence",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":186635027,
-    "wof:lastmodified":1449051528,
+    "wof:lastmodified":1466622264,
     "wof:name":"Purcell K. Gay",
     "wof:parent_id":85833097,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "surgeons"
     ]
 },
-  "bbox": [-94.413929,39.077001,-94.413929,39.077001],
+  "bbox": [
+    -94.413929,
+    39.077001,
+    -94.413929,
+    39.077001
+],
   "geometry": {"coordinates":[-94.413929,39.077001],"type":"Point"}
 }

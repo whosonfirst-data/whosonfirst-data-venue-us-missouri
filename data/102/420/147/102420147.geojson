@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102420147,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.370418,36.501818,-93.370418,36.501818",
     "geom:latitude":36.501818,
     "geom:longitude":-93.370418,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1604 State Hwy Ee",
     "sg:city":"Blue Eye",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":102420147,
-    "wof:lastmodified":1449068926,
+    "wof:lastmodified":1466622401,
     "wof:name":"George Drywall",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.370418,36.501818,-93.370418,36.501818],
+  "bbox": [
+    -93.370418,
+    36.501818,
+    -93.370418,
+    36.501818
+],
   "geometry": {"coordinates":[-93.370418,36.501818],"type":"Point"}
 }

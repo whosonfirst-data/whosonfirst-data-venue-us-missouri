@@ -2,13 +2,14 @@
   "id": 202380065,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.437141,39.259751,-94.437141,39.259751",
     "geom:latitude":39.259751,
     "geom:longitude":-94.437141,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1403 Nancy Ln",
     "sg:city":"Liberty",
     "sg:classifiers":[
@@ -67,10 +68,11 @@
         }
     ],
     "wof:id":202380065,
-    "wof:lastmodified":1449061302,
+    "wof:lastmodified":1466622403,
     "wof:name":"Nichols Software Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -84,6 +86,11 @@
         "software"
     ]
 },
-  "bbox": [-94.437141,39.259751,-94.437141,39.259751],
+  "bbox": [
+    -94.437141,
+    39.259751,
+    -94.437141,
+    39.259751
+],
   "geometry": {"coordinates":[-94.437141,39.259751],"type":"Point"}
 }

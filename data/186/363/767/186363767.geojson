@@ -2,13 +2,14 @@
   "id": 186363767,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.323303,38.629398,-90.323303,38.629398",
     "geom:latitude":38.629398,
     "geom:longitude":-90.323303,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7750 Clayton Rd Ste 99",
     "sg:city":"Saint Louis",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":186363767,
-    "wof:lastmodified":1449052691,
+    "wof:lastmodified":1466622332,
     "wof:name":"Irving Evelyn A PHD",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "mental"
     ]
 },
-  "bbox": [-90.323303,38.629398,-90.323303,38.629398],
+  "bbox": [
+    -90.323303,
+    38.629398,
+    -90.323303,
+    38.629398
+],
   "geometry": {"coordinates":[-90.323303,38.629398],"type":"Point"}
 }

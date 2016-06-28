@@ -2,13 +2,14 @@
   "id": 186474947,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.395871,39.685694,-91.395871,39.685694",
     "geom:latitude":39.685694,
     "geom:longitude":-91.395871,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3525 Market St",
     "sg:city":"Hannibal",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":186474947,
-    "wof:lastmodified":1449050388,
+    "wof:lastmodified":1466622136,
     "wof:name":"Gibbons Body Shop",
     "wof:parent_id":85843695,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "repairing"
     ]
 },
-  "bbox": [-91.395871,39.685694,-91.395871,39.685694],
+  "bbox": [
+    -91.395871,
+    39.685694,
+    -91.395871,
+    39.685694
+],
   "geometry": {"coordinates":[-91.395871,39.685694],"type":"Point"}
 }

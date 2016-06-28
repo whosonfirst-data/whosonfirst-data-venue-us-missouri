@@ -2,13 +2,14 @@
   "id": 186376321,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.243379,38.59257,-90.243379,38.59257",
     "geom:latitude":38.59257,
     "geom:longitude":-90.243379,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3552 Gravois Ave",
     "sg:city":"Saint Louis",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":186376321,
-    "wof:lastmodified":1449051305,
+    "wof:lastmodified":1466622337,
     "wof:name":"Patricia's",
     "wof:parent_id":85873677,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "video"
     ]
 },
-  "bbox": [-90.243379,38.59257,-90.243379,38.59257],
+  "bbox": [
+    -90.243379,
+    38.59257,
+    -90.243379,
+    38.59257
+],
   "geometry": {"coordinates":[-90.243379,38.59257],"type":"Point"}
 }

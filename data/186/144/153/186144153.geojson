@@ -2,13 +2,14 @@
   "id": 186144153,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.321831,38.774527,-90.321831,38.774527",
     "geom:latitude":38.774527,
     "geom:longitude":-90.321831,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"845 Dunn Rd",
     "sg:city":"Florissant",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":186144153,
-    "wof:lastmodified":1449052322,
+    "wof:lastmodified":1466622173,
     "wof:name":"North County Christian School",
     "wof:parent_id":85813019,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "private"
     ]
 },
-  "bbox": [-90.321831,38.774527,-90.321831,38.774527],
+  "bbox": [
+    -90.321831,
+    38.774527,
+    -90.321831,
+    38.774527
+],
   "geometry": {"coordinates":[-90.321831,38.774527],"type":"Point"}
 }

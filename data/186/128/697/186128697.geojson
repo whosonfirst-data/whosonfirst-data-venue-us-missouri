@@ -2,13 +2,14 @@
   "id": 186128697,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.637337,38.504791,-90.637337,38.504791",
     "geom:latitude":38.504791,
     "geom:longitude":-90.637337,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"420 W 4th St",
     "sg:city":"Eureka",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":186128697,
-    "wof:lastmodified":1449051410,
+    "wof:lastmodified":1466622159,
     "wof:name":"Meyer Painting",
     "wof:parent_id":85809151,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "contractor"
     ]
 },
-  "bbox": [-90.637337,38.504791,-90.637337,38.504791],
+  "bbox": [
+    -90.637337,
+    38.504791,
+    -90.637337,
+    38.504791
+],
   "geometry": {"coordinates":[-90.637337,38.504791],"type":"Point"}
 }

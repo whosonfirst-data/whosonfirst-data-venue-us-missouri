@@ -2,13 +2,14 @@
   "id": 202382503,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.44899,39.243481,-94.44899,39.243481",
     "geom:latitude":39.243481,
     "geom:longitude":-94.44899,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"113 Blue Jay Dr",
     "sg:city":"Liberty",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202382503,
-    "wof:lastmodified":1449060795,
+    "wof:lastmodified":1466622133,
     "wof:name":"New Hope Counseling Associates",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-94.44899,39.243481,-94.44899,39.243481],
-  "geometry": {"coordinates":[-94.44899,39.243481],"type":"Point"}
+  "bbox": [
+    -94.44899,
+    39.243481,
+    -94.44899,
+    39.243481
+],
+  "geometry": {"coordinates":[-94.44898999999999,39.243481],"type":"Point"}
 }

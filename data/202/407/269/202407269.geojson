@@ -2,13 +2,14 @@
   "id": 202407269,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.740096,38.767577,-93.740096,38.767577",
     "geom:latitude":38.767577,
     "geom:longitude":-93.740096,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"103 E North St",
     "sg:city":"Warrensburg",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":202407269,
-    "wof:lastmodified":1449061513,
+    "wof:lastmodified":1466622161,
     "wof:name":"Sodexo, Inc.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.740096,38.767577,-93.740096,38.767577],
-  "geometry": {"coordinates":[-93.740096,38.767577],"type":"Point"}
+  "bbox": [
+    -93.740096,
+    38.767577,
+    -93.740096,
+    38.767577
+],
+  "geometry": {"coordinates":[-93.74009599999999,38.767577],"type":"Point"}
 }
