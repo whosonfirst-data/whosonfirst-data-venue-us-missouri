@@ -2,6 +2,10 @@
   "id": 789694343,
   "type": "Feature",
   "properties": {
+    "addr:full":"8831 E 1 St Independence MO 64053",
+    "addr:housenumber":"8831;1",
+    "addr:postcode":"64053",
+    "addr:street":"E;St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":789694343,
-    "wof:lastmodified":1466624842,
+    "wof:lastmodified":1472630317,
     "wof:name":"ABCO 24 Hour Plumbing Sewer",
     "wof:parent_id":85845353,
     "wof:placetype":"venue",

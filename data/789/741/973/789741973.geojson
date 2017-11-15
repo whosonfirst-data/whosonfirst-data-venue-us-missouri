@@ -2,14 +2,20 @@
   "id": 789741973,
   "type": "Feature",
   "properties": {
+    "addr:full":"1610 Coventry Ln Rolla MO 65401",
+    "addr:housenumber":"1610",
+    "addr:postcode":"65401",
+    "addr:street":"Coventry Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.744942,37.941278,-91.744942,37.941278",
     "geom:latitude":37.941278,
     "geom:longitude":-91.744942,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1610 Coventry Ln",
     "sg:city":"Rolla",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102086893,
         85814531
     ],
+    "wof:brand_id":1125158325,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2o45rYOKa1MJWezSzoIGVi_37.941278_-91.744942@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462590192,
-    "wof:geomhash":"71a6dfa5b274ea54a1ce31160ccf68ee",
+    "wof:geomhash":"6e1119ade8a14764314dc00dc8a0d6e6",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":789741973,
-    "wof:lastmodified":1466625810,
+    "wof:lastmodified":1510700025,
     "wof:name":"International Reading Assn",
     "wof:parent_id":85814531,
     "wof:placetype":"venue",

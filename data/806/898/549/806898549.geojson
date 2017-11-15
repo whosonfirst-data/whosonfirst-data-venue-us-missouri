@@ -2,14 +2,20 @@
   "id": 806898549,
   "type": "Feature",
   "properties": {
+    "addr:full":"2143 N Ballas Rd St Louis MO 63131",
+    "addr:housenumber":"2143",
+    "addr:postcode":"63131",
+    "addr:street":"N Ballas Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.443802,38.621309,-90.443802,38.621309",
     "geom:latitude":38.621309,
     "geom:longitude":-90.443802,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2143 N Ballas Rd",
     "sg:city":"St Louis",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102086173,
         85688661
     ],
+    "wof:brand_id":1125152861,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_73jRd8cmG56gge9YWTxM3d_38.621309_-90.443802@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462601999,
-    "wof:geomhash":"f8b75dfca6808ef74c8d36ad975352d7",
+    "wof:geomhash":"f71c83e3f71a2aeffed251dc657d1c33",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":806898549,
-    "wof:lastmodified":1466634457,
+    "wof:lastmodified":1510613357,
     "wof:name":"Covenant Presbyterian Church",
     "wof:parent_id":85867981,
     "wof:placetype":"venue",

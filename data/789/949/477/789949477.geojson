@@ -2,6 +2,10 @@
   "id": 789949477,
   "type": "Feature",
   "properties": {
+    "addr:full":"13727 E 42 Ter S Independence MO 64055",
+    "addr:housenumber":"13727;42 ter",
+    "addr:postcode":"64055",
+    "addr:street":"E;S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":789949477,
-    "wof:lastmodified":1466630740,
+    "wof:lastmodified":1472630769,
     "wof:name":"Apx Management  Inc",
     "wof:parent_id":85871965,
     "wof:placetype":"venue",

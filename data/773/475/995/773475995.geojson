@@ -2,6 +2,10 @@
   "id": 773475995,
   "type": "Feature",
   "properties": {
+    "addr:full":"3810 E 31 St Kansas City MO 64128",
+    "addr:housenumber":"3810;31",
+    "addr:postcode":"64128",
+    "addr:street":"E;St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":773475995,
-    "wof:lastmodified":1466631222,
+    "wof:lastmodified":1472631043,
     "wof:name":"South Side Auto",
     "wof:parent_id":85872027,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 789749265,
   "type": "Feature",
   "properties": {
+    "addr:full":"600 N Washington Ave Springfield MO 65806",
+    "addr:housenumber":"600",
+    "addr:postcode":"65806",
+    "addr:street":"N Washington Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":789749265,
-    "wof:lastmodified":1466626009,
+    "wof:lastmodified":1472630398,
     "wof:name":"Intellisys Inc",
     "wof:parent_id":85881119,
     "wof:placetype":"venue",

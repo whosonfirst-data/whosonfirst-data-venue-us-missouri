@@ -2,6 +2,10 @@
   "id": 807122101,
   "type": "Feature",
   "properties": {
+    "addr:full":"4848 Park 370 Blvd Ste D Hazelwood MO 63042",
+    "addr:housenumber":"4848;370",
+    "addr:postcode":"63042",
+    "addr:street":"Park;Blvd Ste D",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":807122101,
-    "wof:lastmodified":1466625497,
+    "wof:lastmodified":1472630374,
     "wof:name":"Oldcastle Glass Engineered Products",
     "wof:parent_id":85836381,
     "wof:placetype":"venue",

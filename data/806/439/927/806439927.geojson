@@ -2,14 +2,20 @@
   "id": 806439927,
   "type": "Feature",
   "properties": {
+    "addr:full":"3704 Blue Ridge Blvd Independence MO 64052",
+    "addr:housenumber":"3704",
+    "addr:postcode":"64052",
+    "addr:street":"Blue Ridge Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.456259,39.055665,-94.456259,39.055665",
     "geom:latitude":39.055665,
     "geom:longitude":-94.456259,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3704 Blue Ridge Blvd",
     "sg:city":"Independence",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102081227,
         85688661
     ],
+    "wof:brand_id":420575025,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_22pYzX9hQDQFfniHC6MU14_39.055665_-94.456259@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462598168,
-    "wof:geomhash":"4b947103f3304965f3ff5dd589777256",
+    "wof:geomhash":"f4a263d13ee4b36bbfa33adade65b97f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":806439927,
-    "wof:lastmodified":1466623967,
+    "wof:lastmodified":1510602638,
     "wof:name":"Amway Distributors",
     "wof:parent_id":85867021,
     "wof:placetype":"venue",

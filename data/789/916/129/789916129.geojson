@@ -2,14 +2,20 @@
   "id": 789916129,
   "type": "Feature",
   "properties": {
+    "addr:full":"1980 Richardson Rd Arnold MO 63010",
+    "addr:housenumber":"1980",
+    "addr:postcode":"63010",
+    "addr:street":"Richardson Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.388179,38.415099,-90.388179,38.415099",
     "geom:latitude":38.415099,
     "geom:longitude":-90.388179,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1980 Richardson Rd",
     "sg:city":"Arnold",
     "sg:classifiers":[
@@ -30,13 +36,14 @@
         85805175,
         102080787
     ],
+    "wof:brand_id":420575633,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_63uqbTsBKmL8WmXiW5HtVT_38.415099_-90.388179@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462591591,
-    "wof:geomhash":"8cf8dffd473a3474b5a177cd17759057",
+    "wof:geomhash":"135950d3f2b1ee81f79b904ed6928049",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -47,7 +54,7 @@
         }
     ],
     "wof:id":789916129,
-    "wof:lastmodified":1466630293,
+    "wof:lastmodified":1510602548,
     "wof:name":"Convenient Food Mart",
     "wof:parent_id":85805175,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 773724007,
   "type": "Feature",
   "properties": {
+    "addr:full":"4321 N Broadway St Louis MO 63147",
+    "addr:housenumber":"4321",
+    "addr:postcode":"63147",
+    "addr:street":"N Broadway",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -65,7 +69,7 @@
         }
     ],
     "wof:id":773724007,
-    "wof:lastmodified":1466634859,
+    "wof:lastmodified":1472631089,
     "wof:name":"Bachman Machine Company",
     "wof:parent_id":85873613,
     "wof:placetype":"venue",

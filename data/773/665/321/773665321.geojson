@@ -2,14 +2,20 @@
   "id": 773665321,
   "type": "Feature",
   "properties": {
+    "addr:full":"1549 Shepard Dr De Soto MO 63020",
+    "addr:housenumber":"1549",
+    "addr:postcode":"63020",
+    "addr:street":"Shepard Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.557005,38.121811,-90.557005,38.121811",
     "geom:latitude":38.121811,
     "geom:longitude":-90.557005,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1549 Shepard Dr",
     "sg:city":"De Soto",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         85848677,
         102080787
     ],
+    "wof:brand_id":1125154671,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1TrZVcXCu813HjBxon79x8_38.121811_-90.557005@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462587436,
-    "wof:geomhash":"f12c2aed1f450ae8f3892e3fe8ed5cef",
+    "wof:geomhash":"362b4529940692ddbc33903c1023806e",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":773665321,
-    "wof:lastmodified":1466633923,
+    "wof:lastmodified":1510693218,
     "wof:name":"Parkview Apartments",
     "wof:parent_id":85848677,
     "wof:placetype":"venue",

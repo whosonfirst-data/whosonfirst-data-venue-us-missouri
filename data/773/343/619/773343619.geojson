@@ -2,14 +2,20 @@
   "id": 773343619,
   "type": "Feature",
   "properties": {
+    "addr:full":"1800 E Langsford Rd Lees Summit MO 64063",
+    "addr:housenumber":"1800",
+    "addr:postcode":"64063",
+    "addr:street":"E Langsford Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.336261,38.916775,-94.336261,38.916775",
     "geom:latitude":38.916775,
     "geom:longitude":-94.336261,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1800 E Langsford Rd",
     "sg:city":"Lees Summit",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102081227,
         85688661
     ],
+    "wof:brand_id":1125154515,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_07bzXS5v9IlYAsCZFw4vVo_38.916775_-94.336261@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462585004,
-    "wof:geomhash":"1b747c1180168f3caa545cebad5b941e",
+    "wof:geomhash":"d61a89b45ff813e2f580133ba813649f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":773343619,
-    "wof:lastmodified":1466628310,
+    "wof:lastmodified":1510693956,
     "wof:name":"Casey's Carry Out Pizza",
     "wof:parent_id":85849825,
     "wof:placetype":"venue",

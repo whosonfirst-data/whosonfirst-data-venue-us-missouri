@@ -2,14 +2,20 @@
   "id": 790567055,
   "type": "Feature",
   "properties": {
+    "addr:full":"613 S Main St Independence MO 64050",
+    "addr:housenumber":"613",
+    "addr:postcode":"64050",
+    "addr:street":"S Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.415732,39.085748,-94.415732,39.085748",
     "geom:latitude":39.085748,
     "geom:longitude":-94.415732,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"613 S Main St",
     "sg:city":"Independence",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102081227,
         85688661
     ],
+    "wof:brand_id":1125153319,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6jFykZfHRT86B2r2aWr8FD_39.085748_-94.415732@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462596933,
-    "wof:geomhash":"a4fd9dc41cd23ca1d2f326656e892d0e",
+    "wof:geomhash":"051f12bff836e6fa99be286162c9c335",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":790567055,
-    "wof:lastmodified":1466633713,
+    "wof:lastmodified":1510699512,
     "wof:name":"Messiah Lutheran Church",
     "wof:parent_id":85833097,
     "wof:placetype":"venue",

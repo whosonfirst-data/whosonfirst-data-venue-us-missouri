@@ -2,14 +2,20 @@
   "id": 790252577,
   "type": "Feature",
   "properties": {
+    "addr:full":"1001 W Rose Hill Ave St Louis MO 63122",
+    "addr:housenumber":"1001",
+    "addr:postcode":"63122",
+    "addr:street":"W Rose Hill Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.427518,38.570572,-90.427518,38.570572",
     "geom:latitude":38.570572,
     "geom:longitude":-90.427518,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1001 W Rose Hill Ave",
     "sg:city":"St Louis",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102086173,
         85688661
     ],
+    "wof:brand_id":1125150001,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4pS0xFiV4V9sNUMZSq4Sav_38.570572_-90.427518@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462594357,
-    "wof:geomhash":"94a3c80c4cf0cd95db9ab49569d089ae",
+    "wof:geomhash":"a0e4f5bb7d63ecc0a2e68cf70efad994",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":790252577,
-    "wof:lastmodified":1466627593,
+    "wof:lastmodified":1510698741,
     "wof:name":"Sisters Of St Joseph",
     "wof:parent_id":85858661,
     "wof:placetype":"venue",

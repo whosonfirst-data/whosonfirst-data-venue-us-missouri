@@ -2,14 +2,20 @@
   "id": 806908469,
   "type": "Feature",
   "properties": {
+    "addr:full":"1300 Baltimore Ave Kansas City MO 64105",
+    "addr:housenumber":"1300",
+    "addr:postcode":"64105",
+    "addr:street":"Baltimore Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.584443,39.097256,-94.584443,39.097256",
     "geom:latitude":39.097256,
     "geom:longitude":-94.584443,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1300 Baltimore Ave",
     "sg:city":"Kansas City",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102081227,
         85688661
     ],
+    "wof:brand_id":1125154905,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_41CkQWGjTwucJHvnqoPUaG_39.097256_-94.584443@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462602080,
-    "wof:geomhash":"293d37258b298bc258ac82d7fb3767da",
+    "wof:geomhash":"168f16fcb8f7cc091172b72babdbe2e9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":806908469,
-    "wof:lastmodified":1466634755,
+    "wof:lastmodified":1510697530,
     "wof:name":"Old Republic Title Co",
     "wof:parent_id":85867019,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 773592353,
   "type": "Feature",
   "properties": {
+    "addr:full":"1500 S Glenstone Ave Springfield MO 65804",
+    "addr:housenumber":"1500",
+    "addr:postcode":"65804",
+    "addr:street":"S Glenstone Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.262179,37.187407,-93.262179,37.187407",
     "geom:latitude":37.187407,
     "geom:longitude":-93.262179,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1500 S Glenstone Ave",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102087523,
         85688661
     ],
+    "wof:brand_id":1125151027,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7L6OoXoDJ13RtgpZRIqtX0_37.187407_-93.262179@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462586890,
-    "wof:geomhash":"8ddd8f580e02d9bfefa58996ac7520a8",
+    "wof:geomhash":"e95c8f8918786aebca89309f2cbcc59c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":773592353,
-    "wof:lastmodified":1466632998,
+    "wof:lastmodified":1510699653,
     "wof:name":"Alzheimer's Association",
     "wof:parent_id":85881147,
     "wof:placetype":"venue",

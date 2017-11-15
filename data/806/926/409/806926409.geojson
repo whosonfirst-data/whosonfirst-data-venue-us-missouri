@@ -2,14 +2,20 @@
   "id": 806926409,
   "type": "Feature",
   "properties": {
+    "addr:full":"13655 Manchester Rd St Louis MO 63131",
+    "addr:housenumber":"13655",
+    "addr:postcode":"63131",
+    "addr:street":"Manchester Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.47676,38.59643,-90.47676,38.59643",
     "geom:latitude":38.59643,
     "geom:longitude":-90.47676,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"13655 Manchester Rd",
     "sg:city":"St Louis",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102086173,
         85688661
     ],
+    "wof:brand_id":420575633,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6oCYE6E5BtgD8mFIhPyVDz_38.596430_-90.476760@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462602244,
-    "wof:geomhash":"e7e9e42490f2a9abf27bcd8c8bc61792",
+    "wof:geomhash":"99532a6fa7c4774bbf4fa683129bc0bd",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":806926409,
-    "wof:lastmodified":1466634843,
+    "wof:lastmodified":1510602548,
     "wof:name":"Convenient Food Mart",
     "wof:parent_id":85802943,
     "wof:placetype":"venue",

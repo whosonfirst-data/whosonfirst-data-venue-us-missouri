@@ -2,14 +2,20 @@
   "id": 773169779,
   "type": "Feature",
   "properties": {
+    "addr:full":"1523 Lindgate Dr Saint Louis MO 63122",
+    "addr:housenumber":"1523",
+    "addr:postcode":"63122",
+    "addr:street":"Lindgate Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.432425,38.596205,-90.432425,38.596205",
     "geom:latitude":38.596205,
     "geom:longitude":-90.432425,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1523 Lindgate Dr",
     "sg:city":"Saint Louis",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102086173,
         85688661
     ],
+    "wof:brand_id":1125152429,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2jBBG08RPprDnw4pJpvVwi_38.596205_-90.432425@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462583666,
-    "wof:geomhash":"2a174182a803120770f18b7ffb8448ef",
+    "wof:geomhash":"dcc36d48ddbc5a69763fff8e5cffabf9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":773169779,
-    "wof:lastmodified":1466624499,
+    "wof:lastmodified":1510693825,
     "wof:name":"Sterling Optical",
     "wof:parent_id":85858661,
     "wof:placetype":"venue",

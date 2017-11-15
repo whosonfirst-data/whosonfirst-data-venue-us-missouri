@@ -2,6 +2,10 @@
   "id": 789586525,
   "type": "Feature",
   "properties": {
+    "addr:full":"3030 Market St Saint Louis MO 63103",
+    "addr:housenumber":"3030",
+    "addr:postcode":"63103",
+    "addr:street":"Market St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":789586525,
-    "wof:lastmodified":1466622892,
+    "wof:lastmodified":1472630212,
     "wof:name":"Hertz",
     "wof:parent_id":85867035,
     "wof:placetype":"venue",

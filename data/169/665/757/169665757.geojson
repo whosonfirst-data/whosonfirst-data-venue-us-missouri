@@ -2,9 +2,14 @@
   "id": 169665757,
   "type": "Feature",
   "properties": {
+    "addr:full":"107 W 75 St Kansas City KS 64114",
+    "addr:housenumber":"107",
+    "addr:postcode":"64114",
+    "addr:street":"W 75 St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.591826,38.992154,-94.591826,38.992154",
     "geom:latitude":38.992154,
     "geom:longitude":-94.591826,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688661,
+        85854229,
+        102191575,
+        404518075,
         85633793,
         85970739,
         102081227,
-        85854229
+        85688661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +49,10 @@
     "wof:geomhash":"02eff11306ed9cf373ec4493a77c98a2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081227,
+            "localadmin_id":404518075,
             "locality_id":85970739,
             "neighbourhood_id":85854229,
             "region_id":85688661,
@@ -52,7 +60,7 @@
         }
     ],
     "wof:id":169665757,
-    "wof:lastmodified":1466622396,
+    "wof:lastmodified":1491926564,
     "wof:name":"Right Shop",
     "wof:parent_id":85854229,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 806938941,
   "type": "Feature",
   "properties": {
+    "addr:full":"8612 N Boardwalk Ave Kansas City MO 64154",
+    "addr:housenumber":"8612",
+    "addr:postcode":"64154",
+    "addr:street":"N Boardwalk Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.652933,39.252542,-94.652933,39.252542",
     "geom:latitude":39.252542,
     "geom:longitude":-94.652933,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"8612 N Boardwalk Ave",
     "sg:city":"Kansas City",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102085271,
         85851839
     ],
+    "wof:brand_id":1125152531,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_52UxrCdeauwH1dfoePsCC3_39.252542_-94.652933@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462602352,
-    "wof:geomhash":"750741aea7c4371a83673f64b6198df4",
+    "wof:geomhash":"e8ca4ba342df2c227c75c1f970e1f9f9",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":806938941,
-    "wof:lastmodified":1466635141,
+    "wof:lastmodified":1510696763,
     "wof:name":"Icing By Claire's",
     "wof:parent_id":85851839,
     "wof:placetype":"venue",

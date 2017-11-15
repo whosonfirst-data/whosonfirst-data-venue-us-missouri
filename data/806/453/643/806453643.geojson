@@ -2,14 +2,20 @@
   "id": 806453643,
   "type": "Feature",
   "properties": {
+    "addr:full":"12618 US Hwy 71 Grandview MO 64030",
+    "addr:housenumber":"12618",
+    "addr:postcode":"64030",
+    "addr:street":"Us Hwy 71",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.52492,38.895525,-94.52492,38.895525",
     "geom:latitude":38.895525,
     "geom:longitude":-94.52492,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"12618 US Hwy 71",
     "sg:city":"Grandview",
     "sg:classifiers":[
@@ -39,13 +45,14 @@
         102081227,
         85688661
     ],
+    "wof:brand_id":1125155081,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0m9Yp1AYQ9nvU14QAAQrGJ_38.895525_-94.524920@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462598268,
-    "wof:geomhash":"9591216c5d5f3598c6eff8d221729e35",
+    "wof:geomhash":"a3a56466b1d842877182cd24bc46fc7a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,7 +66,7 @@
         }
     ],
     "wof:id":806453643,
-    "wof:lastmodified":1466624350,
+    "wof:lastmodified":1510696899,
     "wof:name":"Wonder Bread & Hostess Cakes",
     "wof:parent_id":85871945,
     "wof:placetype":"venue",

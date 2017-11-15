@@ -2,6 +2,10 @@
   "id": 806570909,
   "type": "Feature",
   "properties": {
+    "addr:full":"4321 E Truman Rd Kansas City MO 64127",
+    "addr:housenumber":"4321",
+    "addr:postcode":"64127",
+    "addr:street":"E Truman Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":806570909,
-    "wof:lastmodified":1466626994,
+    "wof:lastmodified":1472630420,
     "wof:name":"Industrial Surplus",
     "wof:parent_id":85871999,
     "wof:placetype":"venue",

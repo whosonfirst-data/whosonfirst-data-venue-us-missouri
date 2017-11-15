@@ -2,6 +2,10 @@
   "id": 807211369,
   "type": "Feature",
   "properties": {
+    "addr:full":"123 E College St Independence MO 64050",
+    "addr:housenumber":"123",
+    "addr:postcode":"64050",
+    "addr:street":"E College St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":807211369,
-    "wof:lastmodified":1466628121,
+    "wof:lastmodified":1472630510,
     "wof:name":"The Party Patch",
     "wof:parent_id":85833097,
     "wof:placetype":"venue",

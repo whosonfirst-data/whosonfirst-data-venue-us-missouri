@@ -2,14 +2,20 @@
   "id": 773370831,
   "type": "Feature",
   "properties": {
+    "addr:full":"1820 Market St St Louis MO 63103",
+    "addr:housenumber":"1820",
+    "addr:postcode":"63103",
+    "addr:street":"Market St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.208922,38.629748,-90.208922,38.629748",
     "geom:latitude":38.629748,
     "geom:longitude":-90.208922,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1820 Market St",
     "sg:city":"St Louis",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102080791,
         85688661
     ],
+    "wof:brand_id":1125153095,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3fsFZzDe0cvkMy4aIdI5c6_38.629748_-90.208922@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462585187,
-    "wof:geomhash":"455ad17c87a74a0fea8035c74e7f3caf",
+    "wof:geomhash":"0b3e8e55441b1c8bb1d7e2b50d2510ad",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":773370831,
-    "wof:lastmodified":1466628985,
+    "wof:lastmodified":1510696064,
     "wof:name":"Houlihan's",
     "wof:parent_id":85873645,
     "wof:placetype":"venue",

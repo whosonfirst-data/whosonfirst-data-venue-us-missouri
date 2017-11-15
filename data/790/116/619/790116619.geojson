@@ -2,6 +2,10 @@
   "id": 790116619,
   "type": "Feature",
   "properties": {
+    "addr:full":"2345 E Rosebrier St Springfield MO 65804",
+    "addr:housenumber":"2345",
+    "addr:postcode":"65804",
+    "addr:street":"E Rosebrier St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":790116619,
-    "wof:lastmodified":1466624695,
+    "wof:lastmodified":1472630392,
     "wof:name":"Rojon Inc",
     "wof:parent_id":85881149,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 806983249,
   "type": "Feature",
   "properties": {
+    "addr:full":"4321 Cambridge St Independence MO 64055",
+    "addr:housenumber":"4321",
+    "addr:postcode":"64055",
+    "addr:street":"Cambridge St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":806983249,
-    "wof:lastmodified":1466635611,
+    "wof:lastmodified":1472630767,
     "wof:name":"Storehouse Corp",
     "wof:parent_id":85871965,
     "wof:placetype":"venue",

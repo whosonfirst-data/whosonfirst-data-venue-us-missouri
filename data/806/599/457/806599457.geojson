@@ -2,14 +2,20 @@
   "id": 806599457,
   "type": "Feature",
   "properties": {
+    "addr:full":"1039 Kingshighway Rolla MO 65401",
+    "addr:housenumber":"1039",
+    "addr:postcode":"65401",
+    "addr:street":"Kingshighway",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.783296,37.944835,-91.783296,37.944835",
     "geom:latitude":37.944835,
     "geom:longitude":-91.783296,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1039 Kingshighway",
     "sg:city":"Rolla",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102086893,
         85814531
     ],
+    "wof:brand_id":1125152309,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Ld37mGsi9m693YhxvKcC4_37.944835_-91.783296@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462599482,
-    "wof:geomhash":"9b95f3ea57f241afd9db3e97927401e8",
+    "wof:geomhash":"19fc5d118e7e82346c3cd3d0d1fd4e15",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":806599457,
-    "wof:lastmodified":1466628045,
+    "wof:lastmodified":1510696019,
     "wof:name":"Sun Loan Co",
     "wof:parent_id":85814531,
     "wof:placetype":"venue",

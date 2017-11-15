@@ -2,14 +2,20 @@
   "id": 789926155,
   "type": "Feature",
   "properties": {
+    "addr:full":"505 S College Ave Columbia MO 65201",
+    "addr:housenumber":"505",
+    "addr:postcode":"65201",
+    "addr:street":"S College Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.322066,38.945941,-92.322066,38.945941",
     "geom:latitude":38.945941,
     "geom:longitude":-92.322066,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"505 S College Ave",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102086187,
         85688661
     ],
+    "wof:brand_id":1125157993,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6kvBxdDONTnmR3mjBJsLk9_38.945941_-92.322066@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462591675,
-    "wof:geomhash":"d96e2805ff025d0262f57fc6f28232d7",
+    "wof:geomhash":"f86534bac7a451ce577b0d10b8881983",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":789926155,
-    "wof:lastmodified":1466630131,
+    "wof:lastmodified":1510693782,
     "wof:name":"US Fish & Wildlife Dept Svc",
     "wof:parent_id":85835171,
     "wof:placetype":"venue",

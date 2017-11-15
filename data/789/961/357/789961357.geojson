@@ -2,14 +2,20 @@
   "id": 789961357,
   "type": "Feature",
   "properties": {
+    "addr:full":"2854 Abner Pl Saint Louis MO 63120",
+    "addr:housenumber":"2854",
+    "addr:postcode":"63120",
+    "addr:street":"Abner Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.263637,38.674838,-90.263637,38.674838",
     "geom:latitude":38.674838,
     "geom:longitude":-90.263637,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2854 Abner Pl",
     "sg:city":"Saint Louis",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102080791,
         85688661
     ],
+    "wof:brand_id":1125159619,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0x3q4RbFOj1t6Nqxq7ZVSg_38.674838_-90.263637@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462592010,
-    "wof:geomhash":"03d156f7dfb839810b3af697c2e5aece",
+    "wof:geomhash":"258ce8e7e97bb0111262c6a085ea65c1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":789961357,
-    "wof:lastmodified":1466631324,
+    "wof:lastmodified":1510695302,
     "wof:name":"Mount Pleasant Baptist Church",
     "wof:parent_id":420525473,
     "wof:placetype":"venue",

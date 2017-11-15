@@ -2,14 +2,20 @@
   "id": 807137417,
   "type": "Feature",
   "properties": {
+    "addr:full":"147 Saint Louis Union Station Saint Louis MO 63103",
+    "addr:housenumber":"147",
+    "addr:postcode":"63103",
+    "addr:street":"Saint Louis",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.207889,38.627829,-90.207889,38.627829",
     "geom:latitude":38.627829,
     "geom:longitude":-90.207889,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"147 Saint Louis Union Station",
     "sg:city":"Saint Louis",
     "sg:classifiers":[
@@ -43,13 +49,14 @@
         102080791,
         85688661
     ],
+    "wof:brand_id":1125153095,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5TXEFlmbZGRYcObWy1wbdS_38.627829_-90.207889@1303262927"
     },
     "wof:country":"US",
     "wof:created":1462604135,
-    "wof:geomhash":"5a44471c1b83577f53d4d42b1055b4bf",
+    "wof:geomhash":"e907fff5698e3dc43e683c7de13e0f70",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -63,7 +70,7 @@
         }
     ],
     "wof:id":807137417,
-    "wof:lastmodified":1466625832,
+    "wof:lastmodified":1510696063,
     "wof:name":"Houlihan's",
     "wof:parent_id":85873645,
     "wof:placetype":"venue",

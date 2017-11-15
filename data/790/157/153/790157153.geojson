@@ -2,14 +2,20 @@
   "id": 790157153,
   "type": "Feature",
   "properties": {
+    "addr:full":"2613 S Main St Joplin MO 64804",
+    "addr:housenumber":"2613",
+    "addr:postcode":"64804",
+    "addr:street":"S Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.514471,37.061092,-94.514471,37.061092",
     "geom:latitude":37.061092,
     "geom:longitude":-94.514471,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2613 S Main St",
     "sg:city":"Joplin",
     "sg:classifiers":[
@@ -39,13 +45,14 @@
         85688661,
         420525385
     ],
+    "wof:brand_id":1125152907,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3GCRi7aA7j2gNV5IpPaUO3_37.061092_-94.514471@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462593571,
-    "wof:geomhash":"c0fbb1fc30123be95238d9c7d10b5996",
+    "wof:geomhash":"95d41048f3a9db1878442a4e3b271a10",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -69,7 +76,7 @@
         }
     ],
     "wof:id":790157153,
-    "wof:lastmodified":1466625703,
+    "wof:lastmodified":1510695168,
     "wof:name":"Smoker Friendly",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

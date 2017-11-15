@@ -2,6 +2,10 @@
   "id": 790230101,
   "type": "Feature",
   "properties": {
+    "addr:full":"12132 State Rd CC Festus MO 63028",
+    "addr:housenumber":"12132",
+    "addr:postcode":"63028",
+    "addr:street":"State Rd;Festus",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":790230101,
-    "wof:lastmodified":1466627131,
+    "wof:lastmodified":1472630522,
     "wof:name":"Jokerst Paving & Contracting",
     "wof:parent_id":85848677,
     "wof:placetype":"venue",

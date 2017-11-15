@@ -2,14 +2,20 @@
   "id": 806994269,
   "type": "Feature",
   "properties": {
+    "addr:full":"7315 W Florissant Ave Saint Louis MO 63136",
+    "addr:housenumber":"7315",
+    "addr:postcode":"63136",
+    "addr:street":"W Florissant Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.268799,38.7215,-90.268799,38.7215",
     "geom:latitude":38.7215,
     "geom:longitude":-90.268799,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"7315 W Florissant Ave",
     "sg:city":"Saint Louis",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102086173,
         85688661
     ],
+    "wof:brand_id":1125156927,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0Dn127UIzzyKVY8Oi1zOtB_38.721459_-90.268208@1293134755"
     },
     "wof:country":"US",
     "wof:created":1462602807,
-    "wof:geomhash":"209f52eaae64aae2118d384902850d2b",
+    "wof:geomhash":"b184d0cf2baf21d92fcb3ab44e423271",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":806994269,
-    "wof:lastmodified":1466635685,
+    "wof:lastmodified":1510695437,
     "wof:name":"Cali Nails",
     "wof:parent_id":85859027,
     "wof:placetype":"venue",

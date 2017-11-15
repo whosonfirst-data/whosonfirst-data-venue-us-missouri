@@ -2,14 +2,20 @@
   "id": 807057989,
   "type": "Feature",
   "properties": {
+    "addr:full":"17258 Chesterfield Airport Rd Chesterfield MO 63005",
+    "addr:housenumber":"17258",
+    "addr:postcode":"63005",
+    "addr:street":"Chesterfield Airport Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.597597,38.667856,-90.597597,38.667856",
     "geom:latitude":38.667856,
     "geom:longitude":-90.597597,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"17258 Chesterfield Airport Rd",
     "sg:city":"Chesterfield",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102086173,
         85688661
     ],
+    "wof:brand_id":1125150801,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0nJMR7dJLVcsCzagTNnUq7_38.667856_-90.597597@1299784598"
     },
     "wof:country":"US",
     "wof:created":1462603355,
-    "wof:geomhash":"7faca348e114e2b484afbade1fafa005",
+    "wof:geomhash":"eb8fcc60460e70e44792e3660e086e18",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":807057989,
-    "wof:lastmodified":1466623935,
+    "wof:lastmodified":1510697335,
     "wof:name":"Hometown Buffet",
     "wof:parent_id":85805465,
     "wof:placetype":"venue",

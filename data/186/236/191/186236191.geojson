@@ -2,9 +2,14 @@
   "id": 186236191,
   "type": "Feature",
   "properties": {
+    "addr:full":"1 Nationsbank Plz Ste 1680 Saint Louis MO 63101",
+    "addr:housenumber":"1",
+    "addr:postcode":"63101",
+    "addr:street":"Nationsbank Plz Ste 1680",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.190399,38.634399,-90.190399,38.634399",
     "geom:latitude":38.634399,
     "geom:longitude":-90.190399,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688661,
+        85873643,
+        102191575,
+        404518053,
         85633793,
         85971343,
         102080791,
-        85873643
+        85688661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +50,10 @@
     "wof:geomhash":"72169aebd60f22c57f1bb1c62024b283",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080791,
+            "localadmin_id":404518053,
             "locality_id":85971343,
             "neighbourhood_id":85873643,
             "region_id":85688661,
@@ -53,7 +61,7 @@
         }
     ],
     "wof:id":186236191,
-    "wof:lastmodified":1466622256,
+    "wof:lastmodified":1491933745,
     "wof:name":"Jones Lang Lasalle Americas Inc",
     "wof:parent_id":85873643,
     "wof:placetype":"venue",

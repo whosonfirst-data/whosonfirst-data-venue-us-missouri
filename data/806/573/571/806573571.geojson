@@ -2,6 +2,10 @@
   "id": 806573571,
   "type": "Feature",
   "properties": {
+    "addr:full":"3914 E 31 St Kansas City MO 64128",
+    "addr:housenumber":"3914;31",
+    "addr:postcode":"64128",
+    "addr:street":"E;St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":806573571,
-    "wof:lastmodified":1466627071,
+    "wof:lastmodified":1472630402,
     "wof:name":"M & M Barber & Beauty Shop",
     "wof:parent_id":85872027,
     "wof:placetype":"venue",

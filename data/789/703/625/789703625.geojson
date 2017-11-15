@@ -2,14 +2,20 @@
   "id": 789703625,
   "type": "Feature",
   "properties": {
+    "addr:full":"10820 State Hwy 21 Hillsboro MO 63050",
+    "addr:housenumber":"10820",
+    "addr:postcode":"63050",
+    "addr:street":"State Hwy 21",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.571339,38.22488,-90.571339,38.22488",
     "geom:latitude":38.22488,
     "geom:longitude":-90.571339,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"10820 State Hwy 21",
     "sg:city":"Hillsboro",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         85848677,
         102080787
     ],
+    "wof:brand_id":1125153175,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1N3FfSt1GhJStFBJAmqs7S_38.224880_-90.571339@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462589883,
-    "wof:geomhash":"dc8a4900e9f37a04e9d9bf91ccc2b2d4",
+    "wof:geomhash":"6d0b160f6c63212b6edca601865b816f",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":789703625,
-    "wof:lastmodified":1466624810,
+    "wof:lastmodified":1510699293,
     "wof:name":"Rural Development",
     "wof:parent_id":85848677,
     "wof:placetype":"venue",

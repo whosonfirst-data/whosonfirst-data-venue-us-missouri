@@ -2,14 +2,20 @@
   "id": 807027521,
   "type": "Feature",
   "properties": {
+    "addr:full":"15045 Manchester Rd Ballwin MO 63011",
+    "addr:housenumber":"15045",
+    "addr:postcode":"63011",
+    "addr:street":"Manchester Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.548019,38.59293,-90.548019,38.59293",
     "geom:latitude":38.59293,
     "geom:longitude":-90.548019,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"15045 Manchester Rd",
     "sg:city":"Ballwin",
     "sg:classifiers":[
@@ -43,13 +49,14 @@
         102086173,
         85688661
     ],
+    "wof:brand_id":420574917,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_43bSr0jQU8i1eL3B4sylLb_38.593036_-90.547554@1293134755"
     },
     "wof:country":"US",
     "wof:created":1462603103,
-    "wof:geomhash":"68914d41978ce84e165957db73340479",
+    "wof:geomhash":"47bc437cfa1058406a460dec02777903",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -63,7 +70,7 @@
         }
     ],
     "wof:id":807027521,
-    "wof:lastmodified":1466622610,
+    "wof:lastmodified":1510604002,
     "wof:name":"National Guard",
     "wof:parent_id":85831197,
     "wof:placetype":"venue",

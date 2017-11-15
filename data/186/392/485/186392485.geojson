@@ -2,14 +2,20 @@
   "id": 186392485,
   "type": "Feature",
   "properties": {
+    "addr:full":"7248 Natural Bridge Rd Saint Louis MO 63121",
+    "addr:housenumber":"7248",
+    "addr:postcode":"63121",
+    "addr:street":"Natural Bridge Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.294403,38.7029,-90.294403,38.7029",
     "geom:latitude":38.7029,
     "geom:longitude":-90.294403,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"7248 Natural Bridge Rd",
     "sg:city":"Saint Louis",
     "sg:classifiers":[
@@ -31,12 +37,13 @@
         102086173,
         85803359
     ],
+    "wof:brand_id":1125159069,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_02uYdaSAIMEnIysHQ9Nzid_38.702900_-90.294403@1303262929"
     },
     "wof:country":"US",
-    "wof:geomhash":"857869c61f2913e8a36cea9563395f8b",
+    "wof:geomhash":"925400aef06b128f7f0ab85858ad373b",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":186392485,
-    "wof:lastmodified":1466622345,
+    "wof:lastmodified":1510694262,
     "wof:name":"Prestige Cleaners",
     "wof:parent_id":85803359,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 773831737,
   "type": "Feature",
   "properties": {
+    "addr:full":"912 E 63 St Kansas City MO 64110",
+    "addr:housenumber":"912;63",
+    "addr:postcode":"64110",
+    "addr:street":"E;St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.578203,39.013499,-94.578203,39.013499",
     "geom:latitude":39.013499,
     "geom:longitude":-94.578203,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"912 E 63 St",
     "sg:city":"Kansas City",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102081227,
         85688661
     ],
+    "wof:brand_id":1125151651,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_10Cv2IBSL533Cr0tQr4bDw_39.013499_-94.578203@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462588734,
-    "wof:geomhash":"033b85d5321615fbe72da12414c82100",
+    "wof:geomhash":"389f4fa5dd8335606d1d72ed2a786298",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":773831737,
-    "wof:lastmodified":1466635568,
+    "wof:lastmodified":1510695900,
     "wof:name":"KWIK KOPY Printing",
     "wof:parent_id":85867027,
     "wof:placetype":"venue",

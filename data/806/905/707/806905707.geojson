@@ -2,14 +2,20 @@
   "id": 806905707,
   "type": "Feature",
   "properties": {
+    "addr:full":"8911 Dunn Rd Hazelwood MO 63042",
+    "addr:housenumber":"8911",
+    "addr:postcode":"63042",
+    "addr:street":"Dunn Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.349035,38.777414,-90.349035,38.777414",
     "geom:latitude":38.777414,
     "geom:longitude":-90.349035,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"8911 Dunn Rd",
     "sg:city":"Hazelwood",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102086173,
         85688661
     ],
+    "wof:brand_id":1125159175,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5skYuLuejXcCfZ7JmjDhx3_38.777414_-90.349035@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462602055,
-    "wof:geomhash":"5f7b2ee6a1b50ea9d570483e28c6c617",
+    "wof:geomhash":"d3b415c667e63b2e5299c37f980cf60c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":806905707,
-    "wof:lastmodified":1466634735,
+    "wof:lastmodified":1510694035,
     "wof:name":"Budget Host Inn",
     "wof:parent_id":85813019,
     "wof:placetype":"venue",

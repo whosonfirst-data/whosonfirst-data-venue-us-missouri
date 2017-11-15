@@ -2,14 +2,20 @@
   "id": 773794859,
   "type": "Feature",
   "properties": {
+    "addr:full":"124 Crestwood Plz St Louis MO 63126",
+    "addr:housenumber":"124",
+    "addr:postcode":"63126",
+    "addr:street":"Crestwood Plz",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.384685,38.558772,-90.384685,38.558772",
     "geom:latitude":38.558772,
     "geom:longitude":-90.384685,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"124 Crestwood Plz",
     "sg:city":"St Louis",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102086173,
         85688661
     ],
+    "wof:brand_id":1125155249,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_74Gnvk1mrrpWeFAhEzeV8l_38.558772_-90.384685@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462588429,
-    "wof:geomhash":"b1bfea9dbb8cea833828d77395d3775e",
+    "wof:geomhash":"803762d7b02258c57a174413a2f3d1ae",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":773794859,
-    "wof:lastmodified":1466635296,
+    "wof:lastmodified":1510697009,
     "wof:name":"Frederick's Of Hollywood",
     "wof:parent_id":85858243,
     "wof:placetype":"venue",

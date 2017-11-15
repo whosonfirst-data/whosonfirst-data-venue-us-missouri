@@ -2,14 +2,20 @@
   "id": 773404701,
   "type": "Feature",
   "properties": {
+    "addr:full":"8409 N Madison Ave Kansas City MO 64155",
+    "addr:housenumber":"8409",
+    "addr:postcode":"64155",
+    "addr:street":"N Madison Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.593347,39.24773,-94.593347,39.24773",
     "geom:latitude":39.24773,
     "geom:longitude":-94.593347,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"8409 N Madison Ave",
     "sg:city":"Kansas City",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102081227,
         85688661
     ],
+    "wof:brand_id":420574877,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0i6drUGal66x7jm8l23gKX_39.247730_-94.593347@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462585435,
-    "wof:geomhash":"3c1049c784b8e8107257ad1e6edac6e8",
+    "wof:geomhash":"67e40a8cf60a0a486583f85e48e2ef80",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":773404701,
-    "wof:lastmodified":1466629516,
+    "wof:lastmodified":1510604429,
     "wof:name":"Mattress Firm",
     "wof:parent_id":85804625,
     "wof:placetype":"venue",

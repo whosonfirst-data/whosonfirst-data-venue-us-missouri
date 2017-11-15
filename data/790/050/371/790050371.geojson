@@ -2,14 +2,20 @@
   "id": 790050371,
   "type": "Feature",
   "properties": {
+    "addr:full":"1650 Des Peres Rd St Louis MO 63131",
+    "addr:housenumber":"1650",
+    "addr:postcode":"63131",
+    "addr:street":"Des Peres Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.452412,38.616914,-90.452412,38.616914",
     "geom:latitude":38.616914,
     "geom:longitude":-90.452412,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1650 Des Peres Rd",
     "sg:city":"St Louis",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102086173,
         85688661
     ],
+    "wof:brand_id":1125155609,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6isBVdZvBVi6JcN5xlNXlL_38.616914_-90.452412@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462592726,
-    "wof:geomhash":"2cce29cab631a66fb973d32c137a3677",
+    "wof:geomhash":"05ea5a7da8e31887e3573c027f223ae9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":790050371,
-    "wof:lastmodified":1466623241,
+    "wof:lastmodified":1510613386,
     "wof:name":"Full Spectrum Lending",
     "wof:parent_id":85867981,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 790482863,
   "type": "Feature",
   "properties": {
+    "addr:full":"3 Godar O Fallon MO 63366",
+    "addr:housenumber":"3",
+    "addr:postcode":"63366",
+    "addr:street":"Godar O",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.730083,38.817128,-90.730083,38.817128",
     "geom:latitude":38.817128,
     "geom:longitude":-90.730083,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3 Godar",
     "sg:city":"O Fallon",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102086159,
         85821097
     ],
+    "wof:brand_id":420574659,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5KaU4x4v3iHa6qWdCUGs88_38.817128_-90.730083@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462596216,
-    "wof:geomhash":"f3bdc5dd03a8c7d7f9e96c3398219936",
+    "wof:geomhash":"639bdc74197cfa1b4c0863a1c5c6b3fd",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":790482863,
-    "wof:lastmodified":1466632541,
+    "wof:lastmodified":1510604046,
     "wof:name":"Mail Boxes Etc",
     "wof:parent_id":85821097,
     "wof:placetype":"venue",

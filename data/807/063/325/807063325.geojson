@@ -2,14 +2,20 @@
   "id": 807063325,
   "type": "Feature",
   "properties": {
+    "addr:full":"12228 Saint Charles Rock Rd Bridgeton MO 63044",
+    "addr:housenumber":"12228",
+    "addr:postcode":"63044",
+    "addr:street":"Saint Charles Rock Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.426949,38.751505,-90.426949,38.751505",
     "geom:latitude":38.751505,
     "geom:longitude":-90.426949,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"12228 Saint Charles Rock Rd",
     "sg:city":"Bridgeton",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102086173,
         85688661
     ],
+    "wof:brand_id":1125150801,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4SefMO4jjkgv6knsh7yEiF_38.751505_-90.426949@1299784598"
     },
     "wof:country":"US",
     "wof:created":1462603395,
-    "wof:geomhash":"0d729a9601115e6c4c768c1e965298be",
+    "wof:geomhash":"0485c9e82344526424b4251f7baf98bc",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":807063325,
-    "wof:lastmodified":1466623928,
+    "wof:lastmodified":1510697335,
     "wof:name":"Hometown Buffet",
     "wof:parent_id":85836381,
     "wof:placetype":"venue",

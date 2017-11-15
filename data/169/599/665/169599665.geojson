@@ -2,9 +2,14 @@
   "id": 169599665,
   "type": "Feature",
   "properties": {
+    "addr:full":"200 W 74 Ter Kansas City KS 64114",
+    "addr:housenumber":"200",
+    "addr:postcode":"64114",
+    "addr:street":"W 74 Ter",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.593785,38.993342,-94.593785,38.993342",
     "geom:latitude":38.993342,
     "geom:longitude":-94.593785,
@@ -25,11 +30,13 @@
     "sg:province":"KS",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688661,
+        85854229,
+        102191575,
+        404518075,
         85633793,
         85970739,
         102081227,
-        85854229
+        85688661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,9 +46,10 @@
     "wof:geomhash":"842445bae0f0b1a3d09726e701c4dd6e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081227,
+            "localadmin_id":404518075,
             "locality_id":85970739,
             "neighbourhood_id":85854229,
             "region_id":85688661,
@@ -49,7 +57,7 @@
         }
     ],
     "wof:id":169599665,
-    "wof:lastmodified":1466622115,
+    "wof:lastmodified":1491926570,
     "wof:name":"Karen E Rice",
     "wof:parent_id":85854229,
     "wof:placetype":"venue",

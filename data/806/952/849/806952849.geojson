@@ -2,14 +2,20 @@
   "id": 806952849,
   "type": "Feature",
   "properties": {
+    "addr:full":"9618 Watson Rd Sappington MO 63126",
+    "addr:housenumber":"9618",
+    "addr:postcode":"63126",
+    "addr:street":"Watson Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.383371,38.557061,-90.383371,38.557061",
     "geom:latitude":38.557061,
     "geom:longitude":-90.383371,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"9618 Watson Rd",
     "sg:city":"Sappington",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102086173,
         85688661
     ],
+    "wof:brand_id":420574789,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5rgga96ugu35EBPnoAxj02_38.557061_-90.383371@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462602465,
-    "wof:geomhash":"e3eb2f7e20253d849f1083b15f68f4e1",
+    "wof:geomhash":"21dca7ef8a4a208d806b63ada4bb1ac3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":806952849,
-    "wof:lastmodified":1466635156,
+    "wof:lastmodified":1510604032,
     "wof:name":"Barnes & Noble Booksellers",
     "wof:parent_id":85858243,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 807061535,
   "type": "Feature",
   "properties": {
+    "addr:full":"428 Howdershell Rd Florissant MO 63031",
+    "addr:housenumber":"428",
+    "addr:postcode":"63031",
+    "addr:street":"Howdershell Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.362426,38.805498,-90.362426,38.805498",
     "geom:latitude":38.805498,
     "geom:longitude":-90.362426,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"428 Howdershell Rd",
     "sg:city":"Florissant",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102086173,
         85688661
     ],
+    "wof:brand_id":420575223,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5AxyJx1igikjkx5DM9BlE3_38.805498_-90.362426@1299784598"
     },
     "wof:country":"US",
     "wof:created":1462603383,
-    "wof:geomhash":"dcf8d6e3299b4031c0324beac95fbf73",
+    "wof:geomhash":"e89c318bd6e5de48f86203217b7246e9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":807061535,
-    "wof:lastmodified":1466624023,
+    "wof:lastmodified":1510602902,
     "wof:name":"China Wok",
     "wof:parent_id":85813019,
     "wof:placetype":"venue",

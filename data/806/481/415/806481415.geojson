@@ -2,6 +2,10 @@
   "id": 806481415,
   "type": "Feature",
   "properties": {
+    "addr:full":"13665 E 42 Ter S Independence MO 64055",
+    "addr:housenumber":"13665;42 ter",
+    "addr:postcode":"64055",
+    "addr:street":"E;S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":806481415,
-    "wof:lastmodified":1466625118,
+    "wof:lastmodified":1472630330,
     "wof:name":"Prime Sales",
     "wof:parent_id":85871965,
     "wof:placetype":"venue",

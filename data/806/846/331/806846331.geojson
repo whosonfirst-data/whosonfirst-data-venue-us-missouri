@@ -2,14 +2,20 @@
   "id": 806846331,
   "type": "Feature",
   "properties": {
+    "addr:full":"2102 Chippewa St St Louis MO 63118",
+    "addr:housenumber":"2102",
+    "addr:postcode":"63118",
+    "addr:street":"Chippewa St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.224666,38.585755,-90.224666,38.585755",
     "geom:latitude":38.585755,
     "geom:longitude":-90.224666,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2102 Chippewa St",
     "sg:city":"St Louis",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102080791,
         85688661
     ],
+    "wof:brand_id":1125153353,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3Amut8PpCnf0D8KE3RIU44_38.585755_-90.224666@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462601574,
-    "wof:geomhash":"de05fac76a80aebfcc54b2475ae0d770",
+    "wof:geomhash":"55dc1d3d6539b95f18f0f69838e81b78",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":806846331,
-    "wof:lastmodified":1466633791,
+    "wof:lastmodified":1510695785,
     "wof:name":"All Fund Mortgage",
     "wof:parent_id":85873687,
     "wof:placetype":"venue",

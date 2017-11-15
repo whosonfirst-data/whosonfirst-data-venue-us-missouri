@@ -2,14 +2,20 @@
   "id": 806578889,
   "type": "Feature",
   "properties": {
+    "addr:full":"10789 Lambert International Blvd Bridgeton MO 63044",
+    "addr:housenumber":"10789",
+    "addr:postcode":"63044",
+    "addr:street":"Lambert International Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.369785,38.74258,-90.369785,38.74258",
     "geom:latitude":38.74258,
     "geom:longitude":-90.369785,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"10789 Lambert International Blvd",
     "sg:city":"Bridgeton",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102086173,
         85688661
     ],
+    "wof:brand_id":1125153727,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4ij4iVrRekMVyncod6kp4f_38.742580_-90.369785@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462599298,
-    "wof:geomhash":"c2a61367e7151bff64eabb5ca224d626",
+    "wof:geomhash":"6054bba376e8108238a044944d63af7b",
     "wof:hierarchy":[
         {
             "campus_id":102525961,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":806578889,
-    "wof:lastmodified":1466627228,
+    "wof:lastmodified":1510695747,
     "wof:name":"System Support Center",
     "wof:parent_id":102525961,
     "wof:placetype":"venue",

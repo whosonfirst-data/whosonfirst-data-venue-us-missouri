@@ -2,14 +2,20 @@
   "id": 806499633,
   "type": "Feature",
   "properties": {
+    "addr:full":"1217 Hampton Ave Saint Louis MO 63139",
+    "addr:housenumber":"1217",
+    "addr:postcode":"63139",
+    "addr:street":"Hampton Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.287438,38.628202,-90.287438,38.628202",
     "geom:latitude":38.628202,
     "geom:longitude":-90.287438,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1217 Hampton Ave",
     "sg:city":"Saint Louis",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102080791,
         85688661
     ],
+    "wof:brand_id":1125159175,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1X8vVKh9DafaWBkShir4Y7_38.628202_-90.287438@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462598619,
-    "wof:geomhash":"785b7a756c2dcb76a81f94874d902c61",
+    "wof:geomhash":"5d033df2d1037a2b15e1f1658f1a55d7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":806499633,
-    "wof:lastmodified":1466625337,
+    "wof:lastmodified":1510694035,
     "wof:name":"Budget Host Inn",
     "wof:parent_id":85873705,
     "wof:placetype":"venue",

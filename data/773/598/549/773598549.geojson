@@ -2,14 +2,20 @@
   "id": 773598549,
   "type": "Feature",
   "properties": {
+    "addr:full":"5150 N Oak Fwy Kansas City MO 64118",
+    "addr:housenumber":"5150",
+    "addr:postcode":"64118",
+    "addr:street":"N Oak Fwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.576609,39.190568,-94.576609,39.190568",
     "geom:latitude":39.190568,
     "geom:longitude":-94.576609,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5150 N Oak Fwy",
     "sg:city":"Kansas City",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102086177,
         85688661
     ],
+    "wof:brand_id":1125152701,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2Miz6ZcKHMq82lshdhkt1X_39.190568_-94.576609@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462586934,
-    "wof:geomhash":"28259620e9db2eff2b941524be42794e",
+    "wof:geomhash":"401deb8ceb3fd6651b12f1b0a408b37b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":773598549,
-    "wof:lastmodified":1466632923,
+    "wof:lastmodified":1510711054,
     "wof:name":"China One",
     "wof:parent_id":420525307,
     "wof:placetype":"venue",

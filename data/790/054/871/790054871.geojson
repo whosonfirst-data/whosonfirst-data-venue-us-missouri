@@ -2,6 +2,10 @@
   "id": 790054871,
   "type": "Feature",
   "properties": {
+    "addr:full":"203 E 30 St Kansas City MO 64108",
+    "addr:housenumber":"203;30",
+    "addr:postcode":"64108",
+    "addr:street":"E;St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":790054871,
-    "wof:lastmodified":1466623673,
+    "wof:lastmodified":1472630281,
     "wof:name":"Event News Network",
     "wof:parent_id":85871991,
     "wof:placetype":"venue",

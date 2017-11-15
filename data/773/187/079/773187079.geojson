@@ -2,14 +2,20 @@
   "id": 773187079,
   "type": "Feature",
   "properties": {
+    "addr:full":"8904 Lackland Rd Overland MO 63114",
+    "addr:housenumber":"8904",
+    "addr:postcode":"63114",
+    "addr:street":"Lackland Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.354766,38.699326,-90.354766,38.699326",
     "geom:latitude":38.699326,
     "geom:longitude":-90.354766,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"8904 Lackland Rd",
     "sg:city":"Overland",
     "sg:classifiers":[
@@ -39,13 +45,14 @@
         102086173,
         85688661
     ],
+    "wof:brand_id":1125158395,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4QxWOf37jx4EzITjSOlW61_38.699326_-90.354766@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462583819,
-    "wof:geomhash":"76fd0d12a929832c1b56df73ad6e2d0e",
+    "wof:geomhash":"28d95fb85429e0fdffdbaa3a3bae8de1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,7 +66,7 @@
         }
     ],
     "wof:id":773187079,
-    "wof:lastmodified":1466624830,
+    "wof:lastmodified":1510694744,
     "wof:name":"Showtime Video",
     "wof:parent_id":85847351,
     "wof:placetype":"venue",

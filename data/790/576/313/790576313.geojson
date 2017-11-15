@@ -2,14 +2,20 @@
   "id": 790576313,
   "type": "Feature",
   "properties": {
+    "addr:full":"2062 E Kearney St Springfield MO 65803",
+    "addr:housenumber":"2062",
+    "addr:postcode":"65803",
+    "addr:street":"E Kearney St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.252658,37.239709,-93.252658,37.239709",
     "geom:latitude":37.239709,
     "geom:longitude":-93.252658,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2062 E Kearney St",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087523,
         85881137
     ],
+    "wof:brand_id":1125153569,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0ziusTydqhX8JgceH36JO5_37.239709_-93.252658@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462597010,
-    "wof:geomhash":"d426447dcc9703c9955e8a10e243f091",
+    "wof:geomhash":"a523c81ba2f69f4f74c2ec2d15cc7e16",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":790576313,
-    "wof:lastmodified":1466633847,
+    "wof:lastmodified":1510693206,
     "wof:name":"U S Bank National Association",
     "wof:parent_id":85881137,
     "wof:placetype":"venue",

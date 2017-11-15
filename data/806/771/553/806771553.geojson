@@ -2,6 +2,10 @@
   "id": 806771553,
   "type": "Feature",
   "properties": {
+    "addr:full":"8501 E 91 St Kansas City MO 64138",
+    "addr:housenumber":"8501;91",
+    "addr:postcode":"64138",
+    "addr:street":"E;St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":806771553,
-    "wof:lastmodified":1466632165,
+    "wof:lastmodified":1472630592,
     "wof:name":"Celebrity Status Cleaning Svc",
     "wof:parent_id":85871963,
     "wof:placetype":"venue",

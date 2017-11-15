@@ -2,14 +2,20 @@
   "id": 806614809,
   "type": "Feature",
   "properties": {
+    "addr:full":"414 E New Melville Rd Willard MO 65781",
+    "addr:housenumber":"414",
+    "addr:postcode":"65781",
+    "addr:street":"E New Melville Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.423165,37.295666,-93.423165,37.295666",
     "geom:latitude":37.295666,
     "geom:longitude":-93.423165,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"414 E New Melville Rd",
     "sg:city":"Willard",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087523,
         85881139
     ],
+    "wof:brand_id":1125151081,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2HjkbYiXJdk7Vp1qBk0HlZ_37.295666_-93.423165@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462599604,
-    "wof:geomhash":"8bd8e5ce27dbf87683418b0a3ac3831f",
+    "wof:geomhash":"bd8edfd3576275d4a329abd6b4cab633",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":806614809,
-    "wof:lastmodified":1466628627,
+    "wof:lastmodified":1510695432,
     "wof:name":"New Life Baptist Church",
     "wof:parent_id":85881139,
     "wof:placetype":"venue",

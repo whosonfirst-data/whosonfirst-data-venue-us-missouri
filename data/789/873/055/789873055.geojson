@@ -2,14 +2,20 @@
   "id": 789873055,
   "type": "Feature",
   "properties": {
+    "addr:full":"160 Walnut St Weston MO 64098",
+    "addr:housenumber":"160",
+    "addr:postcode":"64098",
+    "addr:street":"Walnut St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.894785,39.411559,-94.894785,39.411559",
     "geom:latitude":39.411559,
     "geom:longitude":-94.894785,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"160 Walnut St",
     "sg:city":"Weston",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102085271,
         85823759
     ],
+    "wof:brand_id":1125151215,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0IncnZhPsORApZYYB4gywb_39.411559_-94.894785@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462591210,
-    "wof:geomhash":"d6ee6a05a74d1e09805afe5046ae3ebd",
+    "wof:geomhash":"7bef489a8b2dae1200da729080623e67",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":789873055,
-    "wof:lastmodified":1466629052,
+    "wof:lastmodified":1510697568,
     "wof:name":"First Baptist Church Inc",
     "wof:parent_id":85823759,
     "wof:placetype":"venue",

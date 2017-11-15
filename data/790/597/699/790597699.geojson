@@ -2,14 +2,20 @@
   "id": 790597699,
   "type": "Feature",
   "properties": {
+    "addr:full":"1162 E Independence Ave Independence MO 64050",
+    "addr:housenumber":"1162",
+    "addr:postcode":"64050",
+    "addr:street":"E Independence Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.401591,39.102485,-94.401591,39.102485",
     "geom:latitude":39.102485,
     "geom:longitude":-94.401591,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1162 E Independence Ave",
     "sg:city":"Independence",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102081227,
         85688661
     ],
+    "wof:brand_id":420575601,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_77EZVml1T9E6GTRFawYJrg_39.102485_-94.401591@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462597192,
-    "wof:geomhash":"d4a249e550120bf639272bf811d8dbf4",
+    "wof:geomhash":"e3d7659995c097024f982d70ea7662e0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":790597699,
-    "wof:lastmodified":1466634004,
+    "wof:lastmodified":1510602935,
     "wof:name":"Aeropostale Inc",
     "wof:parent_id":85833097,
     "wof:placetype":"venue",

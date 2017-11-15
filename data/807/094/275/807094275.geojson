@@ -2,14 +2,20 @@
   "id": 807094275,
   "type": "Feature",
   "properties": {
+    "addr:full":"2445 N Kansas Expy Springfield MO 65803",
+    "addr:housenumber":"2445",
+    "addr:postcode":"65803",
+    "addr:street":"N;Expy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.311094,37.241926,-93.311094,37.241926",
     "geom:latitude":37.241926,
     "geom:longitude":-93.311094,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2445 N Kansas Expy",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087523,
         85881139
     ],
+    "wof:brand_id":1125150283,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0XmKIYs85gc6kyMfoAFZ16_37.241926_-93.311094@1299784598"
     },
     "wof:country":"US",
     "wof:created":1462603656,
-    "wof:geomhash":"8e3285b8e35c09e82a314320be71683d",
+    "wof:geomhash":"59aaf393db03eafe812460478d9ec216",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":807094275,
-    "wof:lastmodified":1466624599,
+    "wof:lastmodified":1510695362,
     "wof:name":"Mcalister's Deli",
     "wof:parent_id":85881139,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 806509123,
   "type": "Feature",
   "properties": {
+    "addr:full":"117 Twin City Dr Festus MO 63028",
+    "addr:housenumber":"117",
+    "addr:postcode":"63028",
+    "addr:street":"Twin City Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.408134,38.217913,-90.408134,38.217913",
     "geom:latitude":38.217913,
     "geom:longitude":-90.408134,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"117 Twin City Dr",
     "sg:city":"Festus",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         85848677,
         102080787
     ],
+    "wof:brand_id":1125156437,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7lK8f7RztHaaCK5NpbNYEy_38.217913_-90.408134@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462598706,
-    "wof:geomhash":"9f1c02af1ab2b4abf1b8ad8122ea9e6a",
+    "wof:geomhash":"14d01525770baba6da7e8d3abedd1b57",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":806509123,
-    "wof:lastmodified":1466625785,
+    "wof:lastmodified":1510696865,
     "wof:name":"Navy Recruiting Station",
     "wof:parent_id":85848677,
     "wof:placetype":"venue",

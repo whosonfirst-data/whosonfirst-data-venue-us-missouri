@@ -2,14 +2,20 @@
   "id": 790526813,
   "type": "Feature",
   "properties": {
+    "addr:full":"1 Liberty Bell Cir Liberty MO 64068",
+    "addr:housenumber":"1",
+    "addr:postcode":"64068",
+    "addr:street":"Liberty Bell Cir",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.441743,39.245429,-94.441743,39.245429",
     "geom:latitude":39.245429,
     "geom:longitude":-94.441743,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1 Liberty Bell Cir",
     "sg:city":"Liberty",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         85688661,
         420525367
     ],
+    "wof:brand_id":1125156543,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_29PIStAnJ6K3qVNpOJWTI2_39.245429_-94.441743@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462596596,
-    "wof:geomhash":"a5b4e8eb0d6ac7710f0385b0810b5647",
+    "wof:geomhash":"c6e8e4bc00555a327bb8571062940802",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,7 +75,7 @@
         }
     ],
     "wof:id":790526813,
-    "wof:lastmodified":1466633030,
+    "wof:lastmodified":1510700004,
     "wof:name":"Commerce Bank N A",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

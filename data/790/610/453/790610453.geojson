@@ -2,14 +2,20 @@
   "id": 790610453,
   "type": "Feature",
   "properties": {
+    "addr:full":"12836 Tesson Ferry Rd Saint Louis MO 63128",
+    "addr:housenumber":"12836",
+    "addr:postcode":"63128",
+    "addr:street":"Tesson Ferry Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.381145,38.497574,-90.381145,38.497574",
     "geom:latitude":38.497574,
     "geom:longitude":-90.381145,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"12836 Tesson Ferry Rd",
     "sg:city":"Saint Louis",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102080787,
         85832925
     ],
+    "wof:brand_id":1125153317,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2wNWkgGeQFh8LJSMUNgnNO_38.497574_-90.381145@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462597308,
-    "wof:geomhash":"c63d9828a4e14afe27f78bc395f834ca",
+    "wof:geomhash":"725573b5ae5ec65f69ddfe78546d72f9",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":790610453,
-    "wof:lastmodified":1466634464,
+    "wof:lastmodified":1510699509,
     "wof:name":"La Petite Academy Inc",
     "wof:parent_id":85832925,
     "wof:placetype":"venue",

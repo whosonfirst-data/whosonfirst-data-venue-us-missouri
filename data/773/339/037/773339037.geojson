@@ -2,6 +2,10 @@
   "id": 773339037,
   "type": "Feature",
   "properties": {
+    "addr:full":"200 NE 72 St Kansas City MO 64118",
+    "addr:housenumber":"200;72",
+    "addr:postcode":"64118",
+    "addr:street":"Ne;St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":773339037,
-    "wof:lastmodified":1466627973,
+    "wof:lastmodified":1472630952,
     "wof:name":"Home Style Laundromat",
     "wof:parent_id":85830711,
     "wof:placetype":"venue",

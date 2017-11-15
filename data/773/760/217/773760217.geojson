@@ -2,14 +2,20 @@
   "id": 773760217,
   "type": "Feature",
   "properties": {
+    "addr:full":"1157 Maple St Farmington MO 63640",
+    "addr:housenumber":"1157",
+    "addr:postcode":"63640",
+    "addr:street":"Maple St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.435968,37.786944,-90.435968,37.786944",
     "geom:latitude":37.786944,
     "geom:longitude":-90.435968,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1157 Maple St",
     "sg:city":"Farmington",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102085297,
         85816309
     ],
+    "wof:brand_id":420573773,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2jk28cdpix8hYcW4ww4QuO_37.786944_-90.435968@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462588172,
-    "wof:geomhash":"f8efa4bb4b42803a7b5b487ff5829c52",
+    "wof:geomhash":"ee63f884fff6e8fcd1d74d08a5138453",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":773760217,
-    "wof:lastmodified":1466634976,
+    "wof:lastmodified":1510603021,
     "wof:name":"Radio Shack",
     "wof:parent_id":85816309,
     "wof:placetype":"venue",

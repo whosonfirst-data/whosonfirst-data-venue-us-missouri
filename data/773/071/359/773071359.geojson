@@ -2,14 +2,20 @@
   "id": 773071359,
   "type": "Feature",
   "properties": {
+    "addr:full":"10232 Wornall Rd Kansas City MO 64114",
+    "addr:housenumber":"10232",
+    "addr:postcode":"64114",
+    "addr:street":"Wornall Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.596618,38.94322,-94.596618,38.94322",
     "geom:latitude":38.94322,
     "geom:longitude":-94.596618,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"10232 Wornall Rd",
     "sg:city":"Kansas City",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102081227,
         85688661
     ],
+    "wof:brand_id":1125150809,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3JeI8sMB8Tw398GKP11KmK_38.943220_-94.596618@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462582945,
-    "wof:geomhash":"f02da163ed68134e973f0cfdfca39cb8",
+    "wof:geomhash":"263ed47f896049e1e9ff8b2a71043219",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":773071359,
-    "wof:lastmodified":1466622428,
+    "wof:lastmodified":1510697337,
     "wof:name":"Quiktrip",
     "wof:parent_id":85813397,
     "wof:placetype":"venue",

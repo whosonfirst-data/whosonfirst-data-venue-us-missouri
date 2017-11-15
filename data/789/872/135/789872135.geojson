@@ -2,9 +2,14 @@
   "id": 789872135,
   "type": "Feature",
   "properties": {
+    "addr:full":"4320 Fairfax Ct E St Louis MO 63113",
+    "addr:housenumber":"4320",
+    "addr:postcode":"63113",
+    "addr:street":"Fairfax Ct E",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.246056,38.650307,-90.246056,38.650307",
     "geom:latitude":38.650307,
     "geom:longitude":-90.246056,
@@ -32,13 +37,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        420525485,
+        85867991,
         102191575,
         404518053,
         85633793,
         85971343,
         102080791,
-        85688661
+        85688661,
+        420525485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,15 +60,25 @@
             "county_id":102080791,
             "localadmin_id":404518053,
             "locality_id":85971343,
+            "neighbourhood_id":85867991,
+            "region_id":85688661,
+            "venue_id":789872135
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080791,
+            "localadmin_id":404518053,
+            "locality_id":85971343,
             "neighbourhood_id":420525485,
             "region_id":85688661,
             "venue_id":789872135
         }
     ],
     "wof:id":789872135,
-    "wof:lastmodified":1466629054,
+    "wof:lastmodified":1491925232,
     "wof:name":"Quinn & Sons Home Improvement",
-    "wof:parent_id":420525485,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],

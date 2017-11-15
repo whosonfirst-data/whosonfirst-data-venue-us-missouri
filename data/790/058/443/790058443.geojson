@@ -2,14 +2,20 @@
   "id": 790058443,
   "type": "Feature",
   "properties": {
+    "addr:full":"11301 W 23rd St S Independence MO 64052",
+    "addr:housenumber":"11301",
+    "addr:postcode":"64052",
+    "addr:street":"W 23Rd St S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.443406,39.080241,-94.443406,39.080241",
     "geom:latitude":39.080241,
     "geom:longitude":-94.443406,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"11301 W 23rd St S",
     "sg:city":"Independence",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102081227,
         85688661
     ],
+    "wof:brand_id":420575353,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0Udpkarkxy2lQmMO5C7PHq_39.080241_-94.443406@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462592806,
-    "wof:geomhash":"902d054c38802a452df606d63e907575",
+    "wof:geomhash":"d089a0c09fb66309119629b2fb09a938",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":790058443,
-    "wof:lastmodified":1466623760,
+    "wof:lastmodified":1510601965,
     "wof:name":"Precision Tune Auto Care",
     "wof:parent_id":85818127,
     "wof:placetype":"venue",

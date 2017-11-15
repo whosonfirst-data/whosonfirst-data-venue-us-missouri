@@ -2,6 +2,10 @@
   "id": 806596069,
   "type": "Feature",
   "properties": {
+    "addr:full":"10337 N Farm Rd 167 Fair Grove MO 65648",
+    "addr:housenumber":"10337;167",
+    "addr:postcode":"65648",
+    "addr:street":"N Farm Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":806596069,
-    "wof:lastmodified":1466627793,
+    "wof:lastmodified":1472630419,
     "wof:name":"Hill Top Machine Shop",
     "wof:parent_id":85881137,
     "wof:placetype":"venue",

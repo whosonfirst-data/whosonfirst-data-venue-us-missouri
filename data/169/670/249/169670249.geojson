@@ -2,9 +2,14 @@
   "id": 169670249,
   "type": "Feature",
   "properties": {
+    "addr:full":"2010 Main St Kansas City KS 64108",
+    "addr:housenumber":"2010",
+    "addr:postcode":"64108",
+    "addr:street":"Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.583943,39.087349,-94.583943,39.087349",
     "geom:latitude":39.087349,
     "geom:longitude":-94.583943,
@@ -25,11 +30,13 @@
     "sg:province":"KS",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688661,
+        85867023,
+        102191575,
+        404518075,
         85633793,
         85970739,
         102081227,
-        85867023
+        85688661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,9 +46,10 @@
     "wof:geomhash":"6b1ab7ea69195fdd0933d506c7166c1b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081227,
+            "localadmin_id":404518075,
             "locality_id":85970739,
             "neighbourhood_id":85867023,
             "region_id":85688661,
@@ -49,7 +57,7 @@
         }
     ],
     "wof:id":169670249,
-    "wof:lastmodified":1466622398,
+    "wof:lastmodified":1491913912,
     "wof:name":"Office Express",
     "wof:parent_id":85867023,
     "wof:placetype":"venue",

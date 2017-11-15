@@ -2,6 +2,10 @@
   "id": 789676115,
   "type": "Feature",
   "properties": {
+    "addr:full":"421 E 55 St Kansas City MO 64110",
+    "addr:housenumber":"421;55",
+    "addr:postcode":"64110",
+    "addr:street":"E;St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":789676115,
-    "wof:lastmodified":1466624491,
+    "wof:lastmodified":1472630300,
     "wof:name":"Discovery Marketing Company",
     "wof:parent_id":85872031,
     "wof:placetype":"venue",

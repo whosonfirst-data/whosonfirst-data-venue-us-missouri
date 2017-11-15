@@ -2,14 +2,20 @@
   "id": 773272379,
   "type": "Feature",
   "properties": {
+    "addr:full":"2520 Burlington St Kansas City MO 64116",
+    "addr:housenumber":"2520",
+    "addr:postcode":"64116",
+    "addr:street":"Burlington St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.580505,39.145821,-94.580505,39.145821",
     "geom:latitude":39.145821,
     "geom:longitude":-94.580505,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2520 Burlington St",
     "sg:city":"Kansas City",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102081227,
         85688661
     ],
+    "wof:brand_id":1125156543,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4YLiV3dW9VezkkrSDvFQ0A_39.145821_-94.580505@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462584459,
-    "wof:geomhash":"0703a1d90fbecd3aee1ff0cd87ae517e",
+    "wof:geomhash":"e6a3a7453611c520012cb73bcab630ed",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":773272379,
-    "wof:lastmodified":1466626612,
+    "wof:lastmodified":1510700004,
     "wof:name":"Commerce Bank N A",
     "wof:parent_id":85867025,
     "wof:placetype":"venue",

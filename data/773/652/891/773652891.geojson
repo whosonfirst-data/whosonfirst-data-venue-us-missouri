@@ -2,14 +2,20 @@
   "id": 773652891,
   "type": "Feature",
   "properties": {
+    "addr:full":"39 Chesterfield Mall Chesterfield MO 63017",
+    "addr:housenumber":"39",
+    "addr:postcode":"63017",
+    "addr:street":"Mall",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.566878,38.654408,-90.566878,38.654408",
     "geom:latitude":38.654408,
     "geom:longitude":-90.566878,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"39 Chesterfield Mall",
     "sg:city":"Chesterfield",
     "sg:classifiers":[
@@ -39,13 +45,14 @@
         102086173,
         85688661
     ],
+    "wof:brand_id":1125153211,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6iX85j0pfryqgX9vdaDtSb_38.654408_-90.566878@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462587346,
-    "wof:geomhash":"cd4659b3d1965528a07c58b5f7473144",
+    "wof:geomhash":"44a61f6051d4076a61e5976dafe0074f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,7 +66,7 @@
         }
     ],
     "wof:id":773652891,
-    "wof:lastmodified":1466633777,
+    "wof:lastmodified":1510693771,
     "wof:name":"Deck The Walls",
     "wof:parent_id":85805465,
     "wof:placetype":"venue",

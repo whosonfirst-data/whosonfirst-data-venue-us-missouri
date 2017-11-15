@@ -2,9 +2,14 @@
   "id": 773384605,
   "type": "Feature",
   "properties": {
+    "addr:full":"4101 Troost Ave Kansas City MO 64110",
+    "addr:housenumber":"4101",
+    "addr:postcode":"64110",
+    "addr:street":"Troost Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.57243,39.050708,-94.57243,39.050708",
     "geom:latitude":39.050708,
     "geom:longitude":-94.57243,
@@ -28,13 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871987,
+        85872023,
         102191575,
         404518075,
         85633793,
         85970739,
         102081227,
-        85688661
+        85688661,
+        85871987
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,15 +56,25 @@
             "county_id":102081227,
             "localadmin_id":404518075,
             "locality_id":85970739,
+            "neighbourhood_id":85872023,
+            "region_id":85688661,
+            "venue_id":773384605
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081227,
+            "localadmin_id":404518075,
+            "locality_id":85970739,
             "neighbourhood_id":85871987,
             "region_id":85688661,
             "venue_id":773384605
         }
     ],
     "wof:id":773384605,
-    "wof:lastmodified":1466629013,
+    "wof:lastmodified":1491889843,
     "wof:name":"Freaks",
-    "wof:parent_id":85871987,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],

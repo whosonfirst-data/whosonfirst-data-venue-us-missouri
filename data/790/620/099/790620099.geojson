@@ -2,14 +2,20 @@
   "id": 790620099,
   "type": "Feature",
   "properties": {
+    "addr:full":"630 S Truman Blvd Festus MO 63028",
+    "addr:housenumber":"630",
+    "addr:postcode":"63028",
+    "addr:street":"S Truman Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.390708,38.212931,-90.390708,38.212931",
     "geom:latitude":38.212931,
     "geom:longitude":-90.390708,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"630 S Truman Blvd",
     "sg:city":"Festus",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102080787,
         85688661
     ],
+    "wof:brand_id":420575263,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7j1FD7JRSiRiAdq6EKN9Sy_38.212931_-90.390708@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462597414,
-    "wof:geomhash":"4d6e9d2377873f5015d8c0bcd30e2609",
+    "wof:geomhash":"6ca8d7c2e692a8f12eed2a77287dd4d1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":790620099,
-    "wof:lastmodified":1466634355,
+    "wof:lastmodified":1510602610,
     "wof:name":"Murphy Oil USA Inc",
     "wof:parent_id":420525375,
     "wof:placetype":"venue",

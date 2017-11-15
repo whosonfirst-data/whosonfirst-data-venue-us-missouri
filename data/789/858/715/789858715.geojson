@@ -2,6 +2,10 @@
   "id": 789858715,
   "type": "Feature",
   "properties": {
+    "addr:full":"121 N Quincy Ave Kansas City MO 64123",
+    "addr:housenumber":"121",
+    "addr:postcode":"64123",
+    "addr:street":"N Quincy Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":789858715,
-    "wof:lastmodified":1466628677,
+    "wof:lastmodified":1472630675,
     "wof:name":"Holy Cross Catholic School",
     "wof:parent_id":85871999,
     "wof:placetype":"venue",

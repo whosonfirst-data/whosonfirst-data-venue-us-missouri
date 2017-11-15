@@ -2,14 +2,20 @@
   "id": 790339845,
   "type": "Feature",
   "properties": {
+    "addr:full":"328 State Hwy 291 Liberty MO 64068",
+    "addr:housenumber":"328",
+    "addr:postcode":"64068",
+    "addr:street":"State Hwy 291",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.44134,39.242409,-94.44134,39.242409",
     "geom:latitude":39.242409,
     "geom:longitude":-94.44134,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"328 State Hwy 291",
     "sg:city":"Liberty",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         85688661,
         420525367
     ],
+    "wof:brand_id":1125154223,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6IXKUR9NDOBjUN9xKIu2OO_39.242409_-94.441340@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462595058,
-    "wof:geomhash":"d3499ca6fa7e3a71a9b8280790be1140",
+    "wof:geomhash":"8cb4e7cecb26b6ed6df85e0c3f72f382",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -64,7 +71,7 @@
         }
     ],
     "wof:id":790339845,
-    "wof:lastmodified":1466629591,
+    "wof:lastmodified":1510693991,
     "wof:name":"Jim's Barber Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

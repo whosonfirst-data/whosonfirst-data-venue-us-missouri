@@ -2,14 +2,20 @@
   "id": 789787517,
   "type": "Feature",
   "properties": {
+    "addr:full":"1724 NE Parvin Rd Kansas City MO 64116",
+    "addr:housenumber":"1724",
+    "addr:postcode":"64116",
+    "addr:street":"Ne Parvin Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.561974,39.167414,-94.561974,39.167414",
     "geom:latitude":39.167414,
     "geom:longitude":-94.561974,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1724 NE Parvin Rd",
     "sg:city":"Kansas City",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102081227,
         85688661
     ],
+    "wof:brand_id":1125154549,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1QpZMGGl46hMKg19A0Nu1X_39.167414_-94.561974@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462590545,
-    "wof:geomhash":"0fd3031401ed897227ba260f510e421f",
+    "wof:geomhash":"64fc68b951e13c12bc67e3c9a124f415",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":789787517,
-    "wof:lastmodified":1466626994,
+    "wof:lastmodified":1510699047,
     "wof:name":"OReilly Auto Parts",
     "wof:parent_id":85867025,
     "wof:placetype":"venue",

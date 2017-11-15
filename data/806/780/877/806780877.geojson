@@ -2,14 +2,20 @@
   "id": 806780877,
   "type": "Feature",
   "properties": {
+    "addr:full":"491 N Main St De Soto MO 63020",
+    "addr:housenumber":"491",
+    "addr:postcode":"63020",
+    "addr:street":"N Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.552324,38.14259,-90.552324,38.14259",
     "geom:latitude":38.14259,
     "geom:longitude":-90.552324,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"491 N Main St",
     "sg:city":"De Soto",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         85848677,
         102080787
     ],
+    "wof:brand_id":1125151059,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6UUpiO0kyNOe45oYY8oYcz_38.142590_-90.552324@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462601022,
-    "wof:geomhash":"ec5f98b45fe96bc6b3207a1170e30ae5",
+    "wof:geomhash":"9f03317a558520dc4299c6bbeacc0980",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":806780877,
-    "wof:lastmodified":1466632269,
+    "wof:lastmodified":1510613137,
     "wof:name":"Union Pacific Railroad Company",
     "wof:parent_id":85848677,
     "wof:placetype":"venue",

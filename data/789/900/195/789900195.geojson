@@ -2,6 +2,10 @@
   "id": 789900195,
   "type": "Feature",
   "properties": {
+    "addr:full":"24030 Pike 265 Clarksville MO 63336",
+    "addr:housenumber":"24030;265",
+    "addr:postcode":"63336",
+    "addr:street":"Pike",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":789900195,
-    "wof:lastmodified":1466629483,
+    "wof:lastmodified":1472630739,
     "wof:name":"Charles Palmer",
     "wof:parent_id":85817909,
     "wof:placetype":"venue",

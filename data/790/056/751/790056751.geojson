@@ -2,14 +2,20 @@
   "id": 790056751,
   "type": "Feature",
   "properties": {
+    "addr:full":"110 James St Smithville MO 64089",
+    "addr:housenumber":"110",
+    "addr:postcode":"64089",
+    "addr:street":"James St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.586373,39.373365,-94.586373,39.373365",
     "geom:latitude":39.373365,
     "geom:longitude":-94.586373,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"110 James St",
     "sg:city":"Smithville",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102086177,
         85836329
     ],
+    "wof:brand_id":1125158911,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7XbUuRCa37tJMWX2G74dGn_39.373365_-94.586373@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462592792,
-    "wof:geomhash":"e2f3af3481bbc8c0d93c2d8635640f25",
+    "wof:geomhash":"23cd3501f6e399c697a52fa82371d4f6",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":790056751,
-    "wof:lastmodified":1466623515,
+    "wof:lastmodified":1510693914,
     "wof:name":"Air Products & Chemicals Inc",
     "wof:parent_id":85836329,
     "wof:placetype":"venue",

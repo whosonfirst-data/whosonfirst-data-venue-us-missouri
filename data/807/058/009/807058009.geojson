@@ -2,14 +2,20 @@
   "id": 807058009,
   "type": "Feature",
   "properties": {
+    "addr:full":"17276 Chesterfield Airport Rd Chesterfield MO 63005",
+    "addr:housenumber":"17276",
+    "addr:postcode":"63005",
+    "addr:street":"Chesterfield Airport Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.598585,38.667845,-90.598585,38.667845",
     "geom:latitude":38.667845,
     "geom:longitude":-90.598585,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"17276 Chesterfield Airport Rd",
     "sg:city":"Chesterfield",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102086173,
         85688661
     ],
+    "wof:brand_id":1125150161,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3pWIv1cKxvoM8gRU5LJQ1E_38.667845_-90.598585@1299784598"
     },
     "wof:country":"US",
     "wof:created":1462603355,
-    "wof:geomhash":"de5292d676ef369b5dd4b4e05ae3a737",
+    "wof:geomhash":"e2ad155cbf54f12242a153941fa9ab51",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":807058009,
-    "wof:lastmodified":1466623936,
+    "wof:lastmodified":1510694750,
     "wof:name":"O'Charley's",
     "wof:parent_id":85805465,
     "wof:placetype":"venue",

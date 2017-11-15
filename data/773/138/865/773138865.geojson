@@ -2,14 +2,20 @@
   "id": 773138865,
   "type": "Feature",
   "properties": {
+    "addr:full":"2325 E Olive Ct Springfield MO 65802",
+    "addr:housenumber":"2325",
+    "addr:postcode":"65802",
+    "addr:street":"E Olive Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.25268,37.2095,-93.25268,37.2095",
     "geom:latitude":37.2095,
     "geom:longitude":-93.25268,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2325 E Olive Ct",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087523,
         85881137
     ],
+    "wof:brand_id":1125154407,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1sz0J3gysg8U05LYiRKHf8_37.209500_-93.252680@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462583428,
-    "wof:geomhash":"48310b407b807d241e09fac3cbcbb78e",
+    "wof:geomhash":"74068c0b5aa347dd902b1bb289bd65b3",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":773138865,
-    "wof:lastmodified":1466623937,
+    "wof:lastmodified":1510697803,
     "wof:name":"Centerplate",
     "wof:parent_id":85881137,
     "wof:placetype":"venue",

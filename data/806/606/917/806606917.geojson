@@ -2,14 +2,20 @@
   "id": 806606917,
   "type": "Feature",
   "properties": {
+    "addr:full":"4404 Woodson Rd St Louis MO 63134",
+    "addr:housenumber":"4404",
+    "addr:postcode":"63134",
+    "addr:street":"Woodson Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.357251,38.731327,-90.357251,38.731327",
     "geom:latitude":38.731327,
     "geom:longitude":-90.357251,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4404 Woodson Rd",
     "sg:city":"St Louis",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102086173,
         85688661
     ],
+    "wof:brand_id":420575017,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4FR8v9Zj1XW9E3n1rlWvbM_38.731327_-90.357251@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462599543,
-    "wof:geomhash":"662687fda03cdb0c3c1b221c3bc339f0",
+    "wof:geomhash":"814efe591bf57a611e97c6bafd149e07",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":806606917,
-    "wof:lastmodified":1466628059,
+    "wof:lastmodified":1510602387,
     "wof:name":"Hardee's",
     "wof:parent_id":85847351,
     "wof:placetype":"venue",

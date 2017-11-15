@@ -2,14 +2,20 @@
   "id": 789749531,
   "type": "Feature",
   "properties": {
+    "addr:full":"3610 E Kearney St Springfield MO 65803",
+    "addr:housenumber":"3610",
+    "addr:postcode":"65803",
+    "addr:street":"E Kearney St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.220053,37.238787,-93.220053,37.238787",
     "geom:latitude":37.238787,
     "geom:longitude":-93.220053,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3610 E Kearney St",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087523,
         85881137
     ],
+    "wof:brand_id":1125150607,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_76wqnV5z8f3JnBZug3sH2A_37.238787_-93.220053@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462590250,
-    "wof:geomhash":"d58b655c561aa0bcc69075225c925016",
+    "wof:geomhash":"859c454f0858bc36d5da0c70b4fd7fc8",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":789749531,
-    "wof:lastmodified":1466626188,
+    "wof:lastmodified":1510697768,
     "wof:name":"Kraft Foods",
     "wof:parent_id":85881137,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 806748961,
   "type": "Feature",
   "properties": {
+    "addr:full":"801 State Hwy 291 Lees Summit MO 64063",
+    "addr:housenumber":"801",
+    "addr:postcode":"64063",
+    "addr:street":"State Hwy 291",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.36259,38.909265,-94.36259,38.909265",
     "geom:latitude":38.909265,
     "geom:longitude":-94.36259,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"801 State Hwy 291",
     "sg:city":"Lees Summit",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102081227,
         85688661
     ],
+    "wof:brand_id":1125150809,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4g0Uz0toIe9ds42jceEK6I_38.909265_-94.362590@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462600754,
-    "wof:geomhash":"aba939e2d01f70716549fecd7cd8ecb9",
+    "wof:geomhash":"2e45eed6b0cb61aeb9f6a4458ef73438",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":806748961,
-    "wof:lastmodified":1466631813,
+    "wof:lastmodified":1510697337,
     "wof:name":"Quiktrip",
     "wof:parent_id":85849825,
     "wof:placetype":"venue",

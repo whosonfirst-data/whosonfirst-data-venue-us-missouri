@@ -2,14 +2,20 @@
   "id": 773760461,
   "type": "Feature",
   "properties": {
+    "addr:full":"940 W Santa Fe Trl Kansas City MO 64145",
+    "addr:housenumber":"940",
+    "addr:postcode":"64145",
+    "addr:street":"W Santa Fe Trl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.605187,38.906636,-94.605187,38.906636",
     "geom:latitude":38.906636,
     "geom:longitude":-94.605187,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"940 W Santa Fe Trl",
     "sg:city":"Kansas City",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102081227,
         85688661
     ],
+    "wof:brand_id":1125158721,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_20VYZR5kTOkeLbzL4rn0CE_38.906636_-94.605187@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462588174,
-    "wof:geomhash":"0e37022f5456e9aad20fb3e48afa2574",
+    "wof:geomhash":"eb1600f499fd818c5c4688595d1eaa7c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":773760461,
-    "wof:lastmodified":1466634989,
+    "wof:lastmodified":1510695832,
     "wof:name":"Christ Presbyterian Church",
     "wof:parent_id":85871939,
     "wof:placetype":"venue",

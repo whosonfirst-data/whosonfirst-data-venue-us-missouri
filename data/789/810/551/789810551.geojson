@@ -2,6 +2,10 @@
   "id": 789810551,
   "type": "Feature",
   "properties": {
+    "addr:full":"600 W Main St Jefferson City MO 65101",
+    "addr:housenumber":"600",
+    "addr:postcode":"65101",
+    "addr:street":"W Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":789810551,
-    "wof:lastmodified":1466627517,
+    "wof:lastmodified":1472630589,
     "wof:name":"Corporation Div Secy Of State",
     "wof:parent_id":85837745,
     "wof:placetype":"venue",

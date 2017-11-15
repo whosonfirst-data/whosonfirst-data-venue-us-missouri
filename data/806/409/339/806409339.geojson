@@ -2,14 +2,20 @@
   "id": 806409339,
   "type": "Feature",
   "properties": {
+    "addr:full":"5180 Parker Rd Florissant MO 63033",
+    "addr:housenumber":"5180",
+    "addr:postcode":"63033",
+    "addr:street":"Parker Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.261781,38.793354,-90.261781,38.793354",
     "geom:latitude":38.793354,
     "geom:longitude":-90.261781,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5180 Parker Rd",
     "sg:city":"Florissant",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102086173,
         85688661
     ],
+    "wof:brand_id":1125158393,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4sxcjAxE87KKr9kWZCcWJQ_38.793354_-90.261781@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462597918,
-    "wof:geomhash":"97286dfd42f0096b390026f677def458",
+    "wof:geomhash":"1566a888e5df18c3ba5a0f6ceb536858",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":806409339,
-    "wof:lastmodified":1466622936,
+    "wof:lastmodified":1510694746,
     "wof:name":"Salem Lutheran Church",
     "wof:parent_id":85813019,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 789779123,
   "type": "Feature",
   "properties": {
+    "addr:full":"14323 S Outer 40 Chesterfield MO 63017",
+    "addr:housenumber":"14323;40",
+    "addr:postcode":"63017",
+    "addr:street":"S Outer",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":789779123,
-    "wof:lastmodified":1466626678,
+    "wof:lastmodified":1472630510,
     "wof:name":"Mary J Duparri",
     "wof:parent_id":85805465,
     "wof:placetype":"venue",

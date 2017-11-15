@@ -2,14 +2,20 @@
   "id": 773359895,
   "type": "Feature",
   "properties": {
+    "addr:full":"720 E Norton Rd Springfield MO 65803",
+    "addr:housenumber":"720",
+    "addr:postcode":"65803",
+    "addr:street":"E Norton Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.282991,37.251495,-93.282991,37.251495",
     "geom:latitude":37.251495,
     "geom:longitude":-93.282991,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"720 E Norton Rd",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087523,
         85881137
     ],
+    "wof:brand_id":420575187,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7HwyZLCOIZZaKvK6TSC3Qd_37.251495_-93.282991@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462585114,
-    "wof:geomhash":"6861bb9f0ba3225cd741aef640f726e4",
+    "wof:geomhash":"bf367f969d5acfd3f3fef6ce8c7dbf2a",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":773359895,
-    "wof:lastmodified":1466628705,
+    "wof:lastmodified":1510602702,
     "wof:name":"First Church Of God",
     "wof:parent_id":85881137,
     "wof:placetype":"venue",

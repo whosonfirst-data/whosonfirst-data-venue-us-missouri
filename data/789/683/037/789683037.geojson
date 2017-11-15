@@ -2,14 +2,20 @@
   "id": 789683037,
   "type": "Feature",
   "properties": {
+    "addr:full":"3884 Vogel Rd Arnold MO 63010",
+    "addr:housenumber":"3884",
+    "addr:postcode":"63010",
+    "addr:street":"Vogel Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.391037,38.416156,-90.391037,38.416156",
     "geom:latitude":38.416156,
     "geom:longitude":-90.391037,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3884 Vogel Rd",
     "sg:city":"Arnold",
     "sg:classifiers":[
@@ -30,13 +36,14 @@
         85805175,
         102080787
     ],
+    "wof:brand_id":420573895,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_61GTYEKWXb4GScapuWiOVB_38.416156_-90.391037@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462589724,
-    "wof:geomhash":"e3c0b9439c5b41e711472edf7c067c04",
+    "wof:geomhash":"8da46da86018cd4095bafccadab3af54",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -47,7 +54,7 @@
         }
     ],
     "wof:id":789683037,
-    "wof:lastmodified":1466624633,
+    "wof:lastmodified":1510603089,
     "wof:name":"Great Clips",
     "wof:parent_id":85805175,
     "wof:placetype":"venue",

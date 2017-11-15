@@ -2,14 +2,20 @@
   "id": 806481541,
   "type": "Feature",
   "properties": {
+    "addr:full":"5901 Independence Ave Kansas City MO 64125",
+    "addr:housenumber":"5901",
+    "addr:postcode":"64125",
+    "addr:street":"Independence Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.511209,39.104926,-94.511209,39.104926",
     "geom:latitude":39.104926,
     "geom:longitude":-94.511209,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5901 Independence Ave",
     "sg:city":"Kansas City",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102081227,
         85688661
     ],
+    "wof:brand_id":420575987,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_11E332UByStJAGgW5uh6lp_39.104926_-94.511209@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462598480,
-    "wof:geomhash":"afd8103fb9e35bf1950b19d0a59da9ca",
+    "wof:geomhash":"7e93a492943a8c434b967aec2524ec24",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":806481541,
-    "wof:lastmodified":1466625122,
+    "wof:lastmodified":1510602836,
     "wof:name":"Osco Drug",
     "wof:parent_id":85871995,
     "wof:placetype":"venue",

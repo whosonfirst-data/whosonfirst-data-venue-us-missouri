@@ -2,14 +2,20 @@
   "id": 806461069,
   "type": "Feature",
   "properties": {
+    "addr:full":"4358 S Noland Rd Independence MO 64055",
+    "addr:housenumber":"4358",
+    "addr:postcode":"64055",
+    "addr:street":"S Noland Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.415435,39.041878,-94.415435,39.041878",
     "geom:latitude":39.041878,
     "geom:longitude":-94.415435,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4358 S Noland Rd",
     "sg:city":"Independence",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102081227,
         85688661
     ],
+    "wof:brand_id":420575915,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_10WZH09xOYTfjvRPfkEftZ_39.041878_-94.415435@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462598319,
-    "wof:geomhash":"60ecca4b1788d6810a9afdbb78580a92",
+    "wof:geomhash":"ca42e267469848b381d15de730486edc",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":806461069,
-    "wof:lastmodified":1466624787,
+    "wof:lastmodified":1510602848,
     "wof:name":"Chicago Title Insurance Co",
     "wof:parent_id":85871965,
     "wof:placetype":"venue",

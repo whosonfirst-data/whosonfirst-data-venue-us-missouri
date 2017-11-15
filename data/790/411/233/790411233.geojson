@@ -2,14 +2,20 @@
   "id": 790411233,
   "type": "Feature",
   "properties": {
+    "addr:full":"1300 Hampton Ave St Louis MO 63139",
+    "addr:housenumber":"1300",
+    "addr:postcode":"63139",
+    "addr:street":"Hampton Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.287686,38.626218,-90.287686,38.626218",
     "geom:latitude":38.626218,
     "geom:longitude":-90.287686,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1300 Hampton Ave",
     "sg:city":"St Louis",
     "sg:classifiers":[
@@ -39,13 +45,14 @@
         102080791,
         85688661
     ],
+    "wof:brand_id":420575201,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2sz3ALqXlPVzvOEea4yhvY_38.626218_-90.287686@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462595621,
-    "wof:geomhash":"3a13f83fa6a56a52b630d13eac91afe0",
+    "wof:geomhash":"605912a6b6a6220c54980d2483ddea48",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,7 +66,7 @@
         }
     ],
     "wof:id":790411233,
-    "wof:lastmodified":1466630946,
+    "wof:lastmodified":1510602698,
     "wof:name":"Consumer Credit Counseling Svc",
     "wof:parent_id":85873705,
     "wof:placetype":"venue",

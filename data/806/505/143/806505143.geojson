@@ -2,6 +2,10 @@
   "id": 806505143,
   "type": "Feature",
   "properties": {
+    "addr:full":"6007 E 97 St Kansas City MO 64134",
+    "addr:housenumber":"6007;97",
+    "addr:postcode":"64134",
+    "addr:street":"E;St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":806505143,
-    "wof:lastmodified":1466625502,
+    "wof:lastmodified":1472630308,
     "wof:name":"Precision Piano Moving",
     "wof:parent_id":85871967,
     "wof:placetype":"venue",

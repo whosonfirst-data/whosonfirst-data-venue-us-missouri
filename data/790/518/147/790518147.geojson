@@ -2,14 +2,20 @@
   "id": 790518147,
   "type": "Feature",
   "properties": {
+    "addr:full":"118 Chesterfield Mall Chesterfield MO 63017",
+    "addr:housenumber":"118",
+    "addr:postcode":"63017",
+    "addr:street":"Chesterfield Mall",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.567601,38.651742,-90.567601,38.651742",
     "geom:latitude":38.651742,
     "geom:longitude":-90.567601,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"118 Chesterfield Mall",
     "sg:city":"Chesterfield",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102086173,
         85688661
     ],
+    "wof:brand_id":1125156757,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2QXQlvhKkgfC5tyQbkEYBN_38.651742_-90.567601@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462596529,
-    "wof:geomhash":"6d15eccd93e7dd17f322e5d21a3403f0",
+    "wof:geomhash":"5aa2ff0905517602998142dd9efe693c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":790518147,
-    "wof:lastmodified":1466632702,
+    "wof:lastmodified":1510694897,
     "wof:name":"Glamour Shots",
     "wof:parent_id":85805465,
     "wof:placetype":"venue",

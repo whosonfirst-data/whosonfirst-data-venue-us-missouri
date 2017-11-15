@@ -2,14 +2,20 @@
   "id": 773588717,
   "type": "Feature",
   "properties": {
+    "addr:full":"1304 E Woodhurst Dr Springfield MO 65804",
+    "addr:housenumber":"1304",
+    "addr:postcode":"65804",
+    "addr:street":"E Woodhurst Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.274273,37.156235,-93.274273,37.156235",
     "geom:latitude":37.156235,
     "geom:longitude":-93.274273,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1304 E Woodhurst Dr",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087523,
         85688661
     ],
+    "wof:brand_id":1125150063,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_42mx0gOeMIYLkuMHXH2s5E_37.156235_-93.274273@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462586862,
-    "wof:geomhash":"9c14acb015483080a77989b7aae5f9ba",
+    "wof:geomhash":"f348c1b36119d8d89050beb14d11b224",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":773588717,
-    "wof:lastmodified":1466632924,
+    "wof:lastmodified":1510695807,
     "wof:name":"Axa Advisors",
     "wof:parent_id":85881149,
     "wof:placetype":"venue",

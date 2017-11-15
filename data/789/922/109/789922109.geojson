@@ -2,6 +2,10 @@
   "id": 789922109,
   "type": "Feature",
   "properties": {
+    "addr:full":"10140 Co Rd 5180 Rolla MO 65401",
+    "addr:housenumber":"10140",
+    "addr:postcode":"65401",
+    "addr:street":"Co Rd 5180",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":789922109,
-    "wof:lastmodified":1466630203,
+    "wof:lastmodified":1472630741,
     "wof:name":"Franks Plumbing & Electric",
     "wof:parent_id":85814531,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 790272237,
   "type": "Feature",
   "properties": {
+    "addr:full":"3500 N Prather Rd Kansas City MO 64116",
+    "addr:housenumber":"3500",
+    "addr:postcode":"64116",
+    "addr:street":"N Prather Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.555464,39.158956,-94.555464,39.158956",
     "geom:latitude":39.158956,
     "geom:longitude":-94.555464,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3500 N Prather Rd",
     "sg:city":"Kansas City",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102081227,
         85688661
     ],
+    "wof:brand_id":1125152339,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_03gWox8ODjJiCXprkD5lYf_39.158956_-94.555464@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462594518,
-    "wof:geomhash":"3aa10fac35777bcbe6d6f4a01efb6269",
+    "wof:geomhash":"6b29946e2a3611cd278093d3d5c562ac",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":790272237,
-    "wof:lastmodified":1466628096,
+    "wof:lastmodified":1510693925,
     "wof:name":"Faith Community Church",
     "wof:parent_id":85867025,
     "wof:placetype":"venue",

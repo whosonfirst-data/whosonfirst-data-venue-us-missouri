@@ -2,14 +2,20 @@
   "id": 806737627,
   "type": "Feature",
   "properties": {
+    "addr:full":"3899 Veterans Memorial Pkwy St Peters MO 63376",
+    "addr:housenumber":"3899",
+    "addr:postcode":"63376",
+    "addr:street":"Veterans Memorial Pkwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.621639,38.797599,-90.621639,38.797599",
     "geom:latitude":38.797599,
     "geom:longitude":-90.621639,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3899 Veterans Memorial Pkwy",
     "sg:city":"St Peters",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102086159,
         85821097
     ],
+    "wof:brand_id":1125157489,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6QSt0nQpS8woT2NBQhjW1B_38.797599_-90.621639@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462600660,
-    "wof:geomhash":"1c757afb9503e8cb24b36b243633d04b",
+    "wof:geomhash":"0e7b9aa4945665b9903aef1b3c7ea550",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":806737627,
-    "wof:lastmodified":1466631582,
+    "wof:lastmodified":1510699716,
     "wof:name":"Roly Poly",
     "wof:parent_id":85821097,
     "wof:placetype":"venue",

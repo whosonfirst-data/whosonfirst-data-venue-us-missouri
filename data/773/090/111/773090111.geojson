@@ -2,14 +2,20 @@
   "id": 773090111,
   "type": "Feature",
   "properties": {
+    "addr:full":"134 Cross Keys Shopping Center Florissant MO 63033",
+    "addr:housenumber":"134",
+    "addr:postcode":"63033",
+    "addr:street":"Cross;Shopping Center",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.298627,38.808343,-90.298627,38.808343",
     "geom:latitude":38.808343,
     "geom:longitude":-90.298627,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"134 Cross Keys Shopping Center",
     "sg:city":"Florissant",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102086173,
         85688661
     ],
+    "wof:brand_id":1125156543,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3x0s1B8XypffXq4jj07Sdy_38.808343_-90.298627@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462583079,
-    "wof:geomhash":"b948dc0ace45fd1cb8ccb97b1226bcb0",
+    "wof:geomhash":"be130f3676d2d420050656c879046ad8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":773090111,
-    "wof:lastmodified":1466622675,
+    "wof:lastmodified":1510700004,
     "wof:name":"Commerce Bank N A",
     "wof:parent_id":85813019,
     "wof:placetype":"venue",

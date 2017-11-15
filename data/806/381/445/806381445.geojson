@@ -2,14 +2,20 @@
   "id": 806381445,
   "type": "Feature",
   "properties": {
+    "addr:full":"5910 NW Prairie View Rd Kansas City MO 64151",
+    "addr:housenumber":"5910",
+    "addr:postcode":"64151",
+    "addr:street":"Nw Prairie View Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.629781,39.201603,-94.629781,39.201603",
     "geom:latitude":39.201603,
     "geom:longitude":-94.629781,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5910 NW Prairie View Rd",
     "sg:city":"Kansas City",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102085271,
         85688661
     ],
+    "wof:brand_id":1125150809,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_75qqxu124ZoSTtOHS6rlr1_39.201603_-94.629781@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462597683,
-    "wof:geomhash":"4cfe2f46fa3b913100f9c54ecd2537ff",
+    "wof:geomhash":"dd1999a9a121d507c7212088e9430125",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":806381445,
-    "wof:lastmodified":1466623013,
+    "wof:lastmodified":1510697337,
     "wof:name":"Quiktrip",
     "wof:parent_id":85840629,
     "wof:placetype":"venue",

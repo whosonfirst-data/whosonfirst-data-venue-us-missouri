@@ -2,14 +2,20 @@
   "id": 807245657,
   "type": "Feature",
   "properties": {
+    "addr:full":"8886 Newt Dr Neosho MO 64850",
+    "addr:housenumber":"8886",
+    "addr:postcode":"64850",
+    "addr:street":"Newt Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.318644,36.941128,-94.318644,36.941128",
     "geom:latitude":36.941128,
     "geom:longitude":-94.318644,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"8886 Newt Dr",
     "sg:city":"Neosho",
     "sg:classifiers":[
@@ -55,13 +61,14 @@
         102087471,
         85688661
     ],
+    "wof:brand_id":420575183,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3w5MecpcJYaDPRRzpJGbLU_36.941128_-94.318644@1303262934"
     },
     "wof:country":"US",
     "wof:created":1462605282,
-    "wof:geomhash":"42242724d47e31c91e9b6024236352db",
+    "wof:geomhash":"377e84b1d6fd1c215bf6b9f2d9298437",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -75,7 +82,7 @@
         }
     ],
     "wof:id":807245657,
-    "wof:lastmodified":1466629204,
+    "wof:lastmodified":1510602863,
     "wof:name":"ServiceMaster Clean",
     "wof:parent_id":85821247,
     "wof:placetype":"venue",

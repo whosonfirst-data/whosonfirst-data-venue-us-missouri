@@ -2,6 +2,10 @@
   "id": 790581211,
   "type": "Feature",
   "properties": {
+    "addr:full":"4843 N Farm Rd 125 Springfield MO 65803",
+    "addr:housenumber":"4843;125",
+    "addr:postcode":"65803",
+    "addr:street":"N Farm Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":790581211,
-    "wof:lastmodified":1466633758,
+    "wof:lastmodified":1472630892,
     "wof:name":"American Arbor Lawn Svc",
     "wof:parent_id":85881139,
     "wof:placetype":"venue",

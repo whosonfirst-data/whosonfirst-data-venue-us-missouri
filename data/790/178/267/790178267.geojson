@@ -2,14 +2,20 @@
   "id": 790178267,
   "type": "Feature",
   "properties": {
+    "addr:full":"10000 Manchester Rd St Louis MO 63122",
+    "addr:housenumber":"10000",
+    "addr:postcode":"63122",
+    "addr:street":"Manchester Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.384607,38.603355,-90.384607,38.603355",
     "geom:latitude":38.603355,
     "geom:longitude":-90.384607,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"10000 Manchester Rd",
     "sg:city":"St Louis",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102086173,
         85688661
     ],
+    "wof:brand_id":1125154835,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2uYd6rEx6pbvK77IMtkNIt_38.603355_-90.384607@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462593759,
-    "wof:geomhash":"7561c4d109486b86cdb333d5b0f932ff",
+    "wof:geomhash":"fc0f87b07d45583e6955ec6659e895e7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":790178267,
-    "wof:lastmodified":1466625958,
+    "wof:lastmodified":1510700016,
     "wof:name":"American Cleaners",
     "wof:parent_id":85858243,
     "wof:placetype":"venue",

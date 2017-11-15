@@ -2,6 +2,10 @@
   "id": 789683811,
   "type": "Feature",
   "properties": {
+    "addr:full":"4321 N Corrington Ave Kansas City MO 64117",
+    "addr:housenumber":"4321",
+    "addr:postcode":"64117",
+    "addr:street":"N Corrington Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":789683811,
-    "wof:lastmodified":1466624511,
+    "wof:lastmodified":1472630339,
     "wof:name":"Super 8 Motel",
     "wof:parent_id":85858321,
     "wof:placetype":"venue",

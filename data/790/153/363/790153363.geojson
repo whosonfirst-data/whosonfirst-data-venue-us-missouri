@@ -2,14 +2,20 @@
   "id": 790153363,
   "type": "Feature",
   "properties": {
+    "addr:full":"2821 W Chestnut Expy Springfield MO 65802",
+    "addr:housenumber":"2821",
+    "addr:postcode":"65802",
+    "addr:street":"W Chestnut Expy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.333045,37.212135,-93.333045,37.212135",
     "geom:latitude":37.212135,
     "geom:longitude":-93.333045,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2821 W Chestnut Expy",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087523,
         85688661
     ],
+    "wof:brand_id":1125150451,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4d1bQBeqa8dHcF46YE3O5y_37.212135_-93.333045@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462593534,
-    "wof:geomhash":"acc35fe1143e8dfdbb03ff0021e23a74",
+    "wof:geomhash":"1e701bd303d14137fcfa246187e501ae",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":790153363,
-    "wof:lastmodified":1466625668,
+    "wof:lastmodified":1510695312,
     "wof:name":"World Finance Corp",
     "wof:parent_id":85881127,
     "wof:placetype":"venue",

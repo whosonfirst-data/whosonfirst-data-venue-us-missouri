@@ -2,14 +2,20 @@
   "id": 807260257,
   "type": "Feature",
   "properties": {
+    "addr:full":"2301 W Worley St Columbia MO 65203",
+    "addr:housenumber":"2301",
+    "addr:postcode":"65203",
+    "addr:street":"W Worley St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.375488,38.961536,-92.375488,38.961536",
     "geom:latitude":38.961536,
     "geom:longitude":-92.375488,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2301 W Worley St",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -86,13 +92,14 @@
         102086187,
         85688661
     ],
+    "wof:brand_id":1125151895,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2lgJufF8cqizAqdbBykuoE_38.961536_-92.375488@1303262935"
     },
     "wof:country":"US",
     "wof:created":1462605433,
-    "wof:geomhash":"f907372b589b619f52229a2d0592fba8",
+    "wof:geomhash":"55ac039bc8cac382274a0270a7cd2867",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -106,7 +113,7 @@
         }
     ],
     "wof:id":807260257,
-    "wof:lastmodified":1466629486,
+    "wof:lastmodified":1510697712,
     "wof:name":"JCPenney Custom Decorating",
     "wof:parent_id":85835171,
     "wof:placetype":"venue",

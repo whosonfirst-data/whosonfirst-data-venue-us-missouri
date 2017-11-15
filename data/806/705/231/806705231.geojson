@@ -2,14 +2,20 @@
   "id": 806705231,
   "type": "Feature",
   "properties": {
+    "addr:full":"6213 Holmes St Kansas City MO 64110",
+    "addr:housenumber":"6213",
+    "addr:postcode":"64110",
+    "addr:street":"Holmes St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.579101,39.01356,-94.579101,39.01356",
     "geom:latitude":39.01356,
     "geom:longitude":-94.579101,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"6213 Holmes St",
     "sg:city":"Kansas City",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102081227,
         85688661
     ],
+    "wof:brand_id":1125157265,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3GYdjzKRDEtquuxYPPaHXP_39.013560_-94.579101@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462600378,
-    "wof:geomhash":"1ff2d4f27b12ae91a8250701ac9a49bb",
+    "wof:geomhash":"cc7374f19af3c9d887b016dc1bb193d6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":806705231,
-    "wof:lastmodified":1466630976,
+    "wof:lastmodified":1510696734,
     "wof:name":"Sunshine Cleaners",
     "wof:parent_id":85867027,
     "wof:placetype":"venue",

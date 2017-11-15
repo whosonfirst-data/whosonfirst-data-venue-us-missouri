@@ -2,14 +2,20 @@
   "id": 789737041,
   "type": "Feature",
   "properties": {
+    "addr:full":"11906 Manchester Rd St Louis MO 63131",
+    "addr:housenumber":"11906",
+    "addr:postcode":"63131",
+    "addr:street":"Manchester Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.432006,38.601047,-90.432006,38.601047",
     "geom:latitude":38.601047,
     "geom:longitude":-90.432006,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"11906 Manchester Rd",
     "sg:city":"St Louis",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102086173,
         85688661
     ],
+    "wof:brand_id":1125152797,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4zbKjGykF1cWmgFAyCkUCh_38.601047_-90.432006@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462590152,
-    "wof:geomhash":"72e2c22e04e628c0d8ae4a2b10f999b7",
+    "wof:geomhash":"df1eb0901f69f2dfb5191cda394b0004",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":789737041,
-    "wof:lastmodified":1466625938,
+    "wof:lastmodified":1510697597,
     "wof:name":"Molly Maids",
     "wof:parent_id":85858661,
     "wof:placetype":"venue",

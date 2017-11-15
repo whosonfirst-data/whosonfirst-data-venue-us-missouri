@@ -2,14 +2,20 @@
   "id": 807089161,
   "type": "Feature",
   "properties": {
+    "addr:full":"2609 E Broadway Columbia MO 65201",
+    "addr:housenumber":"2609",
+    "addr:postcode":"65201",
+    "addr:street":"E Broadway",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.299196,38.946823,-92.299196,38.946823",
     "geom:latitude":38.946823,
     "geom:longitude":-92.299196,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2609 E Broadway",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -39,13 +45,14 @@
         102086187,
         85688661
     ],
+    "wof:brand_id":1125150527,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4eOaG29swiNaMyJdQThkc3_38.946823_-92.299196@1299784598"
     },
     "wof:country":"US",
     "wof:created":1462603610,
-    "wof:geomhash":"57b0559789bcdf741f737449f9625999",
+    "wof:geomhash":"87abfc6cce1d7f8d6139101e15fb85f1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,7 +66,7 @@
         }
     ],
     "wof:id":807089161,
-    "wof:lastmodified":1466624364,
+    "wof:lastmodified":1510696975,
     "wof:name":"Roly Poly Sandwiches",
     "wof:parent_id":85835171,
     "wof:placetype":"venue",

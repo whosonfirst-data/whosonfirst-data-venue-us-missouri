@@ -2,14 +2,20 @@
   "id": 806942157,
   "type": "Feature",
   "properties": {
+    "addr:full":"2645 Parthenon Dr De Soto MO 63020",
+    "addr:housenumber":"2645",
+    "addr:postcode":"63020",
+    "addr:street":"Parthenon Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.457223,38.136943,-90.457223,38.136943",
     "geom:latitude":38.136943,
     "geom:longitude":-90.457223,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2645 Parthenon Dr",
     "sg:city":"De Soto",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         85848677,
         102080787
     ],
+    "wof:brand_id":1125152183,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_18Zaqubpck5mExUgMuSgUH_38.136943_-90.457223@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462602378,
-    "wof:geomhash":"67e1ff1f9f5081593c509113e2814d47",
+    "wof:geomhash":"048e64350f28fce034090a8716993332",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":806942157,
-    "wof:lastmodified":1466635304,
+    "wof:lastmodified":1510693998,
     "wof:name":"Womens International Bowl",
     "wof:parent_id":85848677,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 789750991,
   "type": "Feature",
   "properties": {
+    "addr:full":"7097 Co Rd 453 Hannibal MO 63401",
+    "addr:housenumber":"7097;453",
+    "addr:postcode":"63401",
+    "addr:street":"Co Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":789750991,
-    "wof:lastmodified":1466626060,
+    "wof:lastmodified":1472630441,
     "wof:name":"Mark Twain Cave & Campground",
     "wof:parent_id":85867477,
     "wof:placetype":"venue",

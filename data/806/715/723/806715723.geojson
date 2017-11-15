@@ -2,6 +2,10 @@
   "id": 806715723,
   "type": "Feature",
   "properties": {
+    "addr:full":"1234 E Elm St Springfield MO 65802",
+    "addr:housenumber":"1234",
+    "addr:postcode":"65802",
+    "addr:street":"E Elm St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":806715723,
-    "wof:lastmodified":1466631011,
+    "wof:lastmodified":1472630574,
     "wof:name":"H&T Apts",
     "wof:parent_id":85881157,
     "wof:placetype":"venue",

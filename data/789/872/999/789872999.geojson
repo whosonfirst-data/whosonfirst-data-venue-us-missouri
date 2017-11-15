@@ -2,6 +2,10 @@
   "id": 789872999,
   "type": "Feature",
   "properties": {
+    "addr:full":"14825 E 42 St S Independence MO 64055",
+    "addr:housenumber":"14825;42",
+    "addr:postcode":"64055",
+    "addr:street":"E;St S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":789872999,
-    "wof:lastmodified":1466629282,
+    "wof:lastmodified":1472630730,
     "wof:name":"ARM Insurance",
     "wof:parent_id":85847737,
     "wof:placetype":"venue",

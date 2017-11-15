@@ -2,14 +2,20 @@
   "id": 773443821,
   "type": "Feature",
   "properties": {
+    "addr:full":"3889 Mexico Rd Saint Charles MO 63303",
+    "addr:housenumber":"3889",
+    "addr:postcode":"63303",
+    "addr:street":"Mexico Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.566175,38.79112,-90.566175,38.79112",
     "geom:latitude":38.79112,
     "geom:longitude":-90.566175,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3889 Mexico Rd",
     "sg:city":"Saint Charles",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102086159,
         85821097
     ],
+    "wof:brand_id":1125150809,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3W5890HGftdXVKrbyhAn0W_38.791120_-90.566175@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462585792,
-    "wof:geomhash":"9a08fa0801b627303405a2fea8c96308",
+    "wof:geomhash":"435dafc991cb12f120379f5023b14add",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":773443821,
-    "wof:lastmodified":1466630415,
+    "wof:lastmodified":1510697337,
     "wof:name":"Quiktrip",
     "wof:parent_id":85821097,
     "wof:placetype":"venue",

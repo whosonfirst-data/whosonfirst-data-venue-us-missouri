@@ -2,14 +2,20 @@
   "id": 806685557,
   "type": "Feature",
   "properties": {
+    "addr:full":"1400 S Glenstone Ave Springfield MO 65804",
+    "addr:housenumber":"1400",
+    "addr:postcode":"65804",
+    "addr:street":"S Glenstone Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.262239,37.18804,-93.262239,37.18804",
     "geom:latitude":37.18804,
     "geom:longitude":-93.262239,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1400 S Glenstone Ave",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087523,
         85688661
     ],
+    "wof:brand_id":1125150319,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0Uz5VBjKhPG9C38BmvKLSC_37.188040_-93.262239@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462600218,
-    "wof:geomhash":"2af109f1ed5a831a256d5b0b1f959d82",
+    "wof:geomhash":"521699bc398a541d7c636438072b170f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":806685557,
-    "wof:lastmodified":1466630276,
+    "wof:lastmodified":1510697395,
     "wof:name":"Color Tyme",
     "wof:parent_id":85881147,
     "wof:placetype":"venue",

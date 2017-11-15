@@ -2,6 +2,10 @@
   "id": 790482979,
   "type": "Feature",
   "properties": {
+    "addr:full":"5117 Co Rd 300 Joplin MO 64801",
+    "addr:housenumber":"5117;300",
+    "addr:postcode":"64801",
+    "addr:street":"Co Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":790482979,
-    "wof:lastmodified":1466632353,
+    "wof:lastmodified":1472630880,
     "wof:name":"Baker Machine",
     "wof:parent_id":85818073,
     "wof:placetype":"venue",

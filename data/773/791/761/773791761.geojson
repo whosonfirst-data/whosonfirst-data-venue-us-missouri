@@ -2,6 +2,10 @@
   "id": 773791761,
   "type": "Feature",
   "properties": {
+    "addr:full":"2239 E 70 St Kansas City MO 64132",
+    "addr:housenumber":"2239;70",
+    "addr:postcode":"64132",
+    "addr:street":"E;St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":773791761,
-    "wof:lastmodified":1466635250,
+    "wof:lastmodified":1472631109,
     "wof:name":"Custom Electric",
     "wof:parent_id":85867027,
     "wof:placetype":"venue",

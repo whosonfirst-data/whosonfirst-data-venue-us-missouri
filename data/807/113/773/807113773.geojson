@@ -2,14 +2,20 @@
   "id": 807113773,
   "type": "Feature",
   "properties": {
+    "addr:full":"54 THE LEGENDS PKWY STE 153 EUREKA MO 63025",
+    "addr:housenumber":"54",
+    "addr:postcode":"63025",
+    "addr:street":"The Legends Pkwy Ste 153",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.629554,38.494168,-90.629554,38.494168",
     "geom:latitude":38.494168,
     "geom:longitude":-90.629554,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"54 THE LEGENDS PKWY STE 153",
     "sg:city":"EUREKA",
     "sg:classifiers":[
@@ -45,13 +51,14 @@
         102086173,
         85688661
     ],
+    "wof:brand_id":420575071,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_530vAieRmwwoT2y7FXcV7p_38.494168_-90.629554@1303262925"
     },
     "wof:country":"US",
     "wof:created":1462603877,
-    "wof:geomhash":"2a5e357dd83de9cf206a8d3cfa6caf02",
+    "wof:geomhash":"0f226d036bfbe976e4a09437cd5ccba0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -65,7 +72,7 @@
         }
     ],
     "wof:id":807113773,
-    "wof:lastmodified":1466625168,
+    "wof:lastmodified":1510602739,
     "wof:name":"Merry Maids",
     "wof:parent_id":85809151,
     "wof:placetype":"venue",

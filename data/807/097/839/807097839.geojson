@@ -2,14 +2,20 @@
   "id": 807097839,
   "type": "Feature",
   "properties": {
+    "addr:full":"10641 Page Ave Saint Louis MO 63132",
+    "addr:housenumber":"10641",
+    "addr:postcode":"63132",
+    "addr:street":"Page Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.395828,38.692436,-90.395828,38.692436",
     "geom:latitude":38.692436,
     "geom:longitude":-90.395828,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"10641 Page Ave",
     "sg:city":"Saint Louis",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102086173,
         85688661
     ],
+    "wof:brand_id":1125153969,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3kqBijdNyAYQcCny9gie2J_38.692194_-90.395692@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462603696,
-    "wof:geomhash":"9a14a6aed27a008ccc29da91f4787fec",
+    "wof:geomhash":"f8be390a14201627cb0aab14084debbe",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":807097839,
-    "wof:lastmodified":1466624572,
+    "wof:lastmodified":1510698945,
     "wof:name":"Imo's Pizza",
     "wof:parent_id":85803699,
     "wof:placetype":"venue",

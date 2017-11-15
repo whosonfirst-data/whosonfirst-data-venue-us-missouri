@@ -2,6 +2,10 @@
   "id": 789641437,
   "type": "Feature",
   "properties": {
+    "addr:full":"11015 E 25 St S Independence MO 64052",
+    "addr:housenumber":"11015;25",
+    "addr:postcode":"64052",
+    "addr:street":"E;St S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":789641437,
-    "wof:lastmodified":1466623738,
+    "wof:lastmodified":1472630252,
     "wof:name":"Whole Person",
     "wof:parent_id":85818127,
     "wof:placetype":"venue",

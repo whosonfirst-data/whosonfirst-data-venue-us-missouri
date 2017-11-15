@@ -2,14 +2,20 @@
   "id": 790286677,
   "type": "Feature",
   "properties": {
+    "addr:full":"216 NE Barry Rd Kansas City MO 64155",
+    "addr:housenumber":"216",
+    "addr:postcode":"64155",
+    "addr:street":"Ne Barry Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.578397,39.246505,-94.578397,39.246505",
     "geom:latitude":39.246505,
     "geom:longitude":-94.578397,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"216 NE Barry Rd",
     "sg:city":"Kansas City",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102081227,
         85688661
     ],
+    "wof:brand_id":1125158383,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3mRmXppYnZKGoqFYnvCAn1_39.246505_-94.578397@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462594659,
-    "wof:geomhash":"f10379310f369c6a6d8839f8b9d587ea",
+    "wof:geomhash":"179abf6041e7eea5268b917150984da6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":790286677,
-    "wof:lastmodified":1466628249,
+    "wof:lastmodified":1510699779,
     "wof:name":"Pride Stanley & Executive",
     "wof:parent_id":85821231,
     "wof:placetype":"venue",

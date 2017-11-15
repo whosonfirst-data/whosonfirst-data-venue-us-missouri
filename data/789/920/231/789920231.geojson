@@ -2,14 +2,20 @@
   "id": 789920231,
   "type": "Feature",
   "properties": {
+    "addr:full":"10301 US Hwy 40 Independence MO 64055",
+    "addr:housenumber":"10301",
+    "addr:postcode":"64055",
+    "addr:street":"Us Hwy 40",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.45937,39.054903,-94.45937,39.054903",
     "geom:latitude":39.054903,
     "geom:longitude":-94.45937,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"10301 US Hwy 40",
     "sg:city":"Independence",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102081227,
         85688661
     ],
+    "wof:brand_id":1125158749,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_72WTH54CVfIQcw4lrAG9vi_39.054903_-94.459370@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462591629,
-    "wof:geomhash":"41553822dd9331c0bf3f020785912733",
+    "wof:geomhash":"556e52bc92114f71a46c89d312cc50e7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":789920231,
-    "wof:lastmodified":1466629948,
+    "wof:lastmodified":1510697766,
     "wof:name":"Deluxe Inn",
     "wof:parent_id":85867021,
     "wof:placetype":"venue",

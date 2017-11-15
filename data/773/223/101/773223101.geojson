@@ -2,14 +2,20 @@
   "id": 773223101,
   "type": "Feature",
   "properties": {
+    "addr:full":"822 N Bellefontaine Ave Kansas City MO 64120",
+    "addr:housenumber":"822",
+    "addr:postcode":"64120",
+    "addr:street":"N Bellefontaine Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.54491,39.124024,-94.54491,39.124024",
     "geom:latitude":39.124024,
     "geom:longitude":-94.54491,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"822 N Bellefontaine Ave",
     "sg:city":"Kansas City",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102081227,
         85688661
     ],
+    "wof:brand_id":1125158153,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_02blijlUHKKPSmoeoFYosj_39.124024_-94.544910@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462584096,
-    "wof:geomhash":"1f55d9dfe88a9e0d04f131a844113793",
+    "wof:geomhash":"613fe6db68298c986471266e1d0b81f4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":773223101,
-    "wof:lastmodified":1466625523,
+    "wof:lastmodified":1510697479,
     "wof:name":"Old Dominion Freight Line",
     "wof:parent_id":85872001,
     "wof:placetype":"venue",

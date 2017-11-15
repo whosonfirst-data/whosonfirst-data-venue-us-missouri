@@ -2,14 +2,20 @@
   "id": 807101833,
   "type": "Feature",
   "properties": {
+    "addr:full":"1460 E Primrose St Springfield MO 65804",
+    "addr:housenumber":"1460",
+    "addr:postcode":"65804",
+    "addr:street":"E Primrose St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.270895,37.14773,-93.270895,37.14773",
     "geom:latitude":37.14773,
     "geom:longitude":-93.270895,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1460 E Primrose St",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -43,13 +49,14 @@
         102087523,
         85688661
     ],
+    "wof:brand_id":1125150283,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_70C3TCdIHtvefsoNMTokrR_37.147743_-93.270612@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462603752,
-    "wof:geomhash":"40807f6f7cb2aa670f1f4213252de5bc",
+    "wof:geomhash":"6885bc2f74514d566c5379d5b09b07e4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -63,7 +70,7 @@
         }
     ],
     "wof:id":807101833,
-    "wof:lastmodified":1466624853,
+    "wof:lastmodified":1510695362,
     "wof:name":"Mcalister's Deli",
     "wof:parent_id":85881149,
     "wof:placetype":"venue",

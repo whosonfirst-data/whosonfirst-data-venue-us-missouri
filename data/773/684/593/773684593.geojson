@@ -2,14 +2,20 @@
   "id": 773684593,
   "type": "Feature",
   "properties": {
+    "addr:full":"14406 S Outer 40 Chesterfield MO 63017",
+    "addr:housenumber":"14406;40",
+    "addr:postcode":"63017",
+    "addr:street":"S Outer",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.530242,38.646068,-90.530242,38.646068",
     "geom:latitude":38.646068,
     "geom:longitude":-90.530242,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"14406 S Outer 40",
     "sg:city":"Chesterfield",
     "sg:classifiers":[
@@ -39,13 +45,14 @@
         102086173,
         85688661
     ],
+    "wof:brand_id":1125158397,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_08XmzXDTt6Y6IcW4XF7DTH_38.646068_-90.530242@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462587574,
-    "wof:geomhash":"eef6cae36d5c69fb87a81b4b2a16abed",
+    "wof:geomhash":"6ca8c47da98a7e0b7611d5c9ce92a340",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,7 +66,7 @@
         }
     ],
     "wof:id":773684593,
-    "wof:lastmodified":1466634395,
+    "wof:lastmodified":1510694745,
     "wof:name":"Slim & Tone",
     "wof:parent_id":85805465,
     "wof:placetype":"venue",

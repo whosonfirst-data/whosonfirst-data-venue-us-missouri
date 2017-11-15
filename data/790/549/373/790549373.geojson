@@ -2,14 +2,20 @@
   "id": 790549373,
   "type": "Feature",
   "properties": {
+    "addr:full":"5508 S Woodcliffe Dr Springfield MO 65804",
+    "addr:housenumber":"5508",
+    "addr:postcode":"65804",
+    "addr:street":"S Woodcliffe Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.230635,37.106251,-93.230635,37.106251",
     "geom:latitude":37.106251,
     "geom:longitude":-93.230635,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5508 S Woodcliffe Dr",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087523,
         85828575
     ],
+    "wof:brand_id":1125151163,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0Dx8l7wxhcWnmTILWZ1Z62_37.106251_-93.230635@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462596791,
-    "wof:geomhash":"bc24e6aa178fbd104910f38f80cf344b",
+    "wof:geomhash":"9a92f2d0ac47f1079a88598dc3630609",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":790549373,
-    "wof:lastmodified":1466633423,
+    "wof:lastmodified":1510698755,
     "wof:name":"Ameri Spec Home Inspection Svc",
     "wof:parent_id":85828575,
     "wof:placetype":"venue",

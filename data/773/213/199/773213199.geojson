@@ -2,14 +2,20 @@
   "id": 773213199,
   "type": "Feature",
   "properties": {
+    "addr:full":"9040 Lackland Rd Saint Louis MO 63114",
+    "addr:housenumber":"",
+    "addr:postcode":"9040;63114",
+    "addr:street":"Lackland Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.357154,38.699637,-90.357154,38.699637",
     "geom:latitude":38.699637,
     "geom:longitude":-90.357154,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"9040 Lackland Rd",
     "sg:city":"Saint Louis",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102086173,
         85688661
     ],
+    "wof:brand_id":420575173,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2KWzeCcN9In2Z8YqwOMikF_38.699637_-90.357154@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462584019,
-    "wof:geomhash":"45ed1edf1b09fdae9699a7b0da537e2e",
+    "wof:geomhash":"cbd2eb653f142f32725ceb277b5a9f67",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":773213199,
-    "wof:lastmodified":1466625208,
+    "wof:lastmodified":1510602718,
     "wof:name":"United States Postal Service",
     "wof:parent_id":85847351,
     "wof:placetype":"venue",

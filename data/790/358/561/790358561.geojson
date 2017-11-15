@@ -2,6 +2,10 @@
   "id": 790358561,
   "type": "Feature",
   "properties": {
+    "addr:full":"300 NE 72 St Gladstone MO 64118",
+    "addr:housenumber":"300;72",
+    "addr:postcode":"64118",
+    "addr:street":"Ne;St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":790358561,
-    "wof:lastmodified":1466629803,
+    "wof:lastmodified":1472630843,
     "wof:name":"Gibson's Precision Drilling",
     "wof:parent_id":85830711,
     "wof:placetype":"venue",

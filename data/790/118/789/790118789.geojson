@@ -2,14 +2,20 @@
   "id": 790118789,
   "type": "Feature",
   "properties": {
+    "addr:full":"6607 E 18 St Kansas City MO 64126",
+    "addr:housenumber":"6607;18",
+    "addr:postcode":"64126",
+    "addr:street":"E;St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.504763,39.088193,-94.504763,39.088193",
     "geom:latitude":39.088193,
     "geom:longitude":-94.504763,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"6607 E 18 St",
     "sg:city":"Kansas City",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102081227,
         85688661
     ],
+    "wof:brand_id":1125151095,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2t4XCeHcwlIquJdqWI3jXC_39.088193_-94.504763@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462593278,
-    "wof:geomhash":"9c3cac60931475d554f3dc8d21149ce1",
+    "wof:geomhash":"748e6cfbca6ef6245ceab85c7b407edb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":790118789,
-    "wof:lastmodified":1466624723,
+    "wof:lastmodified":1510699972,
     "wof:name":"Stanley Home Products",
     "wof:parent_id":420525349,
     "wof:placetype":"venue",

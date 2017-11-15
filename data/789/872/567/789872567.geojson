@@ -2,6 +2,10 @@
   "id": 789872567,
   "type": "Feature",
   "properties": {
+    "addr:full":"14400 E 42 St S Independence MO 64055",
+    "addr:housenumber":"14400;42",
+    "addr:postcode":"64055",
+    "addr:street":"E;St S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":789872567,
-    "wof:lastmodified":1466629070,
+    "wof:lastmodified":1472630712,
     "wof:name":"F Patrick Fryer",
     "wof:parent_id":85871965,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 337279619,
   "type": "Feature",
   "properties": {
+    "addr:full":"1616 S Grand Blvd Saint Louis MO 63104",
+    "addr:housenumber":"1616",
+    "addr:postcode":"63104",
+    "addr:street":"S Grand Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.238777,38.618553,-90.238777,38.618553",
     "geom:latitude":38.618553,
     "geom:longitude":-90.238777,
@@ -31,11 +36,13 @@
     "sg:website":"www.slps.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688661,
+        85873659,
+        102191575,
+        404518053,
         85633793,
         85971343,
         102080791,
-        85873659
+        85688661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,9 +52,10 @@
     "wof:geomhash":"f0067d3e807c33f60938033d4848742f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080791,
+            "localadmin_id":404518053,
             "locality_id":85971343,
             "neighbourhood_id":85873659,
             "region_id":85688661,
@@ -55,7 +63,7 @@
         }
     ],
     "wof:id":337279619,
-    "wof:lastmodified":1466622384,
+    "wof:lastmodified":1491909524,
     "wof:name":"St Louis Public Schools",
     "wof:parent_id":85873659,
     "wof:placetype":"venue",

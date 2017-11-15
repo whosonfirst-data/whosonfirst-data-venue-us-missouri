@@ -2,14 +2,20 @@
   "id": 806456015,
   "type": "Feature",
   "properties": {
+    "addr:full":"600 N Old Orchard Rd Strafford MO 65757",
+    "addr:housenumber":"600",
+    "addr:postcode":"65757",
+    "addr:street":"N Old Orchard Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.12239,37.28074,-93.12239,37.28074",
     "geom:latitude":37.28074,
     "geom:longitude":-93.12239,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"600 N Old Orchard Rd",
     "sg:city":"Strafford",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102087523,
         85881137
     ],
+    "wof:brand_id":1125152639,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_11nAmWzyzEPwblB8JBjNTK_37.280740_-93.122390@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462598284,
-    "wof:geomhash":"e7998291c198bcf290efbaf4cb010c02",
+    "wof:geomhash":"1c06f1dea6772f5a3cd81990794683e2",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":806456015,
-    "wof:lastmodified":1466624395,
+    "wof:lastmodified":1510697378,
     "wof:name":"Berean Baptist Church",
     "wof:parent_id":85881137,
     "wof:placetype":"venue",

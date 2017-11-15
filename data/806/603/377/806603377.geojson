@@ -2,14 +2,20 @@
   "id": 806603377,
   "type": "Feature",
   "properties": {
+    "addr:full":"250 1st St Hillsboro MO 63050",
+    "addr:housenumber":"250",
+    "addr:postcode":"63050",
+    "addr:street":"1St St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.563226,38.231434,-90.563226,38.231434",
     "geom:latitude":38.231434,
     "geom:longitude":-90.563226,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"250 1st St",
     "sg:city":"Hillsboro",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         85848677,
         102080787
     ],
+    "wof:brand_id":420575893,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_16eHI9C7wVoPLWjmH1rKJq_38.231434_-90.563226@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462599517,
-    "wof:geomhash":"b0e000d72908a5ef17841d18781fc5c8",
+    "wof:geomhash":"7dcc2ac8f0d0c5c5f97cc34f41df8702",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":806603377,
-    "wof:lastmodified":1466628185,
+    "wof:lastmodified":1510602091,
     "wof:name":"Public Defender",
     "wof:parent_id":85848677,
     "wof:placetype":"venue",

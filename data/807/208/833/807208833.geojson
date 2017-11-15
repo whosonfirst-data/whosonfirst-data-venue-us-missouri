@@ -2,14 +2,20 @@
   "id": 807208833,
   "type": "Feature",
   "properties": {
+    "addr:full":"11924 Blue Ridge Ext Grandview MO 64030",
+    "addr:housenumber":"11924",
+    "addr:postcode":"64030",
+    "addr:street":"Blue Ridge Ext",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.5248,38.907518,-94.5248,38.907518",
     "geom:latitude":38.907518,
     "geom:longitude":-94.5248,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"11924 Blue Ridge Ext",
     "sg:city":"Grandview",
     "sg:classifiers":[
@@ -55,13 +61,14 @@
         102081227,
         85688661
     ],
+    "wof:brand_id":1125150107,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1CfFqYVkURE93uqT6gdC70_38.907518_-94.524800@1303262932"
     },
     "wof:country":"US",
     "wof:created":1462604887,
-    "wof:geomhash":"58288d331894fa089d33e0d703878591",
+    "wof:geomhash":"2186af314ac8712cf18f56b9c0fabc01",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -75,7 +82,7 @@
         }
     ],
     "wof:id":807208833,
-    "wof:lastmodified":1466628018,
+    "wof:lastmodified":1510694630,
     "wof:name":"Tires Plus Total Car Care",
     "wof:parent_id":85824757,
     "wof:placetype":"venue",

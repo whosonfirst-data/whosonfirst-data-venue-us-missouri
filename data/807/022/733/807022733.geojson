@@ -2,14 +2,20 @@
   "id": 807022733,
   "type": "Feature",
   "properties": {
+    "addr:full":"7215 Natural Bridge Rd Saint Louis MO 63121",
+    "addr:housenumber":"7215",
+    "addr:postcode":"63121",
+    "addr:street":"Natural Bridge Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.293701,38.702099,-90.293701,38.702099",
     "geom:latitude":38.702099,
     "geom:longitude":-90.293701,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"7215 Natural Bridge Rd",
     "sg:city":"Saint Louis",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102086173,
         85688661
     ],
+    "wof:brand_id":1125157805,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3MRRNQujhmO6dGnbEt3fex_38.702438_-90.293903@1293134755"
     },
     "wof:country":"US",
     "wof:created":1462603059,
-    "wof:geomhash":"b3d7e44ece8dab80b1298d3c92cae969",
+    "wof:geomhash":"8668d6107467ec0112a0861ca50cb84e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":807022733,
-    "wof:lastmodified":1466623425,
+    "wof:lastmodified":1510694856,
     "wof:name":"Church's Fried Chicken",
     "wof:parent_id":85803359,
     "wof:placetype":"venue",

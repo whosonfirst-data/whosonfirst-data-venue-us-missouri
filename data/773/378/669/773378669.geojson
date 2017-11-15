@@ -2,6 +2,10 @@
   "id": 773378669,
   "type": "Feature",
   "properties": {
+    "addr:full":"3007 E 85 St Kansas City MO 64132",
+    "addr:housenumber":"3007;85",
+    "addr:postcode":"64132",
+    "addr:street":"E;St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":773378669,
-    "wof:lastmodified":1466628893,
+    "wof:lastmodified":1472630991,
     "wof:name":"Electrical Materials",
     "wof:parent_id":420525371,
     "wof:placetype":"venue",

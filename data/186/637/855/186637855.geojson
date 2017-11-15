@@ -2,14 +2,20 @@
   "id": 186637855,
   "type": "Feature",
   "properties": {
+    "addr:full":"19401 E 39th St S Independence MO 64057",
+    "addr:housenumber":"19401",
+    "addr:postcode":"64057",
+    "addr:street":"E 39Th St S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.352287,39.047798,-94.352287,39.047798",
     "geom:latitude":39.047798,
     "geom:longitude":-94.352287,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"19401 E 39th St S",
     "sg:city":"Independence",
     "sg:classifiers":[
@@ -41,12 +47,13 @@
         102081227,
         85847737
     ],
+    "wof:brand_id":1125150011,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4bGyy9fDqb3tXOmHFiodTG_39.047798_-94.352287@1303262932"
     },
     "wof:country":"US",
-    "wof:geomhash":"8b8072d71fea85250c82a3316d3b0092",
+    "wof:geomhash":"ba1e0aff7f596470694472f05da3837f",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -59,7 +66,7 @@
         }
     ],
     "wof:id":186637855,
-    "wof:lastmodified":1466622276,
+    "wof:lastmodified":1510696623,
     "wof:name":"Logan's Roadhouse",
     "wof:parent_id":85847737,
     "wof:placetype":"venue",

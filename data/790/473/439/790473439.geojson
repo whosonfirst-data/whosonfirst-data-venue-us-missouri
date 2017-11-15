@@ -2,14 +2,20 @@
   "id": 790473439,
   "type": "Feature",
   "properties": {
+    "addr:full":"3935 McMasters Ave Hannibal MO 63401",
+    "addr:housenumber":"3935",
+    "addr:postcode":"63401",
+    "addr:street":"Mcmasters Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.392122,39.715502,-91.392122,39.715502",
     "geom:latitude":39.715502,
     "geom:longitude":-91.392122,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3935 McMasters Ave",
     "sg:city":"Hannibal",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102086171,
         85688661
     ],
+    "wof:brand_id":420574719,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6IvGIgvwZoTboMNZGCht7n_39.715502_-91.392122@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462596139,
-    "wof:geomhash":"de3c1d6bacec3e83e70120d88b60129c",
+    "wof:geomhash":"7884b4428bd423cb12a34d078ef2acab",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":790473439,
-    "wof:lastmodified":1466632135,
+    "wof:lastmodified":1510604738,
     "wof:name":"A G Edwards & Sons Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

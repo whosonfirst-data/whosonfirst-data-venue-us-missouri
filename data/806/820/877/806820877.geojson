@@ -2,14 +2,20 @@
   "id": 806820877,
   "type": "Feature",
   "properties": {
+    "addr:full":"2420 E Linwood Blvd Kansas City MO 64109",
+    "addr:housenumber":"2420",
+    "addr:postcode":"64109",
+    "addr:street":"E Linwood Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.554252,39.068176,-94.554252,39.068176",
     "geom:latitude":39.068176,
     "geom:longitude":-94.554252,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2420 E Linwood Blvd",
     "sg:city":"Kansas City",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102081227,
         85688661
     ],
+    "wof:brand_id":1125150085,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2pHOPo4y6QsBOhPhrk4sl2_39.068176_-94.554252@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462601351,
-    "wof:geomhash":"ad2d5e087d481e646999fbe3f9f55299",
+    "wof:geomhash":"df060cd2df2b749c2f19df000b308cbb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":806820877,
-    "wof:lastmodified":1466633199,
+    "wof:lastmodified":1510696021,
     "wof:name":"Fashion Cents",
     "wof:parent_id":85872025,
     "wof:placetype":"venue",

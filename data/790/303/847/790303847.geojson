@@ -2,14 +2,20 @@
   "id": 790303847,
   "type": "Feature",
   "properties": {
+    "addr:full":"1805 Belt Way Dr Saint Louis MO 63114",
+    "addr:housenumber":"1805",
+    "addr:postcode":"63114",
+    "addr:street":"Belt Way Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.349745,38.690636,-90.349745,38.690636",
     "geom:latitude":38.690636,
     "geom:longitude":-90.349745,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1805 Belt Way Dr",
     "sg:city":"Saint Louis",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102086173,
         85688661
     ],
+    "wof:brand_id":1125155999,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2TuhisTvEjBznjXJRlotwB_38.690636_-90.349745@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462594795,
-    "wof:geomhash":"27c2d48f210592f44b7a3d23d5c6ea83",
+    "wof:geomhash":"4b6d24eaba56d552ad0e28c68a47e71d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":790303847,
-    "wof:lastmodified":1466628800,
+    "wof:lastmodified":1510694034,
     "wof:name":"Storagetek",
     "wof:parent_id":85847351,
     "wof:placetype":"venue",

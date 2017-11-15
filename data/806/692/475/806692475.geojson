@@ -2,6 +2,10 @@
   "id": 806692475,
   "type": "Feature",
   "properties": {
+    "addr:full":"401 E 63 St Kansas City MO 64110",
+    "addr:housenumber":"401;63",
+    "addr:postcode":"64110",
+    "addr:street":"E;St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":806692475,
-    "wof:lastmodified":1466630427,
+    "wof:lastmodified":1472630555,
     "wof:name":"Brookside Auto Svc",
     "wof:parent_id":85867027,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 806990039,
   "type": "Feature",
   "properties": {
+    "addr:full":"425 W 85 St Kansas City MO 64114",
+    "addr:housenumber":"425",
+    "addr:postcode":"64114",
+    "addr:street":"W 85 St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.599513,38.974293,-94.599513,38.974293",
     "geom:latitude":38.974293,
     "geom:longitude":-94.599513,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"425 W 85 St",
     "sg:city":"Kansas City",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102081227,
         85688661
     ],
+    "wof:brand_id":1125156841,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_61YIm66vNZbmGfRxlWXyK2_38.974293_-94.599513@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462602775,
-    "wof:geomhash":"a0b7dbdb70fb51f27b4f7d62e40b87aa",
+    "wof:geomhash":"b4c15336cf5f3dd38b54712f739e0efc",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":806990039,
-    "wof:lastmodified":1466635759,
+    "wof:lastmodified":1510696906,
     "wof:name":"Sisters Of Charity",
     "wof:parent_id":85871969,
     "wof:placetype":"venue",

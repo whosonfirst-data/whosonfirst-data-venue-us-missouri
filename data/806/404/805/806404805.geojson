@@ -2,6 +2,10 @@
   "id": 806404805,
   "type": "Feature",
   "properties": {
+    "addr:full":"650 E 25 St Kansas City MO 64108",
+    "addr:housenumber":"650;25",
+    "addr:postcode":"64108",
+    "addr:street":"E;St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":806404805,
-    "wof:lastmodified":1466622659,
+    "wof:lastmodified":1472630287,
     "wof:name":"Umkc Book Store",
     "wof:parent_id":85872019,
     "wof:placetype":"venue",

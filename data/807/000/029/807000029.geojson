@@ -2,14 +2,20 @@
   "id": 807000029,
   "type": "Feature",
   "properties": {
+    "addr:full":"3645 E Sunshine St Springfield MO 65809",
+    "addr:housenumber":"3645",
+    "addr:postcode":"65809",
+    "addr:street":"E Sunshine St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.220552,37.180221,-93.220552,37.180221",
     "geom:latitude":37.180221,
     "geom:longitude":-93.220552,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3645 E Sunshine St",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102087523,
         85881121
     ],
+    "wof:brand_id":1125152241,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0x7BVaa7RKzc6d9tsR8mfu_37.180160_-93.220270@1293134755"
     },
     "wof:country":"US",
     "wof:created":1462602861,
-    "wof:geomhash":"61d41123600df6ed8fb1ee6ba8a7b2d1",
+    "wof:geomhash":"65883c055686533b6fb3dd9c6dfe1107",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":807000029,
-    "wof:lastmodified":1466622395,
+    "wof:lastmodified":1510694094,
     "wof:name":"State Beauty Supply",
     "wof:parent_id":85881121,
     "wof:placetype":"venue",

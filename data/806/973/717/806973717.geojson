@@ -2,6 +2,10 @@
   "id": 806973717,
   "type": "Feature",
   "properties": {
+    "addr:full":"11786 Co Rd 8070 Rolla MO 65401",
+    "addr:housenumber":"11786",
+    "addr:postcode":"8070;65401",
+    "addr:street":"Co Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":806973717,
-    "wof:lastmodified":1466635551,
+    "wof:lastmodified":1472630797,
     "wof:name":"Grisham Backhoe Svc",
     "wof:parent_id":85814531,
     "wof:placetype":"venue",

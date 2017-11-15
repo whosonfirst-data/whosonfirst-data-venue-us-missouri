@@ -2,6 +2,10 @@
   "id": 807301785,
   "type": "Feature",
   "properties": {
+    "addr:full":"100 W Church St Rm 206 Ozark MO 65721",
+    "addr:housenumber":"100;206",
+    "addr:postcode":"65721",
+    "addr:street":"W Church St Rm",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":807301785,
-    "wof:lastmodified":1466630885,
+    "wof:lastmodified":1472630689,
     "wof:name":"Clerk's Office",
     "wof:parent_id":85809751,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 773490647,
   "type": "Feature",
   "properties": {
+    "addr:full":"2740 E Kearney St Springfield MO 65803",
+    "addr:housenumber":"2740",
+    "addr:postcode":"65803",
+    "addr:street":"E Kearney St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.2358,37.239239,-93.2358,37.239239",
     "geom:latitude":37.239239,
     "geom:longitude":-93.2358,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2740 E Kearney St",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102087523,
         85688661
     ],
+    "wof:brand_id":1125159809,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6nGjaAufBQdFbjxVPUK9IG_37.239239_-93.235800@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462586142,
-    "wof:geomhash":"60431c73419b62ef645de054917f0b73",
+    "wof:geomhash":"e70e2ceac6088c7e7b5f0f40ac4d4a14",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":773490647,
-    "wof:lastmodified":1466631364,
+    "wof:lastmodified":1510699621,
     "wof:name":"Break Time",
     "wof:parent_id":420525313,
     "wof:placetype":"venue",

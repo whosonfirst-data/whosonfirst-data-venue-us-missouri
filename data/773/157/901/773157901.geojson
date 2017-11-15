@@ -2,14 +2,20 @@
   "id": 773157901,
   "type": "Feature",
   "properties": {
+    "addr:full":"25 Chesterfield Mall Chesterfield MO 63017",
+    "addr:housenumber":"25",
+    "addr:postcode":"63017",
+    "addr:street":"Mall",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.566402,38.654755,-90.566402,38.654755",
     "geom:latitude":38.654755,
     "geom:longitude":-90.566402,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"25 Chesterfield Mall",
     "sg:city":"Chesterfield",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102086173,
         85688661
     ],
+    "wof:brand_id":1125157353,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6ye07V5PNfDrcyLEk7DHmM_38.654755_-90.566402@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462583576,
-    "wof:geomhash":"c3a92ff0b88c046894dac1a49b1c6621",
+    "wof:geomhash":"2c7f55e330d78da849ec6a9a8ec9ae77",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":773157901,
-    "wof:lastmodified":1466624294,
+    "wof:lastmodified":1510694854,
     "wof:name":"Charley's Steakery",
     "wof:parent_id":85805465,
     "wof:placetype":"venue",

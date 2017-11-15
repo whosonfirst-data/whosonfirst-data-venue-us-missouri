@@ -2,14 +2,20 @@
   "id": 789761627,
   "type": "Feature",
   "properties": {
+    "addr:full":"107 Autumn Oaks Ct Imperial MO 63052",
+    "addr:housenumber":"107",
+    "addr:postcode":"63052",
+    "addr:street":"Autumn Oaks Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.375166,38.388025,-90.375166,38.388025",
     "geom:latitude":38.388025,
     "geom:longitude":-90.375166,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"107 Autumn Oaks Ct",
     "sg:city":"Imperial",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         85688661,
         420525431
     ],
+    "wof:brand_id":1125152863,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4X3gCinWcmSd1WXqf2BViE_38.388025_-90.375166@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462590344,
-    "wof:geomhash":"50bf45db15f313a60175bea8b2abc263",
+    "wof:geomhash":"10e85560e621348d38cbf7f5af4978f8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,7 +75,7 @@
         }
     ],
     "wof:id":789761627,
-    "wof:lastmodified":1466626416,
+    "wof:lastmodified":1510613356,
     "wof:name":"D R Horton Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 773497001,
   "type": "Feature",
   "properties": {
+    "addr:full":"6841 E 39 St Kansas City MO 64129",
+    "addr:housenumber":"6841;39",
+    "addr:postcode":"64129",
+    "addr:street":"E;St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":773497001,
-    "wof:lastmodified":1466631515,
+    "wof:lastmodified":1472631005,
     "wof:name":"Ampac TIRE-KC Inc",
     "wof:parent_id":420525361,
     "wof:placetype":"venue",

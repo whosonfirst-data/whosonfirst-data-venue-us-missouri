@@ -2,14 +2,20 @@
   "id": 789816673,
   "type": "Feature",
   "properties": {
+    "addr:full":"68 Conway Cove Dr Chesterfield MO 63017",
+    "addr:housenumber":"68",
+    "addr:postcode":"63017",
+    "addr:street":"Conway Cove Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.550142,38.653296,-90.550142,38.653296",
     "geom:latitude":38.653296,
     "geom:longitude":-90.550142,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"68 Conway Cove Dr",
     "sg:city":"Chesterfield",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102086173,
         85688661
     ],
+    "wof:brand_id":1125155795,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3HUUxBIKbt8XBSLaohQUtC_38.653296_-90.550142@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462590764,
-    "wof:geomhash":"fa3c54122056a988da540a4129b325b7",
+    "wof:geomhash":"4cfaa25ebb343c0dfc3bfabfa179ef47",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":789816673,
-    "wof:lastmodified":1466627486,
+    "wof:lastmodified":1510697086,
     "wof:name":"Marine Corps League",
     "wof:parent_id":85805465,
     "wof:placetype":"venue",

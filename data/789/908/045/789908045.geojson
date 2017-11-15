@@ -2,14 +2,20 @@
   "id": 789908045,
   "type": "Feature",
   "properties": {
+    "addr:full":"655 Axminister Dr Fenton MO 63026",
+    "addr:housenumber":"655",
+    "addr:postcode":"63026",
+    "addr:street":"Axminister Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.45174,38.536994,-90.45174,38.536994",
     "geom:latitude":38.536994,
     "geom:longitude":-90.45174,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"655 Axminister Dr",
     "sg:city":"Fenton",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102086173,
         85688661
     ],
+    "wof:brand_id":1125150695,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3cc6s3QxWRLQfen6wcs1PZ_38.536994_-90.451740@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462591516,
-    "wof:geomhash":"bc20ec069f29102e8222e1723b3268b7",
+    "wof:geomhash":"ee747d2451edb9ceee19a7ccd599e7a1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":789908045,
-    "wof:lastmodified":1466629692,
+    "wof:lastmodified":1510697252,
     "wof:name":"Tru Green Chem Lawn",
     "wof:parent_id":85858661,
     "wof:placetype":"venue",

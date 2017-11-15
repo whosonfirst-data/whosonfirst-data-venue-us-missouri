@@ -2,14 +2,20 @@
   "id": 773487883,
   "type": "Feature",
   "properties": {
+    "addr:full":"777 S New Ballas Rd Saint Louis MO 63141",
+    "addr:housenumber":"777",
+    "addr:postcode":"63141",
+    "addr:street":"S New Ballas Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.443534,38.641359,-90.443534,38.641359",
     "geom:latitude":38.641359,
     "geom:longitude":-90.443534,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"777 S New Ballas Rd",
     "sg:city":"Saint Louis",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102086173,
         85688661
     ],
+    "wof:brand_id":1125159559,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7hTLxDk9SeInvivAt2YJIo_38.641359_-90.443534@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462586125,
-    "wof:geomhash":"2b7b3a6e8b77fe06f0f2ee71e1396372",
+    "wof:geomhash":"34696c6c8c4baf65e6f2461f030d600b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":773487883,
-    "wof:lastmodified":1466631505,
+    "wof:lastmodified":1510696651,
     "wof:name":"Glaxosmithkline",
     "wof:parent_id":85867987,
     "wof:placetype":"venue",

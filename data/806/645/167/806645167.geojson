@@ -2,6 +2,10 @@
   "id": 806645167,
   "type": "Feature",
   "properties": {
+    "addr:full":"200 St Marys Plz Jefferson City MO 65101",
+    "addr:housenumber":"200",
+    "addr:postcode":"65101",
+    "addr:street":"St Marys Plz;City Mo",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":806645167,
-    "wof:lastmodified":1466629144,
+    "wof:lastmodified":1472630510,
     "wof:name":"Capital Region Medical Ctr",
     "wof:parent_id":85837745,
     "wof:placetype":"venue",

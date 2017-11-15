@@ -2,14 +2,20 @@
   "id": 806896949,
   "type": "Feature",
   "properties": {
+    "addr:full":"5892 State Hwy 168 Palmyra MO 63461",
+    "addr:housenumber":"5892",
+    "addr:postcode":"63461",
+    "addr:street":"State Hwy 168",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.571796,39.815514,-91.571796,39.815514",
     "geom:latitude":39.815514,
     "geom:longitude":-91.571796,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5892 State Hwy 168",
     "sg:city":"Palmyra",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102086213,
         85867477
     ],
+    "wof:brand_id":1125154149,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7dHznB6C92Ypg1dhWcBh3n_39.815514_-91.571796@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462601987,
-    "wof:geomhash":"4752c06a9c6e785d69ed800904765b81",
+    "wof:geomhash":"245fb9a56f004aee9721b7e4b893b42b",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":806896949,
-    "wof:lastmodified":1466634539,
+    "wof:lastmodified":1510694980,
     "wof:name":"Shear Madness",
     "wof:parent_id":85867477,
     "wof:placetype":"venue",

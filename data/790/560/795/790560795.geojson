@@ -2,14 +2,20 @@
   "id": 790560795,
   "type": "Feature",
   "properties": {
+    "addr:full":"2631 S McCann Ave Springfield MO 65804",
+    "addr:housenumber":"2631",
+    "addr:postcode":"65804",
+    "addr:street":"S Mccann Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.276374,37.165991,-93.276374,37.165991",
     "geom:latitude":37.165991,
     "geom:longitude":-93.276374,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2631 S McCann Ave",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102087523,
         85688661
     ],
+    "wof:brand_id":420574983,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3qKssHmFTmBC3nONtQhqL4_37.165991_-93.276374@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462596882,
-    "wof:geomhash":"2a3b6278246e80babe2dba392a10cfda",
+    "wof:geomhash":"eae8a21c3ceb0ed1c92ba36e78c03935",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":790560795,
-    "wof:lastmodified":1466633644,
+    "wof:lastmodified":1510603918,
     "wof:name":"Bible Baptist Church",
     "wof:parent_id":85881149,
     "wof:placetype":"venue",

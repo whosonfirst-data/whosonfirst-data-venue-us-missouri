@@ -2,14 +2,20 @@
   "id": 773824193,
   "type": "Feature",
   "properties": {
+    "addr:full":"2112 Rock Rd De Soto MO 63020",
+    "addr:housenumber":"2112",
+    "addr:postcode":"63020",
+    "addr:street":"Rock Rd De",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.578404,38.14242,-90.578404,38.14242",
     "geom:latitude":38.14242,
     "geom:longitude":-90.578404,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2112 Rock Rd",
     "sg:city":"De Soto",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         85848677,
         102080787
     ],
+    "wof:brand_id":420575687,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_02wUYrSxfMqKD24hWmBGej_38.142420_-90.578404@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462588666,
-    "wof:geomhash":"67b9830d0da8f1a0fa1009abed58a6ac",
+    "wof:geomhash":"7be7b31e7210b3dcf4e66f3e379c8eac",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":773824193,
-    "wof:lastmodified":1466635433,
+    "wof:lastmodified":1510602539,
     "wof:name":"Lovely Nails",
     "wof:parent_id":85848677,
     "wof:placetype":"venue",

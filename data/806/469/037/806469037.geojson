@@ -2,14 +2,20 @@
   "id": 806469037,
   "type": "Feature",
   "properties": {
+    "addr:full":"280 NE Vivion Rd Kansas City MO 64118",
+    "addr:housenumber":"280",
+    "addr:postcode":"64118",
+    "addr:street":"Ne Vivion Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.579897,39.181243,-94.579897,39.181243",
     "geom:latitude":39.181243,
     "geom:longitude":-94.579897,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"280 NE Vivion Rd",
     "sg:city":"Kansas City",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102081227,
         85688661
     ],
+    "wof:brand_id":1125150357,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3cYcvOF52yujUX0cwlI6Ev_39.181243_-94.579897@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462598383,
-    "wof:geomhash":"cdde4e5ebeb1fb87251d2a2e15155660",
+    "wof:geomhash":"45f1b16ee4412562620112996593114f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":806469037,
-    "wof:lastmodified":1466624824,
+    "wof:lastmodified":1510697020,
     "wof:name":"Kmart Pharmacies Inc",
     "wof:parent_id":85867025,
     "wof:placetype":"venue",

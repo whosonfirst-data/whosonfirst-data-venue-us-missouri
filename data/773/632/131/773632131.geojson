@@ -2,14 +2,20 @@
   "id": 773632131,
   "type": "Feature",
   "properties": {
+    "addr:full":"20000 E Jackson Dr Independence MO 64057",
+    "addr:housenumber":"20000",
+    "addr:postcode":"64057",
+    "addr:street":"E Jackson Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.345975,39.041479,-94.345975,39.041479",
     "geom:latitude":39.041479,
     "geom:longitude":-94.345975,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"20000 E Jackson Dr",
     "sg:city":"Independence",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102081227,
         85688661
     ],
+    "wof:brand_id":420575341,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0ye4Pz14b8ohD5cchq7QFP_39.041479_-94.345975@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462587186,
-    "wof:geomhash":"c68b355ec86046a06521a6b289cdee23",
+    "wof:geomhash":"d49ceb6fd41fcc86de93071a4655fda2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":773632131,
-    "wof:lastmodified":1466633559,
+    "wof:lastmodified":1510602400,
     "wof:name":"Stein Mart",
     "wof:parent_id":85847737,
     "wof:placetype":"venue",

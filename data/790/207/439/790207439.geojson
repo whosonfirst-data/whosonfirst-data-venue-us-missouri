@@ -2,14 +2,20 @@
   "id": 790207439,
   "type": "Feature",
   "properties": {
+    "addr:full":"2905 Missouri Ave Saint Louis MO 63118",
+    "addr:housenumber":"2905",
+    "addr:postcode":"63118",
+    "addr:street":"Missouri Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.221869,38.599417,-90.221869,38.599417",
     "geom:latitude":38.599417,
     "geom:longitude":-90.221869,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2905 Missouri Ave",
     "sg:city":"Saint Louis",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102080791,
         85688661
     ],
+    "wof:brand_id":1125157685,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_16ikGeas52HMTpUQPCZ1sw_38.599417_-90.221869@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462594010,
-    "wof:geomhash":"443b6c56796787303c7d1b9ce805fda4",
+    "wof:geomhash":"89ac751b78737ccbe35026f814d1946e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":790207439,
-    "wof:lastmodified":1466626736,
+    "wof:lastmodified":1510699513,
     "wof:name":"Norfolk Southern",
     "wof:parent_id":85873679,
     "wof:placetype":"venue",

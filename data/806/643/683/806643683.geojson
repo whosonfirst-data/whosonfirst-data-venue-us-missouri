@@ -2,9 +2,14 @@
   "id": 806643683,
   "type": "Feature",
   "properties": {
+    "addr:full":"1700 S Broadway Saint Louis MO 63104",
+    "addr:housenumber":"1700",
+    "addr:postcode":"63104",
+    "addr:street":"S Broadway",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.201003,38.607334,-90.201003,38.607334",
     "geom:latitude":38.607334,
     "geom:longitude":-90.201003,
@@ -34,7 +39,9 @@
         85633793,
         85971343,
         102080791,
-        85688661
+        85688661,
+        85873665,
+        85867037
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,12 +60,32 @@
             "neighbourhood_id":85873669,
             "region_id":85688661,
             "venue_id":806643683
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080791,
+            "localadmin_id":404518053,
+            "locality_id":85971343,
+            "neighbourhood_id":85873665,
+            "region_id":85688661,
+            "venue_id":806643683
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080791,
+            "localadmin_id":404518053,
+            "locality_id":85971343,
+            "neighbourhood_id":85867037,
+            "region_id":85688661,
+            "venue_id":806643683
         }
     ],
     "wof:id":806643683,
-    "wof:lastmodified":1466629131,
+    "wof:lastmodified":1491905100,
     "wof:name":"Treloar Enterprises Intl",
-    "wof:parent_id":85873669,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],

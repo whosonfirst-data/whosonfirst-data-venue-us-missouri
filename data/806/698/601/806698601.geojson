@@ -2,6 +2,10 @@
   "id": 806698601,
   "type": "Feature",
   "properties": {
+    "addr:full":"300 S John Q Hammons Pkwy Springfield MO 65806",
+    "addr:housenumber":"300",
+    "addr:postcode":"65806",
+    "addr:street":"S John Q Hammons Pkwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":806698601,
-    "wof:lastmodified":1466630802,
+    "wof:lastmodified":1472630589,
     "wof:name":"John Q Hammons Hotels Inc",
     "wof:parent_id":85881125,
     "wof:placetype":"venue",

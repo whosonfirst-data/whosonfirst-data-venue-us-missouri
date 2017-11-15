@@ -2,14 +2,20 @@
   "id": 789988571,
   "type": "Feature",
   "properties": {
+    "addr:full":"2479 US Hwy 67 Festus MO 63028",
+    "addr:housenumber":"2479",
+    "addr:postcode":"63028",
+    "addr:street":"Us Hwy 67 Festus",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.446744,38.174166,-90.446744,38.174166",
     "geom:latitude":38.174166,
     "geom:longitude":-90.446744,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2479 US Hwy 67",
     "sg:city":"Festus",
     "sg:classifiers":[
@@ -30,13 +36,14 @@
         85848677,
         102080787
     ],
+    "wof:brand_id":1125154111,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4GAGxY22ReXsUjGOh0O0rx_38.174166_-90.446744@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462592236,
-    "wof:geomhash":"12cd52ce3ce51b29aebfd9858bede27e",
+    "wof:geomhash":"a842cfca9fa2987b1e097065d2adcb3a",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -47,7 +54,7 @@
         }
     ],
     "wof:id":789988571,
-    "wof:lastmodified":1466631574,
+    "wof:lastmodified":1510700129,
     "wof:name":"Clayton Homes",
     "wof:parent_id":85848677,
     "wof:placetype":"venue",

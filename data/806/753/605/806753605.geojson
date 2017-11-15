@@ -2,6 +2,10 @@
   "id": 806753605,
   "type": "Feature",
   "properties": {
+    "addr:full":"12501 E 46 Pl S Independence MO 64055",
+    "addr:housenumber":"12501;46",
+    "addr:postcode":"64055",
+    "addr:street":"E;Pl S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":806753605,
-    "wof:lastmodified":1466631911,
+    "wof:lastmodified":1472630596,
     "wof:name":"Agnes Schaefer",
     "wof:parent_id":85867021,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 789943731,
   "type": "Feature",
   "properties": {
+    "addr:full":"2700 E 18 St Kansas City MO 64127",
+    "addr:housenumber":"2700;18",
+    "addr:postcode":"64127",
+    "addr:street":"E;St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":789943731,
-    "wof:lastmodified":1466630546,
+    "wof:lastmodified":1472630781,
     "wof:name":"Four-H Clubs University Ext",
     "wof:parent_id":85872027,
     "wof:placetype":"venue",

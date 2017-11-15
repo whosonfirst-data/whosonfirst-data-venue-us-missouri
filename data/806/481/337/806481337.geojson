@@ -2,6 +2,10 @@
   "id": 806481337,
   "type": "Feature",
   "properties": {
+    "addr:full":"1613 NE 78 St Kansas City MO 64118",
+    "addr:housenumber":"1613;78",
+    "addr:postcode":"64118",
+    "addr:street":"Ne;St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":806481337,
-    "wof:lastmodified":1466624906,
+    "wof:lastmodified":1472630324,
     "wof:name":"Care2share",
     "wof:parent_id":85852163,
     "wof:placetype":"venue",

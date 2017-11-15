@@ -2,14 +2,20 @@
   "id": 773292443,
   "type": "Feature",
   "properties": {
+    "addr:full":"653 State Hwy 92 Kearney MO 64060",
+    "addr:housenumber":"653",
+    "addr:postcode":"64060",
+    "addr:street":"State Hwy 92",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.353128,39.367733,-94.353128,39.367733",
     "geom:latitude":39.367733,
     "geom:longitude":-94.353128,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"653 State Hwy 92",
     "sg:city":"Kearney",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102086177,
         85812855
     ],
+    "wof:brand_id":1125150783,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4Y1ktz3lBgFwexPPLg3hPF_39.367733_-94.353128@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462584618,
-    "wof:geomhash":"db6b74c1ba8914218960d9e09883aa9c",
+    "wof:geomhash":"67901f84b75f89865bc38caeeb636915",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":773292443,
-    "wof:lastmodified":1466627006,
+    "wof:lastmodified":1510698801,
     "wof:name":"Royal Cleaners",
     "wof:parent_id":85812855,
     "wof:placetype":"venue",

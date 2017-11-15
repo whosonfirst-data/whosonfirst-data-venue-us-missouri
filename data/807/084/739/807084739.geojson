@@ -2,14 +2,20 @@
   "id": 807084739,
   "type": "Feature",
   "properties": {
+    "addr:full":"400 NW Barry Rd Kansas City MO 64155",
+    "addr:housenumber":"400",
+    "addr:postcode":"64155",
+    "addr:street":"Nw Barry Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.583332,39.248387,-94.583332,39.248387",
     "geom:latitude":39.248387,
     "geom:longitude":-94.583332,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"400 NW Barry Rd",
     "sg:city":"Kansas City",
     "sg:classifiers":[
@@ -39,13 +45,14 @@
         102081227,
         85688661
     ],
+    "wof:brand_id":1125151121,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5blPtWPfRmbuTHrAJ4HUnJ_39.248387_-94.583332@1299784598"
     },
     "wof:country":"US",
     "wof:created":1462603572,
-    "wof:geomhash":"06710869a9b1e7f117bed7f1fd41db1b",
+    "wof:geomhash":"043244d86cfed6c65f7188c45e83d4fa",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,7 +66,7 @@
         }
     ],
     "wof:id":807084739,
-    "wof:lastmodified":1466624438,
+    "wof:lastmodified":1510696837,
     "wof:name":"Pretzel Time",
     "wof:parent_id":85821231,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 773150189,
   "type": "Feature",
   "properties": {
+    "addr:full":"1141 Swift Ave Kansas City MO 64116",
+    "addr:housenumber":"1141",
+    "addr:postcode":"64116",
+    "addr:street":"Swift Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.577363,39.129807,-94.577363,39.129807",
     "geom:latitude":39.129807,
     "geom:longitude":-94.577363,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1141 Swift Ave",
     "sg:city":"Kansas City",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102086177,
         85688661
     ],
+    "wof:brand_id":1125153357,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4WVGpVEi2Y2rQcyINKXHuG_39.129807_-94.577363@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462583505,
-    "wof:geomhash":"1327de11d5f54900c8a7d674979262b5",
+    "wof:geomhash":"5527f42dd0011605eb7fd3131344adb3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":773150189,
-    "wof:lastmodified":1466624326,
+    "wof:lastmodified":1510695784,
     "wof:name":"Black & Decker",
     "wof:parent_id":85823983,
     "wof:placetype":"venue",

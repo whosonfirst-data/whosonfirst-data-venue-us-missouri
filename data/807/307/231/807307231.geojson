@@ -2,14 +2,20 @@
   "id": 807307231,
   "type": "Feature",
   "properties": {
+    "addr:full":"3103 E Chestnut Expy Springfield MO 65802",
+    "addr:housenumber":"3103",
+    "addr:postcode":"65802",
+    "addr:street":"E Chestnut Expy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.231616,37.209865,-93.231616,37.209865",
     "geom:latitude":37.209865,
     "geom:longitude":-93.231616,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3103 E Chestnut Expy",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -41,13 +47,14 @@
         102087523,
         85881137
     ],
+    "wof:brand_id":1125155389,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1f4A6QX8fk5UQyRhP237jT_37.209865_-93.231616@1303262938"
     },
     "wof:country":"US",
     "wof:created":1462605930,
-    "wof:geomhash":"6e59dda3bab47d363addb36b06e35470",
+    "wof:geomhash":"7236fba49b48e38e6d7a1cbc50c6a1c0",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -59,7 +66,7 @@
         }
     ],
     "wof:id":807307231,
-    "wof:lastmodified":1466631095,
+    "wof:lastmodified":1510613260,
     "wof:name":"Lumber Liquidators",
     "wof:parent_id":85881137,
     "wof:placetype":"venue",

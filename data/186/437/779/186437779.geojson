@@ -2,9 +2,14 @@
   "id": 186437779,
   "type": "Feature",
   "properties": {
+    "addr:full":"8500 N Broadway Saint Louis MO 63147",
+    "addr:housenumber":"8500",
+    "addr:postcode":"63147",
+    "addr:street":"N Broadway",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.229301,38.7173,-90.229301,38.7173",
     "geom:latitude":38.7173,
     "geom:longitude":-90.229301,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688661,
+        85804181,
+        102191575,
+        404518053,
         85633793,
         85971343,
         102080791,
-        85804181
+        85688661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +49,10 @@
     "wof:geomhash":"f0c9d66b4ce50e40b7998e9cb337131e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080791,
+            "localadmin_id":404518053,
             "locality_id":85971343,
             "neighbourhood_id":85804181,
             "region_id":85688661,
@@ -52,7 +60,7 @@
         }
     ],
     "wof:id":186437779,
-    "wof:lastmodified":1466622365,
+    "wof:lastmodified":1491927167,
     "wof:name":"Playboy El Cappuccino",
     "wof:parent_id":85804181,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 807047909,
   "type": "Feature",
   "properties": {
+    "addr:full":"16631 Chesterfield Grove Rd Chesterfield MO 63005",
+    "addr:housenumber":"16631",
+    "addr:postcode":"63005",
+    "addr:street":"Chesterfield Grove Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.575802,38.665957,-90.575802,38.665957",
     "geom:latitude":38.665957,
     "geom:longitude":-90.575802,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"16631 Chesterfield Grove Rd",
     "sg:city":"Chesterfield",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102086173,
         85688661
     ],
+    "wof:brand_id":1125152209,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6JwQ7RQj4ptiFiJwuBE3bg_38.665769_-90.575676@1293134755"
     },
     "wof:country":"US",
     "wof:created":1462603272,
-    "wof:geomhash":"1d38aefdb00282458684c9eb6da8d7fc",
+    "wof:geomhash":"2f88e1f7e88649786a77d7f01828fc5b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":807047909,
-    "wof:lastmodified":1466623537,
+    "wof:lastmodified":1510695060,
     "wof:name":"Hilton Garden Inn",
     "wof:parent_id":85805465,
     "wof:placetype":"venue",

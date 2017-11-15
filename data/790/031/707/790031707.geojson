@@ -2,14 +2,20 @@
   "id": 790031707,
   "type": "Feature",
   "properties": {
+    "addr:full":"2865 Dividend Park Dr Florissant MO 63031",
+    "addr:housenumber":"2865",
+    "addr:postcode":"63031",
+    "addr:street":"Dividend Park Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.323673,38.826166,-90.323673,38.826166",
     "geom:latitude":38.826166,
     "geom:longitude":-90.323673,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2865 Dividend Park Dr",
     "sg:city":"Florissant",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102086173,
         85688661
     ],
+    "wof:brand_id":420575791,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6SUEYCbAAjT6dr0r7gad48_38.826166_-90.323673@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462592585,
-    "wof:geomhash":"711ad61a00947115bd95b0f684cbaf03",
+    "wof:geomhash":"fdbd1cba4f8b98f26a26b33890b44f6b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":790031707,
-    "wof:lastmodified":1466622498,
+    "wof:lastmodified":1510602635,
     "wof:name":"Civil Air Patrol Inc",
     "wof:parent_id":85813019,
     "wof:placetype":"venue",

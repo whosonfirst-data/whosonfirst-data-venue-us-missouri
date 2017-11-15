@@ -2,14 +2,20 @@
   "id": 773218105,
   "type": "Feature",
   "properties": {
+    "addr:full":"7007 Longview Rd Kansas City MO 64134",
+    "addr:housenumber":"7007",
+    "addr:postcode":"64134",
+    "addr:street":"Longview Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.51012,38.91516,-94.51012,38.91516",
     "geom:latitude":38.91516,
     "geom:longitude":-94.51012,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"7007 Longview Rd",
     "sg:city":"Kansas City",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102081227,
         85688661
     ],
+    "wof:brand_id":1125150809,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1kuN80XP408CfokVZGO2bl_38.915160_-94.510120@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462584061,
-    "wof:geomhash":"1377d2bb4dca4fbd02e2a45ab893747a",
+    "wof:geomhash":"30d5555cdfd88e3d09c3bd4775df5881",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":773218105,
-    "wof:lastmodified":1466625535,
+    "wof:lastmodified":1510697337,
     "wof:name":"Quiktrip",
     "wof:parent_id":85871945,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 806681257,
   "type": "Feature",
   "properties": {
+    "addr:full":"4300 S Joplin Ave Joplin MO 64804",
+    "addr:housenumber":"4300",
+    "addr:postcode":"64804",
+    "addr:street":"S Joplin Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.517146,37.040718,-94.517146,37.040718",
     "geom:latitude":37.040718,
     "geom:longitude":-94.517146,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4300 S Joplin Ave",
     "sg:city":"Joplin",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102087471,
         85814333
     ],
+    "wof:brand_id":1125154529,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3q6R3tV2WpId3feRz1cwqy_37.040718_-94.517146@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462600181,
-    "wof:geomhash":"a2ea09c723ccef0ac4c7dc8613149cda",
+    "wof:geomhash":"11b3812e519b7b284ea0ac5c110caf42",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":806681257,
-    "wof:lastmodified":1466630168,
+    "wof:lastmodified":1510695740,
     "wof:name":"Fairview Baptist Church",
     "wof:parent_id":85814333,
     "wof:placetype":"venue",

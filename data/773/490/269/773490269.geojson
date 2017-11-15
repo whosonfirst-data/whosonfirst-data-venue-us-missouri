@@ -2,14 +2,20 @@
   "id": 773490269,
   "type": "Feature",
   "properties": {
+    "addr:full":"3418 S Noland Rd Independence MO 64050",
+    "addr:housenumber":"3418",
+    "addr:postcode":"64050",
+    "addr:street":"S Noland Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.415038,39.05823,-94.415038,39.05823",
     "geom:latitude":39.05823,
     "geom:longitude":-94.415038,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3418 S Noland Rd",
     "sg:city":"Independence",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102081227,
         85688661
     ],
+    "wof:brand_id":420574547,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3mSB1DLE5pXnFRGScxzifQ_39.058230_-94.415038@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462586140,
-    "wof:geomhash":"ecadb990ac0c41eb51aaa0ddf7c17abb",
+    "wof:geomhash":"ca6eea4fdb93f78d125bc4cff28e3123",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":773490269,
-    "wof:lastmodified":1466631357,
+    "wof:lastmodified":1510603871,
     "wof:name":"Piggly Wiggly",
     "wof:parent_id":85833097,
     "wof:placetype":"venue",

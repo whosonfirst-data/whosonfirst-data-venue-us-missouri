@@ -2,14 +2,20 @@
   "id": 806820751,
   "type": "Feature",
   "properties": {
+    "addr:full":"165 Pub Works Dr Chesterfield MO 63005",
+    "addr:housenumber":"",
+    "addr:postcode":"63005",
+    "addr:street":"Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.609621,38.666072,-90.609621,38.666072",
     "geom:latitude":38.666072,
     "geom:longitude":-90.609621,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"165 Pub Works Dr",
     "sg:city":"Chesterfield",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102086173,
         85688661
     ],
+    "wof:brand_id":420575835,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0ZPg5SbASCsT5JjchVMDbM_38.666072_-90.609621@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462601350,
-    "wof:geomhash":"5d33a2df60aad4f18a4c926258884fb4",
+    "wof:geomhash":"2675e8b6de7d5b4633b356eff23b3b2f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":806820751,
-    "wof:lastmodified":1466633192,
+    "wof:lastmodified":1510602087,
     "wof:name":"Public Works Dept",
     "wof:parent_id":85805465,
     "wof:placetype":"venue",

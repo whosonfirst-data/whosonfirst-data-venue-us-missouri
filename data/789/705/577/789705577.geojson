@@ -2,6 +2,10 @@
   "id": 789705577,
   "type": "Feature",
   "properties": {
+    "addr:full":"15014 E 33 St S Independence MO 64055",
+    "addr:housenumber":"15014;33",
+    "addr:postcode":"64055",
+    "addr:street":"E;St S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":789705577,
-    "wof:lastmodified":1466624864,
+    "wof:lastmodified":1472630327,
     "wof:name":"Blakes Treasures",
     "wof:parent_id":85847737,
     "wof:placetype":"venue",

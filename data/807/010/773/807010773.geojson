@@ -2,14 +2,20 @@
   "id": 807010773,
   "type": "Feature",
   "properties": {
+    "addr:full":"14201 Manchester Rd Ballwin MO 63011",
+    "addr:housenumber":"14201",
+    "addr:postcode":"63011",
+    "addr:street":"Manchester Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.501923,38.59264,-90.501923,38.59264",
     "geom:latitude":38.59264,
     "geom:longitude":-90.501923,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"14201 Manchester Rd",
     "sg:city":"Ballwin",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102086173,
         85688661
     ],
+    "wof:brand_id":1125153843,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_25qqT03vIrg5HGoyy2lsGc_38.592651_-90.501917@1293134755"
     },
     "wof:country":"US",
     "wof:created":1462602949,
-    "wof:geomhash":"7c998f6343b3afad50a27e21fe22b294",
+    "wof:geomhash":"f553adae5efb3069acbe1b79b31ec4e2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":807010773,
-    "wof:lastmodified":1466622555,
+    "wof:lastmodified":1510699672,
     "wof:name":"Bassett Furniture Direct",
     "wof:parent_id":85802943,
     "wof:placetype":"venue",

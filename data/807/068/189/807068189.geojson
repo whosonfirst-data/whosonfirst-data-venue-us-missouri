@@ -2,14 +2,20 @@
   "id": 807068189,
   "type": "Feature",
   "properties": {
+    "addr:full":"13307 Manchester Rd Saint Louis MO 63131",
+    "addr:housenumber":"13307",
+    "addr:postcode":"63131",
+    "addr:street":"Manchester Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.466295,38.601028,-90.466295,38.601028",
     "geom:latitude":38.601028,
     "geom:longitude":-90.466295,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"13307 Manchester Rd",
     "sg:city":"Saint Louis",
     "sg:classifiers":[
@@ -46,13 +52,14 @@
         102086173,
         85688661
     ],
+    "wof:brand_id":1125150681,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0YVKXFtv0Kx1UXfvvtR0YT_38.601028_-90.466295@1299784598"
     },
     "wof:country":"US",
     "wof:created":1462603432,
-    "wof:geomhash":"4a21966861c3e638953fd5b1925399cc",
+    "wof:geomhash":"2bd082146c844c8d129034f7fbdc88e2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -66,7 +73,7 @@
         }
     ],
     "wof:id":807068189,
-    "wof:lastmodified":1466624145,
+    "wof:lastmodified":1510698853,
     "wof:name":"Noodles & Company",
     "wof:parent_id":85802943,
     "wof:placetype":"venue",

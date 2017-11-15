@@ -2,14 +2,20 @@
   "id": 789725991,
   "type": "Feature",
   "properties": {
+    "addr:full":"1265 McLaran Ave St Louis MO 63147",
+    "addr:housenumber":"1265",
+    "addr:postcode":"63147",
+    "addr:street":"Mclaran Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.237945,38.715779,-90.237945,38.715779",
     "geom:latitude":38.715779,
     "geom:longitude":-90.237945,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1265 McLaran Ave",
     "sg:city":"St Louis",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102080791,
         85688661
     ],
+    "wof:brand_id":1125152171,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_39UM38lasc13u3cleGwc7q_38.715779_-90.237945@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462590071,
-    "wof:geomhash":"9ae6434e70f61030fdba313328bd837f",
+    "wof:geomhash":"881b7bff33198274cd728a19cc87618c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":789725991,
-    "wof:lastmodified":1466625392,
+    "wof:lastmodified":1510699947,
     "wof:name":"Rehab Care Group",
     "wof:parent_id":85804181,
     "wof:placetype":"venue",

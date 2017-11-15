@@ -2,14 +2,20 @@
   "id": 806834161,
   "type": "Feature",
   "properties": {
+    "addr:full":"1019 W Kearney St Springfield MO 65803",
+    "addr:housenumber":"1019",
+    "addr:postcode":"65803",
+    "addr:street":"W Kearney St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.303021,37.240875,-93.303021,37.240875",
     "geom:latitude":37.240875,
     "geom:longitude":-93.303021,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1019 W Kearney St",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102087523,
         85688661
     ],
+    "wof:brand_id":1125151753,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3N4cQZvRizk1hlZcEKVB1q_37.240875_-93.303021@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462601458,
-    "wof:geomhash":"2926bb58967ad960aa121b6097025e01",
+    "wof:geomhash":"bc2367fb8b5c1b2dd375f4d3beb23c42",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":806834161,
-    "wof:lastmodified":1466633342,
+    "wof:lastmodified":1510697321,
     "wof:name":"Aaron's Rental Purchase",
     "wof:parent_id":85881167,
     "wof:placetype":"venue",

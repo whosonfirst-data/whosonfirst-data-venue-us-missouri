@@ -2,6 +2,10 @@
   "id": 789898909,
   "type": "Feature",
   "properties": {
+    "addr:full":"12601 E 34 Ter S Independence MO 64055",
+    "addr:housenumber":"12601;34 ter",
+    "addr:postcode":"64055",
+    "addr:street":"E;S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":789898909,
-    "wof:lastmodified":1466629471,
+    "wof:lastmodified":1472630785,
     "wof:name":"S J Electronics",
     "wof:parent_id":85871965,
     "wof:placetype":"venue",

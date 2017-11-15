@@ -2,14 +2,20 @@
   "id": 790032705,
   "type": "Feature",
   "properties": {
+    "addr:full":"2208 Welsch Industrial Ct St Louis MO 63146",
+    "addr:housenumber":"",
+    "addr:postcode":"2208;63146",
+    "addr:street":"Welsch Industrial Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.432998,38.698535,-90.432998,38.698535",
     "geom:latitude":38.698535,
     "geom:longitude":-90.432998,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2208 Welsch Industrial Ct",
     "sg:city":"St Louis",
     "sg:classifiers":[
@@ -39,13 +45,14 @@
         102086173,
         85688661
     ],
+    "wof:brand_id":1125156947,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1WXhVXSVNmr3wIX1r4CVb8_38.698535_-90.432998@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462592592,
-    "wof:geomhash":"d82b62da714b87298ab1c542a39e2fe6",
+    "wof:geomhash":"3200c00cd8510a09e11b21b7e723878b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,7 +66,7 @@
         }
     ],
     "wof:id":790032705,
-    "wof:lastmodified":1466622546,
+    "wof:lastmodified":1510613429,
     "wof:name":"Danka",
     "wof:parent_id":85803699,
     "wof:placetype":"venue",

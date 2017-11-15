@@ -2,6 +2,10 @@
   "id": 806613287,
   "type": "Feature",
   "properties": {
+    "addr:full":"4321 Chouteau Ave St Louis MO 63110",
+    "addr:housenumber":"4321",
+    "addr:postcode":"63110",
+    "addr:street":"Chouteau Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":806613287,
-    "wof:lastmodified":1466628346,
+    "wof:lastmodified":1472630375,
     "wof:name":"Archway Sales-Jade Warehouse",
     "wof:parent_id":85873649,
     "wof:placetype":"venue",

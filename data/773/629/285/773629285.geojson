@@ -2,6 +2,10 @@
   "id": 773629285,
   "type": "Feature",
   "properties": {
+    "addr:full":"12605 E 37 St N Independence MO 64050",
+    "addr:housenumber":"12605;37",
+    "addr:postcode":"64050",
+    "addr:street":"E;St N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":773629285,
-    "wof:lastmodified":1466633562,
+    "wof:lastmodified":1472631069,
     "wof:name":"Mr Lewis Office",
     "wof:parent_id":85810119,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 806416547,
   "type": "Feature",
   "properties": {
+    "addr:full":"2823 N Glenstone Ave Springfield MO 65803",
+    "addr:housenumber":"2823",
+    "addr:postcode":"65803",
+    "addr:street":"N Glenstone Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.261566,37.248546,-93.261566,37.248546",
     "geom:latitude":37.248546,
     "geom:longitude":-93.261566,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2823 N Glenstone Ave",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102087523,
         85881137
     ],
+    "wof:brand_id":420575279,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1pCEXPBZvaUvCB6xfHgeDr_37.248546_-93.261566@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462597984,
-    "wof:geomhash":"2a49eb80b7754be116e96d4e9bec7d53",
+    "wof:geomhash":"eb94983ed1e3f5149c3ea9f4299ec149",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":806416547,
-    "wof:lastmodified":1466623664,
+    "wof:lastmodified":1510602643,
     "wof:name":"Dennys",
     "wof:parent_id":85881137,
     "wof:placetype":"venue",

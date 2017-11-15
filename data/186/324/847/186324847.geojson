@@ -2,14 +2,20 @@
   "id": 186324847,
   "type": "Feature",
   "properties": {
+    "addr:full":"1024 S. VANDEVENTER St Louis MO 63110",
+    "addr:housenumber":"1024",
+    "addr:postcode":"63110",
+    "addr:street":"S. Vandeventer",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.2476,38.627036,-90.2476,38.627036",
     "geom:latitude":38.627036,
     "geom:longitude":-90.2476,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1024 S. VANDEVENTER",
     "sg:city":"St Louis",
     "sg:classifiers":[
@@ -35,12 +41,13 @@
         102080791,
         85873649
     ],
+    "wof:brand_id":1125159765,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1qScoOLbxGxgjxCIhsEnVu_38.627036_-90.247600@1303262928"
     },
     "wof:country":"US",
-    "wof:geomhash":"19a541493205a081acebc0d5930235af",
+    "wof:geomhash":"93d6ec1622a2848fb5625c1cd40985f0",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":186324847,
-    "wof:lastmodified":1466622314,
+    "wof:lastmodified":1510697202,
     "wof:name":"A-American Self Storage",
     "wof:parent_id":85873649,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 806437291,
   "type": "Feature",
   "properties": {
+    "addr:full":"7711 N Oak Fwy Kansas City MO 64118",
+    "addr:housenumber":"7711",
+    "addr:postcode":"64118",
+    "addr:street":"N Oak Fwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.575982,39.234296,-94.575982,39.234296",
     "geom:latitude":39.234296,
     "geom:longitude":-94.575982,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"7711 N Oak Fwy",
     "sg:city":"Kansas City",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102086177,
         85688661
     ],
+    "wof:brand_id":1125150581,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0uYVk96uyOwVpjlj3tlMmn_39.234296_-94.575982@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462598143,
-    "wof:geomhash":"0d2bace8f11bbee839e7c1eed112128e",
+    "wof:geomhash":"2cdf76de3c42da759abe5104b417664a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":806437291,
-    "wof:lastmodified":1466623926,
+    "wof:lastmodified":1510699573,
     "wof:name":"Pretty Nails",
     "wof:parent_id":85852163,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 807185811,
   "type": "Feature",
   "properties": {
+    "addr:full":"107 Steamboat Bend Shopping Ctr Hannibal MO 63401",
+    "addr:housenumber":"107",
+    "addr:postcode":"63401",
+    "addr:street":"Steamboat Bend Shopping Ctr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.392036,39.711474,-91.392036,39.711474",
     "geom:latitude":39.711474,
     "geom:longitude":-91.392036,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"107 Steamboat Bend Shopping Ctr",
     "sg:city":"Hannibal",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102086171,
         85688661
     ],
+    "wof:brand_id":420575687,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6Xymthiw6oDhpbAsSbEVIA_39.711474_-91.392036@1303262930"
     },
     "wof:country":"US",
     "wof:created":1462604648,
-    "wof:geomhash":"ccde557e90ee290ec1ab3422b3e89fa0",
+    "wof:geomhash":"6b9fc5fea708868b7f7b92f8cbe6a99e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":807185811,
-    "wof:lastmodified":1466627310,
+    "wof:lastmodified":1510602539,
     "wof:name":"Lovely Nails",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

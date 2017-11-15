@@ -2,14 +2,20 @@
   "id": 789679565,
   "type": "Feature",
   "properties": {
+    "addr:full":"1200 NW S Outer Rd Blue Springs MO 64015",
+    "addr:housenumber":"1200",
+    "addr:postcode":"64015",
+    "addr:street":"Nw S Outer Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.27601,39.030311,-94.27601,39.030311",
     "geom:latitude":39.030311,
     "geom:longitude":-94.27601,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1200 NW S Outer Rd",
     "sg:city":"Blue Springs",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102081227,
         85688661
     ],
+    "wof:brand_id":1125151343,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2UwiQliq7hLj00GtG3kwSQ_39.030311_-94.276010@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462589696,
-    "wof:geomhash":"a6737681404334a70d3fd78a28b5137a",
+    "wof:geomhash":"c92c13fc0adfbf309ac9b10b44df8f74",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":789679565,
-    "wof:lastmodified":1466624562,
+    "wof:lastmodified":1510694617,
     "wof:name":"Aid Assoc For Lutherans",
     "wof:parent_id":85847737,
     "wof:placetype":"venue",

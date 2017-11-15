@@ -2,6 +2,10 @@
   "id": 202500149,
   "type": "Feature",
   "properties": {
+    "addr:full":"200 S Main St Clinton MO 64735",
+    "addr:housenumber":"200",
+    "addr:postcode":"64735",
+    "addr:street":"S Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":202500149,
-    "wof:lastmodified":1466622195,
+    "wof:lastmodified":1472630453,
     "wof:name":"Clinton Main Street Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

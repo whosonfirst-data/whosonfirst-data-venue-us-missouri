@@ -2,14 +2,20 @@
   "id": 807104785,
   "type": "Feature",
   "properties": {
+    "addr:full":"3720 Jeffco Blvd Arnold MO 63010",
+    "addr:housenumber":"3720",
+    "addr:postcode":"63010",
+    "addr:street":"Jeffco Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.381364,38.409545,-90.381364,38.409545",
     "geom:latitude":38.409545,
     "geom:longitude":-90.381364,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3720 Jeffco Blvd",
     "sg:city":"Arnold",
     "sg:classifiers":[
@@ -41,13 +47,14 @@
         85805175,
         102080787
     ],
+    "wof:brand_id":420574873,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_360qBlrNhffZa2KMMjCZmU_38.409545_-90.381364@1303262924"
     },
     "wof:country":"US",
     "wof:created":1462603782,
-    "wof:geomhash":"4a9014d2b03900077baa1a6ff0f44583",
+    "wof:geomhash":"2299879692f8e20e83964f1fdab79c9e",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":807104785,
-    "wof:lastmodified":1466625102,
+    "wof:lastmodified":1510604216,
     "wof:name":"Firestone Complete Auto Care Store",
     "wof:parent_id":85805175,
     "wof:placetype":"venue",

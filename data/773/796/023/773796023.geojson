@@ -2,14 +2,20 @@
   "id": 773796023,
   "type": "Feature",
   "properties": {
+    "addr:full":"8601 US Hwy 40 Kansas City MO 64129",
+    "addr:housenumber":"8601",
+    "addr:postcode":"64129",
+    "addr:street":"Us Hwy 40",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.480734,39.063065,-94.480734,39.063065",
     "geom:latitude":39.063065,
     "geom:longitude":-94.480734,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"8601 US Hwy 40",
     "sg:city":"Kansas City",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102081227,
         85688661
     ],
+    "wof:brand_id":1125151471,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3r23i8uOR87hle0C1DCIrx_39.063065_-94.480734@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462588437,
-    "wof:geomhash":"02abc5fced55debab5ae536ea5538ed5",
+    "wof:geomhash":"36ee23e2af06f29bea3935848fdb0b73",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":773796023,
-    "wof:lastmodified":1466635253,
+    "wof:lastmodified":1510698972,
     "wof:name":"Hertz Equipment Rental",
     "wof:parent_id":85867021,
     "wof:placetype":"venue",

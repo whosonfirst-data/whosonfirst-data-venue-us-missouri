@@ -2,6 +2,10 @@
   "id": 806668343,
   "type": "Feature",
   "properties": {
+    "addr:full":"2505 E 39 St Kansas City MO 64128",
+    "addr:housenumber":"2505;39",
+    "addr:postcode":"64128",
+    "addr:street":"E;St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":806668343,
-    "wof:lastmodified":1466630040,
+    "wof:lastmodified":1472630533,
     "wof:name":"Global Priority",
     "wof:parent_id":85872023,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 807317999,
   "type": "Feature",
   "properties": {
+    "addr:full":"280 N Old Woodward Birmingham Towers  Suite 300 Birmingham MO 48009",
+    "addr:housenumber":"280;suite 300",
+    "addr:postcode":"48009",
+    "addr:street":"N Old Woodward",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":807317999,
-    "wof:lastmodified":1466631347,
+    "wof:lastmodified":1472630733,
     "wof:name":"Speedshape",
     "wof:parent_id":420524539,
     "wof:placetype":"venue",

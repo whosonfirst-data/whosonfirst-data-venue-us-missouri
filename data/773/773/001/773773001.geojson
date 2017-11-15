@@ -2,6 +2,10 @@
   "id": 773773001,
   "type": "Feature",
   "properties": {
+    "addr:full":"13047 Co Rd 2340 Saint James MO 65559",
+    "addr:housenumber":"13047",
+    "addr:postcode":"2340;65559",
+    "addr:street":"Co Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":773773001,
-    "wof:lastmodified":1466634895,
+    "wof:lastmodified":1472631076,
     "wof:name":"Wiemann Electric & Plumbing",
     "wof:parent_id":85847353,
     "wof:placetype":"venue",

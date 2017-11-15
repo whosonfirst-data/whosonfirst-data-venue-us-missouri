@@ -2,14 +2,20 @@
   "id": 807108673,
   "type": "Feature",
   "properties": {
+    "addr:full":"1050 S Woods Mill Rd Chesterfield MO 63017",
+    "addr:housenumber":"1050",
+    "addr:postcode":"63017",
+    "addr:street":"S Woods Mill Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.516054,38.624846,-90.516054,38.624846",
     "geom:latitude":38.624846,
     "geom:longitude":-90.516054,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1050 S Woods Mill Rd",
     "sg:city":"Chesterfield",
     "sg:classifiers":[
@@ -44,13 +50,14 @@
         102086173,
         85688661
     ],
+    "wof:brand_id":1125150269,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4XmSABuCjZzKPSKeiTix0R_38.624846_-90.516054@1303262925"
     },
     "wof:country":"US",
     "wof:created":1462603821,
-    "wof:geomhash":"932b71e061ac44a5624a76203e61b906",
+    "wof:geomhash":"7ef22673e5df24f8f1a4d53a040a51fa",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -64,7 +71,7 @@
         }
     ],
     "wof:id":807108673,
-    "wof:lastmodified":1466625191,
+    "wof:lastmodified":1510613305,
     "wof:name":"U.S. Bank",
     "wof:parent_id":85831197,
     "wof:placetype":"venue",

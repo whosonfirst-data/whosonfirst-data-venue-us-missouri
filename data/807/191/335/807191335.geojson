@@ -2,14 +2,20 @@
   "id": 807191335,
   "type": "Feature",
   "properties": {
+    "addr:full":"1400 W Liberty St Farmington MO 63640",
+    "addr:housenumber":"1400",
+    "addr:postcode":"63640",
+    "addr:street":"W Liberty St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.441878,37.779188,-90.441878,37.779188",
     "geom:latitude":37.779188,
     "geom:longitude":-90.441878,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1400 W Liberty St",
     "sg:city":"Farmington",
     "sg:classifiers":[],
@@ -26,13 +32,14 @@
         102085297,
         85816309
     ],
+    "wof:brand_id":420574021,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1hFDTtnBjLTiUqiYv46ido_37.779188_-90.441878@1303262931"
     },
     "wof:country":"US",
     "wof:created":1462604702,
-    "wof:geomhash":"736982d78d91a6b3c6cdf77c68dfbb8d",
+    "wof:geomhash":"0c0dbf82c4e4cb22b32a33189cd057bc",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -44,7 +51,7 @@
         }
     ],
     "wof:id":807191335,
-    "wof:lastmodified":1466627555,
+    "wof:lastmodified":1510608638,
     "wof:name":"Days Inn",
     "wof:parent_id":85816309,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 789792103,
   "type": "Feature",
   "properties": {
+    "addr:full":"6001 E Truman Rd Kansas City MO 64126",
+    "addr:housenumber":"6001",
+    "addr:postcode":"64126",
+    "addr:street":"E Truman Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":789792103,
-    "wof:lastmodified":1466627124,
+    "wof:lastmodified":1472630521,
     "wof:name":"Surplus Sales Outlet",
     "wof:parent_id":420525349,
     "wof:placetype":"venue",

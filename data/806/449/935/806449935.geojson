@@ -2,14 +2,20 @@
   "id": 806449935,
   "type": "Feature",
   "properties": {
+    "addr:full":"710 Larkin Ave St Louis MO 63135",
+    "addr:housenumber":"710",
+    "addr:postcode":"63135",
+    "addr:street":"Larkin Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.297506,38.756388,-90.297506,38.756388",
     "geom:latitude":38.756388,
     "geom:longitude":-90.297506,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"710 Larkin Ave",
     "sg:city":"St Louis",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102086173,
         85688661
     ],
+    "wof:brand_id":1125156787,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1oc1h2npb1pBqgOrqva67H_38.756388_-90.297506@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462598244,
-    "wof:geomhash":"7bc04ea5ff1083065be333ca9c1b2d79",
+    "wof:geomhash":"7a4ab31d9e8d4fdef0cfbc5c3b69a37a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":806449935,
-    "wof:lastmodified":1466624215,
+    "wof:lastmodified":1510696932,
     "wof:name":"Mr Handyman",
     "wof:parent_id":85859027,
     "wof:placetype":"venue",

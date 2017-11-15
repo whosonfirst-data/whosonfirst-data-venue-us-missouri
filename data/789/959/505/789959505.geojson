@@ -2,6 +2,10 @@
   "id": 789959505,
   "type": "Feature",
   "properties": {
+    "addr:full":"11105 E 98 St Kansas City MO 64134",
+    "addr:housenumber":"11105;98",
+    "addr:postcode":"64134",
+    "addr:street":"E;St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":789959505,
-    "wof:lastmodified":1466631151,
+    "wof:lastmodified":1472630765,
     "wof:name":"Onyx Construction",
     "wof:parent_id":85853361,
     "wof:placetype":"venue",

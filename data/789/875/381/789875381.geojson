@@ -2,6 +2,10 @@
   "id": 789875381,
   "type": "Feature",
   "properties": {
+    "addr:full":"9806 E 26 Ter S Independence MO 64052",
+    "addr:housenumber":"9806;26 ter",
+    "addr:postcode":"64052",
+    "addr:street":"E;S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":789875381,
-    "wof:lastmodified":1466628898,
+    "wof:lastmodified":1472630704,
     "wof:name":"Amway Products Distributor",
     "wof:parent_id":85818127,
     "wof:placetype":"venue",

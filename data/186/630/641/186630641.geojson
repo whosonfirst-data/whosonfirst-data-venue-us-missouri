@@ -2,14 +2,20 @@
   "id": 186630641,
   "type": "Feature",
   "properties": {
+    "addr:full":"200 S Spring St Independence MO 64050",
+    "addr:housenumber":"200",
+    "addr:postcode":"64050",
+    "addr:street":"S Spring St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.419907,39.091129,-94.419907,39.091129",
     "geom:latitude":39.091129,
     "geom:longitude":-94.419907,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"200 S Spring St",
     "sg:city":"Independence",
     "sg:classifiers":[
@@ -44,12 +50,13 @@
         102081227,
         85833097
     ],
+    "wof:brand_id":1125159965,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2Kuw067VjsV4xGK8ffdteX_39.091129_-94.419907@1303262932"
     },
     "wof:country":"US",
-    "wof:geomhash":"e77443df3b82dcf0798e40b30ac01bf4",
+    "wof:geomhash":"217bc84a655f319c39c9a8bb4cd444c2",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -62,7 +69,7 @@
         }
     ],
     "wof:id":186630641,
-    "wof:lastmodified":1466622242,
+    "wof:lastmodified":1510693849,
     "wof:name":"Old Republic",
     "wof:parent_id":85833097,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 789981877,
   "type": "Feature",
   "properties": {
+    "addr:full":"12346 Olive Blvd Saint Louis MO 63141",
+    "addr:housenumber":"12346",
+    "addr:postcode":"63141",
+    "addr:street":"Olive Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":789981877,
-    "wof:lastmodified":1466631619,
+    "wof:lastmodified":1472630806,
     "wof:name":"Lauries",
     "wof:parent_id":85805719,
     "wof:placetype":"venue",

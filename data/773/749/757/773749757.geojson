@@ -2,14 +2,20 @@
   "id": 773749757,
   "type": "Feature",
   "properties": {
+    "addr:full":"1714 Deer Tracks Trl St Louis MO 63131",
+    "addr:housenumber":"1714",
+    "addr:postcode":"63131",
+    "addr:street":"Deer Tracks Trl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.453054,38.608783,-90.453054,38.608783",
     "geom:latitude":38.608783,
     "geom:longitude":-90.453054,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1714 Deer Tracks Trl",
     "sg:city":"St Louis",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102086173,
         85688661
     ],
+    "wof:brand_id":1125155981,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6XWJIGpXrQiL2g1n5q2wew_38.608783_-90.453054@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462588095,
-    "wof:geomhash":"851e045eca51fe2b9bd940220d417fbf",
+    "wof:geomhash":"044ce08c04bede6dc409efdc5b506768",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":773749757,
-    "wof:lastmodified":1466634725,
+    "wof:lastmodified":1510697366,
     "wof:name":"Sandler Sales Institute",
     "wof:parent_id":85867981,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 789868579,
   "type": "Feature",
   "properties": {
+    "addr:full":"12426 Olive Blvd Creve Coeur MO 63141",
+    "addr:housenumber":"12426",
+    "addr:postcode":"63141",
+    "addr:street":"Olive Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.461081,38.674725,-90.461081,38.674725",
     "geom:latitude":38.674725,
     "geom:longitude":-90.461081,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"12426 Olive Blvd",
     "sg:city":"Creve Coeur",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102086173,
         85688661
     ],
+    "wof:brand_id":420575945,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_15k4o5uzw5VuZgLArtxMPH_38.674725_-90.461081@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462591172,
-    "wof:geomhash":"691c7044b805c848c9555b9d28f97140",
+    "wof:geomhash":"b7cf41f6f021ced23d97dde37e05d9c6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":789868579,
-    "wof:lastmodified":1466628745,
+    "wof:lastmodified":1510607730,
     "wof:name":"Sport Clips",
     "wof:parent_id":85805719,
     "wof:placetype":"venue",

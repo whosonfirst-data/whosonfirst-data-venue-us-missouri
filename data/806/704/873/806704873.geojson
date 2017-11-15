@@ -2,14 +2,20 @@
   "id": 806704873,
   "type": "Feature",
   "properties": {
+    "addr:full":"2336 S Campbell Ave Springfield MO 65807",
+    "addr:housenumber":"2336",
+    "addr:postcode":"65807",
+    "addr:street":"S Campbell Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.29524,37.172928,-93.29524,37.172928",
     "geom:latitude":37.172928,
     "geom:longitude":-93.29524,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2336 S Campbell Ave",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102087523,
         85688661
     ],
+    "wof:brand_id":1125151753,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_48uU5AvRA4FixJGctR4C4Y_37.172928_-93.295240@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462600375,
-    "wof:geomhash":"ba8a31e3479511b8f35dc67a14034295",
+    "wof:geomhash":"774e27adf857d15969a41b8a0c6ead2d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":806704873,
-    "wof:lastmodified":1466630963,
+    "wof:lastmodified":1510697321,
     "wof:name":"Aaron's Rental Purchase",
     "wof:parent_id":85881155,
     "wof:placetype":"venue",

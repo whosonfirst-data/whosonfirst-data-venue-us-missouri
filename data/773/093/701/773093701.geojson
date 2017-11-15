@@ -2,14 +2,20 @@
   "id": 773093701,
   "type": "Feature",
   "properties": {
+    "addr:full":"13920 Manchester Rd Ballwin MO 63011",
+    "addr:housenumber":"13920",
+    "addr:postcode":"63011",
+    "addr:street":"Manchester Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.489854,38.595866,-90.489854,38.595866",
     "geom:latitude":38.595866,
     "geom:longitude":-90.489854,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"13920 Manchester Rd",
     "sg:city":"Ballwin",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102086173,
         85688661
     ],
+    "wof:brand_id":1125154041,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6TJ5odofXYmNp1UXsEW8oD_38.595866_-90.489854@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462583106,
-    "wof:geomhash":"31a0703ac822daa3d205ea1026967fd4",
+    "wof:geomhash":"458ccce2a0bc96e672cd4d5a119662e2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":773093701,
-    "wof:lastmodified":1466623388,
+    "wof:lastmodified":1510695730,
     "wof:name":"DSW Shoe Warehouse",
     "wof:parent_id":85802943,
     "wof:placetype":"venue",

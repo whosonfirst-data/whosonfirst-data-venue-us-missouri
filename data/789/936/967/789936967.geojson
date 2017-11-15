@@ -2,6 +2,10 @@
   "id": 789936967,
   "type": "Feature",
   "properties": {
+    "addr:full":"222 Russell Blvd St Louis MO 63104",
+    "addr:housenumber":"222",
+    "addr:postcode":"63104",
+    "addr:street":"Russell Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":789936967,
-    "wof:lastmodified":1466630612,
+    "wof:lastmodified":1472630800,
     "wof:name":"Loy-Lange Box Co",
     "wof:parent_id":85873669,
     "wof:placetype":"venue",

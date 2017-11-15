@@ -2,14 +2,20 @@
   "id": 773702753,
   "type": "Feature",
   "properties": {
+    "addr:full":"806 N Jefferson Ave Springfield MO 65802",
+    "addr:housenumber":"806",
+    "addr:postcode":"65802",
+    "addr:street":"N Jefferson Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.289348,37.217274,-93.289348,37.217274",
     "geom:latitude":37.217274,
     "geom:longitude":-93.289348,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"806 N Jefferson Ave",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102087523,
         85688661
     ],
+    "wof:brand_id":420574765,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_00S0BWE0i6ng3C5ImILlbz_37.217274_-93.289348@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462587745,
-    "wof:geomhash":"00c2cdf7980fa133a348005993b7cacb",
+    "wof:geomhash":"e49ee5439607f278b4900b96b050b08c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":773702753,
-    "wof:lastmodified":1466634679,
+    "wof:lastmodified":1510604125,
     "wof:name":"Social Security Administration",
     "wof:parent_id":85881135,
     "wof:placetype":"venue",

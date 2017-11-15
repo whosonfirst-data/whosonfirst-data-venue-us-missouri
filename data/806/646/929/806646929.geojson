@@ -2,14 +2,20 @@
   "id": 806646929,
   "type": "Feature",
   "properties": {
+    "addr:full":"849 American Legion Dr Festus MO 63028",
+    "addr:housenumber":"849",
+    "addr:postcode":"63028",
+    "addr:street":"American Legion Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.396459,38.208457,-90.396459,38.208457",
     "geom:latitude":38.208457,
     "geom:longitude":-90.396459,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"849 American Legion Dr",
     "sg:city":"Festus",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102080787,
         85688661
     ],
+    "wof:brand_id":420573811,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1O4FsNDh6rUIw0PMBljgCY_38.208457_-90.396459@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462599879,
-    "wof:geomhash":"3f6afcc73cf1850ca75ba5e18cc1039c",
+    "wof:geomhash":"89a42ed0608670e31bb39414ad9aadcd",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":806646929,
-    "wof:lastmodified":1466629411,
+    "wof:lastmodified":1510603363,
     "wof:name":"American Legion",
     "wof:parent_id":420525375,
     "wof:placetype":"venue",

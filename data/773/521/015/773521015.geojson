@@ -2,6 +2,10 @@
   "id": 773521015,
   "type": "Feature",
   "properties": {
+    "addr:full":"611 W 8 St Kansas City MO 64105",
+    "addr:housenumber":"611;8",
+    "addr:postcode":"64105",
+    "addr:street":"W;St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":773521015,
-    "wof:lastmodified":1466632039,
+    "wof:lastmodified":1472631011,
     "wof:name":"River Club",
     "wof:parent_id":85872005,
     "wof:placetype":"venue",

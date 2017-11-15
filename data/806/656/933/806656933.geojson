@@ -2,14 +2,20 @@
   "id": 806656933,
   "type": "Feature",
   "properties": {
+    "addr:full":"2700 NE 47 Ter Kansas City MO 64117",
+    "addr:housenumber":"2700;47 ter",
+    "addr:postcode":"64117",
+    "addr:street":"Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.544945,39.180375,-94.544945,39.180375",
     "geom:latitude":39.180375,
     "geom:longitude":-94.544945,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2700 NE 47 Ter",
     "sg:city":"Kansas City",
     "sg:classifiers":[
@@ -28,22 +34,34 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        420525309,
+        85823153,
         102191575,
         404518075,
         85633793,
         85970739,
         102081227,
-        85688661
+        85688661,
+        420525309
     ],
+    "wof:brand_id":1125151871,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_08EdVMS5NaUZJJ3inrrLLW_39.180375_-94.544945@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462599970,
-    "wof:geomhash":"5aad1cade551917cf7a9c04e4f0cfcf7",
+    "wof:geomhash":"1518bae2c697a0e9bc299b118890d9d1",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081227,
+            "localadmin_id":404518075,
+            "locality_id":85970739,
+            "neighbourhood_id":85823153,
+            "region_id":85688661,
+            "venue_id":806656933
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -56,9 +74,9 @@
         }
     ],
     "wof:id":806656933,
-    "wof:lastmodified":1466629512,
+    "wof:lastmodified":1510698680,
     "wof:name":"Amsoil Synthetic Lubricants",
-    "wof:parent_id":420525309,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],

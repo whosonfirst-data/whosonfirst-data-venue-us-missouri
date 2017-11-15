@@ -2,14 +2,20 @@
   "id": 773696959,
   "type": "Feature",
   "properties": {
+    "addr:full":"300 N Osage St Independence MO 64050",
+    "addr:housenumber":"300",
+    "addr:postcode":"64050",
+    "addr:street":"N Osage St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.418393,39.094592,-94.418393,39.094592",
     "geom:latitude":39.094592,
     "geom:longitude":-94.418393,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"300 N Osage St",
     "sg:city":"Independence",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102081227,
         85688661
     ],
+    "wof:brand_id":1125156543,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7gWYxjrvvcRFoWVy47EfJu_39.094592_-94.418393@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462587705,
-    "wof:geomhash":"96c9c395d743ab6957f03a0c85056a8c",
+    "wof:geomhash":"8f6c54368143116c93367d7c799e1713",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":773696959,
-    "wof:lastmodified":1466634353,
+    "wof:lastmodified":1510700004,
     "wof:name":"Commerce Bank N A",
     "wof:parent_id":85833097,
     "wof:placetype":"venue",

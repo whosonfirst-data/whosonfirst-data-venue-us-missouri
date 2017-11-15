@@ -2,6 +2,10 @@
   "id": 789774643,
   "type": "Feature",
   "properties": {
+    "addr:full":"27 E 55 Ter Kansas City MO 64113",
+    "addr:housenumber":"27;55 ter",
+    "addr:postcode":"64113",
+    "addr:street":"E",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":789774643,
-    "wof:lastmodified":1466626750,
+    "wof:lastmodified":1472630509,
     "wof:name":"Alderman Chem Enterprises",
     "wof:parent_id":85872031,
     "wof:placetype":"venue",

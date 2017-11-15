@@ -2,14 +2,20 @@
   "id": 789640079,
   "type": "Feature",
   "properties": {
+    "addr:full":"1129 Brooklyn Ave Kansas City MO 64127",
+    "addr:housenumber":"1129",
+    "addr:postcode":"64127",
+    "addr:street":"Brooklyn Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.555942,39.099353,-94.555942,39.099353",
     "geom:latitude":39.099353,
     "geom:longitude":-94.555942,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1129 Brooklyn Ave",
     "sg:city":"Kansas City",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102081227,
         85688661
     ],
+    "wof:brand_id":1125150189,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0o2GMUQANLpSNq2jhIJDZp_39.099353_-94.555942@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462589375,
-    "wof:geomhash":"2201c5036c80d45e93c8d7ed5d5258d8",
+    "wof:geomhash":"4156ff643a441200c561cde101d3cf92",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":789640079,
-    "wof:lastmodified":1466624040,
+    "wof:lastmodified":1510697304,
     "wof:name":"Quik Cash",
     "wof:parent_id":420525355,
     "wof:placetype":"venue",

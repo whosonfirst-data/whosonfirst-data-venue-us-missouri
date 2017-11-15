@@ -2,14 +2,20 @@
   "id": 789753379,
   "type": "Feature",
   "properties": {
+    "addr:full":"281 Mid Rivers Mall Dr St Peters MO 63376",
+    "addr:housenumber":"281",
+    "addr:postcode":"63376",
+    "addr:street":"Mid Rivers Mall Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.624163,38.79247,-90.624163,38.79247",
     "geom:latitude":38.79247,
     "geom:longitude":-90.624163,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"281 Mid Rivers Mall Dr",
     "sg:city":"St Peters",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102086159,
         85821097
     ],
+    "wof:brand_id":1125151823,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1t4Xkj1qTJm6wS5S6GdtUr_38.792470_-90.624163@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462590279,
-    "wof:geomhash":"30fe39d4f5a0aaeaa41f3b0a767228b6",
+    "wof:geomhash":"dd8d5d916a27dcd4b53ef359e7bf9b51",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":789753379,
-    "wof:lastmodified":1466626100,
+    "wof:lastmodified":1510694568,
     "wof:name":"Bed Bath & Beyond Inc",
     "wof:parent_id":85821097,
     "wof:placetype":"venue",

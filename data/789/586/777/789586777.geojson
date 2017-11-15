@@ -2,14 +2,20 @@
   "id": 789586777,
   "type": "Feature",
   "properties": {
+    "addr:full":"734 N West Ave Springfield MO 65802",
+    "addr:housenumber":"734",
+    "addr:postcode":"65802",
+    "addr:street":"N West Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.325593,37.21675,-93.325593,37.21675",
     "geom:latitude":37.21675,
     "geom:longitude":-93.325593,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"734 N West Ave",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102087523,
         85688661
     ],
+    "wof:brand_id":1125156475,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4tOPCGGKBQ6hEQAOf5jH1s_37.216750_-93.325593@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462588961,
-    "wof:geomhash":"50f5ef6cee98996d518d110632159187",
+    "wof:geomhash":"b3f2eefc287da80f79d3098a204291db",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":789586777,
-    "wof:lastmodified":1466622906,
+    "wof:lastmodified":1510696791,
     "wof:name":"Safety-Kleen Corp",
     "wof:parent_id":85881127,
     "wof:placetype":"venue",

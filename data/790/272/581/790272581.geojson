@@ -2,14 +2,20 @@
   "id": 790272581,
   "type": "Feature",
   "properties": {
+    "addr:full":"13550 Big Bend Rd St Louis MO 63122",
+    "addr:housenumber":"13550",
+    "addr:postcode":"63122",
+    "addr:street":"Big Bend Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.472533,38.568336,-90.472533,38.568336",
     "geom:latitude":38.568336,
     "geom:longitude":-90.472533,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"13550 Big Bend Rd",
     "sg:city":"St Louis",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         85839871,
         102086173
     ],
+    "wof:brand_id":420575631,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3jIhwQfsTDuT1bHxAwZCqi_38.568336_-90.472533@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462594522,
-    "wof:geomhash":"7cd1bfd2a21312e3cbbf53d68b64a727",
+    "wof:geomhash":"4681c17a3fba233fd71f478142892512",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":790272581,
-    "wof:lastmodified":1466628122,
+    "wof:lastmodified":1510601968,
     "wof:name":"Children's World Learning Ctr",
     "wof:parent_id":85839871,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 806676983,
   "type": "Feature",
   "properties": {
+    "addr:full":"2220 Mason Ln Ballwin MO 63021",
+    "addr:housenumber":"2220",
+    "addr:postcode":"63021",
+    "addr:street":"Mason Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.477779,38.595238,-90.477779,38.595238",
     "geom:latitude":38.595238,
     "geom:longitude":-90.477779,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2220 Mason Ln",
     "sg:city":"Ballwin",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102086173,
         85688661
     ],
+    "wof:brand_id":1125152413,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6TCj6G7h5Hz3onjLu90BB9_38.595238_-90.477779@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462600145,
-    "wof:geomhash":"677c0e80ad61a67d76dcec492c645a85",
+    "wof:geomhash":"50cb51cef971eef4fa07b6c25e845fc0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":806676983,
-    "wof:lastmodified":1466630038,
+    "wof:lastmodified":1510694882,
     "wof:name":"Loomis Fargo & Co",
     "wof:parent_id":85802943,
     "wof:placetype":"venue",

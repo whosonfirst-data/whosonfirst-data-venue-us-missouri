@@ -2,14 +2,20 @@
   "id": 790228331,
   "type": "Feature",
   "properties": {
+    "addr:full":"206 N 5th St St Charles MO 63301",
+    "addr:housenumber":"206",
+    "addr:postcode":"63301",
+    "addr:street":"N 5Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.485148,38.784396,-90.485148,38.784396",
     "geom:latitude":38.784396,
     "geom:longitude":-90.485148,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"206 N 5th St",
     "sg:city":"St Charles",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102086159,
         85821097
     ],
+    "wof:brand_id":1125150803,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2PdFzOhMXncoAXfUSuPgKe_38.784396_-90.485148@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462594158,
-    "wof:geomhash":"12a2db5f2149f7fe139a01ce0df70875",
+    "wof:geomhash":"a3cbb50493386a83ef07aebada2d2e42",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":790228331,
-    "wof:lastmodified":1466627057,
+    "wof:lastmodified":1510697334,
     "wof:name":"Investment Centers Of America",
     "wof:parent_id":85821097,
     "wof:placetype":"venue",

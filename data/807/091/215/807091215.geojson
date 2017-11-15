@@ -2,14 +2,20 @@
   "id": 807091215,
   "type": "Feature",
   "properties": {
+    "addr:full":"Replacement Ave Fort Leonard Wood MO 65473",
+    "addr:housenumber":"",
+    "addr:postcode":"65473",
+    "addr:street":"Replacement Ave Fort Leonard",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.1101,37.760104,-92.1101,37.760104",
     "geom:latitude":37.760104,
     "geom:longitude":-92.1101,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Replacement Ave",
     "sg:city":"Fort Leonard Wood",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102086161,
         85688661
     ],
+    "wof:brand_id":1125151013,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0KlxmwELy83oGmtidZ0Jdz_37.760104_-92.110100@1299784598"
     },
     "wof:country":"US",
     "wof:created":1462603628,
-    "wof:geomhash":"cf3b813dd78d7d2080e5e477d2fb300a",
+    "wof:geomhash":"c997738ca2d7fe89fc09dd67bdd6973a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":807091215,
-    "wof:lastmodified":1466624398,
+    "wof:lastmodified":1510693724,
     "wof:name":"Manchu Wok",
     "wof:parent_id":85822351,
     "wof:placetype":"venue",

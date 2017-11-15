@@ -2,14 +2,20 @@
   "id": 773217159,
   "type": "Feature",
   "properties": {
+    "addr:full":"1414 S Glenstone Ave Springfield MO 65804",
+    "addr:housenumber":"1414",
+    "addr:postcode":"65804",
+    "addr:street":"S Glenstone Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.262158,37.188275,-93.262158,37.188275",
     "geom:latitude":37.188275,
     "geom:longitude":-93.262158,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1414 S Glenstone Ave",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102087523,
         85688661
     ],
+    "wof:brand_id":420575889,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3xRZdSVfoDhdsJmTecoKCB_37.188275_-93.262158@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462584054,
-    "wof:geomhash":"261d0984ffbbc61ee1f2f671836a7ca8",
+    "wof:geomhash":"92ad7e550fedc8c0d2cfe122ed604f47",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":773217159,
-    "wof:lastmodified":1466625289,
+    "wof:lastmodified":1510602989,
     "wof:name":"Labor Finders",
     "wof:parent_id":85881147,
     "wof:placetype":"venue",

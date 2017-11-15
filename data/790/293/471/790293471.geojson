@@ -2,14 +2,20 @@
   "id": 790293471,
   "type": "Feature",
   "properties": {
+    "addr:full":"111 S 10th St St Louis MO 63102",
+    "addr:housenumber":"111",
+    "addr:postcode":"63102",
+    "addr:street":"S 10Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.196458,38.624622,-90.196458,38.624622",
     "geom:latitude":38.624622,
     "geom:longitude":-90.196458,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"111 S 10th St",
     "sg:city":"St Louis",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102080791,
         85688661
     ],
+    "wof:brand_id":1125158657,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_07zThV09pfhjUPgcB2Ubap_38.624622_-90.196458@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462594719,
-    "wof:geomhash":"fead5eda0a458b3a5bf342cf196f59f6",
+    "wof:geomhash":"1260990da692fe4f8dda92642c57c17b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":790293471,
-    "wof:lastmodified":1466628626,
+    "wof:lastmodified":1510696841,
     "wof:name":"US Secret Svc",
     "wof:parent_id":85867033,
     "wof:placetype":"venue",

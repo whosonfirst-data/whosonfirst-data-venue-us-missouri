@@ -2,14 +2,20 @@
   "id": 790245939,
   "type": "Feature",
   "properties": {
+    "addr:full":"10330 Page Industrial Blvd St Louis MO 63132",
+    "addr:housenumber":"10330",
+    "addr:postcode":"63132",
+    "addr:street":"Page Industrial Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.389407,38.686756,-90.389407,38.686756",
     "geom:latitude":38.686756,
     "geom:longitude":-90.389407,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"10330 Page Industrial Blvd",
     "sg:city":"St Louis",
     "sg:classifiers":[
@@ -42,13 +48,14 @@
         102086173,
         85688661
     ],
+    "wof:brand_id":1125157233,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0EnGud33X5U2NZD4yLhxI1_38.686756_-90.389407@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462594293,
-    "wof:geomhash":"bb0a1623c13edd0ef389f66127aca15f",
+    "wof:geomhash":"ded9097fe7650fa1595f78d2a795631e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -62,7 +69,7 @@
         }
     ],
     "wof:id":790245939,
-    "wof:lastmodified":1466627435,
+    "wof:lastmodified":1510698643,
     "wof:name":"Pinnacle Towers Inc",
     "wof:parent_id":85803699,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 806710079,
   "type": "Feature",
   "properties": {
+    "addr:full":"5727 Chapel Ln Osage Beach MO 65065",
+    "addr:housenumber":"5727",
+    "addr:postcode":"65065",
+    "addr:street":"Chapel Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.677584,38.124441,-92.677584,38.124441",
     "geom:latitude":38.124441,
     "geom:longitude":-92.677584,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5727 Chapel Ln",
     "sg:city":"Osage Beach",
     "sg:classifiers":[
@@ -41,13 +47,14 @@
         102087517,
         85688661
     ],
+    "wof:brand_id":1125150601,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3VCgcYrFST9Ipip6siHmLm_38.124441_-92.677584@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462600419,
-    "wof:geomhash":"4ef1d16b6077dd87a0337092cf35fa55",
+    "wof:geomhash":"4adf7cc018fe3d182dbc760e52c8c0e2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,7 +68,7 @@
         }
     ],
     "wof:id":806710079,
-    "wof:lastmodified":1466631044,
+    "wof:lastmodified":1510697771,
     "wof:name":"Apria Healthcare Inc",
     "wof:parent_id":85813457,
     "wof:placetype":"venue",

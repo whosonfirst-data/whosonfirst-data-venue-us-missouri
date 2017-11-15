@@ -2,14 +2,20 @@
   "id": 773316283,
   "type": "Feature",
   "properties": {
+    "addr:full":"252 NE Chipman Rd Lees Summit MO 64063",
+    "addr:housenumber":"252",
+    "addr:postcode":"64063",
+    "addr:street":"Ne Chipman Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.378329,38.925115,-94.378329,38.925115",
     "geom:latitude":38.925115,
     "geom:longitude":-94.378329,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"252 NE Chipman Rd",
     "sg:city":"Lees Summit",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102081227,
         85688661
     ],
+    "wof:brand_id":420575587,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4g7TYGzOGMK2QL5LDAQA3H_38.925115_-94.378329@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462584819,
-    "wof:geomhash":"7941411268e8073d7f4da6f19e8939c9",
+    "wof:geomhash":"78f82c1ef5896f90ccdde333699c47e8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":773316283,
-    "wof:lastmodified":1466627607,
+    "wof:lastmodified":1510677818,
     "wof:name":"Revenue Dept",
     "wof:parent_id":85849825,
     "wof:placetype":"venue",

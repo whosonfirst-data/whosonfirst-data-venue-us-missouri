@@ -2,14 +2,20 @@
   "id": 773163251,
   "type": "Feature",
   "properties": {
+    "addr:full":"1017 US Hwy 67 Festus MO 63028",
+    "addr:housenumber":"1017",
+    "addr:postcode":"63028",
+    "addr:street":"Us Hwy 67 Festus",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.393827,38.206263,-90.393827,38.206263",
     "geom:latitude":38.206263,
     "geom:longitude":-90.393827,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1017 US Hwy 67",
     "sg:city":"Festus",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102080787,
         85688661
     ],
+    "wof:brand_id":1125157037,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1XRirYyePmo5s5qjrNWJa1_38.206263_-90.393827@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462583618,
-    "wof:geomhash":"05dac6a00d871df875e2f8bff10a8181",
+    "wof:geomhash":"dbf4bfc60f113eabd1d2ee78fba26234",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":773163251,
-    "wof:lastmodified":1466624512,
+    "wof:lastmodified":1510695401,
     "wof:name":"Picket Fence",
     "wof:parent_id":420525375,
     "wof:placetype":"venue",

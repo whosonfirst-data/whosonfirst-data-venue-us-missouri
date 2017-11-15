@@ -2,14 +2,20 @@
   "id": 807215209,
   "type": "Feature",
   "properties": {
+    "addr:full":"105 S Jefferson St Ste A-1 Kearney MO 64060",
+    "addr:housenumber":"105",
+    "addr:postcode":"64060",
+    "addr:street":"S Jefferson St Ste A-1",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.362381,39.372101,-94.362381,39.372101",
     "geom:latitude":39.372101,
     "geom:longitude":-94.362381,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"105 S Jefferson St Ste A-1",
     "sg:city":"Kearney",
     "sg:classifiers":[
@@ -53,13 +59,14 @@
         102086177,
         85812855
     ],
+    "wof:brand_id":1125154131,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0Wusc6b5YoW5PhmVyCAgQk_39.372101_-94.362381@1303262932"
     },
     "wof:country":"US",
     "wof:created":1462604950,
-    "wof:geomhash":"3338170d5c5f475aa168bb3c633a6ab3",
+    "wof:geomhash":"ce2ef66a7796b88cef8551bf348eb53c",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -71,7 +78,7 @@
         }
     ],
     "wof:id":807215209,
-    "wof:lastmodified":1466627970,
+    "wof:lastmodified":1510699748,
     "wof:name":"Mr. Goodcents Subs & Pasta",
     "wof:parent_id":85812855,
     "wof:placetype":"venue",

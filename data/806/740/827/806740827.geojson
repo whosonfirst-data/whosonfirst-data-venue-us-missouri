@@ -2,14 +2,20 @@
   "id": 806740827,
   "type": "Feature",
   "properties": {
+    "addr:full":"14246 Manchester Rd Ballwin MO 63011",
+    "addr:housenumber":"14246",
+    "addr:postcode":"63011",
+    "addr:street":"Manchester Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.504572,38.592599,-90.504572,38.592599",
     "geom:latitude":38.592599,
     "geom:longitude":-90.504572,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"14246 Manchester Rd",
     "sg:city":"Ballwin",
     "sg:classifiers":[
@@ -44,13 +50,14 @@
         102086173,
         85688661
     ],
+    "wof:brand_id":1125154571,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_07W11rbKlnOWTzoniMJnHk_38.592599_-90.504572@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462600686,
-    "wof:geomhash":"ba0fa8f56443f55ef945d03531261759",
+    "wof:geomhash":"e78c5fe032e39f7369e4dc925d2df4f5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -64,7 +71,7 @@
         }
     ],
     "wof:id":806740827,
-    "wof:lastmodified":1466631590,
+    "wof:lastmodified":1510694681,
     "wof:name":"Thomasville Home Furnishings",
     "wof:parent_id":85802943,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 806578585,
   "type": "Feature",
   "properties": {
+    "addr:full":"4350 N Farm Rd 151 Springfield MO 65803",
+    "addr:housenumber":"4350;151",
+    "addr:postcode":"65803",
+    "addr:street":"N Farm Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":806578585,
-    "wof:lastmodified":1466627212,
+    "wof:lastmodified":1472630402,
     "wof:name":"Liberty Painting",
     "wof:parent_id":85881137,
     "wof:placetype":"venue",

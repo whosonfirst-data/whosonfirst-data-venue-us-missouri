@@ -2,14 +2,20 @@
   "id": 807158019,
   "type": "Feature",
   "properties": {
+    "addr:full":"6190 Delmar Blvd Saint Louis MO 63112",
+    "addr:housenumber":"6190",
+    "addr:postcode":"63112",
+    "addr:street":"Delmar Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.299301,38.655499,-90.299301,38.655499",
     "geom:latitude":38.655499,
     "geom:longitude":-90.299301,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"6190 Delmar Blvd",
     "sg:city":"Saint Louis",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102080791,
         85688661
     ],
+    "wof:brand_id":1125157805,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1BnzMyJYOZ50Zht2Nz45oC_38.655499_-90.299301@1303262929"
     },
     "wof:country":"US",
     "wof:created":1462604353,
-    "wof:geomhash":"661bff9c85ced472c4ed43d7e9043c8f",
+    "wof:geomhash":"97f18bc67f23f88bf0f213fb332c85b9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":807158019,
-    "wof:lastmodified":1466626419,
+    "wof:lastmodified":1510694856,
     "wof:name":"Church's Fried Chicken",
     "wof:parent_id":85873631,
     "wof:placetype":"venue",

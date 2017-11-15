@@ -2,9 +2,14 @@
   "id": 186437109,
   "type": "Feature",
   "properties": {
+    "addr:full":"8102 N Broadway Saint Louis MO 63147",
+    "addr:housenumber":"8102",
+    "addr:postcode":"63147",
+    "addr:street":"N Broadway",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.230202,38.710499,-90.230202,38.710499",
     "geom:latitude":38.710499,
     "geom:longitude":-90.230202,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688661,
+        85804181,
+        102191575,
+        404518053,
         85633793,
         85971343,
         102080791,
-        85804181
+        85688661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +49,10 @@
     "wof:geomhash":"4a80e6c7877915731fc7f7d6fdde4af0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080791,
+            "localadmin_id":404518053,
             "locality_id":85971343,
             "neighbourhood_id":85804181,
             "region_id":85688661,
@@ -52,7 +60,7 @@
         }
     ],
     "wof:id":186437109,
-    "wof:lastmodified":1466622364,
+    "wof:lastmodified":1491927167,
     "wof:name":"Heritage Hardware",
     "wof:parent_id":85804181,
     "wof:placetype":"venue",

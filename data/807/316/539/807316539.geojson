@@ -2,14 +2,20 @@
   "id": 807316539,
   "type": "Feature",
   "properties": {
+    "addr:full":"1658 S Cobblestone Ct Springfield MO 65809",
+    "addr:housenumber":"1658",
+    "addr:postcode":"65809",
+    "addr:street":"S Cobblestone Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.205653,37.182452,-93.205653,37.182452",
     "geom:latitude":37.182452,
     "geom:longitude":-93.205653,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1658 S Cobblestone Ct",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -40,13 +46,14 @@
         102087523,
         85881121
     ],
+    "wof:brand_id":1125158097,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5T8dn3rV8gtYUyR6BfcIkT_37.182452_-93.205653@1303262939"
     },
     "wof:country":"US",
     "wof:created":1462606024,
-    "wof:geomhash":"3c48b77e3bf71d3f95e79536d3e43e84",
+    "wof:geomhash":"d77cc5aac2b59304ff02bd753e10b186",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":807316539,
-    "wof:lastmodified":1466631155,
+    "wof:lastmodified":1510697778,
     "wof:name":"Glaxosmthkline Hldngs Ame",
     "wof:parent_id":85881121,
     "wof:placetype":"venue",

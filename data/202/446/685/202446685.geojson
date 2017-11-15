@@ -2,6 +2,10 @@
   "id": 202446685,
   "type": "Feature",
   "properties": {
+    "addr:full":"33733 Holt 250 Oregon MO 64473",
+    "addr:housenumber":"33733;250",
+    "addr:postcode":"64473",
+    "addr:street":"Holt;Oregon",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":202446685,
-    "wof:lastmodified":1466622178,
+    "wof:lastmodified":1472630307,
     "wof:name":"Quick Auction Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

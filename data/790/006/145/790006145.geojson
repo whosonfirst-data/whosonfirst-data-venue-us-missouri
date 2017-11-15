@@ -2,14 +2,20 @@
   "id": 790006145,
   "type": "Feature",
   "properties": {
+    "addr:full":"6910 NW Barry Rd Kansas City MO 64153",
+    "addr:housenumber":"6910",
+    "addr:postcode":"64153",
+    "addr:street":"Nw Barry Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.662137,39.246979,-94.662137,39.246979",
     "geom:latitude":39.246979,
     "geom:longitude":-94.662137,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"6910 NW Barry Rd",
     "sg:city":"Kansas City",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102085271,
         85851839
     ],
+    "wof:brand_id":1125153317,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6yNM9Ui9t2cpXPa0jlWB0g_39.246979_-94.662137@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462592378,
-    "wof:geomhash":"31c1ecf824e0f2253adfa4a3d588650d",
+    "wof:geomhash":"ad7f9b58d6e81cf25ab5fd2d995384d1",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":790006145,
-    "wof:lastmodified":1466622333,
+    "wof:lastmodified":1510699509,
     "wof:name":"La Petite Academy Inc",
     "wof:parent_id":85851839,
     "wof:placetype":"venue",

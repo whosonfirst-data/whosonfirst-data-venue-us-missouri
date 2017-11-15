@@ -2,14 +2,20 @@
   "id": 790462733,
   "type": "Feature",
   "properties": {
+    "addr:full":"3545 Lafayette Ave Saint Louis MO 63104",
+    "addr:housenumber":"3545",
+    "addr:postcode":"63104",
+    "addr:street":"Lafayette Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.238301,38.616969,-90.238301,38.616969",
     "geom:latitude":38.616969,
     "geom:longitude":-90.238301,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3545 Lafayette Ave",
     "sg:city":"Saint Louis",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102080791,
         85688661
     ],
+    "wof:brand_id":1125157127,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_402GP7MBmc0sxIDAMGOEKA_38.616969_-90.238301@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462596032,
-    "wof:geomhash":"8975634ce8a26875d70ccaaa65e2d291",
+    "wof:geomhash":"4f7e374e0c6e65c35bfcb7a33fee6e3a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":790462733,
-    "wof:lastmodified":1466632031,
+    "wof:lastmodified":1510697055,
     "wof:name":"Chartwells",
     "wof:parent_id":85873659,
     "wof:placetype":"venue",

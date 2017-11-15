@@ -2,6 +2,10 @@
   "id": 807062351,
   "type": "Feature",
   "properties": {
+    "addr:full":"5555 St. Louis Mills Blvd. Hazelwood MO 63042",
+    "addr:housenumber":"5555",
+    "addr:postcode":"63042",
+    "addr:street":"St. Louis Mills Blvd.",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":807062351,
-    "wof:lastmodified":1466623896,
+    "wof:lastmodified":1472630245,
     "wof:name":"Sports Street Grill",
     "wof:parent_id":85836381,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 806940663,
   "type": "Feature",
   "properties": {
+    "addr:full":"4098 W Farm Rd 94 Springfield MO 65803",
+    "addr:housenumber":"4098;94",
+    "addr:postcode":"65803",
+    "addr:street":"W Farm Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":806940663,
-    "wof:lastmodified":1466634959,
+    "wof:lastmodified":1472630790,
     "wof:name":"Springcreek Investments LLC",
     "wof:parent_id":85881139,
     "wof:placetype":"venue",

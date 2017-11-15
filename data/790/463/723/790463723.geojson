@@ -2,6 +2,10 @@
   "id": 790463723,
   "type": "Feature",
   "properties": {
+    "addr:full":"2100 NE 65 St Kansas City MO 64118",
+    "addr:housenumber":"2100;65",
+    "addr:postcode":"64118",
+    "addr:street":"Ne;St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":790463723,
-    "wof:lastmodified":1466632068,
+    "wof:lastmodified":1472630874,
     "wof:name":"Antioch Middle School",
     "wof:parent_id":420525307,
     "wof:placetype":"venue",

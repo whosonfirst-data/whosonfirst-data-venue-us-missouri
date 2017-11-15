@@ -2,14 +2,20 @@
   "id": 773119923,
   "type": "Feature",
   "properties": {
+    "addr:full":"1335 Convention Plz Saint Louis MO 63103",
+    "addr:housenumber":"1335",
+    "addr:postcode":"63103",
+    "addr:street":"Convention Plz",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.197868,38.633675,-90.197868,38.633675",
     "geom:latitude":38.633675,
     "geom:longitude":-90.197868,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1335 Convention Plz",
     "sg:city":"Saint Louis",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102080791,
         85688661
     ],
+    "wof:brand_id":1125153313,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0zKbfIQbAcDkEeCdEDs2eI_38.633675_-90.197868@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462583295,
-    "wof:geomhash":"759ea765b88ceabe84f4f28e064c46af",
+    "wof:geomhash":"3e540e5db5c8d2fb4614c382a36f794a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":773119923,
-    "wof:lastmodified":1466623630,
+    "wof:lastmodified":1510699510,
     "wof:name":"Kwik Kopy Printing",
     "wof:parent_id":85873643,
     "wof:placetype":"venue",

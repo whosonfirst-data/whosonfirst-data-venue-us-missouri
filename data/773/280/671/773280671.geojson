@@ -2,6 +2,10 @@
   "id": 773280671,
   "type": "Feature",
   "properties": {
+    "addr:full":"13013 E 40 St S Independence MO 64055",
+    "addr:housenumber":"13013;40",
+    "addr:postcode":"64055",
+    "addr:street":"E;St S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":773280671,
-    "wof:lastmodified":1466626613,
+    "wof:lastmodified":1472630983,
     "wof:name":"Sutherlands",
     "wof:parent_id":85871965,
     "wof:placetype":"venue",

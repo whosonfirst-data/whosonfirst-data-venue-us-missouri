@@ -2,9 +2,14 @@
   "id": 790331573,
   "type": "Feature",
   "properties": {
+    "addr:full":"5125 N Sycamore Ave Kansas City MO 64119",
+    "addr:housenumber":"5125",
+    "addr:postcode":"64119",
+    "addr:street":"N Sycamore Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.48352,39.184384,-94.48352,39.184384",
     "geom:latitude":39.184384,
     "geom:longitude":-94.48352,
@@ -28,13 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85858321,
+        85834529,
         102191575,
         404518075,
         85633793,
         85970739,
         102081227,
-        85688661
+        85688661,
+        85858321
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,15 +56,25 @@
             "county_id":102081227,
             "localadmin_id":404518075,
             "locality_id":85970739,
+            "neighbourhood_id":85834529,
+            "region_id":85688661,
+            "venue_id":790331573
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081227,
+            "localadmin_id":404518075,
+            "locality_id":85970739,
             "neighbourhood_id":85858321,
             "region_id":85688661,
             "venue_id":790331573
         }
     ],
     "wof:id":790331573,
-    "wof:lastmodified":1466629210,
+    "wof:lastmodified":1491892359,
     "wof:name":"Gracemor Action Network",
-    "wof:parent_id":85858321,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],

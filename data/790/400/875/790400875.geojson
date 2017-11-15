@@ -2,14 +2,20 @@
   "id": 790400875,
   "type": "Feature",
   "properties": {
+    "addr:full":"3517 Enterprise Dr Kansas City MO 64129",
+    "addr:housenumber":"3517",
+    "addr:postcode":"64129",
+    "addr:street":"Enterprise Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.494669,39.057866,-94.494669,39.057866",
     "geom:latitude":39.057866,
     "geom:longitude":-94.494669,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3517 Enterprise Dr",
     "sg:city":"Kansas City",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102081227,
         85688661
     ],
+    "wof:brand_id":1125153501,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5qSmGQAf5B93FmQtyaQiwL_39.057866_-94.494669@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462595540,
-    "wof:geomhash":"4451b305623b6ef178000405b0f7169d",
+    "wof:geomhash":"01c07283f34b1410f02cee4a7b1d3d2e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":790400875,
-    "wof:lastmodified":1466630958,
+    "wof:lastmodified":1510696031,
     "wof:name":"Aramark Uniform Svc",
     "wof:parent_id":420525361,
     "wof:placetype":"venue",

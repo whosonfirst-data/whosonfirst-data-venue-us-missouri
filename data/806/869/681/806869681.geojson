@@ -2,14 +2,20 @@
   "id": 806869681,
   "type": "Feature",
   "properties": {
+    "addr:full":"290 Jamestown Mall Florissant MO 63034",
+    "addr:housenumber":"290",
+    "addr:postcode":"63034",
+    "addr:street":"Jamestown Mall",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.249686,38.821183,-90.249686,38.821183",
     "geom:latitude":38.821183,
     "geom:longitude":-90.249686,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"290 Jamestown Mall",
     "sg:city":"Florissant",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102086173,
         85688661
     ],
+    "wof:brand_id":1125159339,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1tvTNGfTswmYWbxvtxQC60_38.821183_-90.249686@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462601769,
-    "wof:geomhash":"ee10cb6dc1454d8024becdf3f6fa184f",
+    "wof:geomhash":"957fdb220ca956e194c82674e95115bb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":806869681,
-    "wof:lastmodified":1466634046,
+    "wof:lastmodified":1510695228,
     "wof:name":"Prints Plus",
     "wof:parent_id":85813019,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 789979715,
   "type": "Feature",
   "properties": {
+    "addr:full":"530 W McDaniel St Springfield MO 65806",
+    "addr:housenumber":"530",
+    "addr:postcode":"65806",
+    "addr:street":"W Mcdaniel St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.295708,37.207829,-93.295708,37.207829",
     "geom:latitude":37.207829,
     "geom:longitude":-93.295708,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"530 W McDaniel St",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102087523,
         85688661
     ],
+    "wof:brand_id":1125152413,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4y47ZgzYVZ7sKopVw5VDRK_37.207829_-93.295708@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462592164,
-    "wof:geomhash":"5b93b8502243f1517687107f1321e5ee",
+    "wof:geomhash":"1706bc3bf2af6d3a6968029799394714",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":789979715,
-    "wof:lastmodified":1466631333,
+    "wof:lastmodified":1510694883,
     "wof:name":"Loomis Fargo & Co",
     "wof:parent_id":85881119,
     "wof:placetype":"venue",

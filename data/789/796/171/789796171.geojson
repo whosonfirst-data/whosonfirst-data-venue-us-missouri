@@ -2,6 +2,10 @@
   "id": 789796171,
   "type": "Feature",
   "properties": {
+    "addr:full":"1001 Hickory Pl St Louis MO 63104",
+    "addr:housenumber":"1001",
+    "addr:postcode":"63104",
+    "addr:street":"Hickory Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":789796171,
-    "wof:lastmodified":1466627210,
+    "wof:lastmodified":1472630525,
     "wof:name":"Habitat Co",
     "wof:parent_id":85873665,
     "wof:placetype":"venue",

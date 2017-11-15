@@ -2,9 +2,14 @@
   "id": 186438077,
   "type": "Feature",
   "properties": {
+    "addr:full":"3157 Morganford Rd St Louis MO 63190",
+    "addr:housenumber":"3157",
+    "addr:postcode":"63190",
+    "addr:street":"Morganford Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.261449,38.602519,-90.261449,38.602519",
     "geom:latitude":38.602519,
     "geom:longitude":-90.261449,
@@ -35,11 +40,13 @@
     "sg:website":"www.tincantavern.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688661,
+        85873681,
+        102191575,
+        404518053,
         85633793,
         85971343,
         102080791,
-        85873681
+        85688661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,9 +56,10 @@
     "wof:geomhash":"453e49d5eb4d465a4ee3132d4c168dbf",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080791,
+            "localadmin_id":404518053,
             "locality_id":85971343,
             "neighbourhood_id":85873681,
             "region_id":85688661,
@@ -59,7 +67,7 @@
         }
     ],
     "wof:id":186438077,
-    "wof:lastmodified":1466622418,
+    "wof:lastmodified":1491899891,
     "wof:name":"Tin Can Tavern and Grille",
     "wof:parent_id":85873681,
     "wof:placetype":"venue",

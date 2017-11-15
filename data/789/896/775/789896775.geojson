@@ -2,14 +2,20 @@
   "id": 789896775,
   "type": "Feature",
   "properties": {
+    "addr:full":"660 Bayberry Ln Lees Summit MO 64063",
+    "addr:housenumber":"660",
+    "addr:postcode":"64063",
+    "addr:street":"Bayberry Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.359538,38.907386,-94.359538,38.907386",
     "geom:latitude":38.907386,
     "geom:longitude":-94.359538,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"660 Bayberry Ln",
     "sg:city":"Lees Summit",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102081227,
         85688661
     ],
+    "wof:brand_id":1125156341,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6FU4CtCdV4678g7VftFklL_38.907386_-94.359538@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462591418,
-    "wof:geomhash":"5d6727c20b41100762b7f2f0c0fadfcc",
+    "wof:geomhash":"2f992aa840e88ff0c51e4bf5ec08624b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":789896775,
-    "wof:lastmodified":1466629400,
+    "wof:lastmodified":1510699936,
     "wof:name":"Allied Home Mtg Capital Corp",
     "wof:parent_id":85849825,
     "wof:placetype":"venue",

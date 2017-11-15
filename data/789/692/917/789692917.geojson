@@ -2,14 +2,20 @@
   "id": 789692917,
   "type": "Feature",
   "properties": {
+    "addr:full":"417 Nichols Rd Kansas City MO 64112",
+    "addr:housenumber":"417",
+    "addr:postcode":"64112",
+    "addr:street":"Nichols Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.593516,39.041239,-94.593516,39.041239",
     "geom:latitude":39.041239,
     "geom:longitude":-94.593516,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"417 Nichols Rd",
     "sg:city":"Kansas City",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102081227,
         85688661
     ],
+    "wof:brand_id":1125153085,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0Fv69XHisqzKue6VCaUE72_39.041239_-94.593516@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462589802,
-    "wof:geomhash":"13b8078f5fb453181ce0cbd6967101d9",
+    "wof:geomhash":"14b44ae0b2b158f67586c33f8af91b20",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":789692917,
-    "wof:lastmodified":1466625038,
+    "wof:lastmodified":1510695173,
     "wof:name":"Coach Store",
     "wof:parent_id":85871983,
     "wof:placetype":"venue",

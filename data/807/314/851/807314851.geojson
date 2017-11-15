@@ -2,14 +2,20 @@
   "id": 807314851,
   "type": "Feature",
   "properties": {
+    "addr:full":"2110 E. Republic Rd Springfield MO 65807",
+    "addr:housenumber":"2110",
+    "addr:postcode":"65807",
+    "addr:street":"E. Republic Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.321991,37.138357,-93.321991,37.138357",
     "geom:latitude":37.138357,
     "geom:longitude":-93.321991,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2110 E. Republic Rd",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         85881151,
         102087523
     ],
+    "wof:brand_id":1125153095,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3hOxsWHMeI8eDA4LLohqK1_37.138357_-93.321991@1303262939"
     },
     "wof:country":"US",
     "wof:created":1462606008,
-    "wof:geomhash":"2b86d4536fb23cc341a74dca99704a79",
+    "wof:geomhash":"41577717589962f96dd111b3e2b2db9a",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":807314851,
-    "wof:lastmodified":1466631429,
+    "wof:lastmodified":1510696063,
     "wof:name":"Houlihan's",
     "wof:parent_id":85881151,
     "wof:placetype":"venue",

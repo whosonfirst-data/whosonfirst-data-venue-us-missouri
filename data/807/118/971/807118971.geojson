@@ -2,14 +2,20 @@
   "id": 807118971,
   "type": "Feature",
   "properties": {
+    "addr:full":"2 Grandview Plaza Shopping Ctr Ste Florissant MO 63033",
+    "addr:housenumber":"2",
+    "addr:postcode":"63033",
+    "addr:street":"Grandview Plaza Shopping Ctr Ste",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.304024,38.772716,-90.304024,38.772716",
     "geom:latitude":38.772716,
     "geom:longitude":-90.304024,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2 Grandview Plaza Shopping Ctr Ste",
     "sg:city":"Florissant",
     "sg:classifiers":[],
@@ -28,13 +34,14 @@
         102086173,
         85688661
     ],
+    "wof:brand_id":420573909,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6lrk2Lt9eEJ0iPVwdiP7gA_38.772716_-90.304024@1303262925"
     },
     "wof:country":"US",
     "wof:created":1462603927,
-    "wof:geomhash":"6e6332d6fdd7784a875507fc96e4e579",
+    "wof:geomhash":"96242945438d1f3ab60ef03878dcf09e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":807118971,
-    "wof:lastmodified":1466625400,
+    "wof:lastmodified":1510603481,
     "wof:name":"Walgreens Pharmacies",
     "wof:parent_id":85813019,
     "wof:placetype":"venue",

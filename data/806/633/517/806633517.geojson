@@ -2,14 +2,20 @@
   "id": 806633517,
   "type": "Feature",
   "properties": {
+    "addr:full":"5231 E Front St Kansas City MO 64120",
+    "addr:housenumber":"5231",
+    "addr:postcode":"64120",
+    "addr:street":"E Front St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.518315,39.1306,-94.518315,39.1306",
     "geom:latitude":39.1306,
     "geom:longitude":-94.518315,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5231 E Front St",
     "sg:city":"Kansas City",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102081227,
         85688661
     ],
+    "wof:brand_id":1125159631,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3fmXwaLzQSKtOOiWyzHdLP_39.130600_-94.518315@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462599764,
-    "wof:geomhash":"67543056c10644c0c3b0c9ce77dd63bf",
+    "wof:geomhash":"988af187afc03b2102febb5dc7983aad",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":806633517,
-    "wof:lastmodified":1466629026,
+    "wof:lastmodified":1510695700,
     "wof:name":"OReilly Automotive Inc",
     "wof:parent_id":85871999,
     "wof:placetype":"venue",

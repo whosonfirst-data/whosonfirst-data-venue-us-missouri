@@ -2,14 +2,20 @@
   "id": 790270883,
   "type": "Feature",
   "properties": {
+    "addr:full":"840 S Kirkwood Rd Kirkwood MO 63122",
+    "addr:housenumber":"840",
+    "addr:postcode":"63122",
+    "addr:street":"S Kirkwood Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.406544,38.570288,-90.406544,38.570288",
     "geom:latitude":38.570288,
     "geom:longitude":-90.406544,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"840 S Kirkwood Rd",
     "sg:city":"Kirkwood",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102086173,
         85688661
     ],
+    "wof:brand_id":1125151557,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_44SIRjLSLmlLNZygQwrBLt_38.570288_-90.406544@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462594508,
-    "wof:geomhash":"d42a82f45b6ac8a66c81103036bc4abd",
+    "wof:geomhash":"1f8bf51d367d5a5bd9837bb7fd0bd935",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":790270883,
-    "wof:lastmodified":1466628135,
+    "wof:lastmodified":1510699751,
     "wof:name":"MAACO Auto Painting & Bodywork",
     "wof:parent_id":85858243,
     "wof:placetype":"venue",

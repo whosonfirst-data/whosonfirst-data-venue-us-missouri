@@ -2,6 +2,10 @@
   "id": 806662725,
   "type": "Feature",
   "properties": {
+    "addr:full":"12817 E 47 St S Independence MO 64055",
+    "addr:housenumber":"12817;47",
+    "addr:postcode":"64055",
+    "addr:street":"E;St S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":806662725,
-    "wof:lastmodified":1466629642,
+    "wof:lastmodified":1472630544,
     "wof:name":"Mid American Utilities",
     "wof:parent_id":85871965,
     "wof:placetype":"venue",

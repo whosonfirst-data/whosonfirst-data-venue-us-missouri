@@ -2,6 +2,10 @@
   "id": 789880439,
   "type": "Feature",
   "properties": {
+    "addr:full":"8501 E 99 St Kansas City MO 64134",
+    "addr:housenumber":"8501;99",
+    "addr:postcode":"64134",
+    "addr:street":"E;St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":789880439,
-    "wof:lastmodified":1466629271,
+    "wof:lastmodified":1472630715,
     "wof:name":"Crescent Day Care",
     "wof:parent_id":420525329,
     "wof:placetype":"venue",

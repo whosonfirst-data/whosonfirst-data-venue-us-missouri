@@ -2,14 +2,20 @@
   "id": 807079373,
   "type": "Feature",
   "properties": {
+    "addr:full":"1686 NW Chipman Rd Lees Summit MO 64081",
+    "addr:housenumber":"1686",
+    "addr:postcode":"64081",
+    "addr:street":"Nw Chipman Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.40901,38.926238,-94.40901,38.926238",
     "geom:latitude":38.926238,
     "geom:longitude":-94.40901,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1686 NW Chipman Rd",
     "sg:city":"Lees Summit",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102081227,
         85688661
     ],
+    "wof:brand_id":1125150761,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7SS4oFPkh1LukOpiSzvnfR_38.926238_-94.409010@1299784598"
     },
     "wof:country":"US",
     "wof:created":1462603528,
-    "wof:geomhash":"1e937d44fbeeb669ea2520e46e8a1231",
+    "wof:geomhash":"087b72d76bbb90eb9f0546a98b301bd2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":807079373,
-    "wof:lastmodified":1466624077,
+    "wof:lastmodified":1510697652,
     "wof:name":"Atlanta Bread Company",
     "wof:parent_id":85853361,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 806731109,
   "type": "Feature",
   "properties": {
+    "addr:full":"519 Nichols Rd Kansas City MO 64112",
+    "addr:housenumber":"519",
+    "addr:postcode":"64112",
+    "addr:street":"Nichols Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.592727,39.04119,-94.592727,39.04119",
     "geom:latitude":39.04119,
     "geom:longitude":-94.592727,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"519 Nichols Rd",
     "sg:city":"Kansas City",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102081227,
         85688661
     ],
+    "wof:brand_id":1125151599,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5ARcKnv13JJAqhBFBEqw1S_39.041190_-94.592727@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462600595,
-    "wof:geomhash":"a96b8a6c52c4611c03ed08df076f8353",
+    "wof:geomhash":"6253e3bb9ba63decb6112fd4b51eec47",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":806731109,
-    "wof:lastmodified":1466631494,
+    "wof:lastmodified":1510693874,
     "wof:name":"J Crew",
     "wof:parent_id":85871983,
     "wof:placetype":"venue",

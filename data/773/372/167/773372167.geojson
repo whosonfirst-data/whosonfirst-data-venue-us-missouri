@@ -2,14 +2,20 @@
   "id": 773372167,
   "type": "Feature",
   "properties": {
+    "addr:full":"1101 First Capitol Dr Saint Charles MO 63301",
+    "addr:housenumber":"1101",
+    "addr:postcode":"63301",
+    "addr:street":"First Capitol Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.49727,38.78447,-90.49727,38.78447",
     "geom:latitude":38.78447,
     "geom:longitude":-90.49727,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1101 First Capitol Dr",
     "sg:city":"Saint Charles",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102086159,
         85821097
     ],
+    "wof:brand_id":1125156543,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2xZhDt6ain6Jm8hgPM7yGx_38.784470_-90.497270@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462585196,
-    "wof:geomhash":"de03d0d8b9dad726d7dd7ddd7ae1c2e9",
+    "wof:geomhash":"e04172d0e35b3264728c0afb5237616c",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":773372167,
-    "wof:lastmodified":1466628992,
+    "wof:lastmodified":1510700004,
     "wof:name":"Commerce Bank N A",
     "wof:parent_id":85821097,
     "wof:placetype":"venue",

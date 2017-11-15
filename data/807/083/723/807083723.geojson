@@ -2,14 +2,20 @@
   "id": 807083723,
   "type": "Feature",
   "properties": {
+    "addr:full":"6251 Blue Ridge Blvd Kansas City MO 64133",
+    "addr:housenumber":"6251",
+    "addr:postcode":"64133",
+    "addr:street":"Blue Ridge Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.461762,39.009068,-94.461762,39.009068",
     "geom:latitude":39.009068,
     "geom:longitude":-94.461762,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"6251 Blue Ridge Blvd",
     "sg:city":"Kansas City",
     "sg:classifiers":[
@@ -40,13 +46,14 @@
         102081227,
         85688661
     ],
+    "wof:brand_id":1125154131,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0jYwN23zZTd3g3t9Bscw9Z_39.009068_-94.461762@1299784598"
     },
     "wof:country":"US",
     "wof:created":1462603563,
-    "wof:geomhash":"ccdea3f1121dd5bc0a7e7927e4afb706",
+    "wof:geomhash":"f90df38013ebb23583920f8182282925",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,7 +67,7 @@
         }
     ],
     "wof:id":807083723,
-    "wof:lastmodified":1466624230,
+    "wof:lastmodified":1510699747,
     "wof:name":"Mr. Goodcents Subs & Pasta",
     "wof:parent_id":85871965,
     "wof:placetype":"venue",

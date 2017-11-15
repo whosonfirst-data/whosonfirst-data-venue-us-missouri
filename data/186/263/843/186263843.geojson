@@ -2,6 +2,10 @@
   "id": 186263843,
   "type": "Feature",
   "properties": {
+    "addr:full":"1200 Market St City Hall, Room 230 St Louis MO 63103",
+    "addr:housenumber":"1200;230",
+    "addr:postcode":"63103",
+    "addr:street":"Market St City",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":186263843,
-    "wof:lastmodified":1466622265,
+    "wof:lastmodified":1472630467,
     "wof:name":"City of St. Louis Board of Aldermen",
     "wof:parent_id":85873645,
     "wof:placetype":"venue",

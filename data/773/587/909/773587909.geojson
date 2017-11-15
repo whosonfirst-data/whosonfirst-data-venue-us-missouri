@@ -2,14 +2,20 @@
   "id": 773587909,
   "type": "Feature",
   "properties": {
+    "addr:full":"600 Greentree Rd Rolla MO 65401",
+    "addr:housenumber":"600",
+    "addr:postcode":"65401",
+    "addr:street":"Greentree Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.745593,37.94826,-91.745593,37.94826",
     "geom:latitude":37.94826,
     "geom:longitude":-91.745593,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"600 Greentree Rd",
     "sg:city":"Rolla",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102086893,
         85814531
     ],
+    "wof:brand_id":420574285,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5oRPvumxQlkC8OmFOMwqOz_37.948260_-91.745593@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462586857,
-    "wof:geomhash":"59b0df805e1429894b84823aafd6b0a8",
+    "wof:geomhash":"4642326e1f340210992886a9b3c73bb6",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":773587909,
-    "wof:lastmodified":1466632941,
+    "wof:lastmodified":1510603885,
     "wof:name":"Shelter Insurance",
     "wof:parent_id":85814531,
     "wof:placetype":"venue",

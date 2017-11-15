@@ -2,6 +2,10 @@
   "id": 789951461,
   "type": "Feature",
   "properties": {
+    "addr:full":"2111 E 13 St Kansas City MO 64127",
+    "addr:housenumber":"2111;13",
+    "addr:postcode":"64127",
+    "addr:street":"E;St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":789951461,
-    "wof:lastmodified":1466630990,
+    "wof:lastmodified":1472630762,
     "wof:name":"Freedom Fire Urban Ministries",
     "wof:parent_id":85872021,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 789788483,
   "type": "Feature",
   "properties": {
+    "addr:full":"1550 N Lindbergh Blvd St Louis MO 63132",
+    "addr:housenumber":"1550",
+    "addr:postcode":"63132",
+    "addr:street":"N Lindbergh Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":789788483,
-    "wof:lastmodified":1466627037,
+    "wof:lastmodified":1472630537,
     "wof:name":"Public Storage",
     "wof:parent_id":85803699,
     "wof:placetype":"venue",

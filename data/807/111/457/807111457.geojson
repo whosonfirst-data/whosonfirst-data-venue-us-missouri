@@ -2,6 +2,10 @@
   "id": 807111457,
   "type": "Feature",
   "properties": {
+    "addr:full":"14400 S Outer 40 Rd Chesterfield MO 63017",
+    "addr:housenumber":"14400;40",
+    "addr:postcode":"63017",
+    "addr:street":"S Outer;Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":807111457,
-    "wof:lastmodified":1466624892,
+    "wof:lastmodified":1472630313,
     "wof:name":"Assistance League Of St Louis",
     "wof:parent_id":85831197,
     "wof:placetype":"venue",

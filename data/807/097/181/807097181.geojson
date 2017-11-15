@@ -2,14 +2,20 @@
   "id": 807097181,
   "type": "Feature",
   "properties": {
+    "addr:full":"742 S 4th St Saint Louis MO 63102",
+    "addr:housenumber":"742",
+    "addr:postcode":"63102",
+    "addr:street":"S 4Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.191803,38.618777,-90.191803,38.618777",
     "geom:latitude":38.618777,
     "geom:longitude":-90.191803,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"742 S 4th St",
     "sg:city":"Saint Louis",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102080791,
         85688661
     ],
+    "wof:brand_id":1125153969,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5QQt7N4TRgHxb7eYxVWrAm_38.618648_-90.191763@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462603689,
-    "wof:geomhash":"75361951251dad128f3f26f177b310bb",
+    "wof:geomhash":"5aef575a15744f6bb4db28750c4c6e39",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":807097181,
-    "wof:lastmodified":1466624527,
+    "wof:lastmodified":1510698944,
     "wof:name":"Imo's Pizza",
     "wof:parent_id":85867033,
     "wof:placetype":"venue",

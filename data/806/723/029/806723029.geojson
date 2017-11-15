@@ -2,14 +2,20 @@
   "id": 806723029,
   "type": "Feature",
   "properties": {
+    "addr:full":"14500 Bethel Rd Platte City MO 64079",
+    "addr:housenumber":"14500",
+    "addr:postcode":"64079",
+    "addr:street":"Bethel Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.732784,39.356652,-94.732784,39.356652",
     "geom:latitude":39.356652,
     "geom:longitude":-94.732784,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"14500 Bethel Rd",
     "sg:city":"Platte City",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102085271,
         85851839
     ],
+    "wof:brand_id":1125158981,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3vnyclU57xP30IT2jCFbHs_39.356652_-94.732784@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462600528,
-    "wof:geomhash":"3b9eba317b7eac9f974f474854f8f8a2",
+    "wof:geomhash":"da7a80d12991005844cff024c728f1b9",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":806723029,
-    "wof:lastmodified":1466631226,
+    "wof:lastmodified":1510698690,
     "wof:name":"Ferrellgas L P",
     "wof:parent_id":85851839,
     "wof:placetype":"venue",

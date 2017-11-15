@@ -2,14 +2,20 @@
   "id": 773071345,
   "type": "Feature",
   "properties": {
+    "addr:full":"23 Chesterfield Mall Chesterfield MO 63017",
+    "addr:housenumber":"23",
+    "addr:postcode":"63017",
+    "addr:street":"Mall",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.56632,38.654784,-90.56632,38.654784",
     "geom:latitude":38.654784,
     "geom:longitude":-90.56632,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"23 Chesterfield Mall",
     "sg:city":"Chesterfield",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102086173,
         85688661
     ],
+    "wof:brand_id":1125150179,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2QsPataCk6fvX28tgoqm1O_38.654784_-90.566320@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462582945,
-    "wof:geomhash":"fd6971b9e06b958ecfd53345f6094426",
+    "wof:geomhash":"d249f46eaaa1fa23bd30b3290da9de73",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":773071345,
-    "wof:lastmodified":1466622428,
+    "wof:lastmodified":1510694920,
     "wof:name":"Master Cuts",
     "wof:parent_id":85805465,
     "wof:placetype":"venue",

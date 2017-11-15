@@ -2,6 +2,10 @@
   "id": 789655247,
   "type": "Feature",
   "properties": {
+    "addr:full":"12550 Pike 486 Bowling Green MO 63334",
+    "addr:housenumber":"12550;486",
+    "addr:postcode":"63334",
+    "addr:street":"Pike",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":789655247,
-    "wof:lastmodified":1466623967,
+    "wof:lastmodified":1472630303,
     "wof:name":"Bruce Scherder",
     "wof:parent_id":85817909,
     "wof:placetype":"venue",

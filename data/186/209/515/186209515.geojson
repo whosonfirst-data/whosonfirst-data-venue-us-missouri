@@ -2,9 +2,14 @@
   "id": 186209515,
   "type": "Feature",
   "properties": {
+    "addr:full":"Renaissance Grand Hotel and Suites 800 Washington Ave St Louis MO 63101",
+    "addr:housenumber":"800",
+    "addr:postcode":"63101",
+    "addr:street":"Washington Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.191955,38.630433,-90.191955,38.630433",
     "geom:latitude":38.630433,
     "geom:longitude":-90.191955,
@@ -26,11 +31,13 @@
     "sg:website":"www.marriott.com/hotels/hotel-in...",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688661,
+        85873643,
+        102191575,
+        404518053,
         85633793,
         85971343,
         102080791,
-        85873643
+        85688661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,9 +47,10 @@
     "wof:geomhash":"d58e1a98ed20df4d49c97a8514f51aa7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080791,
+            "localadmin_id":404518053,
             "locality_id":85971343,
             "neighbourhood_id":85873643,
             "region_id":85688661,
@@ -50,7 +58,7 @@
         }
     ],
     "wof:id":186209515,
-    "wof:lastmodified":1466622245,
+    "wof:lastmodified":1491933734,
     "wof:name":"The Grand Bar",
     "wof:parent_id":85873643,
     "wof:placetype":"venue",

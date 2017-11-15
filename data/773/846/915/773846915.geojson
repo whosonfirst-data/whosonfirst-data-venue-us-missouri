@@ -2,14 +2,20 @@
   "id": 773846915,
   "type": "Feature",
   "properties": {
+    "addr:full":"8491 US Hwy 24 Taylor MO 63471",
+    "addr:housenumber":"8491",
+    "addr:postcode":"63471",
+    "addr:street":"Us Hwy 24",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.457402,39.929735,-91.457402,39.929735",
     "geom:latitude":39.929735,
     "geom:longitude":-91.457402,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"8491 US Hwy 24",
     "sg:city":"Taylor",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102086213,
         85867477
     ],
+    "wof:brand_id":1125158387,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5CzIdz52efE7GMKUbg6m6a_39.929735_-91.457402@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462588873,
-    "wof:geomhash":"4184825ed7aff26dc99598b5963bbf91",
+    "wof:geomhash":"057fbc8cf16a5001ca24bec10946551b",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":773846915,
-    "wof:lastmodified":1466635749,
+    "wof:lastmodified":1510699778,
     "wof:name":"Quality Auto Sales",
     "wof:parent_id":85867477,
     "wof:placetype":"venue",

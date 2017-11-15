@@ -2,6 +2,10 @@
   "id": 789729167,
   "type": "Feature",
   "properties": {
+    "addr:full":"4715 W Farm Rd 130 Springfield MO 65802",
+    "addr:housenumber":"4715;130",
+    "addr:postcode":"65802",
+    "addr:street":"W Farm Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":789729167,
-    "wof:lastmodified":1466625472,
+    "wof:lastmodified":1472630377,
     "wof:name":"Howard Concrete Construction",
     "wof:parent_id":85836941,
     "wof:placetype":"venue",

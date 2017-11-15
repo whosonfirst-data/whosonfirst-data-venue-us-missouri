@@ -2,14 +2,20 @@
   "id": 773454579,
   "type": "Feature",
   "properties": {
+    "addr:full":"4021 S Cloverleaf Dr St Peters MO 63376",
+    "addr:housenumber":"4021",
+    "addr:postcode":"63376",
+    "addr:street":"S Cloverleaf Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.569221,38.791151,-90.569221,38.791151",
     "geom:latitude":38.791151,
     "geom:longitude":-90.569221,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4021 S Cloverleaf Dr",
     "sg:city":"St Peters",
     "sg:classifiers":[
@@ -40,13 +46,14 @@
         102086159,
         85821097
     ],
+    "wof:brand_id":1125153371,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1QQRA7PiOiGrmli04NSP63_38.791151_-90.569221@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462585873,
-    "wof:geomhash":"25de887d25d00c40988ace5d8d11f27c",
+    "wof:geomhash":"7557e6642d3bb2b7b74012d1f65d2da4",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":773454579,
-    "wof:lastmodified":1466630546,
+    "wof:lastmodified":1510699525,
     "wof:name":"Crown Trophy",
     "wof:parent_id":85821097,
     "wof:placetype":"venue",

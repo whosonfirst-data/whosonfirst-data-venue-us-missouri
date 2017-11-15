@@ -2,14 +2,20 @@
   "id": 773774593,
   "type": "Feature",
   "properties": {
+    "addr:full":"1320 Forum Dr Rolla MO 65401",
+    "addr:housenumber":"1320",
+    "addr:postcode":"65401",
+    "addr:street":"Forum Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.752256,37.951714,-91.752256,37.951714",
     "geom:latitude":37.951714,
     "geom:longitude":-91.752256,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1320 Forum Dr",
     "sg:city":"Rolla",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102086893,
         85814531
     ],
+    "wof:brand_id":420575455,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4ATBQSdCnX9rtg12zhtS8n_37.951714_-91.752256@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462588275,
-    "wof:geomhash":"27e7680c75ff64abdb6ee28b9cd39ec9",
+    "wof:geomhash":"ca1bb304c2ce3f92d2a5d1f049bebdea",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":773774593,
-    "wof:lastmodified":1466635108,
+    "wof:lastmodified":1510602423,
     "wof:name":"Sam Goody",
     "wof:parent_id":85814531,
     "wof:placetype":"venue",

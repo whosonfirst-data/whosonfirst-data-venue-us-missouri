@@ -2,14 +2,20 @@
   "id": 806982173,
   "type": "Feature",
   "properties": {
+    "addr:full":"4139 Mexico Rd St Peters MO 63376",
+    "addr:housenumber":"4139",
+    "addr:postcode":"63376",
+    "addr:street":"Mexico Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.57395,38.791098,-90.57395,38.791098",
     "geom:latitude":38.791098,
     "geom:longitude":-90.57395,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4139 Mexico Rd",
     "sg:city":"St Peters",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102086159,
         85821097
     ],
+    "wof:brand_id":1125158441,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0ZJyVsmKJ1TEDhIRo3C422_38.791098_-90.573950@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462602711,
-    "wof:geomhash":"66b2a679aafb69117605eeb43b8c5046",
+    "wof:geomhash":"296c6f5a175dea7e721ccc8b97f9cd02",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":806982173,
-    "wof:lastmodified":1466635611,
+    "wof:lastmodified":1510694226,
     "wof:name":"American Classifieds",
     "wof:parent_id":85821097,
     "wof:placetype":"venue",

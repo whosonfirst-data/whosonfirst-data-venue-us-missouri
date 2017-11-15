@@ -2,6 +2,10 @@
   "id": 789953647,
   "type": "Feature",
   "properties": {
+    "addr:full":"5008 Manchester Ave St Louis MO 63110",
+    "addr:housenumber":"5008",
+    "addr:postcode":"63110",
+    "addr:street":"Manchester Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":789953647,
-    "wof:lastmodified":1466630853,
+    "wof:lastmodified":1472630774,
     "wof:name":"SPI Distribution",
     "wof:parent_id":85873655,
     "wof:placetype":"venue",

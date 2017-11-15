@@ -2,14 +2,20 @@
   "id": 789721823,
   "type": "Feature",
   "properties": {
+    "addr:full":"12517 US Hwy 40 Independence MO 64055",
+    "addr:housenumber":"12517",
+    "addr:postcode":"64055",
+    "addr:street":"Us Hwy 40",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.433041,39.042481,-94.433041,39.042481",
     "geom:latitude":39.042481,
     "geom:longitude":-94.433041,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"12517 US Hwy 40",
     "sg:city":"Independence",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102081227,
         85688661
     ],
+    "wof:brand_id":1125154549,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1OFUHrNb6vl44rfTKfKqFn_39.042481_-94.433041@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462590038,
-    "wof:geomhash":"afac6e108997d134d213327ee40a2f44",
+    "wof:geomhash":"4308fb030ffd2c19c303a73de87a9e16",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":789721823,
-    "wof:lastmodified":1466625262,
+    "wof:lastmodified":1510699047,
     "wof:name":"OReilly Auto Parts",
     "wof:parent_id":85867021,
     "wof:placetype":"venue",

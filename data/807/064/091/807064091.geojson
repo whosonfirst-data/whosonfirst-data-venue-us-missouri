@@ -2,14 +2,20 @@
   "id": 807064091,
   "type": "Feature",
   "properties": {
+    "addr:full":"10409 Saint Charles Rock Rd Saint Ann MO 63074",
+    "addr:housenumber":"10409",
+    "addr:postcode":"63074",
+    "addr:street":"Saint Charles Rock Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.382838,38.728519,-90.382838,38.728519",
     "geom:latitude":38.728519,
     "geom:longitude":-90.382838,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"10409 Saint Charles Rock Rd",
     "sg:city":"Saint Ann",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102086173,
         85688661
     ],
+    "wof:brand_id":1125155021,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4QWo22m6q7wLoL916h3AB5_38.728519_-90.382838@1299784598"
     },
     "wof:country":"US",
     "wof:created":1462603401,
-    "wof:geomhash":"f8542186af59b874b8ad2c05764f71c2",
+    "wof:geomhash":"aa09099addc3784621e790ed0450a6ee",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":807064091,
-    "wof:lastmodified":1466624077,
+    "wof:lastmodified":1510613114,
     "wof:name":"King Buffet",
     "wof:parent_id":85832777,
     "wof:placetype":"venue",

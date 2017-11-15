@@ -2,6 +2,10 @@
   "id": 773573605,
   "type": "Feature",
   "properties": {
+    "addr:full":"1015 E 50 St Kansas City MO 64110",
+    "addr:housenumber":"1015;50",
+    "addr:postcode":"64110",
+    "addr:street":"E;St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":773573605,
-    "wof:lastmodified":1466632725,
+    "wof:lastmodified":1472631052,
     "wof:name":"Animal Research Facility",
     "wof:parent_id":85871987,
     "wof:placetype":"venue",

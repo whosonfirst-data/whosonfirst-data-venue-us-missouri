@@ -2,6 +2,10 @@
   "id": 806441543,
   "type": "Feature",
   "properties": {
+    "addr:full":"1234 Burlington St Kansas City MO 64116",
+    "addr:housenumber":"1234",
+    "addr:postcode":"64116",
+    "addr:street":"Burlington St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":806441543,
-    "wof:lastmodified":1466624026,
+    "wof:lastmodified":1472630273,
     "wof:name":"After Marketing Midwest",
     "wof:parent_id":85823983,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 789884065,
   "type": "Feature",
   "properties": {
+    "addr:full":"714 Goodlet Cir Weston MO 64098",
+    "addr:housenumber":"714",
+    "addr:postcode":"64098",
+    "addr:street":"Goodlet Cir",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.890434,39.410158,-94.890434,39.410158",
     "geom:latitude":39.410158,
     "geom:longitude":-94.890434,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"714 Goodlet Cir",
     "sg:city":"Weston",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102085271,
         85823759
     ],
+    "wof:brand_id":1125155811,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1COBoX2xrM4bh6dUMIAT25_39.410158_-94.890434@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462591324,
-    "wof:geomhash":"9ba5046068d1c9d05fa6bf7f8cd031b7",
+    "wof:geomhash":"a1d0ee82bbd4280b2b9662b1dd7cd5b0",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":789884065,
-    "wof:lastmodified":1466629164,
+    "wof:lastmodified":1510695385,
     "wof:name":"National Assoc of Retired",
     "wof:parent_id":85823759,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 790170355,
   "type": "Feature",
   "properties": {
+    "addr:full":"12022 Saint Charles Rock Rd Bridgeton MO 63044",
+    "addr:housenumber":"12022",
+    "addr:postcode":"63044",
+    "addr:street":"Saint Charles Rock Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.421402,38.747011,-90.421402,38.747011",
     "geom:latitude":38.747011,
     "geom:longitude":-90.421402,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"12022 Saint Charles Rock Rd",
     "sg:city":"Bridgeton",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102086173,
         85688661
     ],
+    "wof:brand_id":1125157881,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1TCVL81bzdPAv9sTz2fEhL_38.747011_-90.421402@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462593695,
-    "wof:geomhash":"686bd4f0269479dee9b03fb0359167ed",
+    "wof:geomhash":"b58cc227ed5bffa292bf7ca42748f56b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":790170355,
-    "wof:lastmodified":1466626143,
+    "wof:lastmodified":1510693912,
     "wof:name":"La Weight Loss Centers Inc",
     "wof:parent_id":85836381,
     "wof:placetype":"venue",

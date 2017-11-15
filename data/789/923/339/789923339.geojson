@@ -2,6 +2,10 @@
   "id": 789923339,
   "type": "Feature",
   "properties": {
+    "addr:full":"13605 Co Rd 7160 Rolla MO 65401",
+    "addr:housenumber":"13605",
+    "addr:postcode":"7160;65401",
+    "addr:street":"Co Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":789923339,
-    "wof:lastmodified":1466630005,
+    "wof:lastmodified":1472630754,
     "wof:name":"Schmidt & Schmidt",
     "wof:parent_id":85814531,
     "wof:placetype":"venue",

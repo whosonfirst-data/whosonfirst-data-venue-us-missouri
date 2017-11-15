@@ -2,14 +2,20 @@
   "id": 806680253,
   "type": "Feature",
   "properties": {
+    "addr:full":"1160 Shackelford Rd Florissant MO 63031",
+    "addr:housenumber":"1160",
+    "addr:postcode":"63031",
+    "addr:street":"Shackelford Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.347829,38.813564,-90.347829,38.813564",
     "geom:latitude":38.813564,
     "geom:longitude":-90.347829,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1160 Shackelford Rd",
     "sg:city":"Florissant",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102086173,
         85688661
     ],
+    "wof:brand_id":1125151233,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5WE4bByBIwb3oVmyYHmM0Q_38.813564_-90.347829@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462600173,
-    "wof:geomhash":"476efc48b31a137dcc26d7f1ee9b0a96",
+    "wof:geomhash":"db4b7c2b062e953cb8a0201a32faba31",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":806680253,
-    "wof:lastmodified":1466630309,
+    "wof:lastmodified":1510694069,
     "wof:name":"Qualex Inc",
     "wof:parent_id":85813019,
     "wof:placetype":"venue",

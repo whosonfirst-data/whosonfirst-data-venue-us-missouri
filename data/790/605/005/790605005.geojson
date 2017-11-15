@@ -2,14 +2,20 @@
   "id": 790605005,
   "type": "Feature",
   "properties": {
+    "addr:full":"4025 NE Lakewood Way Lees Summit MO 64064",
+    "addr:housenumber":"4025",
+    "addr:postcode":"64064",
+    "addr:street":"Ne Lakewood Way",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.354476,38.98273,-94.354476,38.98273",
     "geom:latitude":38.98273,
     "geom:longitude":-94.354476,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4025 NE Lakewood Way",
     "sg:city":"Lees Summit",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102081227,
         85688661
     ],
+    "wof:brand_id":420574965,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6zayNIMCm8ea4hlwy7seQg_38.982730_-94.354476@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462597263,
-    "wof:geomhash":"8d036e968d3b1bcaf20ac5f0ccb1ed35",
+    "wof:geomhash":"2a0232c1e76ef6469a685e4f97348d80",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":790605005,
-    "wof:lastmodified":1466634383,
+    "wof:lastmodified":1510604742,
     "wof:name":"Allied Home Mortgage Capital",
     "wof:parent_id":85847737,
     "wof:placetype":"venue",

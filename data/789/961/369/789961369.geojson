@@ -2,14 +2,20 @@
   "id": 789961369,
   "type": "Feature",
   "properties": {
+    "addr:full":"2 E 57 St Kansas City MO 64113",
+    "addr:housenumber":"2;57",
+    "addr:postcode":"64113",
+    "addr:street":"E;St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.586372,39.024003,-94.586372,39.024003",
     "geom:latitude":39.024003,
     "geom:longitude":-94.586372,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2 E 57 St",
     "sg:city":"Kansas City",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102081227,
         85688661
     ],
+    "wof:brand_id":1125154903,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5zvPvcQ7G7uPbMrZ9YiW5u_39.024003_-94.586372@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462592010,
-    "wof:geomhash":"b4b2249a159f0ad22dc7e8f87c2a6365",
+    "wof:geomhash":"266ddb67d914b1dad506be166b7264e4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":789961369,
-    "wof:lastmodified":1466631180,
+    "wof:lastmodified":1510697536,
     "wof:name":"Massachusetts Mutual-Blue Chip",
     "wof:parent_id":85872031,
     "wof:placetype":"venue",

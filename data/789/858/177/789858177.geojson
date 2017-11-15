@@ -2,6 +2,10 @@
   "id": 789858177,
   "type": "Feature",
   "properties": {
+    "addr:full":"9687 N Farm Rd 181 Fair Grove MO 65648",
+    "addr:housenumber":"9687;181",
+    "addr:postcode":"65648",
+    "addr:street":"N Farm Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":789858177,
-    "wof:lastmodified":1466628660,
+    "wof:lastmodified":1472630646,
     "wof:name":"Bristow Stairway Co",
     "wof:parent_id":85881137,
     "wof:placetype":"venue",

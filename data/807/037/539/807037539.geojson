@@ -2,14 +2,20 @@
   "id": 807037539,
   "type": "Feature",
   "properties": {
+    "addr:full":"1201 Lyon St Hannibal MO 63401",
+    "addr:housenumber":"1201",
+    "addr:postcode":"63401",
+    "addr:street":"Lyon St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.365578,39.703457,-91.365578,39.703457",
     "geom:latitude":39.703457,
     "geom:longitude":-91.365578,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1201 Lyon St",
     "sg:city":"Hannibal",
     "sg:classifiers":[
@@ -39,13 +45,14 @@
         102086171,
         85688661
     ],
+    "wof:brand_id":420575991,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5dKHBKEktj5PE8nUGbL39i_39.703480_-91.365569@1293134755"
     },
     "wof:country":"US",
     "wof:created":1462603183,
-    "wof:geomhash":"de371af0ffa64e9362f0f2df411b9730",
+    "wof:geomhash":"b758ea7b69f0a41b09de93aeadbb8af4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,7 +66,7 @@
         }
     ],
     "wof:id":807037539,
-    "wof:lastmodified":1466623082,
+    "wof:lastmodified":1510602058,
     "wof:name":"St John's Lutheran Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

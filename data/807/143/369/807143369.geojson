@@ -2,14 +2,20 @@
   "id": 807143369,
   "type": "Feature",
   "properties": {
+    "addr:full":"4206 N Grand Blvd Saint Louis MO 63107",
+    "addr:housenumber":"4206",
+    "addr:postcode":"63107",
+    "addr:street":"N Grand Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.2127,38.666599,-90.2127,38.666599",
     "geom:latitude":38.666599,
     "geom:longitude":-90.2127,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4206 N Grand Blvd",
     "sg:city":"Saint Louis",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102080791,
         85688661
     ],
+    "wof:brand_id":420575921,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7G0lUPgDJ8SoyZ7N2XAJ2y_38.666599_-90.212700@1303262928"
     },
     "wof:country":"US",
     "wof:created":1462604197,
-    "wof:geomhash":"f712a90f597d2b996f9d1873d499d796",
+    "wof:geomhash":"1cef246991fcd9c5e5e9dcc2b5ab62eb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":807143369,
-    "wof:lastmodified":1466625886,
+    "wof:lastmodified":1510607665,
     "wof:name":"Economy Inn",
     "wof:parent_id":85873619,
     "wof:placetype":"venue",

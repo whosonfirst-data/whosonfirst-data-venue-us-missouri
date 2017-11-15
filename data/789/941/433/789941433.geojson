@@ -2,6 +2,10 @@
   "id": 789941433,
   "type": "Feature",
   "properties": {
+    "addr:full":"221 S Kirkwood Rd St Louis MO 63122",
+    "addr:housenumber":"221",
+    "addr:postcode":"63122",
+    "addr:street":"S Kirkwood Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":789941433,
-    "wof:lastmodified":1466630460,
+    "wof:lastmodified":1472630761,
     "wof:name":"Station Plaza",
     "wof:parent_id":85858243,
     "wof:placetype":"venue",

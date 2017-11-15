@@ -2,14 +2,20 @@
   "id": 807277079,
   "type": "Feature",
   "properties": {
+    "addr:full":"1819 W Elm St Lebanon MO 65536",
+    "addr:housenumber":"1819",
+    "addr:postcode":"65536",
+    "addr:street":"W Elm St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.667647,37.651732,-92.667647,37.651732",
     "geom:latitude":37.651732,
     "geom:longitude":-92.667647,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1819 W Elm St",
     "sg:city":"Lebanon",
     "sg:classifiers":[
@@ -50,13 +56,14 @@
         102085341,
         85688661
     ],
+    "wof:brand_id":1125152903,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3DGAMlrxLH38zezx9Vzhsx_37.651732_-92.667647@1303262936"
     },
     "wof:country":"US",
     "wof:created":1462605618,
-    "wof:geomhash":"564d3b881215358303807349cf354f60",
+    "wof:geomhash":"76608993b0827e1ad95c3c0163d6e6af",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -70,7 +77,7 @@
         }
     ],
     "wof:id":807277079,
-    "wof:lastmodified":1466629919,
+    "wof:lastmodified":1510695169,
     "wof:name":"Quiznos Classic Subs",
     "wof:parent_id":85855845,
     "wof:placetype":"venue",

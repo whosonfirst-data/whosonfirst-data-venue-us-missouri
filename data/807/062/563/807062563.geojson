@@ -2,14 +2,20 @@
   "id": 807062563,
   "type": "Feature",
   "properties": {
+    "addr:full":"5555 Saint Louis Mills Blvd Hazelwood MO 63042",
+    "addr:housenumber":"5555",
+    "addr:postcode":"63042",
+    "addr:street":"Saint Louis Mills Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.415548,38.786097,-90.415548,38.786097",
     "geom:latitude":38.786097,
     "geom:longitude":-90.415548,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5555 Saint Louis Mills Blvd",
     "sg:city":"Hazelwood",
     "sg:classifiers":[
@@ -39,13 +45,14 @@
         102086173,
         85688661
     ],
+    "wof:brand_id":1125156315,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5ApeXvJsr9kE0YsDRtM4Dw_38.786097_-90.415548@1299784598"
     },
     "wof:country":"US",
     "wof:created":1462603390,
-    "wof:geomhash":"882c283e4d818e0174135c5af3a1329d",
+    "wof:geomhash":"7b9d9ec806b42b51387380e663a278ec",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,7 +66,7 @@
         }
     ],
     "wof:id":807062563,
-    "wof:lastmodified":1466623904,
+    "wof:lastmodified":1510693709,
     "wof:name":"Tony Romas",
     "wof:parent_id":85836381,
     "wof:placetype":"venue",

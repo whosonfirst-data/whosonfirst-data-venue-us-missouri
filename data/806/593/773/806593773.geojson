@@ -2,14 +2,20 @@
   "id": 806593773,
   "type": "Feature",
   "properties": {
+    "addr:full":"1001 US Hwy 24 Independence MO 64050",
+    "addr:housenumber":"1001",
+    "addr:postcode":"64050",
+    "addr:street":"Us Hwy 24",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.428719,39.101893,-94.428719,39.101893",
     "geom:latitude":39.101893,
     "geom:longitude":-94.428719,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1001 US Hwy 24",
     "sg:city":"Independence",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102081227,
         85688661
     ],
+    "wof:brand_id":1125152841,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0GEfy7aJAVO3ooqfKkX525_39.101893_-94.428719@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462599429,
-    "wof:geomhash":"d35882ee9bd216bc3442ab2998904ae8",
+    "wof:geomhash":"3ef0782608ab76b863bf1933db8542e9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":806593773,
-    "wof:lastmodified":1466627676,
+    "wof:lastmodified":1510693748,
     "wof:name":"Amoco Food Mart",
     "wof:parent_id":85833097,
     "wof:placetype":"venue",

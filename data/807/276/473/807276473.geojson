@@ -2,14 +2,20 @@
   "id": 807276473,
   "type": "Feature",
   "properties": {
+    "addr:full":"588 S Jefferson Ave Lebanon MO 65536",
+    "addr:housenumber":"588",
+    "addr:postcode":"65536",
+    "addr:street":"S Jefferson Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.658383,37.676406,-92.658383,37.676406",
     "geom:latitude":37.676406,
     "geom:longitude":-92.658383,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"588 S Jefferson Ave",
     "sg:city":"Lebanon",
     "sg:classifiers":[],
@@ -28,13 +34,14 @@
         102085341,
         85688661
     ],
+    "wof:brand_id":420573909,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0YQOc0j6p5bGfXARFG3shX_37.676406_-92.658383@1303262936"
     },
     "wof:country":"US",
     "wof:created":1462605612,
-    "wof:geomhash":"d9ecbedb5acf98f5945472eacc7f6ba9",
+    "wof:geomhash":"9aa180131037eee13c07aefb1601666f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":807276473,
-    "wof:lastmodified":1466629868,
+    "wof:lastmodified":1510603481,
     "wof:name":"Walgreens Pharmacies",
     "wof:parent_id":85855845,
     "wof:placetype":"venue",

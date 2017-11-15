@@ -2,9 +2,14 @@
   "id": 203161979,
   "type": "Feature",
   "properties": {
+    "addr:full":"71550 631 Ave Humboldt NE 68376",
+    "addr:housenumber":"71550",
+    "addr:postcode":"68376",
+    "addr:street":"631 Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.225377,38.69628,-90.225377,38.69628",
     "geom:latitude":38.69628,
     "geom:longitude":-90.225377,
@@ -25,11 +30,13 @@
     "sg:province":"NE",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688661,
+        85873603,
+        102191575,
+        404518053,
         85633793,
         85971343,
         102080791,
-        85873603
+        85688661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,9 +46,10 @@
     "wof:geomhash":"7226b1979ddfc5a73f75a346b2638f4d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080791,
+            "localadmin_id":404518053,
             "locality_id":85971343,
             "neighbourhood_id":85873603,
             "region_id":85688661,
@@ -49,7 +57,7 @@
         }
     ],
     "wof:id":203161979,
-    "wof:lastmodified":1466622381,
+    "wof:lastmodified":1491892918,
     "wof:name":"Kirkmans Lakeview Golf Course",
     "wof:parent_id":85873603,
     "wof:placetype":"venue",

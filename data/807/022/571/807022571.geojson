@@ -2,14 +2,20 @@
   "id": 807022571,
   "type": "Feature",
   "properties": {
+    "addr:full":"2555 N Glenstone Ave Springfield MO 65803",
+    "addr:housenumber":"2555",
+    "addr:postcode":"65803",
+    "addr:street":"N Glenstone Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.260945,37.242588,-93.260945,37.242588",
     "geom:latitude":37.242588,
     "geom:longitude":-93.260945,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2555 N Glenstone Ave",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102087523,
         85881137
     ],
+    "wof:brand_id":420575921,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3LZgmEM1lIcCk5vs2deExC_37.242577_-93.260978@1293134755"
     },
     "wof:country":"US",
     "wof:created":1462603058,
-    "wof:geomhash":"e65f1de60989b1be11dcba9672194a55",
+    "wof:geomhash":"17605fd36bbdd26d61949bd1c9f228c2",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":807022571,
-    "wof:lastmodified":1466623422,
+    "wof:lastmodified":1510622662,
     "wof:name":"Economy Inn",
     "wof:parent_id":85881137,
     "wof:placetype":"venue",

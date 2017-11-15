@@ -2,14 +2,20 @@
   "id": 789977469,
   "type": "Feature",
   "properties": {
+    "addr:full":"170 Gravois Bluffs Cir Fenton MO 63026",
+    "addr:housenumber":"170",
+    "addr:postcode":"63026",
+    "addr:street":"Gravois Bluffs Cir",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.445186,38.506071,-90.445186,38.506071",
     "geom:latitude":38.506071,
     "geom:longitude":-90.445186,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"170 Gravois Bluffs Cir",
     "sg:city":"Fenton",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102086173,
         85688661
     ],
+    "wof:brand_id":1125150329,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2K3sps2bt6FkoJkNxitJVz_38.506071_-90.445186@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462592148,
-    "wof:geomhash":"7c328322b7d976b213b405420dea20d7",
+    "wof:geomhash":"fc5c8669a052435f82d9854f7e2c55e6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":789977469,
-    "wof:lastmodified":1466631474,
+    "wof:lastmodified":1510694575,
     "wof:name":"Mattress Giant",
     "wof:parent_id":85858661,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 790536787,
   "type": "Feature",
   "properties": {
+    "addr:full":"1265 E Battlefield Rd Springfield MO 65804",
+    "addr:housenumber":"1265",
+    "addr:postcode":"65804",
+    "addr:street":"E Battlefield Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.27485,37.159623,-93.27485,37.159623",
     "geom:latitude":37.159623,
     "geom:longitude":-93.27485,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1265 E Battlefield Rd",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102087523,
         85688661
     ],
+    "wof:brand_id":420575403,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5dfQCNDZS14fFOypNXymOX_37.159623_-93.274850@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462596677,
-    "wof:geomhash":"0562e171f203ab7a0596bff2aa970a53",
+    "wof:geomhash":"99dd69ce6a17d47101fe8c875bbcce68",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":790536787,
-    "wof:lastmodified":1466633218,
+    "wof:lastmodified":1510602498,
     "wof:name":"Pep Boys Supercenter",
     "wof:parent_id":85881149,
     "wof:placetype":"venue",

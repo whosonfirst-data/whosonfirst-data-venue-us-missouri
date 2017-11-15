@@ -2,14 +2,20 @@
   "id": 773368405,
   "type": "Feature",
   "properties": {
+    "addr:full":"3402 Chippewa St St Louis MO 63118",
+    "addr:housenumber":"3402",
+    "addr:postcode":"63118",
+    "addr:street":"Chippewa St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.241713,38.587887,-90.241713,38.587887",
     "geom:latitude":38.587887,
     "geom:longitude":-90.241713,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3402 Chippewa St",
     "sg:city":"St Louis",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102080791,
         85688661
     ],
+    "wof:brand_id":1125152387,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2JP0LtAQunejqTmlcpvO2E_38.587887_-90.241713@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462585171,
-    "wof:geomhash":"5cae3f821a623161c886530108f5cf4d",
+    "wof:geomhash":"c0e077d5359f22bcc23e36e31a55ae4e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":773368405,
-    "wof:lastmodified":1466628745,
+    "wof:lastmodified":1510699983,
     "wof:name":"All About Hair",
     "wof:parent_id":85873693,
     "wof:placetype":"venue",

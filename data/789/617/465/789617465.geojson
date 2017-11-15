@@ -2,6 +2,10 @@
   "id": 789617465,
   "type": "Feature",
   "properties": {
+    "addr:full":"6030 N Lindbergh Blvd Hazelwood MO 63042",
+    "addr:housenumber":"6030",
+    "addr:postcode":"63042",
+    "addr:street":"N Lindbergh Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":789617465,
-    "wof:lastmodified":1466622948,
+    "wof:lastmodified":1472630249,
     "wof:name":"Public Storage Inc",
     "wof:parent_id":85847351,
     "wof:placetype":"venue",

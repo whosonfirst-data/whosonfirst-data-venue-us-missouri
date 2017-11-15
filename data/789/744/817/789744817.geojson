@@ -2,6 +2,10 @@
   "id": 789744817,
   "type": "Feature",
   "properties": {
+    "addr:full":"123 US Hwy 169 Smithville MO 64089",
+    "addr:housenumber":"123",
+    "addr:postcode":"64089",
+    "addr:street":"Us Hwy 169",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":789744817,
-    "wof:lastmodified":1466625890,
+    "wof:lastmodified":1472630422,
     "wof:name":"Gt Tow",
     "wof:parent_id":85836329,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 773787217,
   "type": "Feature",
   "properties": {
+    "addr:full":"1941 E Independence St Springfield MO 65804",
+    "addr:housenumber":"1941",
+    "addr:postcode":"65804",
+    "addr:street":"E Independence St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.260137,37.141858,-93.260137,37.141858",
     "geom:latitude":37.141858,
     "geom:longitude":-93.260137,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1941 E Independence St",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -44,13 +50,14 @@
         102087523,
         85688661
     ],
+    "wof:brand_id":1125150131,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1ECfqCuX3YizyihfqROENb_37.141858_-93.260137@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462588368,
-    "wof:geomhash":"2aae037758558e33852c9bec69612eea",
+    "wof:geomhash":"ad9212b9d23404f2e6d74719dd40f66b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -64,7 +71,7 @@
         }
     ],
     "wof:id":773787217,
-    "wof:lastmodified":1466635207,
+    "wof:lastmodified":1510696876,
     "wof:name":"Leslies Swimming Pool Supplies",
     "wof:parent_id":85881149,
     "wof:placetype":"venue",

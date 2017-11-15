@@ -2,14 +2,20 @@
   "id": 806948751,
   "type": "Feature",
   "properties": {
+    "addr:full":"2727 W Kearney St Springfield MO 65803",
+    "addr:housenumber":"2727",
+    "addr:postcode":"65803",
+    "addr:street":"W Kearney St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.329679,37.241389,-93.329679,37.241389",
     "geom:latitude":37.241389,
     "geom:longitude":-93.329679,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2727 W Kearney St",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102087523,
         85881139
     ],
+    "wof:brand_id":1125152309,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4Kb0psv5pWAOQ7O2CH36ph_37.241389_-93.329679@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462602428,
-    "wof:geomhash":"493cb973ac3ab7e45397dd98670fe89d",
+    "wof:geomhash":"d4347ea16df70be85d6ebc11b1fb1d0b",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":806948751,
-    "wof:lastmodified":1466635409,
+    "wof:lastmodified":1510696019,
     "wof:name":"Sun Loan Co",
     "wof:parent_id":85881139,
     "wof:placetype":"venue",

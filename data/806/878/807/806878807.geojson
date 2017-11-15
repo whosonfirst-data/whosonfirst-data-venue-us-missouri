@@ -2,6 +2,10 @@
   "id": 806878807,
   "type": "Feature",
   "properties": {
+    "addr:full":"3841 E 67 St Kansas City MO 64132",
+    "addr:housenumber":"3841;67",
+    "addr:postcode":"64132",
+    "addr:street":"E;St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":806878807,
-    "wof:lastmodified":1466634213,
+    "wof:lastmodified":1472630698,
     "wof:name":"Great Commission Sch-Mnstry",
     "wof:parent_id":85833733,
     "wof:placetype":"venue",

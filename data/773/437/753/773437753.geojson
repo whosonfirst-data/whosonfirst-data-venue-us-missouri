@@ -2,14 +2,20 @@
   "id": 773437753,
   "type": "Feature",
   "properties": {
+    "addr:full":"109 S Washington St Neosho MO 64850",
+    "addr:housenumber":"109",
+    "addr:postcode":"64850",
+    "addr:street":"S Washington St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.367096,36.869572,-94.367096,36.869572",
     "geom:latitude":36.869572,
     "geom:longitude":-94.367096,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"109 S Washington St",
     "sg:city":"Neosho",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087471,
         85688661
     ],
+    "wof:brand_id":1125152041,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6JSkp7YHmgX6bLiuoITz4T_36.869572_-94.367096@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462585741,
-    "wof:geomhash":"5029f1116c79dfde6d7156cbda53a699",
+    "wof:geomhash":"8c286a79a0b9daa7b68b191e21ea5973",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":773437753,
-    "wof:lastmodified":1466630156,
+    "wof:lastmodified":1510694908,
     "wof:name":"IOOF",
     "wof:parent_id":85821247,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 807012435,
   "type": "Feature",
   "properties": {
+    "addr:full":"8960 Riverview Blvd Saint Louis MO 63147",
+    "addr:housenumber":"8960",
+    "addr:postcode":"63147",
+    "addr:street":"Riverview Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.240501,38.720001,-90.240501,38.720001",
     "geom:latitude":38.720001,
     "geom:longitude":-90.240501,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"8960 Riverview Blvd",
     "sg:city":"Saint Louis",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102080791,
         85688661
     ],
+    "wof:brand_id":1125157153,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2EXJcnnz2QWPGVrBBDDXtu_38.719750_-90.240693@1293134755"
     },
     "wof:country":"US",
     "wof:created":1462602963,
-    "wof:geomhash":"6c0ac0ad6c206aa4d6317a18cd21f390",
+    "wof:geomhash":"d77ed5f0c8b2265bab9e273891ee130d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":807012435,
-    "wof:lastmodified":1466622845,
+    "wof:lastmodified":1510694091,
     "wof:name":"Family Dollar Stores Inc",
     "wof:parent_id":85804181,
     "wof:placetype":"venue",

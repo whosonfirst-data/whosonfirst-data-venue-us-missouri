@@ -2,14 +2,20 @@
   "id": 806957439,
   "type": "Feature",
   "properties": {
+    "addr:full":"2772 S Campbell Ave Springfield MO 65807",
+    "addr:housenumber":"2772",
+    "addr:postcode":"65807",
+    "addr:street":"S Campbell Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.295244,37.163002,-93.295244,37.163002",
     "geom:latitude":37.163002,
     "geom:longitude":-93.295244,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2772 S Campbell Ave",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         85881151,
         102087523
     ],
+    "wof:brand_id":1125150835,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_02kvA7PTrSRfhvYSUSg1c6_37.163002_-93.295244@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462602506,
-    "wof:geomhash":"d8183410435b50bab811343df747c1a4",
+    "wof:geomhash":"9e80f1e55bde9049ce26f902d65c8aa6",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":806957439,
-    "wof:lastmodified":1466635187,
+    "wof:lastmodified":1510695414,
     "wof:name":"Lincare Inc",
     "wof:parent_id":85881151,
     "wof:placetype":"venue",

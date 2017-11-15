@@ -2,14 +2,20 @@
   "id": 806950471,
   "type": "Feature",
   "properties": {
+    "addr:full":"310 SW Blue Pkwy Lees Summit MO 64063",
+    "addr:housenumber":"310",
+    "addr:postcode":"64063",
+    "addr:street":"Sw Blue Pkwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.381922,38.905113,-94.381922,38.905113",
     "geom:latitude":38.905113,
     "geom:longitude":-94.381922,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"310 SW Blue Pkwy",
     "sg:city":"Lees Summit",
     "sg:classifiers":[
@@ -39,13 +45,14 @@
         102081227,
         85688661
     ],
+    "wof:brand_id":1125156801,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1TAYEDXphrAelImehsrgzn_38.905113_-94.381922@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462602442,
-    "wof:geomhash":"0fb75753d7bbff4d460bd4820d4a4933",
+    "wof:geomhash":"2ff2427ad2bd4a82a129c2a842b43d0a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,7 +66,7 @@
         }
     ],
     "wof:id":806950471,
-    "wof:lastmodified":1466635287,
+    "wof:lastmodified":1510698911,
     "wof:name":"Pet Supermarket",
     "wof:parent_id":85849825,
     "wof:placetype":"venue",

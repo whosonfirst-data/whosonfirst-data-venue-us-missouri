@@ -2,14 +2,20 @@
   "id": 790062297,
   "type": "Feature",
   "properties": {
+    "addr:full":"1509 Co Rd Dd Smithville MO 64089",
+    "addr:housenumber":"1509",
+    "addr:postcode":"64089",
+    "addr:street":"Co Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.566279,39.386255,-94.566279,39.386255",
     "geom:latitude":39.386255,
     "geom:longitude":-94.566279,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1509 Co Rd Dd",
     "sg:city":"Smithville",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102086177,
         85836329
     ],
+    "wof:brand_id":1125151719,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_657T0sWYgFS3ZKoc1LfU9Y_39.386255_-94.566279@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462592837,
-    "wof:geomhash":"3ecf131dbfdae27b09bf011347dd2124",
+    "wof:geomhash":"3eaa8edcc54c54f48ef57040833c1b41",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":790062297,
-    "wof:lastmodified":1466623946,
+    "wof:lastmodified":1510696790,
     "wof:name":"Brooks Brothers",
     "wof:parent_id":85836329,
     "wof:placetype":"venue",

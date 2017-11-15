@@ -2,14 +2,20 @@
   "id": 789914299,
   "type": "Feature",
   "properties": {
+    "addr:full":"1 Insurance Center Plz Saint Louis MO 63141",
+    "addr:housenumber":"",
+    "addr:postcode":"63141",
+    "addr:street":"Plz",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.45376,38.671513,-90.45376,38.671513",
     "geom:latitude":38.671513,
     "geom:longitude":-90.45376,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1 Insurance Center Plz",
     "sg:city":"Saint Louis",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102086173,
         85688661
     ],
+    "wof:brand_id":1125151021,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4uyg6AFyeo2HH4hpgrlzZh_38.671513_-90.453760@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462591576,
-    "wof:geomhash":"ba449dcb0b599da24afb3f1ab8c72e7f",
+    "wof:geomhash":"d468d30d09e8eb53cb360a851b291de1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":789914299,
-    "wof:lastmodified":1466629844,
+    "wof:lastmodified":1510699657,
     "wof:name":"Standard Register Company",
     "wof:parent_id":85805719,
     "wof:placetype":"venue",

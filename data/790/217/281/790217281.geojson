@@ -2,14 +2,20 @@
   "id": 790217281,
   "type": "Feature",
   "properties": {
+    "addr:full":"1250 S 3rd St St Louis MO 63104",
+    "addr:housenumber":"1250",
+    "addr:postcode":"63104",
+    "addr:street":"S 3Rd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.193571,38.614175,-90.193571,38.614175",
     "geom:latitude":38.614175,
     "geom:longitude":-90.193571,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1250 S 3rd St",
     "sg:city":"St Louis",
     "sg:classifiers":[
@@ -39,13 +45,14 @@
         102080791,
         85688661
     ],
+    "wof:brand_id":420574325,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_02FUxzNecvFR7c7zSn6pHQ_38.614175_-90.193571@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462594085,
-    "wof:geomhash":"46588e4df7d0e6d508b849e52c84fff3",
+    "wof:geomhash":"5895fb7336038a29c623351072e18265",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,7 +66,7 @@
         }
     ],
     "wof:id":790217281,
-    "wof:lastmodified":1466627004,
+    "wof:lastmodified":1510604360,
     "wof:name":"Public Storage Inc",
     "wof:parent_id":85873665,
     "wof:placetype":"venue",

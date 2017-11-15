@@ -2,14 +2,20 @@
   "id": 790511217,
   "type": "Feature",
   "properties": {
+    "addr:full":"5858 Suemandy Rd St Peters MO 63376",
+    "addr:housenumber":"5858",
+    "addr:postcode":"63376",
+    "addr:street":"Suemandy Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.622248,38.796472,-90.622248,38.796472",
     "geom:latitude":38.796472,
     "geom:longitude":-90.622248,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5858 Suemandy Rd",
     "sg:city":"St Peters",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102086159,
         85821097
     ],
+    "wof:brand_id":1125150081,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5wBPqLwQZvN7WaJDRtN4HP_38.796472_-90.622248@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462596461,
-    "wof:geomhash":"6ccc79fbe5ab693140d3355fd75f6900",
+    "wof:geomhash":"996685bdd801a54d98e86c339987ce65",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":790511217,
-    "wof:lastmodified":1466632737,
+    "wof:lastmodified":1510696025,
     "wof:name":"David's Bridal",
     "wof:parent_id":85821097,
     "wof:placetype":"venue",

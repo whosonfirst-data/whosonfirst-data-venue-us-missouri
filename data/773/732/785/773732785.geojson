@@ -2,14 +2,20 @@
   "id": 773732785,
   "type": "Feature",
   "properties": {
+    "addr:full":"2200 E Sunshine St Springfield MO 65804",
+    "addr:housenumber":"2200",
+    "addr:postcode":"65804",
+    "addr:street":"E Sunshine St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.25179,37.18118,-93.25179,37.18118",
     "geom:latitude":37.18118,
     "geom:longitude":-93.25179,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2200 E Sunshine St",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102087523,
         85688661
     ],
+    "wof:brand_id":1125159847,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0zlPQdivaw2I4edAb1ZuP5_37.181180_-93.251790@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462587971,
-    "wof:geomhash":"16a32694ee409e4f1e1ab48efbfd7a69",
+    "wof:geomhash":"66c0aa552a4c7182c7dbc0aa911b5757",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":773732785,
-    "wof:lastmodified":1466634734,
+    "wof:lastmodified":1510694243,
     "wof:name":"Easter Seal Society",
     "wof:parent_id":85829759,
     "wof:placetype":"venue",

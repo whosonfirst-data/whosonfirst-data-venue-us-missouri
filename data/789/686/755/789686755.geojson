@@ -2,6 +2,10 @@
   "id": 789686755,
   "type": "Feature",
   "properties": {
+    "addr:full":"2036 E 77 St Kansas City MO 64132",
+    "addr:housenumber":"2036;77",
+    "addr:postcode":"64132",
+    "addr:street":"E;St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":789686755,
-    "wof:lastmodified":1466624614,
+    "wof:lastmodified":1472630340,
     "wof:name":"Ragz",
     "wof:parent_id":85867027,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 807013525,
   "type": "Feature",
   "properties": {
+    "addr:full":"11310 Pike 405 Bowling Green MO 63334",
+    "addr:housenumber":"11310;405",
+    "addr:postcode":"63334",
+    "addr:street":"Pike",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":807013525,
-    "wof:lastmodified":1466623159,
+    "wof:lastmodified":1472630175,
     "wof:name":"Simon Orf",
     "wof:parent_id":85817909,
     "wof:placetype":"venue",

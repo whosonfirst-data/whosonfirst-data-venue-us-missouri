@@ -2,14 +2,20 @@
   "id": 806965387,
   "type": "Feature",
   "properties": {
+    "addr:full":"1 W Armour Blvd Kansas City MO 64111",
+    "addr:housenumber":"1",
+    "addr:postcode":"64111",
+    "addr:street":"W Armour Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.586882,39.063831,-94.586882,39.063831",
     "geom:latitude":39.063831,
     "geom:longitude":-94.586882,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1 W Armour Blvd",
     "sg:city":"Kansas City",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102081227,
         85688661
     ],
+    "wof:brand_id":1125153569,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3SNDHPLVqct7FTGE4rDBQx_39.063831_-94.586882@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462602566,
-    "wof:geomhash":"0dcf8d4bf9fed08af13c6776185f95d3",
+    "wof:geomhash":"b6e407ec29b436264504b3c1f03f0752",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":806965387,
-    "wof:lastmodified":1466635352,
+    "wof:lastmodified":1510693207,
     "wof:name":"U S Bank National Association",
     "wof:parent_id":85871993,
     "wof:placetype":"venue",

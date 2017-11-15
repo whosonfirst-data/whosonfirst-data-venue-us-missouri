@@ -2,6 +2,10 @@
   "id": 789890123,
   "type": "Feature",
   "properties": {
+    "addr:full":"8 Burr Pl Fort Leonard Wood MO 65473",
+    "addr:housenumber":"8",
+    "addr:postcode":"65473",
+    "addr:street":"Burr Pl;Leonard",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":789890123,
-    "wof:lastmodified":1466629598,
+    "wof:lastmodified":1472630740,
     "wof:name":"Rainbow of Fun",
     "wof:parent_id":85822351,
     "wof:placetype":"venue",

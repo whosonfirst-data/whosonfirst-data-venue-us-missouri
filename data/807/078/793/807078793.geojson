@@ -2,14 +2,20 @@
   "id": 807078793,
   "type": "Feature",
   "properties": {
+    "addr:full":"882 S State Route 291 Liberty MO 64068",
+    "addr:housenumber":"882",
+    "addr:postcode":"64068",
+    "addr:street":"S State Route 291",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.434581,39.237739,-94.434581,39.237739",
     "geom:latitude":39.237739,
     "geom:longitude":-94.434581,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"882 S State Route 291",
     "sg:city":"Liberty",
     "sg:classifiers":[
@@ -39,13 +45,14 @@
         85688661,
         420525305
     ],
+    "wof:brand_id":1125151367,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4mcm7PLeDG7K9KL2bfqrjN_39.237739_-94.434581@1299784598"
     },
     "wof:country":"US",
     "wof:created":1462603523,
-    "wof:geomhash":"e200105a7c1ee940988569ed81ed631a",
+    "wof:geomhash":"3c0afd03f602953f76b86128c363f52e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -69,7 +76,7 @@
         }
     ],
     "wof:id":807078793,
-    "wof:lastmodified":1466624281,
+    "wof:lastmodified":1510696777,
     "wof:name":"Jade Garden",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

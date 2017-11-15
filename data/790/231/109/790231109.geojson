@@ -2,14 +2,20 @@
   "id": 790231109,
   "type": "Feature",
   "properties": {
+    "addr:full":"2929 N Eastgate Ave Springfield MO 65803",
+    "addr:housenumber":"2929",
+    "addr:postcode":"65803",
+    "addr:street":"N Eastgate Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.222729,37.248782,-93.222729,37.248782",
     "geom:latitude":37.248782,
     "geom:longitude":-93.222729,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2929 N Eastgate Ave",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102087523,
         85881137
     ],
+    "wof:brand_id":1125156283,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5qnmW1vxwt4BoRmc55AtLp_37.248782_-93.222729@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462594180,
-    "wof:geomhash":"78c57ea77219128fbd4c435d0b65a15e",
+    "wof:geomhash":"74b50d53367c472b6fb9e51dada98125",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":790231109,
-    "wof:lastmodified":1466627345,
+    "wof:lastmodified":1510693208,
     "wof:name":"Overeaters Anonymous",
     "wof:parent_id":85881137,
     "wof:placetype":"venue",

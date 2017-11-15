@@ -2,14 +2,20 @@
   "id": 789747217,
   "type": "Feature",
   "properties": {
+    "addr:full":"3488 Jeffco Blvd Arnold MO 63010",
+    "addr:housenumber":"3488",
+    "addr:postcode":"63010",
+    "addr:street":"Jeffco Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.377443,38.415178,-90.377443,38.415178",
     "geom:latitude":38.415178,
     "geom:longitude":-90.377443,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3488 Jeffco Blvd",
     "sg:city":"Arnold",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         85805175,
         102080787
     ],
+    "wof:brand_id":1125151017,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Q7Gw0LqJ1T7sf4wV67rec_38.415178_-90.377443@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462590233,
-    "wof:geomhash":"65609de69f1ddfbeb4f9a06436378a2a",
+    "wof:geomhash":"ac9526aa4b21cbf6bf37aa033582d1f1",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":789747217,
-    "wof:lastmodified":1466626107,
+    "wof:lastmodified":1510693722,
     "wof:name":"PPG Porter Paints",
     "wof:parent_id":85805175,
     "wof:placetype":"venue",

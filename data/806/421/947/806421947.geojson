@@ -2,14 +2,20 @@
   "id": 806421947,
   "type": "Feature",
   "properties": {
+    "addr:full":"7640 NW Tiffany Springs Rd Kansas City MO 64153",
+    "addr:housenumber":"7640",
+    "addr:postcode":"64153",
+    "addr:street":"Nw Tiffany Springs Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.68683,39.261508,-94.68683,39.261508",
     "geom:latitude":39.261508,
     "geom:longitude":-94.68683,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"7640 NW Tiffany Springs Rd",
     "sg:city":"Kansas City",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102085271,
         85851839
     ],
+    "wof:brand_id":1125157375,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1vFzGK4DwscnxuVTlft6oG_39.261508_-94.686830@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462598021,
-    "wof:geomhash":"903b15dae3f31b5331d69d57c70a7d7a",
+    "wof:geomhash":"d5228e3534d6ad4d3509fc736a572f93",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":806421947,
-    "wof:lastmodified":1466623514,
+    "wof:lastmodified":1510698648,
     "wof:name":"Embassy Suites",
     "wof:parent_id":85851839,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 807300121,
   "type": "Feature",
   "properties": {
+    "addr:full":"1742 S 20th St Ozark MO 65721",
+    "addr:housenumber":"1742",
+    "addr:postcode":"65721",
+    "addr:street":"S 20Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.227175,37.010046,-93.227175,37.010046",
     "geom:latitude":37.010046,
     "geom:longitude":-93.227175,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1742 S 20th St",
     "sg:city":"Ozark",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102087497,
         85809751
     ],
+    "wof:brand_id":1125151501,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2xmYn8y3InpbxpM5YprIb2_37.010046_-93.227175@1303262938"
     },
     "wof:country":"US",
     "wof:created":1462605851,
-    "wof:geomhash":"54079f020200cee58f6a7f72b4a4945c",
+    "wof:geomhash":"d58e74e79a64fd1c78563c5339c91a58",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":807300121,
-    "wof:lastmodified":1466630850,
+    "wof:lastmodified":1510699690,
     "wof:name":"Crystal Nails",
     "wof:parent_id":85809751,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 790304311,
   "type": "Feature",
   "properties": {
+    "addr:full":"6600 E 87 St Kansas City MO 64138",
+    "addr:housenumber":"6600;87",
+    "addr:postcode":"64138",
+    "addr:street":"E;St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":790304311,
-    "wof:lastmodified":1466628779,
+    "wof:lastmodified":1472630768,
     "wof:name":"Bally Total Fitness",
     "wof:parent_id":85871967,
     "wof:placetype":"venue",

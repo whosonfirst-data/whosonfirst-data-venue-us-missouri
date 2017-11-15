@@ -2,6 +2,10 @@
   "id": 790478863,
   "type": "Feature",
   "properties": {
+    "addr:full":"6649 N Farm Rd 175 Springfield MO 65803",
+    "addr:housenumber":"6649;175",
+    "addr:postcode":"65803",
+    "addr:street":"N Farm Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":790478863,
-    "wof:lastmodified":1466632285,
+    "wof:lastmodified":1472630875,
     "wof:name":"House Doctors Handyman Svc",
     "wof:parent_id":85881137,
     "wof:placetype":"venue",

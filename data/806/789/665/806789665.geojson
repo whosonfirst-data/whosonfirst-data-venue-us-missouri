@@ -2,14 +2,20 @@
   "id": 806789665,
   "type": "Feature",
   "properties": {
+    "addr:full":"11210 Oak St Kansas City MO 64114",
+    "addr:housenumber":"11210",
+    "addr:postcode":"64114",
+    "addr:street":"Oak St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.588377,38.923649,-94.588377,38.923649",
     "geom:latitude":38.923649,
     "geom:longitude":-94.588377,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"11210 Oak St",
     "sg:city":"Kansas City",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102081227,
         85688661
     ],
+    "wof:brand_id":1125150001,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3FrehJgyM5xAqL55wq1eZE_38.923649_-94.588377@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462601102,
-    "wof:geomhash":"b7df3bb8a12ebd82dc2d7c4384b9a45d",
+    "wof:geomhash":"6c2811750c9c77df09d3a548f9f367ce",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":806789665,
-    "wof:lastmodified":1466632660,
+    "wof:lastmodified":1510698741,
     "wof:name":"Sisters Of St Joseph",
     "wof:parent_id":420525325,
     "wof:placetype":"venue",

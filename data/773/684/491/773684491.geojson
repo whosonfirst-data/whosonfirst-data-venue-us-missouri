@@ -2,9 +2,14 @@
   "id": 773684491,
   "type": "Feature",
   "properties": {
+    "addr:full":"4900 Reber Pl Saint Louis MO 63139",
+    "addr:housenumber":"",
+    "addr:postcode":"4900;63139",
+    "addr:street":"Reber Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.272739,38.608065,-90.272739,38.608065",
     "geom:latitude":38.608065,
     "geom:longitude":-90.272739,
@@ -25,13 +30,14 @@
     "sg:province":"MO",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873683,
+        85867039,
         102191575,
         404518053,
         85633793,
         85971343,
         102080791,
-        85688661
+        85688661,
+        85873683
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,15 +53,25 @@
             "county_id":102080791,
             "localadmin_id":404518053,
             "locality_id":85971343,
+            "neighbourhood_id":85867039,
+            "region_id":85688661,
+            "venue_id":773684491
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080791,
+            "localadmin_id":404518053,
+            "locality_id":85971343,
             "neighbourhood_id":85873683,
             "region_id":85688661,
             "venue_id":773684491
         }
     ],
     "wof:id":773684491,
-    "wof:lastmodified":1466634387,
+    "wof:lastmodified":1491912594,
     "wof:name":"Ursuline Sisters",
-    "wof:parent_id":85873683,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],

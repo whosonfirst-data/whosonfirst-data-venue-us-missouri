@@ -2,14 +2,20 @@
   "id": 807072167,
   "type": "Feature",
   "properties": {
+    "addr:full":"318 Mid Rivers Mall Dr Saint Peters MO 63376",
+    "addr:housenumber":"318",
+    "addr:postcode":"63376",
+    "addr:street":"Mid Rivers Mall Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.620353,38.798059,-90.620353,38.798059",
     "geom:latitude":38.798059,
     "geom:longitude":-90.620353,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"318 Mid Rivers Mall Dr",
     "sg:city":"Saint Peters",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102086159,
         85821097
     ],
+    "wof:brand_id":1125150445,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1lojLp3YeAMiie3ijmEf6Y_38.798059_-90.620353@1299784598"
     },
     "wof:country":"US",
     "wof:created":1462603462,
-    "wof:geomhash":"733e422def54b6d96228121ff1e1391e",
+    "wof:geomhash":"6a00d31d5baaf0a044fe39d170ad31fa",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":807072167,
-    "wof:lastmodified":1466624003,
+    "wof:lastmodified":1510697659,
     "wof:name":"Penn Station",
     "wof:parent_id":85821097,
     "wof:placetype":"venue",

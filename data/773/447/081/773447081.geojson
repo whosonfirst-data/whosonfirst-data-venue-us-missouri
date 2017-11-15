@@ -2,14 +2,20 @@
   "id": 773447081,
   "type": "Feature",
   "properties": {
+    "addr:full":"6901 N Oak Fwy Gladstone MO 64118",
+    "addr:housenumber":"6901",
+    "addr:postcode":"64118",
+    "addr:street":"N Oak Fwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.576026,39.218773,-94.576026,39.218773",
     "geom:latitude":39.218773,
     "geom:longitude":-94.576026,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"6901 N Oak Fwy",
     "sg:city":"Gladstone",
     "sg:classifiers":[
@@ -39,13 +45,14 @@
         102086177,
         85688661
     ],
+    "wof:brand_id":1125151003,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0I8WWoyj01GMSjQcfNmG4B_39.218773_-94.576026@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462585817,
-    "wof:geomhash":"020e2c2deea89418dafd0d311c16d648",
+    "wof:geomhash":"674bcadd41833813c5634bc4f17bfd0f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,7 +66,7 @@
         }
     ],
     "wof:id":773447081,
-    "wof:lastmodified":1466630699,
+    "wof:lastmodified":1510695764,
     "wof:name":"Binswanger Glass Co",
     "wof:parent_id":85830711,
     "wof:placetype":"venue",

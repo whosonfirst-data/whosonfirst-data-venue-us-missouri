@@ -2,6 +2,10 @@
   "id": 789717277,
   "type": "Feature",
   "properties": {
+    "addr:full":"2456 N East Ave Springfield MO 65803",
+    "addr:housenumber":"2456",
+    "addr:postcode":"65803",
+    "addr:street":"N East Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":789717277,
-    "wof:lastmodified":1466625173,
+    "wof:lastmodified":1472630362,
     "wof:name":"Tims Computer Repair",
     "wof:parent_id":85881135,
     "wof:placetype":"venue",

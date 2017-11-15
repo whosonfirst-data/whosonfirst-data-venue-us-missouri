@@ -2,6 +2,10 @@
   "id": 789581419,
   "type": "Feature",
   "properties": {
+    "addr:full":"2600 W Division St Springfield MO 65802",
+    "addr:housenumber":"2600",
+    "addr:postcode":"65802",
+    "addr:street":"W Division St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":789581419,
-    "wof:lastmodified":1466622284,
+    "wof:lastmodified":1472630185,
     "wof:name":"Bob's Garage",
     "wof:parent_id":85881127,
     "wof:placetype":"venue",

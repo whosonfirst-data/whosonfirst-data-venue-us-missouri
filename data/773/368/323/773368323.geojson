@@ -2,6 +2,10 @@
   "id": 773368323,
   "type": "Feature",
   "properties": {
+    "addr:full":"11809 E 87 St Kansas City MO 64138",
+    "addr:housenumber":"11809;87",
+    "addr:postcode":"64138",
+    "addr:street":"E;St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":773368323,
-    "wof:lastmodified":1466628741,
+    "wof:lastmodified":1472630972,
     "wof:name":"SIS Consultants Inc",
     "wof:parent_id":85828679,
     "wof:placetype":"venue",

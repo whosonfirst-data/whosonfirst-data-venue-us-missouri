@@ -2,6 +2,10 @@
   "id": 789756077,
   "type": "Feature",
   "properties": {
+    "addr:full":"48 E 52 St Kansas City MO 64112",
+    "addr:housenumber":"48;52",
+    "addr:postcode":"64112",
+    "addr:street":"E;St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":789756077,
-    "wof:lastmodified":1466626167,
+    "wof:lastmodified":1472630432,
     "wof:name":"Scottish Society-Kansas City",
     "wof:parent_id":85872031,
     "wof:placetype":"venue",

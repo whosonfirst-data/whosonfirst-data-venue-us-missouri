@@ -2,14 +2,20 @@
   "id": 773619899,
   "type": "Feature",
   "properties": {
+    "addr:full":"625 Parr Rd Wentzville MO 63385",
+    "addr:housenumber":"625",
+    "addr:postcode":"63385",
+    "addr:street":"Parr Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.831342,38.826779,-90.831342,38.826779",
     "geom:latitude":38.826779,
     "geom:longitude":-90.831342,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"625 Parr Rd",
     "sg:city":"Wentzville",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102086159,
         85821097
     ],
+    "wof:brand_id":1125151103,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_46UJXMGMHAdDNPd4AYixDa_38.826779_-90.831342@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462587097,
-    "wof:geomhash":"8fa908def4e826e5e8b375150de79dc0",
+    "wof:geomhash":"5b8689d18e589574b3f0ae5bda4559a4",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":773619899,
-    "wof:lastmodified":1466633261,
+    "wof:lastmodified":1510697583,
     "wof:name":"ABF Freight System Inc",
     "wof:parent_id":85821097,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 790225843,
   "type": "Feature",
   "properties": {
+    "addr:full":"2345 Dougherty Ferry Rd Saint Louis MO 63122",
+    "addr:housenumber":"2345",
+    "addr:postcode":"63122",
+    "addr:street":"Dougherty Ferry Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":790225843,
-    "wof:lastmodified":1466626970,
+    "wof:lastmodified":1472630510,
     "wof:name":"Morrison Management Specialist",
     "wof:parent_id":85858661,
     "wof:placetype":"venue",

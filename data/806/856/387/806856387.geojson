@@ -2,14 +2,20 @@
   "id": 806856387,
   "type": "Feature",
   "properties": {
+    "addr:full":"1717 W Kearney St Springfield MO 65803",
+    "addr:housenumber":"1717",
+    "addr:postcode":"65803",
+    "addr:street":"W Kearney St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.312491,37.240944,-93.312491,37.240944",
     "geom:latitude":37.240944,
     "geom:longitude":-93.312491,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1717 W Kearney St",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102087523,
         85881139
     ],
+    "wof:brand_id":1125159009,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7bQvbZjOv0YAPnBFYM03g8_37.240944_-93.312491@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462601659,
-    "wof:geomhash":"58b81ad011b66cbae556f57aae0ec2b3",
+    "wof:geomhash":"da6a29ffb159ccd51c35ba631c6c334c",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":806856387,
-    "wof:lastmodified":1466633761,
+    "wof:lastmodified":1510697158,
     "wof:name":"Hobby Lobby Creative Center",
     "wof:parent_id":85881139,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 773529221,
   "type": "Feature",
   "properties": {
+    "addr:full":"3030 E Battlefield Rd Springfield MO 65804",
+    "addr:housenumber":"3030",
+    "addr:postcode":"65804",
+    "addr:street":"E Battlefield Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.234275,37.158384,-93.234275,37.158384",
     "geom:latitude":37.158384,
     "geom:longitude":-93.234275,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3030 E Battlefield Rd",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102087523,
         85688661
     ],
+    "wof:brand_id":1125153335,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4owyIvHVOxVphlNE4omKuR_37.158384_-93.234275@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462586405,
-    "wof:geomhash":"a68fbe4f76004f7a1d7b986fb5c05161",
+    "wof:geomhash":"861916cea33ad86a6961f48404280c4f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":773529221,
-    "wof:lastmodified":1466632152,
+    "wof:lastmodified":1510699014,
     "wof:name":"Primary Residential Mortgage",
     "wof:parent_id":85881149,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 790141939,
   "type": "Feature",
   "properties": {
+    "addr:full":"9334 Dielman Industrial Dr Saint Louis MO 63132",
+    "addr:housenumber":"9334",
+    "addr:postcode":"63132",
+    "addr:street":"Dielman Industrial Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.375406,38.679311,-90.375406,38.679311",
     "geom:latitude":38.679311,
     "geom:longitude":-90.375406,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"9334 Dielman Industrial Dr",
     "sg:city":"Saint Louis",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102086173,
         85688661
     ],
+    "wof:brand_id":1125154289,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2Ov4Dupy7DDcebyoS5C8tc_38.679311_-90.375406@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462593445,
-    "wof:geomhash":"5713c7752653f5de35b33c6dafbf53c2",
+    "wof:geomhash":"6f73a6a893b4b32d9f901689e9649c1b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":790141939,
-    "wof:lastmodified":1466625252,
+    "wof:lastmodified":1510693860,
     "wof:name":"Charter Cmmnctons Holdings LLC",
     "wof:parent_id":85803699,
     "wof:placetype":"venue",

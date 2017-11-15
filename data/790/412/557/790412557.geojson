@@ -2,14 +2,20 @@
   "id": 790412557,
   "type": "Feature",
   "properties": {
+    "addr:full":"716 Wasson Dr Nixa MO 65714",
+    "addr:housenumber":"716",
+    "addr:postcode":"65714",
+    "addr:street":"Wasson Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.30766,37.047582,-93.30766,37.047582",
     "geom:latitude":37.047582,
     "geom:longitude":-93.30766,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"716 Wasson Dr",
     "sg:city":"Nixa",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087497,
         85809751
     ],
+    "wof:brand_id":1125155631,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4RNuTi6whIbjRKYWSNoDuB_37.047582_-93.307660@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462595629,
-    "wof:geomhash":"12e9dd1dd82b5dd7597149f57c5e4efb",
+    "wof:geomhash":"7cf6ca49ed0f6d1af760f096ce0669ab",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":790412557,
-    "wof:lastmodified":1466631179,
+    "wof:lastmodified":1510699709,
     "wof:name":"Leukemia & Lymphoma Society",
     "wof:parent_id":85809751,
     "wof:placetype":"venue",

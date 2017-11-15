@@ -2,6 +2,10 @@
   "id": 789623215,
   "type": "Feature",
   "properties": {
+    "addr:full":"111 N 7th St St Louis MO 63101",
+    "addr:housenumber":"111",
+    "addr:postcode":"63101",
+    "addr:street":"N 7Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":789623215,
-    "wof:lastmodified":1466623631,
+    "wof:lastmodified":1472630242,
     "wof:name":"Missouri Arts Council",
     "wof:parent_id":85867033,
     "wof:placetype":"venue",

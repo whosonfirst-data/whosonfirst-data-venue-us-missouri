@@ -2,14 +2,20 @@
   "id": 773659347,
   "type": "Feature",
   "properties": {
+    "addr:full":"1735 W Sunshine St Springfield MO 65807",
+    "addr:housenumber":"1735",
+    "addr:postcode":"65807",
+    "addr:street":"W Sunshine St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.315714,37.182551,-93.315714,37.182551",
     "geom:latitude":37.182551,
     "geom:longitude":-93.315714,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1735 W Sunshine St",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102087523,
         85688661
     ],
+    "wof:brand_id":1125150189,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2VzXZceyEDFS0YEtSJf1n7_37.182551_-93.315714@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462587388,
-    "wof:geomhash":"121d0d2b9e203ab6251a57736887c33c",
+    "wof:geomhash":"9ac173e3851a4468ef68f14a957cfe64",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":773659347,
-    "wof:lastmodified":1466633802,
+    "wof:lastmodified":1510697305,
     "wof:name":"Quik Cash",
     "wof:parent_id":85881165,
     "wof:placetype":"venue",

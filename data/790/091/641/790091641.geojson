@@ -2,6 +2,10 @@
   "id": 790091641,
   "type": "Feature",
   "properties": {
+    "addr:full":"2012 E 23 St Kansas City MO 64127",
+    "addr:housenumber":"2012;23",
+    "addr:postcode":"64127",
+    "addr:street":"E;St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":790091641,
-    "wof:lastmodified":1466624556,
+    "wof:lastmodified":1472630326,
     "wof:name":"Lincoln Cllg Prp Schl Sth Cmps",
     "wof:parent_id":85872025,
     "wof:placetype":"venue",

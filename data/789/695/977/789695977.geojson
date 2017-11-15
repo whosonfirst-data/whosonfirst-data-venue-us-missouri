@@ -2,6 +2,10 @@
   "id": 789695977,
   "type": "Feature",
   "properties": {
+    "addr:full":"300 E 39 St Kansas City MO 64111",
+    "addr:housenumber":"300;39",
+    "addr:postcode":"64111",
+    "addr:street":"E;St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":789695977,
-    "wof:lastmodified":1466624886,
+    "wof:lastmodified":1472630356,
     "wof:name":"Westport-Edison Middle Acadamy",
     "wof:parent_id":85871993,
     "wof:placetype":"venue",

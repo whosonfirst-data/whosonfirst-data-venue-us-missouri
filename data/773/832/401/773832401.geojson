@@ -2,14 +2,20 @@
   "id": 773832401,
   "type": "Feature",
   "properties": {
+    "addr:full":"1833 N Broadway Ave Springfield MO 65803",
+    "addr:housenumber":"1833",
+    "addr:postcode":"65803",
+    "addr:street":"N Broadway Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.302538,37.231258,-93.302538,37.231258",
     "geom:latitude":37.231258,
     "geom:longitude":-93.302538,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1833 N Broadway Ave",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102087523,
         85688661
     ],
+    "wof:brand_id":1125154889,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Ep9NT2qURTskOAlaJVOk8_37.231258_-93.302538@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462588740,
-    "wof:geomhash":"4633cd6c141903a345fd90d6c93891c2",
+    "wof:geomhash":"00ecd5f920a362d36bb540875832b489",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":773832401,
-    "wof:lastmodified":1466635422,
+    "wof:lastmodified":1510697719,
     "wof:name":"International Union-Oper Engrs",
     "wof:parent_id":85881167,
     "wof:placetype":"venue",

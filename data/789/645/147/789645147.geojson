@@ -2,14 +2,20 @@
   "id": 789645147,
   "type": "Feature",
   "properties": {
+    "addr:full":"724 N US Hwy 67 Florissant MO 63031",
+    "addr:housenumber":"724",
+    "addr:postcode":"63031",
+    "addr:street":"N Us Hwy 67",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.336385,38.799097,-90.336385,38.799097",
     "geom:latitude":38.799097,
     "geom:longitude":-90.336385,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"724 N US Hwy 67",
     "sg:city":"Florissant",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102086173,
         85688661
     ],
+    "wof:brand_id":1125157799,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7FmfuligbFirSBDRE0kxF4_38.799097_-90.336385@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462589410,
-    "wof:geomhash":"2cd407b3713dfad7fc86cf07d4e3fd6a",
+    "wof:geomhash":"25ce58f639b4cd19dd76c105fef54380",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":789645147,
-    "wof:lastmodified":1466623856,
+    "wof:lastmodified":1510698903,
     "wof:name":"Cardsmart",
     "wof:parent_id":85813019,
     "wof:placetype":"venue",

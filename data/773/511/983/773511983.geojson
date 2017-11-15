@@ -2,6 +2,10 @@
   "id": 773511983,
   "type": "Feature",
   "properties": {
+    "addr:full":"5020 Co Rd 150 Taylor MO 63471",
+    "addr:housenumber":"5020;150",
+    "addr:postcode":"63471",
+    "addr:street":"Co Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":773511983,
-    "wof:lastmodified":1466631970,
+    "wof:lastmodified":1472631053,
     "wof:name":"George Carpenter",
     "wof:parent_id":85867477,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 789925325,
   "type": "Feature",
   "properties": {
+    "addr:full":"172 NE 72 St Kansas City MO 64118",
+    "addr:housenumber":"172;72",
+    "addr:postcode":"64118",
+    "addr:street":"Ne;St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.578455,39.22472,-94.578455,39.22472",
     "geom:latitude":39.22472,
     "geom:longitude":-94.578455,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"172 NE 72 St",
     "sg:city":"Kansas City",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102086177,
         85688661
     ],
+    "wof:brand_id":1125150609,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4Qj2uPcqeHq9849xBBqYIe_39.224720_-94.578455@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462591667,
-    "wof:geomhash":"a5b7453626f07ca076b1e792e3fca372",
+    "wof:geomhash":"d6c9c27b4672e58fb1b084d2740d6769",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":789925325,
-    "wof:lastmodified":1466630291,
+    "wof:lastmodified":1510697773,
     "wof:name":"Premier Mortgage Funding",
     "wof:parent_id":85830711,
     "wof:placetype":"venue",

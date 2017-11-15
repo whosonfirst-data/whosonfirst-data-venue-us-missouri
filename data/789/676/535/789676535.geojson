@@ -2,6 +2,10 @@
   "id": 789676535,
   "type": "Feature",
   "properties": {
+    "addr:full":"600 E Commercial St Springfield MO 65803",
+    "addr:housenumber":"600",
+    "addr:postcode":"65803",
+    "addr:street":"E Commercial St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":789676535,
-    "wof:lastmodified":1466624649,
+    "wof:lastmodified":1472630335,
     "wof:name":"Bonded Transmission Service",
     "wof:parent_id":85881135,
     "wof:placetype":"venue",

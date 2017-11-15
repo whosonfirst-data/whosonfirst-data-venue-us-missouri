@@ -2,14 +2,20 @@
   "id": 790484759,
   "type": "Feature",
   "properties": {
+    "addr:full":"2455 Benton Blvd Kansas City MO 64127",
+    "addr:housenumber":"2455",
+    "addr:postcode":"64127",
+    "addr:street":"Benton Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.548736,39.080925,-94.548736,39.080925",
     "geom:latitude":39.080925,
     "geom:longitude":-94.548736,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2455 Benton Blvd",
     "sg:city":"Kansas City",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102081227,
         85688661
     ],
+    "wof:brand_id":420575803,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3qHz1SoWnWggHuXoR7ALSl_39.080925_-94.548736@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462596230,
-    "wof:geomhash":"de9ba91b2392838d24457b5bee3830e5",
+    "wof:geomhash":"eb4f1ed0cfe1163ac3c331aa03f34222",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":790484759,
-    "wof:lastmodified":1466632389,
+    "wof:lastmodified":1510602947,
     "wof:name":"Macedonia Baptist Church",
     "wof:parent_id":85872027,
     "wof:placetype":"venue",

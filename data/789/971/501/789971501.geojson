@@ -2,6 +2,10 @@
   "id": 789971501,
   "type": "Feature",
   "properties": {
+    "addr:full":"3201 E 85 St Kansas City MO 64132",
+    "addr:housenumber":"3201;85",
+    "addr:postcode":"64132",
+    "addr:street":"E;St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":789971501,
-    "wof:lastmodified":1466631162,
+    "wof:lastmodified":1472630772,
     "wof:name":"D J Roofing Supply",
     "wof:parent_id":420525371,
     "wof:placetype":"venue",

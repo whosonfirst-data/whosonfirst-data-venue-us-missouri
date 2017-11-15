@@ -2,14 +2,20 @@
   "id": 789657879,
   "type": "Feature",
   "properties": {
+    "addr:full":"7517 Gravois Rd Dittmer MO 63023",
+    "addr:housenumber":"7517",
+    "addr:postcode":"63023",
+    "addr:street":"Gravois Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.673785,38.334666,-90.673785,38.334666",
     "geom:latitude":38.334666,
     "geom:longitude":-90.673785,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"7517 Gravois Rd",
     "sg:city":"Dittmer",
     "sg:classifiers":[
@@ -30,13 +36,14 @@
         85848677,
         102080787
     ],
+    "wof:brand_id":420574209,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7jwja1hdhiYM9m8EOYCyD4_38.334666_-90.673785@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462589515,
-    "wof:geomhash":"2453520ae78b922c75d55ab37c8ad783",
+    "wof:geomhash":"c566b5e3b9326e31f9f5b23c42fa0fb7",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -47,7 +54,7 @@
         }
     ],
     "wof:id":789657879,
-    "wof:lastmodified":1466624197,
+    "wof:lastmodified":1510604311,
     "wof:name":"Corporation of President of Th",
     "wof:parent_id":85848677,
     "wof:placetype":"venue",

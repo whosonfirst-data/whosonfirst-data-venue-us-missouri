@@ -2,14 +2,20 @@
   "id": 807093681,
   "type": "Feature",
   "properties": {
+    "addr:full":"325 E Evergreen St Strafford MO 65757",
+    "addr:housenumber":"325",
+    "addr:postcode":"65757",
+    "addr:street":"E Evergreen St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.111725,37.272987,-93.111725,37.272987",
     "geom:latitude":37.272987,
     "geom:longitude":-93.111725,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"325 E Evergreen St",
     "sg:city":"Strafford",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087523,
         85881137
     ],
+    "wof:brand_id":1125150029,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5jxOWvjy4bIIJmqncfzMtq_37.272987_-93.111725@1299784598"
     },
     "wof:country":"US",
     "wof:created":1462603651,
-    "wof:geomhash":"2e78041d66e711b9f387795e761fb0d0",
+    "wof:geomhash":"9f146f2b229fd11e7ba4308607092970",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":807093681,
-    "wof:lastmodified":1466624614,
+    "wof:lastmodified":1510695391,
     "wof:name":"Simple Simon's Pizza",
     "wof:parent_id":85881137,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 790499069,
   "type": "Feature",
   "properties": {
+    "addr:full":"34 Crestwood Plz St Louis MO 63126",
+    "addr:housenumber":"34",
+    "addr:postcode":"63126",
+    "addr:street":"Crestwood Plz",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.384802,38.558643,-90.384802,38.558643",
     "geom:latitude":38.558643,
     "geom:longitude":-90.384802,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"34 Crestwood Plz",
     "sg:city":"St Louis",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102086173,
         85688661
     ],
+    "wof:brand_id":1125152599,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_69nTLtKx73hri2AwCOmyKk_38.558643_-90.384802@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462596360,
-    "wof:geomhash":"afb6eba34178cd7d682aa6f251f97dee",
+    "wof:geomhash":"a0436e368d20f84c5b169130c9522a66",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":790499069,
-    "wof:lastmodified":1466632728,
+    "wof:lastmodified":1510695218,
     "wof:name":"Hot Topic Inc",
     "wof:parent_id":85858243,
     "wof:placetype":"venue",

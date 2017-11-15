@@ -2,14 +2,20 @@
   "id": 806939063,
   "type": "Feature",
   "properties": {
+    "addr:full":"2820 Market St St Louis MO 63103",
+    "addr:housenumber":"2820",
+    "addr:postcode":"63103",
+    "addr:street":"Market St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.218444,38.631102,-90.218444,38.631102",
     "geom:latitude":38.631102,
     "geom:longitude":-90.218444,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2820 Market St",
     "sg:city":"St Louis",
     "sg:classifiers":[
@@ -44,13 +50,14 @@
         102080791,
         85688661
     ],
+    "wof:brand_id":1125158223,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5HIFUSIBaC6FkuFzDaEmsv_38.631102_-90.218444@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462602353,
-    "wof:geomhash":"0f68ea5f1bf49a8bfda51a0a4cb33fab",
+    "wof:geomhash":"10364ff2b8c8c9cd7685f4dc290e447e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -64,7 +71,7 @@
         }
     ],
     "wof:id":806939063,
-    "wof:lastmodified":1466635228,
+    "wof:lastmodified":1510613202,
     "wof:name":"Wesco Distribution Inc",
     "wof:parent_id":85867035,
     "wof:placetype":"venue",

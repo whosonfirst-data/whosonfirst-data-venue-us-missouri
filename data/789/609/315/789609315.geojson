@@ -2,14 +2,20 @@
   "id": 789609315,
   "type": "Feature",
   "properties": {
+    "addr:full":"2022 Grecian Way Ct St Louis MO 63131",
+    "addr:housenumber":"2022",
+    "addr:postcode":"63131",
+    "addr:street":"Grecian Way Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.474714,38.602451,-90.474714,38.602451",
     "geom:latitude":38.602451,
     "geom:longitude":-90.474714,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2022 Grecian Way Ct",
     "sg:city":"St Louis",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102086173,
         85688661
     ],
+    "wof:brand_id":1125150487,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0MVeh5gJxjE83sS6NcfrG3_38.602451_-90.474714@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462589134,
-    "wof:geomhash":"b5798a94296618ab9713d8039264217d",
+    "wof:geomhash":"eb4f7a7951d7dcc27aeac44cd2780e0c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":789609315,
-    "wof:lastmodified":1466623533,
+    "wof:lastmodified":1510699989,
     "wof:name":"Furniture Medic Inc",
     "wof:parent_id":85802943,
     "wof:placetype":"venue",

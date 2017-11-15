@@ -2,9 +2,14 @@
   "id": 186230873,
   "type": "Feature",
   "properties": {
+    "addr:full":"710 North Tucker Blvd Suite 400 St Louis MO 63101",
+    "addr:housenumber":"710",
+    "addr:postcode":"63101",
+    "addr:street":"North Tucker Blvd Suite 400",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.196445,38.63259,-90.196445,38.63259",
     "geom:latitude":38.63259,
     "geom:longitude":-90.196445,
@@ -36,11 +41,13 @@
     "sg:website":"www.datotel.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688661,
+        85873643,
+        102191575,
+        404518053,
         85633793,
         85971343,
         102080791,
-        85873643
+        85688661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,9 +57,10 @@
     "wof:geomhash":"fbe06f28033aa898eb430328f69e4599",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080791,
+            "localadmin_id":404518053,
             "locality_id":85971343,
             "neighbourhood_id":85873643,
             "region_id":85688661,
@@ -60,7 +68,7 @@
         }
     ],
     "wof:id":186230873,
-    "wof:lastmodified":1466622254,
+    "wof:lastmodified":1491933745,
     "wof:name":"Datotel",
     "wof:parent_id":85873643,
     "wof:placetype":"venue",

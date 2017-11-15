@@ -2,6 +2,10 @@
   "id": 790237159,
   "type": "Feature",
   "properties": {
+    "addr:full":"100 E 39 St Kansas City MO 64111",
+    "addr:housenumber":"100;39",
+    "addr:postcode":"64111",
+    "addr:street":"E;St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":790237159,
-    "wof:lastmodified":1466627287,
+    "wof:lastmodified":1472630532,
     "wof:name":"Hyde Park Automotive Service",
     "wof:parent_id":85871993,
     "wof:placetype":"venue",

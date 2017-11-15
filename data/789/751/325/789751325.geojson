@@ -2,9 +2,14 @@
   "id": 789751325,
   "type": "Feature",
   "properties": {
+    "addr:full":"4400 Jarboe St Kansas City MO 64111",
+    "addr:housenumber":"4400",
+    "addr:postcode":"64111",
+    "addr:street":"Jarboe St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.599492,39.046177,-94.599492,39.046177",
     "geom:latitude":39.046177,
     "geom:longitude":-94.599492,
@@ -28,13 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871983,
+        85857131,
         102191575,
         404518075,
         85633793,
         85970739,
         102081227,
-        85688661
+        85688661,
+        85871983
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,15 +56,25 @@
             "county_id":102081227,
             "localadmin_id":404518075,
             "locality_id":85970739,
+            "neighbourhood_id":85857131,
+            "region_id":85688661,
+            "venue_id":789751325
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081227,
+            "localadmin_id":404518075,
+            "locality_id":85970739,
             "neighbourhood_id":85871983,
             "region_id":85688661,
             "venue_id":789751325
         }
     ],
     "wof:id":789751325,
-    "wof:lastmodified":1466626228,
+    "wof:lastmodified":1491893858,
     "wof:name":"Jarboe Place Apts Plaza Tower",
-    "wof:parent_id":85871983,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],

@@ -2,6 +2,10 @@
   "id": 789793989,
   "type": "Feature",
   "properties": {
+    "addr:full":"21752 Pike 312 Bowling Green MO 63334",
+    "addr:housenumber":"21752;312",
+    "addr:postcode":"63334",
+    "addr:street":"Pike",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":789793989,
-    "wof:lastmodified":1466626930,
+    "wof:lastmodified":1472630522,
     "wof:name":"Kneiss Painting Mark",
     "wof:parent_id":85817909,
     "wof:placetype":"venue",

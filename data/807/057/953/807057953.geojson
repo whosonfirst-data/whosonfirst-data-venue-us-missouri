@@ -2,14 +2,20 @@
   "id": 807057953,
   "type": "Feature",
   "properties": {
+    "addr:full":"17416 Chesterfield Airport Rd Chesterfield MO 63005",
+    "addr:housenumber":"17416",
+    "addr:postcode":"63005",
+    "addr:street":"Chesterfield Airport Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.608964,38.668328,-90.608964,38.668328",
     "geom:latitude":38.668328,
     "geom:longitude":-90.608964,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"17416 Chesterfield Airport Rd",
     "sg:city":"Chesterfield",
     "sg:classifiers":[
@@ -39,13 +45,14 @@
         102086173,
         85688661
     ],
+    "wof:brand_id":1125159261,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5mrzU951JgKOVcFjx7x35o_38.668328_-90.608964@1299784598"
     },
     "wof:country":"US",
     "wof:created":1462603355,
-    "wof:geomhash":"f5bda02c8c36b64071bbfc7cda6ddf89",
+    "wof:geomhash":"d2a34bf9cda43169112cadb0c4bf1cfa",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,7 +66,7 @@
         }
     ],
     "wof:id":807057953,
-    "wof:lastmodified":1466623789,
+    "wof:lastmodified":1510699645,
     "wof:name":"Fox and Hound",
     "wof:parent_id":85805465,
     "wof:placetype":"venue",

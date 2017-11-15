@@ -2,14 +2,20 @@
   "id": 807079135,
   "type": "Feature",
   "properties": {
+    "addr:full":"2405 NW Prairie View Rd Platte City MO 64079",
+    "addr:housenumber":"2405",
+    "addr:postcode":"64079",
+    "addr:street":"Nw Prairie View Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.762918,39.351559,-94.762918,39.351559",
     "geom:latitude":39.351559,
     "geom:longitude":-94.762918,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2405 NW Prairie View Rd",
     "sg:city":"Platte City",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102085271,
         85823759
     ],
+    "wof:brand_id":1125154131,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3k1EnsDQCf2uMY8mO07m2C_39.351559_-94.762918@1299784598"
     },
     "wof:country":"US",
     "wof:created":1462603525,
-    "wof:geomhash":"455826f1a5487ef2bfbd520c0e5d2464",
+    "wof:geomhash":"138dfaee3dcee6c8f514620536ed012d",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":807079135,
-    "wof:lastmodified":1466624267,
+    "wof:lastmodified":1510699748,
     "wof:name":"Mr. Goodcents Subs & Pasta",
     "wof:parent_id":85823759,
     "wof:placetype":"venue",

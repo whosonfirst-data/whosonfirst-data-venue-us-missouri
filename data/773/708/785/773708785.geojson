@@ -2,14 +2,20 @@
   "id": 773708785,
   "type": "Feature",
   "properties": {
+    "addr:full":"1982 Concourse Dr St Louis MO 63146",
+    "addr:housenumber":"1982",
+    "addr:postcode":"63146",
+    "addr:street":"Concourse Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.436682,38.696295,-90.436682,38.696295",
     "geom:latitude":38.696295,
     "geom:longitude":-90.436682,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1982 Concourse Dr",
     "sg:city":"St Louis",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102086173,
         85688661
     ],
+    "wof:brand_id":1125155399,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4V1GTQckiZlcDd84oTT4Gp_38.696295_-90.436682@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462587795,
-    "wof:geomhash":"b5634978dad42cd1c3f9606f4cde5875",
+    "wof:geomhash":"63c5184eb0cd4a2c03791712a91e1cba",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":773708785,
-    "wof:lastmodified":1466634760,
+    "wof:lastmodified":1510698647,
     "wof:name":"Money Concepts",
     "wof:parent_id":85803699,
     "wof:placetype":"venue",

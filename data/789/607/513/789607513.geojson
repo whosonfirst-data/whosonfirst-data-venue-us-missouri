@@ -2,6 +2,10 @@
   "id": 789607513,
   "type": "Feature",
   "properties": {
+    "addr:full":"12006 Manchester Rd St Louis MO 63131",
+    "addr:housenumber":"12006",
+    "addr:postcode":"63131",
+    "addr:street":"Manchester Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":789607513,
-    "wof:lastmodified":1466622550,
+    "wof:lastmodified":1472630252,
     "wof:name":"Walgreens",
     "wof:parent_id":85858661,
     "wof:placetype":"venue",

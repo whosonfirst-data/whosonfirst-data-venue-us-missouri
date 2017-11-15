@@ -2,14 +2,20 @@
   "id": 806883351,
   "type": "Feature",
   "properties": {
+    "addr:full":"2601 W Battlefield Rd Springfield MO 65807",
+    "addr:housenumber":"2601",
+    "addr:postcode":"65807",
+    "addr:street":"W Battlefield Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.330646,37.160344,-93.330646,37.160344",
     "geom:latitude":37.160344,
     "geom:longitude":-93.330646,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2601 W Battlefield Rd",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         85881151,
         102087523
     ],
+    "wof:brand_id":1125159331,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1i84tIAi2Y9j8s5jfOznVr_37.160344_-93.330646@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462601880,
-    "wof:geomhash":"c9f00f7a23b85a7f28796b60a793bf66",
+    "wof:geomhash":"d35b8532e8446459e2ed81ef0310e4aa",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":806883351,
-    "wof:lastmodified":1466634283,
+    "wof:lastmodified":1510695228,
     "wof:name":"Parker Hannifin Corporation",
     "wof:parent_id":85881151,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 790384661,
   "type": "Feature",
   "properties": {
+    "addr:full":"3200 E 31 St Kansas City MO 64128",
+    "addr:housenumber":"3200;31",
+    "addr:postcode":"64128",
+    "addr:street":"E;St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":790384661,
-    "wof:lastmodified":1466630632,
+    "wof:lastmodified":1472630845,
     "wof:name":"Johnson's Auto Repair",
     "wof:parent_id":85872027,
     "wof:placetype":"venue",

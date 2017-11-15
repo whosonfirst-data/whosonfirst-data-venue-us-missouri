@@ -2,6 +2,10 @@
   "id": 202595001,
   "type": "Feature",
   "properties": {
+    "addr:full":"1201 Paquin St Apt 612 Columbia MO 65201",
+    "addr:housenumber":"1201;612",
+    "addr:postcode":"65201",
+    "addr:street":"Paquin St Apt",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":202595001,
-    "wof:lastmodified":1466622409,
+    "wof:lastmodified":1472630540,
     "wof:name":"Brewer Contracting",
     "wof:parent_id":85835171,
     "wof:placetype":"venue",

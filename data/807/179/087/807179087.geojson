@@ -2,14 +2,20 @@
   "id": 807179087,
   "type": "Feature",
   "properties": {
+    "addr:full":"8437 Olive Blvd St Louis MO 63190",
+    "addr:housenumber":"8437",
+    "addr:postcode":"63190",
+    "addr:street":"Olive Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.206402,38.631521,-90.206402,38.631521",
     "geom:latitude":38.631521,
     "geom:longitude":-90.206402,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"8437 Olive Blvd",
     "sg:city":"St Louis",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102080791,
         85688661
     ],
+    "wof:brand_id":1125153969,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4OuuKA7XHZl3HHSdWH3XtC_38.631521_-90.206402@1303262930"
     },
     "wof:country":"US",
     "wof:created":1462604576,
-    "wof:geomhash":"69b90e6cd3611756f9f20c20f8928018",
+    "wof:geomhash":"9567bc3b6e150d06f621131127053fc7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":807179087,
-    "wof:lastmodified":1466627159,
+    "wof:lastmodified":1510698945,
     "wof:name":"Imo's Pizza",
     "wof:parent_id":85873645,
     "wof:placetype":"venue",

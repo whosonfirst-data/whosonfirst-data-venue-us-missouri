@@ -2,6 +2,10 @@
   "id": 806546501,
   "type": "Feature",
   "properties": {
+    "addr:full":"14226 Co Rd 2170 Saint James MO 65559",
+    "addr:housenumber":"14226;2170",
+    "addr:postcode":"65559",
+    "addr:street":"Co Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":806546501,
-    "wof:lastmodified":1466626843,
+    "wof:lastmodified":1472630387,
     "wof:name":"Billy Miller",
     "wof:parent_id":85814531,
     "wof:placetype":"venue",

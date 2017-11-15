@@ -2,14 +2,20 @@
   "id": 773524859,
   "type": "Feature",
   "properties": {
+    "addr:full":"2019 Woodson Rd Overland MO 63114",
+    "addr:housenumber":"2019",
+    "addr:postcode":"63114",
+    "addr:street":"Woodson Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.362518,38.689706,-90.362518,38.689706",
     "geom:latitude":38.689706,
     "geom:longitude":-90.362518,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2019 Woodson Rd",
     "sg:city":"Overland",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102086173,
         85688661
     ],
+    "wof:brand_id":1125151375,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4XXCfQyTGzxhQ4VTQgDMVp_38.689706_-90.362518@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462586377,
-    "wof:geomhash":"4f4e9978b81d07049dd5a46b313648fa",
+    "wof:geomhash":"c11102b691679ea38e3cbb419a0d27ad",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":773524859,
-    "wof:lastmodified":1466632005,
+    "wof:lastmodified":1510695794,
     "wof:name":"Land America Commonwealth",
     "wof:parent_id":85803699,
     "wof:placetype":"venue",

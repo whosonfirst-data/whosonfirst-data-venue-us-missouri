@@ -2,14 +2,20 @@
   "id": 806861767,
   "type": "Feature",
   "properties": {
+    "addr:full":"7022 Prospect Ave Kansas City MO 64132",
+    "addr:housenumber":"7022",
+    "addr:postcode":"64132",
+    "addr:street":"Prospect Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.556903,38.99979,-94.556903,38.99979",
     "geom:latitude":38.99979,
     "geom:longitude":-94.556903,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"7022 Prospect Ave",
     "sg:city":"Kansas City",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102081227,
         85688661
     ],
+    "wof:brand_id":1125153791,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4unUTYXzew0wNwNjt7Jnx1_38.999790_-94.556903@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462601703,
-    "wof:geomhash":"cc5067116146589a626f22f96a316913",
+    "wof:geomhash":"5b049f7672562ef4bb21771102c4a13f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":806861767,
-    "wof:lastmodified":1466633764,
+    "wof:lastmodified":1510699996,
     "wof:name":"Mt Calvary Baptist Church",
     "wof:parent_id":85867027,
     "wof:placetype":"venue",

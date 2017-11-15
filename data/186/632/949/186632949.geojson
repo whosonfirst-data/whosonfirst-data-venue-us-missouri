@@ -2,9 +2,14 @@
   "id": 186632949,
   "type": "Feature",
   "properties": {
+    "addr:full":"11400 E 23rd St S Independence MO 64052",
+    "addr:housenumber":"11400",
+    "addr:postcode":"64052",
+    "addr:street":"E 23Rd St S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.442398,39.0802,-94.442398,39.0802",
     "geom:latitude":39.0802,
     "geom:longitude":-94.442398,
@@ -36,11 +41,13 @@
     "sg:website":"http://www.nasb.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688661,
+        85818127,
+        102191575,
+        404515661,
         85633793,
         85971449,
         102081227,
-        85818127
+        85688661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,9 +57,10 @@
     "wof:geomhash":"d73e3f49ae835d0ded7112ceaaf47709",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081227,
+            "localadmin_id":404515661,
             "locality_id":85971449,
             "neighbourhood_id":85818127,
             "region_id":85688661,
@@ -60,7 +68,7 @@
         }
     ],
     "wof:id":186632949,
-    "wof:lastmodified":1466622253,
+    "wof:lastmodified":1491935617,
     "wof:name":"North American Savings Bank, FSB",
     "wof:parent_id":85818127,
     "wof:placetype":"venue",

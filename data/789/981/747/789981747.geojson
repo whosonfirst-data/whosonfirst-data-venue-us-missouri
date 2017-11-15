@@ -2,6 +2,10 @@
   "id": 789981747,
   "type": "Feature",
   "properties": {
+    "addr:full":"2345 Grand Blvd Kansas City MO 64108",
+    "addr:housenumber":"2345",
+    "addr:postcode":"64108",
+    "addr:street":"Grand Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":789981747,
-    "wof:lastmodified":1466631604,
+    "wof:lastmodified":1472630799,
     "wof:name":"Turner Construction Company",
     "wof:parent_id":85867023,
     "wof:placetype":"venue",

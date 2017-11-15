@@ -2,14 +2,20 @@
   "id": 773369101,
   "type": "Feature",
   "properties": {
+    "addr:full":"109 Amaryllis Cir Smithville MO 64089",
+    "addr:housenumber":"109",
+    "addr:postcode":"64089",
+    "addr:street":"Amaryllis Cir",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.59739,39.381434,-94.59739,39.381434",
     "geom:latitude":39.381434,
     "geom:longitude":-94.59739,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"109 Amaryllis Cir",
     "sg:city":"Smithville",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102086177,
         85836329
     ],
+    "wof:brand_id":1125155947,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4XQqYBRMcE1SufnBLY3TqA_39.381434_-94.597390@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462585176,
-    "wof:geomhash":"0fd898476a17cc44ebf216d6ac558397",
+    "wof:geomhash":"6a2793f3c62092d1b7c23c2835b9e997",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":773369101,
-    "wof:lastmodified":1466628953,
+    "wof:lastmodified":1510699783,
     "wof:name":"Mary Kay Consultant",
     "wof:parent_id":85836329,
     "wof:placetype":"venue",

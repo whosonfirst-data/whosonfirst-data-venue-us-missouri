@@ -2,14 +2,20 @@
   "id": 807169813,
   "type": "Feature",
   "properties": {
+    "addr:full":"8951 Natural Bridge Rd Saint Louis MO 63121",
+    "addr:housenumber":"8951",
+    "addr:postcode":"63121",
+    "addr:street":"Natural Bridge Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.328087,38.717155,-90.328087,38.717155",
     "geom:latitude":38.717155,
     "geom:longitude":-90.328087,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"8951 Natural Bridge Rd",
     "sg:city":"Saint Louis",
     "sg:classifiers":[
@@ -55,13 +61,14 @@
         102086173,
         85688661
     ],
+    "wof:brand_id":1125153969,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5pbqX9AfLnqCekDVl6nOHh_38.717155_-90.328087@1303262929"
     },
     "wof:country":"US",
     "wof:created":1462604483,
-    "wof:geomhash":"a2f50abbd972a0ef43a78e2391cef898",
+    "wof:geomhash":"5a263346ffb648072c9e0595ae6d457b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -75,7 +82,7 @@
         }
     ],
     "wof:id":807169813,
-    "wof:lastmodified":1466626653,
+    "wof:lastmodified":1510698945,
     "wof:name":"Imo's Pizza",
     "wof:parent_id":85859027,
     "wof:placetype":"venue",

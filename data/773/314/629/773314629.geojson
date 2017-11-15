@@ -2,6 +2,10 @@
   "id": 773314629,
   "type": "Feature",
   "properties": {
+    "addr:full":"3210 Dr Martin Luther King Dr St Louis MO 63106",
+    "addr:housenumber":"3210",
+    "addr:postcode":"63106",
+    "addr:street":"Dr Martin Luther King Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":773314629,
-    "wof:lastmodified":1466627283,
+    "wof:lastmodified":1472630949,
     "wof:name":"Blumeyer Elderly Dev",
     "wof:parent_id":85873637,
     "wof:placetype":"venue",

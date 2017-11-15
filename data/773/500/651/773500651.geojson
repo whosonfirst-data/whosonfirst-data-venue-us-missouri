@@ -2,14 +2,20 @@
   "id": 773500651,
   "type": "Feature",
   "properties": {
+    "addr:full":"750 NE Woods Chapel Rd Lees Summit MO 64064",
+    "addr:housenumber":"750",
+    "addr:postcode":"64064",
+    "addr:street":"Ne Woods Chapel Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.362624,38.982743,-94.362624,38.982743",
     "geom:latitude":38.982743,
     "geom:longitude":-94.362624,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"750 NE Woods Chapel Rd",
     "sg:city":"Lees Summit",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102081227,
         85688661
     ],
+    "wof:brand_id":1125156543,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_55Ijipx1wdEVoLjLx5Luw1_38.982743_-94.362624@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462586210,
-    "wof:geomhash":"9797cf0fba33a11c53ef3f6a4453ecda",
+    "wof:geomhash":"d1fe93a50dece4c4fd427cad459704b0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":773500651,
-    "wof:lastmodified":1466631767,
+    "wof:lastmodified":1510700004,
     "wof:name":"Commerce Bank N A",
     "wof:parent_id":85830871,
     "wof:placetype":"venue",

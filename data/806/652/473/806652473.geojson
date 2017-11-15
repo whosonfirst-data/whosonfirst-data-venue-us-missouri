@@ -2,6 +2,10 @@
   "id": 806652473,
   "type": "Feature",
   "properties": {
+    "addr:full":"1300 E 63 St Kansas City MO 64110",
+    "addr:housenumber":"1300;63",
+    "addr:postcode":"64110",
+    "addr:street":"E;St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":806652473,
-    "wof:lastmodified":1466629387,
+    "wof:lastmodified":1472630545,
     "wof:name":"V P L & D Auto Sales",
     "wof:parent_id":85867027,
     "wof:placetype":"venue",

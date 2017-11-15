@@ -2,6 +2,10 @@
   "id": 789961211,
   "type": "Feature",
   "properties": {
+    "addr:full":"26104 Pike 232 Clarksville MO 63336",
+    "addr:housenumber":"26104;232",
+    "addr:postcode":"63336",
+    "addr:street":"Pike",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":789961211,
-    "wof:lastmodified":1466631322,
+    "wof:lastmodified":1472630744,
     "wof:name":"Quality Solutions",
     "wof:parent_id":85817909,
     "wof:placetype":"venue",

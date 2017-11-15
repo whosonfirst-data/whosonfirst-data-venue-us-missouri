@@ -2,14 +2,20 @@
   "id": 807101609,
   "type": "Feature",
   "properties": {
+    "addr:full":"2440 N Kansas Expy Springfield MO 65803",
+    "addr:housenumber":"2440",
+    "addr:postcode":"65803",
+    "addr:street":"N;Expy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.311094,37.243192,-93.311094,37.243192",
     "geom:latitude":37.243192,
     "geom:longitude":-93.311094,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2440 N Kansas Expy",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087523,
         85881139
     ],
+    "wof:brand_id":420575727,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4Cv86M8ipx7IFsBdQqhMjL_37.243187_-93.310948@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462603750,
-    "wof:geomhash":"620c346ef325ba3202865c49d59d9c6b",
+    "wof:geomhash":"03b754752fc75e54184f3b89f556979d",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":807101609,
-    "wof:lastmodified":1466624843,
+    "wof:lastmodified":1510615168,
     "wof:name":"Pizza Inn",
     "wof:parent_id":85881139,
     "wof:placetype":"venue",

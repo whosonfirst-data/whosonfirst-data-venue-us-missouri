@@ -2,14 +2,20 @@
   "id": 186136903,
   "type": "Feature",
   "properties": {
+    "addr:full":"1545 Fencorp Dr Fenton MO 63026",
+    "addr:housenumber":"1545",
+    "addr:postcode":"63026",
+    "addr:street":"Fencorp Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.447035,38.535153,-90.447035,38.535153",
     "geom:latitude":38.535153,
     "geom:longitude":-90.447035,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1545 Fencorp Dr",
     "sg:city":"Fenton",
     "sg:classifiers":[
@@ -39,12 +45,13 @@
         102086173,
         85858661
     ],
+    "wof:brand_id":1125157691,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3r2Llb1FHLILT6KC8Gjj5d_38.535153_-90.447035@1303262925"
     },
     "wof:country":"US",
-    "wof:geomhash":"feb13eb20c6e61d1d920e9e06b2974d0",
+    "wof:geomhash":"0b557292f7832c20bb0990f75e0d7031",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":186136903,
-    "wof:lastmodified":1466622172,
+    "wof:lastmodified":1510694901,
     "wof:name":"Oakwood Corporate Housing",
     "wof:parent_id":85858661,
     "wof:placetype":"venue",

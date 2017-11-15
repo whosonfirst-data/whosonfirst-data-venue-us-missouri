@@ -2,9 +2,14 @@
   "id": 186419329,
   "type": "Feature",
   "properties": {
+    "addr:full":"3259 Hampton Ave Saint Louis MO 63139",
+    "addr:housenumber":"3259",
+    "addr:postcode":"63139",
+    "addr:street":"Hampton Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.291298,38.603802,-90.291298,38.603802",
     "geom:latitude":38.603802,
     "geom:longitude":-90.291298,
@@ -25,11 +30,13 @@
     "sg:province":"MO",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688661,
+        85873683,
+        102191575,
+        404518053,
         85633793,
         85971343,
         102080791,
-        85873683
+        85688661
     ],
     "wof:brand_id":420573801,
     "wof:breaches":[],
@@ -40,9 +47,10 @@
     "wof:geomhash":"6247a896c8158f0330551b1370285da0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080791,
+            "localadmin_id":404518053,
             "locality_id":85971343,
             "neighbourhood_id":85873683,
             "region_id":85688661,
@@ -50,7 +58,7 @@
         }
     ],
     "wof:id":186419329,
-    "wof:lastmodified":1466622354,
+    "wof:lastmodified":1491912607,
     "wof:name":"Burger King",
     "wof:parent_id":85873683,
     "wof:placetype":"venue",

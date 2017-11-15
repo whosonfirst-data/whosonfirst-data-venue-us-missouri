@@ -2,6 +2,10 @@
   "id": 789595783,
   "type": "Feature",
   "properties": {
+    "addr:full":"1525 Co Rd 143 Maywood MO 63454",
+    "addr:housenumber":"1525;143",
+    "addr:postcode":"63454",
+    "addr:street":"Co Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":789595783,
-    "wof:lastmodified":1466623296,
+    "wof:lastmodified":1472630222,
     "wof:name":"Bock Agri Svc Inc",
     "wof:parent_id":85867477,
     "wof:placetype":"venue",

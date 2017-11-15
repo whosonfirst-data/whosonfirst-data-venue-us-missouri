@@ -2,14 +2,20 @@
   "id": 806829899,
   "type": "Feature",
   "properties": {
+    "addr:full":"4947 NE Chouteau Dr Kansas City MO 64119",
+    "addr:housenumber":"4947",
+    "addr:postcode":"64119",
+    "addr:street":"Ne Chouteau Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.541719,39.186126,-94.541719,39.186126",
     "geom:latitude":39.186126,
     "geom:longitude":-94.541719,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4947 NE Chouteau Dr",
     "sg:city":"Kansas City",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102081227,
         85688661
     ],
+    "wof:brand_id":1125155107,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1C2Vtd8ELQCZMn0bKp00jG_39.186126_-94.541719@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462601424,
-    "wof:geomhash":"c4111fae6e1fe33ef4c0e9f3f9cc468a",
+    "wof:geomhash":"cb4d83c56233394b6b687ba206d039c3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":806829899,
-    "wof:lastmodified":1466633468,
+    "wof:lastmodified":1510699581,
     "wof:name":"Church Of The Good Shepherd",
     "wof:parent_id":85823153,
     "wof:placetype":"venue",

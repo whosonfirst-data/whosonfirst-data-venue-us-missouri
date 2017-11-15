@@ -2,14 +2,20 @@
   "id": 773074437,
   "type": "Feature",
   "properties": {
+    "addr:full":"10397 State Hwy D La Plata MO 63549",
+    "addr:housenumber":"10397",
+    "addr:postcode":"63549",
+    "addr:street":"State Hwy D",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.488763,40.033653,-92.488763,40.033653",
     "geom:latitude":40.033653,
     "geom:longitude":-92.488763,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"10397 State Hwy D",
     "sg:city":"La Plata",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102086189,
         85821499
     ],
+    "wof:brand_id":1125154515,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1xVldPfvob5WiuNsG0rlzJ_40.033653_-92.488763@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462582966,
-    "wof:geomhash":"65f14ad428a3d4048288cb107c888c25",
+    "wof:geomhash":"eee848bd63478aa657f874bc82f3406e",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":773074437,
-    "wof:lastmodified":1466622230,
+    "wof:lastmodified":1510693957,
     "wof:name":"Casey's Carry Out Pizza",
     "wof:parent_id":85821499,
     "wof:placetype":"venue",

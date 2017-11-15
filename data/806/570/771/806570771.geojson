@@ -2,6 +2,10 @@
   "id": 806570771,
   "type": "Feature",
   "properties": {
+    "addr:full":"2212 NE 77 St Kansas City MO 64118",
+    "addr:housenumber":"2212;77",
+    "addr:postcode":"64118",
+    "addr:street":"Ne;St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":806570771,
-    "wof:lastmodified":1466626985,
+    "wof:lastmodified":1472630410,
     "wof:name":"K and A Associates",
     "wof:parent_id":85852163,
     "wof:placetype":"venue",

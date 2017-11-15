@@ -2,6 +2,10 @@
   "id": 789705973,
   "type": "Feature",
   "properties": {
+    "addr:full":"12095 Manchester Rd St Louis MO 63131",
+    "addr:housenumber":"12095",
+    "addr:postcode":"63131",
+    "addr:street":"Manchester Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":789705973,
-    "wof:lastmodified":1466625090,
+    "wof:lastmodified":1472630357,
     "wof:name":"Paper Patch",
     "wof:parent_id":85858661,
     "wof:placetype":"venue",

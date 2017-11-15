@@ -2,14 +2,20 @@
   "id": 807096039,
   "type": "Feature",
   "properties": {
+    "addr:full":"900 E Battlefield St Springfield MO 65807",
+    "addr:housenumber":"900",
+    "addr:postcode":"65807",
+    "addr:street":"E Battlefield St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.283532,37.159369,-93.283532,37.159369",
     "geom:latitude":37.159369,
     "geom:longitude":-93.283532,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"900 E Battlefield St",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -39,13 +45,14 @@
         102087523,
         85688661
     ],
+    "wof:brand_id":420575303,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_08uNSH5EVPuDuIcoDGsUd2_37.159369_-93.283532@1299784598"
     },
     "wof:country":"US",
     "wof:created":1462603676,
-    "wof:geomhash":"7392c7c7e9fdea08d46cd0b6ab3a5873",
+    "wof:geomhash":"525d8b9b8a7d133eaa4455823755b899",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,7 +66,7 @@
         }
     ],
     "wof:id":807096039,
-    "wof:lastmodified":1466624473,
+    "wof:lastmodified":1510601935,
     "wof:name":"Cold Stone Creamery",
     "wof:parent_id":85881149,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 806403525,
   "type": "Feature",
   "properties": {
+    "addr:full":"3599 N Farm Rd 189 Springfield MO 65803",
+    "addr:housenumber":"3599;189",
+    "addr:postcode":"65803",
+    "addr:street":"N Farm Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":806403525,
-    "wof:lastmodified":1466622585,
+    "wof:lastmodified":1472630262,
     "wof:name":"Queen City Foods Inc",
     "wof:parent_id":85881137,
     "wof:placetype":"venue",

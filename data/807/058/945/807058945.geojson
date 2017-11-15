@@ -2,14 +2,20 @@
   "id": 807058945,
   "type": "Feature",
   "properties": {
+    "addr:full":"14848 Manchester Rd Ballwin MO 63011",
+    "addr:housenumber":"14848",
+    "addr:postcode":"63011",
+    "addr:street":"Manchester Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.541489,38.59298,-90.541489,38.59298",
     "geom:latitude":38.59298,
     "geom:longitude":-90.541489,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"14848 Manchester Rd",
     "sg:city":"Ballwin",
     "sg:classifiers":[
@@ -39,13 +45,14 @@
         102086173,
         85688661
     ],
+    "wof:brand_id":1125150283,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3SXMOFtPyimqTJ8yrVHc12_38.592980_-90.541489@1299784598"
     },
     "wof:country":"US",
     "wof:created":1462603363,
-    "wof:geomhash":"eb76e80d6c8916c3844c041d2f38d969",
+    "wof:geomhash":"262bee05fc2c89fef750fd78710fc055",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,7 +66,7 @@
         }
     ],
     "wof:id":807058945,
-    "wof:lastmodified":1466623826,
+    "wof:lastmodified":1510695363,
     "wof:name":"Mcalister's Deli",
     "wof:parent_id":85831197,
     "wof:placetype":"venue",

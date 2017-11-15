@@ -2,14 +2,20 @@
   "id": 806357911,
   "type": "Feature",
   "properties": {
+    "addr:full":"12727 Bethel Rd Seneca MO 64865",
+    "addr:housenumber":"12727",
+    "addr:postcode":"64865",
+    "addr:street":"Bethel Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.607275,36.883886,-94.607275,36.883886",
     "geom:latitude":36.883886,
     "geom:longitude":-94.607275,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"12727 Bethel Rd",
     "sg:city":"Seneca",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102087471,
         85814333
     ],
+    "wof:brand_id":420574663,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5l5REB2aIVcoSyRIk4270U_36.883886_-94.607275@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462597492,
-    "wof:geomhash":"fcccbdd9e0154380eb45460bb1681a57",
+    "wof:geomhash":"5e79c088b52e221d95a81c2d3fdf54e2",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":806357911,
-    "wof:lastmodified":1466622278,
+    "wof:lastmodified":1510604367,
     "wof:name":"Bethel Baptist Church",
     "wof:parent_id":85814333,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 790468777,
   "type": "Feature",
   "properties": {
+    "addr:full":"138 Crestwood Plz St Louis MO 63126",
+    "addr:housenumber":"138",
+    "addr:postcode":"63126",
+    "addr:street":"Crestwood Plz",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.384656,38.558769,-90.384656,38.558769",
     "geom:latitude":38.558769,
     "geom:longitude":-90.384656,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"138 Crestwood Plz",
     "sg:city":"St Louis",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102086173,
         85688661
     ],
+    "wof:brand_id":1125150179,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3q43S9gAK5aV7RH4yls6uG_38.558769_-90.384656@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462596081,
-    "wof:geomhash":"68bff71ed7da9e6ed37b6c84f98c2527",
+    "wof:geomhash":"59673b09347892198bf96e970c182ee1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":790468777,
-    "wof:lastmodified":1466632113,
+    "wof:lastmodified":1510694920,
     "wof:name":"Master Cuts",
     "wof:parent_id":85858243,
     "wof:placetype":"venue",

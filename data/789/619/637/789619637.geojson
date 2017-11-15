@@ -2,14 +2,20 @@
   "id": 789619637,
   "type": "Feature",
   "properties": {
+    "addr:full":"733 Grand Ave Hannibal MO 63401",
+    "addr:housenumber":"733",
+    "addr:postcode":"63401",
+    "addr:street":"Grand Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.373584,39.711381,-91.373584,39.711381",
     "geom:latitude":39.711381,
     "geom:longitude":-91.373584,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"733 Grand Ave",
     "sg:city":"Hannibal",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102086171,
         85688661
     ],
+    "wof:brand_id":1125150807,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6hOeiE0DnOEJSBGTAYSGtc_39.711381_-91.373584@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462589214,
-    "wof:geomhash":"119c65373ea41865623b53a04cec4c59",
+    "wof:geomhash":"eebcbf7796bca99ec7a680ff68d04e22",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":789619637,
-    "wof:lastmodified":1466623069,
+    "wof:lastmodified":1510697332,
     "wof:name":"Medicap Pharmacy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 806746789,
   "type": "Feature",
   "properties": {
+    "addr:full":"3846 W 75th St Shawnee Mission MO 66208",
+    "addr:housenumber":"3846",
+    "addr:postcode":"66208",
+    "addr:street":"W 75Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.629554,38.993341,-94.629554,38.993341",
     "geom:latitude":38.993341,
     "geom:longitude":-94.629554,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3846 W 75th St",
     "sg:city":"Shawnee Mission",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102082673,
         85688555
     ],
+    "wof:brand_id":1125151027,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4xCpXefa6n13iEPBT2XBaD_38.993341_-94.629554@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462600736,
-    "wof:geomhash":"966a55b509314d2d6fb9775b80229672",
+    "wof:geomhash":"51ba3b0ddf4ffcb24b155c5fc97a2467",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":806746789,
-    "wof:lastmodified":1466631735,
+    "wof:lastmodified":1510699653,
     "wof:name":"Alzheimer's Association",
     "wof:parent_id":85879583,
     "wof:placetype":"venue",

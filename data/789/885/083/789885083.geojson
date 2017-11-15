@@ -2,6 +2,10 @@
   "id": 789885083,
   "type": "Feature",
   "properties": {
+    "addr:full":"5205 E 23 St Kansas City MO 64127",
+    "addr:housenumber":"5205;23",
+    "addr:postcode":"64127",
+    "addr:street":"E;St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":789885083,
-    "wof:lastmodified":1466629203,
+    "wof:lastmodified":1472630797,
     "wof:name":"Freedom Temple Ministries",
     "wof:parent_id":420525349,
     "wof:placetype":"venue",

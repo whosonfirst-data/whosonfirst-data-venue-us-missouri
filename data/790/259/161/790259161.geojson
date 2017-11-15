@@ -2,6 +2,10 @@
   "id": 790259161,
   "type": "Feature",
   "properties": {
+    "addr:full":"1001 Nolan Dr St Louis MO 63122",
+    "addr:housenumber":"1001",
+    "addr:postcode":"63122",
+    "addr:street":"Nolan Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":790259161,
-    "wof:lastmodified":1466627897,
+    "wof:lastmodified":1472630557,
     "wof:name":"Cincinnati Insurance Claims",
     "wof:parent_id":85858243,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 806364169,
   "type": "Feature",
   "properties": {
+    "addr:full":"2000 W 32nd St Joplin MO 64804",
+    "addr:housenumber":"2000",
+    "addr:postcode":"64804",
+    "addr:street":"W 32Nd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.539829,37.05533,-94.539829,37.05533",
     "geom:latitude":37.05533,
     "geom:longitude":-94.539829,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2000 W 32nd St",
     "sg:city":"Joplin",
     "sg:classifiers":[
@@ -40,13 +46,14 @@
         102087471,
         85814333
     ],
+    "wof:brand_id":1125152567,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_17Rc1ctkyxkf8Hqn5jy69k_37.055330_-94.539829@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462597535,
-    "wof:geomhash":"d4734cd620388d0433350aebb5dc7384",
+    "wof:geomhash":"44e31066737f07ae090ba28f27ce8e78",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,7 +75,7 @@
         }
     ],
     "wof:id":806364169,
-    "wof:lastmodified":1466622457,
+    "wof:lastmodified":1510693933,
     "wof:name":"Army National Guard Recruiter",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

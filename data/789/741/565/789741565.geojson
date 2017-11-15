@@ -2,6 +2,10 @@
   "id": 789741565,
   "type": "Feature",
   "properties": {
+    "addr:full":"14810 E 42 St S Independence MO 64055",
+    "addr:housenumber":"14810;42",
+    "addr:postcode":"64055",
+    "addr:street":"E;St S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -64,7 +68,7 @@
         }
     ],
     "wof:id":789741565,
-    "wof:lastmodified":1466625793,
+    "wof:lastmodified":1472630407,
     "wof:name":"Assured Quality Title Company",
     "wof:parent_id":85871965,
     "wof:placetype":"venue",

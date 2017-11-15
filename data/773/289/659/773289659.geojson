@@ -2,14 +2,20 @@
   "id": 773289659,
   "type": "Feature",
   "properties": {
+    "addr:full":"10322 Blue Ridge Blvd Kansas City MO 64134",
+    "addr:housenumber":"10322",
+    "addr:postcode":"64134",
+    "addr:street":"Blue Ridge Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.508691,38.938411,-94.508691,38.938411",
     "geom:latitude":38.938411,
     "geom:longitude":-94.508691,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"10322 Blue Ridge Blvd",
     "sg:city":"Kansas City",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102081227,
         85688661
     ],
+    "wof:brand_id":1125151705,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3FloTldUbKl9WkdEdLBu8m_38.938411_-94.508691@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462584597,
-    "wof:geomhash":"204dbc46832c15b93e8ce5a1c7a39287",
+    "wof:geomhash":"30db69ed751a25badddabac3cd77909d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":773289659,
-    "wof:lastmodified":1466626943,
+    "wof:lastmodified":1510693980,
     "wof:name":"Texaco Food Mart",
     "wof:parent_id":420525337,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 773820691,
   "type": "Feature",
   "properties": {
+    "addr:full":"3849 S Campbell Ave Springfield MO 65807",
+    "addr:housenumber":"3849",
+    "addr:postcode":"65807",
+    "addr:street":"S Campbell Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.296155,37.1438,-93.296155,37.1438",
     "geom:latitude":37.1438,
     "geom:longitude":-93.296155,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3849 S Campbell Ave",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         85881143,
         102087523
     ],
+    "wof:brand_id":420575665,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3eQugnUJDmzveOMfuZfvAu_37.143800_-93.296155@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462588638,
-    "wof:geomhash":"1548ca9c7d84e0d75ff3c952b5661a59",
+    "wof:geomhash":"4ff5ac6ccefb8638a1718d0f31dfd89e",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":773820691,
-    "wof:lastmodified":1466635446,
+    "wof:lastmodified":1510602704,
     "wof:name":"Wild Birds Unlimited",
     "wof:parent_id":85881143,
     "wof:placetype":"venue",

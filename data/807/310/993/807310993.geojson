@@ -2,14 +2,20 @@
   "id": 807310993,
   "type": "Feature",
   "properties": {
+    "addr:full":"4121 S Fremont Ave Springfield MO 65804",
+    "addr:housenumber":"4121",
+    "addr:postcode":"65804",
+    "addr:street":"S Fremont Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.272014,37.138964,-93.272014,37.138964",
     "geom:latitude":37.138964,
     "geom:longitude":-93.272014,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4121 S Fremont Ave",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -49,13 +55,14 @@
         102087523,
         85688661
     ],
+    "wof:brand_id":1125151073,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6ySJkFZZ4zWEvktBUpRvyr_37.138964_-93.272014@1303262938"
     },
     "wof:country":"US",
     "wof:created":1462605966,
-    "wof:geomhash":"5d3623750defaa0d4cc6db31c9212097",
+    "wof:geomhash":"c2be7255c46dc9ac7443f3ad67287241",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -69,7 +76,7 @@
         }
     ],
     "wof:id":807310993,
-    "wof:lastmodified":1466631177,
+    "wof:lastmodified":1510696090,
     "wof:name":"Lenny's Sub Shop",
     "wof:parent_id":420525311,
     "wof:placetype":"venue",

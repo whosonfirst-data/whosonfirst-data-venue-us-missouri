@@ -2,14 +2,20 @@
   "id": 807097499,
   "type": "Feature",
   "properties": {
+    "addr:full":"3222 Morganford Rd Saint Louis MO 63116",
+    "addr:housenumber":"3222",
+    "addr:postcode":"63116",
+    "addr:street":"Morganford Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.261507,38.600109,-90.261507,38.600109",
     "geom:latitude":38.600109,
     "geom:longitude":-90.261507,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3222 Morganford Rd",
     "sg:city":"Saint Louis",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102080791,
         85688661
     ],
+    "wof:brand_id":1125153969,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7kiI51CHvZdgrqAVGKQSQR_38.599584_-90.261806@1293134755"
     },
     "wof:country":"US",
     "wof:created":1462603692,
-    "wof:geomhash":"27cb48283d572489d5765e4525e803ee",
+    "wof:geomhash":"359bf4c9fc61b2dcf1107cd85fda5654",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":807097499,
-    "wof:lastmodified":1466624547,
+    "wof:lastmodified":1510698944,
     "wof:name":"Imo's Pizza",
     "wof:parent_id":85873681,
     "wof:placetype":"venue",

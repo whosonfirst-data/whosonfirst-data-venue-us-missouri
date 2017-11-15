@@ -2,14 +2,20 @@
   "id": 806559929,
   "type": "Feature",
   "properties": {
+    "addr:full":"2446 E Madrid St Springfield MO 65804",
+    "addr:housenumber":"2446",
+    "addr:postcode":"65804",
+    "addr:street":"E Madrid St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.247766,37.18038,-93.247766,37.18038",
     "geom:latitude":37.18038,
     "geom:longitude":-93.247766,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2446 E Madrid St",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -41,13 +47,14 @@
         102087523,
         85688661
     ],
+    "wof:brand_id":1125153835,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_16zMp5CKxLpZFcWCVgoPKD_37.180380_-93.247766@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462599126,
-    "wof:geomhash":"29fd63d06bd5ead7720e729d416e4b41",
+    "wof:geomhash":"fb5726639041fff53aeb6242934274a6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,7 +68,7 @@
         }
     ],
     "wof:id":806559929,
-    "wof:lastmodified":1466626970,
+    "wof:lastmodified":1510696917,
     "wof:name":"American Heart Association",
     "wof:parent_id":85829759,
     "wof:placetype":"venue",

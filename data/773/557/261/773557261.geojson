@@ -2,14 +2,20 @@
   "id": 773557261,
   "type": "Feature",
   "properties": {
+    "addr:full":"4021 W Outer Rd Arnold MO 63010",
+    "addr:housenumber":"4021",
+    "addr:postcode":"63010",
+    "addr:street":"W Outer Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.382639,38.397377,-90.382639,38.397377",
     "geom:latitude":38.397377,
     "geom:longitude":-90.382639,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4021 W Outer Rd",
     "sg:city":"Arnold",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         85805175,
         102080787
     ],
+    "wof:brand_id":420575149,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6AVrBtq8Hajmm9QN0vK7y6_38.397377_-90.382639@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462586628,
-    "wof:geomhash":"114334e401c39abdc9d54c4aa2c4c2d8",
+    "wof:geomhash":"699b7e4275a0298acd60ea3ad4ec2db7",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":773557261,
-    "wof:lastmodified":1466632686,
+    "wof:lastmodified":1510602943,
     "wof:name":"Meineke Car Care Ctr",
     "wof:parent_id":85805175,
     "wof:placetype":"venue",

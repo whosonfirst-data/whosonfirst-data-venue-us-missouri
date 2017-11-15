@@ -2,14 +2,20 @@
   "id": 773672015,
   "type": "Feature",
   "properties": {
+    "addr:full":"149 Park Central Sq Springfield MO 65806",
+    "addr:housenumber":"149",
+    "addr:postcode":"65806",
+    "addr:street":"Park Central Sq",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.292416,37.208564,-93.292416,37.208564",
     "geom:latitude":37.208564,
     "geom:longitude":-93.292416,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"149 Park Central Sq",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102087523,
         85688661
     ],
+    "wof:brand_id":1125155803,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5q93EaYdP1KBITJMExXrSW_37.208564_-93.292416@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462587480,
-    "wof:geomhash":"9980dd1a811f88f773ce6e8c1b902fb9",
+    "wof:geomhash":"8844e75d5be43fc20baf1273cf670855",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":773672015,
-    "wof:lastmodified":1466634147,
+    "wof:lastmodified":1510694198,
     "wof:name":"Mental Health Dept",
     "wof:parent_id":85881119,
     "wof:placetype":"venue",

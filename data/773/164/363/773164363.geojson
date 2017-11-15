@@ -2,14 +2,20 @@
   "id": 773164363,
   "type": "Feature",
   "properties": {
+    "addr:full":"3040 W Farm Rd 164 Springfield MO 65807",
+    "addr:housenumber":"3040;164",
+    "addr:postcode":"65807",
+    "addr:street":"W Farm Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.339441,37.153005,-93.339441,37.153005",
     "geom:latitude":37.153005,
     "geom:longitude":-93.339441,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3040 W Farm Rd 164",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         85881151,
         102087523
     ],
+    "wof:brand_id":1125152419,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4hwhSqVKPi3GMFM6WvQg7v_37.153005_-93.339441@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462583626,
-    "wof:geomhash":"9e08685b52659975676fdc22eba92307",
+    "wof:geomhash":"289d07253965d300738a40d9bcf49e82",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":773164363,
-    "wof:lastmodified":1466624372,
+    "wof:lastmodified":1510694885,
     "wof:name":"Park Place Apartments",
     "wof:parent_id":85881151,
     "wof:placetype":"venue",

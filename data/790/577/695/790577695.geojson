@@ -2,6 +2,10 @@
   "id": 790577695,
   "type": "Feature",
   "properties": {
+    "addr:full":"32 E 56 St Kansas City MO 64113",
+    "addr:housenumber":"32;56",
+    "addr:postcode":"64113",
+    "addr:street":"E;St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":790577695,
-    "wof:lastmodified":1466634020,
+    "wof:lastmodified":1472630896,
     "wof:name":"Richard Freiburghouse Antiques",
     "wof:parent_id":85872031,
     "wof:placetype":"venue",

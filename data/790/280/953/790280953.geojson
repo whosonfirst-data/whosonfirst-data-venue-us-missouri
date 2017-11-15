@@ -2,14 +2,20 @@
   "id": 790280953,
   "type": "Feature",
   "properties": {
+    "addr:full":"520 S Missouri St Liberty MO 64068",
+    "addr:housenumber":"520",
+    "addr:postcode":"64068",
+    "addr:street":"S Missouri St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.418318,39.236487,-94.418318,39.236487",
     "geom:latitude":39.236487,
     "geom:longitude":-94.418318,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"520 S Missouri St",
     "sg:city":"Liberty",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         85688661,
         420525305
     ],
+    "wof:brand_id":1125150919,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3mUT2fEH3bDvmBpURMKyoS_39.236487_-94.418318@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462594617,
-    "wof:geomhash":"fc1ac188d1f76cd6ce57ec72d3ef37d2",
+    "wof:geomhash":"a1f5c7ccd690a6c6ce223592591816f0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -64,7 +71,7 @@
         }
     ],
     "wof:id":790280953,
-    "wof:lastmodified":1466628073,
+    "wof:lastmodified":1510613227,
     "wof:name":"Grace Episcopal Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

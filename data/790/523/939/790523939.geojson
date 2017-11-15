@@ -2,14 +2,20 @@
   "id": 790523939,
   "type": "Feature",
   "properties": {
+    "addr:full":"3046 S Delaware Ave Springfield MO 65804",
+    "addr:housenumber":"3046",
+    "addr:postcode":"65804",
+    "addr:street":"S Delaware Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.267095,37.158349,-93.267095,37.158349",
     "geom:latitude":37.158349,
     "geom:longitude":-93.267095,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3046 S Delaware Ave",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102087523,
         85688661
     ],
+    "wof:brand_id":1125150407,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6x4pcVodfvvRJp20FJL9HD_37.158349_-93.267095@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462596576,
-    "wof:geomhash":"5a032f8aa86c8777ec53877c94583414",
+    "wof:geomhash":"91cff8c0a2aade09efa8d838408a947f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":790523939,
-    "wof:lastmodified":1466632977,
+    "wof:lastmodified":1510693886,
     "wof:name":"Colonial Supplemental Ins",
     "wof:parent_id":85881149,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 773723613,
   "type": "Feature",
   "properties": {
+    "addr:full":"2760 S Campbell Ave Springfield MO 65807",
+    "addr:housenumber":"2760",
+    "addr:postcode":"65807",
+    "addr:street":"S Campbell Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.295195,37.165008,-93.295195,37.165008",
     "geom:latitude":37.165008,
     "geom:longitude":-93.295195,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2760 S Campbell Ave",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         85881151,
         102087523
     ],
+    "wof:brand_id":1125150451,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0sbfJzpTrZs0V0yPNiAcc3_37.165008_-93.295195@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462587896,
-    "wof:geomhash":"d83b4e19304ad471af999b6406524f4b",
+    "wof:geomhash":"2eba401bc1fb0894a896d8d9143ba3aa",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":773723613,
-    "wof:lastmodified":1466634534,
+    "wof:lastmodified":1510695313,
     "wof:name":"World Finance Corp",
     "wof:parent_id":85881151,
     "wof:placetype":"venue",

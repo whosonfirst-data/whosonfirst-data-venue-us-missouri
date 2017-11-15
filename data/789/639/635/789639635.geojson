@@ -2,14 +2,20 @@
   "id": 789639635,
   "type": "Feature",
   "properties": {
+    "addr:full":"1350 E Battlefield Rd Springfield MO 65804",
+    "addr:housenumber":"1350",
+    "addr:postcode":"65804",
+    "addr:street":"E Battlefield Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.273284,37.159453,-93.273284,37.159453",
     "geom:latitude":37.159453,
     "geom:longitude":-93.273284,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1350 E Battlefield Rd",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102087523,
         85688661
     ],
+    "wof:brand_id":1125155003,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5hpNCC7Dl2649c1aRMAQQ3_37.159453_-93.273284@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462589371,
-    "wof:geomhash":"6cda5af7fa64f09957d135994a460a7f",
+    "wof:geomhash":"0dcba1742456dd01e048362532148da5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":789639635,
-    "wof:lastmodified":1466623712,
+    "wof:lastmodified":1510699953,
     "wof:name":"Good Feet Store",
     "wof:parent_id":85881149,
     "wof:placetype":"venue",

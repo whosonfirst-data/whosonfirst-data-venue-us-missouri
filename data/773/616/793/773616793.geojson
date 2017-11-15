@@ -2,9 +2,14 @@
   "id": 773616793,
   "type": "Feature",
   "properties": {
+    "addr:full":"4400 Morganford Rd St Louis MO 63116",
+    "addr:housenumber":"4400",
+    "addr:postcode":"63116",
+    "addr:street":"Morganford Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.264763,38.588328,-90.264763,38.588328",
     "geom:latitude":38.588328,
     "geom:longitude":-90.264763,
@@ -25,13 +30,14 @@
     "sg:province":"MO",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873691,
+        85873681,
         102191575,
         404518053,
         85633793,
         85971343,
         102080791,
-        85688661
+        85688661,
+        85873691
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,15 +53,25 @@
             "county_id":102080791,
             "localadmin_id":404518053,
             "locality_id":85971343,
+            "neighbourhood_id":85873681,
+            "region_id":85688661,
+            "venue_id":773616793
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080791,
+            "localadmin_id":404518053,
+            "locality_id":85971343,
             "neighbourhood_id":85873691,
             "region_id":85688661,
             "venue_id":773616793
         }
     ],
     "wof:id":773616793,
-    "wof:lastmodified":1466633557,
+    "wof:lastmodified":1491899880,
     "wof:name":"Bevo Realty Group",
-    "wof:parent_id":85873691,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],

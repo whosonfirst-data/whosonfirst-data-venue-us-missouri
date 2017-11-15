@@ -2,14 +2,20 @@
   "id": 806626663,
   "type": "Feature",
   "properties": {
+    "addr:full":"6504 Manchester Ave Saint Louis MO 63139",
+    "addr:housenumber":"6504",
+    "addr:postcode":"63139",
+    "addr:street":"Manchester Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.300262,38.619228,-90.300262,38.619228",
     "geom:latitude":38.619228,
     "geom:longitude":-90.300262,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"6504 Manchester Ave",
     "sg:city":"Saint Louis",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102080791,
         85688661
     ],
+    "wof:brand_id":1125157881,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6p73HRu80or0sb4SVFms0t_38.619228_-90.300262@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462599705,
-    "wof:geomhash":"c40dcf77d3ab28072fb9cac45b1dbca2",
+    "wof:geomhash":"346045383618486165058d7306dfcf63",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":806626663,
-    "wof:lastmodified":1466628741,
+    "wof:lastmodified":1510693912,
     "wof:name":"La Weight Loss Centers Inc",
     "wof:parent_id":85805777,
     "wof:placetype":"venue",

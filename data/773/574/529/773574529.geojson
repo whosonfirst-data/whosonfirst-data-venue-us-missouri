@@ -2,6 +2,10 @@
   "id": 773574529,
   "type": "Feature",
   "properties": {
+    "addr:full":"123 SE 3 St Lees Summit MO 64063",
+    "addr:housenumber":"123;3",
+    "addr:postcode":"64063",
+    "addr:street":"Se",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":773574529,
-    "wof:lastmodified":1466632542,
+    "wof:lastmodified":1472631050,
     "wof:name":"Lee's Summit Senior Ctr",
     "wof:parent_id":85849825,
     "wof:placetype":"venue",

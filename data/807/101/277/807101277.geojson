@@ -2,14 +2,20 @@
   "id": 807101277,
   "type": "Feature",
   "properties": {
+    "addr:full":"1902 N Bishop Ave Rolla MO 65401",
+    "addr:housenumber":"1902",
+    "addr:postcode":"65401",
+    "addr:street":"N Bishop Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.767728,37.960089,-91.767728,37.960089",
     "geom:latitude":37.960089,
     "geom:longitude":-91.767728,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1902 N Bishop Ave",
     "sg:city":"Rolla",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102086893,
         85814531
     ],
+    "wof:brand_id":1125150833,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4hg1e0f8bjTtNpyQqE3iRK_37.960088_-91.767788@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462603747,
-    "wof:geomhash":"f29159471af51c76869c5cb8b328545c",
+    "wof:geomhash":"6f231db9ba1a05725b93f0cde9b0ff2b",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":807101277,
-    "wof:lastmodified":1466624833,
+    "wof:lastmodified":1510695417,
     "wof:name":"Lee's Famous Recipe Chicken",
     "wof:parent_id":85814531,
     "wof:placetype":"venue",

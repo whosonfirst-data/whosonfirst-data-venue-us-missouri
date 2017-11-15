@@ -2,6 +2,10 @@
   "id": 789981819,
   "type": "Feature",
   "properties": {
+    "addr:full":"901 N Garrison Ave St Louis MO 63106",
+    "addr:housenumber":"901",
+    "addr:postcode":"63106",
+    "addr:street":"N Garrison Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":789981819,
-    "wof:lastmodified":1466631736,
+    "wof:lastmodified":1472630803,
     "wof:name":"US Post Office",
     "wof:parent_id":85873625,
     "wof:placetype":"venue",

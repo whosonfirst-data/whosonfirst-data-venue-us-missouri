@@ -2,14 +2,20 @@
   "id": 789689301,
   "type": "Feature",
   "properties": {
+    "addr:full":"562 Old Rte 66 St Robert MO 65584",
+    "addr:housenumber":"562",
+    "addr:postcode":"65584",
+    "addr:street":"Old Rte 66 St Robert",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.197261,37.827159,-92.197261,37.827159",
     "geom:latitude":37.827159,
     "geom:longitude":-92.197261,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"562 Old Rte 66",
     "sg:city":"St Robert",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102086161,
         85688661
     ],
+    "wof:brand_id":1125154237,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0O6HNICtnWBxS4YdyA9Kk8_37.827159_-92.197261@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462589772,
-    "wof:geomhash":"9f15e90d3e08c875550da7e657483b91",
+    "wof:geomhash":"ad4b9e9b3c4f6e3abb8647075d207e5e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":789689301,
-    "wof:lastmodified":1466624746,
+    "wof:lastmodified":1510694887,
     "wof:name":"Microtel Inns & Suites",
     "wof:parent_id":85822351,
     "wof:placetype":"venue",

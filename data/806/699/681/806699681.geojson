@@ -2,6 +2,10 @@
   "id": 806699681,
   "type": "Feature",
   "properties": {
+    "addr:full":"9003 E 92 St Kansas City MO 64138",
+    "addr:housenumber":"9003;92",
+    "addr:postcode":"64138",
+    "addr:street":"E;St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":806699681,
-    "wof:lastmodified":1466630668,
+    "wof:lastmodified":1472630599,
     "wof:name":"Integrity Buildings",
     "wof:parent_id":85871963,
     "wof:placetype":"venue",

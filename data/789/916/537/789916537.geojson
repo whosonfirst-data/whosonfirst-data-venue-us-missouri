@@ -2,6 +2,10 @@
   "id": 789916537,
   "type": "Feature",
   "properties": {
+    "addr:full":"10303 E 87 St Kansas City MO 64138",
+    "addr:housenumber":"10303;87",
+    "addr:postcode":"64138",
+    "addr:street":"E;St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":789916537,
-    "wof:lastmodified":1466630116,
+    "wof:lastmodified":1472630772,
     "wof:name":"Corlew Construction Co Inc",
     "wof:parent_id":85871965,
     "wof:placetype":"venue",

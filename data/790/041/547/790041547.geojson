@@ -2,14 +2,20 @@
   "id": 790041547,
   "type": "Feature",
   "properties": {
+    "addr:full":"185 Gravois Bluffs Plaza Dr Fenton MO 63026",
+    "addr:housenumber":"185",
+    "addr:postcode":"63026",
+    "addr:street":"Gravois Bluffs Plaza Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.446753,38.506388,-90.446753,38.506388",
     "geom:latitude":38.506388,
     "geom:longitude":-90.446753,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"185 Gravois Bluffs Plaza Dr",
     "sg:city":"Fenton",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102086173,
         85688661
     ],
+    "wof:brand_id":1125159733,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_68Y2Dirlw04Gc5DIVn1zh0_38.506388_-90.446753@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462592656,
-    "wof:geomhash":"88404540502058e70161b8f4383c07cf",
+    "wof:geomhash":"c3775e688e99de2d661135345ef8af2f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":790041547,
-    "wof:lastmodified":1466623582,
+    "wof:lastmodified":1510698012,
     "wof:name":"Ultimate Electronics",
     "wof:parent_id":85858661,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 789788611,
   "type": "Feature",
   "properties": {
+    "addr:full":"1534 N Jackson Ave Kansas City MO 64120",
+    "addr:housenumber":"1534",
+    "addr:postcode":"64120",
+    "addr:street":"N Jackson Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.531486,39.137417,-94.531486,39.137417",
     "geom:latitude":39.137417,
     "geom:longitude":-94.531486,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1534 N Jackson Ave",
     "sg:city":"Kansas City",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102081227,
         85688661
     ],
+    "wof:brand_id":1125157057,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3tHmpHBZkoSZ9whZCuHSj2_39.137417_-94.531486@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462590556,
-    "wof:geomhash":"7b028dca0343579f2ab3ea5125aa0609",
+    "wof:geomhash":"e04ebb693791db91a8c12f53af6fd2c8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":789788611,
-    "wof:lastmodified":1466627040,
+    "wof:lastmodified":1510613520,
     "wof:name":"SAIA Motor Freight Line Inc",
     "wof:parent_id":85872001,
     "wof:placetype":"venue",

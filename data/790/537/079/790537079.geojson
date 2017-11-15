@@ -2,14 +2,20 @@
   "id": 790537079,
   "type": "Feature",
   "properties": {
+    "addr:full":"1200 S Lindbergh Blvd St Louis MO 63131",
+    "addr:housenumber":"1200",
+    "addr:postcode":"63131",
+    "addr:street":"S Lindbergh Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.405662,38.636782,-90.405662,38.636782",
     "geom:latitude":38.636782,
     "geom:longitude":-90.405662,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1200 S Lindbergh Blvd",
     "sg:city":"St Louis",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102086173,
         85688661
     ],
+    "wof:brand_id":1125154081,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0RsQb7MEHmpSkAaiGeHPos_38.636782_-90.405662@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462596679,
-    "wof:geomhash":"1ce3a9ed09b1cc917481be70b5bc3b71",
+    "wof:geomhash":"394be69b8d678d2bdd2e3e2cc4b7512c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":790537079,
-    "wof:lastmodified":1466633176,
+    "wof:lastmodified":1510613293,
     "wof:name":"Salem United Methodist Church",
     "wof:parent_id":85867981,
     "wof:placetype":"venue",

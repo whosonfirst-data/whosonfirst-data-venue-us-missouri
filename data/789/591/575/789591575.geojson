@@ -2,6 +2,10 @@
   "id": 789591575,
   "type": "Feature",
   "properties": {
+    "addr:full":"123 W Jefferson Ave Saint Louis MO 63122",
+    "addr:housenumber":"123",
+    "addr:postcode":"63122",
+    "addr:street":"W Jefferson Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":789591575,
-    "wof:lastmodified":1466623261,
+    "wof:lastmodified":1472630204,
     "wof:name":"Pjs Tavern",
     "wof:parent_id":85858243,
     "wof:placetype":"venue",

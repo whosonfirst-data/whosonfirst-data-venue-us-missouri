@@ -2,14 +2,20 @@
   "id": 773235371,
   "type": "Feature",
   "properties": {
+    "addr:full":"1024 Arborgate Ct Fenton MO 63026",
+    "addr:housenumber":"1024",
+    "addr:postcode":"63026",
+    "addr:street":"Arborgate Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.482524,38.504858,-90.482524,38.504858",
     "geom:latitude":38.504858,
     "geom:longitude":-90.482524,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1024 Arborgate Ct",
     "sg:city":"Fenton",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102086173,
         85688661
     ],
+    "wof:brand_id":1125157029,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4YoODuOzs7mxf49Dt2rsgi_38.504858_-90.482524@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462584184,
-    "wof:geomhash":"4f142303507e5c0e677b4a12e449cb86",
+    "wof:geomhash":"9e3122d3666f749baa19bad46ff755e2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":773235371,
-    "wof:lastmodified":1466625941,
+    "wof:lastmodified":1510696717,
     "wof:name":"Novus Windshield Repair",
     "wof:parent_id":85841473,
     "wof:placetype":"venue",

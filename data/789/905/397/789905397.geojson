@@ -2,14 +2,20 @@
   "id": 789905397,
   "type": "Feature",
   "properties": {
+    "addr:full":"16650 Chesterfield Grove Rd Chesterfield MO 63005",
+    "addr:housenumber":"16650",
+    "addr:postcode":"63005",
+    "addr:street":"Chesterfield Grove Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.576112,38.666207,-90.576112,38.666207",
     "geom:latitude":38.666207,
     "geom:longitude":-90.576112,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"16650 Chesterfield Grove Rd",
     "sg:city":"Chesterfield",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102086173,
         85688661
     ],
+    "wof:brand_id":1125152131,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0sK0pLPXCd70NGgRfTnUEe_38.666207_-90.576112@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462591485,
-    "wof:geomhash":"f577ca7d02ed2bbb31c7860a4d063fa4",
+    "wof:geomhash":"5d47c2adb95d898c72ba6f24b207cdc5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":789905397,
-    "wof:lastmodified":1466629637,
+    "wof:lastmodified":1510695268,
     "wof:name":"CTX Mortgage Co",
     "wof:parent_id":85805465,
     "wof:placetype":"venue",

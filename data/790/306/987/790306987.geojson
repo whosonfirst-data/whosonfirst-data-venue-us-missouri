@@ -2,14 +2,20 @@
   "id": 790306987,
   "type": "Feature",
   "properties": {
+    "addr:full":"1 S Memorial Dr St Louis MO 63102",
+    "addr:housenumber":"1",
+    "addr:postcode":"63102",
+    "addr:street":"S Memorial Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.187726,38.623926,-90.187726,38.623926",
     "geom:latitude":38.623926,
     "geom:longitude":-90.187726,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1 S Memorial Dr",
     "sg:city":"St Louis",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102080791,
         85688661
     ],
+    "wof:brand_id":420575785,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3Id1d1KBAexY1QeOA2l49R_38.623926_-90.187726@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462594820,
-    "wof:geomhash":"9bba5d5ad67cfb5acc2d07beb851bab9",
+    "wof:geomhash":"646238cea85066fe2de9e2cfefb8c4fc",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":790306987,
-    "wof:lastmodified":1466628848,
+    "wof:lastmodified":1510602829,
     "wof:name":"C B Richard Ellis",
     "wof:parent_id":85867033,
     "wof:placetype":"venue",

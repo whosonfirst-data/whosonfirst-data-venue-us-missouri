@@ -2,14 +2,20 @@
   "id": 807240133,
   "type": "Feature",
   "properties": {
+    "addr:full":"1427 Missouri Ave Joplin MO 64801",
+    "addr:housenumber":"1427",
+    "addr:postcode":"64801",
+    "addr:street":"Missouri Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.508381,37.075555,-94.508381,37.075555",
     "geom:latitude":37.075555,
     "geom:longitude":-94.508381,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1427 Missouri Ave",
     "sg:city":"Joplin",
     "sg:classifiers":[
@@ -47,13 +53,14 @@
         85688661,
         420525385
     ],
+    "wof:brand_id":420575071,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0ipamdWqIVrJNCiVL4l6ui_37.075555_-94.508381@1303262934"
     },
     "wof:country":"US",
     "wof:created":1462605211,
-    "wof:geomhash":"c0e6af5805af127b0f7d4cf2c4052452",
+    "wof:geomhash":"391f9b2390b2108602e1b4de4e03846c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -77,7 +84,7 @@
         }
     ],
     "wof:id":807240133,
-    "wof:lastmodified":1466629089,
+    "wof:lastmodified":1510602739,
     "wof:name":"Merry Maids",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

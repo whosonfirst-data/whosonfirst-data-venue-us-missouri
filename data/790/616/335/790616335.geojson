@@ -2,14 +2,20 @@
   "id": 790616335,
   "type": "Feature",
   "properties": {
+    "addr:full":"5702 Old State Hwy 21 Antonia MO 63052",
+    "addr:housenumber":"5702",
+    "addr:postcode":"63052",
+    "addr:street":"Old State Hwy 21 Antonia",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.497137,38.37811,-90.497137,38.37811",
     "geom:latitude":38.37811,
     "geom:longitude":-90.497137,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5702 Old State Hwy 21",
     "sg:city":"Antonia",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         85805175,
         102080787
     ],
+    "wof:brand_id":1125156875,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5AueOqnrfMn1aaXOCqziec_38.378110_-90.497137@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462597375,
-    "wof:geomhash":"837462e9278a23b12238b397da39dca5",
+    "wof:geomhash":"ce48fc618c7fe43445132080dbe079c4",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":790616335,
-    "wof:lastmodified":1466634480,
+    "wof:lastmodified":1510696997,
     "wof:name":"Video Express",
     "wof:parent_id":85805175,
     "wof:placetype":"venue",

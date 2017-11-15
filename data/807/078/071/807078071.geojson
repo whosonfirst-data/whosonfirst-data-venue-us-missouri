@@ -2,14 +2,20 @@
   "id": 807078071,
   "type": "Feature",
   "properties": {
+    "addr:full":"19210 E 39th St S Independence MO 64057",
+    "addr:housenumber":"19210",
+    "addr:postcode":"64057",
+    "addr:street":"E 39Th St S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.353955,39.047977,-94.353955,39.047977",
     "geom:latitude":39.047977,
     "geom:longitude":-94.353955,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"19210 E 39th St S",
     "sg:city":"Independence",
     "sg:classifiers":[
@@ -39,13 +45,14 @@
         102081227,
         85688661
     ],
+    "wof:brand_id":1125159261,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2j3f5FT2xmpVS730Wve4Iu_39.047977_-94.353955@1299784598"
     },
     "wof:country":"US",
     "wof:created":1462603518,
-    "wof:geomhash":"bdd663649bd36836aa69a0384d120ee5",
+    "wof:geomhash":"f839f5ab20f4fdb0a496697f28224fd9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,7 +66,7 @@
         }
     ],
     "wof:id":807078071,
-    "wof:lastmodified":1466624249,
+    "wof:lastmodified":1510699645,
     "wof:name":"Fox and Hound",
     "wof:parent_id":85847737,
     "wof:placetype":"venue",

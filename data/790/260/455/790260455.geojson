@@ -2,6 +2,10 @@
   "id": 790260455,
   "type": "Feature",
   "properties": {
+    "addr:full":"16624 Pike 318 Bowling Green MO 63334",
+    "addr:housenumber":"16624;318",
+    "addr:postcode":"63334",
+    "addr:street":"Pike",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":790260455,
-    "wof:lastmodified":1466627905,
+    "wof:lastmodified":1472630556,
     "wof:name":"Tim Salfen",
     "wof:parent_id":85817909,
     "wof:placetype":"venue",

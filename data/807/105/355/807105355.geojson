@@ -2,14 +2,20 @@
   "id": 807105355,
   "type": "Feature",
   "properties": {
+    "addr:full":"1901 Richardson Rd Arnold MO 63010",
+    "addr:housenumber":"1901",
+    "addr:postcode":"63010",
+    "addr:street":"Richardson Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.382945,38.410211,-90.382945,38.410211",
     "geom:latitude":38.410211,
     "geom:longitude":-90.382945,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1901 Richardson Rd",
     "sg:city":"Arnold",
     "sg:classifiers":[],
@@ -25,13 +31,14 @@
         85805175,
         102080787
     ],
+    "wof:brand_id":1125157489,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3gmtMV4UZut1XRhOmTW8Tn_38.410211_-90.382945@1303262925"
     },
     "wof:country":"US",
     "wof:created":1462603787,
-    "wof:geomhash":"bca9ca809d685e55caf6c4e99115c457",
+    "wof:geomhash":"58d69e7c940c66a2f42cd2f07db05bdd",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -42,7 +49,7 @@
         }
     ],
     "wof:id":807105355,
-    "wof:lastmodified":1466624757,
+    "wof:lastmodified":1510699716,
     "wof:name":"Roly Poly",
     "wof:parent_id":85805175,
     "wof:placetype":"venue",

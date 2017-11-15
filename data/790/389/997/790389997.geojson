@@ -2,14 +2,20 @@
   "id": 790389997,
   "type": "Feature",
   "properties": {
+    "addr:full":"16908 George Franklin Dr Independence MO 64055",
+    "addr:housenumber":"16908",
+    "addr:postcode":"64055",
+    "addr:street":"George Franklin Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.3807,39.051747,-94.3807,39.051747",
     "geom:latitude":39.051747,
     "geom:longitude":-94.3807,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"16908 George Franklin Dr",
     "sg:city":"Independence",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102081227,
         85688661
     ],
+    "wof:brand_id":1125150317,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7G7WOTzWC8PKDPFhPsvjbH_39.051747_-94.380700@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462595464,
-    "wof:geomhash":"4d88af2e5ffef9bd320cb36a3bf43190",
+    "wof:geomhash":"e543954f6316dc5c9b580e5f892e3a5b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":790389997,
-    "wof:lastmodified":1466630487,
+    "wof:lastmodified":1510697389,
     "wof:name":"Securities America Inc",
     "wof:parent_id":85847737,
     "wof:placetype":"venue",

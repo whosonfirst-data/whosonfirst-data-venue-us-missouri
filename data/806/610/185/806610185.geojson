@@ -2,14 +2,20 @@
   "id": 806610185,
   "type": "Feature",
   "properties": {
+    "addr:full":"1559 S Grant Ave Springfield MO 65807",
+    "addr:housenumber":"1559",
+    "addr:postcode":"65807",
+    "addr:street":"S Grant Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.299687,37.18608,-93.299687,37.18608",
     "geom:latitude":37.18608,
     "geom:longitude":-93.299687,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1559 S Grant Ave",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087523,
         85688661
     ],
+    "wof:brand_id":1125156995,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_45wsakb9linNp4ELodXmFm_37.186080_-93.299687@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462599567,
-    "wof:geomhash":"2f9a49515fada8175ce5790ce13bd787",
+    "wof:geomhash":"3804f9ccee4b53353368d64189197c72",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":806610185,
-    "wof:lastmodified":1466628229,
+    "wof:lastmodified":1510697501,
     "wof:name":"Korean Presbyterian Church",
     "wof:parent_id":85881155,
     "wof:placetype":"venue",

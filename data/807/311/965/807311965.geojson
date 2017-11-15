@@ -2,14 +2,20 @@
   "id": 807311965,
   "type": "Feature",
   "properties": {
+    "addr:full":"2825 S Glenstone Ave # 100 Springfield MO 65804",
+    "addr:housenumber":"2825",
+    "addr:postcode":"65804",
+    "addr:street":"S Glenstone Ave # 100",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.261961,37.162821,-93.261961,37.162821",
     "geom:latitude":37.162821,
     "geom:longitude":-93.261961,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2825 S Glenstone Ave # 100",
     "sg:city":"Springfield",
     "sg:classifiers":[],
@@ -28,13 +34,14 @@
         102087523,
         85688661
     ],
+    "wof:brand_id":420575351,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0lZKFnRQCuxka2f8AQFZki_37.162821_-93.261961@1303262939"
     },
     "wof:country":"US",
     "wof:created":1462605977,
-    "wof:geomhash":"a1789bd99f4fb8766703c715c987410f",
+    "wof:geomhash":"84f2e70fcd40cf52041e44e40efa9115",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":807311965,
-    "wof:lastmodified":1466631000,
+    "wof:lastmodified":1510602745,
     "wof:name":"Macy's",
     "wof:parent_id":85881149,
     "wof:placetype":"venue",

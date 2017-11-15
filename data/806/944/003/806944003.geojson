@@ -2,14 +2,20 @@
   "id": 806944003,
   "type": "Feature",
   "properties": {
+    "addr:full":"215 S Grant Ave Springfield MO 65806",
+    "addr:housenumber":"215",
+    "addr:postcode":"65806",
+    "addr:street":"S Grant Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.298802,37.208107,-93.298802,37.208107",
     "geom:latitude":37.208107,
     "geom:longitude":-93.298802,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"215 S Grant Ave",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087523,
         85688661
     ],
+    "wof:brand_id":1125158467,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4uzgYH7nrLqYAjKgwkhfXg_37.208107_-93.298802@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462602392,
-    "wof:geomhash":"a9ae2a7bac9b17d17f0f1f2e4311e022",
+    "wof:geomhash":"fc7e89a0a80edd1e8a7d12f89b837883",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":806944003,
-    "wof:lastmodified":1466635068,
+    "wof:lastmodified":1510613246,
     "wof:name":"Butternut Bread",
     "wof:parent_id":85881163,
     "wof:placetype":"venue",

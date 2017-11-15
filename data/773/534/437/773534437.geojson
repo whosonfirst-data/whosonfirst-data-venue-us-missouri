@@ -2,14 +2,20 @@
   "id": 773534437,
   "type": "Feature",
   "properties": {
+    "addr:full":"1400 N Warson Rd Saint Louis MO 63132",
+    "addr:housenumber":"1400",
+    "addr:postcode":"63132",
+    "addr:street":"N Warson Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.394496,38.683286,-90.394496,38.683286",
     "geom:latitude":38.683286,
     "geom:longitude":-90.394496,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1400 N Warson Rd",
     "sg:city":"Saint Louis",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102086173,
         85688661
     ],
+    "wof:brand_id":1125151059,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_15gKMNJOzmzfQ1e6GhXzQB_38.683286_-90.394496@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462586443,
-    "wof:geomhash":"eb38630abf1138fc06c30e69038e19d8",
+    "wof:geomhash":"cd9d48cc90236d5ec7ca70d5a25c6940",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":773534437,
-    "wof:lastmodified":1466632233,
+    "wof:lastmodified":1510613137,
     "wof:name":"Union Pacific Railroad Company",
     "wof:parent_id":85803699,
     "wof:placetype":"venue",

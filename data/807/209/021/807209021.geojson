@@ -2,14 +2,20 @@
   "id": 807209021,
   "type": "Feature",
   "properties": {
+    "addr:full":"1500 High Grove Rd Grandview MO 64030",
+    "addr:housenumber":"1500",
+    "addr:postcode":"64030",
+    "addr:street":"High Grove Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.492847,38.885811,-94.492847,38.885811",
     "geom:latitude":38.885811,
     "geom:longitude":-94.492847,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1500 High Grove Rd",
     "sg:city":"Grandview",
     "sg:classifiers":[
@@ -44,13 +50,14 @@
         102081227,
         85688661
     ],
+    "wof:brand_id":420574217,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4mnEL59gNF93SuGyN6MIby_38.885811_-94.492847@1303262932"
     },
     "wof:country":"US",
     "wof:created":1462604891,
-    "wof:geomhash":"58d5689ed47d3861d87a648a64c594f8",
+    "wof:geomhash":"9f08bbbb7c38116db27261a58f7e7917",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -64,7 +71,7 @@
         }
     ],
     "wof:id":807209021,
-    "wof:lastmodified":1466628038,
+    "wof:lastmodified":1510604704,
     "wof:name":"Church Of The Nazarene",
     "wof:parent_id":85831345,
     "wof:placetype":"venue",

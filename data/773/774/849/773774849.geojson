@@ -2,9 +2,14 @@
   "id": 773774849,
   "type": "Feature",
   "properties": {
+    "addr:full":"4301 Warne Ave Saint Louis MO 63107",
+    "addr:housenumber":"4301",
+    "addr:postcode":"63107",
+    "addr:street":"Warne Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.218477,38.673016,-90.218477,38.673016",
     "geom:latitude":38.673016,
     "geom:longitude":-90.218477,
@@ -28,13 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873619,
+        85873611,
         102191575,
         404518053,
         85633793,
         85971343,
         102080791,
-        85688661
+        85688661,
+        85873619
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,15 +56,25 @@
             "county_id":102080791,
             "localadmin_id":404518053,
             "locality_id":85971343,
+            "neighbourhood_id":85873611,
+            "region_id":85688661,
+            "venue_id":773774849
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080791,
+            "localadmin_id":404518053,
+            "locality_id":85971343,
             "neighbourhood_id":85873619,
             "region_id":85688661,
             "venue_id":773774849
         }
     ],
     "wof:id":773774849,
-    "wof:lastmodified":1466635222,
+    "wof:lastmodified":1491915137,
     "wof:name":"Midere Leasing Inc",
-    "wof:parent_id":85873619,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],

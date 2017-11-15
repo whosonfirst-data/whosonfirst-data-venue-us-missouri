@@ -2,14 +2,20 @@
   "id": 806893147,
   "type": "Feature",
   "properties": {
+    "addr:full":"2889 Bogey Rd St Charles MO 63303",
+    "addr:housenumber":"2889",
+    "addr:postcode":"63303",
+    "addr:street":"Bogey Rd St Charles",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.5346,38.786107,-90.5346,38.786107",
     "geom:latitude":38.786107,
     "geom:longitude":-90.5346,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2889 Bogey Rd",
     "sg:city":"St Charles",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102086159,
         85821097
     ],
+    "wof:brand_id":420573809,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1DwAQ9sh4zeHsFbFaCMc0A_38.786107_-90.534600@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462601956,
-    "wof:geomhash":"985f530cd88526ce238fce203aaf1bde",
+    "wof:geomhash":"62995b4a6bcbcb26933e0c684f5cc735",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":806893147,
-    "wof:lastmodified":1466634332,
+    "wof:lastmodified":1510603477,
     "wof:name":"Payless Shoe Source",
     "wof:parent_id":85821097,
     "wof:placetype":"venue",

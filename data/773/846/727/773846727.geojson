@@ -2,6 +2,10 @@
   "id": 773846727,
   "type": "Feature",
   "properties": {
+    "addr:full":"12101 Co Rd 2030 Rolla MO 65401",
+    "addr:housenumber":"12101",
+    "addr:postcode":"2030;65401",
+    "addr:street":"Co Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":773846727,
-    "wof:lastmodified":1466635748,
+    "wof:lastmodified":1472631134,
     "wof:name":"Missouri Gas Pipeline",
     "wof:parent_id":85814531,
     "wof:placetype":"venue",

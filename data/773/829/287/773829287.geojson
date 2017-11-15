@@ -2,14 +2,20 @@
   "id": 773829287,
   "type": "Feature",
   "properties": {
+    "addr:full":"206 N Thomas St De Soto MO 63020",
+    "addr:housenumber":"206",
+    "addr:postcode":"63020",
+    "addr:street":"N Thomas St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.567012,38.143487,-90.567012,38.143487",
     "geom:latitude":38.143487,
     "geom:longitude":-90.567012,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"206 N Thomas St",
     "sg:city":"De Soto",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         85848677,
         102080787
     ],
+    "wof:brand_id":1125157051,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1fELnjfoxxfGCxA0CzJb8r_38.143487_-90.567012@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462588714,
-    "wof:geomhash":"4ea2a547c417b5641f3144b462d2fc86",
+    "wof:geomhash":"a6d946602c2be0900a15de06f1983974",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":773829287,
-    "wof:lastmodified":1466635381,
+    "wof:lastmodified":1510613522,
     "wof:name":"Royal Neighbors of America",
     "wof:parent_id":85848677,
     "wof:placetype":"venue",

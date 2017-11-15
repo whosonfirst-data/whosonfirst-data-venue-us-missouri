@@ -2,6 +2,10 @@
   "id": 790377499,
   "type": "Feature",
   "properties": {
+    "addr:full":"13250 S Outer 40 Chesterfield MO 63017",
+    "addr:housenumber":"13250;40",
+    "addr:postcode":"63017",
+    "addr:street":"S Outer",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":790377499,
-    "wof:lastmodified":1466630438,
+    "wof:lastmodified":1472630832,
     "wof:name":"St Louis Arc",
     "wof:parent_id":85802943,
     "wof:placetype":"venue",

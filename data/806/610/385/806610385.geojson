@@ -2,14 +2,20 @@
   "id": 806610385,
   "type": "Feature",
   "properties": {
+    "addr:full":"1311 Veterans Blvd Festus MO 63028",
+    "addr:housenumber":"1311",
+    "addr:postcode":"63028",
+    "addr:street":"Veterans Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.411636,38.213447,-90.411636,38.213447",
     "geom:latitude":38.213447,
     "geom:longitude":-90.411636,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1311 Veterans Blvd",
     "sg:city":"Festus",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         85848677,
         102080787
     ],
+    "wof:brand_id":420574719,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0g2mSW7YlyKsStXzylz8IH_38.213447_-90.411636@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462599568,
-    "wof:geomhash":"c2aaf9f92aba5d0ac1e5be6b093713cf",
+    "wof:geomhash":"68c92c99bdf8253c1f1907abf08027bc",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":806610385,
-    "wof:lastmodified":1466628408,
+    "wof:lastmodified":1510608790,
     "wof:name":"A G Edwards & Sons Inc",
     "wof:parent_id":85848677,
     "wof:placetype":"venue",

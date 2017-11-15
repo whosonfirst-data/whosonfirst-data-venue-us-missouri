@@ -2,14 +2,20 @@
   "id": 773175791,
   "type": "Feature",
   "properties": {
+    "addr:full":"532 Beechcraft Ave Chesterfield MO 63005",
+    "addr:housenumber":"532",
+    "addr:postcode":"63005",
+    "addr:street":"Beechcraft Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.651697,38.663541,-90.651697,38.663541",
     "geom:latitude":38.663541,
     "geom:longitude":-90.651697,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"532 Beechcraft Ave",
     "sg:city":"Chesterfield",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102086173,
         85688661
     ],
+    "wof:brand_id":1125154811,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1oRXmaSyQgaUNboetKGwkZ_38.663541_-90.651697@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462583705,
-    "wof:geomhash":"c75e5d25e8efe1eb35e477aa3194975d",
+    "wof:geomhash":"89cc9c6679b7def4ec12de9519eb7d1e",
     "wof:hierarchy":[
         {
             "campus_id":102533513,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":773175791,
-    "wof:lastmodified":1466624499,
+    "wof:lastmodified":1510695894,
     "wof:name":"Smurfit-Stone Container Corp",
     "wof:parent_id":102533513,
     "wof:placetype":"venue",

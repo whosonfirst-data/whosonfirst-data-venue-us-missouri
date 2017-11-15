@@ -2,14 +2,20 @@
   "id": 807160141,
   "type": "Feature",
   "properties": {
+    "addr:full":"4353 Natural Bridge Ave Saint Louis MO 63115",
+    "addr:housenumber":"4353",
+    "addr:postcode":"63115",
+    "addr:street":"Natural Bridge Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.235632,38.669577,-90.235632,38.669577",
     "geom:latitude":38.669577,
     "geom:longitude":-90.235632,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4353 Natural Bridge Ave",
     "sg:city":"Saint Louis",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102080791,
         85688661
     ],
+    "wof:brand_id":1125152293,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2sIUp6ME85M366es3VgE8u_38.669577_-90.235632@1303262929"
     },
     "wof:country":"US",
     "wof:created":1462604380,
-    "wof:geomhash":"f03af651949ccb4cb0353161ab8ccf9d",
+    "wof:geomhash":"a99b4cade1d9024811f50cc9623743d8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":807160141,
-    "wof:lastmodified":1466626545,
+    "wof:lastmodified":1510695696,
     "wof:name":"Locksmith & Locks-24 7 Emergency",
     "wof:parent_id":85873611,
     "wof:placetype":"venue",

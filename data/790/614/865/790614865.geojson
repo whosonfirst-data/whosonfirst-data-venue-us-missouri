@@ -2,14 +2,20 @@
   "id": 790614865,
   "type": "Feature",
   "properties": {
+    "addr:full":"8410 Pershall Rd Hazelwood MO 63042",
+    "addr:housenumber":"8410",
+    "addr:postcode":"63042",
+    "addr:street":"Pershall Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.329932,38.774573,-90.329932,38.774573",
     "geom:latitude":38.774573,
     "geom:longitude":-90.329932,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"8410 Pershall Rd",
     "sg:city":"Hazelwood",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102086173,
         85688661
     ],
+    "wof:brand_id":1125157551,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1lCU9igeF8IbF4AXXR41mW_38.774573_-90.329932@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462597356,
-    "wof:geomhash":"71b4e7b323c2f79eb64a0664a8440d71",
+    "wof:geomhash":"d8ac7ce9496288dea8008ca62ad41715",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":790614865,
-    "wof:lastmodified":1466634363,
+    "wof:lastmodified":1510697356,
     "wof:name":"American Gen Lf Accident Insur",
     "wof:parent_id":85813019,
     "wof:placetype":"venue",

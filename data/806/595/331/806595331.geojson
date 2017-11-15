@@ -2,9 +2,14 @@
   "id": 806595331,
   "type": "Feature",
   "properties": {
+    "addr:full":"600 E Linwood Blvd Kansas City MO 64109",
+    "addr:housenumber":"600",
+    "addr:postcode":"64109",
+    "addr:street":"E Linwood Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.576645,39.068873,-94.576645,39.068873",
     "geom:latitude":39.068873,
     "geom:longitude":-94.576645,
@@ -28,13 +33,15 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871991,
+        85872013,
         102191575,
         404518075,
         85633793,
         85970739,
         102081227,
-        85688661
+        85688661,
+        85871991,
+        85872029
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,15 +57,35 @@
             "county_id":102081227,
             "localadmin_id":404518075,
             "locality_id":85970739,
+            "neighbourhood_id":85872013,
+            "region_id":85688661,
+            "venue_id":806595331
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081227,
+            "localadmin_id":404518075,
+            "locality_id":85970739,
             "neighbourhood_id":85871991,
+            "region_id":85688661,
+            "venue_id":806595331
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081227,
+            "localadmin_id":404518075,
+            "locality_id":85970739,
+            "neighbourhood_id":85872029,
             "region_id":85688661,
             "venue_id":806595331
         }
     ],
     "wof:id":806595331,
-    "wof:lastmodified":1466627754,
+    "wof:lastmodified":1491920894,
     "wof:name":"Pizza Hut",
-    "wof:parent_id":85871991,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],

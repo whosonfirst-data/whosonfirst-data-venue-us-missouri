@@ -2,6 +2,10 @@
   "id": 202873025,
   "type": "Feature",
   "properties": {
+    "addr:full":"14466 County Road 6530 Moody MO 65777",
+    "addr:housenumber":"14466",
+    "addr:postcode":"6530;65777",
+    "addr:street":"County Road",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":202873025,
-    "wof:lastmodified":1466622418,
+    "wof:lastmodified":1472630742,
     "wof:name":"Msc Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

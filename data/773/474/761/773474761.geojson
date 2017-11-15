@@ -2,6 +2,10 @@
   "id": 773474761,
   "type": "Feature",
   "properties": {
+    "addr:full":"10009 W Farm Rd 48 Walnut Grove MO 65770",
+    "addr:housenumber":"10009;48",
+    "addr:postcode":"65770",
+    "addr:street":"W Farm Rd;Grove",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":773474761,
-    "wof:lastmodified":1466630984,
+    "wof:lastmodified":1472631035,
     "wof:name":"Stewart Home Builder",
     "wof:parent_id":85881139,
     "wof:placetype":"venue",

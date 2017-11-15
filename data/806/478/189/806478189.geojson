@@ -2,14 +2,20 @@
   "id": 806478189,
   "type": "Feature",
   "properties": {
+    "addr:full":"941 Chartrand Dr Ballwin MO 63011",
+    "addr:housenumber":"941",
+    "addr:postcode":"63011",
+    "addr:street":"Chartrand Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.572147,38.611628,-90.572147,38.611628",
     "geom:latitude":38.611628,
     "geom:longitude":-90.572147,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"941 Chartrand Dr",
     "sg:city":"Ballwin",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102086173,
         85688661
     ],
+    "wof:brand_id":1125151211,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5qd4MI9IvzjZFuLYoT4bW1_38.611628_-90.572147@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462598446,
-    "wof:geomhash":"eef05806af6d368c3b90757943d94323",
+    "wof:geomhash":"085b965465d388680c4c965564decd32",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":806478189,
-    "wof:lastmodified":1466625082,
+    "wof:lastmodified":1510697573,
     "wof:name":"Charter Communications",
     "wof:parent_id":85831197,
     "wof:placetype":"venue",

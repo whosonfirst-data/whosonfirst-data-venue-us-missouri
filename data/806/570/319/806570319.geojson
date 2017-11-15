@@ -2,14 +2,20 @@
   "id": 806570319,
   "type": "Feature",
   "properties": {
+    "addr:full":"882 State Hwy 291 Liberty MO 64068",
+    "addr:housenumber":"882",
+    "addr:postcode":"64068",
+    "addr:street":"State Hwy 291",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.435351,39.238146,-94.435351,39.238146",
     "geom:latitude":39.238146,
     "geom:longitude":-94.435351,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"882 State Hwy 291",
     "sg:city":"Liberty",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         85688661,
         420525305
     ],
+    "wof:brand_id":1125158383,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0ym68IoeNbu2nhXXJdqIEk_39.238146_-94.435351@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462599213,
-    "wof:geomhash":"e44ac9ade75fc88269ed56239bfc9e39",
+    "wof:geomhash":"0d0e5df39051714260690490e6596fa1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -67,7 +74,7 @@
         }
     ],
     "wof:id":806570319,
-    "wof:lastmodified":1466626966,
+    "wof:lastmodified":1510699779,
     "wof:name":"Pride Stanley & Executive",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

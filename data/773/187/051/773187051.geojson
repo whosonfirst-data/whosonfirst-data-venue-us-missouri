@@ -2,6 +2,10 @@
   "id": 773187051,
   "type": "Feature",
   "properties": {
+    "addr:full":"12507 E 40 St S Independence MO 64055",
+    "addr:housenumber":"12507;40",
+    "addr:postcode":"64055",
+    "addr:street":"E;St S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":773187051,
-    "wof:lastmodified":1466624828,
+    "wof:lastmodified":1472630915,
     "wof:name":"Gold China",
     "wof:parent_id":85871965,
     "wof:placetype":"venue",

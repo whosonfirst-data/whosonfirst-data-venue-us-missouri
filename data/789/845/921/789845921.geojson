@@ -2,6 +2,10 @@
   "id": 789845921,
   "type": "Feature",
   "properties": {
+    "addr:full":"13545 N Barrett Parkway Dr Saint Louis MO 63131",
+    "addr:housenumber":"13545",
+    "addr:postcode":"63131",
+    "addr:street":"N Barrett Parkway Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":789845921,
-    "wof:lastmodified":1466628586,
+    "wof:lastmodified":1472630693,
     "wof:name":"Fifth Third Bank",
     "wof:parent_id":85802943,
     "wof:placetype":"venue",

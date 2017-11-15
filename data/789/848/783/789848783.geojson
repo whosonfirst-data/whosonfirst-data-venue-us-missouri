@@ -2,6 +2,10 @@
   "id": 789848783,
   "type": "Feature",
   "properties": {
+    "addr:full":"452 NE 68 St Kansas City MO 64118",
+    "addr:housenumber":"452;68",
+    "addr:postcode":"64118",
+    "addr:street":"Ne;St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":789848783,
-    "wof:lastmodified":1466628239,
+    "wof:lastmodified":1472630682,
     "wof:name":"Stmicroelectronics Inc",
     "wof:parent_id":85830711,
     "wof:placetype":"venue",

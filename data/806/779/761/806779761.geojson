@@ -2,6 +2,10 @@
   "id": 806779761,
   "type": "Feature",
   "properties": {
+    "addr:full":"13750 Co Rd 3570 Cook Station MO 65449",
+    "addr:housenumber":"13750",
+    "addr:postcode":"3570;65449",
+    "addr:street":"Co Rd;Cook Station",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":806779761,
-    "wof:lastmodified":1466632481,
+    "wof:lastmodified":1472630607,
     "wof:name":"R Lamberth",
     "wof:parent_id":85847353,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 773639899,
   "type": "Feature",
   "properties": {
+    "addr:full":"2043 E Sunshine St Springfield MO 65804",
+    "addr:housenumber":"2043",
+    "addr:postcode":"65804",
+    "addr:street":"E Sunshine St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.25665,37.18138,-93.25665,37.18138",
     "geom:latitude":37.18138,
     "geom:longitude":-93.25665,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2043 E Sunshine St",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102087523,
         85688661
     ],
+    "wof:brand_id":1125159431,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0F6s0AvD3e9aklmUUnnck1_37.181380_-93.256650@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462587246,
-    "wof:geomhash":"6ed56b1eebe5378ddc828e97bec8456f",
+    "wof:geomhash":"d98d58e5f62386aff84797f04408cb6e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":773639899,
-    "wof:lastmodified":1466633511,
+    "wof:lastmodified":1510697980,
     "wof:name":"Vogue Cleaners",
     "wof:parent_id":85829759,
     "wof:placetype":"venue",

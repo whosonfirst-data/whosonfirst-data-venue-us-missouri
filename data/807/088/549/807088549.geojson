@@ -2,14 +2,20 @@
   "id": 807088549,
   "type": "Feature",
   "properties": {
+    "addr:full":"2117 Missouri Blvd Jefferson City MO 65109",
+    "addr:housenumber":"2117",
+    "addr:postcode":"65109",
+    "addr:street":"Missouri Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.203051,38.581047,-92.203051,38.581047",
     "geom:latitude":38.581047,
     "geom:longitude":-92.203051,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2117 Missouri Blvd",
     "sg:city":"Jefferson City",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102087511,
         85837745
     ],
+    "wof:brand_id":1125154847,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2cjok1ApReZWxikVasqoPi_38.581047_-92.203051@1299784598"
     },
     "wof:country":"US",
     "wof:created":1462603605,
-    "wof:geomhash":"5ce5653d6e8507d5d1079ebbc57cdae6",
+    "wof:geomhash":"12bb11c2d3f0ca7e9f242a3931708076",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":807088549,
-    "wof:lastmodified":1466624522,
+    "wof:lastmodified":1510695720,
     "wof:name":"Bellacino's Pizza & Grinders",
     "wof:parent_id":85837745,
     "wof:placetype":"venue",

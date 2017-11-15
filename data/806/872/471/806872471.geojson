@@ -2,14 +2,20 @@
   "id": 806872471,
   "type": "Feature",
   "properties": {
+    "addr:full":"6336 Brookside Plz Kansas City MO 64113",
+    "addr:housenumber":"6336",
+    "addr:postcode":"64113",
+    "addr:street":"Brookside Plz",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.590789,39.01285,-94.590789,39.01285",
     "geom:latitude":39.01285,
     "geom:longitude":-94.590789,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"6336 Brookside Plz",
     "sg:city":"Kansas City",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102081227,
         85688661
     ],
+    "wof:brand_id":1125156543,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0FiZCcY9HCodAvetE37su8_39.012850_-94.590789@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462601789,
-    "wof:geomhash":"c7c845e4e8a5e1c85dfd0c33bdd5944f",
+    "wof:geomhash":"9bbf5e9bd83722861bf6d8417166f947",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":806872471,
-    "wof:lastmodified":1466634095,
+    "wof:lastmodified":1510700004,
     "wof:name":"Commerce Bank N A",
     "wof:parent_id":85872031,
     "wof:placetype":"venue",

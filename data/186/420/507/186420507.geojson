@@ -2,9 +2,14 @@
   "id": 186420507,
   "type": "Feature",
   "properties": {
+    "addr:full":"3427 S Kingshighway Blvd Saint Louis MO 63139",
+    "addr:housenumber":"3427",
+    "addr:postcode":"63139",
+    "addr:street":"S Kingshighway Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.270599,38.597099,-90.270599,38.597099",
     "geom:latitude":38.597099,
     "geom:longitude":-90.270599,
@@ -30,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688661,
+        85873683,
+        102191575,
+        404518053,
         85633793,
         85971343,
         102080791,
-        85873683
+        85688661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,9 +51,10 @@
     "wof:geomhash":"74050becc809a77308773a3698fec9c0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080791,
+            "localadmin_id":404518053,
             "locality_id":85971343,
             "neighbourhood_id":85873683,
             "region_id":85688661,
@@ -54,7 +62,7 @@
         }
     ],
     "wof:id":186420507,
-    "wof:lastmodified":1466622355,
+    "wof:lastmodified":1491912602,
     "wof:name":"Uncle Bill's Pancake and Dinner House",
     "wof:parent_id":85873683,
     "wof:placetype":"venue",

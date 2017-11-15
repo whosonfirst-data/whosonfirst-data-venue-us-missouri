@@ -2,14 +2,20 @@
   "id": 790451593,
   "type": "Feature",
   "properties": {
+    "addr:full":"400 Hafner St Hannibal MO 63401",
+    "addr:housenumber":"400",
+    "addr:postcode":"63401",
+    "addr:street":"Hafner St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.376539,39.710654,-91.376539,39.710654",
     "geom:latitude":39.710654,
     "geom:longitude":-91.376539,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"400 Hafner St",
     "sg:city":"Hannibal",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102086171,
         85688661
     ],
+    "wof:brand_id":1125152579,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_36RvWGd9WHYm2Z0SA8JmFW_39.710654_-91.376539@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462595922,
-    "wof:geomhash":"0fffaf00d547d417d7b5a4a57288fd32",
+    "wof:geomhash":"79d76d949eaef1e2cf7804a4a0430b68",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":790451593,
-    "wof:lastmodified":1466631869,
+    "wof:lastmodified":1510698844,
     "wof:name":"Breadeaux Pizza",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

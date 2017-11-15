@@ -2,14 +2,20 @@
   "id": 773835041,
   "type": "Feature",
   "properties": {
+    "addr:full":"260 NW Oldham Pkwy Lees Summit MO 64081",
+    "addr:housenumber":"260",
+    "addr:postcode":"64081",
+    "addr:street":"Nw Oldham Pkwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.4005,38.916465,-94.4005,38.916465",
     "geom:latitude":38.916465,
     "geom:longitude":-94.4005,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"260 NW Oldham Pkwy",
     "sg:city":"Lees Summit",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102081227,
         85688661
     ],
+    "wof:brand_id":1125153569,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3CuSQI8uhMVwc4argyWIRQ_38.916465_-94.400500@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462588764,
-    "wof:geomhash":"ea47e0f0ed57067c6f36905b0a98b16b",
+    "wof:geomhash":"8761e3b5d40ce6b8344e30442a4d629a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":773835041,
-    "wof:lastmodified":1466635717,
+    "wof:lastmodified":1510693206,
     "wof:name":"U S Bank National Association",
     "wof:parent_id":85853361,
     "wof:placetype":"venue",

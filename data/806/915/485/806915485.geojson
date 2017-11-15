@@ -2,6 +2,10 @@
   "id": 806915485,
   "type": "Feature",
   "properties": {
+    "addr:full":"13001 E 40 St S Independence MO 64055",
+    "addr:housenumber":"13001;40",
+    "addr:postcode":"64055",
+    "addr:street":"E;St S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":806915485,
-    "wof:lastmodified":1466634868,
+    "wof:lastmodified":1472630726,
     "wof:name":"AMF",
     "wof:parent_id":85871965,
     "wof:placetype":"venue",

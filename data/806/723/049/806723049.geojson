@@ -2,14 +2,20 @@
   "id": 806723049,
   "type": "Feature",
   "properties": {
+    "addr:full":"4029 N Oak Fwy Kansas City MO 64116",
+    "addr:housenumber":"4029",
+    "addr:postcode":"64116",
+    "addr:street":"N Oak Fwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.576691,39.168177,-94.576691,39.168177",
     "geom:latitude":39.168177,
     "geom:longitude":-94.576691,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4029 N Oak Fwy",
     "sg:city":"Kansas City",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102081227,
         85688661
     ],
+    "wof:brand_id":1125150189,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1XbZB8NLgAX4Eh5xLmtOb1_39.168177_-94.576691@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462600528,
-    "wof:geomhash":"ae05a77c418b6026bd7952628d8e3b64",
+    "wof:geomhash":"1bf5226ce3ab64b6d1027a200a77762c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":806723049,
-    "wof:lastmodified":1466631227,
+    "wof:lastmodified":1510697305,
     "wof:name":"Quik Cash",
     "wof:parent_id":85867025,
     "wof:placetype":"venue",

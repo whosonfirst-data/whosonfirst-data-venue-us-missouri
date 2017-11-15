@@ -2,14 +2,20 @@
   "id": 789585389,
   "type": "Feature",
   "properties": {
+    "addr:full":"110 E 10th Ave Kansas City MO 64116",
+    "addr:housenumber":"110",
+    "addr:postcode":"64116",
+    "addr:street":"E 10Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.578792,39.126994,-94.578792,39.126994",
     "geom:latitude":39.126994,
     "geom:longitude":-94.578792,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"110 E 10th Ave",
     "sg:city":"Kansas City",
     "sg:classifiers":[
@@ -41,13 +47,14 @@
         102086177,
         85688661
     ],
+    "wof:brand_id":1125159083,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7goqhfoJC4ibOUllwRJXD6_39.126994_-94.578792@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462588952,
-    "wof:geomhash":"8460263100a6b83b07940c19e60a0efb",
+    "wof:geomhash":"c283c33727311dab1f7e90badc63cb62",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,7 +68,7 @@
         }
     ],
     "wof:id":789585389,
-    "wof:lastmodified":1466622889,
+    "wof:lastmodified":1510693765,
     "wof:name":"Smurfit Stone Container Corp",
     "wof:parent_id":85823983,
     "wof:placetype":"venue",

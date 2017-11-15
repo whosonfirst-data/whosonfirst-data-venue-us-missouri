@@ -2,14 +2,20 @@
   "id": 789830669,
   "type": "Feature",
   "properties": {
+    "addr:full":"2101 N National Ave Springfield MO 65803",
+    "addr:housenumber":"2101",
+    "addr:postcode":"65803",
+    "addr:street":"N National Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.27493,37.23674,-93.27493,37.23674",
     "geom:latitude":37.23674,
     "geom:longitude":-93.27493,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2101 N National Ave",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102087523,
         85688661
     ],
+    "wof:brand_id":1125153335,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_39Jti0KzP25Qe2OlnArhqd_37.236740_-93.274930@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462590876,
-    "wof:geomhash":"79737a4c0c9a5e347b134bdd3ae72489",
+    "wof:geomhash":"ae945425cba35124ad9d77e4594d114c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":789830669,
-    "wof:lastmodified":1466628047,
+    "wof:lastmodified":1510699014,
     "wof:name":"Primary Residential Mortgage",
     "wof:parent_id":85881135,
     "wof:placetype":"venue",

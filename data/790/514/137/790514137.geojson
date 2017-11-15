@@ -2,14 +2,20 @@
   "id": 790514137,
   "type": "Feature",
   "properties": {
+    "addr:full":"4246 Shaw Blvd St Louis MO 63110",
+    "addr:housenumber":"4246",
+    "addr:postcode":"63110",
+    "addr:street":"Shaw Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.255215,38.61648,-90.255215,38.61648",
     "geom:latitude":38.61648,
     "geom:longitude":-90.255215,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4246 Shaw Blvd",
     "sg:city":"St Louis",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102080791,
         85688661
     ],
+    "wof:brand_id":1125151277,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2JTmXtF910TxX6ZwawGMlR_38.616480_-90.255215@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462596484,
-    "wof:geomhash":"400bd21f582b429782ef9ac5976354d6",
+    "wof:geomhash":"c241fb5d00211c914d3c97e9ffeb9bad",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":790514137,
-    "wof:lastmodified":1466632622,
+    "wof:lastmodified":1510699623,
     "wof:name":"Mount Olive Baptist Church",
     "wof:parent_id":85873667,
     "wof:placetype":"venue",

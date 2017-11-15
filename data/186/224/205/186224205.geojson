@@ -2,9 +2,14 @@
   "id": 186224205,
   "type": "Feature",
   "properties": {
+    "addr:full":"1015 Locust St Ste 1040 Saint Louis MO 63101",
+    "addr:housenumber":"1015",
+    "addr:postcode":"63101",
+    "addr:street":"Locust St Ste 1040",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.194397,38.630001,-90.194397,38.630001",
     "geom:latitude":38.630001,
     "geom:longitude":-90.194397,
@@ -25,11 +30,13 @@
     "sg:province":"MO",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688661,
+        85873643,
+        102191575,
+        404518053,
         85633793,
         85971343,
         102080791,
-        85873643
+        85688661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,9 +46,10 @@
     "wof:geomhash":"109634854545ac0cb81cf976419fb0e1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080791,
+            "localadmin_id":404518053,
             "locality_id":85971343,
             "neighbourhood_id":85873643,
             "region_id":85688661,
@@ -49,7 +57,7 @@
         }
     ],
     "wof:id":186224205,
-    "wof:lastmodified":1466622249,
+    "wof:lastmodified":1491933747,
     "wof:name":"Kuehnlein & Kuehnlein Llc",
     "wof:parent_id":85873643,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 790430675,
   "type": "Feature",
   "properties": {
+    "addr:full":"1031 E Battlefield Rd Springfield MO 65807",
+    "addr:housenumber":"1031",
+    "addr:postcode":"65807",
+    "addr:street":"E Battlefield Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.28056,37.159749,-93.28056,37.159749",
     "geom:latitude":37.159749,
     "geom:longitude":-93.28056,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1031 E Battlefield Rd",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102087523,
         85688661
     ],
+    "wof:brand_id":1125155911,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2DE9MDHvRZ0ECBkMgmPC6j_37.159749_-93.280560@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462595775,
-    "wof:geomhash":"414dcbb1c23eb6b93663b45e6bcffc03",
+    "wof:geomhash":"ba615ff74d6ecb902fdaf291a50f15b7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":790430675,
-    "wof:lastmodified":1466631563,
+    "wof:lastmodified":1510699422,
     "wof:name":"Crawford & Company",
     "wof:parent_id":85881149,
     "wof:placetype":"venue",

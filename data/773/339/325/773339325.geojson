@@ -2,14 +2,20 @@
   "id": 773339325,
   "type": "Feature",
   "properties": {
+    "addr:full":"293 Mid Rivers Mall Dr St Peters MO 63376",
+    "addr:housenumber":"293",
+    "addr:postcode":"63376",
+    "addr:street":"Mid Rivers Mall Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.624307,38.79217,-90.624307,38.79217",
     "geom:latitude":38.79217,
     "geom:longitude":-90.624307,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"293 Mid Rivers Mall Dr",
     "sg:city":"St Peters",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102086159,
         85821097
     ],
+    "wof:brand_id":1125154571,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7mVY7xNdcfr5l6wPK09I3K_38.792170_-90.624307@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462584977,
-    "wof:geomhash":"f42477f3f20d0ce49c35691b8b141138",
+    "wof:geomhash":"8c08b7dc2aaad7689e8d871254fbbb83",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":773339325,
-    "wof:lastmodified":1466628248,
+    "wof:lastmodified":1510694681,
     "wof:name":"Thomasville Home Furnishings",
     "wof:parent_id":85821097,
     "wof:placetype":"venue",

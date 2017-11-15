@@ -2,14 +2,20 @@
   "id": 773226907,
   "type": "Feature",
   "properties": {
+    "addr:full":"38 Fenton Plz Fenton MO 63026",
+    "addr:housenumber":"38",
+    "addr:postcode":"63026",
+    "addr:street":"Fenton Plz",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.443181,38.511714,-90.443181,38.511714",
     "geom:latitude":38.511714,
     "geom:longitude":-90.443181,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"38 Fenton Plz",
     "sg:city":"Fenton",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102086173,
         85688661
     ],
+    "wof:brand_id":1125157001,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6PGDawmJIHEQT9MEvGJHiq_38.511714_-90.443181@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462584121,
-    "wof:geomhash":"f7be742512937206eef02428f0d70a69",
+    "wof:geomhash":"5902a517ae61597281da963b12d03c83",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":773226907,
-    "wof:lastmodified":1466625830,
+    "wof:lastmodified":1510695070,
     "wof:name":"Larry's Barber Shop",
     "wof:parent_id":85858661,
     "wof:placetype":"venue",

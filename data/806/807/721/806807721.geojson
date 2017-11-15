@@ -2,6 +2,10 @@
   "id": 806807721,
   "type": "Feature",
   "properties": {
+    "addr:full":"4113 E 27 St Kansas City MO 64127",
+    "addr:housenumber":"4113;27",
+    "addr:postcode":"64127",
+    "addr:street":"E;St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":806807721,
-    "wof:lastmodified":1466633015,
+    "wof:lastmodified":1472630681,
     "wof:name":"Church of Christ",
     "wof:parent_id":85872027,
     "wof:placetype":"venue",

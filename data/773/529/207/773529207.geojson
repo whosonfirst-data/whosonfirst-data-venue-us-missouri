@@ -2,6 +2,10 @@
   "id": 773529207,
   "type": "Feature",
   "properties": {
+    "addr:full":"10408 E 27 Ter S Independence MO 64052",
+    "addr:housenumber":"10408;27 ter",
+    "addr:postcode":"64052",
+    "addr:street":"E;S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":773529207,
-    "wof:lastmodified":1466632152,
+    "wof:lastmodified":1472631022,
     "wof:name":"Pete's Dependable Quality Svc",
     "wof:parent_id":85818127,
     "wof:placetype":"venue",

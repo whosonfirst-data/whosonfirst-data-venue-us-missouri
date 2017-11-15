@@ -2,14 +2,20 @@
   "id": 790052255,
   "type": "Feature",
   "properties": {
+    "addr:full":"82 Chesterfield Mall Chesterfield MO 63017",
+    "addr:housenumber":"82",
+    "addr:postcode":"63017",
+    "addr:street":"Mall",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.567199,38.652942,-90.567199,38.652942",
     "geom:latitude":38.652942,
     "geom:longitude":-90.567199,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"82 Chesterfield Mall",
     "sg:city":"Chesterfield",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102086173,
         85688661
     ],
+    "wof:brand_id":1125153597,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3mONWQDSNdxCFPSr20yEV1_38.652942_-90.567199@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462592745,
-    "wof:geomhash":"8d24ba8d27fe30d3c95505911f44ac80",
+    "wof:geomhash":"a3f723114f67722c09f1951948ac4106",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":790052255,
-    "wof:lastmodified":1466623642,
+    "wof:lastmodified":1510695769,
     "wof:name":"Express Mens",
     "wof:parent_id":85805465,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 789738677,
   "type": "Feature",
   "properties": {
+    "addr:full":"1003 E Market St Diamond MO 64840",
+    "addr:housenumber":"1003",
+    "addr:postcode":"64840",
+    "addr:street":"E Market St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.30339,36.994766,-94.30339,36.994766",
     "geom:latitude":36.994766,
     "geom:longitude":-94.30339,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1003 E Market St",
     "sg:city":"Diamond",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102087471,
         85688661
     ],
+    "wof:brand_id":1125156907,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6ZgmPYj6pMbiBLjfv30uTR_36.994766_-94.303390@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462590163,
-    "wof:geomhash":"66d259ba23fda6f6d084f53945e5da5a",
+    "wof:geomhash":"37afc0d05f7c07aa0b9590d2128338a0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":789738677,
-    "wof:lastmodified":1466625981,
+    "wof:lastmodified":1510699554,
     "wof:name":"Ancient Free & Accepted Masons",
     "wof:parent_id":85821247,
     "wof:placetype":"venue",

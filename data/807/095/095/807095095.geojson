@@ -2,14 +2,20 @@
   "id": 807095095,
   "type": "Feature",
   "properties": {
+    "addr:full":"1903 S Glenstone Ave Springfield MO 65804",
+    "addr:housenumber":"1903",
+    "addr:postcode":"65804",
+    "addr:street":"S Glenstone Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.26242,37.178953,-93.26242,37.178953",
     "geom:latitude":37.178953,
     "geom:longitude":-93.26242,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1903 S Glenstone Ave",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -39,13 +45,14 @@
         102087523,
         85688661
     ],
+    "wof:brand_id":1125151073,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4Zhg9URuMEmeeLY7fZ38jM_37.178953_-93.262420@1299784598"
     },
     "wof:country":"US",
     "wof:created":1462603665,
-    "wof:geomhash":"a990b43062c80748d02d3d7d8d0f2f10",
+    "wof:geomhash":"3b49ffa28d6d1cc57b0d48140503f298",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,7 +66,7 @@
         }
     ],
     "wof:id":807095095,
-    "wof:lastmodified":1466624591,
+    "wof:lastmodified":1510696090,
     "wof:name":"Lenny's Sub Shop",
     "wof:parent_id":85829759,
     "wof:placetype":"venue",

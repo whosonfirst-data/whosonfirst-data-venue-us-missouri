@@ -2,6 +2,10 @@
   "id": 789638659,
   "type": "Feature",
   "properties": {
+    "addr:full":"9621 Old Bonhomme Rd Saint Louis MO 63132",
+    "addr:housenumber":"9621",
+    "addr:postcode":"63132",
+    "addr:street":"Old Bonhomme Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":789638659,
-    "wof:lastmodified":1466623673,
+    "wof:lastmodified":1472630271,
     "wof:name":"Zipfix",
     "wof:parent_id":85803699,
     "wof:placetype":"venue",

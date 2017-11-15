@@ -2,14 +2,20 @@
   "id": 773125545,
   "type": "Feature",
   "properties": {
+    "addr:full":"12948 New Halls Ferry Rd Florissant MO 63033",
+    "addr:housenumber":"12948",
+    "addr:postcode":"63033",
+    "addr:street":"New Halls Ferry Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.283787,38.789984,-90.283787,38.789984",
     "geom:latitude":38.789984,
     "geom:longitude":-90.283787,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"12948 New Halls Ferry Rd",
     "sg:city":"Florissant",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102086173,
         85688661
     ],
+    "wof:brand_id":1125155255,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0HTuzsEfcXozzbUV8DckEE_38.789984_-90.283787@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462583332,
-    "wof:geomhash":"55445efd64845995fc0749afb9d6c0cf",
+    "wof:geomhash":"73e18997801645d34e4b386622e4a61c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":773125545,
-    "wof:lastmodified":1466623694,
+    "wof:lastmodified":1510695083,
     "wof:name":"Hong Kong Buffet",
     "wof:parent_id":85813019,
     "wof:placetype":"venue",

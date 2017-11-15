@@ -2,6 +2,10 @@
   "id": 789595329,
   "type": "Feature",
   "properties": {
+    "addr:full":"1101 Lucas Ave St Louis MO 63101",
+    "addr:housenumber":"1101",
+    "addr:postcode":"63101",
+    "addr:street":"Lucas Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":789595329,
-    "wof:lastmodified":1466623272,
+    "wof:lastmodified":1472630217,
     "wof:name":"National Healthcare Resources",
     "wof:parent_id":85873643,
     "wof:placetype":"venue",

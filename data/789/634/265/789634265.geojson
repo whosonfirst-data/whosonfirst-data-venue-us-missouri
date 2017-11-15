@@ -2,6 +2,10 @@
   "id": 789634265,
   "type": "Feature",
   "properties": {
+    "addr:full":"15200 E 43 St S Independence MO 64055",
+    "addr:housenumber":"15200;43",
+    "addr:postcode":"64055",
+    "addr:street":"E;St S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":789634265,
-    "wof:lastmodified":1466623602,
+    "wof:lastmodified":1472630241,
     "wof:name":"Livingood Computers",
     "wof:parent_id":85847737,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 789975071,
   "type": "Feature",
   "properties": {
+    "addr:full":"11511 W 23rd St S Independence MO 64052",
+    "addr:housenumber":"11511",
+    "addr:postcode":"64052",
+    "addr:street":"W 23Rd St S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.439901,39.080029,-94.439901,39.080029",
     "geom:latitude":39.080029,
     "geom:longitude":-94.439901,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"11511 W 23rd St S",
     "sg:city":"Independence",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102081227,
         85688661
     ],
+    "wof:brand_id":1125155245,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2VbInoQdVEphVjWdAL6MWu_39.080029_-94.439901@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462592126,
-    "wof:geomhash":"5994ae557de34222c66baa1b0306a351",
+    "wof:geomhash":"13b0eb96aa1109be5e8dfc320f78bb0e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":789975071,
-    "wof:lastmodified":1466631260,
+    "wof:lastmodified":1510697006,
     "wof:name":"Don's Barber Shop",
     "wof:parent_id":85818127,
     "wof:placetype":"venue",

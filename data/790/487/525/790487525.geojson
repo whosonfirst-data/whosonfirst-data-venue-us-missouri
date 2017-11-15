@@ -2,6 +2,10 @@
   "id": 790487525,
   "type": "Feature",
   "properties": {
+    "addr:full":"2345 Lafayette Ave Saint Louis MO 63104",
+    "addr:housenumber":"2345",
+    "addr:postcode":"63104",
+    "addr:street":"Lafayette Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":790487525,
-    "wof:lastmodified":1466632377,
+    "wof:lastmodified":1472630853,
     "wof:name":"Gateway State School",
     "wof:parent_id":85873661,
     "wof:placetype":"venue",

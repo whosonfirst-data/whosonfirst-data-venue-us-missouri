@@ -2,9 +2,14 @@
   "id": 806374137,
   "type": "Feature",
   "properties": {
+    "addr:full":"1600 S 39th St St Louis MO 63110",
+    "addr:housenumber":"1600",
+    "addr:postcode":"63110",
+    "addr:street":"S 39Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.24475,38.61905,-90.24475,38.61905",
     "geom:latitude":38.61905,
     "geom:longitude":-90.24475,
@@ -34,7 +39,8 @@
         85633793,
         85971343,
         102080791,
-        85688661
+        85688661,
+        85873657
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,12 +59,22 @@
             "neighbourhood_id":85873659,
             "region_id":85688661,
             "venue_id":806374137
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080791,
+            "localadmin_id":404518053,
+            "locality_id":85971343,
+            "neighbourhood_id":85873657,
+            "region_id":85688661,
+            "venue_id":806374137
         }
     ],
     "wof:id":806374137,
-    "wof:lastmodified":1466622921,
+    "wof:lastmodified":1491909526,
     "wof:name":"St Louis Architectural Art Co",
-    "wof:parent_id":85873659,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],

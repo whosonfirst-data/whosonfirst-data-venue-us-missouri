@@ -2,14 +2,20 @@
   "id": 773339141,
   "type": "Feature",
   "properties": {
+    "addr:full":"1648 NW Chipman Rd Lees Summit MO 64081",
+    "addr:housenumber":"1648",
+    "addr:postcode":"64081",
+    "addr:street":"Nw Chipman Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.406936,38.926114,-94.406936,38.926114",
     "geom:latitude":38.926114,
     "geom:longitude":-94.406936,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1648 NW Chipman Rd",
     "sg:city":"Lees Summit",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102081227,
         85688661
     ],
+    "wof:brand_id":1125151823,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3BEVBpG30gNBt8uqhGx6WC_38.926114_-94.406936@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462584976,
-    "wof:geomhash":"95e138a1989a6b192bc7d219938a25c2",
+    "wof:geomhash":"1898bb9d231f3abfd18b676a8eff4fb3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":773339141,
-    "wof:lastmodified":1466628242,
+    "wof:lastmodified":1510694568,
     "wof:name":"Bed Bath & Beyond Inc",
     "wof:parent_id":85853361,
     "wof:placetype":"venue",

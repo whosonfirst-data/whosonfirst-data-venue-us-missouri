@@ -2,9 +2,14 @@
   "id": 186272835,
   "type": "Feature",
   "properties": {
+    "addr:full":"3504 Caroline St Saint Louis MO 63104",
+    "addr:housenumber":"3504",
+    "addr:postcode":"63104",
+    "addr:street":"Caroline St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.235497,38.622299,-90.235497,38.622299",
     "geom:latitude":38.622299,
     "geom:longitude":-90.235497,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688661,
+        85873659,
+        102191575,
+        404518053,
         85633793,
         85971343,
         102080791,
-        85873659
+        85688661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +49,10 @@
     "wof:geomhash":"f92bcdb77e6c8285234d5438b284563c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080791,
+            "localadmin_id":404518053,
             "locality_id":85971343,
             "neighbourhood_id":85873659,
             "region_id":85688661,
@@ -52,7 +60,7 @@
         }
     ],
     "wof:id":186272835,
-    "wof:lastmodified":1466622273,
+    "wof:lastmodified":1491909517,
     "wof:name":"Good Start Daycare",
     "wof:parent_id":85873659,
     "wof:placetype":"venue",

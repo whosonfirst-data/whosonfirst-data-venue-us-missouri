@@ -2,14 +2,20 @@
   "id": 807097043,
   "type": "Feature",
   "properties": {
+    "addr:full":"7441 N Lindbergh Blvd Hazelwood MO 63042",
+    "addr:housenumber":"7441",
+    "addr:postcode":"63042",
+    "addr:street":"N Lindbergh Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.35336,38.785078,-90.35336,38.785078",
     "geom:latitude":38.785078,
     "geom:longitude":-90.35336,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"7441 N Lindbergh Blvd",
     "sg:city":"Hazelwood",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102086173,
         85688661
     ],
+    "wof:brand_id":1125153969,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1tfTbLk9kHEvVCLQKB4U6I_38.784808_-90.353800@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462603686,
-    "wof:geomhash":"c157449357d9a2adfeae348fe75233fb",
+    "wof:geomhash":"d5b2e105a553d943869a01a012d946d8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":807097043,
-    "wof:lastmodified":1466624512,
+    "wof:lastmodified":1510698944,
     "wof:name":"Imo's Pizza",
     "wof:parent_id":85813019,
     "wof:placetype":"venue",

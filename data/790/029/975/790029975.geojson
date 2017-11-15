@@ -2,6 +2,10 @@
   "id": 790029975,
   "type": "Feature",
   "properties": {
+    "addr:full":"3601 Main St Kansas City MO 64111",
+    "addr:housenumber":"3601",
+    "addr:postcode":"64111",
+    "addr:street":"Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":790029975,
-    "wof:lastmodified":1466623486,
+    "wof:lastmodified":1472630258,
     "wof:name":"ACLU",
     "wof:parent_id":85871993,
     "wof:placetype":"venue",

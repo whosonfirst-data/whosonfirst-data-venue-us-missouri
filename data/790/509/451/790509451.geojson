@@ -2,6 +2,10 @@
   "id": 790509451,
   "type": "Feature",
   "properties": {
+    "addr:full":"3040 W Farm Rd 164 Springfield MO 65807",
+    "addr:housenumber":"3040;164",
+    "addr:postcode":"65807",
+    "addr:street":"W Farm Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":790509451,
-    "wof:lastmodified":1466632672,
+    "wof:lastmodified":1472630856,
     "wof:name":"Atheria",
     "wof:parent_id":85881151,
     "wof:placetype":"venue",

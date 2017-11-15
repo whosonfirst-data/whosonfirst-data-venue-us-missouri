@@ -2,14 +2,20 @@
   "id": 790151461,
   "type": "Feature",
   "properties": {
+    "addr:full":"18820 US Hwy 40 Independence MO 64055",
+    "addr:housenumber":"18820",
+    "addr:postcode":"64055",
+    "addr:street":"Us Hwy 40",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.358911,39.032635,-94.358911,39.032635",
     "geom:latitude":39.032635,
     "geom:longitude":-94.358911,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"18820 US Hwy 40",
     "sg:city":"Independence",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102081227,
         85688661
     ],
+    "wof:brand_id":1125152699,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6LcKkN9sFYcHgK09Kc0zlc_39.032635_-94.358911@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462593515,
-    "wof:geomhash":"0e62de3bb52cc59b2b7be9a4cc291208",
+    "wof:geomhash":"1dd56c4ee924067a0c15605cbd0d667b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":790151461,
-    "wof:lastmodified":1466625358,
+    "wof:lastmodified":1510696808,
     "wof:name":"Bank of America NA",
     "wof:parent_id":85847737,
     "wof:placetype":"venue",

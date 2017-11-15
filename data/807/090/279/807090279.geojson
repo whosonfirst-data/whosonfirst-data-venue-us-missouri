@@ -2,6 +2,10 @@
   "id": 807090279,
   "type": "Feature",
   "properties": {
+    "addr:full":"111 Business Loop 70 E Columbia MO 65203",
+    "addr:housenumber":"111;70 e",
+    "addr:postcode":"65203",
+    "addr:street":"Business Loop",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":807090279,
-    "wof:lastmodified":1466624685,
+    "wof:lastmodified":1472630251,
     "wof:name":"Pizza Hut",
     "wof:parent_id":85835171,
     "wof:placetype":"venue",

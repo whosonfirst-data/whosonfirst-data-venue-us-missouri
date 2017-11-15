@@ -2,6 +2,10 @@
   "id": 789930561,
   "type": "Feature",
   "properties": {
+    "addr:full":"12841 Co Rd 5070 Rolla MO 65401",
+    "addr:housenumber":"12841",
+    "addr:postcode":"5070;65401",
+    "addr:street":"Co Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":789930561,
-    "wof:lastmodified":1466630246,
+    "wof:lastmodified":1472630766,
     "wof:name":"Orville Scheer",
     "wof:parent_id":85814531,
     "wof:placetype":"venue",

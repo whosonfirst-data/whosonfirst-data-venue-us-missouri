@@ -2,14 +2,20 @@
   "id": 806398247,
   "type": "Feature",
   "properties": {
+    "addr:full":"1440 NW Vivion Rd Kansas City MO 64118",
+    "addr:housenumber":"1440",
+    "addr:postcode":"64118",
+    "addr:street":"Nw Vivion Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.599942,39.182459,-94.599942,39.182459",
     "geom:latitude":39.182459,
     "geom:longitude":-94.599942,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1440 NW Vivion Rd",
     "sg:city":"Kansas City",
     "sg:classifiers":[
@@ -40,13 +46,14 @@
         85970477,
         102085271
     ],
+    "wof:brand_id":420574963,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1NTvxRbqCpewvQBhMzrIss_39.182459_-94.599942@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462597822,
-    "wof:geomhash":"5b7000f32918ea1c255a11d910cfd111",
+    "wof:geomhash":"c822e0e4d2de6a362639e8df1fd9b65d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -70,7 +77,7 @@
         }
     ],
     "wof:id":806398247,
-    "wof:lastmodified":1466623463,
+    "wof:lastmodified":1510604160,
     "wof:name":"Wells Fargo Financial Accptnce",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

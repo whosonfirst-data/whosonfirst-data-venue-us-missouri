@@ -2,14 +2,20 @@
   "id": 807099737,
   "type": "Feature",
   "properties": {
+    "addr:full":"117 NW Barry Rd Kansas City MO 64155",
+    "addr:housenumber":"117",
+    "addr:postcode":"64155",
+    "addr:street":"Nw Barry Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.58193,39.246294,-94.58193,39.246294",
     "geom:latitude":39.246294,
     "geom:longitude":-94.58193,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"117 NW Barry Rd",
     "sg:city":"Kansas City",
     "sg:classifiers":[
@@ -40,13 +46,14 @@
         102081227,
         85688661
     ],
+    "wof:brand_id":1125154131,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7AXBKviUTjwZ05nuP459qT_39.246258_-94.582218@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462603719,
-    "wof:geomhash":"66bcf9be9503f5234487f26c61dabdf9",
+    "wof:geomhash":"07e473d1142d5338a6fbf7829c0cb88e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,7 +67,7 @@
         }
     ],
     "wof:id":807099737,
-    "wof:lastmodified":1466624790,
+    "wof:lastmodified":1510699748,
     "wof:name":"Mr. Goodcents Subs & Pasta",
     "wof:parent_id":85821231,
     "wof:placetype":"venue",

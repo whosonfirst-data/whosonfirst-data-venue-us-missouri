@@ -2,9 +2,14 @@
   "id": 186330633,
   "type": "Feature",
   "properties": {
+    "addr:full":"4100 Shaw Blvd Saint Louis MO 63110",
+    "addr:housenumber":"4100",
+    "addr:postcode":"63110",
+    "addr:street":"Shaw Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.250702,38.616199,-90.250702,38.616199",
     "geom:latitude":38.616199,
     "geom:longitude":-90.250702,
@@ -29,11 +34,13 @@
     "sg:website":"www.romapizzaworks.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688661,
+        85873667,
+        102191575,
+        404518053,
         85633793,
         85971343,
         102080791,
-        85873667
+        85688661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +50,10 @@
     "wof:geomhash":"835e2f5ffd3414400fc7ee5140b4ab72",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080791,
+            "localadmin_id":404518053,
             "locality_id":85971343,
             "neighbourhood_id":85873667,
             "region_id":85688661,
@@ -53,7 +61,7 @@
         }
     ],
     "wof:id":186330633,
-    "wof:lastmodified":1466622317,
+    "wof:lastmodified":1491903562,
     "wof:name":"Roma Pizza Works Co",
     "wof:parent_id":85873667,
     "wof:placetype":"venue",

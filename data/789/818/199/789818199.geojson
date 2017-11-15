@@ -2,6 +2,10 @@
   "id": 789818199,
   "type": "Feature",
   "properties": {
+    "addr:full":"10770 Midwest Industrial Blvd St Louis MO 63132",
+    "addr:housenumber":"10770",
+    "addr:postcode":"63132",
+    "addr:street":"Midwest Industrial Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":789818199,
-    "wof:lastmodified":1466627561,
+    "wof:lastmodified":1472630589,
     "wof:name":"Support Surfaces",
     "wof:parent_id":85803699,
     "wof:placetype":"venue",

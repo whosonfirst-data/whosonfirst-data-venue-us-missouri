@@ -2,14 +2,20 @@
   "id": 789817319,
   "type": "Feature",
   "properties": {
+    "addr:full":"1600 S Kingshighway Blvd St Louis MO 63110",
+    "addr:housenumber":"1600",
+    "addr:postcode":"63110",
+    "addr:street":"S Kingshighway Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.266083,38.620367,-90.266083,38.620367",
     "geom:latitude":38.620367,
     "geom:longitude":-90.266083,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1600 S Kingshighway Blvd",
     "sg:city":"St Louis",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102080791,
         85688661
     ],
+    "wof:brand_id":1125153613,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7UecKkzyti6Pm8IREGGyHV_38.620367_-90.266083@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462590768,
-    "wof:geomhash":"b74a6b71f8f7fe20c4b8e9eae571303e",
+    "wof:geomhash":"f32c53cfd67d9f2e2d9f42613320aed8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":789817319,
-    "wof:lastmodified":1466627516,
+    "wof:lastmodified":1510697972,
     "wof:name":"International Brotherhood",
     "wof:parent_id":85873655,
     "wof:placetype":"venue",

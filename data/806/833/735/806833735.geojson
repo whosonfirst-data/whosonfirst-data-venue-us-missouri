@@ -2,14 +2,20 @@
   "id": 806833735,
   "type": "Feature",
   "properties": {
+    "addr:full":"601 E 12 St Kansas City MO 64106",
+    "addr:housenumber":"601;12",
+    "addr:postcode":"64106",
+    "addr:street":"E;St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.575066,39.099647,-94.575066,39.099647",
     "geom:latitude":39.099647,
     "geom:longitude":-94.575066,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"601 E 12 St",
     "sg:city":"Kansas City",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102081227,
         85688661
     ],
+    "wof:brand_id":1125159421,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4qF2dsJhH7W13JRtQl7d1B_39.099647_-94.575066@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462601455,
-    "wof:geomhash":"9716522ea6a311e47334c9c5159470d9",
+    "wof:geomhash":"a0d57ac2f8a96facf6bbfc5e8570d681",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":806833735,
-    "wof:lastmodified":1466633356,
+    "wof:lastmodified":1510613370,
     "wof:name":"US Health & Human Svc Dept",
     "wof:parent_id":85867019,
     "wof:placetype":"venue",

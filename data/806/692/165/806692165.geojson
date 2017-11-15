@@ -2,14 +2,20 @@
   "id": 806692165,
   "type": "Feature",
   "properties": {
+    "addr:full":"1516 SE 11 St Lees Summit MO 64081",
+    "addr:housenumber":"1516;11",
+    "addr:postcode":"64081",
+    "addr:street":"Se",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.337239,38.898784,-94.337239,38.898784",
     "geom:latitude":38.898784,
     "geom:longitude":-94.337239,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1516 SE 11 St",
     "sg:city":"Lees Summit",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102081227,
         85688661
     ],
+    "wof:brand_id":1125155841,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_04wlf5Iakwpt5Zq8qKh6RA_38.898784_-94.337239@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462600274,
-    "wof:geomhash":"959b992b3a6ea12f51a6bf8645636d2e",
+    "wof:geomhash":"5e69a9ed8444d572bb3462bbcedf2318",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":806692165,
-    "wof:lastmodified":1466630673,
+    "wof:lastmodified":1510697488,
     "wof:name":"Sentry Insurance Co",
     "wof:parent_id":85849825,
     "wof:placetype":"venue",

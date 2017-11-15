@@ -2,14 +2,20 @@
   "id": 789641713,
   "type": "Feature",
   "properties": {
+    "addr:full":"3701 NW 63 St Kansas City MO 64151",
+    "addr:housenumber":"3701",
+    "addr:postcode":"64151",
+    "addr:street":"Nw 63 St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.624068,39.208735,-94.624068,39.208735",
     "geom:latitude":39.208735,
     "geom:longitude":-94.624068,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3701 NW 63 St",
     "sg:city":"Kansas City",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102085271,
         85688661
     ],
+    "wof:brand_id":1125156597,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4rOgNLu89IH8n32EKeCD70_39.208735_-94.624068@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462589386,
-    "wof:geomhash":"eb1d4308a833742be2c6393834705889",
+    "wof:geomhash":"93375c1276e4c4f7f948e39f9c03706d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":789641713,
-    "wof:lastmodified":1466623748,
+    "wof:lastmodified":1510694625,
     "wof:name":"Kids Korner",
     "wof:parent_id":420525395,
     "wof:placetype":"venue",

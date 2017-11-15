@@ -2,14 +2,20 @@
   "id": 806881765,
   "type": "Feature",
   "properties": {
+    "addr:full":"2702 Droste Rd St Charles MO 63301",
+    "addr:housenumber":"2702",
+    "addr:postcode":"63301",
+    "addr:street":"Droste Rd St Charles",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.517645,38.792843,-90.517645,38.792843",
     "geom:latitude":38.792843,
     "geom:longitude":-90.517645,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2702 Droste Rd",
     "sg:city":"St Charles",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102086159,
         85821097
     ],
+    "wof:brand_id":420575633,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2u2A6ZOJqcdcanPYeQJzs3_38.792843_-90.517645@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462601869,
-    "wof:geomhash":"b6b3dc38c87ca0d8561057c750d5476f",
+    "wof:geomhash":"9e007548d93f33f3d23c1c00dd06af7f",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":806881765,
-    "wof:lastmodified":1466634300,
+    "wof:lastmodified":1510602548,
     "wof:name":"Convenient Food Mart",
     "wof:parent_id":85821097,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 806674983,
   "type": "Feature",
   "properties": {
+    "addr:full":"953 W Liberty Dr Liberty MO 64068",
+    "addr:housenumber":"953",
+    "addr:postcode":"64068",
+    "addr:street":"W Liberty Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.435388,39.239835,-94.435388,39.239835",
     "geom:latitude":39.239835,
     "geom:longitude":-94.435388,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"953 W Liberty Dr",
     "sg:city":"Liberty",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         85688661,
         420525305
     ],
+    "wof:brand_id":1125159141,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_04ag8QuABjbYfUp5aaEhz1_39.239835_-94.435388@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462600124,
-    "wof:geomhash":"ab01db1b53b1e29ba9cd491521b9af44",
+    "wof:geomhash":"ccc217711b052eb828e9846d0519f56a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -67,7 +74,7 @@
         }
     ],
     "wof:id":806674983,
-    "wof:lastmodified":1466630269,
+    "wof:lastmodified":1510698657,
     "wof:name":"American General Financial Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

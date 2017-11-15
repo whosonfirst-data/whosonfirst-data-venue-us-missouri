@@ -2,14 +2,20 @@
   "id": 807112423,
   "type": "Feature",
   "properties": {
+    "addr:full":"1101 Sulphur Spring Rd Ballwin MO 63021",
+    "addr:housenumber":"1101",
+    "addr:postcode":"63021",
+    "addr:street":"Sulphur Spring Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.524971,38.5721,-90.524971,38.5721",
     "geom:latitude":38.5721,
     "geom:longitude":-90.524971,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1101 Sulphur Spring Rd",
     "sg:city":"Ballwin",
     "sg:classifiers":[
@@ -42,13 +48,14 @@
         102086173,
         85688661
     ],
+    "wof:brand_id":1125155053,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1cn3PfCc9OpYslgQG9fApi_38.572100_-90.524971@1303262925"
     },
     "wof:country":"US",
     "wof:created":1462603865,
-    "wof:geomhash":"c4082131bc9d3b2a79f5d511047fb2d2",
+    "wof:geomhash":"17f45728bfb88740818c362f6c174885",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -62,7 +69,7 @@
         }
     ],
     "wof:id":807112423,
-    "wof:lastmodified":1466625139,
+    "wof:lastmodified":1510694928,
     "wof:name":"St Luke's Episcopal Church",
     "wof:parent_id":85841473,
     "wof:placetype":"venue",

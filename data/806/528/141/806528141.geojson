@@ -2,6 +2,10 @@
   "id": 806528141,
   "type": "Feature",
   "properties": {
+    "addr:full":"8601 E 47 St Kansas City MO 64129",
+    "addr:housenumber":"8601;47",
+    "addr:postcode":"64129",
+    "addr:street":"E;St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":806528141,
-    "wof:lastmodified":1466626040,
+    "wof:lastmodified":1472630349,
     "wof:name":"Chandler Davis",
     "wof:parent_id":85867021,
     "wof:placetype":"venue",

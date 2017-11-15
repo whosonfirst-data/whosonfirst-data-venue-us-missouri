@@ -2,14 +2,20 @@
   "id": 773342357,
   "type": "Feature",
   "properties": {
+    "addr:full":"600 E Battlefield Rd Springfield MO 65807",
+    "addr:housenumber":"600",
+    "addr:postcode":"65807",
+    "addr:street":"E Battlefield Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.289166,37.159926,-93.289166,37.159926",
     "geom:latitude":37.159926,
     "geom:longitude":-93.289166,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"600 E Battlefield Rd",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102087523,
         85688661
     ],
+    "wof:brand_id":1125158655,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1UdAf0aJaNaCYS2LnozDki_37.159926_-93.289166@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462584996,
-    "wof:geomhash":"fcbcb199978fa39aaf53f506fd34fc44",
+    "wof:geomhash":"93074632b3199a298be8b2189409e315",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":773342357,
-    "wof:lastmodified":1466628300,
+    "wof:lastmodified":1510696840,
     "wof:name":"Tony Roma's",
     "wof:parent_id":85881149,
     "wof:placetype":"venue",

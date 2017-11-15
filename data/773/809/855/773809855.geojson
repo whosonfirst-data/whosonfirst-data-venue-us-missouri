@@ -2,14 +2,20 @@
   "id": 773809855,
   "type": "Feature",
   "properties": {
+    "addr:full":"4111 N Cloverleaf Dr St Peters MO 63376",
+    "addr:housenumber":"4111",
+    "addr:postcode":"63376",
+    "addr:street":"N Cloverleaf Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.572869,38.794669,-90.572869,38.794669",
     "geom:latitude":38.794669,
     "geom:longitude":-90.572869,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4111 N Cloverleaf Dr",
     "sg:city":"St Peters",
     "sg:classifiers":[
@@ -42,13 +48,14 @@
         102086159,
         85821097
     ],
+    "wof:brand_id":1125150131,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6pgDtjQme9BydAJSha05BU_38.794669_-90.572869@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462588555,
-    "wof:geomhash":"7011ba63f63dd135873eee842c8354b5",
+    "wof:geomhash":"f417bad03afa73008b8183d886bd94a9",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -60,7 +67,7 @@
         }
     ],
     "wof:id":773809855,
-    "wof:lastmodified":1466635363,
+    "wof:lastmodified":1510696877,
     "wof:name":"Leslies Swimming Pool Supplies",
     "wof:parent_id":85821097,
     "wof:placetype":"venue",

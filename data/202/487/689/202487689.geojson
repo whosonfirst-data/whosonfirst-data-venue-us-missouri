@@ -2,14 +2,20 @@
   "id": 202487689,
   "type": "Feature",
   "properties": {
+    "addr:full":"2711 Oklahoma Ave Trenton MO 64683",
+    "addr:housenumber":"2711",
+    "addr:postcode":"64683",
+    "addr:street":"Oklahoma Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.603904,40.089157,-93.603904,40.089157",
     "geom:latitude":40.089157,
     "geom:longitude":-93.603904,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2711 Oklahoma Ave",
     "sg:city":"Trenton",
     "sg:classifiers":[
@@ -34,12 +40,13 @@
         85971667,
         102080789
     ],
+    "wof:brand_id":1125154515,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6r6vuTNlDzD6bygUlo0Cn4_40.089157_-93.603904@1303262934"
     },
     "wof:country":"US",
-    "wof:geomhash":"0900dd4f807ad8404e95b7802bb82edf",
+    "wof:geomhash":"d2517c7b089f4e163d328c370946ee0c",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":202487689,
-    "wof:lastmodified":1466622190,
+    "wof:lastmodified":1510693956,
     "wof:name":"Casey's Carry Out Pizza",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

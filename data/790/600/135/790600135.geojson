@@ -2,14 +2,20 @@
   "id": 790600135,
   "type": "Feature",
   "properties": {
+    "addr:full":"561 SE Melody Ln Lees Summit MO 64063",
+    "addr:housenumber":"561",
+    "addr:postcode":"64063",
+    "addr:street":"Se Melody Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.362372,38.90765,-94.362372,38.90765",
     "geom:latitude":38.90765,
     "geom:longitude":-94.362372,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"561 SE Melody Ln",
     "sg:city":"Lees Summit",
     "sg:classifiers":[
@@ -43,13 +49,14 @@
         102081227,
         85688661
     ],
+    "wof:brand_id":420573815,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7dy17CCNLuOgjRLa7iYRKv_38.907650_-94.362372@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462597227,
-    "wof:geomhash":"3c7f06200127029eff393602223a05a8",
+    "wof:geomhash":"43ab8f041cd772723857082bba81238c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -63,7 +70,7 @@
         }
     ],
     "wof:id":790600135,
-    "wof:lastmodified":1466634149,
+    "wof:lastmodified":1510603433,
     "wof:name":"Rent-A-Center",
     "wof:parent_id":85849825,
     "wof:placetype":"venue",

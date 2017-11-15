@@ -2,6 +2,10 @@
   "id": 806535731,
   "type": "Feature",
   "properties": {
+    "addr:full":"8201 E 87 St Kansas City MO 64138",
+    "addr:housenumber":"8201;87",
+    "addr:postcode":"64138",
+    "addr:street":"E;St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":806535731,
-    "wof:lastmodified":1466626422,
+    "wof:lastmodified":1472630382,
     "wof:name":"Bannister Veterinary Clinic",
     "wof:parent_id":85871963,
     "wof:placetype":"venue",

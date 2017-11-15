@@ -2,14 +2,20 @@
   "id": 806526805,
   "type": "Feature",
   "properties": {
+    "addr:full":"12865 Olive Blvd Creve Coeur MO 63141",
+    "addr:housenumber":"12865",
+    "addr:postcode":"63141",
+    "addr:street":"Olive Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.476697,38.681197,-90.476697,38.681197",
     "geom:latitude":38.681197,
     "geom:longitude":-90.476697,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"12865 Olive Blvd",
     "sg:city":"Creve Coeur",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102086173,
         85688661
     ],
+    "wof:brand_id":1125152033,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_32udIT85kcGg63SQcKvnRC_38.681197_-90.476697@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462598842,
-    "wof:geomhash":"b2ac286adad8ba52062df6dbfb1c8f74",
+    "wof:geomhash":"a667ef63856ae5aadc1b5193fd2003b7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":806526805,
-    "wof:lastmodified":1466626315,
+    "wof:lastmodified":1510694992,
     "wof:name":"Donut King",
     "wof:parent_id":85805719,
     "wof:placetype":"venue",

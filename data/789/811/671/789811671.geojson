@@ -2,14 +2,20 @@
   "id": 789811671,
   "type": "Feature",
   "properties": {
+    "addr:full":"20 Corporate Woods Dr Bridgeton MO 63044",
+    "addr:housenumber":"20",
+    "addr:postcode":"63044",
+    "addr:street":"Corporate Woods Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.459948,38.788591,-90.459948,38.788591",
     "geom:latitude":38.788591,
     "geom:longitude":-90.459948,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"20 Corporate Woods Dr",
     "sg:city":"Bridgeton",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102086173,
         85806637
     ],
+    "wof:brand_id":1125157281,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0DogKkairilvMXCYbPmlPO_38.788591_-90.459948@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462590729,
-    "wof:geomhash":"c2502f13ecfc9539c059ecba16e23525",
+    "wof:geomhash":"3a7ac1a252676a9936a6c351e930fbbe",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":789811671,
-    "wof:lastmodified":1466627605,
+    "wof:lastmodified":1510696752,
     "wof:name":"Trane Co",
     "wof:parent_id":85806637,
     "wof:placetype":"venue",

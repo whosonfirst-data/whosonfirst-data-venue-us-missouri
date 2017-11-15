@@ -2,9 +2,14 @@
   "id": 169642895,
   "type": "Feature",
   "properties": {
+    "addr:full":"4510 State Line Rd Kansas City KS 66103",
+    "addr:housenumber":"4510",
+    "addr:postcode":"66103",
+    "addr:street":"State Line Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.607445,39.044825,-94.607445,39.044825",
     "geom:latitude":39.044825,
     "geom:longitude":-94.607445,
@@ -30,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688661,
+        85871977,
+        102191575,
+        404518075,
         85633793,
         85970739,
         102081227,
-        85871977
+        85688661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,9 +51,10 @@
     "wof:geomhash":"cbbe21e6a58234966689aff2ecc99f5a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081227,
+            "localadmin_id":404518075,
             "locality_id":85970739,
             "neighbourhood_id":85871977,
             "region_id":85688661,
@@ -54,7 +62,7 @@
         }
     ],
     "wof:id":169642895,
-    "wof:lastmodified":1466622381,
+    "wof:lastmodified":1491908962,
     "wof:name":"State Line Antique Mall",
     "wof:parent_id":85871977,
     "wof:placetype":"venue",

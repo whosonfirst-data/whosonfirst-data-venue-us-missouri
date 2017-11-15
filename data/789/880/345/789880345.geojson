@@ -2,6 +2,10 @@
   "id": 789880345,
   "type": "Feature",
   "properties": {
+    "addr:full":"2015 E 72 St Kansas City MO 64132",
+    "addr:housenumber":"2015;72",
+    "addr:postcode":"64132",
+    "addr:street":"E;St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -64,7 +68,7 @@
         }
     ],
     "wof:id":789880345,
-    "wof:lastmodified":1466629267,
+    "wof:lastmodified":1472630715,
     "wof:name":"Elite Catering Co",
     "wof:parent_id":85854229,
     "wof:placetype":"venue",

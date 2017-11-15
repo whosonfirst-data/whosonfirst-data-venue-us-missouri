@@ -2,14 +2,20 @@
   "id": 806631553,
   "type": "Feature",
   "properties": {
+    "addr:full":"100 N Main St O Fallon MO 63366",
+    "addr:housenumber":"100",
+    "addr:postcode":"63366",
+    "addr:street":"N Main St O",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.699799,38.812154,-90.699799,38.812154",
     "geom:latitude":38.812154,
     "geom:longitude":-90.699799,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"100 N Main St",
     "sg:city":"O Fallon",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102086159,
         85821097
     ],
+    "wof:brand_id":1125151211,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1WSu0dztOfkycdIxXCrj0q_38.812154_-90.699799@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462599751,
-    "wof:geomhash":"31b783489d6e5604aeb24f9d0fc67108",
+    "wof:geomhash":"e4b6787bd15ac4e1caa6506c3f4cc65e",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":806631553,
-    "wof:lastmodified":1466629026,
+    "wof:lastmodified":1510697573,
     "wof:name":"Charter Communications",
     "wof:parent_id":85821097,
     "wof:placetype":"venue",

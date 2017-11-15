@@ -2,14 +2,20 @@
   "id": 773300623,
   "type": "Feature",
   "properties": {
+    "addr:full":"1023 Executive Parkway Dr St Louis MO 63141",
+    "addr:housenumber":"1023",
+    "addr:postcode":"63141",
+    "addr:street":"Executive Parkway Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.472453,38.675873,-90.472453,38.675873",
     "geom:latitude":38.675873,
     "geom:longitude":-90.472453,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1023 Executive Parkway Dr",
     "sg:city":"St Louis",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102086173,
         85688661
     ],
+    "wof:brand_id":1125153619,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2J9c0KyJHVymTqpfvyitUj_38.675873_-90.472453@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462584688,
-    "wof:geomhash":"224e2785d65baa77e97be35899e321d6",
+    "wof:geomhash":"2042645c6045473665138cd5f314c426",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":773300623,
-    "wof:lastmodified":1466627364,
+    "wof:lastmodified":1510697974,
     "wof:name":"Kansas City Life Insurance Co",
     "wof:parent_id":85805719,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 806962143,
   "type": "Feature",
   "properties": {
+    "addr:full":"2035 E Bennett St Springfield MO 65804",
+    "addr:housenumber":"2035",
+    "addr:postcode":"65804",
+    "addr:street":"E Bennett St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.256669,37.188815,-93.256669,37.188815",
     "geom:latitude":37.188815,
     "geom:longitude":-93.256669,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2035 E Bennett St",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102087523,
         85688661
     ],
+    "wof:brand_id":1125150607,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1RXgydAnzTE2nET4ateVi9_37.188815_-93.256669@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462602542,
-    "wof:geomhash":"81a7c928d5974b92ead79a83453b75aa",
+    "wof:geomhash":"40893d769523df58fd01ecd243397715",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":806962143,
-    "wof:lastmodified":1466635442,
+    "wof:lastmodified":1510697768,
     "wof:name":"Kraft Foods",
     "wof:parent_id":85829759,
     "wof:placetype":"venue",

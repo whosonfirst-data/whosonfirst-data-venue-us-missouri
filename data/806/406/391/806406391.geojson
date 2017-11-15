@@ -2,14 +2,20 @@
   "id": 806406391,
   "type": "Feature",
   "properties": {
+    "addr:full":"300 S Bridge St Smithville MO 64089",
+    "addr:housenumber":"300",
+    "addr:postcode":"64089",
+    "addr:street":"S Bridge St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.580935,39.385341,-94.580935,39.385341",
     "geom:latitude":39.385341,
     "geom:longitude":-94.580935,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"300 S Bridge St",
     "sg:city":"Smithville",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102086177,
         85836329
     ],
+    "wof:brand_id":1125151215,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6dVva3EYoL5JXeCTrU3c8s_39.385341_-94.580935@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462597885,
-    "wof:geomhash":"aab0b3e963803546678a27240d37c94e",
+    "wof:geomhash":"f6b442d1d13d067c449e9da3b49d3ebc",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":806406391,
-    "wof:lastmodified":1466622768,
+    "wof:lastmodified":1510697568,
     "wof:name":"First Baptist Church Inc",
     "wof:parent_id":85836329,
     "wof:placetype":"venue",

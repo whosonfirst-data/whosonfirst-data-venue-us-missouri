@@ -2,14 +2,20 @@
   "id": 773817827,
   "type": "Feature",
   "properties": {
+    "addr:full":"10744 Sunset Hills Plz St Louis MO 63127",
+    "addr:housenumber":"10744",
+    "addr:postcode":"63127",
+    "addr:street":"Sunset Hills Plz",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.407491,38.554406,-90.407491,38.554406",
     "geom:latitude":38.554406,
     "geom:longitude":-90.407491,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"10744 Sunset Hills Plz",
     "sg:city":"St Louis",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102086173,
         85688661
     ],
+    "wof:brand_id":420575493,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3cd9fQxTa0w3fSDZ5NTiMU_38.554406_-90.407491@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462588614,
-    "wof:geomhash":"90177ab09c7c55d2a7f9d61e61e5fe65",
+    "wof:geomhash":"2ce59aaaf4b37122a655b6b11da36113",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":773817827,
-    "wof:lastmodified":1466635284,
+    "wof:lastmodified":1510601947,
     "wof:name":"Jenny Craig Weight Loss Ctr",
     "wof:parent_id":85858243,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 790212845,
   "type": "Feature",
   "properties": {
+    "addr:full":"1601 Larkin Williams Rd Fenton MO 63026",
+    "addr:housenumber":"1601",
+    "addr:postcode":"63026",
+    "addr:street":"Larkin Williams Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.453813,38.536259,-90.453813,38.536259",
     "geom:latitude":38.536259,
     "geom:longitude":-90.453813,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1601 Larkin Williams Rd",
     "sg:city":"Fenton",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102086173,
         85688661
     ],
+    "wof:brand_id":1125157711,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_07GK6sTJAEXRMkw0ZZcJmQ_38.536259_-90.453813@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462594046,
-    "wof:geomhash":"425ad839e224968efc49b81c8e8efcb4",
+    "wof:geomhash":"327db0ba4566d4c227a0ae43527adbfd",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":790212845,
-    "wof:lastmodified":1466626736,
+    "wof:lastmodified":1510695039,
     "wof:name":"R & R Enterprises",
     "wof:parent_id":85858661,
     "wof:placetype":"venue",

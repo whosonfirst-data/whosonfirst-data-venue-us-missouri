@@ -2,14 +2,20 @@
   "id": 807310043,
   "type": "Feature",
   "properties": {
+    "addr:full":"3500S S Glenstone Ave Springfield MO 65804",
+    "addr:housenumber":"",
+    "addr:postcode":"65804",
+    "addr:street":"3500S S Glenstone Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.257698,37.15099,-93.257698,37.15099",
     "geom:latitude":37.15099,
     "geom:longitude":-93.257698,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3500S S Glenstone Ave",
     "sg:city":"Springfield",
     "sg:classifiers":[],
@@ -28,13 +34,14 @@
         102087523,
         85688661
     ],
+    "wof:brand_id":1125151661,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4cxQDQXrGYrIqxsuGl6cIZ_37.150990_-93.257698@1303262938"
     },
     "wof:country":"US",
     "wof:created":1462605958,
-    "wof:geomhash":"dd188b66d6a1b343d899b7225ea16f81",
+    "wof:geomhash":"ac400428ba7916e26446231fa9b634b5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":807310043,
-    "wof:lastmodified":1466631139,
+    "wof:lastmodified":1510613280,
     "wof:name":"PetSmart",
     "wof:parent_id":85881149,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 807104037,
   "type": "Feature",
   "properties": {
+    "addr:full":"3838 Jeffco Blvd Ste 17 Arnold MO 63010",
+    "addr:housenumber":"3838;17",
+    "addr:postcode":"63010",
+    "addr:street":"Jeffco Blvd Ste",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":807104037,
-    "wof:lastmodified":1466624860,
+    "wof:lastmodified":1472630425,
     "wof:name":"American Insurance Alliance",
     "wof:parent_id":85805175,
     "wof:placetype":"venue",

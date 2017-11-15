@@ -2,6 +2,10 @@
   "id": 790032565,
   "type": "Feature",
   "properties": {
+    "addr:full":"10808 E 20 St S Independence MO 64052",
+    "addr:housenumber":"10808;20",
+    "addr:postcode":"64052",
+    "addr:street":"E;St S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":790032565,
-    "wof:lastmodified":1466622538,
+    "wof:lastmodified":1472630278,
     "wof:name":"Bryan Chiropractic Ctr",
     "wof:parent_id":85818127,
     "wof:placetype":"venue",

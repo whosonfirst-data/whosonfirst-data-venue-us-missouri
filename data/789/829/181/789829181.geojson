@@ -2,14 +2,20 @@
   "id": 789829181,
   "type": "Feature",
   "properties": {
+    "addr:full":"16218 US Hwy 24 Independence MO 64056",
+    "addr:housenumber":"16218",
+    "addr:postcode":"64056",
+    "addr:street":"Us Hwy 24",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.379355,39.118445,-94.379355,39.118445",
     "geom:latitude":39.118445,
     "geom:longitude":-94.379355,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"16218 US Hwy 24",
     "sg:city":"Independence",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102081227,
         85844675
     ],
+    "wof:brand_id":1125150189,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_75fUYereohouubDs2ZK80R_39.118445_-94.379355@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462590865,
-    "wof:geomhash":"0ce9abede33df880b6f662527397376a",
+    "wof:geomhash":"170cb52072e35300eefc795d2da2047b",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":789829181,
-    "wof:lastmodified":1466627862,
+    "wof:lastmodified":1510697305,
     "wof:name":"Quik Cash",
     "wof:parent_id":85844675,
     "wof:placetype":"venue",

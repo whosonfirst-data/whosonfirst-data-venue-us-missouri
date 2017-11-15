@@ -2,14 +2,20 @@
   "id": 807056023,
   "type": "Feature",
   "properties": {
+    "addr:full":"107 E Washington St Kearney MO 64060",
+    "addr:housenumber":"107",
+    "addr:postcode":"64060",
+    "addr:street":"E Washington St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.362269,39.372887,-94.362269,39.372887",
     "geom:latitude":39.372887,
     "geom:longitude":-94.362269,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"107 E Washington St",
     "sg:city":"Kearney",
     "sg:classifiers":[],
@@ -28,13 +34,14 @@
         102086177,
         85812855
     ],
+    "wof:brand_id":420575037,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7KZ5b9P2gluTe5FJPOiXFy_39.372887_-94.362269@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462603334,
-    "wof:geomhash":"79297a12292ce0852a811c257452081f",
+    "wof:geomhash":"6eb98f70e5808a337eec7f514a46ca80",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -46,7 +53,7 @@
         }
     ],
     "wof:id":807056023,
-    "wof:lastmodified":1466623887,
+    "wof:lastmodified":1510602957,
     "wof:name":"Ferrellgas",
     "wof:parent_id":85812855,
     "wof:placetype":"venue",

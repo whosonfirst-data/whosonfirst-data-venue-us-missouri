@@ -2,14 +2,20 @@
   "id": 807068069,
   "type": "Feature",
   "properties": {
+    "addr:full":"12101 Manchester Rd Saint Louis MO 63131",
+    "addr:housenumber":"12101",
+    "addr:postcode":"63131",
+    "addr:street":"Manchester Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.43828,38.603308,-90.43828,38.603308",
     "geom:latitude":38.603308,
     "geom:longitude":-90.43828,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"12101 Manchester Rd",
     "sg:city":"Saint Louis",
     "sg:classifiers":[
@@ -39,13 +45,14 @@
         102086173,
         85688661
     ],
+    "wof:brand_id":1125150283,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3zJKtWLRnqwq7RE8VqjYKi_38.603308_-90.438280@1299784598"
     },
     "wof:country":"US",
     "wof:created":1462603430,
-    "wof:geomhash":"357ddf9aaca364ae9f5a3f88cd7f0bf7",
+    "wof:geomhash":"18785c769d406da5df93181b3b611578",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,7 +66,7 @@
         }
     ],
     "wof:id":807068069,
-    "wof:lastmodified":1466624139,
+    "wof:lastmodified":1510695362,
     "wof:name":"Mcalister's Deli",
     "wof:parent_id":85867981,
     "wof:placetype":"venue",

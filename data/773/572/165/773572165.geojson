@@ -2,14 +2,20 @@
   "id": 773572165,
   "type": "Feature",
   "properties": {
+    "addr:full":"10801 State Hwy 350 Raytown MO 64138",
+    "addr:housenumber":"10801",
+    "addr:postcode":"64138",
+    "addr:street":"State Hwy 350",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.45704,38.981026,-94.45704,38.981026",
     "geom:latitude":38.981026,
     "geom:longitude":-94.45704,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"10801 State Hwy 350",
     "sg:city":"Raytown",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102081227,
         85688661
     ],
+    "wof:brand_id":420574911,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0HNZL4miTEcPOhg5lP3dGt_38.981026_-94.457040@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462586738,
-    "wof:geomhash":"71b8039e6053d493b001920780921f98",
+    "wof:geomhash":"c9dd36e7aac7426e19027c8dd53b3de7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":773572165,
-    "wof:lastmodified":1466632817,
+    "wof:lastmodified":1510604579,
     "wof:name":"First American Title Ins Co",
     "wof:parent_id":85871965,
     "wof:placetype":"venue",

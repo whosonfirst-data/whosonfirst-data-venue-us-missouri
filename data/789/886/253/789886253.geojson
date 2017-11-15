@@ -2,14 +2,20 @@
   "id": 789886253,
   "type": "Feature",
   "properties": {
+    "addr:full":"3630 E Front St Kansas City MO 64120",
+    "addr:housenumber":"3630",
+    "addr:postcode":"64120",
+    "addr:street":"E Front St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.536519,39.131264,-94.536519,39.131264",
     "geom:latitude":39.131264,
     "geom:longitude":-94.536519,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3630 E Front St",
     "sg:city":"Kansas City",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102081227,
         85688661
     ],
+    "wof:brand_id":420575943,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_09lJfIIc3P43KNsne5gLgh_39.131264_-94.536519@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462591340,
-    "wof:geomhash":"ac12f4b0cba3ab5c6f81b6f03443d536",
+    "wof:geomhash":"e32270fd7e12db2a70a1f4137946acc6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":789886253,
-    "wof:lastmodified":1466629417,
+    "wof:lastmodified":1510602677,
     "wof:name":"Sears Roebuck and Co Inc",
     "wof:parent_id":85872001,
     "wof:placetype":"venue",

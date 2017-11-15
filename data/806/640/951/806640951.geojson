@@ -2,14 +2,20 @@
   "id": 806640951,
   "type": "Feature",
   "properties": {
+    "addr:full":"152 Jamestown Mall Florissant MO 63034",
+    "addr:housenumber":"152",
+    "addr:postcode":"63034",
+    "addr:street":"Jamestown Mall",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.249461,38.821168,-90.249461,38.821168",
     "geom:latitude":38.821168,
     "geom:longitude":-90.249461,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"152 Jamestown Mall",
     "sg:city":"Florissant",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102086173,
         85688661
     ],
+    "wof:brand_id":1125157353,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6jdyThYbgag593uZPofgnx_38.821168_-90.249461@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462599822,
-    "wof:geomhash":"998c9818434301b9d92b000cb810d49f",
+    "wof:geomhash":"68aadc77a2d2e13c0eee3c35a9767f46",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":806640951,
-    "wof:lastmodified":1466629257,
+    "wof:lastmodified":1510694854,
     "wof:name":"Charley's Steakery",
     "wof:parent_id":85813019,
     "wof:placetype":"venue",

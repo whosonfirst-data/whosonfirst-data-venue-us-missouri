@@ -2,14 +2,20 @@
   "id": 773683429,
   "type": "Feature",
   "properties": {
+    "addr:full":"42 Northland Shopping Center St Louis MO 63136",
+    "addr:housenumber":"42",
+    "addr:postcode":"63136",
+    "addr:street":"Shopping Center",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.272748,38.726898,-90.272748,38.726898",
     "geom:latitude":38.726898,
     "geom:longitude":-90.272748,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"42 Northland Shopping Center",
     "sg:city":"St Louis",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102086173,
         85688661
     ],
+    "wof:brand_id":1125150085,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2PTAz1wn8VRIQCZQzzX5qA_38.726898_-90.272748@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462587566,
-    "wof:geomhash":"c62a00dc0fc261557f86e7652187ad5b",
+    "wof:geomhash":"05c698188bd38bfd1c769c05acef4dab",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":773683429,
-    "wof:lastmodified":1466634387,
+    "wof:lastmodified":1510696021,
     "wof:name":"Fashion Cents",
     "wof:parent_id":85859027,
     "wof:placetype":"venue",

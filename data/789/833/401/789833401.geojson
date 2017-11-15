@@ -2,6 +2,10 @@
   "id": 789833401,
   "type": "Feature",
   "properties": {
+    "addr:full":"10818 E 79 St Raytown MO 64138",
+    "addr:housenumber":"10818;79",
+    "addr:postcode":"64138",
+    "addr:street":"E;St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":789833401,
-    "wof:lastmodified":1466628080,
+    "wof:lastmodified":1472630651,
     "wof:name":"WYNN Twins School Of Dance",
     "wof:parent_id":85871965,
     "wof:placetype":"venue",

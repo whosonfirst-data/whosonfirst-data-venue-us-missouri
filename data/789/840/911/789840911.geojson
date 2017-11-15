@@ -2,14 +2,20 @@
   "id": 789840911,
   "type": "Feature",
   "properties": {
+    "addr:full":"2670 N US Hwy 67 Florissant MO 63033",
+    "addr:housenumber":"2670",
+    "addr:postcode":"63033",
+    "addr:street":"N Us Hwy 67",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.305749,38.805302,-90.305749,38.805302",
     "geom:latitude":38.805302,
     "geom:longitude":-90.305749,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2670 N US Hwy 67",
     "sg:city":"Florissant",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102086173,
         85688661
     ],
+    "wof:brand_id":1125151375,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4jduSrKwTIZ3VPNAR19VZs_38.805302_-90.305749@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462590953,
-    "wof:geomhash":"cb04dd8607702861db013ebc9abd2982",
+    "wof:geomhash":"5d3d57903985003e255ec49a70ecec7e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":789840911,
-    "wof:lastmodified":1466628289,
+    "wof:lastmodified":1510695794,
     "wof:name":"Land America Commonwealth",
     "wof:parent_id":85813019,
     "wof:placetype":"venue",

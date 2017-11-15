@@ -2,6 +2,10 @@
   "id": 806638145,
   "type": "Feature",
   "properties": {
+    "addr:full":"12345 Co Rd 2170 Rolla MO 65401",
+    "addr:housenumber":"12345",
+    "addr:postcode":"2170;65401",
+    "addr:street":"Co Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":806638145,
-    "wof:lastmodified":1466628953,
+    "wof:lastmodified":1472630494,
     "wof:name":"Rolla Auto Salvage",
     "wof:parent_id":85814531,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 773095859,
   "type": "Feature",
   "properties": {
+    "addr:full":"3230 Wisconsin Ave Joplin MO 64804",
+    "addr:housenumber":"3230",
+    "addr:postcode":"64804",
+    "addr:street":"Wisconsin Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.502661,37.054463,-94.502661,37.054463",
     "geom:latitude":37.054463,
     "geom:longitude":-94.502661,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3230 Wisconsin Ave",
     "sg:city":"Joplin",
     "sg:classifiers":[
@@ -50,13 +56,14 @@
         102087525,
         85688661
     ],
+    "wof:brand_id":1125150601,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5u1YkH61pOsaAd1cuo0QWx_37.054463_-94.502661@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462583121,
-    "wof:geomhash":"dd7df3050be584f0f0a1e728b04b5048",
+    "wof:geomhash":"20f76701516a16cc3b27161d94002f51",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -70,7 +77,7 @@
         }
     ],
     "wof:id":773095859,
-    "wof:lastmodified":1466623397,
+    "wof:lastmodified":1510697772,
     "wof:name":"Apria Healthcare Inc",
     "wof:parent_id":420525385,
     "wof:placetype":"venue",

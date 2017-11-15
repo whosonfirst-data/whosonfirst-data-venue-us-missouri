@@ -2,14 +2,20 @@
   "id": 806361433,
   "type": "Feature",
   "properties": {
+    "addr:full":"12444 Powerscourt Dr St Louis MO 63131",
+    "addr:housenumber":"",
+    "addr:postcode":"12444;63131",
+    "addr:street":"Powerscourt Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.450127,38.607053,-90.450127,38.607053",
     "geom:latitude":38.607053,
     "geom:longitude":-90.450127,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"12444 Powerscourt Dr",
     "sg:city":"St Louis",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102086173,
         85688661
     ],
+    "wof:brand_id":1125158461,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2LFpeB4v5evWZWBql2mMVP_38.607053_-90.450127@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462597517,
-    "wof:geomhash":"7390e1f171a95e94b621a501b9d5e9f4",
+    "wof:geomhash":"9ea48cd72152975f9ef949f94192098d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":806361433,
-    "wof:lastmodified":1466622473,
+    "wof:lastmodified":1510613247,
     "wof:name":"Broadwing Communications",
     "wof:parent_id":85867981,
     "wof:placetype":"venue",

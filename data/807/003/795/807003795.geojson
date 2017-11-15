@@ -2,6 +2,10 @@
   "id": 807003795,
   "type": "Feature",
   "properties": {
+    "addr:full":"7551 Co Rd 225 Monroe City MO 63456",
+    "addr:housenumber":"7551;225",
+    "addr:postcode":"63456",
+    "addr:street":"Co Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":807003795,
-    "wof:lastmodified":1466622286,
+    "wof:lastmodified":1472630191,
     "wof:name":"David Moss",
     "wof:parent_id":85867477,
     "wof:placetype":"venue",

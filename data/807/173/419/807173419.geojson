@@ -2,14 +2,20 @@
   "id": 807173419,
   "type": "Feature",
   "properties": {
+    "addr:full":"7119 Saint Charles Rock Rd Saint Louis MO 63133",
+    "addr:housenumber":"7119",
+    "addr:postcode":"63133",
+    "addr:street":"Saint Charles Rock Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.304588,38.68563,-90.304588,38.68563",
     "geom:latitude":38.68563,
     "geom:longitude":-90.304588,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"7119 Saint Charles Rock Rd",
     "sg:city":"Saint Louis",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102086173,
         85688661
     ],
+    "wof:brand_id":1125151249,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1m7m7x7KuhrN4evZ7EaA3p_38.685630_-90.304588@1303262930"
     },
     "wof:country":"US",
     "wof:created":1462604520,
-    "wof:geomhash":"e3605c68033e4b535eb6b99d8d8b7c65",
+    "wof:geomhash":"84f4b1b8ba3e33b0dd7cf33524bf839b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":807173419,
-    "wof:lastmodified":1466627134,
+    "wof:lastmodified":1510697265,
     "wof:name":"Angel Nails",
     "wof:parent_id":85803359,
     "wof:placetype":"venue",

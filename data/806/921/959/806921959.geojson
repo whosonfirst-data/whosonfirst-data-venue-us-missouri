@@ -2,14 +2,20 @@
   "id": 806921959,
   "type": "Feature",
   "properties": {
+    "addr:full":"2825 S Glenstone Ave Springfield MO 65804",
+    "addr:housenumber":"2825",
+    "addr:postcode":"65804",
+    "addr:street":"S Glenstone Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.262649,37.160053,-93.262649,37.160053",
     "geom:latitude":37.160053,
     "geom:longitude":-93.262649,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2825 S Glenstone Ave",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087523,
         85688661
     ],
+    "wof:brand_id":1125152935,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2eL01BoWfaXqSBo6REIDFm_37.160053_-93.262649@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462602205,
-    "wof:geomhash":"103d4b4a008243ee1b0b6fb892ed51a2",
+    "wof:geomhash":"a1544e1afeb3f28f7c39b7c59c68b70f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":806921959,
-    "wof:lastmodified":1466634924,
+    "wof:lastmodified":1510697464,
     "wof:name":"Childrens Place The",
     "wof:parent_id":85881149,
     "wof:placetype":"venue",

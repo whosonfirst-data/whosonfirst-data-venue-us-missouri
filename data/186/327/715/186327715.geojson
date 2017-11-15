@@ -2,9 +2,14 @@
   "id": 186327715,
   "type": "Feature",
   "properties": {
+    "addr:full":"3660 Vista Ave Saint Louis MO 63110",
+    "addr:housenumber":"3660",
+    "addr:postcode":"63110",
+    "addr:street":"Vista Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.239799,38.622501,-90.239799,38.622501",
     "geom:latitude":38.622501,
     "geom:longitude":-90.239799,
@@ -25,11 +30,13 @@
     "sg:province":"MO",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688661,
+        85873659,
+        102191575,
+        404518053,
         85633793,
         85971343,
         102080791,
-        85873659
+        85688661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,9 +46,10 @@
     "wof:geomhash":"7781c9d5408cc6b0cd372396173a1d91",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080791,
+            "localadmin_id":404518053,
             "locality_id":85971343,
             "neighbourhood_id":85873659,
             "region_id":85688661,
@@ -49,7 +57,7 @@
         }
     ],
     "wof:id":186327715,
-    "wof:lastmodified":1466622317,
+    "wof:lastmodified":1491909513,
     "wof:name":"Hayat Ghazala MD",
     "wof:parent_id":85873659,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 790528137,
   "type": "Feature",
   "properties": {
+    "addr:full":"600 W 67 Ter Kansas City MO 64113",
+    "addr:housenumber":"600",
+    "addr:postcode":"64113",
+    "addr:street":"W 67 Ter",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.59912,39.006589,-94.59912,39.006589",
     "geom:latitude":39.006589,
     "geom:longitude":-94.59912,
@@ -27,11 +32,17 @@
     "wof:belongsto":[
         85871973,
         102191575,
-        404518075,
+        404504399,
         85633793,
+        85945757,
+        102082673,
+        85688555,
+        85854229,
+        404518075,
         85970739,
         102081227,
-        85688661
+        85688661,
+        85872031
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,18 +55,38 @@
         {
             "continent_id":102191575,
             "country_id":85633793,
+            "county_id":102082673,
+            "localadmin_id":404504399,
+            "locality_id":85945757,
+            "neighbourhood_id":85871973,
+            "region_id":85688555,
+            "venue_id":790528137
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
             "county_id":102081227,
             "localadmin_id":404518075,
             "locality_id":85970739,
-            "neighbourhood_id":85871973,
+            "neighbourhood_id":85854229,
+            "region_id":85688661,
+            "venue_id":790528137
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081227,
+            "localadmin_id":404518075,
+            "locality_id":85970739,
+            "neighbourhood_id":85872031,
             "region_id":85688661,
             "venue_id":790528137
         }
     ],
     "wof:id":790528137,
-    "wof:lastmodified":1466632831,
+    "wof:lastmodified":1491926580,
     "wof:name":"Re/Max First Realtors",
-    "wof:parent_id":85871973,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],

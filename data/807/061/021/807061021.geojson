@@ -2,14 +2,20 @@
   "id": 807061021,
   "type": "Feature",
   "properties": {
+    "addr:full":"1176 E Gannon Dr Festus MO 63028",
+    "addr:housenumber":"1176",
+    "addr:postcode":"63028",
+    "addr:street":"E Gannon Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.400351,38.211339,-90.400351,38.211339",
     "geom:latitude":38.211339,
     "geom:longitude":-90.400351,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1176 E Gannon Dr",
     "sg:city":"Festus",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102080787,
         85688661
     ],
+    "wof:brand_id":1125153969,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1c5cH5VIHaptLgBqWFvzi6_38.211339_-90.400351@1299784598"
     },
     "wof:country":"US",
     "wof:created":1462603378,
-    "wof:geomhash":"604b0ae3ce1d1f12d710ed37b2c687fd",
+    "wof:geomhash":"e85385fb095567fc53ab40af7b14eaf1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":807061021,
-    "wof:lastmodified":1466624000,
+    "wof:lastmodified":1510698944,
     "wof:name":"Imo's Pizza",
     "wof:parent_id":420525375,
     "wof:placetype":"venue",

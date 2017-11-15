@@ -2,14 +2,20 @@
   "id": 789913779,
   "type": "Feature",
   "properties": {
+    "addr:full":"3843 Mexico Rd St Charles MO 63303",
+    "addr:housenumber":"3843",
+    "addr:postcode":"63303",
+    "addr:street":"Mexico Rd St Charles",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.563855,38.791071,-90.563855,38.791071",
     "geom:latitude":38.791071,
     "geom:longitude":-90.563855,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3843 Mexico Rd",
     "sg:city":"St Charles",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102086159,
         85821097
     ],
+    "wof:brand_id":1125152655,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1dmo9SB3mWxxAOBoZL4koH_38.791071_-90.563855@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462591571,
-    "wof:geomhash":"99b509202359749009591af38cfc6d42",
+    "wof:geomhash":"5aa19b27a5c8557c80f450a46e2538a3",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":789913779,
-    "wof:lastmodified":1466630047,
+    "wof:lastmodified":1510698889,
     "wof:name":"Great Harvest Bread Co",
     "wof:parent_id":85821097,
     "wof:placetype":"venue",

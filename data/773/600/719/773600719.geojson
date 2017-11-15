@@ -2,14 +2,20 @@
   "id": 773600719,
   "type": "Feature",
   "properties": {
+    "addr:full":"10760 Sunset Hills Plz St Louis MO 63127",
+    "addr:housenumber":"10760",
+    "addr:postcode":"63127",
+    "addr:street":"Sunset Hills Plz",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.407686,38.554416,-90.407686,38.554416",
     "geom:latitude":38.554416,
     "geom:longitude":-90.407686,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"10760 Sunset Hills Plz",
     "sg:city":"St Louis",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102086173,
         85688661
     ],
+    "wof:brand_id":1125150081,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3ZIU4qKFlCQ6X9d4oQK9k7_38.554416_-90.407686@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462586947,
-    "wof:geomhash":"ad8306ebfbb5e13ab7ab8c6e0f04a6b6",
+    "wof:geomhash":"86b235c85feff7c3bab7e18e837655ef",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":773600719,
-    "wof:lastmodified":1466633017,
+    "wof:lastmodified":1510696025,
     "wof:name":"David's Bridal",
     "wof:parent_id":85858243,
     "wof:placetype":"venue",

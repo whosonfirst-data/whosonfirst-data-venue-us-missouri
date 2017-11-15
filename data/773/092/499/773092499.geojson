@@ -2,14 +2,20 @@
   "id": 773092499,
   "type": "Feature",
   "properties": {
+    "addr:full":"522 E 19th Ave Kansas City MO 64116",
+    "addr:housenumber":"522",
+    "addr:postcode":"64116",
+    "addr:street":"E 19Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.575117,39.141695,-94.575117,39.141695",
     "geom:latitude":39.141695,
     "geom:longitude":-94.575117,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"522 E 19th Ave",
     "sg:city":"Kansas City",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102081227,
         85688661
     ],
+    "wof:brand_id":1125153569,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_40eNRplPF2y8pi9SeT989d_39.141695_-94.575117@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462583097,
-    "wof:geomhash":"86dd7f8411bee545ceaa6d0f145f5239",
+    "wof:geomhash":"7dafced4b31c538bb5c250cd877a358f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":773092499,
-    "wof:lastmodified":1466622863,
+    "wof:lastmodified":1510693207,
     "wof:name":"U S Bank National Association",
     "wof:parent_id":85867025,
     "wof:placetype":"venue",

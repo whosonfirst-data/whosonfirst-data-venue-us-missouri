@@ -2,6 +2,10 @@
   "id": 773182505,
   "type": "Feature",
   "properties": {
+    "addr:full":"305 E 63 St Kansas City MO 64113",
+    "addr:housenumber":"305;63",
+    "addr:postcode":"64113",
+    "addr:street":"E;St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":773182505,
-    "wof:lastmodified":1466624605,
+    "wof:lastmodified":1472630927,
     "wof:name":"Gipson and Old Bryan",
     "wof:parent_id":85867027,
     "wof:placetype":"venue",

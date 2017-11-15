@@ -2,9 +2,14 @@
   "id": 773522029,
   "type": "Feature",
   "properties": {
+    "addr:full":"4638 W Florissant Ave St Louis MO 63115",
+    "addr:housenumber":"4638",
+    "addr:postcode":"63115",
+    "addr:street":"W Florissant Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.230237,38.684605,-90.230237,38.684605",
     "geom:latitude":38.684605,
     "geom:longitude":-90.230237,
@@ -28,13 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873611,
+        85873607,
         102191575,
         404518053,
         85633793,
         85971343,
         102080791,
-        85688661
+        85688661,
+        85873611
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,15 +56,25 @@
             "county_id":102080791,
             "localadmin_id":404518053,
             "locality_id":85971343,
+            "neighbourhood_id":85873607,
+            "region_id":85688661,
+            "venue_id":773522029
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080791,
+            "localadmin_id":404518053,
+            "locality_id":85971343,
             "neighbourhood_id":85873611,
             "region_id":85688661,
             "venue_id":773522029
         }
     ],
     "wof:id":773522029,
-    "wof:lastmodified":1466632072,
+    "wof:lastmodified":1491915140,
     "wof:name":"Daniel Hayden Bus Svc",
-    "wof:parent_id":85873611,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],

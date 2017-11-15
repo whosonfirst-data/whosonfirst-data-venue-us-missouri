@@ -2,14 +2,20 @@
   "id": 807311827,
   "type": "Feature",
   "properties": {
+    "addr:full":"2825 S Glenstone Ave Ste 200 Springfield MO 65804",
+    "addr:housenumber":"2825",
+    "addr:postcode":"65804",
+    "addr:street":"S Glenstone Ave Ste 200",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.261961,37.162821,-93.261961,37.162821",
     "geom:latitude":37.162821,
     "geom:longitude":-93.261961,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2825 S Glenstone Ave Ste 200",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -86,13 +92,14 @@
         102087523,
         85688661
     ],
+    "wof:brand_id":1125151895,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_70YflroyU0QmMC3SQ6jS52_37.162821_-93.261961@1303262939"
     },
     "wof:country":"US",
     "wof:created":1462605976,
-    "wof:geomhash":"a1789bd99f4fb8766703c715c987410f",
+    "wof:geomhash":"84f2e70fcd40cf52041e44e40efa9115",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -106,7 +113,7 @@
         }
     ],
     "wof:id":807311827,
-    "wof:lastmodified":1466630992,
+    "wof:lastmodified":1510697711,
     "wof:name":"JCPenney Custom Decorating",
     "wof:parent_id":85881149,
     "wof:placetype":"venue",

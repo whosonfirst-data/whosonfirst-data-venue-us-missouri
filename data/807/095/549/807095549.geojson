@@ -2,14 +2,20 @@
   "id": 807095549,
   "type": "Feature",
   "properties": {
+    "addr:full":"1110 E Battlefield St Springfield MO 65807",
+    "addr:housenumber":"1110",
+    "addr:postcode":"65807",
+    "addr:street":"E Battlefield St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.278468,37.159658,-93.278468,37.159658",
     "geom:latitude":37.159658,
     "geom:longitude":-93.278468,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1110 E Battlefield St",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102087523,
         85688661
     ],
+    "wof:brand_id":1125150011,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3CFKVyefrnvXmPzJUYyY8r_37.159658_-93.278468@1299784598"
     },
     "wof:country":"US",
     "wof:created":1462603670,
-    "wof:geomhash":"416e31f4c2e96af023a799ac1f3bb5db",
+    "wof:geomhash":"46e6f82c59a8eaff91caf5f103043c8f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":807095549,
-    "wof:lastmodified":1466624466,
+    "wof:lastmodified":1510696622,
     "wof:name":"Logan's Roadhouse",
     "wof:parent_id":85881149,
     "wof:placetype":"venue",

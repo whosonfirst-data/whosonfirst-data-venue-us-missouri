@@ -2,14 +2,20 @@
   "id": 790080401,
   "type": "Feature",
   "properties": {
+    "addr:full":"101 Gravois Bluffs Plaza Dr Fenton MO 63026",
+    "addr:housenumber":"101",
+    "addr:postcode":"63026",
+    "addr:street":"Gravois Bluffs Plaza Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.446896,38.502158,-90.446896,38.502158",
     "geom:latitude":38.502158,
     "geom:longitude":-90.446896,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"101 Gravois Bluffs Plaza Dr",
     "sg:city":"Fenton",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102086173,
         85688661
     ],
+    "wof:brand_id":1125150133,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0qtgIeZLW7HqAE94FR2D7E_38.502158_-90.446896@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462592973,
-    "wof:geomhash":"3f56a6bff5bef3e162fa9319bdafdea4",
+    "wof:geomhash":"1293e8a724c9ed8dabcd147f7d7dfbc1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":790080401,
-    "wof:lastmodified":1466624029,
+    "wof:lastmodified":1510696875,
     "wof:name":"Linens 'n Things",
     "wof:parent_id":85858661,
     "wof:placetype":"venue",

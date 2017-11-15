@@ -2,6 +2,10 @@
   "id": 807118025,
   "type": "Feature",
   "properties": {
+    "addr:full":"8444 N Lindbergh Blvd Florissant MO 63031",
+    "addr:housenumber":"8444",
+    "addr:postcode":"63031",
+    "addr:street":"N Lindbergh Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -70,7 +74,7 @@
         }
     ],
     "wof:id":807118025,
-    "wof:lastmodified":1466625353,
+    "wof:lastmodified":1472630296,
     "wof:name":"Subway",
     "wof:parent_id":85813019,
     "wof:placetype":"venue",

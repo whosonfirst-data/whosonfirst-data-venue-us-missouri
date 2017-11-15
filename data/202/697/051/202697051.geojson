@@ -2,14 +2,20 @@
   "id": 202697051,
   "type": "Feature",
   "properties": {
+    "addr:full":"1476 S Sam Houston Blvd Houston MO 65483",
+    "addr:housenumber":"1476",
+    "addr:postcode":"65483",
+    "addr:street":"S Sam Houston Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.951373,37.327177,-91.951373,37.327177",
     "geom:latitude":37.327177,
     "geom:longitude":-91.951373,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1476 S Sam Houston Blvd",
     "sg:city":"Houston",
     "sg:classifiers":[
@@ -50,12 +56,13 @@
         85971811,
         102081225
     ],
+    "wof:brand_id":1125156445,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3jmpPI8PCoa7nvOJyGlV6E_37.327177_-91.951373@1303262936"
     },
     "wof:country":"US",
-    "wof:geomhash":"db1855d1b9423f3ec3f86c89314d77da",
+    "wof:geomhash":"dfe76bcc36bf8cd53c970116f32addbe",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -68,7 +75,7 @@
         }
     ],
     "wof:id":202697051,
-    "wof:lastmodified":1466622413,
+    "wof:lastmodified":1510694597,
     "wof:name":"Orscheln Farm & Home",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 806743363,
   "type": "Feature",
   "properties": {
+    "addr:full":"13300 Hammer Rd Neosho MO 64850",
+    "addr:housenumber":"",
+    "addr:postcode":"13300;64850",
+    "addr:street":"Hammer Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.42705,36.876056,-94.42705,36.876056",
     "geom:latitude":36.876056,
     "geom:longitude":-94.42705,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"13300 Hammer Rd",
     "sg:city":"Neosho",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102087471,
         85688661
     ],
+    "wof:brand_id":1125151003,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1JYIXRd4CuKzE9JpLxnzJR_36.876056_-94.427050@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462600706,
-    "wof:geomhash":"3da5ad16d3f3c244c90aa89696285860",
+    "wof:geomhash":"7d7a55052a12324eea231cd0109cfad7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":806743363,
-    "wof:lastmodified":1466631450,
+    "wof:lastmodified":1510695764,
     "wof:name":"Binswanger Glass Co",
     "wof:parent_id":85821247,
     "wof:placetype":"venue",

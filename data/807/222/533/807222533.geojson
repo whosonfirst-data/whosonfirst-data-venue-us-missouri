@@ -2,6 +2,10 @@
   "id": 807222533,
   "type": "Feature",
   "properties": {
+    "addr:full":"500 Main St Weston MO 64098",
+    "addr:housenumber":"500",
+    "addr:postcode":"64098",
+    "addr:street":"Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":807222533,
-    "wof:lastmodified":1466628182,
+    "wof:lastmodified":1472630527,
     "wof:name":"The Saint George",
     "wof:parent_id":85823759,
     "wof:placetype":"venue",

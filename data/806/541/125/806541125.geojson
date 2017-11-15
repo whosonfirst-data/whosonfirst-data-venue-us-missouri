@@ -2,6 +2,10 @@
   "id": 806541125,
   "type": "Feature",
   "properties": {
+    "addr:full":"6415 E 8 St Kansas City MO 64125",
+    "addr:housenumber":"6415;8",
+    "addr:postcode":"64125",
+    "addr:street":"E;St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":806541125,
-    "wof:lastmodified":1466626585,
+    "wof:lastmodified":1472630362,
     "wof:name":"Early Lawn Care",
     "wof:parent_id":85871995,
     "wof:placetype":"venue",

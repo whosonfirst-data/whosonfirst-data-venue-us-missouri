@@ -2,14 +2,20 @@
   "id": 806440033,
   "type": "Feature",
   "properties": {
+    "addr:full":"1110 N Main Ave Springfield MO 65802",
+    "addr:housenumber":"1110",
+    "addr:postcode":"65802",
+    "addr:street":"N Main Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.295998,37.220984,-93.295998,37.220984",
     "geom:latitude":37.220984,
     "geom:longitude":-93.295998,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1110 N Main Ave",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102087523,
         85688661
     ],
+    "wof:brand_id":1125159699,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0nvZDgVI2VjLIFHoFDNixU_37.220984_-93.295998@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462598168,
-    "wof:geomhash":"680da73491364e4ffb98b3cb78834b34",
+    "wof:geomhash":"cb74627954551a6df6cdfe9f66d6f412",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":806440033,
-    "wof:lastmodified":1466624134,
+    "wof:lastmodified":1510695065,
     "wof:name":"St John's United Church-Christ",
     "wof:parent_id":85881135,
     "wof:placetype":"venue",

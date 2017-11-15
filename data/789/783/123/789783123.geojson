@@ -2,6 +2,10 @@
   "id": 789783123,
   "type": "Feature",
   "properties": {
+    "addr:full":"2301 Holmes St Kansas City MO 64108",
+    "addr:housenumber":"2301",
+    "addr:postcode":"64108",
+    "addr:street":"Holmes St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":789783123,
-    "wof:lastmodified":1466626807,
+    "wof:lastmodified":1472630522,
     "wof:name":"Oral Surgery Clinic",
     "wof:parent_id":420525357,
     "wof:placetype":"venue",

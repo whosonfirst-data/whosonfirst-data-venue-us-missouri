@@ -2,14 +2,20 @@
   "id": 790594075,
   "type": "Feature",
   "properties": {
+    "addr:full":"7901 NW Tiffany Springs Rd Kansas City MO 64153",
+    "addr:housenumber":"7901",
+    "addr:postcode":"64153",
+    "addr:street":"Nw Tiffany Springs Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.667861,39.261305,-94.667861,39.261305",
     "geom:latitude":39.261305,
     "geom:longitude":-94.667861,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"7901 NW Tiffany Springs Rd",
     "sg:city":"Kansas City",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102085271,
         85851839
     ],
+    "wof:brand_id":1125153593,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4fQv3TDUEgBQEzIj28nm8c_39.261305_-94.667861@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462597159,
-    "wof:geomhash":"8e1c49cc7c76981b9d1c8c9117e759d1",
+    "wof:geomhash":"05cb84ee0ef6c1581bd549fae972eabc",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":790594075,
-    "wof:lastmodified":1466634048,
+    "wof:lastmodified":1510695771,
     "wof:name":"Courtyard By Marriott",
     "wof:parent_id":85851839,
     "wof:placetype":"venue",

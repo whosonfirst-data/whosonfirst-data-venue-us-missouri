@@ -2,14 +2,20 @@
   "id": 790241037,
   "type": "Feature",
   "properties": {
+    "addr:full":"121 N Massey Blvd Nixa MO 65714",
+    "addr:housenumber":"121",
+    "addr:postcode":"65714",
+    "addr:street":"N Massey Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.303,37.043909,-93.303,37.043909",
     "geom:latitude":37.043909,
     "geom:longitude":-93.303,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"121 N Massey Blvd",
     "sg:city":"Nixa",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102087497,
         85809751
     ],
+    "wof:brand_id":1125153473,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1t4vWkWYYKluFTrhdUQxCh_37.043909_-93.303000@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462594255,
-    "wof:geomhash":"5a6ad496ef19770346d67dc2cc05fa7b",
+    "wof:geomhash":"07bdea35dc6a373ff8d8b63c022f6d52",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":790241037,
-    "wof:lastmodified":1466627548,
+    "wof:lastmodified":1510699665,
     "wof:name":"Renal Care Group",
     "wof:parent_id":85809751,
     "wof:placetype":"venue",

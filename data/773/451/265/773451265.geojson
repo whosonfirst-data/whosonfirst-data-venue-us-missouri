@@ -2,14 +2,20 @@
   "id": 773451265,
   "type": "Feature",
   "properties": {
+    "addr:full":"2317 N Glenstone Ave Springfield MO 65803",
+    "addr:housenumber":"2317",
+    "addr:postcode":"65803",
+    "addr:street":"N Glenstone Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.261096,37.239232,-93.261096,37.239232",
     "geom:latitude":37.239232,
     "geom:longitude":-93.261096,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2317 N Glenstone Ave",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087523,
         85881137
     ],
+    "wof:brand_id":420575353,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5RIX5ofuohjHuQbc6LG2Cj_37.239232_-93.261096@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462585844,
-    "wof:geomhash":"22dd986aac154f7692626dd8d2e7f7d2",
+    "wof:geomhash":"231a3b4e44ed497f07ad8e23732da662",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":773451265,
-    "wof:lastmodified":1466630394,
+    "wof:lastmodified":1510601964,
     "wof:name":"Precision Tune Auto Care",
     "wof:parent_id":85881137,
     "wof:placetype":"venue",

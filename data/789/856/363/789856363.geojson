@@ -2,14 +2,20 @@
   "id": 789856363,
   "type": "Feature",
   "properties": {
+    "addr:full":"6650 Manchester Ave Saint Louis MO 63139",
+    "addr:housenumber":"6650",
+    "addr:postcode":"63139",
+    "addr:street":"Manchester Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.300639,38.6191,-90.300639,38.6191",
     "geom:latitude":38.6191,
     "geom:longitude":-90.300639,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"6650 Manchester Ave",
     "sg:city":"Saint Louis",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102080791,
         85688661
     ],
+    "wof:brand_id":1125150357,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1DGljybgQqjaev580ZOcaL_38.619100_-90.300639@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462591077,
-    "wof:geomhash":"3199d070b4f3342831f980083266cb7e",
+    "wof:geomhash":"8367f32ab338d2116bc52cbf734eab75",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":789856363,
-    "wof:lastmodified":1466628356,
+    "wof:lastmodified":1510697020,
     "wof:name":"Kmart Pharmacies Inc",
     "wof:parent_id":85805777,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 807298581,
   "type": "Feature",
   "properties": {
+    "addr:full":"451 W Aldersgate Dr Nixa MO 65714",
+    "addr:housenumber":"451",
+    "addr:postcode":"65714",
+    "addr:street":"W Aldersgate Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.303179,37.060111,-93.303179,37.060111",
     "geom:latitude":37.060111,
     "geom:longitude":-93.303179,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"451 W Aldersgate Dr",
     "sg:city":"Nixa",
     "sg:classifiers":[
@@ -48,13 +54,14 @@
         102087497,
         85809751
     ],
+    "wof:brand_id":1125152903,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7RGLQ215kulM85MrWsRgAe_37.060111_-93.303179@1303262938"
     },
     "wof:country":"US",
     "wof:created":1462605836,
-    "wof:geomhash":"44cc07e23036c3e79e0a719b21c67fac",
+    "wof:geomhash":"28f138bb0f2781d86d8caffb4bba752f",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -66,7 +73,7 @@
         }
     ],
     "wof:id":807298581,
-    "wof:lastmodified":1466630820,
+    "wof:lastmodified":1510695169,
     "wof:name":"Quiznos Classic Subs",
     "wof:parent_id":85809751,
     "wof:placetype":"venue",

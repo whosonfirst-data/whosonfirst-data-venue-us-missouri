@@ -2,14 +2,20 @@
   "id": 806788999,
   "type": "Feature",
   "properties": {
+    "addr:full":"3649 Page Blvd St Louis MO 63113",
+    "addr:housenumber":"3649",
+    "addr:postcode":"63113",
+    "addr:street":"Page Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.228387,38.646396,-90.228387,38.646396",
     "geom:latitude":38.646396,
     "geom:longitude":-90.228387,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3649 Page Blvd",
     "sg:city":"St Louis",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102080791,
         85688661
     ],
+    "wof:brand_id":1125150085,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_27mZyWvhCsZl9W4PsgJnj8_38.646396_-90.228387@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462601096,
-    "wof:geomhash":"121c27dc880dde400b025d21e00e35ca",
+    "wof:geomhash":"e89ea85ddfe95de681c8ade14ac5e84c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":806788999,
-    "wof:lastmodified":1466632663,
+    "wof:lastmodified":1510696021,
     "wof:name":"Fashion Cents",
     "wof:parent_id":85873637,
     "wof:placetype":"venue",

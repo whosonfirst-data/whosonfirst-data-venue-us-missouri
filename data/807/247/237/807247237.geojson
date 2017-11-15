@@ -2,14 +2,20 @@
   "id": 807247237,
   "type": "Feature",
   "properties": {
+    "addr:full":"1208 Cherokee Ave Seneca MO 64865",
+    "addr:housenumber":"1208",
+    "addr:postcode":"64865",
+    "addr:street":"Cherokee Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.611176,36.843228,-94.611176,36.843228",
     "geom:latitude":36.843228,
     "geom:longitude":-94.611176,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1208 Cherokee Ave",
     "sg:city":"Seneca",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102087471,
         85814333
     ],
+    "wof:brand_id":1125156155,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3pxTm0FWUf6Aw48iD8TLXW_36.843228_-94.611176@1303262934"
     },
     "wof:country":"US",
     "wof:created":1462605297,
-    "wof:geomhash":"a6e7464690545489235755ab3c354a69",
+    "wof:geomhash":"c06c1a2817dc78da48528f2a6d4e129c",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":807247237,
-    "wof:lastmodified":1466629269,
+    "wof:lastmodified":1510696657,
     "wof:name":"Tropical Tan",
     "wof:parent_id":85814333,
     "wof:placetype":"venue",

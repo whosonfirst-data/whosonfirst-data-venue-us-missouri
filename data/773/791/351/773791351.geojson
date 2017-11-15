@@ -2,6 +2,10 @@
   "id": 773791351,
   "type": "Feature",
   "properties": {
+    "addr:full":"8571 Co Rd 422 Hannibal MO 63401",
+    "addr:housenumber":"8571;422",
+    "addr:postcode":"63401",
+    "addr:street":"Co Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":773791351,
-    "wof:lastmodified":1466635410,
+    "wof:lastmodified":1472631110,
     "wof:name":"Smashey Lumber & Pallet",
     "wof:parent_id":85867477,
     "wof:placetype":"venue",

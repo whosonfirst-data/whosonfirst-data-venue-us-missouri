@@ -2,14 +2,20 @@
   "id": 806918047,
   "type": "Feature",
   "properties": {
+    "addr:full":"1013 Jefferson St Jefferson City MO 65101",
+    "addr:housenumber":"1013",
+    "addr:postcode":"65101",
+    "addr:street":"Jefferson St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.180775,38.569757,-92.180775,38.569757",
     "geom:latitude":38.569757,
     "geom:longitude":-92.180775,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1013 Jefferson St",
     "sg:city":"Jefferson City",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087511,
         85837745
     ],
+    "wof:brand_id":1125151867,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1joB6VgjJgbiCbNWrSaJUN_38.569757_-92.180775@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462602158,
-    "wof:geomhash":"8998b031235f7f4a3c963610b02e48ef",
+    "wof:geomhash":"1cc6447e8625047f0c2f2275f3060239",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":806918047,
-    "wof:lastmodified":1466634859,
+    "wof:lastmodified":1510699637,
     "wof:name":"Valero Energy Corporation",
     "wof:parent_id":85837745,
     "wof:placetype":"venue",

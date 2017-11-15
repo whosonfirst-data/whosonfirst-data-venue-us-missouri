@@ -2,9 +2,14 @@
   "id": 789649081,
   "type": "Feature",
   "properties": {
+    "addr:full":"5401 Highland Ave Kansas City MO 64110",
+    "addr:housenumber":"5401",
+    "addr:postcode":"64110",
+    "addr:street":"Highland Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.565659,39.026905,-94.565659,39.026905",
     "geom:latitude":39.026905,
     "geom:longitude":-94.565659,
@@ -25,13 +30,14 @@
     "sg:province":"MO",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85867027,
+        85872023,
         102191575,
         404518075,
         85633793,
         85970739,
         102081227,
-        85688661
+        85688661,
+        85867027
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,15 +53,25 @@
             "county_id":102081227,
             "localadmin_id":404518075,
             "locality_id":85970739,
+            "neighbourhood_id":85872023,
+            "region_id":85688661,
+            "venue_id":789649081
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081227,
+            "localadmin_id":404518075,
+            "locality_id":85970739,
             "neighbourhood_id":85867027,
             "region_id":85688661,
             "venue_id":789649081
         }
     ],
     "wof:id":789649081,
-    "wof:lastmodified":1466624048,
+    "wof:lastmodified":1491889845,
     "wof:name":"Hair Design",
-    "wof:parent_id":85867027,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],

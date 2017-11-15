@@ -2,6 +2,10 @@
   "id": 773392535,
   "type": "Feature",
   "properties": {
+    "addr:full":"330 W 9 St Kansas City MO 64105",
+    "addr:housenumber":"330;9",
+    "addr:postcode":"64105",
+    "addr:street":"W",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":773392535,
-    "wof:lastmodified":1466629405,
+    "wof:lastmodified":1472630988,
     "wof:name":"NFDS",
     "wof:parent_id":85872005,
     "wof:placetype":"venue",

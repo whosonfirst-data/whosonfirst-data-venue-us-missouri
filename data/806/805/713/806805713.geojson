@@ -2,14 +2,20 @@
   "id": 806805713,
   "type": "Feature",
   "properties": {
+    "addr:full":"119 E Park Dr Bowling Green MO 63334",
+    "addr:housenumber":"119",
+    "addr:postcode":"63334",
+    "addr:street":"E Park Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.191007,39.335096,-91.191007,39.335096",
     "geom:latitude":39.335096,
     "geom:longitude":-91.191007,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"119 E Park Dr",
     "sg:city":"Bowling Green",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102086151,
         85817909
     ],
+    "wof:brand_id":1125157859,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3AUje99EnGF1r23rxSzh8l_39.335096_-91.191007@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462601233,
-    "wof:geomhash":"1279b457284479366957263f9aa5b33c",
+    "wof:geomhash":"4e8e4277eaef2610001a4cb75d7d23a8",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":806805713,
-    "wof:lastmodified":1466632969,
+    "wof:lastmodified":1510699743,
     "wof:name":"Highway Department",
     "wof:parent_id":85817909,
     "wof:placetype":"venue",

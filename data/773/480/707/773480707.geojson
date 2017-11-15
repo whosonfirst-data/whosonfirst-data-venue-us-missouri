@@ -2,6 +2,10 @@
   "id": 773480707,
   "type": "Feature",
   "properties": {
+    "addr:full":"16125 Co Rd 4220 Rolla MO 65401",
+    "addr:housenumber":"16125",
+    "addr:postcode":"4220;65401",
+    "addr:street":"Co Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":773480707,
-    "wof:lastmodified":1466631314,
+    "wof:lastmodified":1472631040,
     "wof:name":"Home Office Advertising",
     "wof:parent_id":85847353,
     "wof:placetype":"venue",

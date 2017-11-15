@@ -2,14 +2,20 @@
   "id": 806731673,
   "type": "Feature",
   "properties": {
+    "addr:full":"1109 Port Diane Dr St Louis MO 63146",
+    "addr:housenumber":"1109",
+    "addr:postcode":"63146",
+    "addr:street":"Port Diane Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.417203,38.680045,-90.417203,38.680045",
     "geom:latitude":38.680045,
     "geom:longitude":-90.417203,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1109 Port Diane Dr",
     "sg:city":"St Louis",
     "sg:classifiers":[
@@ -39,13 +45,14 @@
         102086173,
         85688661
     ],
+    "wof:brand_id":1125153223,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3XxSsKZAEJ0kVeCqn7LaBJ_38.680045_-90.417203@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462600599,
-    "wof:geomhash":"d6bd34939275cc61c4e23aabbe57b472",
+    "wof:geomhash":"6499b7ef7f4455f1a43b071fbdbcbbe0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,7 +66,7 @@
         }
     ],
     "wof:id":806731673,
-    "wof:lastmodified":1466631524,
+    "wof:lastmodified":1510699566,
     "wof:name":"Home Interiors & Gifts",
     "wof:parent_id":85803699,
     "wof:placetype":"venue",

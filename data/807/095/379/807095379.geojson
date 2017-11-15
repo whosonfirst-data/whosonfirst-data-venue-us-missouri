@@ -2,14 +2,20 @@
   "id": 807095379,
   "type": "Feature",
   "properties": {
+    "addr:full":"1425 W Battlefield St Springfield MO 65807",
+    "addr:housenumber":"1425",
+    "addr:postcode":"65807",
+    "addr:street":"W Battlefield St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.311509,37.160124,-93.311509,37.160124",
     "geom:latitude":37.160124,
     "geom:longitude":-93.311509,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1425 W Battlefield St",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         85881151,
         102087523
     ],
+    "wof:brand_id":420575727,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_13HCRR98Fqm40XGrb66hnz_37.160124_-93.311509@1299784598"
     },
     "wof:country":"US",
     "wof:created":1462603668,
-    "wof:geomhash":"7e18e50ecb15bdb44072285539ba9cc3",
+    "wof:geomhash":"c3c76f8203ef872e3a6127e1e7272625",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":807095379,
-    "wof:lastmodified":1466624455,
+    "wof:lastmodified":1510602795,
     "wof:name":"Pizza Inn",
     "wof:parent_id":85881151,
     "wof:placetype":"venue",

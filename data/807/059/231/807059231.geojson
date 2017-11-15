@@ -2,14 +2,20 @@
   "id": 807059231,
   "type": "Feature",
   "properties": {
+    "addr:full":"15250 Manchester Rd Ballwin MO 63011",
+    "addr:housenumber":"15250",
+    "addr:postcode":"63011",
+    "addr:street":"Manchester Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.556556,38.592865,-90.556556,38.592865",
     "geom:latitude":38.592865,
     "geom:longitude":-90.556556,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"15250 Manchester Rd",
     "sg:city":"Ballwin",
     "sg:classifiers":[
@@ -39,13 +45,14 @@
         102086173,
         85688661
     ],
+    "wof:brand_id":1125150445,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5FICTas4oFMYERhbMXGvzI_38.592865_-90.556556@1299784598"
     },
     "wof:country":"US",
     "wof:created":1462603365,
-    "wof:geomhash":"e32bfca98ee696f7b3f6c15a01122d8b",
+    "wof:geomhash":"e583997233a461caf0d35cdea1edadfa",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,7 +66,7 @@
         }
     ],
     "wof:id":807059231,
-    "wof:lastmodified":1466623834,
+    "wof:lastmodified":1510697658,
     "wof:name":"Penn Station",
     "wof:parent_id":85831197,
     "wof:placetype":"venue",

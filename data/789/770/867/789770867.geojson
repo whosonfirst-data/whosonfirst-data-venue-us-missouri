@@ -2,14 +2,20 @@
   "id": 789770867,
   "type": "Feature",
   "properties": {
+    "addr:full":"1025 S Neosho Blvd Neosho MO 64850",
+    "addr:housenumber":"1025",
+    "addr:postcode":"64850",
+    "addr:street":"S Neosho Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.383447,36.857713,-94.383447,36.857713",
     "geom:latitude":36.857713,
     "geom:longitude":-94.383447,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1025 S Neosho Blvd",
     "sg:city":"Neosho",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102087471,
         85688661
     ],
+    "wof:brand_id":1125154751,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7I7qSJRbjeSBNbuoYjeCrt_36.857713_-94.383447@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462590407,
-    "wof:geomhash":"7622888832128a976f8ca207d19879c3",
+    "wof:geomhash":"b2227f9911c104f2db3e07e5aa4dbed8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":789770867,
-    "wof:lastmodified":1466626523,
+    "wof:lastmodified":1510697727,
     "wof:name":"Golden Corral Buffet & Grill",
     "wof:parent_id":85821247,
     "wof:placetype":"venue",

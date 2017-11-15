@@ -2,14 +2,20 @@
   "id": 807061449,
   "type": "Feature",
   "properties": {
+    "addr:full":"184 Washington St Florissant MO 63031",
+    "addr:housenumber":"184",
+    "addr:postcode":"63031",
+    "addr:street":"Washington St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.33271,38.793967,-90.33271,38.793967",
     "geom:latitude":38.793967,
     "geom:longitude":-90.33271,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"184 Washington St",
     "sg:city":"Florissant",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102086173,
         85688661
     ],
+    "wof:brand_id":1125159469,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4L6qK6WZsaRERFfMEXWp3S_38.793967_-90.332710@1299784598"
     },
     "wof:country":"US",
     "wof:created":1462603382,
-    "wof:geomhash":"577be631dd53465eea2f153b67178ca6",
+    "wof:geomhash":"8b8c13de3d35a0c71cabbf006e355b2b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":807061449,
-    "wof:lastmodified":1466624019,
+    "wof:lastmodified":1510697496,
     "wof:name":"BJ's Restaurant & Brewhouse",
     "wof:parent_id":85813019,
     "wof:placetype":"venue",

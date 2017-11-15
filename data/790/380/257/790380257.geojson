@@ -2,14 +2,20 @@
   "id": 790380257,
   "type": "Feature",
   "properties": {
+    "addr:full":"712 E 18 St Kansas City MO 64108",
+    "addr:housenumber":"712;18",
+    "addr:postcode":"64108",
+    "addr:street":"E",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.574438,39.09157,-94.574438,39.09157",
     "geom:latitude":39.09157,
     "geom:longitude":-94.574438,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"712 E 18 St",
     "sg:city":"Kansas City",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102081227,
         85688661
     ],
+    "wof:brand_id":1125158389,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0ivZwWrWvXwi9ZtThazpfD_39.091570_-94.574438@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462595382,
-    "wof:geomhash":"6647a74d3429037c9c99adea5ea8ef2a",
+    "wof:geomhash":"50f8f6d6e2aca9b39b14940efc385c42",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":790380257,
-    "wof:lastmodified":1466630515,
+    "wof:lastmodified":1510699780,
     "wof:name":"Rexel Inc",
     "wof:parent_id":85872019,
     "wof:placetype":"venue",

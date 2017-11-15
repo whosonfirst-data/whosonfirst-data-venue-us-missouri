@@ -2,14 +2,20 @@
   "id": 790617297,
   "type": "Feature",
   "properties": {
+    "addr:full":"14450 E 40 Ter S Independence MO 64055",
+    "addr:housenumber":"14450;40 ter",
+    "addr:postcode":"64055",
+    "addr:street":"E;S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.407707,39.047319,-94.407707,39.047319",
     "geom:latitude":39.047319,
     "geom:longitude":-94.407707,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"14450 E 40 Ter S",
     "sg:city":"Independence",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102081227,
         85688661
     ],
+    "wof:brand_id":1125150763,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0mRWT0TIn92Xfr5WGMbfOp_39.047319_-94.407707@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462597386,
-    "wof:geomhash":"73822078114c46a42af4ae449815e93b",
+    "wof:geomhash":"50b2d37b78d245a443f85c2739b8062b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":790617297,
-    "wof:lastmodified":1466634339,
+    "wof:lastmodified":1510697650,
     "wof:name":"Babies R Us",
     "wof:parent_id":85871965,
     "wof:placetype":"venue",

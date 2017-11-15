@@ -2,14 +2,20 @@
   "id": 807099071,
   "type": "Feature",
   "properties": {
+    "addr:full":"314 Hwy 291 Liberty MO 64068",
+    "addr:housenumber":"314",
+    "addr:postcode":"64068",
+    "addr:street":"Hwy 291",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.441428,39.242474,-94.441428,39.242474",
     "geom:latitude":39.242474,
     "geom:longitude":-94.441428,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"314 Hwy 291",
     "sg:city":"Liberty",
     "sg:classifiers":[
@@ -47,13 +53,14 @@
         85688661,
         420525305
     ],
+    "wof:brand_id":1125154131,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1RoYTO8RNYfZ7ZnQNemctY_39.242566_-94.441449@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462603711,
-    "wof:geomhash":"47c2316aae168ed637a4a51035abb86e",
+    "wof:geomhash":"968e54f6ccaad226582b9d6c5906b34f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -77,7 +84,7 @@
         }
     ],
     "wof:id":807099071,
-    "wof:lastmodified":1466624636,
+    "wof:lastmodified":1510699748,
     "wof:name":"Mr. Goodcents Subs & Pasta",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

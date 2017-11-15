@@ -2,6 +2,10 @@
   "id": 790138193,
   "type": "Feature",
   "properties": {
+    "addr:full":"106 E 63 St Kansas City MO 64113",
+    "addr:housenumber":"106;63",
+    "addr:postcode":"64113",
+    "addr:street":"E;St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":790138193,
-    "wof:lastmodified":1466625186,
+    "wof:lastmodified":1472630371,
     "wof:name":"Connies Accounting & Tax Svc",
     "wof:parent_id":85867027,
     "wof:placetype":"venue",

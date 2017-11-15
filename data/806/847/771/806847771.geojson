@@ -2,14 +2,20 @@
   "id": 806847771,
   "type": "Feature",
   "properties": {
+    "addr:full":"701 W High St Jefferson City MO 65101",
+    "addr:housenumber":"701",
+    "addr:postcode":"65101",
+    "addr:street":"W High St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.181474,38.583467,-92.181474,38.583467",
     "geom:latitude":38.583467,
     "geom:longitude":-92.181474,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"701 W High St",
     "sg:city":"Jefferson City",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087511,
         85837745
     ],
+    "wof:brand_id":1125159559,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_26TeNnIBXfou93v4Lq01Xz_38.583467_-92.181474@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462601585,
-    "wof:geomhash":"9a2ad19e3b54e9b637e115cbe5d7001d",
+    "wof:geomhash":"17ade56a81b1400b2bd7756ecb8feb83",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":806847771,
-    "wof:lastmodified":1466633640,
+    "wof:lastmodified":1510696651,
     "wof:name":"Glaxosmithkline",
     "wof:parent_id":85837745,
     "wof:placetype":"venue",

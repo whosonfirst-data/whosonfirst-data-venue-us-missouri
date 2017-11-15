@@ -2,9 +2,14 @@
   "id": 790402451,
   "type": "Feature",
   "properties": {
+    "addr:full":"3620 Independence Ave Kansas City MO 64124",
+    "addr:housenumber":"3620",
+    "addr:postcode":"64124",
+    "addr:street":"Independence Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.539064,39.105899,-94.539064,39.105899",
     "geom:latitude":39.105899,
     "geom:longitude":-94.539064,
@@ -25,13 +30,14 @@
     "sg:province":"MO",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        420525355,
+        85872001,
         102191575,
         404518075,
         85633793,
         85970739,
         102081227,
-        85688661
+        85688661,
+        420525355
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,15 +53,25 @@
             "county_id":102081227,
             "localadmin_id":404518075,
             "locality_id":85970739,
+            "neighbourhood_id":85872001,
+            "region_id":85688661,
+            "venue_id":790402451
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081227,
+            "localadmin_id":404518075,
+            "locality_id":85970739,
             "neighbourhood_id":420525355,
             "region_id":85688661,
             "venue_id":790402451
         }
     ],
     "wof:id":790402451,
-    "wof:lastmodified":1466630787,
+    "wof:lastmodified":1491917331,
     "wof:name":"Phatt City Tattoos",
-    "wof:parent_id":420525355,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],

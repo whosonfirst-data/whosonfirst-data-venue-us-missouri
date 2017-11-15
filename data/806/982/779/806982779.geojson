@@ -2,14 +2,20 @@
   "id": 806982779,
   "type": "Feature",
   "properties": {
+    "addr:full":"185 Eureka Towne Center Dr Eureka MO 63025",
+    "addr:housenumber":"185",
+    "addr:postcode":"63025",
+    "addr:street":"Eureka Towne Center Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.658071,38.506083,-90.658071,38.506083",
     "geom:latitude":38.506083,
     "geom:longitude":-90.658071,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"185 Eureka Towne Center Dr",
     "sg:city":"Eureka",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102086173,
         85688661
     ],
+    "wof:brand_id":420575925,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1rGfN2JuzehQug2rQJLRVz_38.506083_-90.658071@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462602716,
-    "wof:geomhash":"d7cd5412d8fb38e649ccc7a5c59e6b95",
+    "wof:geomhash":"1214a1feb82649cb7ca2342226c8f393",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":806982779,
-    "wof:lastmodified":1466635727,
+    "wof:lastmodified":1510602895,
     "wof:name":"Friedmans Jewelers",
     "wof:parent_id":85809151,
     "wof:placetype":"venue",

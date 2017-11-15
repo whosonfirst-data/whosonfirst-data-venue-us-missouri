@@ -2,14 +2,20 @@
   "id": 806519751,
   "type": "Feature",
   "properties": {
+    "addr:full":"2651 N Eastgate Ave Springfield MO 65803",
+    "addr:housenumber":"2651",
+    "addr:postcode":"65803",
+    "addr:street":"N Eastgate Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.222766,37.243385,-93.222766,37.243385",
     "geom:latitude":37.243385,
     "geom:longitude":-93.222766,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2651 N Eastgate Ave",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102087523,
         85881137
     ],
+    "wof:brand_id":1125159283,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7D27J7MZkfaO88B0vDbMka_37.243385_-93.222766@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462598787,
-    "wof:geomhash":"2a86745fb913dd804656fa14245d70da",
+    "wof:geomhash":"0fef48a06e4621ea6c4759177b57f70f",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":806519751,
-    "wof:lastmodified":1466625832,
+    "wof:lastmodified":1510696631,
     "wof:name":"Keebler",
     "wof:parent_id":85881137,
     "wof:placetype":"venue",

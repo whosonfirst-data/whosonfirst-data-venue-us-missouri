@@ -2,14 +2,20 @@
   "id": 790148761,
   "type": "Feature",
   "properties": {
+    "addr:full":"11917 E 83 St Raytown MO 64138",
+    "addr:housenumber":"11917;83",
+    "addr:postcode":"64138",
+    "addr:street":"E;St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.443775,38.971364,-94.443775,38.971364",
     "geom:latitude":38.971364,
     "geom:longitude":-94.443775,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"11917 E 83 St",
     "sg:city":"Raytown",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102081227,
         85688661
     ],
+    "wof:brand_id":420574575,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_11NFNxxYBHYKO6s4Y4mXWD_38.971364_-94.443775@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462593497,
-    "wof:geomhash":"ec72d40108e11b11c24fb05f85fbe7f9",
+    "wof:geomhash":"4702d7214417d28636a14f755fb8bd0f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":790148761,
-    "wof:lastmodified":1466625293,
+    "wof:lastmodified":1510603903,
     "wof:name":"Cutting Edge",
     "wof:parent_id":85828679,
     "wof:placetype":"venue",

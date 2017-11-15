@@ -2,6 +2,10 @@
   "id": 102429903,
   "type": "Feature",
   "properties": {
+    "addr:full":"14658 Co Rd 7430 Caulfield AR 65626",
+    "addr:housenumber":"14658",
+    "addr:postcode":"7430;65626",
+    "addr:street":"Co Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":102429903,
-    "wof:lastmodified":1466622402,
+    "wof:lastmodified":1472630173,
     "wof:name":"Larry Asberry",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

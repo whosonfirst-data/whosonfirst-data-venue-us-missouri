@@ -2,14 +2,20 @@
   "id": 773480563,
   "type": "Feature",
   "properties": {
+    "addr:full":"100 Mid Rivers Mall Dr Saint Peters MO 63376",
+    "addr:housenumber":"100",
+    "addr:postcode":"63376",
+    "addr:street":"Mid Rivers Mall Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.621429,38.796009,-90.621429,38.796009",
     "geom:latitude":38.796009,
     "geom:longitude":-90.621429,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"100 Mid Rivers Mall Dr",
     "sg:city":"Saint Peters",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102086159,
         85821097
     ],
+    "wof:brand_id":1125152699,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6ecSPh1rcqaWKEN6OoU06z_38.796009_-90.621429@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462586076,
-    "wof:geomhash":"31eb7d83525dd78322e8866cc411316a",
+    "wof:geomhash":"4707866723aa99997bf41c24fd032023",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":773480563,
-    "wof:lastmodified":1466631155,
+    "wof:lastmodified":1510696808,
     "wof:name":"Bank of America NA",
     "wof:parent_id":85821097,
     "wof:placetype":"venue",

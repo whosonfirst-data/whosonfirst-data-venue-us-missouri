@@ -2,14 +2,20 @@
   "id": 790087765,
   "type": "Feature",
   "properties": {
+    "addr:full":"11888 Westline Industrial Dr St Louis MO 63146",
+    "addr:housenumber":"11888",
+    "addr:postcode":"63146",
+    "addr:street":"Westline Industrial Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.437191,38.702731,-90.437191,38.702731",
     "geom:latitude":38.702731,
     "geom:longitude":-90.437191,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"11888 Westline Industrial Dr",
     "sg:city":"St Louis",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102086173,
         85688661
     ],
+    "wof:brand_id":1125153593,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1w7udWA9oK4hi1IFYxtL4j_38.702731_-90.437191@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462593022,
-    "wof:geomhash":"e618453e852e56e08f258713e6bb51ba",
+    "wof:geomhash":"5bcd295db52925347b565ce173979ad8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":790087765,
-    "wof:lastmodified":1466624159,
+    "wof:lastmodified":1510695770,
     "wof:name":"Courtyard By Marriott",
     "wof:parent_id":85803699,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 790273219,
   "type": "Feature",
   "properties": {
+    "addr:full":"999 Old Rte 66 Waynesville MO 65584",
+    "addr:housenumber":"999",
+    "addr:postcode":"65584",
+    "addr:street":"Old Rte 66",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.216408,37.817747,-92.216408,37.817747",
     "geom:latitude":37.817747,
     "geom:longitude":-92.216408,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"999 Old Rte 66",
     "sg:city":"Waynesville",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102086161,
         85688661
     ],
+    "wof:brand_id":1125154549,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7iI2O9aq4WZdH5KV3IprQ7_37.817747_-92.216408@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462594529,
-    "wof:geomhash":"45e67b95d8f6041bdd95b92d0d9892a6",
+    "wof:geomhash":"a0d4e383c1d846d21b787e950869a4e5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":790273219,
-    "wof:lastmodified":1466628151,
+    "wof:lastmodified":1510699048,
     "wof:name":"OReilly Auto Parts",
     "wof:parent_id":85822351,
     "wof:placetype":"venue",

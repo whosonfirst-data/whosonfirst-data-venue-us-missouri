@@ -2,6 +2,10 @@
   "id": 806740771,
   "type": "Feature",
   "properties": {
+    "addr:full":"1128 N Farm Rd 123 Springfield MO 65802",
+    "addr:housenumber":"1128;123",
+    "addr:postcode":"65802",
+    "addr:street":"N Farm Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":806740771,
-    "wof:lastmodified":1466631586,
+    "wof:lastmodified":1472630609,
     "wof:name":"Shaughnessy",
     "wof:parent_id":85836941,
     "wof:placetype":"venue",

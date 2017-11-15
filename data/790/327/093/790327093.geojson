@@ -2,14 +2,20 @@
   "id": 790327093,
   "type": "Feature",
   "properties": {
+    "addr:full":"620 NW Englewood Rd Kansas City MO 64118",
+    "addr:housenumber":"620",
+    "addr:postcode":"64118",
+    "addr:street":"Nw Englewood Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.588812,39.195624,-94.588812,39.195624",
     "geom:latitude":39.195624,
     "geom:longitude":-94.588812,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"620 NW Englewood Rd",
     "sg:city":"Kansas City",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         85970477,
         102085271
     ],
+    "wof:brand_id":1125152107,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_48IX2miYKGLtDuJc6h1jH4_39.195624_-94.588812@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462594970,
-    "wof:geomhash":"fdf2caeb8454312f670579c5caa6ac9c",
+    "wof:geomhash":"4a8b1878f4d1c8be3af666ab7ceed15b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -67,7 +74,7 @@
         }
     ],
     "wof:id":790327093,
-    "wof:lastmodified":1466629061,
+    "wof:lastmodified":1510694959,
     "wof:name":"Signs By Tomorrow",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

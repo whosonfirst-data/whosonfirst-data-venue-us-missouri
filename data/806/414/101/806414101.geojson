@@ -2,14 +2,20 @@
   "id": 806414101,
   "type": "Feature",
   "properties": {
+    "addr:full":"2470 N US Hwy 67 Florissant MO 63033",
+    "addr:housenumber":"2470",
+    "addr:postcode":"63033",
+    "addr:street":"N Us Hwy 67",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.3068,38.804806,-90.3068,38.804806",
     "geom:latitude":38.804806,
     "geom:longitude":-90.3068,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2470 N US Hwy 67",
     "sg:city":"Florissant",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102086173,
         85688661
     ],
+    "wof:brand_id":1125153913,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2Xfz6dpJE7XSgd12rc3rWz_38.804806_-90.306800@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462597967,
-    "wof:geomhash":"7634f63e1a27c17b469a45f224e31876",
+    "wof:geomhash":"8cf1e5a6bb16033d28e77bbfe2b9c4fe",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":806414101,
-    "wof:lastmodified":1466623258,
+    "wof:lastmodified":1510699415,
     "wof:name":"Wolf Camera and Video",
     "wof:parent_id":85813019,
     "wof:placetype":"venue",

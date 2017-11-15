@@ -2,14 +2,20 @@
   "id": 773442013,
   "type": "Feature",
   "properties": {
+    "addr:full":"4 E Main St Festus MO 63028",
+    "addr:housenumber":"4",
+    "addr:postcode":"63028",
+    "addr:street":"E Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.389425,38.219451,-90.389425,38.219451",
     "geom:latitude":38.219451,
     "geom:longitude":-90.389425,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4 E Main St",
     "sg:city":"Festus",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102080787,
         85688661
     ],
+    "wof:brand_id":1125151249,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_02A93ksrXwuYn43UQHFT8y_38.219451_-90.389425@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462585773,
-    "wof:geomhash":"00623731aa6e652d9819acc75f4b7772",
+    "wof:geomhash":"99c5861f20410ac8220a8ead8d2741f8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":773442013,
-    "wof:lastmodified":1466630668,
+    "wof:lastmodified":1510697265,
     "wof:name":"Angel Nails",
     "wof:parent_id":420525375,
     "wof:placetype":"venue",

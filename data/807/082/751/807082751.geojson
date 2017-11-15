@@ -2,14 +2,20 @@
   "id": 807082751,
   "type": "Feature",
   "properties": {
+    "addr:full":"8600 Ward Pkwy Kansas City MO 64114",
+    "addr:housenumber":"8600",
+    "addr:postcode":"64114",
+    "addr:street":"Ward Pkwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.606194,38.973014,-94.606194,38.973014",
     "geom:latitude":38.973014,
     "geom:longitude":-94.606194,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"8600 Ward Pkwy",
     "sg:city":"Kansas City",
     "sg:classifiers":[
@@ -39,13 +45,14 @@
         102081227,
         85688661
     ],
+    "wof:brand_id":1125150283,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3MAUkgEjtWyejZJ0lmg0TI_38.973014_-94.606194@1299784598"
     },
     "wof:country":"US",
     "wof:created":1462603556,
-    "wof:geomhash":"d6bb247f21fd77033ec18e633f400f64",
+    "wof:geomhash":"4172d59860d5e2dd3ae317e54c56899b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,7 +66,7 @@
         }
     ],
     "wof:id":807082751,
-    "wof:lastmodified":1466624198,
+    "wof:lastmodified":1510695363,
     "wof:name":"Mcalister's Deli",
     "wof:parent_id":85871969,
     "wof:placetype":"venue",

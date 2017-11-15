@@ -2,14 +2,20 @@
   "id": 806539991,
   "type": "Feature",
   "properties": {
+    "addr:full":"2221 E Olive Ct Springfield MO 65802",
+    "addr:housenumber":"2221",
+    "addr:postcode":"65802",
+    "addr:street":"E Olive Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.251307,37.209508,-93.251307,37.209508",
     "geom:latitude":37.209508,
     "geom:longitude":-93.251307,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2221 E Olive Ct",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087523,
         85881137
     ],
+    "wof:brand_id":420574295,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5LFqv4V7iT3i77lmEJPZVx_37.209508_-93.251307@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462598953,
-    "wof:geomhash":"139125218d8dcce2156c30bec5ec3165",
+    "wof:geomhash":"8f9f0786422b7ee2fdd2b9fe89efe491",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":806539991,
-    "wof:lastmodified":1466626378,
+    "wof:lastmodified":1510604593,
     "wof:name":"Fedex",
     "wof:parent_id":85881137,
     "wof:placetype":"venue",

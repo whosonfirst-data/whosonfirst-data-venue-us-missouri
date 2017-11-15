@@ -2,14 +2,20 @@
   "id": 806942945,
   "type": "Feature",
   "properties": {
+    "addr:full":"2250 S Campbell Ave Springfield MO 65807",
+    "addr:housenumber":"2250",
+    "addr:postcode":"65807",
+    "addr:street":"S Campbell Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.295197,37.174386,-93.295197,37.174386",
     "geom:latitude":37.174386,
     "geom:longitude":-93.295197,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2250 S Campbell Ave",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102087523,
         85688661
     ],
+    "wof:brand_id":1125155683,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1QNz1CQxpTXcIIRtHDtJbF_37.174386_-93.295197@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462602384,
-    "wof:geomhash":"d2d353a1dd9106191bc8f71a98b2a0c4",
+    "wof:geomhash":"2c5bc05e6bbe9005c242246b0820cb07",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":806942945,
-    "wof:lastmodified":1466635315,
+    "wof:lastmodified":1510699660,
     "wof:name":"Sunbelt Credit",
     "wof:parent_id":85881155,
     "wof:placetype":"venue",

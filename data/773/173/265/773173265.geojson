@@ -2,14 +2,20 @@
   "id": 773173265,
   "type": "Feature",
   "properties": {
+    "addr:full":"3924 Jeffco Blvd Arnold MO 63010",
+    "addr:housenumber":"3924",
+    "addr:postcode":"63010",
+    "addr:street":"Jeffco Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.37799,38.40587,-90.37799,38.40587",
     "geom:latitude":38.40587,
     "geom:longitude":-90.37799,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3924 Jeffco Blvd",
     "sg:city":"Arnold",
     "sg:classifiers":[
@@ -30,13 +36,14 @@
         85805175,
         102080787
     ],
+    "wof:brand_id":420574979,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5NHLxBAshu9NRrVRNB2ywu_38.405870_-90.377990@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462583689,
-    "wof:geomhash":"76def88dab6e97e1ca629689462ceee5",
+    "wof:geomhash":"fc7b3442896ed5248c6158941d0c4fef",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -47,7 +54,7 @@
         }
     ],
     "wof:id":773173265,
-    "wof:lastmodified":1466624426,
+    "wof:lastmodified":1510604690,
     "wof:name":"Medicine Shoppe Pharmacy",
     "wof:parent_id":85805175,
     "wof:placetype":"venue",

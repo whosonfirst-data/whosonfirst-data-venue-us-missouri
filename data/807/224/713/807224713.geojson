@@ -2,14 +2,20 @@
   "id": 807224713,
   "type": "Feature",
   "properties": {
+    "addr:full":"2555 NW Vivion Rd Riverside MO 64150",
+    "addr:housenumber":"2555",
+    "addr:postcode":"64150",
+    "addr:street":"Nw Vivion Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.609963,39.179047,-94.609963,39.179047",
     "geom:latitude":39.179047,
     "geom:longitude":-94.609963,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2555 NW Vivion Rd",
     "sg:city":"Riverside",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102085271,
         85688661
     ],
+    "wof:brand_id":1125154659,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_59UYkhGgIQqg78v2JXMuBJ_39.179047_-94.609963@1303262933"
     },
     "wof:country":"US",
     "wof:created":1462605059,
-    "wof:geomhash":"799db5472ab122f40e9118b79542de25",
+    "wof:geomhash":"b353921851ba7841c32deea98930c31f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":807224713,
-    "wof:lastmodified":1466628707,
+    "wof:lastmodified":1510694720,
     "wof:name":"Lamar Advertising Co",
     "wof:parent_id":420525395,
     "wof:placetype":"venue",

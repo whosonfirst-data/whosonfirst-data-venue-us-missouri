@@ -2,14 +2,20 @@
   "id": 806699589,
   "type": "Feature",
   "properties": {
+    "addr:full":"1381 S Bishop Ave Rolla MO 65401",
+    "addr:housenumber":"1381",
+    "addr:postcode":"65401",
+    "addr:street":"S Bishop Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.780038,37.924091,-91.780038,37.924091",
     "geom:latitude":37.924091,
     "geom:longitude":-91.780038,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1381 S Bishop Ave",
     "sg:city":"Rolla",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102086893,
         85814531
     ],
+    "wof:brand_id":1125153781,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7WfmGClf1hJ45paXFvMQBZ_37.924091_-91.780038@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462600331,
-    "wof:geomhash":"c2251a206e6ebddf57c14d389a1063cf",
+    "wof:geomhash":"ce83d332e665ef21e80458f29eac6546",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":806699589,
-    "wof:lastmodified":1466630841,
+    "wof:lastmodified":1510696827,
     "wof:name":"Interstate Brands Corp",
     "wof:parent_id":85814531,
     "wof:placetype":"venue",

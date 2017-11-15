@@ -2,14 +2,20 @@
   "id": 790358979,
   "type": "Feature",
   "properties": {
+    "addr:full":"4457 Dr Martin Luther King Dr St Louis MO 63113",
+    "addr:housenumber":"4457",
+    "addr:postcode":"63113",
+    "addr:street":"Dr Martin Luther King Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.24644,38.657062,-90.24644,38.657062",
     "geom:latitude":38.657062,
     "geom:longitude":-90.24644,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4457 Dr Martin Luther King Dr",
     "sg:city":"St Louis",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102080791,
         85688661
     ],
+    "wof:brand_id":1125159621,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0fsWWcVnNmivYuCxm0XVvw_38.657062_-90.246440@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462595217,
-    "wof:geomhash":"949ff1070d9acb595ca5ef6d3f6505e7",
+    "wof:geomhash":"f26f486f9b8942e4b77a3baad586692f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":790358979,
-    "wof:lastmodified":1466629817,
+    "wof:lastmodified":1510696712,
     "wof:name":"Mt Sinai Baptist Church",
     "wof:parent_id":420525465,
     "wof:placetype":"venue",

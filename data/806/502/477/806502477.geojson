@@ -2,14 +2,20 @@
   "id": 806502477,
   "type": "Feature",
   "properties": {
+    "addr:full":"2063 Smizer Station Rd Valley Park MO 63088",
+    "addr:housenumber":"2063",
+    "addr:postcode":"63088",
+    "addr:street":"Smizer Station Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.495468,38.536881,-90.495468,38.536881",
     "geom:latitude":38.536881,
     "geom:longitude":-90.495468,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2063 Smizer Station Rd",
     "sg:city":"Valley Park",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102086173,
         85688661
     ],
+    "wof:brand_id":1125153987,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_67G40Qn4H8W8kPrNSLUfKi_38.536881_-90.495468@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462598651,
-    "wof:geomhash":"9767e30397d5563a13d773d9fe17c284",
+    "wof:geomhash":"033011d132d0afbc1a928b64a52706c1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":806502477,
-    "wof:lastmodified":1466625633,
+    "wof:lastmodified":1510699549,
     "wof:name":"Pennzoil 10 Minute Oil Change",
     "wof:parent_id":85841473,
     "wof:placetype":"venue",

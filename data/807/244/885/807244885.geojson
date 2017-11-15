@@ -2,14 +2,20 @@
   "id": 807244885,
   "type": "Feature",
   "properties": {
+    "addr:full":"3200 Lusk Dr Neosho MO 64850",
+    "addr:housenumber":"3200",
+    "addr:postcode":"64850",
+    "addr:street":"Lusk Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.394829,36.83868,-94.394829,36.83868",
     "geom:latitude":36.83868,
     "geom:longitude":-94.394829,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3200 Lusk Dr",
     "sg:city":"Neosho",
     "sg:classifiers":[
@@ -44,13 +50,14 @@
         102087471,
         85688661
     ],
+    "wof:brand_id":420575781,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6GPCPqsYf3YDiODbCqqK5Z_36.838680_-94.394829@1303262934"
     },
     "wof:country":"US",
     "wof:created":1462605275,
-    "wof:geomhash":"d64e4db7d80e0fd34314b3b656e9aa25",
+    "wof:geomhash":"8757c9e808a18b4100a384187af54152",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -64,7 +71,7 @@
         }
     ],
     "wof:id":807244885,
-    "wof:lastmodified":1466629210,
+    "wof:lastmodified":1510602088,
     "wof:name":"Arvest Bank",
     "wof:parent_id":85821247,
     "wof:placetype":"venue",

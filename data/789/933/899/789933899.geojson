@@ -2,6 +2,10 @@
   "id": 789933899,
   "type": "Feature",
   "properties": {
+    "addr:full":"2112 E 25 St Kansas City MO 64127",
+    "addr:housenumber":"2112;25",
+    "addr:postcode":"64127",
+    "addr:street":"E;St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":789933899,
-    "wof:lastmodified":1466630289,
+    "wof:lastmodified":1472630788,
     "wof:name":"Mike's Auto Sales",
     "wof:parent_id":85872025,
     "wof:placetype":"venue",

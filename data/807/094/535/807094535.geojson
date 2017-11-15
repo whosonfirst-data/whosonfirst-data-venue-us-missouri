@@ -2,14 +2,20 @@
   "id": 807094535,
   "type": "Feature",
   "properties": {
+    "addr:full":"2035 E Independence St Springfield MO 65804",
+    "addr:housenumber":"2035",
+    "addr:postcode":"65804",
+    "addr:street":"E Independence St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.256747,37.141468,-93.256747,37.141468",
     "geom:latitude":37.141468,
     "geom:longitude":-93.256747,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2035 E Independence St",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -39,13 +45,14 @@
         102087523,
         85688661
     ],
+    "wof:brand_id":1125159261,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_09BWT34fUH0D41H87bzJDL_37.141468_-93.256747@1299784598"
     },
     "wof:country":"US",
     "wof:created":1462603659,
-    "wof:geomhash":"1ee9f550845ff47e8bd6c1cf595e1a2c",
+    "wof:geomhash":"66b77c963fc862c7d2b835d4224715bd",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,7 +66,7 @@
         }
     ],
     "wof:id":807094535,
-    "wof:lastmodified":1466624733,
+    "wof:lastmodified":1510699645,
     "wof:name":"Fox and Hound",
     "wof:parent_id":85881149,
     "wof:placetype":"venue",

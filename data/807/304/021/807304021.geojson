@@ -2,14 +2,20 @@
   "id": 807304021,
   "type": "Feature",
   "properties": {
+    "addr:full":"1113 W Old Route 66 Strafford MO 65757",
+    "addr:housenumber":"1113",
+    "addr:postcode":"65757",
+    "addr:street":"W Old Route 66",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.139922,37.26383,-93.139922,37.26383",
     "geom:latitude":37.26383,
     "geom:longitude":-93.139922,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1113 W Old Route 66",
     "sg:city":"Strafford",
     "sg:classifiers":[
@@ -47,13 +53,14 @@
         102087523,
         85881137
     ],
+    "wof:brand_id":1125156749,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6mRuCP1s5ow5yXCvoBCjfd_37.263830_-93.139922@1303262938"
     },
     "wof:country":"US",
     "wof:created":1462605894,
-    "wof:geomhash":"7d10991761703fe6ab9a12785bd739ce",
+    "wof:geomhash":"95415de45bd704a7d9aac1d560535309",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -65,7 +72,7 @@
         }
     ],
     "wof:id":807304021,
-    "wof:lastmodified":1466630990,
+    "wof:lastmodified":1510694671,
     "wof:name":"First Assembly of God",
     "wof:parent_id":85881137,
     "wof:placetype":"venue",

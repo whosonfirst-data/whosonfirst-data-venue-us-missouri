@@ -2,6 +2,10 @@
   "id": 807045317,
   "type": "Feature",
   "properties": {
+    "addr:full":"14032 Pike 45 Bowling Green MO 63334",
+    "addr:housenumber":"14032;45",
+    "addr:postcode":"63334",
+    "addr:street":"Pike;Green",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":807045317,
-    "wof:lastmodified":1466623671,
+    "wof:lastmodified":1472630196,
     "wof:name":"Jim Scherder",
     "wof:parent_id":85817909,
     "wof:placetype":"venue",

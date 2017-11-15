@@ -2,14 +2,20 @@
   "id": 790021787,
   "type": "Feature",
   "properties": {
+    "addr:full":"1060 Country Club Rd Saint Charles MO 63303",
+    "addr:housenumber":"1060",
+    "addr:postcode":"63303",
+    "addr:street":"Country Club Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.536898,38.785937,-90.536898,38.785937",
     "geom:latitude":38.785937,
     "geom:longitude":-90.536898,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1060 Country Club Rd",
     "sg:city":"Saint Charles",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102086159,
         85821097
     ],
+    "wof:brand_id":1125151127,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5rUGVi4heeq6zLbtypUytg_38.785937_-90.536898@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462592504,
-    "wof:geomhash":"92d6d0a13ecf4daf0957ae7f9cee88ca",
+    "wof:geomhash":"2e31cb050194428932dad66ac30a2377",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":790021787,
-    "wof:lastmodified":1466622825,
+    "wof:lastmodified":1510696833,
     "wof:name":"UBS Financial Services Inc",
     "wof:parent_id":85821097,
     "wof:placetype":"venue",

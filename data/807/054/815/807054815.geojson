@@ -2,14 +2,20 @@
   "id": 807054815,
   "type": "Feature",
   "properties": {
+    "addr:full":"2253 S Grand Blvd Saint Louis MO 63104",
+    "addr:housenumber":"2253",
+    "addr:postcode":"63104",
+    "addr:street":"S Grand Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.240601,38.610001,-90.240601,38.610001",
     "geom:latitude":38.610001,
     "geom:longitude":-90.240601,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2253 S Grand Blvd",
     "sg:city":"Saint Louis",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102080791,
         85688661
     ],
+    "wof:brand_id":1125154781,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7fKsP12Fz9qUOEepHrMQZW_38.609697_-90.240845@1293134755"
     },
     "wof:country":"US",
     "wof:created":1462603323,
-    "wof:geomhash":"9c421b1bcdf8a054caf501e01fa8b1b9",
+    "wof:geomhash":"344ee366191da9677e97bd5a78b5380b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":807054815,
-    "wof:lastmodified":1466623686,
+    "wof:lastmodified":1510698934,
     "wof:name":"Nail Tech",
     "wof:parent_id":85873673,
     "wof:placetype":"venue",

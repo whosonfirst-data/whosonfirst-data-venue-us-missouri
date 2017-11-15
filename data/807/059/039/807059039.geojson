@@ -2,14 +2,20 @@
   "id": 807059039,
   "type": "Feature",
   "properties": {
+    "addr:full":"15367 Manchester Rd Ballwin MO 63011",
+    "addr:housenumber":"15367",
+    "addr:postcode":"63011",
+    "addr:street":"Manchester Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.561185,38.592815,-90.561185,38.592815",
     "geom:latitude":38.592815,
     "geom:longitude":-90.561185,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"15367 Manchester Rd",
     "sg:city":"Ballwin",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102086173,
         85688661
     ],
+    "wof:brand_id":1125150837,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0yymodyTUCgtZhJbLgeT5c_38.592815_-90.561185@1299784598"
     },
     "wof:country":"US",
     "wof:created":1462603364,
-    "wof:geomhash":"d957988f877058017ed11299885f9605",
+    "wof:geomhash":"2a52a6206060aa8040807855affee1a5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":807059039,
-    "wof:lastmodified":1466623829,
+    "wof:lastmodified":1510695416,
     "wof:name":"Maggie Moo's",
     "wof:parent_id":85831197,
     "wof:placetype":"venue",

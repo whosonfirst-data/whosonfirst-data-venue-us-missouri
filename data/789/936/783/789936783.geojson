@@ -2,6 +2,10 @@
   "id": 789936783,
   "type": "Feature",
   "properties": {
+    "addr:full":"1001 N 2nd St St Charles MO 63301",
+    "addr:housenumber":"1001",
+    "addr:postcode":"63301",
+    "addr:street":"N 2Nd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":789936783,
-    "wof:lastmodified":1466630601,
+    "wof:lastmodified":1472630783,
     "wof:name":"NPD Manufacturing Co",
     "wof:parent_id":85821097,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 806678447,
   "type": "Feature",
   "properties": {
+    "addr:full":"12203 E 43 St S Independence MO 64055",
+    "addr:housenumber":"12203;43",
+    "addr:postcode":"64055",
+    "addr:street":"E;St S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":806678447,
-    "wof:lastmodified":1466630288,
+    "wof:lastmodified":1472630547,
     "wof:name":"Oroweat Bakery",
     "wof:parent_id":85867021,
     "wof:placetype":"venue",

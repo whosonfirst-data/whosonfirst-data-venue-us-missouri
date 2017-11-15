@@ -2,6 +2,10 @@
   "id": 789891595,
   "type": "Feature",
   "properties": {
+    "addr:full":"8410 E 91 St Kansas City MO 64138",
+    "addr:housenumber":"8410;91",
+    "addr:postcode":"64138",
+    "addr:street":"E;St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":789891595,
-    "wof:lastmodified":1466629473,
+    "wof:lastmodified":1472630771,
     "wof:name":"Phillips Remodel Repair",
     "wof:parent_id":85871963,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 773149393,
   "type": "Feature",
   "properties": {
+    "addr:full":"1550 E Battlefield Rd Springfield MO 65804",
+    "addr:housenumber":"1550",
+    "addr:postcode":"65804",
+    "addr:street":"E Battlefield Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.265369,37.159354,-93.265369,37.159354",
     "geom:latitude":37.159354,
     "geom:longitude":-93.265369,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1550 E Battlefield Rd",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102087523,
         85688661
     ],
+    "wof:brand_id":420575377,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3FoRyNx6tAEItGBS4cV0xH_37.159354_-93.265369@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462583500,
-    "wof:geomhash":"ad3b62e200bf712178e321dc2e4bead8",
+    "wof:geomhash":"3f8b852a14a9048a20c7885db4a154e3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":773149393,
-    "wof:lastmodified":1466624081,
+    "wof:lastmodified":1510602072,
     "wof:name":"Staffmark",
     "wof:parent_id":85881149,
     "wof:placetype":"venue",

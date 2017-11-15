@@ -2,14 +2,20 @@
   "id": 807185189,
   "type": "Feature",
   "properties": {
+    "addr:full":"1101 Broadway Hannibal MO 63401",
+    "addr:housenumber":"1101",
+    "addr:postcode":"63401",
+    "addr:street":"Broadway",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.356111,39.709503,-91.356111,39.709503",
     "geom:latitude":39.709503,
     "geom:longitude":-91.356111,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1101 Broadway",
     "sg:city":"Hannibal",
     "sg:classifiers":[
@@ -43,13 +49,14 @@
         102086171,
         85688661
     ],
+    "wof:brand_id":420574045,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7I4lb8JNVLIEkWt9GX5bjh_39.709503_-91.356111@1303262930"
     },
     "wof:country":"US",
     "wof:created":1462604641,
-    "wof:geomhash":"1826fb0f6b46171864a5548a06eecf1f",
+    "wof:geomhash":"66bb08cf835de8918e34be2ceaf8b28b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -63,7 +70,7 @@
         }
     ],
     "wof:id":807185189,
-    "wof:lastmodified":1466627088,
+    "wof:lastmodified":1510604136,
     "wof:name":"First Christian Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

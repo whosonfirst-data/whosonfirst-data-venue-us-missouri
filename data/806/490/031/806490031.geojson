@@ -2,14 +2,20 @@
   "id": 806490031,
   "type": "Feature",
   "properties": {
+    "addr:full":"3391 Co Rd 329 Palmyra MO 63461",
+    "addr:housenumber":"3391",
+    "addr:postcode":"63461",
+    "addr:street":"Co Rd 329",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.55549,39.825715,-91.55549,39.825715",
     "geom:latitude":39.825715,
     "geom:longitude":-91.55549,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3391 Co Rd 329",
     "sg:city":"Palmyra",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102086213,
         85867477
     ],
+    "wof:brand_id":1125152183,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0fdRjR22KF4HWB457Jxknf_39.825715_-91.555490@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462598543,
-    "wof:geomhash":"0405b972ba5b8ec670692bcec857baa6",
+    "wof:geomhash":"cfde6f982ce7df1c674446105d84b943",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":806490031,
-    "wof:lastmodified":1466625250,
+    "wof:lastmodified":1510693997,
     "wof:name":"Womens International Bowl",
     "wof:parent_id":85867477,
     "wof:placetype":"venue",

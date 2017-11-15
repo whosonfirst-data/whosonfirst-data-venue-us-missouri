@@ -2,14 +2,20 @@
   "id": 807150485,
   "type": "Feature",
   "properties": {
+    "addr:full":"4712 Clifton Ave Saint Louis MO 63109",
+    "addr:housenumber":"4712",
+    "addr:postcode":"63109",
+    "addr:street":"Clifton Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.295502,38.588501,-90.295502,38.588501",
     "geom:latitude":38.588501,
     "geom:longitude":-90.295502,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4712 Clifton Ave",
     "sg:city":"Saint Louis",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102080791,
         85688661
     ],
+    "wof:brand_id":1125155847,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1jQVLoTaiQ2u9f9cQYgZmB_38.588501_-90.295502@1303262928"
     },
     "wof:country":"US",
     "wof:created":1462604278,
-    "wof:geomhash":"f943aa77950ff2d62d8082e471abfcaa",
+    "wof:geomhash":"87cb7865c34f86179f6fb7e44b346c83",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":807150485,
-    "wof:lastmodified":1466626050,
+    "wof:lastmodified":1510697486,
     "wof:name":"St Mark's Episcopal Church",
     "wof:parent_id":85850281,
     "wof:placetype":"venue",

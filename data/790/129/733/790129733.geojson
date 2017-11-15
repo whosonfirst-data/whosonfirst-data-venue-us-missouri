@@ -2,14 +2,20 @@
   "id": 790129733,
   "type": "Feature",
   "properties": {
+    "addr:full":"4016 Crackerneck Rd Independence MO 64055",
+    "addr:housenumber":"4016",
+    "addr:postcode":"64055",
+    "addr:street":"Crackerneck Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.37296,39.045606,-94.37296,39.045606",
     "geom:latitude":39.045606,
     "geom:longitude":-94.37296,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4016 Crackerneck Rd",
     "sg:city":"Independence",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102081227,
         85688661
     ],
+    "wof:brand_id":1125155477,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5R5dBObiJJ7ePdUWgjG1aq_39.045606_-94.372960@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462593358,
-    "wof:geomhash":"dee4fc59666f8e11bf376d1c2e29e933",
+    "wof:geomhash":"64acd87dcde47e5c226ba71647956d01",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":790129733,
-    "wof:lastmodified":1466624821,
+    "wof:lastmodified":1510612910,
     "wof:name":"Creative Touch",
     "wof:parent_id":85847737,
     "wof:placetype":"venue",

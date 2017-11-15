@@ -2,9 +2,14 @@
   "id": 806767787,
   "type": "Feature",
   "properties": {
+    "addr:full":"1015 Locust St Saint Louis MO 63101",
+    "addr:housenumber":"1015",
+    "addr:postcode":"63101",
+    "addr:street":"Locust St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.194242,38.629902,-90.194242,38.629902",
     "geom:latitude":38.629902,
     "geom:longitude":-90.194242,
@@ -36,7 +41,8 @@
         85633793,
         85971343,
         102080791,
-        85688661
+        85688661,
+        85873643
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,12 +61,22 @@
             "neighbourhood_id":85867033,
             "region_id":85688661,
             "venue_id":806767787
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080791,
+            "localadmin_id":404518053,
+            "locality_id":85971343,
+            "neighbourhood_id":85873643,
+            "region_id":85688661,
+            "venue_id":806767787
         }
     ],
     "wof:id":806767787,
-    "wof:lastmodified":1466632069,
+    "wof:lastmodified":1491933729,
     "wof:name":"Community Dev Adminstration",
-    "wof:parent_id":85867033,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],

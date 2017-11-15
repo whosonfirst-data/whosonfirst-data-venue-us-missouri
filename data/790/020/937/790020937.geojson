@@ -2,14 +2,20 @@
   "id": 790020937,
   "type": "Feature",
   "properties": {
+    "addr:full":"5704 Natural Bridge Ave Saint Louis MO 63120",
+    "addr:housenumber":"5704",
+    "addr:postcode":"63120",
+    "addr:street":"Natural Bridge Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.268826,38.684282,-90.268826,38.684282",
     "geom:latitude":38.684282,
     "geom:longitude":-90.268826,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5704 Natural Bridge Ave",
     "sg:city":"Saint Louis",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102080791,
         85688661
     ],
+    "wof:brand_id":1125157677,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2bAv1dYCt7uhvCKNjnftkN_38.684282_-90.268826@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462592497,
-    "wof:geomhash":"8f2e2e195afb7f5f6e0e77866e0890c6",
+    "wof:geomhash":"490ae4036445fb40160db7f70cda819e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":790020937,
-    "wof:lastmodified":1466622795,
+    "wof:lastmodified":1510695834,
     "wof:name":"Mighty Auto Parts",
     "wof:parent_id":85873709,
     "wof:placetype":"venue",

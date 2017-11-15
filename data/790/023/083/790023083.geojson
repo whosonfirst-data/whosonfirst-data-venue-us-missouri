@@ -2,14 +2,20 @@
   "id": 790023083,
   "type": "Feature",
   "properties": {
+    "addr:full":"12462 Hwy Vv Bowling Green MO 63334",
+    "addr:housenumber":"12462",
+    "addr:postcode":"63334",
+    "addr:street":"Hwy Vv",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.218734,39.421396,-91.218734,39.421396",
     "geom:latitude":39.421396,
     "geom:longitude":-91.218734,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"12462 Hwy Vv",
     "sg:city":"Bowling Green",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102086151,
         85817909
     ],
+    "wof:brand_id":420574139,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6eoz9VWQegPhUuKly7yLYW_39.421396_-91.218734@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462592516,
-    "wof:geomhash":"8d176d1740980d0c15f09953d30ca57e",
+    "wof:geomhash":"3fa54c02af042866361f2c0e70939fef",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":790023083,
-    "wof:lastmodified":1466622804,
+    "wof:lastmodified":1510603924,
     "wof:name":"Herbalife Distributor",
     "wof:parent_id":85817909,
     "wof:placetype":"venue",

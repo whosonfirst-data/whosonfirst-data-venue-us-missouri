@@ -2,6 +2,10 @@
   "id": 186259775,
   "type": "Feature",
   "properties": {
+    "addr:full":"City Hall 1200 Market Street, Room 120 St Louis MO 63103",
+    "addr:housenumber":"1200;120",
+    "addr:postcode":"63103",
+    "addr:street":"Market Street Room",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":186259775,
-    "wof:lastmodified":1466622262,
+    "wof:lastmodified":1472630463,
     "wof:name":"City of St. Louis Assessor's Office",
     "wof:parent_id":85873645,
     "wof:placetype":"venue",

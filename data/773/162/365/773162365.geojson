@@ -2,14 +2,20 @@
   "id": 773162365,
   "type": "Feature",
   "properties": {
+    "addr:full":"1826 S Stewart Ave Springfield MO 65804",
+    "addr:housenumber":"1826",
+    "addr:postcode":"65804",
+    "addr:street":"S Stewart Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.260132,37.181395,-93.260132,37.181395",
     "geom:latitude":37.181395,
     "geom:longitude":-93.260132,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1826 S Stewart Ave",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102087523,
         85688661
     ],
+    "wof:brand_id":1125151419,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Idynxu2ZjAjCrdqnYKzte_37.181395_-93.260132@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462583611,
-    "wof:geomhash":"dda442e912c197086d260af419cd12ad",
+    "wof:geomhash":"9cf81e35a1764d9559666be02bc836cd",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":773162365,
-    "wof:lastmodified":1466624166,
+    "wof:lastmodified":1510698997,
     "wof:name":"First Metropolitan Mortgage",
     "wof:parent_id":85829759,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 790429211,
   "type": "Feature",
   "properties": {
+    "addr:full":"501 W 38 St Kansas City MO 64111",
+    "addr:housenumber":"501",
+    "addr:postcode":"64111",
+    "addr:street":"W 38 St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.591892,39.05799,-94.591892,39.05799",
     "geom:latitude":39.05799,
     "geom:longitude":-94.591892,
@@ -34,7 +39,9 @@
         85633793,
         85970739,
         102081227,
-        85688661
+        85688661,
+        85871993,
+        85871989
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,12 +60,32 @@
             "neighbourhood_id":85857131,
             "region_id":85688661,
             "venue_id":790429211
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081227,
+            "localadmin_id":404518075,
+            "locality_id":85970739,
+            "neighbourhood_id":85871993,
+            "region_id":85688661,
+            "venue_id":790429211
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081227,
+            "localadmin_id":404518075,
+            "locality_id":85970739,
+            "neighbourhood_id":85871989,
+            "region_id":85688661,
+            "venue_id":790429211
         }
     ],
     "wof:id":790429211,
-    "wof:lastmodified":1466631318,
+    "wof:lastmodified":1491893860,
     "wof:name":"Absolute Hair",
-    "wof:parent_id":85857131,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],

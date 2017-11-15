@@ -2,14 +2,20 @@
   "id": 806964259,
   "type": "Feature",
   "properties": {
+    "addr:full":"100 W 10th St Rolla MO 65401",
+    "addr:housenumber":"100",
+    "addr:postcode":"65401",
+    "addr:street":"W 10Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.77153,37.951474,-91.77153,37.951474",
     "geom:latitude":37.951474,
     "geom:longitude":-91.77153,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"100 W 10th St",
     "sg:city":"Rolla",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102086893,
         85814531
     ],
+    "wof:brand_id":420575865,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2z4TdOdJKPGdQBTY9MDjcW_37.951474_-91.771530@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462602558,
-    "wof:geomhash":"ec539b7244d3a4b39a0e946cda211379",
+    "wof:geomhash":"e6cc3c18bf63cc68ce6c72c1c042e4c8",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":806964259,
-    "wof:lastmodified":1466635487,
+    "wof:lastmodified":1510602525,
     "wof:name":"US Air Force Recruiting",
     "wof:parent_id":85814531,
     "wof:placetype":"venue",

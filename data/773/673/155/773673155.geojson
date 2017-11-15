@@ -2,14 +2,20 @@
   "id": 773673155,
   "type": "Feature",
   "properties": {
+    "addr:full":"528 NW Englewood Rd Kansas City MO 64118",
+    "addr:housenumber":"528",
+    "addr:postcode":"64118",
+    "addr:street":"Nw Englewood Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.588233,39.195612,-94.588233,39.195612",
     "geom:latitude":39.195612,
     "geom:longitude":-94.588233,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"528 NW Englewood Rd",
     "sg:city":"Kansas City",
     "sg:classifiers":[
@@ -42,13 +48,14 @@
         85970477,
         102085271
     ],
+    "wof:brand_id":1125150809,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4v6lC6ZqwFFmod0BOUX5T8_39.195612_-94.588233@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462587488,
-    "wof:geomhash":"b475b4441c8b0fd8ce727c4acd4db5cb",
+    "wof:geomhash":"9c36a488df88f0bc18ca634e8cce5729",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -72,7 +79,7 @@
         }
     ],
     "wof:id":773673155,
-    "wof:lastmodified":1466634157,
+    "wof:lastmodified":1510697337,
     "wof:name":"Quiktrip",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

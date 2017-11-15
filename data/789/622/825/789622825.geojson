@@ -2,6 +2,10 @@
   "id": 789622825,
   "type": "Feature",
   "properties": {
+    "addr:full":"3333 Stadium Dr Kansas City MO 64128",
+    "addr:housenumber":"3333",
+    "addr:postcode":"64128",
+    "addr:street":"Stadium Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":789622825,
-    "wof:lastmodified":1466623649,
+    "wof:lastmodified":1472630287,
     "wof:name":"Joe's Auto & Body Ctr",
     "wof:parent_id":85867021,
     "wof:placetype":"venue",

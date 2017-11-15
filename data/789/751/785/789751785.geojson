@@ -2,14 +2,20 @@
   "id": 789751785,
   "type": "Feature",
   "properties": {
+    "addr:full":"18054 Hwy 161 Bowling Green MO 63334",
+    "addr:housenumber":"18054",
+    "addr:postcode":"63334",
+    "addr:street":"Hwy 161",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.194942,39.333006,-91.194942,39.333006",
     "geom:latitude":39.333006,
     "geom:longitude":-91.194942,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"18054 Hwy 161",
     "sg:city":"Bowling Green",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102086151,
         85817909
     ],
+    "wof:brand_id":420575017,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0Mhn1abM3RGGk89ez86Nyg_39.333006_-91.194942@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462590265,
-    "wof:geomhash":"01e7581ad3e9e5824e065062b97212cc",
+    "wof:geomhash":"425f8b9a37db4b2552e165faf75078ed",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":789751785,
-    "wof:lastmodified":1466626086,
+    "wof:lastmodified":1510602387,
     "wof:name":"Hardee's",
     "wof:parent_id":85817909,
     "wof:placetype":"venue",

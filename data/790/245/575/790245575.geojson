@@ -2,14 +2,20 @@
   "id": 790245575,
   "type": "Feature",
   "properties": {
+    "addr:full":"3859 Gravois Ave St Louis MO 63116",
+    "addr:housenumber":"3859",
+    "addr:postcode":"63116",
+    "addr:street":"Gravois Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.250973,38.591547,-90.250973,38.591547",
     "geom:latitude":38.591547,
     "geom:longitude":-90.250973,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3859 Gravois Ave",
     "sg:city":"St Louis",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102080791,
         85688661
     ],
+    "wof:brand_id":1125150085,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5aKGNBws2jHx41wKul8nuV_38.591547_-90.250973@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462594289,
-    "wof:geomhash":"a738959200dc3ff5def42acc90c09c84",
+    "wof:geomhash":"b9ceb3a17766d478c1a948d221ddd45e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":790245575,
-    "wof:lastmodified":1466627668,
+    "wof:lastmodified":1510696021,
     "wof:name":"Fashion Cents",
     "wof:parent_id":85873681,
     "wof:placetype":"venue",

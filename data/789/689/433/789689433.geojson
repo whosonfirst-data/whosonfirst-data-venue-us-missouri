@@ -2,6 +2,10 @@
   "id": 789689433,
   "type": "Feature",
   "properties": {
+    "addr:full":"235 Spring Dr St Charles MO 63303",
+    "addr:housenumber":"235",
+    "addr:postcode":"63303",
+    "addr:street":"Spring Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":789689433,
-    "wof:lastmodified":1466624751,
+    "wof:lastmodified":1472630321,
     "wof:name":"House Auto Body",
     "wof:parent_id":85821097,
     "wof:placetype":"venue",

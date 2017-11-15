@@ -2,14 +2,20 @@
   "id": 773517419,
   "type": "Feature",
   "properties": {
+    "addr:full":"6098 E Front St Kansas City MO 64120",
+    "addr:housenumber":"6098",
+    "addr:postcode":"64120",
+    "addr:street":"E Front St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.510491,39.130531,-94.510491,39.130531",
     "geom:latitude":39.130531,
     "geom:longitude":-94.510491,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"6098 E Front St",
     "sg:city":"Kansas City",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102081227,
         85688661
     ],
+    "wof:brand_id":1125152341,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4nIRcS4k04Jsfou9GzFyAc_39.130531_-94.510491@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462586326,
-    "wof:geomhash":"e944adf559a5c6cb86664c7e917e9afd",
+    "wof:geomhash":"e5d906a8526083afd7f06f16446188ee",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":773517419,
-    "wof:lastmodified":1466632119,
+    "wof:lastmodified":1510613375,
     "wof:name":"Federal Express Corporation",
     "wof:parent_id":85871999,
     "wof:placetype":"venue",

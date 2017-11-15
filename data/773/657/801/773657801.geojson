@@ -2,14 +2,20 @@
   "id": 773657801,
   "type": "Feature",
   "properties": {
+    "addr:full":"12228 Natural Bridge Rd Bridgeton MO 63044",
+    "addr:housenumber":"12228",
+    "addr:postcode":"63044",
+    "addr:street":"Natural Bridge Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.419949,38.755807,-90.419949,38.755807",
     "geom:latitude":38.755807,
     "geom:longitude":-90.419949,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"12228 Natural Bridge Rd",
     "sg:city":"Bridgeton",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102086173,
         85688661
     ],
+    "wof:brand_id":1125151003,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7eS38GpCVEjGcv53y9Zn3g_38.755807_-90.419949@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462587377,
-    "wof:geomhash":"1a591442b1ad82fda62fb651de29cbd0",
+    "wof:geomhash":"0d59991afbfb43fb1462983af35bb46f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":773657801,
-    "wof:lastmodified":1466634092,
+    "wof:lastmodified":1510695763,
     "wof:name":"Binswanger Glass Co",
     "wof:parent_id":85836381,
     "wof:placetype":"venue",

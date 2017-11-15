@@ -2,6 +2,10 @@
   "id": 790620271,
   "type": "Feature",
   "properties": {
+    "addr:full":"16205 E 29 St S Independence MO 64055",
+    "addr:housenumber":"16205;29",
+    "addr:postcode":"64055",
+    "addr:street":"E;St S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":790620271,
-    "wof:lastmodified":1466634363,
+    "wof:lastmodified":1472630902,
     "wof:name":"Mansion APT",
     "wof:parent_id":85847737,
     "wof:placetype":"venue",

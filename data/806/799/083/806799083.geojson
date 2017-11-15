@@ -2,6 +2,10 @@
   "id": 806799083,
   "type": "Feature",
   "properties": {
+    "addr:full":"16701 E 43 St S Independence MO 64055",
+    "addr:housenumber":"16701;43",
+    "addr:postcode":"64055",
+    "addr:street":"E;St S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":806799083,
-    "wof:lastmodified":1466633031,
+    "wof:lastmodified":1472630705,
     "wof:name":"Woodmoor Condominium Assoc",
     "wof:parent_id":85847737,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 806554795,
   "type": "Feature",
   "properties": {
+    "addr:full":"600 N Truman Blvd Crystal City MO 63019",
+    "addr:housenumber":"600",
+    "addr:postcode":"63019",
+    "addr:street":"N Truman Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.385129,38.225888,-90.385129,38.225888",
     "geom:latitude":38.225888,
     "geom:longitude":-90.385129,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"600 N Truman Blvd",
     "sg:city":"Crystal City",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102080787,
         85688661
     ],
+    "wof:brand_id":1125159431,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1UU0IMcr3Fzv6mQ2izzXZN_38.225888_-90.385129@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462599069,
-    "wof:geomhash":"5de2aaabf70bff1fc85837d4079df21c",
+    "wof:geomhash":"617a2674b80c47dd7ea4684d4ee463a4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":806554795,
-    "wof:lastmodified":1466626731,
+    "wof:lastmodified":1510697980,
     "wof:name":"Vogue Cleaners",
     "wof:parent_id":420525375,
     "wof:placetype":"venue",

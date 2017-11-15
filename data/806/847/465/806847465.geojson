@@ -2,6 +2,10 @@
   "id": 806847465,
   "type": "Feature",
   "properties": {
+    "addr:full":"12626 E 40 St S Independence MO 64055",
+    "addr:housenumber":"12626;40",
+    "addr:postcode":"64055",
+    "addr:street":"E;St S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":806847465,
-    "wof:lastmodified":1466633620,
+    "wof:lastmodified":1472630666,
     "wof:name":"Gary A Boring DC",
     "wof:parent_id":85871965,
     "wof:placetype":"venue",

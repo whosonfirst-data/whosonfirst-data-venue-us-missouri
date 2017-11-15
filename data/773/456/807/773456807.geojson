@@ -2,6 +2,10 @@
   "id": 773456807,
   "type": "Feature",
   "properties": {
+    "addr:full":"12012 E 40 St S Independence MO 64052",
+    "addr:housenumber":"12012;40",
+    "addr:postcode":"64052",
+    "addr:street":"E;St S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":773456807,
-    "wof:lastmodified":1466630778,
+    "wof:lastmodified":1472631008,
     "wof:name":"I Furniture-Today Inc",
     "wof:parent_id":85867021,
     "wof:placetype":"venue",

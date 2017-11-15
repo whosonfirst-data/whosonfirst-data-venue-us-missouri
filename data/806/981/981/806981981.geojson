@@ -2,14 +2,20 @@
   "id": 806981981,
   "type": "Feature",
   "properties": {
+    "addr:full":"6613 Pernod Ave St Louis MO 63139",
+    "addr:housenumber":"6613",
+    "addr:postcode":"63139",
+    "addr:street":"Pernod Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.305775,38.598067,-90.305775,38.598067",
     "geom:latitude":38.598067,
     "geom:longitude":-90.305775,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"6613 Pernod Ave",
     "sg:city":"St Louis",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102080791,
         85688661
     ],
+    "wof:brand_id":1125151331,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3l53LFdHF3rsETn515PjBY_38.598067_-90.305775@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462602709,
-    "wof:geomhash":"1177856067292bea90bdcc22ae1a9fbe",
+    "wof:geomhash":"43697373fb0e9412a0e992a4561308aa",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":806981981,
-    "wof:lastmodified":1466635607,
+    "wof:lastmodified":1510694949,
     "wof:name":"Sisters Of Mercy",
     "wof:parent_id":85817813,
     "wof:placetype":"venue",

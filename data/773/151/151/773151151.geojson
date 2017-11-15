@@ -2,14 +2,20 @@
   "id": 773151151,
   "type": "Feature",
   "properties": {
+    "addr:full":"10801 W Florissant Ave St Louis MO 63136",
+    "addr:housenumber":"10801",
+    "addr:postcode":"63136",
+    "addr:street":"W Florissant Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.280093,38.769859,-90.280093,38.769859",
     "geom:latitude":38.769859,
     "geom:longitude":-90.280093,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"10801 W Florissant Ave",
     "sg:city":"St Louis",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102086173,
         85688661
     ],
+    "wof:brand_id":1125155521,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6lLVLpGPNhHh8ogGPeWDd7_38.769859_-90.280093@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462583532,
-    "wof:geomhash":"136546de28b11f4d81da0701b00a8c88",
+    "wof:geomhash":"a63f0f43ef1345b2a7b93265ad8126b6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":773151151,
-    "wof:lastmodified":1466624127,
+    "wof:lastmodified":1510697969,
     "wof:name":"National Tire & Battery",
     "wof:parent_id":85813019,
     "wof:placetype":"venue",

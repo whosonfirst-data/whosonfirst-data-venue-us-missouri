@@ -2,14 +2,20 @@
   "id": 806830413,
   "type": "Feature",
   "properties": {
+    "addr:full":"2301 E Truman Rd Kansas City MO 64127",
+    "addr:housenumber":"2301",
+    "addr:postcode":"64127",
+    "addr:street":"E Truman Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.553913,39.094753,-94.553913,39.094753",
     "geom:latitude":39.094753,
     "geom:longitude":-94.553913,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2301 E Truman Rd",
     "sg:city":"Kansas City",
     "sg:classifiers":[
@@ -39,13 +45,14 @@
         102081227,
         85688661
     ],
+    "wof:brand_id":1125152751,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4mWuGec0FEg4OzHy5qsACs_39.094753_-94.553913@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462601428,
-    "wof:geomhash":"2e0e555f3b720da2590b3b2b56552a60",
+    "wof:geomhash":"d0b15b9a4ddaf1b900467f7dd7eb9d30",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,7 +66,7 @@
         }
     ],
     "wof:id":806830413,
-    "wof:lastmodified":1466633296,
+    "wof:lastmodified":1510693929,
     "wof:name":"Wesco Distributing Inc",
     "wof:parent_id":85872021,
     "wof:placetype":"venue",

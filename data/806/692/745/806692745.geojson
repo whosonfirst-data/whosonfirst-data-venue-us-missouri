@@ -2,6 +2,10 @@
   "id": 806692745,
   "type": "Feature",
   "properties": {
+    "addr:full":"101 N Main St Joplin MO 64801",
+    "addr:housenumber":"101",
+    "addr:postcode":"64801",
+    "addr:street":"N Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -68,7 +72,7 @@
         }
     ],
     "wof:id":806692745,
-    "wof:lastmodified":1466630447,
+    "wof:lastmodified":1472630555,
     "wof:name":"Joplin Main Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

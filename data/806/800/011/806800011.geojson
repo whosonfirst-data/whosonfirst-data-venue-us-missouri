@@ -2,14 +2,20 @@
   "id": 806800011,
   "type": "Feature",
   "properties": {
+    "addr:full":"3038 W Republic Rd Springfield MO 65807",
+    "addr:housenumber":"3038",
+    "addr:postcode":"65807",
+    "addr:street":"W Republic Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.340359,37.138368,-93.340359,37.138368",
     "geom:latitude":37.138368,
     "geom:longitude":-93.340359,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3038 W Republic Rd",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         85881151,
         102087523
     ],
+    "wof:brand_id":1125159631,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2WABPxmOIC3dyCA4iMFFyR_37.138368_-93.340359@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462601185,
-    "wof:geomhash":"7fc807be4b74acf67365fb5f9f7e8847",
+    "wof:geomhash":"acec8cd3d2ca56067582e3ddf3820dc1",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":806800011,
-    "wof:lastmodified":1466632695,
+    "wof:lastmodified":1510695700,
     "wof:name":"OReilly Automotive Inc",
     "wof:parent_id":85881151,
     "wof:placetype":"venue",

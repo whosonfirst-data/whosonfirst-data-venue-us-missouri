@@ -2,14 +2,20 @@
   "id": 790003685,
   "type": "Feature",
   "properties": {
+    "addr:full":"12 Foxbend Ct St Charles MO 63301",
+    "addr:housenumber":"12",
+    "addr:postcode":"63301",
+    "addr:street":"Foxbend Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.55894,38.803496,-90.55894,38.803496",
     "geom:latitude":38.803496,
     "geom:longitude":-90.55894,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"12 Foxbend Ct",
     "sg:city":"St Charles",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102086159,
         85821097
     ],
+    "wof:brand_id":1125158531,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1rJNesqWXYB95D2pElMbDL_38.803496_-90.558940@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462592355,
-    "wof:geomhash":"3fe76c521ef5b7a1eca4cdd4b889d725",
+    "wof:geomhash":"1035408e64528397608f89f0dc01de1c",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":790003685,
-    "wof:lastmodified":1466622223,
+    "wof:lastmodified":1510698664,
     "wof:name":"Flowserve Corp",
     "wof:parent_id":85821097,
     "wof:placetype":"venue",

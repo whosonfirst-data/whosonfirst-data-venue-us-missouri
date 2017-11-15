@@ -2,9 +2,14 @@
   "id": 790070255,
   "type": "Feature",
   "properties": {
+    "addr:full":"2 W 39 St Kansas City MO 64111",
+    "addr:housenumber":"2",
+    "addr:postcode":"64111",
+    "addr:street":"W 39 St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.587311,39.056619,-94.587311,39.056619",
     "geom:latitude":39.056619,
     "geom:longitude":-94.587311,
@@ -29,13 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871993,
+        85857131,
         102191575,
         404518075,
         85633793,
         85970739,
         102081227,
-        85688661
+        85688661,
+        85871993
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,15 +57,25 @@
             "county_id":102081227,
             "localadmin_id":404518075,
             "locality_id":85970739,
+            "neighbourhood_id":85857131,
+            "region_id":85688661,
+            "venue_id":790070255
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081227,
+            "localadmin_id":404518075,
+            "locality_id":85970739,
             "neighbourhood_id":85871993,
             "region_id":85688661,
             "venue_id":790070255
         }
     ],
     "wof:id":790070255,
-    "wof:lastmodified":1466623822,
+    "wof:lastmodified":1491893868,
     "wof:name":"Magoooos Inc",
-    "wof:parent_id":85871993,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],

@@ -2,14 +2,20 @@
   "id": 789973661,
   "type": "Feature",
   "properties": {
+    "addr:full":"400 NW Barry Rd Kansas City MO 64155",
+    "addr:housenumber":"400",
+    "addr:postcode":"64155",
+    "addr:street":"Nw Barry Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.589716,39.246488,-94.589716,39.246488",
     "geom:latitude":39.246488,
     "geom:longitude":-94.589716,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"400 NW Barry Rd",
     "sg:city":"Kansas City",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102081227,
         85688661
     ],
+    "wof:brand_id":1125152531,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1WNjXXzUHKkaazGXjquGhQ_39.246488_-94.589716@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462592113,
-    "wof:geomhash":"a1ba63791ba35fa6a9099fae4484df00",
+    "wof:geomhash":"7d07d2ebb373e4e66c16a396c378404e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":789973661,
-    "wof:lastmodified":1466631361,
+    "wof:lastmodified":1510696763,
     "wof:name":"Icing By Claire's",
     "wof:parent_id":85821231,
     "wof:placetype":"venue",

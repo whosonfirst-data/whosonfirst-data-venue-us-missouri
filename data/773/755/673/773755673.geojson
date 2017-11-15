@@ -2,14 +2,20 @@
   "id": 773755673,
   "type": "Feature",
   "properties": {
+    "addr:full":"1727 Warren St Kansas City MO 64116",
+    "addr:housenumber":"1727",
+    "addr:postcode":"64116",
+    "addr:street":"Warren St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.550745,39.140344,-94.550745,39.140344",
     "geom:latitude":39.140344,
     "geom:longitude":-94.550745,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1727 Warren St",
     "sg:city":"Kansas City",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102081227,
         85688661
     ],
+    "wof:brand_id":1125154207,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_61V2XKyPpykJQ3GJiceESP_39.140344_-94.550745@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462588137,
-    "wof:geomhash":"9ba36b6d7ead450e2d39835353c08424",
+    "wof:geomhash":"6f557f9f8a389825f7d91e1141a8d147",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":773755673,
-    "wof:lastmodified":1466634970,
+    "wof:lastmodified":1510694736,
     "wof:name":"Georgia-Pacific",
     "wof:parent_id":85867025,
     "wof:placetype":"venue",

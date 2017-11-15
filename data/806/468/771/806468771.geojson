@@ -2,14 +2,20 @@
   "id": 806468771,
   "type": "Feature",
   "properties": {
+    "addr:full":"408 Old Smizer Mill Rd Fenton MO 63026",
+    "addr:housenumber":"408",
+    "addr:postcode":"63026",
+    "addr:street":"Old Smizer Mill Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.451268,38.516073,-90.451268,38.516073",
     "geom:latitude":38.516073,
     "geom:longitude":-90.451268,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"408 Old Smizer Mill Rd",
     "sg:city":"Fenton",
     "sg:classifiers":[
@@ -42,13 +48,14 @@
         102086173,
         85688661
     ],
+    "wof:brand_id":1125158475,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5kCV14q4AwNCs4zXlacgMO_38.516073_-90.451268@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462598381,
-    "wof:geomhash":"bc1f2c86ca582ab6631218e8d3486cf8",
+    "wof:geomhash":"37686a7c47ebd3ffaf6267ace8b222c7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -62,7 +69,7 @@
         }
     ],
     "wof:id":806468771,
-    "wof:lastmodified":1466624711,
+    "wof:lastmodified":1510699305,
     "wof:name":"Children's Orchard",
     "wof:parent_id":85858661,
     "wof:placetype":"venue",

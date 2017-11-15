@@ -2,14 +2,20 @@
   "id": 789771977,
   "type": "Feature",
   "properties": {
+    "addr:full":"3701 SW Cheddington Dr Lees Summit MO 64082",
+    "addr:housenumber":"3701",
+    "addr:postcode":"64082",
+    "addr:street":"Sw Cheddington Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.383546,38.851523,-94.383546,38.851523",
     "geom:latitude":38.851523,
     "geom:longitude":-94.383546,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3701 SW Cheddington Dr",
     "sg:city":"Lees Summit",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102081227,
         85688661
     ],
+    "wof:brand_id":1125153317,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3n9uMadMARVTFcUigmXx68_38.851523_-94.383546@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462590415,
-    "wof:geomhash":"0ffe831c9ef52431b14705b9fcf132b6",
+    "wof:geomhash":"363e95516f336c32845e24f7427846a2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":789771977,
-    "wof:lastmodified":1466626666,
+    "wof:lastmodified":1510699509,
     "wof:name":"La Petite Academy Inc",
     "wof:parent_id":85849825,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 789962641,
   "type": "Feature",
   "properties": {
+    "addr:full":"14201 E 39 Ter S Independence MO 64055",
+    "addr:housenumber":"14201;39 ter",
+    "addr:postcode":"64055",
+    "addr:street":"E;S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":789962641,
-    "wof:lastmodified":1466631198,
+    "wof:lastmodified":1472630776,
     "wof:name":"Sanders Electric",
     "wof:parent_id":85871965,
     "wof:placetype":"venue",

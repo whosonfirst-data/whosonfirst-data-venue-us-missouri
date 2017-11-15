@@ -2,6 +2,10 @@
   "id": 789760203,
   "type": "Feature",
   "properties": {
+    "addr:full":"8520 US Hwy 40 Kansas City MO 64129",
+    "addr:housenumber":"8520",
+    "addr:postcode":"64129",
+    "addr:street":"Us Hwy 40",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":789760203,
-    "wof:lastmodified":1466626400,
+    "wof:lastmodified":1472630427,
     "wof:name":"Complete Auto Svc",
     "wof:parent_id":85867021,
     "wof:placetype":"venue",

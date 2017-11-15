@@ -2,14 +2,20 @@
   "id": 790341123,
   "type": "Feature",
   "properties": {
+    "addr:full":"1610 W Columbia St Farmington MO 63640",
+    "addr:housenumber":"1610",
+    "addr:postcode":"63640",
+    "addr:street":"W Columbia St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.445254,37.771686,-90.445254,37.771686",
     "geom:latitude":37.771686,
     "geom:longitude":-90.445254,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1610 W Columbia St",
     "sg:city":"Farmington",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102085297,
         85816309
     ],
+    "wof:brand_id":1125157087,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0n8L8tFUa4YybD7IwatfAv_37.771686_-90.445254@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462595070,
-    "wof:geomhash":"ea854fee43b16b29f6874d2be517879e",
+    "wof:geomhash":"e3888c871d2b0cc6f0aad0b28a16c635",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":790341123,
-    "wof:lastmodified":1466629605,
+    "wof:lastmodified":1510693785,
     "wof:name":"US Army Reserve Ctr",
     "wof:parent_id":85816309,
     "wof:placetype":"venue",

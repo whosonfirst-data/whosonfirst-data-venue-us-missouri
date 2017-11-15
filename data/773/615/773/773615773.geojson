@@ -2,14 +2,20 @@
   "id": 773615773,
   "type": "Feature",
   "properties": {
+    "addr:full":"1150 Spencer Hill Dr Saint Peters MO 63376",
+    "addr:housenumber":"1150",
+    "addr:postcode":"63376",
+    "addr:street":"Spencer Hill Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.599842,38.786141,-90.599842,38.786141",
     "geom:latitude":38.786141,
     "geom:longitude":-90.599842,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1150 Spencer Hill Dr",
     "sg:city":"Saint Peters",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102086159,
         85821097
     ],
+    "wof:brand_id":1125155953,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1X9N8DQBgOqdMxwx7kEaBh_38.786141_-90.599842@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462587057,
-    "wof:geomhash":"e07a9c39ff7e406e086f5aa086a23be2",
+    "wof:geomhash":"ebccb3b1bb7a42e83f0fbc2de85cbc59",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":773615773,
-    "wof:lastmodified":1466633391,
+    "wof:lastmodified":1510698914,
     "wof:name":"Mrs Fields Original Cookies",
     "wof:parent_id":85821097,
     "wof:placetype":"venue",

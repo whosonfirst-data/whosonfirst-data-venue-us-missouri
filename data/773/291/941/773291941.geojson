@@ -2,14 +2,20 @@
   "id": 773291941,
   "type": "Feature",
   "properties": {
+    "addr:full":"1339 Burlington St Kansas City MO 64116",
+    "addr:housenumber":"1339",
+    "addr:postcode":"64116",
+    "addr:street":"Burlington St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.580364,39.133488,-94.580364,39.133488",
     "geom:latitude":39.133488,
     "geom:longitude":-94.580364,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1339 Burlington St",
     "sg:city":"Kansas City",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102086177,
         85688661
     ],
+    "wof:brand_id":1125152889,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5IrKGapiCAVK9WsqOtqezW_39.133488_-94.580364@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462584614,
-    "wof:geomhash":"47273633db2d149d19b3aaefa0ee6baf",
+    "wof:geomhash":"36286240f9d0edd726fdf49933d757a2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":773291941,
-    "wof:lastmodified":1466626978,
+    "wof:lastmodified":1510695967,
     "wof:name":"Mr Transmission",
     "wof:parent_id":85823983,
     "wof:placetype":"venue",

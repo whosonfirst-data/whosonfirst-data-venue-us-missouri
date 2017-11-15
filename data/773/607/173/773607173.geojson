@@ -2,14 +2,20 @@
   "id": 773607173,
   "type": "Feature",
   "properties": {
+    "addr:full":"7411 Hall St Saint Louis MO 63147",
+    "addr:housenumber":"7411",
+    "addr:postcode":"63147",
+    "addr:street":"Hall St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.224313,38.705162,-90.224313,38.705162",
     "geom:latitude":38.705162,
     "geom:longitude":-90.224313,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"7411 Hall St",
     "sg:city":"Saint Louis",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102080791,
         85688661
     ],
+    "wof:brand_id":1125151917,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_53ewYiI4WaRnbx0rvujFU6_38.705162_-90.224313@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462586989,
-    "wof:geomhash":"3a848980bda32604e077104e94789958",
+    "wof:geomhash":"d2e587d24c0e37d86cdab51b5a607481",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":773607173,
-    "wof:lastmodified":1466633261,
+    "wof:lastmodified":1510699395,
     "wof:name":"USFreightways",
     "wof:parent_id":85873607,
     "wof:placetype":"venue",

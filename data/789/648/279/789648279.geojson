@@ -2,14 +2,20 @@
   "id": 789648279,
   "type": "Feature",
   "properties": {
+    "addr:full":"510 W Coler St Neosho MO 64850",
+    "addr:housenumber":"510",
+    "addr:postcode":"64850",
+    "addr:street":"W Coler St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.376587,36.872939,-94.376587,36.872939",
     "geom:latitude":36.872939,
     "geom:longitude":-94.376587,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"510 W Coler St",
     "sg:city":"Neosho",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102087471,
         85688661
     ],
+    "wof:brand_id":1125151405,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2CEFzZOk9qoyk8JaiHklOx_36.872939_-94.376587@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462589437,
-    "wof:geomhash":"fa016a13cadc587568aeb6bda3574144",
+    "wof:geomhash":"126f84ab7e0189a7d75cc972c0f1ca1b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":789648279,
-    "wof:lastmodified":1466624030,
+    "wof:lastmodified":1510699335,
     "wof:name":"Bumper To Bumper Auto Parts",
     "wof:parent_id":85821247,
     "wof:placetype":"venue",

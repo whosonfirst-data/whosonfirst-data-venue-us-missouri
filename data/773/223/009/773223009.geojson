@@ -2,14 +2,20 @@
   "id": 773223009,
   "type": "Feature",
   "properties": {
+    "addr:full":"4620 Hampton Ave St Louis MO 63109",
+    "addr:housenumber":"4620",
+    "addr:postcode":"63109",
+    "addr:street":"Hampton Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.293236,38.587987,-90.293236,38.587987",
     "geom:latitude":38.587987,
     "geom:longitude":-90.293236,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4620 Hampton Ave",
     "sg:city":"St Louis",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102080791,
         85688661
     ],
+    "wof:brand_id":1125150329,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2w8OxgZZYiR7PXK1wy8uYs_38.587987_-90.293236@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462584095,
-    "wof:geomhash":"ba37c97085e509f7c91e0a45e28f6d40",
+    "wof:geomhash":"8034492f3ea33284ef41cd0b2ee7c954",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":773223009,
-    "wof:lastmodified":1466625518,
+    "wof:lastmodified":1510694575,
     "wof:name":"Mattress Giant",
     "wof:parent_id":85850281,
     "wof:placetype":"venue",

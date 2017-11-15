@@ -2,14 +2,20 @@
   "id": 773410463,
   "type": "Feature",
   "properties": {
+    "addr:full":"2200 N Courtney Rd Independence MO 64058",
+    "addr:housenumber":"2200",
+    "addr:postcode":"64058",
+    "addr:street":"N Courtney Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.392068,39.146333,-94.392068,39.146333",
     "geom:latitude":39.146333,
     "geom:longitude":-94.392068,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2200 N Courtney Rd",
     "sg:city":"Independence",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102081227,
         85688661
     ],
+    "wof:brand_id":1125159603,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4G1Jv2wVnio4ATfaimxwIi_39.146333_-94.392068@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462585491,
-    "wof:geomhash":"5a95925b2ad5614ad73ceace800554d5",
+    "wof:geomhash":"6919121fbb1c4381e537507d19f68e6a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":773410463,
-    "wof:lastmodified":1466629751,
+    "wof:lastmodified":1510695405,
     "wof:name":"Lafarge Corp",
     "wof:parent_id":85812585,
     "wof:placetype":"venue",

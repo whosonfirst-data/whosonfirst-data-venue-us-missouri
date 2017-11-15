@@ -2,14 +2,20 @@
   "id": 807078027,
   "type": "Feature",
   "properties": {
+    "addr:full":"19921 E Jackson Dr Independence MO 64057",
+    "addr:housenumber":"19921",
+    "addr:postcode":"64057",
+    "addr:street":"E Jackson Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.345465,39.040918,-94.345465,39.040918",
     "geom:latitude":39.040918,
     "geom:longitude":-94.345465,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"19921 E Jackson Dr",
     "sg:city":"Independence",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102081227,
         85688661
     ],
+    "wof:brand_id":1125151697,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1W9PHLok6ccLsODiuR8x0D_39.040918_-94.345465@1299784598"
     },
     "wof:country":"US",
     "wof:created":1462603517,
-    "wof:geomhash":"0e4a26d10f6ad136da5314061308e80c",
+    "wof:geomhash":"456716751e817f22251d409270fe2ad5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":807078027,
-    "wof:lastmodified":1466624247,
+    "wof:lastmodified":1510693896,
     "wof:name":"On The Border",
     "wof:parent_id":85847737,
     "wof:placetype":"venue",

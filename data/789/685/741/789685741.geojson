@@ -2,6 +2,10 @@
   "id": 789685741,
   "type": "Feature",
   "properties": {
+    "addr:full":"18904 E 34 St S Independence MO 64057",
+    "addr:housenumber":"18904;34",
+    "addr:postcode":"64057",
+    "addr:street":"E;St S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":789685741,
-    "wof:lastmodified":1466624716,
+    "wof:lastmodified":1472630344,
     "wof:name":"Logistics 1-2-3 LTD",
     "wof:parent_id":85847737,
     "wof:placetype":"venue",

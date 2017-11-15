@@ -2,6 +2,10 @@
   "id": 807070223,
   "type": "Feature",
   "properties": {
+    "addr:full":"3601 Harry S Truman Blvd Saint Charles MO 63301",
+    "addr:housenumber":"3601",
+    "addr:postcode":"63301",
+    "addr:street":"Harry S Truman Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":807070223,
-    "wof:lastmodified":1466624167,
+    "wof:lastmodified":1472630232,
     "wof:name":"Casey's General Store",
     "wof:parent_id":85821097,
     "wof:placetype":"venue",

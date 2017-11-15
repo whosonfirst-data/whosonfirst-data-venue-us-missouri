@@ -2,6 +2,10 @@
   "id": 806456887,
   "type": "Feature",
   "properties": {
+    "addr:full":"12500 Co Rd 3210 Rolla MO 65401",
+    "addr:housenumber":"12500",
+    "addr:postcode":"3210;65401",
+    "addr:street":"Co Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":806456887,
-    "wof:lastmodified":1466624580,
+    "wof:lastmodified":1472630355,
     "wof:name":"Protech Tool Supply Inc",
     "wof:parent_id":85814531,
     "wof:placetype":"venue",

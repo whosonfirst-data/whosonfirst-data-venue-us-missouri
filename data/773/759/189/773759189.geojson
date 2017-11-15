@@ -2,14 +2,20 @@
   "id": 773759189,
   "type": "Feature",
   "properties": {
+    "addr:full":"231 Chesterfield Mall Chesterfield MO 63017",
+    "addr:housenumber":"231",
+    "addr:postcode":"63017",
+    "addr:street":"Chesterfield Mall",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.564799,38.654924,-90.564799,38.654924",
     "geom:latitude":38.654924,
     "geom:longitude":-90.564799,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"231 Chesterfield Mall",
     "sg:city":"Chesterfield",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102086173,
         85688661
     ],
+    "wof:brand_id":420575549,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1JN0UQ3aGsMXDdmu6BiI71_38.654924_-90.564799@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462588162,
-    "wof:geomhash":"89148c812e9ccfb94696fe333fe3f7ec",
+    "wof:geomhash":"d8888dad1acc7fa8cc096b375c46eff4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":773759189,
-    "wof:lastmodified":1466634975,
+    "wof:lastmodified":1510607518,
     "wof:name":"Vitamin World",
     "wof:parent_id":85805465,
     "wof:placetype":"venue",

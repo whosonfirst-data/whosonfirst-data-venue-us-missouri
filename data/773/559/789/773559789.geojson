@@ -2,14 +2,20 @@
   "id": 773559789,
   "type": "Feature",
   "properties": {
+    "addr:full":"5 Ladue Rd Saint Louis MO 63124",
+    "addr:housenumber":"5",
+    "addr:postcode":"63124",
+    "addr:street":"Ladue Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.386497,38.653723,-90.386497,38.653723",
     "geom:latitude":38.653723,
     "geom:longitude":-90.386497,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5 Ladue Rd",
     "sg:city":"Saint Louis",
     "sg:classifiers":[
@@ -40,13 +46,14 @@
         102086173,
         85688661
     ],
+    "wof:brand_id":1125155459,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0d4AwauspWOQpalnvcdh1S_38.653723_-90.386497@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462586646,
-    "wof:geomhash":"899780e3ff84e0579cea0eee1e6397d3",
+    "wof:geomhash":"f7f5a472804bf19b19b73e72991887f4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,7 +67,7 @@
         }
     ],
     "wof:id":773559789,
-    "wof:lastmodified":1466632314,
+    "wof:lastmodified":1510697788,
     "wof:name":"Amway Products Distributors",
     "wof:parent_id":85867981,
     "wof:placetype":"venue",

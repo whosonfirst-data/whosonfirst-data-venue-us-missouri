@@ -2,6 +2,10 @@
   "id": 790146511,
   "type": "Feature",
   "properties": {
+    "addr:full":"20335 Co Rd 1250 St James MO 65559",
+    "addr:housenumber":"20335;1250",
+    "addr:postcode":"65559",
+    "addr:street":"Co Rd;St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":790146511,
-    "wof:lastmodified":1466625207,
+    "wof:lastmodified":1472630390,
     "wof:name":"Lewis Mechanical Inc",
     "wof:parent_id":85847353,
     "wof:placetype":"venue",

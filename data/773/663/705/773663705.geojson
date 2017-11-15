@@ -2,14 +2,20 @@
   "id": 773663705,
   "type": "Feature",
   "properties": {
+    "addr:full":"514 E 11 St Kansas City MO 64106",
+    "addr:housenumber":"514;11",
+    "addr:postcode":"64106",
+    "addr:street":"E",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.576294,39.100962,-94.576294,39.100962",
     "geom:latitude":39.100962,
     "geom:longitude":-94.576294,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"514 E 11 St",
     "sg:city":"Kansas City",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102081227,
         85688661
     ],
+    "wof:brand_id":420575077,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_24uaxYoZ9HyIqnxnn6p447_39.100962_-94.576294@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462587425,
-    "wof:geomhash":"2d0ff05e84b7de60c88e8ed30cfb6866",
+    "wof:geomhash":"cc2c6eff726a6c47fade27ea69be373b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":773663705,
-    "wof:lastmodified":1466634058,
+    "wof:lastmodified":1510602715,
     "wof:name":"Central Parking System",
     "wof:parent_id":85867019,
     "wof:placetype":"venue",

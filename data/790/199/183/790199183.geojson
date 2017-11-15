@@ -2,6 +2,10 @@
   "id": 790199183,
   "type": "Feature",
   "properties": {
+    "addr:full":"2345 Grand Blvd Kansas City MO 64108",
+    "addr:housenumber":"2345",
+    "addr:postcode":"64108",
+    "addr:street":"Grand Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":790199183,
-    "wof:lastmodified":1466626393,
+    "wof:lastmodified":1472630471,
     "wof:name":"Jones Koll",
     "wof:parent_id":85867023,
     "wof:placetype":"venue",

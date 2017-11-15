@@ -2,14 +2,20 @@
   "id": 807058191,
   "type": "Feature",
   "properties": {
+    "addr:full":"17545 Chesterfield Airport Rd Chesterfield MO 63005",
+    "addr:housenumber":"17545",
+    "addr:postcode":"63005",
+    "addr:street":"Chesterfield Airport Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.615821,38.668294,-90.615821,38.668294",
     "geom:latitude":38.668294,
     "geom:longitude":-90.615821,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"17545 Chesterfield Airport Rd",
     "sg:city":"Chesterfield",
     "sg:classifiers":[
@@ -39,13 +45,14 @@
         102086173,
         85688661
     ],
+    "wof:brand_id":1125150527,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5vhtVL5VaC4IzQJK1MKjhb_38.668294_-90.615821@1299784598"
     },
     "wof:country":"US",
     "wof:created":1462603357,
-    "wof:geomhash":"bf0aca1946de8619496d5659fc452cb8",
+    "wof:geomhash":"3ed3be9753d71fd4fd7d134ab555a2a7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,7 +66,7 @@
         }
     ],
     "wof:id":807058191,
-    "wof:lastmodified":1466623796,
+    "wof:lastmodified":1510696976,
     "wof:name":"Roly Poly Sandwiches",
     "wof:parent_id":85805465,
     "wof:placetype":"venue",

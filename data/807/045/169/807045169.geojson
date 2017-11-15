@@ -2,6 +2,10 @@
   "id": 807045169,
   "type": "Feature",
   "properties": {
+    "addr:full":"11680 Co Rd 8340 Rolla MO 65401",
+    "addr:housenumber":"11680",
+    "addr:postcode":"8340;65401",
+    "addr:street":"Co Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":807045169,
-    "wof:lastmodified":1466623666,
+    "wof:lastmodified":1472630194,
     "wof:name":"Sadie Brown",
     "wof:parent_id":85814531,
     "wof:placetype":"venue",

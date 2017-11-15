@@ -2,14 +2,20 @@
   "id": 806958127,
   "type": "Feature",
   "properties": {
+    "addr:full":"10 S Broadway St Louis MO 63102",
+    "addr:housenumber":"10",
+    "addr:postcode":"63102",
+    "addr:street":"S Broadway",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.190271,38.6246,-90.190271,38.6246",
     "geom:latitude":38.6246,
     "geom:longitude":-90.190271,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"10 S Broadway",
     "sg:city":"St Louis",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102080791,
         85688661
     ],
+    "wof:brand_id":1125151651,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6xkQalCrXGdpv13Huhe8NJ_38.624600_-90.190271@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462602511,
-    "wof:geomhash":"860849a4c7ba9ab6f7602e47b529b1c1",
+    "wof:geomhash":"8db8a40dbb2d89f0979784333e024074",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":806958127,
-    "wof:lastmodified":1466635214,
+    "wof:lastmodified":1510695900,
     "wof:name":"KWIK KOPY Printing",
     "wof:parent_id":85867033,
     "wof:placetype":"venue",

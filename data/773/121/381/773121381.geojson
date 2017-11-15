@@ -2,6 +2,10 @@
   "id": 773121381,
   "type": "Feature",
   "properties": {
+    "addr:full":"3015 E 32 St Kansas City MO 64128",
+    "addr:housenumber":"3015;32",
+    "addr:postcode":"64128",
+    "addr:street":"E;St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":773121381,
-    "wof:lastmodified":1466623256,
+    "wof:lastmodified":1472630499,
     "wof:name":"Masters House",
     "wof:parent_id":85872027,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 807255089,
   "type": "Feature",
   "properties": {
+    "addr:full":"1607 Richardson St Apt 11 Columbia MO 65201",
+    "addr:housenumber":"1607;11",
+    "addr:postcode":"65201",
+    "addr:street":"Richardson St Apt",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":807255089,
-    "wof:lastmodified":1466629303,
+    "wof:lastmodified":1472630707,
     "wof:name":"Barclay Apts",
     "wof:parent_id":85835171,
     "wof:placetype":"venue",

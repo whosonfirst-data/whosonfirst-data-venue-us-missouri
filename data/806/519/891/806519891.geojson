@@ -2,6 +2,10 @@
   "id": 806519891,
   "type": "Feature",
   "properties": {
+    "addr:full":"13341 Co Rd 2030 Rolla MO 65401",
+    "addr:housenumber":"13341",
+    "addr:postcode":"2030;65401",
+    "addr:street":"Co Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":806519891,
-    "wof:lastmodified":1466625838,
+    "wof:lastmodified":1472630362,
     "wof:name":"Taylor's Septic Tank Cleaning",
     "wof:parent_id":85814531,
     "wof:placetype":"venue",

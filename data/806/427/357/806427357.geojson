@@ -2,6 +2,10 @@
   "id": 806427357,
   "type": "Feature",
   "properties": {
+    "addr:full":"2123 E 16 St Kansas City MO 64127",
+    "addr:housenumber":"2123;16",
+    "addr:postcode":"64127",
+    "addr:street":"E;St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":806427357,
-    "wof:lastmodified":1466623843,
+    "wof:lastmodified":1472630255,
     "wof:name":"Cultural Beauty & Bridal Bouti",
     "wof:parent_id":85872021,
     "wof:placetype":"venue",

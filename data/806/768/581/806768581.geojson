@@ -2,14 +2,20 @@
   "id": 806768581,
   "type": "Feature",
   "properties": {
+    "addr:full":"14377 Woodlake Dr Chesterfield MO 63017",
+    "addr:housenumber":"14377",
+    "addr:postcode":"63017",
+    "addr:street":"Woodlake Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.515151,38.641361,-90.515151,38.641361",
     "geom:latitude":38.641361,
     "geom:longitude":-90.515151,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"14377 Woodlake Dr",
     "sg:city":"Chesterfield",
     "sg:classifiers":[
@@ -42,13 +48,14 @@
         102086173,
         85688661
     ],
+    "wof:brand_id":1125155049,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6niKJY74JfV2oUZ9KcDiWX_38.641361_-90.515151@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462600916,
-    "wof:geomhash":"7d199ae4ce5bf869553f7ebab42c39e4",
+    "wof:geomhash":"8307562d4739b113f1d91866b3a8b9ec",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -62,7 +69,7 @@
         }
     ],
     "wof:id":806768581,
-    "wof:lastmodified":1466632241,
+    "wof:lastmodified":1510698724,
     "wof:name":"Royal Alliance Associates",
     "wof:parent_id":85831197,
     "wof:placetype":"venue",

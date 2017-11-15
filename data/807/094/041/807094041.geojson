@@ -2,14 +2,20 @@
   "id": 807094041,
   "type": "Feature",
   "properties": {
+    "addr:full":"3679 E Cromwell Ln Springfield MO 65802",
+    "addr:housenumber":"3679",
+    "addr:postcode":"65802",
+    "addr:street":"E Cromwell Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.217737,37.223508,-93.217737,37.223508",
     "geom:latitude":37.223508,
     "geom:longitude":-93.217737,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3679 E Cromwell Ln",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087523,
         85881137
     ],
+    "wof:brand_id":1125152579,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1bbdXUwLxxwQt1STKepgg7_37.223508_-93.217737@1299784598"
     },
     "wof:country":"US",
     "wof:created":1462603654,
-    "wof:geomhash":"57d2c93ecadeae9715ab24793cdb08a4",
+    "wof:geomhash":"be1d5e74a27083f648f194fc7427acad",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":807094041,
-    "wof:lastmodified":1466624718,
+    "wof:lastmodified":1510698843,
     "wof:name":"Breadeaux Pizza",
     "wof:parent_id":85881137,
     "wof:placetype":"venue",

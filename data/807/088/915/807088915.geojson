@@ -2,6 +2,10 @@
   "id": 807088915,
   "type": "Feature",
   "properties": {
+    "addr:full":"3124 S 10 Mile Dr Jefferson City MO 65109",
+    "addr:housenumber":"3124;10",
+    "addr:postcode":"65109",
+    "addr:street":"S;Mile Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":807088915,
-    "wof:lastmodified":1466624532,
+    "wof:lastmodified":1472630289,
     "wof:name":"McDonald's",
     "wof:parent_id":85847407,
     "wof:placetype":"venue",

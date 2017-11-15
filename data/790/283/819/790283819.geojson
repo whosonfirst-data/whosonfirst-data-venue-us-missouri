@@ -2,14 +2,20 @@
   "id": 790283819,
   "type": "Feature",
   "properties": {
+    "addr:full":"11822 Borman Dr St Louis MO 63146",
+    "addr:housenumber":"11822",
+    "addr:postcode":"63146",
+    "addr:street":"Borman Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.43791,38.693429,-90.43791,38.693429",
     "geom:latitude":38.693429,
     "geom:longitude":-90.43791,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"11822 Borman Dr",
     "sg:city":"St Louis",
     "sg:classifiers":[
@@ -44,13 +50,14 @@
         102086173,
         85688661
     ],
+    "wof:brand_id":1125152305,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6Q6mRLM8ymtCGnFzNt2Zl9_38.693429_-90.437910@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462594639,
-    "wof:geomhash":"fa94bc96e3a6cd27238e4fa28f29f891",
+    "wof:geomhash":"c04eee327d29c79eb70c49150768b3fe",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -64,7 +71,7 @@
         }
     ],
     "wof:id":790283819,
-    "wof:lastmodified":1466628575,
+    "wof:lastmodified":1510696016,
     "wof:name":"Siemens Building Technologies",
     "wof:parent_id":85803699,
     "wof:placetype":"venue",

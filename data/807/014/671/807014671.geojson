@@ -2,14 +2,20 @@
   "id": 807014671,
   "type": "Feature",
   "properties": {
+    "addr:full":"523 S Main St Joplin MO 64801",
+    "addr:housenumber":"523",
+    "addr:postcode":"64801",
+    "addr:street":"S Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.513406,37.08627,-94.513406,37.08627",
     "geom:latitude":37.08627,
     "geom:longitude":-94.513406,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"523 S Main St",
     "sg:city":"Joplin",
     "sg:classifiers":[
@@ -39,13 +45,14 @@
         85688661,
         420525385
     ],
+    "wof:brand_id":1125156859,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2MbhcgxtovBxNQXwpTRgvM_37.085756_-94.513346@1293134755"
     },
     "wof:country":"US",
     "wof:created":1462602984,
-    "wof:geomhash":"ccace155052378b235106153445fb8ca",
+    "wof:geomhash":"210f703598842adf45f32d36ceb63c25",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -69,7 +76,7 @@
         }
     ],
     "wof:id":807014671,
-    "wof:lastmodified":1466623178,
+    "wof:lastmodified":1510694082,
     "wof:name":"The Cutting Edge",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

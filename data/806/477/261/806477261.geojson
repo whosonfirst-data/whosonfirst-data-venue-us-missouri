@@ -2,14 +2,20 @@
   "id": 806477261,
   "type": "Feature",
   "properties": {
+    "addr:full":"1001 Hwy K O Fallon MO 63366",
+    "addr:housenumber":"1001",
+    "addr:postcode":"63366",
+    "addr:street":"Hwy K O",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.700099,38.7964,-90.700099,38.7964",
     "geom:latitude":38.7964,
     "geom:longitude":-90.700099,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1001 Hwy K",
     "sg:city":"O Fallon",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102086159,
         85821097
     ],
+    "wof:brand_id":1125152789,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0WucgIn6oGENyPGwImgGng_38.796400_-90.700099@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462598438,
-    "wof:geomhash":"d467b354a7a1ace82a5569e9469a75c7",
+    "wof:geomhash":"a6bef64e2c0d05d9d98235ebea439d16",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":806477261,
-    "wof:lastmodified":1466625052,
+    "wof:lastmodified":1510697427,
     "wof:name":"LCA",
     "wof:parent_id":85821097,
     "wof:placetype":"venue",

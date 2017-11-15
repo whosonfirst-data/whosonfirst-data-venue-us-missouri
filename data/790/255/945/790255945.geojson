@@ -2,14 +2,20 @@
   "id": 790255945,
   "type": "Feature",
   "properties": {
+    "addr:full":"2111 Bentley Plz Fenton MO 63026",
+    "addr:housenumber":"2111",
+    "addr:postcode":"63026",
+    "addr:street":"Bentley Plz",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.492924,38.532505,-90.492924,38.532505",
     "geom:latitude":38.532505,
     "geom:longitude":-90.492924,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2111 Bentley Plz",
     "sg:city":"Fenton",
     "sg:classifiers":[
@@ -45,13 +51,14 @@
         102086173,
         85688661
     ],
+    "wof:brand_id":1125155587,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6No9RULAMu6VzIk7g2F38c_38.532505_-90.492924@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462594389,
-    "wof:geomhash":"c71063b3b83176a018321966c1d5f253",
+    "wof:geomhash":"bed019d1b6fa7e71d32a483c775124c3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -65,7 +72,7 @@
         }
     ],
     "wof:id":790255945,
-    "wof:lastmodified":1466627874,
+    "wof:lastmodified":1510694029,
     "wof:name":"Contech Construction Prods Inc",
     "wof:parent_id":85841473,
     "wof:placetype":"venue",

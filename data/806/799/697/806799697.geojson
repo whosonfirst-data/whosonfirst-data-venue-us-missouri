@@ -2,6 +2,10 @@
   "id": 806799697,
   "type": "Feature",
   "properties": {
+    "addr:full":"1100 E 63 St Kansas City MO 64110",
+    "addr:housenumber":"1100;63",
+    "addr:postcode":"64110",
+    "addr:street":"E;St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":806799697,
-    "wof:lastmodified":1466632822,
+    "wof:lastmodified":1472630670,
     "wof:name":"Walgreens",
     "wof:parent_id":85867027,
     "wof:placetype":"venue",

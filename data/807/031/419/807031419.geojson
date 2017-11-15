@@ -2,14 +2,20 @@
   "id": 807031419,
   "type": "Feature",
   "properties": {
+    "addr:full":"3538 S Kingshighway Blvd Saint Louis MO 63139",
+    "addr:housenumber":"3538",
+    "addr:postcode":"63139",
+    "addr:street":"S Kingshighway Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.2714,38.5947,-90.2714,38.5947",
     "geom:latitude":38.5947,
     "geom:longitude":-90.2714,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3538 S Kingshighway Blvd",
     "sg:city":"Saint Louis",
     "sg:classifiers":[
@@ -40,13 +46,14 @@
         102080791,
         85688661
     ],
+    "wof:brand_id":1125150181,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4l9M8MAdcbXaPG3VaF6TTS_38.594413_-90.271227@1293134755"
     },
     "wof:country":"US",
     "wof:created":1462603134,
-    "wof:geomhash":"968ca1a89d44dac6f8b5efb3aa49eb0f",
+    "wof:geomhash":"dd8d1a7855582faed759e49c76c5e2a8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,7 +67,7 @@
         }
     ],
     "wof:id":807031419,
-    "wof:lastmodified":1466623814,
+    "wof:lastmodified":1510697303,
     "wof:name":"Midas Auto Service Experts",
     "wof:parent_id":85873683,
     "wof:placetype":"venue",

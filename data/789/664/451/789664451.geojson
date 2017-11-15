@@ -2,14 +2,20 @@
   "id": 789664451,
   "type": "Feature",
   "properties": {
+    "addr:full":"6600 Ward Pkwy S Kansas City MO 64113",
+    "addr:housenumber":"6600",
+    "addr:postcode":"64113",
+    "addr:street":"Ward Pkwy S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.602823,39.008576,-94.602823,39.008576",
     "geom:latitude":39.008576,
     "geom:longitude":-94.602823,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"6600 Ward Pkwy S",
     "sg:city":"Kansas City",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102081227,
         85688661
     ],
+    "wof:brand_id":1125155953,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0Brk7xO76mjS4kF2GCW17g_39.008576_-94.602823@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462589589,
-    "wof:geomhash":"43647464a23c045e0f047508e4797379",
+    "wof:geomhash":"5dcf72108d5639a389a4f09d61d74c8f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":789664451,
-    "wof:lastmodified":1466624345,
+    "wof:lastmodified":1510698914,
     "wof:name":"Mrs Fields Original Cookies",
     "wof:parent_id":85872031,
     "wof:placetype":"venue",

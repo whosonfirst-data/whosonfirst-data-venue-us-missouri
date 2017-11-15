@@ -2,6 +2,10 @@
   "id": 789647195,
   "type": "Feature",
   "properties": {
+    "addr:full":"1605 NE 69 St Kansas City MO 64118",
+    "addr:housenumber":"1605;69",
+    "addr:postcode":"64118",
+    "addr:street":"Ne;St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":789647195,
-    "wof:lastmodified":1466624196,
+    "wof:lastmodified":1472630282,
     "wof:name":"RK Manufacturing",
     "wof:parent_id":85830711,
     "wof:placetype":"venue",

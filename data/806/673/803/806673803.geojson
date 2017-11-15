@@ -2,6 +2,10 @@
   "id": 806673803,
   "type": "Feature",
   "properties": {
+    "addr:full":"14080 Co Rd 2110 Rolla MO 65401",
+    "addr:housenumber":"14080",
+    "addr:postcode":"2110;65401",
+    "addr:street":"Co Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":806673803,
-    "wof:lastmodified":1466630221,
+    "wof:lastmodified":1472630550,
     "wof:name":"Jefferson Asphalt Co",
     "wof:parent_id":85814531,
     "wof:placetype":"venue",

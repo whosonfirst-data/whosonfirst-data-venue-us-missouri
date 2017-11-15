@@ -2,14 +2,20 @@
   "id": 806934313,
   "type": "Feature",
   "properties": {
+    "addr:full":"506 NW Englewood Rd Kansas City MO 64118",
+    "addr:housenumber":"506",
+    "addr:postcode":"64118",
+    "addr:street":"Nw Englewood Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.586465,39.196146,-94.586465,39.196146",
     "geom:latitude":39.196146,
     "geom:longitude":-94.586465,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"506 NW Englewood Rd",
     "sg:city":"Kansas City",
     "sg:classifiers":[
@@ -40,13 +46,14 @@
         85970477,
         102085271
     ],
+    "wof:brand_id":1125156697,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0HNCUU7iEv7XScrvFLEcy4_39.196146_-94.586465@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462602308,
-    "wof:geomhash":"2ea916d3d0378ba472bd2384a1e0d4d1",
+    "wof:geomhash":"9a02f5b745ed6d66b9d4f0f47809d75e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -70,7 +77,7 @@
         }
     ],
     "wof:id":806934313,
-    "wof:lastmodified":1466635044,
+    "wof:lastmodified":1510697125,
     "wof:name":"American Nails",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

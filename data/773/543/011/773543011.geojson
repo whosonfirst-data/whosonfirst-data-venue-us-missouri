@@ -2,14 +2,20 @@
   "id": 773543011,
   "type": "Feature",
   "properties": {
+    "addr:full":"1525 Cora Ave St Louis MO 63113",
+    "addr:housenumber":"1525",
+    "addr:postcode":"63113",
+    "addr:street":"Cora Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.25154,38.659795,-90.25154,38.659795",
     "geom:latitude":38.659795,
     "geom:longitude":-90.25154,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1525 Cora Ave",
     "sg:city":"St Louis",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102080791,
         85688661
     ],
+    "wof:brand_id":1125151121,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5ZkyaoDjNQoS3E7DoorVfk_38.659795_-90.251540@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462586505,
-    "wof:geomhash":"7c8f2308665734a55d8e8d7793be1352",
+    "wof:geomhash":"3bef8ad59f29232452ead74d111b4b2d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":773543011,
-    "wof:lastmodified":1466632119,
+    "wof:lastmodified":1510696836,
     "wof:name":"Pretzel Time",
     "wof:parent_id":420525461,
     "wof:placetype":"venue",

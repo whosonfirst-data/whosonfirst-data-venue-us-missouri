@@ -2,14 +2,20 @@
   "id": 806614779,
   "type": "Feature",
   "properties": {
+    "addr:full":"215 N High St Neosho MO 64850",
+    "addr:housenumber":"215",
+    "addr:postcode":"64850",
+    "addr:street":"N High St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.373142,36.871737,-94.373142,36.871737",
     "geom:latitude":36.871737,
     "geom:longitude":-94.373142,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"215 N High St",
     "sg:city":"Neosho",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087471,
         85688661
     ],
+    "wof:brand_id":1125155121,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7YaLeTdZl6erwYAqdYZRSB_36.871737_-94.373142@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462599604,
-    "wof:geomhash":"5a03cb1289edb0d2c87764838bdd04a3",
+    "wof:geomhash":"dd9e2ecf07693014b85e095416e6f203",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":806614779,
-    "wof:lastmodified":1466628413,
+    "wof:lastmodified":1510694062,
     "wof:name":"First Presbyterian Church Inc",
     "wof:parent_id":85821247,
     "wof:placetype":"venue",

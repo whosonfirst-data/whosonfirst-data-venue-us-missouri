@@ -2,6 +2,10 @@
   "id": 790259215,
   "type": "Feature",
   "properties": {
+    "addr:full":"3721 NE 41 St Kansas City MO 64117",
+    "addr:housenumber":"3721;41",
+    "addr:postcode":"64117",
+    "addr:street":"Ne;St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":790259215,
-    "wof:lastmodified":1466628052,
+    "wof:lastmodified":1472630557,
     "wof:name":"Standard Delivery Service",
     "wof:parent_id":420525309,
     "wof:placetype":"venue",

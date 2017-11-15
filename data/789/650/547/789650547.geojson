@@ -2,6 +2,10 @@
   "id": 789650547,
   "type": "Feature",
   "properties": {
+    "addr:full":"4323 Washington Ave Independence MO 64055",
+    "addr:housenumber":"4323",
+    "addr:postcode":"64055",
+    "addr:street":"Washington Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":789650547,
-    "wof:lastmodified":1466623929,
+    "wof:lastmodified":1472630281,
     "wof:name":"Auto Paint Stop",
     "wof:parent_id":85871965,
     "wof:placetype":"venue",

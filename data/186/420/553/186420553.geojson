@@ -2,9 +2,14 @@
   "id": 186420553,
   "type": "Feature",
   "properties": {
+    "addr:full":"3132 S Kingshighway Blvd St. Louis MO 63139",
+    "addr:housenumber":"3132",
+    "addr:postcode":"63139",
+    "addr:street":"S Kingshighway Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.268897,38.604443,-90.268897,38.604443",
     "geom:latitude":38.604443,
     "geom:longitude":-90.268897,
@@ -35,11 +40,13 @@
     "sg:website":"www.theroyale.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688661,
+        85873681,
+        102191575,
+        404518053,
         85633793,
         85971343,
         102080791,
-        85873681
+        85688661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,9 +56,10 @@
     "wof:geomhash":"6d4a9ac70a951b3c160d911880195a07",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080791,
+            "localadmin_id":404518053,
             "locality_id":85971343,
             "neighbourhood_id":85873681,
             "region_id":85688661,
@@ -59,7 +67,7 @@
         }
     ],
     "wof:id":186420553,
-    "wof:lastmodified":1466622356,
+    "wof:lastmodified":1491899888,
     "wof:name":"The Royale Food & Spirits",
     "wof:parent_id":85873681,
     "wof:placetype":"venue",

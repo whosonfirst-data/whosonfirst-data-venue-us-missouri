@@ -2,14 +2,20 @@
   "id": 807097065,
   "type": "Feature",
   "properties": {
+    "addr:full":"12234 Saint Charles Rock Rd Bridgeton MO 63044",
+    "addr:housenumber":"12234",
+    "addr:postcode":"63044",
+    "addr:street":"Saint Charles Rock Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.427106,38.751651,-90.427106,38.751651",
     "geom:latitude":38.751651,
     "geom:longitude":-90.427106,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"12234 Saint Charles Rock Rd",
     "sg:city":"Bridgeton",
     "sg:classifiers":[
@@ -40,13 +46,14 @@
         102086173,
         85688661
     ],
+    "wof:brand_id":1125154131,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6CxNZT9kdDCoenXqkZUMYS_38.751651_-90.427021@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462603686,
-    "wof:geomhash":"46652307f43cab44733e3d105a3e023b",
+    "wof:geomhash":"c73c7b054ade23591b3e451d8fcf9312",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,7 +67,7 @@
         }
     ],
     "wof:id":807097065,
-    "wof:lastmodified":1466624515,
+    "wof:lastmodified":1510699747,
     "wof:name":"Mr. Goodcents Subs & Pasta",
     "wof:parent_id":85836381,
     "wof:placetype":"venue",

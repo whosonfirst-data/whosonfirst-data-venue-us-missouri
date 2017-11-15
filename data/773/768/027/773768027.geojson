@@ -2,14 +2,20 @@
   "id": 773768027,
   "type": "Feature",
   "properties": {
+    "addr:full":"9111 Hillcrest Rd Kansas City MO 64138",
+    "addr:housenumber":"9111",
+    "addr:postcode":"64138",
+    "addr:street":"Hillcrest Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.519831,38.960903,-94.519831,38.960903",
     "geom:latitude":38.960903,
     "geom:longitude":-94.519831,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"9111 Hillcrest Rd",
     "sg:city":"Kansas City",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102081227,
         85688661
     ],
+    "wof:brand_id":1125150085,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0SNXudUuy8OhedzhfCWB5S_38.960903_-94.519831@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462588227,
-    "wof:geomhash":"4c7d701719ae9e3b39ac6f85db498403",
+    "wof:geomhash":"9a10b84964282c6389050e3dc2831233",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":773768027,
-    "wof:lastmodified":1466635149,
+    "wof:lastmodified":1510696021,
     "wof:name":"Fashion Cents",
     "wof:parent_id":85871967,
     "wof:placetype":"venue",

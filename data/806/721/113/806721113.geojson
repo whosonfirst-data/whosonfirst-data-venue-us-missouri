@@ -2,14 +2,20 @@
   "id": 806721113,
   "type": "Feature",
   "properties": {
+    "addr:full":"2914 S Lone Pine Ave Springfield MO 65804",
+    "addr:housenumber":"2914",
+    "addr:postcode":"65804",
+    "addr:street":"S Lone Pine Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.244494,37.162177,-93.244494,37.162177",
     "geom:latitude":37.162177,
     "geom:longitude":-93.244494,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2914 S Lone Pine Ave",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102087523,
         85688661
     ],
+    "wof:brand_id":420575665,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0UW0IXnbdkzfu7TnKLqBOd_37.162177_-93.244494@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462600514,
-    "wof:geomhash":"40d416c09b61d16e4d61213c7b4b69a6",
+    "wof:geomhash":"9a38e1f733164fb8ff3e8d714c248a52",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":806721113,
-    "wof:lastmodified":1466631151,
+    "wof:lastmodified":1510602704,
     "wof:name":"Wild Birds Unlimited",
     "wof:parent_id":85881149,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 790051525,
   "type": "Feature",
   "properties": {
+    "addr:full":"1027 Industrial Dr Osage Beach MO 65065",
+    "addr:housenumber":"1027",
+    "addr:postcode":"65065",
+    "addr:street":"Industrial Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.67683,38.124054,-92.67683,38.124054",
     "geom:latitude":38.124054,
     "geom:longitude":-92.67683,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1027 Industrial Dr",
     "sg:city":"Osage Beach",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102087517,
         85688661
     ],
+    "wof:brand_id":1125153155,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7G1T44yyx09rkX9dj0brTg_38.124054_-92.676830@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462592739,
-    "wof:geomhash":"1429b12395e887d4af581e02eedc0f9b",
+    "wof:geomhash":"f5ebc8fd3322569ee2e2967f72c1271d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":790051525,
-    "wof:lastmodified":1466623304,
+    "wof:lastmodified":1510695883,
     "wof:name":"Hope Lutheran Church",
     "wof:parent_id":85813457,
     "wof:placetype":"venue",

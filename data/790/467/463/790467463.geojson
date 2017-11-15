@@ -2,6 +2,10 @@
   "id": 790467463,
   "type": "Feature",
   "properties": {
+    "addr:full":"12501 E 75 St Kansas City MO 64138",
+    "addr:housenumber":"12501;75",
+    "addr:postcode":"64138",
+    "addr:street":"E;St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":790467463,
-    "wof:lastmodified":1466631963,
+    "wof:lastmodified":1472630845,
     "wof:name":"Blinds & Design",
     "wof:parent_id":85830871,
     "wof:placetype":"venue",

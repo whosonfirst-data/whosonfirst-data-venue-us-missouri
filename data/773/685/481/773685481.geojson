@@ -2,6 +2,10 @@
   "id": 773685481,
   "type": "Feature",
   "properties": {
+    "addr:full":"4300 E 18 St Kansas City MO 64127",
+    "addr:housenumber":"4300;18",
+    "addr:postcode":"64127",
+    "addr:street":"E;St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":773685481,
-    "wof:lastmodified":1466634367,
+    "wof:lastmodified":1472631080,
     "wof:name":"Bethel Baptist Pstrs",
     "wof:parent_id":85872027,
     "wof:placetype":"venue",

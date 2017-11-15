@@ -2,14 +2,20 @@
   "id": 773766051,
   "type": "Feature",
   "properties": {
+    "addr:full":"4600 Madison Ave Kansas City MO 64112",
+    "addr:housenumber":"4600",
+    "addr:postcode":"64112",
+    "addr:street":"Madison Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.597353,39.042531,-94.597353,39.042531",
     "geom:latitude":39.042531,
     "geom:longitude":-94.597353,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4600 Madison Ave",
     "sg:city":"Kansas City",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102081227,
         85688661
     ],
+    "wof:brand_id":420574433,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4e7B71hj7tRnQHElwbpa96_39.042531_-94.597353@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462588213,
-    "wof:geomhash":"299029fcb5235557fcdf16ea5a155ada",
+    "wof:geomhash":"7b95aba57df62f2b4bc3693cf8688aca",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":773766051,
-    "wof:lastmodified":1466635036,
+    "wof:lastmodified":1510603930,
     "wof:name":"Morgan Stanley",
     "wof:parent_id":85871983,
     "wof:placetype":"venue",

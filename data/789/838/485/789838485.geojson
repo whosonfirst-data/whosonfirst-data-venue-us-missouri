@@ -2,6 +2,10 @@
   "id": 789838485,
   "type": "Feature",
   "properties": {
+    "addr:full":"120 E 78 Ter Kansas City MO 64114",
+    "addr:housenumber":"120;78 ter",
+    "addr:postcode":"64114",
+    "addr:street":"E",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":789838485,
-    "wof:lastmodified":1466627965,
+    "wof:lastmodified":1472630662,
     "wof:name":"From ME To You-Concordia",
     "wof:parent_id":85854229,
     "wof:placetype":"venue",

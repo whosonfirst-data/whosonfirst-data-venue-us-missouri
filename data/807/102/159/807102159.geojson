@@ -2,14 +2,20 @@
   "id": 807102159,
   "type": "Feature",
   "properties": {
+    "addr:full":"196 Thf Blvd Chesterfield MO 63005",
+    "addr:housenumber":"196",
+    "addr:postcode":"63005",
+    "addr:street":"Thf Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.594912,38.66744,-90.594912,38.66744",
     "geom:latitude":38.66744,
     "geom:longitude":-90.594912,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"196 Thf Blvd",
     "sg:city":"Chesterfield",
     "sg:classifiers":[],
@@ -28,13 +34,14 @@
         102086173,
         85688661
     ],
+    "wof:brand_id":420575241,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0PwbIV7MY0DcP49tlAmGsh_38.667440_-90.594912@1303262924"
     },
     "wof:country":"US",
     "wof:created":1462603755,
-    "wof:geomhash":"fffd467082afc12ead88ee8d768f4f07",
+    "wof:geomhash":"d7a0e1d45886567280f9726792a490e4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":807102159,
-    "wof:lastmodified":1466624829,
+    "wof:lastmodified":1510602381,
     "wof:name":"Sam's Club",
     "wof:parent_id":85805465,
     "wof:placetype":"venue",

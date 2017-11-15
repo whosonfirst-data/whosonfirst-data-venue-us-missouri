@@ -2,14 +2,20 @@
   "id": 773176397,
   "type": "Feature",
   "properties": {
+    "addr:full":"4344 S Fremont Ave Springfield MO 65804",
+    "addr:housenumber":"4344",
+    "addr:postcode":"65804",
+    "addr:street":"S Fremont Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.272039,37.13755,-93.272039,37.13755",
     "geom:latitude":37.13755,
     "geom:longitude":-93.272039,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4344 S Fremont Ave",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102087523,
         85688661
     ],
+    "wof:brand_id":1125159699,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7dwjQWnc5B6xFV0jZXAjDe_37.137550_-93.272039@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462583710,
-    "wof:geomhash":"554f94ef4462c6989e13b8d79ee6ef5f",
+    "wof:geomhash":"f27ab58e40e4028d59593eb956f4fc77",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":773176397,
-    "wof:lastmodified":1466624520,
+    "wof:lastmodified":1510695065,
     "wof:name":"St John's United Church-Christ",
     "wof:parent_id":420525311,
     "wof:placetype":"venue",

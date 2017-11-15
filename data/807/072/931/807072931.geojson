@@ -2,14 +2,20 @@
   "id": 807072931,
   "type": "Feature",
   "properties": {
+    "addr:full":"312 Jungermann Rd Saint Peters MO 63376",
+    "addr:housenumber":"312",
+    "addr:postcode":"63376",
+    "addr:street":"Jungermann Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.577054,38.786521,-90.577054,38.786521",
     "geom:latitude":38.786521,
     "geom:longitude":-90.577054,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"312 Jungermann Rd",
     "sg:city":"Saint Peters",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102086159,
         85821097
     ],
+    "wof:brand_id":1125153969,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2wRGDYnPWDfBLgW2IeF44t_38.786521_-90.577054@1299784598"
     },
     "wof:country":"US",
     "wof:created":1462603479,
-    "wof:geomhash":"7d0a8994867fe7e2448ddbfbd7ada02b",
+    "wof:geomhash":"c0581fa3792e4f88377cf91ea689e1ba",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":807072931,
-    "wof:lastmodified":1466624034,
+    "wof:lastmodified":1510698945,
     "wof:name":"Imo's Pizza",
     "wof:parent_id":85821097,
     "wof:placetype":"venue",

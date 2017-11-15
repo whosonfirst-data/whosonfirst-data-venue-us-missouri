@@ -2,14 +2,20 @@
   "id": 790503643,
   "type": "Feature",
   "properties": {
+    "addr:full":"1032 Kingshighway Rolla MO 65401",
+    "addr:housenumber":"1032",
+    "addr:postcode":"65401",
+    "addr:street":"Kingshighway",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.782061,37.945282,-91.782061,37.945282",
     "geom:latitude":37.945282,
     "geom:longitude":-91.782061,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1032 Kingshighway",
     "sg:city":"Rolla",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102086893,
         85814531
     ],
+    "wof:brand_id":420574497,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0qjqlumDl8RvSW5KIIDHCs_37.945282_-91.782061@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462596400,
-    "wof:geomhash":"f119de7f95c1b1717ceb2791411384c7",
+    "wof:geomhash":"c80d889828d1df241ef30efe7c23917b",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":790503643,
-    "wof:lastmodified":1466632437,
+    "wof:lastmodified":1510603880,
     "wof:name":"Planned Parenthood",
     "wof:parent_id":85814531,
     "wof:placetype":"venue",

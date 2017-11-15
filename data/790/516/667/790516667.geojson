@@ -2,14 +2,20 @@
   "id": 790516667,
   "type": "Feature",
   "properties": {
+    "addr:full":"6870 Duckworth Ln High Ridge MO 63051",
+    "addr:housenumber":"6870",
+    "addr:postcode":"63051",
+    "addr:street":"Duckworth Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.584889,38.354494,-90.584889,38.354494",
     "geom:latitude":38.354494,
     "geom:longitude":-90.584889,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"6870 Duckworth Ln",
     "sg:city":"High Ridge",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         85805175,
         102080787
     ],
+    "wof:brand_id":1125151095,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7gcnlGS7aiflkpfcmyqVW7_38.354494_-90.584889@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462596503,
-    "wof:geomhash":"8476f17852d35525da077dc0381711dc",
+    "wof:geomhash":"164e33cda0f494c63688e3d5645b4374",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":790516667,
-    "wof:lastmodified":1466633051,
+    "wof:lastmodified":1510699972,
     "wof:name":"Stanley Home Products",
     "wof:parent_id":85805175,
     "wof:placetype":"venue",

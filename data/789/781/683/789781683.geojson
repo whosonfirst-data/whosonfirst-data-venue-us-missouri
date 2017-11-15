@@ -2,6 +2,10 @@
   "id": 789781683,
   "type": "Feature",
   "properties": {
+    "addr:full":"2645 N Kansas Expy Springfield MO 65803",
+    "addr:housenumber":"2645",
+    "addr:postcode":"65803",
+    "addr:street":"N;Expy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":789781683,
-    "wof:lastmodified":1466626904,
+    "wof:lastmodified":1472630530,
     "wof:name":"EB Games",
     "wof:parent_id":85881139,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 773333553,
   "type": "Feature",
   "properties": {
+    "addr:full":"2702 S Williams Ave Springfield MO 65807",
+    "addr:housenumber":"2702",
+    "addr:postcode":"65807",
+    "addr:street":"S Williams Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.347078,37.166542,-93.347078,37.166542",
     "geom:latitude":37.166542,
     "geom:longitude":-93.347078,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2702 S Williams Ave",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         85881151,
         102087523
     ],
+    "wof:brand_id":1125150119,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2Lnb8UdLHYQKvxquKeDG5E_37.166542_-93.347078@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462584938,
-    "wof:geomhash":"21ad51ef58c0649ae7898c89f91c794a",
+    "wof:geomhash":"964313323a9081bb12287c5c1dfc4848",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":773333553,
-    "wof:lastmodified":1466628015,
+    "wof:lastmodified":1510697250,
     "wof:name":"Applebees",
     "wof:parent_id":85881151,
     "wof:placetype":"venue",

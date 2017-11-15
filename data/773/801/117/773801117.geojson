@@ -2,14 +2,20 @@
   "id": 773801117,
   "type": "Feature",
   "properties": {
+    "addr:full":"600 S Noland Rd Independence MO 64050",
+    "addr:housenumber":"600",
+    "addr:postcode":"64050",
+    "addr:street":"S Noland Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.413665,39.085519,-94.413665,39.085519",
     "geom:latitude":39.085519,
     "geom:longitude":-94.413665,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"600 S Noland Rd",
     "sg:city":"Independence",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102081227,
         85688661
     ],
+    "wof:brand_id":420575761,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1m7wPHMxSB0fRifs71JxvH_39.085519_-94.413665@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462588476,
-    "wof:geomhash":"97895921db009ba5788b4bc8598b4620",
+    "wof:geomhash":"8ae4f3e742c211a1f4089e1b88e8d218",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":773801117,
-    "wof:lastmodified":1466635298,
+    "wof:lastmodified":1510602958,
     "wof:name":"Labor Ready",
     "wof:parent_id":85833097,
     "wof:placetype":"venue",

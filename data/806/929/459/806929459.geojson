@@ -2,14 +2,20 @@
   "id": 806929459,
   "type": "Feature",
   "properties": {
+    "addr:full":"61 Hillcrest Blvd Ballwin MO 63021",
+    "addr:housenumber":"61",
+    "addr:postcode":"63021",
+    "addr:street":"Hillcrest Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.530421,38.589562,-90.530421,38.589562",
     "geom:latitude":38.589562,
     "geom:longitude":-90.530421,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"61 Hillcrest Blvd",
     "sg:city":"Ballwin",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102086173,
         85688661
     ],
+    "wof:brand_id":1125155335,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3RBDYuvlRm3mDJqJyaSu8S_38.589562_-90.530421@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462602271,
-    "wof:geomhash":"df19f4db738afcfbf446234c7606408f",
+    "wof:geomhash":"214349453c8091418f5a966352fcb791",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":806929459,
-    "wof:lastmodified":1466634983,
+    "wof:lastmodified":1510696707,
     "wof:name":"Ancient Free & Accepted M",
     "wof:parent_id":85831197,
     "wof:placetype":"venue",

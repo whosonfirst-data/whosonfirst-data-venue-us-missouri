@@ -2,6 +2,10 @@
   "id": 789579763,
   "type": "Feature",
   "properties": {
+    "addr:full":"1300 N Lindbergh Blvd St Louis MO 63132",
+    "addr:housenumber":"1300",
+    "addr:postcode":"63132",
+    "addr:street":"N Lindbergh Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":789579763,
-    "wof:lastmodified":1466622206,
+    "wof:lastmodified":1472630192,
     "wof:name":"Cingular Wireless",
     "wof:parent_id":85803699,
     "wof:placetype":"venue",

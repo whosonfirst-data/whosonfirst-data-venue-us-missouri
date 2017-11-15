@@ -2,14 +2,20 @@
   "id": 773649217,
   "type": "Feature",
   "properties": {
+    "addr:full":"6941 Bonanza Dr House Springs MO 63051",
+    "addr:housenumber":"6941",
+    "addr:postcode":"63051",
+    "addr:street":"Bonanza Dr House Springs",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.588711,38.398123,-90.588711,38.398123",
     "geom:latitude":38.398123,
     "geom:longitude":-90.588711,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"6941 Bonanza Dr",
     "sg:city":"House Springs",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102080787,
         85817237
     ],
+    "wof:brand_id":1125150589,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2Gf7roWwnpwXo1QR8xKZG8_38.398123_-90.588711@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462587322,
-    "wof:geomhash":"ac474d591b63e5d193e171185db596de",
+    "wof:geomhash":"e0cb40ea02b93834eb5c114f4a1f63dd",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":773649217,
-    "wof:lastmodified":1466633856,
+    "wof:lastmodified":1510699576,
     "wof:name":"Faith United Methodist Church",
     "wof:parent_id":85817237,
     "wof:placetype":"venue",

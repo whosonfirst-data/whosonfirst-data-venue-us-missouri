@@ -2,14 +2,20 @@
   "id": 807036725,
   "type": "Feature",
   "properties": {
+    "addr:full":"6726 Manchester Ave Saint Louis MO 63139",
+    "addr:housenumber":"6726",
+    "addr:postcode":"63139",
+    "addr:street":"Manchester Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.304001,38.618198,-90.304001,38.618198",
     "geom:latitude":38.618198,
     "geom:longitude":-90.304001,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"6726 Manchester Ave",
     "sg:city":"Saint Louis",
     "sg:classifiers":[
@@ -39,13 +45,14 @@
         102080791,
         85688661
     ],
+    "wof:brand_id":1125155471,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5aiO8lN0v7i1U490S9JIJn_38.618105_-90.303810@1293134755"
     },
     "wof:country":"US",
     "wof:created":1462603177,
-    "wof:geomhash":"0c08a3e5455606caaee46885dc70ff70",
+    "wof:geomhash":"e871556908f6340c03cf6b7c010386f5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,7 +66,7 @@
         }
     ],
     "wof:id":807036725,
-    "wof:lastmodified":1466623030,
+    "wof:lastmodified":1510612911,
     "wof:name":"Concentra Medical Center",
     "wof:parent_id":85805777,
     "wof:placetype":"venue",

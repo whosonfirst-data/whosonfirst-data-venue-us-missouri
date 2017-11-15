@@ -2,14 +2,20 @@
   "id": 789753347,
   "type": "Feature",
   "properties": {
+    "addr:full":"1911 US Hwy 40 Blue Springs MO 64015",
+    "addr:housenumber":"1911",
+    "addr:postcode":"64015",
+    "addr:street":"Us Hwy 40",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.287363,39.00935,-94.287363,39.00935",
     "geom:latitude":39.00935,
     "geom:longitude":-94.287363,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1911 US Hwy 40",
     "sg:city":"Blue Springs",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102081227,
         85688661
     ],
+    "wof:brand_id":1125156165,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7IbEHzH4JnvxylOpwnSNIC_39.009350_-94.287363@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462590278,
-    "wof:geomhash":"5077e309372aefd222e6e73f974c51b5",
+    "wof:geomhash":"d7be64303600488b2a98cdb9652a3add",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":789753347,
-    "wof:lastmodified":1466626098,
+    "wof:lastmodified":1510613144,
     "wof:name":"Vital Signs",
     "wof:parent_id":85847737,
     "wof:placetype":"venue",

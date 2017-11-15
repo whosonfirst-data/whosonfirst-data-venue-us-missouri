@@ -2,6 +2,10 @@
   "id": 789713665,
   "type": "Feature",
   "properties": {
+    "addr:full":"11632 E 15 St S Independence MO 64052",
+    "addr:housenumber":"11632;15",
+    "addr:postcode":"64052",
+    "addr:street":"E;St S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":789713665,
-    "wof:lastmodified":1466625259,
+    "wof:lastmodified":1472630342,
     "wof:name":"Nspyre",
     "wof:parent_id":85833097,
     "wof:placetype":"venue",

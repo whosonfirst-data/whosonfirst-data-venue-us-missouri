@@ -2,6 +2,10 @@
   "id": 790115205,
   "type": "Feature",
   "properties": {
+    "addr:full":"2020 E 19 St Kansas City MO 64127",
+    "addr:housenumber":"2020;19",
+    "addr:postcode":"64127",
+    "addr:street":"E;St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":790115205,
-    "wof:lastmodified":1466624655,
+    "wof:lastmodified":1472630368,
     "wof:name":"Walker-Loudermilk Company",
     "wof:parent_id":85872021,
     "wof:placetype":"venue",

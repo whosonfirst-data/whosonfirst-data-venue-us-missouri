@@ -2,14 +2,20 @@
   "id": 806570677,
   "type": "Feature",
   "properties": {
+    "addr:full":"514 NW Englewood Rd Kansas City MO 64118",
+    "addr:housenumber":"514",
+    "addr:postcode":"64118",
+    "addr:street":"Nw Englewood Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.588354,39.19569,-94.588354,39.19569",
     "geom:latitude":39.19569,
     "geom:longitude":-94.588354,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"514 NW Englewood Rd",
     "sg:city":"Kansas City",
     "sg:classifiers":[
@@ -41,13 +47,14 @@
         85970477,
         102085271
     ],
+    "wof:brand_id":1125154275,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7a0JSmhdtc56G3uFJ64Hvw_39.195690_-94.588354@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462599216,
-    "wof:geomhash":"596146db7a230cd5400948cea5368cff",
+    "wof:geomhash":"f4fe0c3c959d3313667c49b073128481",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -71,7 +78,7 @@
         }
     ],
     "wof:id":806570677,
-    "wof:lastmodified":1466626981,
+    "wof:lastmodified":1510695875,
     "wof:name":"Alamo Rent-A-Car LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

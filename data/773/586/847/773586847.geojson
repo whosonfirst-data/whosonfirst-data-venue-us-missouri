@@ -2,14 +2,20 @@
   "id": 773586847,
   "type": "Feature",
   "properties": {
+    "addr:full":"2914 E 32nd St Joplin MO 64804",
+    "addr:housenumber":"2914",
+    "addr:postcode":"64804",
+    "addr:street":"E 32Nd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.47951,37.054814,-94.47951,37.054814",
     "geom:latitude":37.054814,
     "geom:longitude":-94.47951,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2914 E 32nd St",
     "sg:city":"Joplin",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087471,
         85688661
     ],
+    "wof:brand_id":1125154781,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4i27y2yMcvCjqWZnkK7044_37.054814_-94.479510@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462586850,
-    "wof:geomhash":"7a848d34c25d6eb7750d335c0c4590dc",
+    "wof:geomhash":"58d8d8edd3ee51653d408465211c5100",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":773586847,
-    "wof:lastmodified":1466632934,
+    "wof:lastmodified":1510698935,
     "wof:name":"Nail Tech",
     "wof:parent_id":85821247,
     "wof:placetype":"venue",

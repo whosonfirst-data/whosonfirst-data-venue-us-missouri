@@ -2,6 +2,10 @@
   "id": 789978111,
   "type": "Feature",
   "properties": {
+    "addr:full":"2115 S Brentwood Blvd Springfield MO 65804",
+    "addr:housenumber":"2115",
+    "addr:postcode":"65804",
+    "addr:street":"S Brentwood Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":789978111,
-    "wof:lastmodified":1466631459,
+    "wof:lastmodified":1472630748,
     "wof:name":"Atms",
     "wof:parent_id":85829759,
     "wof:placetype":"venue",

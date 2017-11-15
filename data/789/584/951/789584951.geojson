@@ -2,6 +2,10 @@
   "id": 789584951,
   "type": "Feature",
   "properties": {
+    "addr:full":"11087 Pike 41 Bowling Green MO 63334",
+    "addr:housenumber":"11087;41",
+    "addr:postcode":"63334",
+    "addr:street":"Pike;Green",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":789584951,
-    "wof:lastmodified":1466622865,
+    "wof:lastmodified":1472630221,
     "wof:name":"Robert H Grote & Muriel M",
     "wof:parent_id":85817909,
     "wof:placetype":"venue",

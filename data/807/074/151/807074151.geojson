@@ -2,14 +2,20 @@
   "id": 807074151,
   "type": "Feature",
   "properties": {
+    "addr:full":"617 N Cowling St Desloge MO 63601",
+    "addr:housenumber":"617",
+    "addr:postcode":"63601",
+    "addr:street":"N Cowling St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.512498,37.867613,-90.512498,37.867613",
     "geom:latitude":37.867613,
     "geom:longitude":-90.512498,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"617 N Cowling St",
     "sg:city":"Desloge",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102085297,
         85816309
     ],
+    "wof:brand_id":1125153969,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4neAJdO5rd7nhqdrROj7jC_37.867613_-90.512498@1299784598"
     },
     "wof:country":"US",
     "wof:created":1462603489,
-    "wof:geomhash":"cda5aa41ad12109bc0643c5a01605a37",
+    "wof:geomhash":"ba7af6e9d01838aa9b49207023c15525",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":807074151,
-    "wof:lastmodified":1466624250,
+    "wof:lastmodified":1510698945,
     "wof:name":"Imo's Pizza",
     "wof:parent_id":85816309,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 807318263,
   "type": "Feature",
   "properties": {
+    "addr:full":"One H&R Block Way Kansas City MO 64105",
+    "addr:housenumber":"",
+    "addr:postcode":"64105",
+    "addr:street":"Way",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.662745,39.311495,-94.662745,39.311495",
     "geom:latitude":39.311495,
     "geom:longitude":-94.662745,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"One H&R Block Way",
     "sg:city":"Kansas City",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102085271,
         85851839
     ],
+    "wof:brand_id":420573845,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2HybAJXPde8miUujtYtw3Z_39.311495_-94.662745@1308186498"
     },
     "wof:country":"US",
     "wof:created":1462606044,
-    "wof:geomhash":"c7fe84507826aef243c3e14118c25e47",
+    "wof:geomhash":"bf02f26a9621c93b5dcdfbdf28d613a0",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":807318263,
-    "wof:lastmodified":1466631356,
+    "wof:lastmodified":1510603071,
     "wof:name":"H&R Block",
     "wof:parent_id":85851839,
     "wof:placetype":"venue",

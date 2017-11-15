@@ -2,6 +2,10 @@
   "id": 806908645,
   "type": "Feature",
   "properties": {
+    "addr:full":"1734 E 63 St Kansas City MO 64110",
+    "addr:housenumber":"1734;63",
+    "addr:postcode":"64110",
+    "addr:street":"E;St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":806908645,
-    "wof:lastmodified":1466634911,
+    "wof:lastmodified":1472630726,
     "wof:name":"KGGN Radio 890 AM",
     "wof:parent_id":85867027,
     "wof:placetype":"venue",

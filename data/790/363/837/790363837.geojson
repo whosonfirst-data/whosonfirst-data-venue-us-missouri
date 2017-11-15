@@ -2,14 +2,20 @@
   "id": 790363837,
   "type": "Feature",
   "properties": {
+    "addr:full":"4637 Gravois Rd House Springs MO 63051",
+    "addr:housenumber":"4637",
+    "addr:postcode":"63051",
+    "addr:street":"Gravois Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.579401,38.412306,-90.579401,38.412306",
     "geom:latitude":38.412306,
     "geom:longitude":-90.579401,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4637 Gravois Rd",
     "sg:city":"House Springs",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102080787,
         85817237
     ],
+    "wof:brand_id":1125151397,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5X2OyKkmJKo8dG9mxCyAaG_38.412306_-90.579401@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462595256,
-    "wof:geomhash":"1e122bcf90f031a4c24e7cc0de159771",
+    "wof:geomhash":"c1588de8058547cf5f92479f1f5405f2",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":790363837,
-    "wof:lastmodified":1466630173,
+    "wof:lastmodified":1510613539,
     "wof:name":"Texaco Xpress Lube",
     "wof:parent_id":85817237,
     "wof:placetype":"venue",

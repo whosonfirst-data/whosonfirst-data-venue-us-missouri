@@ -2,14 +2,20 @@
   "id": 773548301,
   "type": "Feature",
   "properties": {
+    "addr:full":"1401 Hampton Ave St Louis MO 63139",
+    "addr:housenumber":"1401",
+    "addr:postcode":"63139",
+    "addr:street":"Hampton Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.287805,38.625576,-90.287805,38.625576",
     "geom:latitude":38.625576,
     "geom:longitude":-90.287805,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1401 Hampton Ave",
     "sg:city":"St Louis",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         85688661,
         420525483
     ],
+    "wof:brand_id":420575745,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_203lZnDsTjsZGiTTCXjkJG_38.625576_-90.287805@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462586555,
-    "wof:geomhash":"96287e675affd978bc6901d0e28389df",
+    "wof:geomhash":"e4a2fbbbd58f3939be48ba7dcb7cd83e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -64,7 +71,7 @@
         }
     ],
     "wof:id":773548301,
-    "wof:lastmodified":1466632190,
+    "wof:lastmodified":1510607717,
     "wof:name":"Communications Workers-America",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

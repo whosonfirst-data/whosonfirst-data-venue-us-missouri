@@ -2,9 +2,14 @@
   "id": 169658993,
   "type": "Feature",
   "properties": {
+    "addr:full":"512 W 75 St Kansas City KS 64114",
+    "addr:housenumber":"512",
+    "addr:postcode":"64114",
+    "addr:street":"W 75 St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.596502,38.992617,-94.596502,38.992617",
     "geom:latitude":38.992617,
     "geom:longitude":-94.596502,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688661,
+        85854229,
+        102191575,
+        404518075,
         85633793,
         85970739,
         102081227,
-        85854229
+        85688661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +49,10 @@
     "wof:geomhash":"5aa4f5f83041c002ef4692f25a2e5079",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081227,
+            "localadmin_id":404518075,
             "locality_id":85970739,
             "neighbourhood_id":85854229,
             "region_id":85688661,
@@ -52,7 +60,7 @@
         }
     ],
     "wof:id":169658993,
-    "wof:lastmodified":1466622394,
+    "wof:lastmodified":1491926559,
     "wof:name":"Black Tie Formal Wear",
     "wof:parent_id":85854229,
     "wof:placetype":"venue",

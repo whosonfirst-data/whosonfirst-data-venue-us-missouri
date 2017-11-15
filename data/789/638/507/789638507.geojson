@@ -2,6 +2,10 @@
   "id": 789638507,
   "type": "Feature",
   "properties": {
+    "addr:full":"5706 Pike 457 Curryville MO 63339",
+    "addr:housenumber":"5706;457",
+    "addr:postcode":"63339",
+    "addr:street":"Pike",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":789638507,
-    "wof:lastmodified":1466623667,
+    "wof:lastmodified":1472630255,
     "wof:name":"Grain Feeders",
     "wof:parent_id":85817909,
     "wof:placetype":"venue",

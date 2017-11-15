@@ -2,14 +2,20 @@
   "id": 807177111,
   "type": "Feature",
   "properties": {
+    "addr:full":"2707 McCausland Ave Saint Louis MO 63143",
+    "addr:housenumber":"2707",
+    "addr:postcode":"63143",
+    "addr:street":"Mccausland Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.309347,38.612925,-90.309347,38.612925",
     "geom:latitude":38.612925,
     "geom:longitude":-90.309347,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2707 McCausland Ave",
     "sg:city":"Saint Louis",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102080791,
         85688661
     ],
+    "wof:brand_id":420575633,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2xWjvqLGbF2mhB9fanNmZ8_38.612925_-90.309347@1303262930"
     },
     "wof:country":"US",
     "wof:created":1462604557,
-    "wof:geomhash":"1c02eab65f0acc8d73edb983404ebd0a",
+    "wof:geomhash":"e959172bea2dcaf38e4d695e69296738",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":807177111,
-    "wof:lastmodified":1466627062,
+    "wof:lastmodified":1510602548,
     "wof:name":"Convenient Food Mart",
     "wof:parent_id":85817813,
     "wof:placetype":"venue",

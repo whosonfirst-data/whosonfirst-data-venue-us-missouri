@@ -2,14 +2,20 @@
   "id": 807094433,
   "type": "Feature",
   "properties": {
+    "addr:full":"2725 N Kansas Expy Springfield MO 65803",
+    "addr:housenumber":"2725",
+    "addr:postcode":"65803",
+    "addr:street":"N;Expy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.310953,37.246722,-93.310953,37.246722",
     "geom:latitude":37.246722,
     "geom:longitude":-93.310953,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2725 N Kansas Expy",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087523,
         85881139
     ],
+    "wof:brand_id":1125150089,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0DJBwTgNQroz9ml8FcxKaZ_37.246722_-93.310953@1299784598"
     },
     "wof:country":"US",
     "wof:created":1462603658,
-    "wof:geomhash":"c254208f48df18572080250f69c6a537",
+    "wof:geomhash":"db48d4a66434fc2cc91a788b8d672f3a",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":807094433,
-    "wof:lastmodified":1466624731,
+    "wof:lastmodified":1510696026,
     "wof:name":"New China",
     "wof:parent_id":85881139,
     "wof:placetype":"venue",

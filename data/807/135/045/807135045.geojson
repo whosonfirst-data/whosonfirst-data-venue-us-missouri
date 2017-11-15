@@ -2,6 +2,10 @@
   "id": 807135045,
   "type": "Feature",
   "properties": {
+    "addr:full":"701 N 15th St 10th Fl Saint Louis MO 63103",
+    "addr:housenumber":"701",
+    "addr:postcode":"63103",
+    "addr:street":"N 15Th St;Fl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":807135045,
-    "wof:lastmodified":1466625782,
+    "wof:lastmodified":1472630372,
     "wof:name":"Windows Off Washington",
     "wof:parent_id":85873645,
     "wof:placetype":"venue",

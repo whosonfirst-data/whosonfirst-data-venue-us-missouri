@@ -2,14 +2,20 @@
   "id": 806816785,
   "type": "Feature",
   "properties": {
+    "addr:full":"4120 Mexico Rd St Peters MO 63376",
+    "addr:housenumber":"4120",
+    "addr:postcode":"63376",
+    "addr:street":"Mexico Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.574686,38.791299,-90.574686,38.791299",
     "geom:latitude":38.791299,
     "geom:longitude":-90.574686,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4120 Mexico Rd",
     "sg:city":"St Peters",
     "sg:classifiers":[
@@ -42,13 +48,14 @@
         102086159,
         85821097
     ],
+    "wof:brand_id":1125154501,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_47yPgdVfnP2jy5JVL2gYPS_38.791299_-90.574686@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462601316,
-    "wof:geomhash":"9f449a2164bf6ba3f65dca483bd942ba",
+    "wof:geomhash":"af356405dcef51eb322cd4b039d00303",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -60,7 +67,7 @@
         }
     ],
     "wof:id":806816785,
-    "wof:lastmodified":1466632932,
+    "wof:lastmodified":1510696742,
     "wof:name":"Ziebart",
     "wof:parent_id":85821097,
     "wof:placetype":"venue",

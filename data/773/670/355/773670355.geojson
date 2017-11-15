@@ -2,14 +2,20 @@
   "id": 773670355,
   "type": "Feature",
   "properties": {
+    "addr:full":"12584 Royal Manor Dr St Louis MO 63141",
+    "addr:housenumber":"12584",
+    "addr:postcode":"63141",
+    "addr:street":"Royal Manor Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.466711,38.654746,-90.466711,38.654746",
     "geom:latitude":38.654746,
     "geom:longitude":-90.466711,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"12584 Royal Manor Dr",
     "sg:city":"St Louis",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102086173,
         85688661
     ],
+    "wof:brand_id":420575093,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5juJz5Nj52P7bA1eDREYBo_38.654746_-90.466711@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462587469,
-    "wof:geomhash":"f93262d1240099de73ffdba68c74d8b6",
+    "wof:geomhash":"480acf989f7b18b856fe28382f06683f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":773670355,
-    "wof:lastmodified":1466634163,
+    "wof:lastmodified":1510602907,
     "wof:name":"Candy Bouquet",
     "wof:parent_id":85802943,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 773119523,
   "type": "Feature",
   "properties": {
+    "addr:full":"20711 Pike 452 Bowling Green MO 63339",
+    "addr:housenumber":"20711;452",
+    "addr:postcode":"63339",
+    "addr:street":"Pike",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":773119523,
-    "wof:lastmodified":1466623202,
+    "wof:lastmodified":1472630506,
     "wof:name":"Woodcutters",
     "wof:parent_id":85817909,
     "wof:placetype":"venue",

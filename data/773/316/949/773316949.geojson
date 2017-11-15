@@ -2,14 +2,20 @@
   "id": 773316949,
   "type": "Feature",
   "properties": {
+    "addr:full":"4858 E Briarwood Trail Ct Springfield MO 65809",
+    "addr:housenumber":"4858",
+    "addr:postcode":"65809",
+    "addr:street":"E Briarwood Trail Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.195632,37.14754,-93.195632,37.14754",
     "geom:latitude":37.14754,
     "geom:longitude":-93.195632,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4858 E Briarwood Trail Ct",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         85881129,
         102087523
     ],
+    "wof:brand_id":1125153949,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5RrikFdAhSys7IYSW4JrcE_37.147540_-93.195632@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462584823,
-    "wof:geomhash":"cfd9fcf5bbec9dcedef69cab546b7c04",
+    "wof:geomhash":"48f91f89de929d95d8bd561673247293",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":773316949,
-    "wof:lastmodified":1466627364,
+    "wof:lastmodified":1510695231,
     "wof:name":"Decorating Den Interiors",
     "wof:parent_id":85881129,
     "wof:placetype":"venue",

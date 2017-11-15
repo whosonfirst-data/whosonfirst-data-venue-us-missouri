@@ -2,14 +2,20 @@
   "id": 807211703,
   "type": "Feature",
   "properties": {
+    "addr:full":"3601 S Sterling Ave Independence MO 64052",
+    "addr:housenumber":"3601",
+    "addr:postcode":"64052",
+    "addr:street":"S Sterling Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.447159,39.05669,-94.447159,39.05669",
     "geom:latitude":39.05669,
     "geom:longitude":-94.447159,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3601 S Sterling Ave",
     "sg:city":"Independence",
     "sg:classifiers":[
@@ -43,13 +49,14 @@
         102081227,
         85688661
     ],
+    "wof:brand_id":420574073,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2qDWZY6XLZ6jC2iy1w1inU_39.056690_-94.447159@1303262932"
     },
     "wof:country":"US",
     "wof:created":1462604916,
-    "wof:geomhash":"a8049ce45b34673a60f2ebb1f9e9d4e5",
+    "wof:geomhash":"789e6ce8cb072c5ac9acef876428a4cc",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -63,7 +70,7 @@
         }
     ],
     "wof:id":807211703,
-    "wof:lastmodified":1466628151,
+    "wof:lastmodified":1510604753,
     "wof:name":"United Methodist Church",
     "wof:parent_id":85867021,
     "wof:placetype":"venue",

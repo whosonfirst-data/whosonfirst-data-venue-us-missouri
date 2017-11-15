@@ -2,14 +2,20 @@
   "id": 789766501,
   "type": "Feature",
   "properties": {
+    "addr:full":"1303 Platte Falls Rd Platte City MO 64079",
+    "addr:housenumber":"1303",
+    "addr:postcode":"64079",
+    "addr:street":"Platte Falls Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.768475,39.353383,-94.768475,39.353383",
     "geom:latitude":39.353383,
     "geom:longitude":-94.768475,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1303 Platte Falls Rd",
     "sg:city":"Platte City",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102085271,
         85823759
     ],
+    "wof:brand_id":1125156179,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0OGFD2K3otKEiTXu0FQG6K_39.353383_-94.768475@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462590377,
-    "wof:geomhash":"b1ca0a1f0018354becd43df62136e34c",
+    "wof:geomhash":"cf4918a199596a41b7c579105d3a0e7d",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":789766501,
-    "wof:lastmodified":1466626354,
+    "wof:lastmodified":1510697595,
     "wof:name":"Your Dollar Store With More",
     "wof:parent_id":85823759,
     "wof:placetype":"venue",

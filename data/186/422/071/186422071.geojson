@@ -2,14 +2,20 @@
   "id": 186422071,
   "type": "Feature",
   "properties": {
+    "addr:full":"6700 Manchester Ave Saint Louis MO 63139",
+    "addr:housenumber":"6700",
+    "addr:postcode":"63139",
+    "addr:street":"Manchester Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.303703,38.618401,-90.303703,38.618401",
     "geom:latitude":38.618401,
     "geom:longitude":-90.303703,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"6700 Manchester Ave",
     "sg:city":"Saint Louis",
     "sg:classifiers":[
@@ -39,12 +45,13 @@
         102080791,
         85805777
     ],
+    "wof:brand_id":1125150159,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0NOoqAOFlzb3jgkOZZZfDe_38.618401_-90.303703@1303262930"
     },
     "wof:country":"US",
-    "wof:geomhash":"215cad882bfefd8c73c4f7bd788b3ea8",
+    "wof:geomhash":"5204608924c80014ed786edc3d8ec102",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":186422071,
-    "wof:lastmodified":1466622356,
+    "wof:lastmodified":1510604958,
     "wof:name":"Kmart Stores",
     "wof:parent_id":85805777,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 790398995,
   "type": "Feature",
   "properties": {
+    "addr:full":"10750 State Hwy 350 Kansas City MO 64138",
+    "addr:housenumber":"10750",
+    "addr:postcode":"64138",
+    "addr:street":"State Hwy 350",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.46284,38.986914,-94.46284,38.986914",
     "geom:latitude":38.986914,
     "geom:longitude":-94.46284,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"10750 State Hwy 350",
     "sg:city":"Kansas City",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102081227,
         85688661
     ],
+    "wof:brand_id":1125156543,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1dC5KViI06uBnc9vym2HQI_38.986914_-94.462840@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462595527,
-    "wof:geomhash":"2f32136dc0d6e6edfa3fe3c2b5cff2d7",
+    "wof:geomhash":"7ee8eba5dc5c017dff3b6d81eb34d38c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":790398995,
-    "wof:lastmodified":1466630715,
+    "wof:lastmodified":1510700004,
     "wof:name":"Commerce Bank N A",
     "wof:parent_id":85871965,
     "wof:placetype":"venue",

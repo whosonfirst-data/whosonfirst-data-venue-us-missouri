@@ -2,6 +2,10 @@
   "id": 790112479,
   "type": "Feature",
   "properties": {
+    "addr:full":"2301 E 39 St Kansas City MO 64109",
+    "addr:housenumber":"2301;39",
+    "addr:postcode":"64109",
+    "addr:street":"E;St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":790112479,
-    "wof:lastmodified":1466624738,
+    "wof:lastmodified":1472630382,
     "wof:name":"Friendly Auto Svc",
     "wof:parent_id":85872023,
     "wof:placetype":"venue",

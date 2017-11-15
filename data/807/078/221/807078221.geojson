@@ -2,14 +2,20 @@
   "id": 807078221,
   "type": "Feature",
   "properties": {
+    "addr:full":"20220 E Jackson Dr Independence MO 64057",
+    "addr:housenumber":"20220",
+    "addr:postcode":"64057",
+    "addr:street":"E Jackson Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.342208,39.042491,-94.342208,39.042491",
     "geom:latitude":39.042491,
     "geom:longitude":-94.342208,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"20220 E Jackson Dr",
     "sg:city":"Independence",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102081227,
         85688661
     ],
+    "wof:brand_id":1125150161,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_36VgRq5R6mtSIBhn8wUY6t_39.042491_-94.342208@1299784598"
     },
     "wof:country":"US",
     "wof:created":1462603519,
-    "wof:geomhash":"3fa7c60f9075f9f8382f31716fd30369",
+    "wof:geomhash":"9255e3c3a37ed029914c6406273c7a35",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":807078221,
-    "wof:lastmodified":1466624255,
+    "wof:lastmodified":1510694751,
     "wof:name":"O'Charley's",
     "wof:parent_id":85847737,
     "wof:placetype":"venue",

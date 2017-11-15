@@ -2,14 +2,20 @@
   "id": 807273507,
   "type": "Feature",
   "properties": {
+    "addr:full":"632 S Bishop Ave Rolla MO 65401",
+    "addr:housenumber":"632",
+    "addr:postcode":"65401",
+    "addr:street":"S Bishop Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.777207,37.948715,-91.777207,37.948715",
     "geom:latitude":37.948715,
     "geom:longitude":-91.777207,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"632 S Bishop Ave",
     "sg:city":"Rolla",
     "sg:classifiers":[],
@@ -25,13 +31,14 @@
         102086893,
         85814531
     ],
+    "wof:brand_id":1125153969,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4XLqUphWf5zYP4rFfea76n_37.948715_-91.777207@1303262936"
     },
     "wof:country":"US",
     "wof:created":1462605579,
-    "wof:geomhash":"3e63acd3612699c1cf1458cb9a91fdfe",
+    "wof:geomhash":"fd0ff57082c66f7c7203de027fb0c7fb",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -43,7 +50,7 @@
         }
     ],
     "wof:id":807273507,
-    "wof:lastmodified":1466630016,
+    "wof:lastmodified":1510698945,
     "wof:name":"Imo's Pizza",
     "wof:parent_id":85814531,
     "wof:placetype":"venue",

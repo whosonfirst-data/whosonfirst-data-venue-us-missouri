@@ -2,6 +2,10 @@
   "id": 806566001,
   "type": "Feature",
   "properties": {
+    "addr:full":"4611 E 11 St Kansas City MO 64127",
+    "addr:housenumber":"4611;11",
+    "addr:postcode":"64127",
+    "addr:street":"E;St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":806566001,
-    "wof:lastmodified":1466626911,
+    "wof:lastmodified":1472630356,
     "wof:name":"Earl Hankins Roofing Co",
     "wof:parent_id":85871999,
     "wof:placetype":"venue",

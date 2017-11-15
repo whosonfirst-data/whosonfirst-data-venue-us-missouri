@@ -2,14 +2,20 @@
   "id": 806539901,
   "type": "Feature",
   "properties": {
+    "addr:full":"1869 Craig Park Ct St Louis MO 63146",
+    "addr:housenumber":"1869",
+    "addr:postcode":"63146",
+    "addr:street":"Craig Park Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.44231,38.693746,-90.44231,38.693746",
     "geom:latitude":38.693746,
     "geom:longitude":-90.44231,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1869 Craig Park Ct",
     "sg:city":"St Louis",
     "sg:classifiers":[
@@ -40,13 +46,14 @@
         102086173,
         85688661
     ],
+    "wof:brand_id":1125153859,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1jU2KG7j3aL3NyLwmIAJwr_38.693746_-90.442310@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462598952,
-    "wof:geomhash":"0545a0f05037ba00ed54dfcec3244dce",
+    "wof:geomhash":"7b6ef0cb706592858a63c75330c8e15d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,7 +67,7 @@
         }
     ],
     "wof:id":806539901,
-    "wof:lastmodified":1466626374,
+    "wof:lastmodified":1510697170,
     "wof:name":"Dale Carnegie Training",
     "wof:parent_id":85803699,
     "wof:placetype":"venue",

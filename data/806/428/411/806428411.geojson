@@ -2,6 +2,10 @@
   "id": 806428411,
   "type": "Feature",
   "properties": {
+    "addr:full":"1337 N Washington Ave Springfield MO 65802",
+    "addr:housenumber":"1337",
+    "addr:postcode":"65802",
+    "addr:street":"N Washington Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":806428411,
-    "wof:lastmodified":1466623876,
+    "wof:lastmodified":1472630259,
     "wof:name":"Plank Productions",
     "wof:parent_id":85881135,
     "wof:placetype":"venue",

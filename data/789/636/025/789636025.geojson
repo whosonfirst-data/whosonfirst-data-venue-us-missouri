@@ -2,6 +2,10 @@
   "id": 789636025,
   "type": "Feature",
   "properties": {
+    "addr:full":"12804 Manchester Rd St Louis MO 63131",
+    "addr:housenumber":"12804",
+    "addr:postcode":"63131",
+    "addr:street":"Manchester Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":789636025,
-    "wof:lastmodified":1466623840,
+    "wof:lastmodified":1472630230,
     "wof:name":"Shell Service Station",
     "wof:parent_id":85867981,
     "wof:placetype":"venue",

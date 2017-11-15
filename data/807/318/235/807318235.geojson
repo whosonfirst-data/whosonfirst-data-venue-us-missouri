@@ -2,6 +2,10 @@
   "id": 807318235,
   "type": "Feature",
   "properties": {
+    "addr:full":"301 Main St.  Suite 105 Parkville MO 64151",
+    "addr:housenumber":"301",
+    "addr:postcode":"64151",
+    "addr:street":"Main St. Suite 105",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -71,7 +75,7 @@
         }
     ],
     "wof:id":807318235,
-    "wof:lastmodified":1466631354,
+    "wof:lastmodified":1472630696,
     "wof:name":"Ride Bid",
     "wof:parent_id":85821231,
     "wof:placetype":"venue",

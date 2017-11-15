@@ -2,9 +2,14 @@
   "id": 186237359,
   "type": "Feature",
   "properties": {
+    "addr:full":"911 Washington Ave St Louis MO 63101",
+    "addr:housenumber":"911",
+    "addr:postcode":"63101",
+    "addr:street":"Washington Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.193204,38.631033,-90.193204,38.631033",
     "geom:latitude":38.631033,
     "geom:longitude":-90.193204,
@@ -35,11 +40,13 @@
     "sg:website":"www.overunderstl.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688661,
+        85873643,
+        102191575,
+        404518053,
         85633793,
         85971343,
         102080791,
-        85873643
+        85688661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,9 +56,10 @@
     "wof:geomhash":"37f6caa8e13c6a5b661dd3d16da14630",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080791,
+            "localadmin_id":404518053,
             "locality_id":85971343,
             "neighbourhood_id":85873643,
             "region_id":85688661,
@@ -59,7 +67,7 @@
         }
     ],
     "wof:id":186237359,
-    "wof:lastmodified":1466622257,
+    "wof:lastmodified":1491933744,
     "wof:name":"Over/Under Bar & Grill",
     "wof:parent_id":85873643,
     "wof:placetype":"venue",

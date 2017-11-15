@@ -2,9 +2,14 @@
   "id": 773358967,
   "type": "Feature",
   "properties": {
+    "addr:full":"5348 N Bales Ter Kansas City MO 64119",
+    "addr:housenumber":"5348",
+    "addr:postcode":"64119",
+    "addr:street":"N Bales Ter",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.537497,39.191707,-94.537497,39.191707",
     "geom:latitude":39.191707,
     "geom:longitude":-94.537497,
@@ -31,7 +36,8 @@
         85633793,
         85970739,
         102081227,
-        85688661
+        85688661,
+        85858297
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,12 +56,22 @@
             "neighbourhood_id":85823153,
             "region_id":85688661,
             "venue_id":773358967
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081227,
+            "localadmin_id":404518075,
+            "locality_id":85970739,
+            "neighbourhood_id":85858297,
+            "region_id":85688661,
+            "venue_id":773358967
         }
     ],
     "wof:id":773358967,
-    "wof:lastmodified":1466628430,
+    "wof:lastmodified":1491906202,
     "wof:name":"Ds Lawn Service",
-    "wof:parent_id":85823153,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],

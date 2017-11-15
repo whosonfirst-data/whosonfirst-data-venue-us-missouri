@@ -2,14 +2,20 @@
   "id": 807110929,
   "type": "Feature",
   "properties": {
+    "addr:full":"13726 Olive Blvd Chesterfield MO 63017",
+    "addr:housenumber":"13726",
+    "addr:postcode":"63017",
+    "addr:street":"Olive Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.507912,38.680569,-90.507912,38.680569",
     "geom:latitude":38.680569,
     "geom:longitude":-90.507912,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"13726 Olive Blvd",
     "sg:city":"Chesterfield",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102086173,
         85688661
     ],
+    "wof:brand_id":1125157217,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3XlHPVwitdSScTcjffNOXM_38.680569_-90.507912@1303262925"
     },
     "wof:country":"US",
     "wof:created":1462603842,
-    "wof:geomhash":"6a03bb053967a7029edeaebe6ec3f67f",
+    "wof:geomhash":"98827f7385858e3a5d4891b10702009f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":807110929,
-    "wof:lastmodified":1466624876,
+    "wof:lastmodified":1510697003,
     "wof:name":"Nail Pro",
     "wof:parent_id":85829043,
     "wof:placetype":"venue",

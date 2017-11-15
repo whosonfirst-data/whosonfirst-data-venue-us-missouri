@@ -2,14 +2,20 @@
   "id": 773696157,
   "type": "Feature",
   "properties": {
+    "addr:full":"9801 Air Cargo Rd St Louis MO 63134",
+    "addr:housenumber":"9801",
+    "addr:postcode":"63134",
+    "addr:street":"Air Cargo Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.353231,38.735641,-90.353231,38.735641",
     "geom:latitude":38.735641,
     "geom:longitude":-90.353231,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"9801 Air Cargo Rd",
     "sg:city":"St Louis",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102086173,
         85688661
     ],
+    "wof:brand_id":1125152647,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2oYXAWveixL4Rdkfi2bBEd_38.735641_-90.353231@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462587692,
-    "wof:geomhash":"86fab1a26a7996bbbd65951bc15d75b8",
+    "wof:geomhash":"e254c18e5e763fc8b3e7a6c1d7330caa",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":773696157,
-    "wof:lastmodified":1466634333,
+    "wof:lastmodified":1510699629,
     "wof:name":"Continental Airlines",
     "wof:parent_id":85847351,
     "wof:placetype":"venue",

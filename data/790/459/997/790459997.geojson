@@ -2,14 +2,20 @@
   "id": 790459997,
   "type": "Feature",
   "properties": {
+    "addr:full":"225 Louisa Ave Saint Louis MO 63135",
+    "addr:housenumber":"225",
+    "addr:postcode":"63135",
+    "addr:street":"Louisa Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.309509,38.738965,-90.309509,38.738965",
     "geom:latitude":38.738965,
     "geom:longitude":-90.309509,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"225 Louisa Ave",
     "sg:city":"Saint Louis",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102086173,
         85688661
     ],
+    "wof:brand_id":420575173,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4prQtTwYO2yJulGERQuypQ_38.738965_-90.309509@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462596012,
-    "wof:geomhash":"c0ea10d216b9e60ad21461184dfe2c1a",
+    "wof:geomhash":"5aade0081956054cba021cdd91a65296",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":790459997,
-    "wof:lastmodified":1466632108,
+    "wof:lastmodified":1510602717,
     "wof:name":"United States Postal Service",
     "wof:parent_id":85859027,
     "wof:placetype":"venue",

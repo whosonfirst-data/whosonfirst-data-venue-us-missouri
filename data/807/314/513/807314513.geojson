@@ -2,14 +2,20 @@
   "id": 807314513,
   "type": "Feature",
   "properties": {
+    "addr:full":"1512 W Maplewood St Springfield MO 65807",
+    "addr:housenumber":"1512",
+    "addr:postcode":"65807",
+    "addr:street":"W Maplewood St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.313252,37.141522,-93.313252,37.141522",
     "geom:latitude":37.141522,
     "geom:longitude":-93.313252,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1512 W Maplewood St",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -30,13 +36,14 @@
         85881143,
         102087523
     ],
+    "wof:brand_id":1125158231,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1tv67HVS3AIQlgusEr3lvB_37.141522_-93.313252@1303262939"
     },
     "wof:country":"US",
     "wof:created":1462606005,
-    "wof:geomhash":"eb59179690de61a2d3392ad22b98a7a2",
+    "wof:geomhash":"a4db5007822b624ccf4a33197e1a37dd",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -47,7 +54,7 @@
         }
     ],
     "wof:id":807314513,
-    "wof:lastmodified":1466631404,
+    "wof:lastmodified":1510697370,
     "wof:name":"Wonder Nails",
     "wof:parent_id":85881143,
     "wof:placetype":"venue",

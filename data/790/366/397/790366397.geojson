@@ -2,14 +2,20 @@
   "id": 790366397,
   "type": "Feature",
   "properties": {
+    "addr:full":"1315 Sainte Genevieve Ave Farmington MO 63640",
+    "addr:housenumber":"1315",
+    "addr:postcode":"63640",
+    "addr:street":"Sainte Genevieve Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.405849,37.7777,-90.405849,37.7777",
     "geom:latitude":37.7777,
     "geom:longitude":-90.405849,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1315 Sainte Genevieve Ave",
     "sg:city":"Farmington",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102085297,
         85816309
     ],
+    "wof:brand_id":420575743,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3NKlZH5uAuwZDezIVWPmkY_37.777700_-90.405849@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462595277,
-    "wof:geomhash":"08e4187060bd1fda427045aa16f65187",
+    "wof:geomhash":"bd2d8e03e8897c917a9bdc63df72d7c7",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":790366397,
-    "wof:lastmodified":1466630163,
+    "wof:lastmodified":1510607561,
     "wof:name":"Coca-Cola Bottling Co",
     "wof:parent_id":85816309,
     "wof:placetype":"venue",

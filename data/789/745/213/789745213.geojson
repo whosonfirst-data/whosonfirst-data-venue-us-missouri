@@ -2,14 +2,20 @@
   "id": 789745213,
   "type": "Feature",
   "properties": {
+    "addr:full":"1209 NE Rice Rd Lees Summit MO 64086",
+    "addr:housenumber":"1209",
+    "addr:postcode":"64086",
+    "addr:street":"Ne Rice Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.359192,38.937007,-94.359192,38.937007",
     "geom:latitude":38.937007,
     "geom:longitude":-94.359192,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1209 NE Rice Rd",
     "sg:city":"Lees Summit",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102081227,
         85688661
     ],
+    "wof:brand_id":1125157899,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5bYX0U6ahdAxiURe5n8CsD_38.937007_-94.359192@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462590219,
-    "wof:geomhash":"35640d21c6f15dcc2c3734a7c63331fd",
+    "wof:geomhash":"3b70f0512862128b7dc9286bfecf47b0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":789745213,
-    "wof:lastmodified":1466625907,
+    "wof:lastmodified":1510694211,
     "wof:name":"Magic Wok",
     "wof:parent_id":85849825,
     "wof:placetype":"venue",

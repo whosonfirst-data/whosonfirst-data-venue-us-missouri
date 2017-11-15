@@ -2,14 +2,20 @@
   "id": 806922833,
   "type": "Feature",
   "properties": {
+    "addr:full":"14248 Manchester Rd Ballwin MO 63011",
+    "addr:housenumber":"14248",
+    "addr:postcode":"63011",
+    "addr:street":"Manchester Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.504669,38.592601,-90.504669,38.592601",
     "geom:latitude":38.592601,
     "geom:longitude":-90.504669,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"14248 Manchester Rd",
     "sg:city":"Ballwin",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102086173,
         85688661
     ],
+    "wof:brand_id":1125157489,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6Wl5qsjlulyHfX1NSrYAGF_38.592601_-90.504669@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462602212,
-    "wof:geomhash":"5df71e033c9e4d944161d21a94650f3c",
+    "wof:geomhash":"8cf74d344eb71cc4f7343d757fd0f012",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":806922833,
-    "wof:lastmodified":1466634770,
+    "wof:lastmodified":1510699716,
     "wof:name":"Roly Poly",
     "wof:parent_id":85802943,
     "wof:placetype":"venue",

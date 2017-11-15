@@ -2,14 +2,20 @@
   "id": 789582665,
   "type": "Feature",
   "properties": {
+    "addr:full":"3002 E Division St Springfield MO 65802",
+    "addr:housenumber":"3002",
+    "addr:postcode":"65802",
+    "addr:street":"E Division St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.233131,37.224385,-93.233131,37.224385",
     "geom:latitude":37.224385,
     "geom:longitude":-93.233131,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3002 E Division St",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102087523,
         85881137
     ],
+    "wof:brand_id":420575363,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3uMNlBmGy9qwrNmlVsjQaJ_37.224385_-93.233131@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462588926,
-    "wof:geomhash":"52a1954c1420be69c7ca61ff96b034c9",
+    "wof:geomhash":"07608020e3622ffca74d9333e2f1f797",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":789582665,
-    "wof:lastmodified":1466622337,
+    "wof:lastmodified":1510602458,
     "wof:name":"ADT Security Services Inc",
     "wof:parent_id":85881137,
     "wof:placetype":"venue",

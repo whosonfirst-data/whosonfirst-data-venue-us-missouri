@@ -2,14 +2,20 @@
   "id": 806536795,
   "type": "Feature",
   "properties": {
+    "addr:full":"17 Warson Ter Saint Louis MO 63124",
+    "addr:housenumber":"17",
+    "addr:postcode":"63124",
+    "addr:street":"Warson Ter",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.394168,38.640807,-90.394168,38.640807",
     "geom:latitude":38.640807,
     "geom:longitude":-90.394168,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"17 Warson Ter",
     "sg:city":"Saint Louis",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102086173,
         85688661
     ],
+    "wof:brand_id":1125150727,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_17HldsxJU2B7W1DPaABHel_38.640807_-90.394168@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462598929,
-    "wof:geomhash":"3677a37597308a6346119587d009c2d6",
+    "wof:geomhash":"8ac22dd0fc18315b1a3c4ebbb0ea10d4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":806536795,
-    "wof:lastmodified":1466626445,
+    "wof:lastmodified":1510695861,
     "wof:name":"U-Save Auto Rental",
     "wof:parent_id":85867981,
     "wof:placetype":"venue",

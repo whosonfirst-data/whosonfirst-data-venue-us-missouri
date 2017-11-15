@@ -2,14 +2,20 @@
   "id": 807215131,
   "type": "Feature",
   "properties": {
+    "addr:full":"100 E 6th St Kearney MO 64060",
+    "addr:housenumber":"100",
+    "addr:postcode":"64060",
+    "addr:street":"E 6Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.362221,39.367908,-94.362221,39.367908",
     "geom:latitude":39.367908,
     "geom:longitude":-94.362221,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"100 E 6th St",
     "sg:city":"Kearney",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102086177,
         85812855
     ],
+    "wof:brand_id":420575371,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3YPks8lFOEPFEu1aspKfhF_39.367908_-94.362221@1303262932"
     },
     "wof:country":"US",
     "wof:created":1462604949,
-    "wof:geomhash":"1dd3d071144b909ddfd66a7fc06ce173",
+    "wof:geomhash":"a2b6697bcd428b9d19e2034c046e28cc",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":807215131,
-    "wof:lastmodified":1466628232,
+    "wof:lastmodified":1510602096,
     "wof:name":"Hair Affair",
     "wof:parent_id":85812855,
     "wof:placetype":"venue",

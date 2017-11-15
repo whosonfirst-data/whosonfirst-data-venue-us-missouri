@@ -2,6 +2,10 @@
   "id": 789771111,
   "type": "Feature",
   "properties": {
+    "addr:full":"2646 NE 74 St Kansas City MO 64119",
+    "addr:housenumber":"2646;74",
+    "addr:postcode":"64119",
+    "addr:street":"Ne;St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":789771111,
-    "wof:lastmodified":1466626528,
+    "wof:lastmodified":1472630474,
     "wof:name":"Sharyn Ballard",
     "wof:parent_id":85852163,
     "wof:placetype":"venue",

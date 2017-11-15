@@ -2,14 +2,20 @@
   "id": 807059677,
   "type": "Feature",
   "properties": {
+    "addr:full":"1717 Clarkson Rd Chesterfield MO 63017",
+    "addr:housenumber":"1717",
+    "addr:postcode":"63017",
+    "addr:street":"Clarkson Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.566808,38.643104,-90.566808,38.643104",
     "geom:latitude":38.643104,
     "geom:longitude":-90.566808,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1717 Clarkson Rd",
     "sg:city":"Chesterfield",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102086173,
         85688661
     ],
+    "wof:brand_id":1125153969,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7VwfEexzzXka2I0NZ1NIta_38.643104_-90.566808@1299784598"
     },
     "wof:country":"US",
     "wof:created":1462603368,
-    "wof:geomhash":"252e9a9c4874d504698940989ad8d43b",
+    "wof:geomhash":"97ddcab081a2f73c5e423cf59c7ef3c3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":807059677,
-    "wof:lastmodified":1466623968,
+    "wof:lastmodified":1510698944,
     "wof:name":"Imo's Pizza",
     "wof:parent_id":85805465,
     "wof:placetype":"venue",

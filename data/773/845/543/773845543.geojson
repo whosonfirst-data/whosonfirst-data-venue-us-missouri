@@ -2,14 +2,20 @@
   "id": 773845543,
   "type": "Feature",
   "properties": {
+    "addr:full":"607 E 7th St Joplin MO 64801",
+    "addr:housenumber":"607",
+    "addr:postcode":"64801",
+    "addr:street":"E 7Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.508575,37.084051,-94.508575,37.084051",
     "geom:latitude":37.084051,
     "geom:longitude":-94.508575,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"607 E 7th St",
     "sg:city":"Joplin",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         85688661,
         85885363
     ],
+    "wof:brand_id":1125152915,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_086eWG0o89nuaAtiXcsHoI_37.084051_-94.508575@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462588863,
-    "wof:geomhash":"90d4479bdb94042f8971cdb37786ba92",
+    "wof:geomhash":"dd45602d0a89f1a5116b18b863f0c9d3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,7 +75,7 @@
         }
     ],
     "wof:id":773845543,
-    "wof:lastmodified":1466635743,
+    "wof:lastmodified":1510697217,
     "wof:name":"Two Men & A Truck",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

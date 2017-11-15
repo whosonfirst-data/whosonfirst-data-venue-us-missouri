@@ -2,14 +2,20 @@
   "id": 773191175,
   "type": "Feature",
   "properties": {
+    "addr:full":"1520 Market St St Louis MO 63103",
+    "addr:housenumber":"1520",
+    "addr:postcode":"63103",
+    "addr:street":"Market St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.203504,38.628567,-90.203504,38.628567",
     "geom:latitude":38.628567,
     "geom:longitude":-90.203504,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1520 Market St",
     "sg:city":"St Louis",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102080791,
         85688661
     ],
+    "wof:brand_id":1125154013,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7Q7LKoxtYpnq8u3Oykar8g_38.628567_-90.203504@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462583859,
-    "wof:geomhash":"34cf468726efa6c77d1f9edc4b122a3b",
+    "wof:geomhash":"ebb9ac81103f744af5a2232b6bab23cf",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":773191175,
-    "wof:lastmodified":1466624958,
+    "wof:lastmodified":1510695148,
     "wof:name":"US Army Dept",
     "wof:parent_id":85873645,
     "wof:placetype":"venue",

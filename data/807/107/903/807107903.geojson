@@ -2,14 +2,20 @@
   "id": 807107903,
   "type": "Feature",
   "properties": {
+    "addr:full":"14850 Manchester Rd Ballwin MO 63011",
+    "addr:housenumber":"14850",
+    "addr:postcode":"63011",
+    "addr:street":"Manchester Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.541058,38.592984,-90.541058,38.592984",
     "geom:latitude":38.592984,
     "geom:longitude":-90.541058,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"14850 Manchester Rd",
     "sg:city":"Ballwin",
     "sg:classifiers":[
@@ -54,13 +60,14 @@
         102086173,
         85688661
     ],
+    "wof:brand_id":1125159733,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1YXdJSvIzbAt6FHp2RyBKn_38.592984_-90.541058@1303262925"
     },
     "wof:country":"US",
     "wof:created":1462603814,
-    "wof:geomhash":"67c93e3aca19bc5821d66b5c87181981",
+    "wof:geomhash":"0ee5a62dae64bbf856c861f22f2f503a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -74,7 +81,7 @@
         }
     ],
     "wof:id":807107903,
-    "wof:lastmodified":1466625059,
+    "wof:lastmodified":1510698013,
     "wof:name":"Ultimate Electronics",
     "wof:parent_id":85831197,
     "wof:placetype":"venue",

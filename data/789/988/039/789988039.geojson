@@ -2,6 +2,10 @@
   "id": 789988039,
   "type": "Feature",
   "properties": {
+    "addr:full":"321 E Sunshine St Springfield MO 65807",
+    "addr:housenumber":"321",
+    "addr:postcode":"65807",
+    "addr:street":"E Sunshine St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":789988039,
-    "wof:lastmodified":1466631702,
+    "wof:lastmodified":1472630742,
     "wof:name":"Pete Nichols",
     "wof:parent_id":85881155,
     "wof:placetype":"venue",

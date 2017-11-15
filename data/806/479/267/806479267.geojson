@@ -2,14 +2,20 @@
   "id": 806479267,
   "type": "Feature",
   "properties": {
+    "addr:full":"5805 W State Hwy Ee Springfield MO 65802",
+    "addr:housenumber":"5805",
+    "addr:postcode":"65802",
+    "addr:street":"W State Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.413838,37.242275,-93.413838,37.242275",
     "geom:latitude":37.242275,
     "geom:longitude":-93.413838,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5805 W State Hwy Ee",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087523,
         85881139
     ],
+    "wof:brand_id":1125157919,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_12bzYlEDjaqoDaJL9y6N3l_37.242275_-93.413838@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462598464,
-    "wof:geomhash":"2ef0a82c3e704c9d0aa80647d143eee7",
+    "wof:geomhash":"b9f7ee358742605878cf84196d94f6df",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":806479267,
-    "wof:lastmodified":1466624868,
+    "wof:lastmodified":1510697542,
     "wof:name":"National Weather Svc",
     "wof:parent_id":85881139,
     "wof:placetype":"venue",

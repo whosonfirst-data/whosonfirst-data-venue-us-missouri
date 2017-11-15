@@ -2,14 +2,20 @@
   "id": 790319077,
   "type": "Feature",
   "properties": {
+    "addr:full":"1303 E Kingsley St Springfield MO 65804",
+    "addr:housenumber":"1303",
+    "addr:postcode":"65804",
+    "addr:street":"E Kingsley St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.27517,37.14025,-93.27517,37.14025",
     "geom:latitude":37.14025,
     "geom:longitude":-93.27517,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1303 E Kingsley St",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087523,
         85688661
     ],
+    "wof:brand_id":1125156827,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1MrE5Fjoo20CAH5u3CNG7Z_37.140250_-93.275170@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462594909,
-    "wof:geomhash":"d539fdaaeafc0c748634020ae6786844",
+    "wof:geomhash":"1f0bf30198fb7f66ce9ff6eece81585a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":790319077,
-    "wof:lastmodified":1466629124,
+    "wof:lastmodified":1510613403,
     "wof:name":"Residence Inn By Marriott",
     "wof:parent_id":420525311,
     "wof:placetype":"venue",

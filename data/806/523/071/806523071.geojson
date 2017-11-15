@@ -2,14 +2,20 @@
   "id": 806523071,
   "type": "Feature",
   "properties": {
+    "addr:full":"2201 N Summit Ave Springfield MO 65803",
+    "addr:housenumber":"2201",
+    "addr:postcode":"65803",
+    "addr:street":"N Summit Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.28393,37.23738,-93.28393,37.23738",
     "geom:latitude":37.23738,
     "geom:longitude":-93.28393,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2201 N Summit Ave",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087523,
         85688661
     ],
+    "wof:brand_id":1125159863,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0fJkNGNy2Px7l3TasXUKnd_37.237380_-93.283930@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462598809,
-    "wof:geomhash":"010a89fbe19b3c09902b912ccc47dd35",
+    "wof:geomhash":"6eacb552e8305929e5d828a56fbadc5b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":806523071,
-    "wof:lastmodified":1466625934,
+    "wof:lastmodified":1510694981,
     "wof:name":"Freedom Baptist Church",
     "wof:parent_id":85881167,
     "wof:placetype":"venue",

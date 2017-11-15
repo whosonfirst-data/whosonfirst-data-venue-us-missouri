@@ -2,6 +2,10 @@
   "id": 789965745,
   "type": "Feature",
   "properties": {
+    "addr:full":"9036 Co Rd 422 Hannibal MO 63401",
+    "addr:housenumber":"9036;422",
+    "addr:postcode":"63401",
+    "addr:street":"Co Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":789965745,
-    "wof:lastmodified":1466631257,
+    "wof:lastmodified":1472630778,
     "wof:name":"A F Smith Roofing Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

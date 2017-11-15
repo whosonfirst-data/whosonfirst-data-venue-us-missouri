@@ -2,9 +2,14 @@
   "id": 790274993,
   "type": "Feature",
   "properties": {
+    "addr:full":"2309 Blue Ridge Blvd Kansas City MO 64129",
+    "addr:housenumber":"2309",
+    "addr:postcode":"64129",
+    "addr:street":"Blue Ridge Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.470925,39.079423,-94.470925,39.079423",
     "geom:latitude":39.079423,
     "geom:longitude":-94.470925,
@@ -25,11 +30,13 @@
     "sg:province":"MO",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688661,
+        85818127,
+        102191575,
+        404515661,
         85633793,
-        85970739,
+        85971449,
         102081227,
-        85810269
+        85688661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,18 +47,20 @@
     "wof:geomhash":"126a2cd63279fe88dd145f24f2f1d667",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081227,
-            "locality_id":85970739,
-            "neighbourhood_id":85810269,
+            "localadmin_id":404515661,
+            "locality_id":85971449,
+            "neighbourhood_id":85818127,
             "region_id":85688661,
             "venue_id":790274993
         }
     ],
     "wof:id":790274993,
-    "wof:lastmodified":1466628242,
+    "wof:lastmodified":1491935620,
     "wof:name":"Grace Christian Assembly",
-    "wof:parent_id":85810269,
+    "wof:parent_id":85818127,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],

@@ -2,6 +2,10 @@
   "id": 789637969,
   "type": "Feature",
   "properties": {
+    "addr:full":"101 E Main St Kearney MO 64060",
+    "addr:housenumber":"101",
+    "addr:postcode":"64060",
+    "addr:street":"E Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":789637969,
-    "wof:lastmodified":1466624034,
+    "wof:lastmodified":1472630282,
     "wof:name":"Marc IV",
     "wof:parent_id":85812855,
     "wof:placetype":"venue",

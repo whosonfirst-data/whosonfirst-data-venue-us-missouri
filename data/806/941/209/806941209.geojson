@@ -2,14 +2,20 @@
   "id": 806941209,
   "type": "Feature",
   "properties": {
+    "addr:full":"3848 Flad Ave St Louis MO 63110",
+    "addr:housenumber":"3848",
+    "addr:postcode":"63110",
+    "addr:street":"Flad Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.244626,38.611637,-90.244626,38.611637",
     "geom:latitude":38.611637,
     "geom:longitude":-90.244626,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3848 Flad Ave",
     "sg:city":"St Louis",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102080791,
         85688661
     ],
+    "wof:brand_id":1125150001,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6tgBq6dI1JecMmucE9YM8p_38.611637_-90.244626@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462602370,
-    "wof:geomhash":"d496848cacbd9f3e347d08e4d3beca8f",
+    "wof:geomhash":"1895a1c911fd42d68d2f8e5eb79f03f9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":806941209,
-    "wof:lastmodified":1466634993,
+    "wof:lastmodified":1510698741,
     "wof:name":"Sisters Of St Joseph",
     "wof:parent_id":420525475,
     "wof:placetype":"venue",

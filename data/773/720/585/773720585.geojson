@@ -2,14 +2,20 @@
   "id": 773720585,
   "type": "Feature",
   "properties": {
+    "addr:full":"12801 Flushing Meadows Dr St Louis MO 63131",
+    "addr:housenumber":"12801",
+    "addr:postcode":"63131",
+    "addr:street":"Flushing Meadows Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.452846,38.607558,-90.452846,38.607558",
     "geom:latitude":38.607558,
     "geom:longitude":-90.452846,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"12801 Flushing Meadows Dr",
     "sg:city":"St Louis",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102086173,
         85688661
     ],
+    "wof:brand_id":1125154811,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1DIpSM2RspEfbB5LSUc96l_38.607558_-90.452846@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462587874,
-    "wof:geomhash":"90c806f542cbfc3a29d9ecd2b5b2abc6",
+    "wof:geomhash":"f92091ff4f8d64d6b2da500b2cbc769b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":773720585,
-    "wof:lastmodified":1466634660,
+    "wof:lastmodified":1510695894,
     "wof:name":"Smurfit-Stone Container Corp",
     "wof:parent_id":85867981,
     "wof:placetype":"venue",

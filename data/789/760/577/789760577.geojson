@@ -2,6 +2,10 @@
   "id": 789760577,
   "type": "Feature",
   "properties": {
+    "addr:full":"106 S Main St Kansas City MO 64152",
+    "addr:housenumber":"106",
+    "addr:postcode":"64152",
+    "addr:street":"S Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":789760577,
-    "wof:lastmodified":1466626411,
+    "wof:lastmodified":1472630444,
     "wof:name":"GMI Reserch & Consulting",
     "wof:parent_id":85840629,
     "wof:placetype":"venue",

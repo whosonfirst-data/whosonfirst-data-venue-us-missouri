@@ -2,6 +2,10 @@
   "id": 790392621,
   "type": "Feature",
   "properties": {
+    "addr:full":"184 NE 72 St Kansas City MO 64118",
+    "addr:housenumber":"184;72",
+    "addr:postcode":"64118",
+    "addr:street":"Ne;St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":790392621,
-    "wof:lastmodified":1466630608,
+    "wof:lastmodified":1472630844,
     "wof:name":"All-State Security",
     "wof:parent_id":85830711,
     "wof:placetype":"venue",

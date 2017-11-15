@@ -2,14 +2,20 @@
   "id": 773840959,
   "type": "Feature",
   "properties": {
+    "addr:full":"20 Ofallon Sq O Fallon MO 63366",
+    "addr:housenumber":"20",
+    "addr:postcode":"63366",
+    "addr:street":"Ofallon Sq O",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.701621,38.801342,-90.701621,38.801342",
     "geom:latitude":38.801342,
     "geom:longitude":-90.701621,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"20 Ofallon Sq",
     "sg:city":"O Fallon",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102086159,
         85821097
     ],
+    "wof:brand_id":1125150357,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0AlPYYcaMViTdCPTLOGamT_38.801342_-90.701621@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462588828,
-    "wof:geomhash":"6e1541d5b236b3c8b734fe2d9a35e4fd",
+    "wof:geomhash":"570969ecb235cc9dc85572ba3e1b00a9",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":773840959,
-    "wof:lastmodified":1466635642,
+    "wof:lastmodified":1510697020,
     "wof:name":"Kmart Pharmacies Inc",
     "wof:parent_id":85821097,
     "wof:placetype":"venue",

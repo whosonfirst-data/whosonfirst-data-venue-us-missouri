@@ -2,14 +2,20 @@
   "id": 789606895,
   "type": "Feature",
   "properties": {
+    "addr:full":"604 Jefferson St Jefferson City MO 65101",
+    "addr:housenumber":"604",
+    "addr:postcode":"65101",
+    "addr:street":"Jefferson St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.175766,38.574192,-92.175766,38.574192",
     "geom:latitude":38.574192,
     "geom:longitude":-92.175766,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"604 Jefferson St",
     "sg:city":"Jefferson City",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102087511,
         85837745
     ],
+    "wof:brand_id":420575743,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2con1oV7ktS7hikDCHhkpT_38.574192_-92.175766@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462589116,
-    "wof:geomhash":"ae6c94f0c24dd0968e3ba61dfc80ba8c",
+    "wof:geomhash":"9548b62c1dc6dba72194c9e6aba39d22",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":789606895,
-    "wof:lastmodified":1466622514,
+    "wof:lastmodified":1510607562,
     "wof:name":"Coca-Cola Bottling Co",
     "wof:parent_id":85837745,
     "wof:placetype":"venue",

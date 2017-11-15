@@ -2,14 +2,20 @@
   "id": 806535949,
   "type": "Feature",
   "properties": {
+    "addr:full":"11211 Midland Blvd Overland MO 63114",
+    "addr:housenumber":"11211",
+    "addr:postcode":"63114",
+    "addr:street":"Midland Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.407029,38.706562,-90.407029,38.706562",
     "geom:latitude":38.706562,
     "geom:longitude":-90.407029,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"11211 Midland Blvd",
     "sg:city":"Overland",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102086173,
         85688661
     ],
+    "wof:brand_id":1125150177,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_04q3HzEKZ6HJWEF92hXRtl_38.706562_-90.407029@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462598923,
-    "wof:geomhash":"4a31eb617b9fb8e62c45eacc8c8681a3",
+    "wof:geomhash":"04efafdc2c09f1f3f19ffa85b20d68f6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":806535949,
-    "wof:lastmodified":1466626432,
+    "wof:lastmodified":1510694914,
     "wof:name":"Bethany Baptist Church",
     "wof:parent_id":85803699,
     "wof:placetype":"venue",

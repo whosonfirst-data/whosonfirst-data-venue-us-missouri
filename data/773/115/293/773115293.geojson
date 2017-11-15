@@ -2,6 +2,10 @@
   "id": 773115293,
   "type": "Feature",
   "properties": {
+    "addr:full":"12800 Co Rd 5030 Rolla MO 65401",
+    "addr:housenumber":"12800",
+    "addr:postcode":"5030;65401",
+    "addr:street":"Co Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":773115293,
-    "wof:lastmodified":1466622951,
+    "wof:lastmodified":1472630501,
     "wof:name":"Fred H Villeme",
     "wof:parent_id":85814531,
     "wof:placetype":"venue",

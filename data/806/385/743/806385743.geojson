@@ -2,14 +2,20 @@
   "id": 806385743,
   "type": "Feature",
   "properties": {
+    "addr:full":"1919 Osage Elm St Jefferson City MO 65101",
+    "addr:housenumber":"1919",
+    "addr:postcode":"65101",
+    "addr:street":"Osage Elm St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.03383,38.554964,-92.03383,38.554964",
     "geom:latitude":38.554964,
     "geom:longitude":-92.03383,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1919 Osage Elm St",
     "sg:city":"Jefferson City",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102087511,
         85837745
     ],
+    "wof:brand_id":1125150447,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5rgJ7zP2hsHvzsxUBgkbll_38.554964_-92.033830@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462597723,
-    "wof:geomhash":"e79a2074bbbd5fdef163352093b6e51e",
+    "wof:geomhash":"2fc370c95a10f7e97e0bc7948656986c",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":806385743,
-    "wof:lastmodified":1466623043,
+    "wof:lastmodified":1510697660,
     "wof:name":"Watkins Products",
     "wof:parent_id":85837745,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 789974921,
   "type": "Feature",
   "properties": {
+    "addr:full":"4236 S Broadway St Louis MO 63111",
+    "addr:housenumber":"4236",
+    "addr:postcode":"63111",
+    "addr:street":"S Broadway",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.231205,38.577865,-90.231205,38.577865",
     "geom:latitude":38.577865,
     "geom:longitude":-90.231205,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4236 S Broadway",
     "sg:city":"St Louis",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102080791,
         85688661
     ],
+    "wof:brand_id":1125150689,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4uOBl2Hf2BAEtJcIOnIswE_38.577865_-90.231205@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462592124,
-    "wof:geomhash":"7156d9e0518336d20d993fb825d84ff1",
+    "wof:geomhash":"ceca988903f5d8c49b31af194cc20cdd",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":789974921,
-    "wof:lastmodified":1466631403,
+    "wof:lastmodified":1510698857,
     "wof:name":"Simply Fashions",
     "wof:parent_id":85873697,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 789984247,
   "type": "Feature",
   "properties": {
+    "addr:full":"14750 Co Rd 2130 Rolla MO 65401",
+    "addr:housenumber":"14750",
+    "addr:postcode":"2130;65401",
+    "addr:street":"Co Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":789984247,
-    "wof:lastmodified":1466631427,
+    "wof:lastmodified":1472630752,
     "wof:name":"Studdard Trucking",
     "wof:parent_id":85814531,
     "wof:placetype":"venue",

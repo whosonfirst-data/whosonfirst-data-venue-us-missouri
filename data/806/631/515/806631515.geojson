@@ -2,14 +2,20 @@
   "id": 806631515,
   "type": "Feature",
   "properties": {
+    "addr:full":"6143 James S McDonnell Blvd Saint Louis MO 63134",
+    "addr:housenumber":"6143",
+    "addr:postcode":"63134",
+    "addr:street":"James S Mcdonnell Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.348746,38.750593,-90.348746,38.750593",
     "geom:latitude":38.750593,
     "geom:longitude":-90.348746,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"6143 James S McDonnell Blvd",
     "sg:city":"Saint Louis",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102086173,
         85688661
     ],
+    "wof:brand_id":1125152341,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3FFYEhMxCWBJZy0UE8HV9p_38.750593_-90.348746@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462599750,
-    "wof:geomhash":"9f175cb5721c4e82e8ad75aecfc6cbe0",
+    "wof:geomhash":"6e246e1acdeceabdae9f38a9ca2945be",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":806631515,
-    "wof:lastmodified":1466629024,
+    "wof:lastmodified":1510613374,
     "wof:name":"Federal Express Corporation",
     "wof:parent_id":85847351,
     "wof:placetype":"venue",

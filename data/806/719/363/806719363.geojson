@@ -2,14 +2,20 @@
   "id": 806719363,
   "type": "Feature",
   "properties": {
+    "addr:full":"500 Cooper Dr N Columbia MO 65201",
+    "addr:housenumber":"500",
+    "addr:postcode":"65201",
+    "addr:street":"Cooper Dr N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.33336,38.909259,-92.33336,38.909259",
     "geom:latitude":38.909259,
     "geom:longitude":-92.33336,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"500 Cooper Dr N",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102086187,
         85688661
     ],
+    "wof:brand_id":1125154549,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5FxouuzVg4Y0VpdAkv8OEf_38.909259_-92.333360@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462600495,
-    "wof:geomhash":"8d9bff99ad308b84a137ca740347b299",
+    "wof:geomhash":"e3eb7c23f0c8bdca50231b2ca57e131f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":806719363,
-    "wof:lastmodified":1466631068,
+    "wof:lastmodified":1510699048,
     "wof:name":"OReilly Auto Parts",
     "wof:parent_id":85835171,
     "wof:placetype":"venue",

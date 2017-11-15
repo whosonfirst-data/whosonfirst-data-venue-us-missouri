@@ -2,14 +2,20 @@
   "id": 789685437,
   "type": "Feature",
   "properties": {
+    "addr:full":"1215 S Kirkwood Rd Kirkwood MO 63122",
+    "addr:housenumber":"1215",
+    "addr:postcode":"63122",
+    "addr:street":"S Kirkwood Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.406876,38.565654,-90.406876,38.565654",
     "geom:latitude":38.565654,
     "geom:longitude":-90.406876,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1215 S Kirkwood Rd",
     "sg:city":"Kirkwood",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102086173,
         85688661
     ],
+    "wof:brand_id":1125150325,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0Dk8IAD7EyIVSnYvA5AhdY_38.565654_-90.406876@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462589746,
-    "wof:geomhash":"4bfed8c4ff24f73c63ed95e20526e659",
+    "wof:geomhash":"83b1c7c1867f7a19ee26e0ae36331d2f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":789685437,
-    "wof:lastmodified":1466624709,
+    "wof:lastmodified":1510694570,
     "wof:name":"Hobby Lobby Creative Ctr",
     "wof:parent_id":85858243,
     "wof:placetype":"venue",

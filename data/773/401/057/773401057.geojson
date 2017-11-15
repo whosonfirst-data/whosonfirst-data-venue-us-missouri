@@ -2,14 +2,20 @@
   "id": 773401057,
   "type": "Feature",
   "properties": {
+    "addr:full":"14905 Clayton Rd Chesterfield MO 63017",
+    "addr:housenumber":"14905",
+    "addr:postcode":"63017",
+    "addr:street":"Clayton Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.541313,38.614868,-90.541313,38.614868",
     "geom:latitude":38.614868,
     "geom:longitude":-90.541313,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"14905 Clayton Rd",
     "sg:city":"Chesterfield",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102086173,
         85688661
     ],
+    "wof:brand_id":1125159311,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3dcKuZCj17r5eJxKtDh4rR_38.614868_-90.541313@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462585406,
-    "wof:geomhash":"789e0794b1b544fcc846da4dbf32c948",
+    "wof:geomhash":"7f70eeb8b1300cdfbd122e17bb536337",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":773401057,
-    "wof:lastmodified":1466629391,
+    "wof:lastmodified":1510695248,
     "wof:name":"Mobil Mart",
     "wof:parent_id":85831197,
     "wof:placetype":"venue",

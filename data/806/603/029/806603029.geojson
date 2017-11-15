@@ -2,6 +2,10 @@
   "id": 806603029,
   "type": "Feature",
   "properties": {
+    "addr:full":"1025 W 8 St Kansas City MO 64101",
+    "addr:housenumber":"1025;8",
+    "addr:postcode":"64101",
+    "addr:street":"W;St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":806603029,
-    "wof:lastmodified":1466628165,
+    "wof:lastmodified":1472630416,
     "wof:name":"Garden Weasel",
     "wof:parent_id":85872005,
     "wof:placetype":"venue",

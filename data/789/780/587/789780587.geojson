@@ -2,6 +2,10 @@
   "id": 789780587,
   "type": "Feature",
   "properties": {
+    "addr:full":"7554 E Farm Rd 68 Strafford MO 65757",
+    "addr:housenumber":"7554;68",
+    "addr:postcode":"65757",
+    "addr:street":"E Farm Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":789780587,
-    "wof:lastmodified":1466626733,
+    "wof:lastmodified":1472630525,
     "wof:name":"Russ Construction Company Inc",
     "wof:parent_id":85881137,
     "wof:placetype":"venue",

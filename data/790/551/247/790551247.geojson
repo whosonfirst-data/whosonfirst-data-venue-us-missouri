@@ -2,14 +2,20 @@
   "id": 790551247,
   "type": "Feature",
   "properties": {
+    "addr:full":"605 S Main St Joplin MO 64801",
+    "addr:housenumber":"605",
+    "addr:postcode":"64801",
+    "addr:street":"S Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.513417,37.0841,-94.513417,37.0841",
     "geom:latitude":37.0841,
     "geom:longitude":-94.513417,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"605 S Main St",
     "sg:city":"Joplin",
     "sg:classifiers":[
@@ -41,13 +47,14 @@
         85688661,
         85885363
     ],
+    "wof:brand_id":1125153167,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4zPzPYso0YHfgaJ94rQh4R_37.084100_-94.513417@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462596805,
-    "wof:geomhash":"f9fc1a48f1c9811a8fb0ee3c6a256856",
+    "wof:geomhash":"d4f922962df45c7b7d44ba97dd70618e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -71,7 +78,7 @@
         }
     ],
     "wof:id":790551247,
-    "wof:lastmodified":1466633415,
+    "wof:lastmodified":1510694655,
     "wof:name":"Narcotics Anonymous",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

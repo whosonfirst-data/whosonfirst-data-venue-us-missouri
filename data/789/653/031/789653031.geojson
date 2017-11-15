@@ -2,14 +2,20 @@
   "id": 789653031,
   "type": "Feature",
   "properties": {
+    "addr:full":"625 S Missouri St Liberty MO 64068",
+    "addr:housenumber":"625",
+    "addr:postcode":"64068",
+    "addr:street":"S Missouri St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.418264,39.23814,-94.418264,39.23814",
     "geom:latitude":39.23814,
     "geom:longitude":-94.418264,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"625 S Missouri St",
     "sg:city":"Liberty",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         85688661,
         420525367
     ],
+    "wof:brand_id":1125154549,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6Mf2raabM8dve3A1PPqAlw_39.238140_-94.418264@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462589480,
-    "wof:geomhash":"005fe02a38c0e7ca29e28b98706f20ac",
+    "wof:geomhash":"4e3a9fb5a07c3abb2772b2ab55fe6003",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,7 +75,7 @@
         }
     ],
     "wof:id":789653031,
-    "wof:lastmodified":1466624120,
+    "wof:lastmodified":1510699047,
     "wof:name":"OReilly Auto Parts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

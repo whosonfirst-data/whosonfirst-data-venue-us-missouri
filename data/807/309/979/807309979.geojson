@@ -2,14 +2,20 @@
   "id": 807309979,
   "type": "Feature",
   "properties": {
+    "addr:full":"3720 S Glenstone Ave Springfield MO 65804",
+    "addr:housenumber":"3720",
+    "addr:postcode":"65804",
+    "addr:street":"S Glenstone Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.255123,37.144887,-93.255123,37.144887",
     "geom:latitude":37.144887,
     "geom:longitude":-93.255123,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3720 S Glenstone Ave",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -48,13 +54,14 @@
         102087523,
         85688661
     ],
+    "wof:brand_id":1125155667,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7Wzpxf8QMPZ3nRYznjxwu2_37.144887_-93.255123@1303262938"
     },
     "wof:country":"US",
     "wof:created":1462605957,
-    "wof:geomhash":"ea0de69443df533af60a27c42606286b",
+    "wof:geomhash":"73585b27e1c1c3aaad472c3a405e0e83",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,7 +75,7 @@
         }
     ],
     "wof:id":807309979,
-    "wof:lastmodified":1466630950,
+    "wof:lastmodified":1510698984,
     "wof:name":"Red Robin Gourmet Burgers",
     "wof:parent_id":85881149,
     "wof:placetype":"venue",

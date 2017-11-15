@@ -2,14 +2,20 @@
   "id": 807273013,
   "type": "Feature",
   "properties": {
+    "addr:full":"1023 Kingshighway St Rolla MO 65401",
+    "addr:housenumber":"1023",
+    "addr:postcode":"65401",
+    "addr:street":"Kingshighway St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.780479,37.945817,-91.780479,37.945817",
     "geom:latitude":37.945817,
     "geom:longitude":-91.780479,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1023 Kingshighway St",
     "sg:city":"Rolla",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102086893,
         85814531
     ],
+    "wof:brand_id":420575687,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4tZVpgJjUVllkG7qNVvxbk_37.945817_-91.780479@1303262936"
     },
     "wof:country":"US",
     "wof:created":1462605574,
-    "wof:geomhash":"d936151e1a0397b27f7d638b9ba2c3b8",
+    "wof:geomhash":"2bab9e39f4ce80cc407bbb0ff49af1f9",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":807273013,
-    "wof:lastmodified":1466629984,
+    "wof:lastmodified":1510602538,
     "wof:name":"Lovely Nails",
     "wof:parent_id":85814531,
     "wof:placetype":"venue",

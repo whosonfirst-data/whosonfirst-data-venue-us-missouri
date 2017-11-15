@@ -2,14 +2,20 @@
   "id": 789836875,
   "type": "Feature",
   "properties": {
+    "addr:full":"903 NW Woods Chapel Rd Blue Springs MO 64015",
+    "addr:housenumber":"903",
+    "addr:postcode":"64015",
+    "addr:street":"Nw Woods Chapel Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.304411,39.029399,-94.304411,39.029399",
     "geom:latitude":39.029399,
     "geom:longitude":-94.304411,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"903 NW Woods Chapel Rd",
     "sg:city":"Blue Springs",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102081227,
         85688661
     ],
+    "wof:brand_id":1125150809,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3PjToXvACJkAgDxWhMhQea_39.029399_-94.304411@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462590920,
-    "wof:geomhash":"00b375fb427344a234028baa3958a70b",
+    "wof:geomhash":"1c224fcf7546adaaead3bb1720290ee1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":789836875,
-    "wof:lastmodified":1466628216,
+    "wof:lastmodified":1510697337,
     "wof:name":"Quiktrip",
     "wof:parent_id":85847737,
     "wof:placetype":"venue",

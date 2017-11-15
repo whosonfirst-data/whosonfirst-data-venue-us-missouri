@@ -2,6 +2,10 @@
   "id": 806640511,
   "type": "Feature",
   "properties": {
+    "addr:full":"16597 Co Rd 7440 Newburg MO 65550",
+    "addr:housenumber":"16597;7440",
+    "addr:postcode":"65550",
+    "addr:street":"Co Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":806640511,
-    "wof:lastmodified":1466629042,
+    "wof:lastmodified":1472630484,
     "wof:name":"Clyde Huskey",
     "wof:parent_id":85814531,
     "wof:placetype":"venue",

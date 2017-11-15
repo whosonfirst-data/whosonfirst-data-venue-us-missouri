@@ -2,14 +2,20 @@
   "id": 806776223,
   "type": "Feature",
   "properties": {
+    "addr:full":"15289 Manchester Rd Ballwin MO 63011",
+    "addr:housenumber":"15289",
+    "addr:postcode":"63011",
+    "addr:street":"Manchester Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.556673,38.592933,-90.556673,38.592933",
     "geom:latitude":38.592933,
     "geom:longitude":-90.556673,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"15289 Manchester Rd",
     "sg:city":"Ballwin",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102086173,
         85688661
     ],
+    "wof:brand_id":1125158259,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_662cVMp1ungl1pdPfzAWet_38.592933_-90.556673@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462600985,
-    "wof:geomhash":"38fa7de15037f6a6170ab962a9add1cf",
+    "wof:geomhash":"5ca0b254862db11768655db1db4e6c74",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":806776223,
-    "wof:lastmodified":1466632431,
+    "wof:lastmodified":1510698669,
     "wof:name":"Computer Renaissance",
     "wof:parent_id":85831197,
     "wof:placetype":"venue",

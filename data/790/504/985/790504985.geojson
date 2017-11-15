@@ -2,14 +2,20 @@
   "id": 790504985,
   "type": "Feature",
   "properties": {
+    "addr:full":"909 Denali Dr Nixa MO 65714",
+    "addr:housenumber":"909",
+    "addr:postcode":"65714",
+    "addr:street":"Denali Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.315151,37.051416,-93.315151,37.051416",
     "geom:latitude":37.051416,
     "geom:longitude":-93.315151,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"909 Denali Dr",
     "sg:city":"Nixa",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087497,
         85809751
     ],
+    "wof:brand_id":1125151001,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1d3glfSGSYM93jIRDw7eGw_37.051416_-93.315151@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462596411,
-    "wof:geomhash":"599338622969759f8e09d9d8f53fa398",
+    "wof:geomhash":"63471833e8d4b8e082b78cd55102e905",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":790504985,
-    "wof:lastmodified":1466632770,
+    "wof:lastmodified":1510695765,
     "wof:name":"Beauti Control Cosmetics Inc",
     "wof:parent_id":85809751,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 773220583,
   "type": "Feature",
   "properties": {
+    "addr:full":"1804 Bird Ct Blue Springs MO 64015",
+    "addr:housenumber":"1804",
+    "addr:postcode":"64015",
+    "addr:street":"Bird Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.285708,38.999396,-94.285708,38.999396",
     "geom:latitude":38.999396,
     "geom:longitude":-94.285708,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1804 Bird Ct",
     "sg:city":"Blue Springs",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102081227,
         85688661
     ],
+    "wof:brand_id":1125150699,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1OcWicmwzXdMAWPILwQXQa_38.999396_-94.285708@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462584078,
-    "wof:geomhash":"96f49ea9b9e62146784b88e6d7ff8f2c",
+    "wof:geomhash":"b9a0ca4128bd31c58079cb77877fb5af",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":773220583,
-    "wof:lastmodified":1466625420,
+    "wof:lastmodified":1510697256,
     "wof:name":"A Plus Mini Market",
     "wof:parent_id":85847737,
     "wof:placetype":"venue",

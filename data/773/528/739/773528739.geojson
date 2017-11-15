@@ -2,9 +2,14 @@
   "id": 773528739,
   "type": "Feature",
   "properties": {
+    "addr:full":"5788 Waterman Blvd St Louis MO 63112",
+    "addr:housenumber":"5788",
+    "addr:postcode":"63112",
+    "addr:street":"Waterman Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.289369,38.650269,-90.289369,38.650269",
     "geom:latitude":38.650269,
     "geom:longitude":-90.289369,
@@ -36,7 +41,8 @@
         85633793,
         85971343,
         102080791,
-        85688661
+        85688661,
+        85873631
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,12 +61,22 @@
             "neighbourhood_id":85873633,
             "region_id":85688661,
             "venue_id":773528739
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080791,
+            "localadmin_id":404518053,
+            "locality_id":85971343,
+            "neighbourhood_id":85873631,
+            "region_id":85688661,
+            "venue_id":773528739
         }
     ],
     "wof:id":773528739,
-    "wof:lastmodified":1466632322,
+    "wof:lastmodified":1491893709,
     "wof:name":"Metro Alarm Systems",
-    "wof:parent_id":85873633,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],

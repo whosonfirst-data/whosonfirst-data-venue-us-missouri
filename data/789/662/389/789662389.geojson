@@ -2,6 +2,10 @@
   "id": 789662389,
   "type": "Feature",
   "properties": {
+    "addr:full":"2620 E 30 St Kansas City MO 64128",
+    "addr:housenumber":"2620;30",
+    "addr:postcode":"64128",
+    "addr:street":"E;St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":789662389,
-    "wof:lastmodified":1466624106,
+    "wof:lastmodified":1472630305,
     "wof:name":"Trisha Hudson",
     "wof:parent_id":85872025,
     "wof:placetype":"venue",

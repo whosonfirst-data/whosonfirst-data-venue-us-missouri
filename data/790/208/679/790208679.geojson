@@ -2,14 +2,20 @@
   "id": 790208679,
   "type": "Feature",
   "properties": {
+    "addr:full":"1500 E 46 St Kansas City MO 64110",
+    "addr:housenumber":"1500;46",
+    "addr:postcode":"64110",
+    "addr:street":"E;St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.567113,39.043341,-94.567113,39.043341",
     "geom:latitude":39.043341,
     "geom:longitude":-94.567113,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1500 E 46 St",
     "sg:city":"Kansas City",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102081227,
         85688661
     ],
+    "wof:brand_id":1125158215,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_344IuIX9KntRC7dSa9DG1A_39.043341_-94.567113@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462594019,
-    "wof:geomhash":"9e2cae1aaf21140cd92b29041449d493",
+    "wof:geomhash":"1d2ed171805f5cb596ff20b538acc5c6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":790208679,
-    "wof:lastmodified":1466626751,
+    "wof:lastmodified":1510699386,
     "wof:name":"Village Green Apartments",
     "wof:parent_id":85872023,
     "wof:placetype":"venue",

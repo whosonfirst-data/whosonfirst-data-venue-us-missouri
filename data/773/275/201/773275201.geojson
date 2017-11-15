@@ -2,6 +2,10 @@
   "id": 773275201,
   "type": "Feature",
   "properties": {
+    "addr:full":"113 NE 72 St Kansas City MO 64118",
+    "addr:housenumber":"113;72",
+    "addr:postcode":"64118",
+    "addr:street":"Ne;St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":773275201,
-    "wof:lastmodified":1466626502,
+    "wof:lastmodified":1472630943,
     "wof:name":"Judd Properties",
     "wof:parent_id":85830711,
     "wof:placetype":"venue",

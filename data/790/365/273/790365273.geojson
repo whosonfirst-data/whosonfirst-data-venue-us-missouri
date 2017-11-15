@@ -2,6 +2,10 @@
   "id": 790365273,
   "type": "Feature",
   "properties": {
+    "addr:full":"13371 Co Rd 3000 Rolla MO 65401",
+    "addr:housenumber":"13371",
+    "addr:postcode":"3000;65401",
+    "addr:street":"Co Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":790365273,
-    "wof:lastmodified":1466630325,
+    "wof:lastmodified":1472630825,
     "wof:name":"Designs By Dills",
     "wof:parent_id":85814531,
     "wof:placetype":"venue",

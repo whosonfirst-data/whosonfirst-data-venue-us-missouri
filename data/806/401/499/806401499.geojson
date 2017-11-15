@@ -2,14 +2,20 @@
   "id": 806401499,
   "type": "Feature",
   "properties": {
+    "addr:full":"1001 SW Blue Pkwy Lees Summit MO 64063",
+    "addr:housenumber":"1001",
+    "addr:postcode":"64063",
+    "addr:street":"Sw Blue Pkwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.390276,38.909015,-94.390276,38.909015",
     "geom:latitude":38.909015,
     "geom:longitude":-94.390276,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1001 SW Blue Pkwy",
     "sg:city":"Lees Summit",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102081227,
         85688661
     ],
+    "wof:brand_id":1125150809,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5O9dj53FkaErD0I10XjfRX_38.909015_-94.390276@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462597850,
-    "wof:geomhash":"6642cbcebc61313876a95ccc54db4507",
+    "wof:geomhash":"692c4fdea7527f8f467fa3743fd96ed0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":806401499,
-    "wof:lastmodified":1466622468,
+    "wof:lastmodified":1510697337,
     "wof:name":"Quiktrip",
     "wof:parent_id":85849825,
     "wof:placetype":"venue",

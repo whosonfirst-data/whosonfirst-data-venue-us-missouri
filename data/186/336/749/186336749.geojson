@@ -2,9 +2,14 @@
   "id": 186336749,
   "type": "Feature",
   "properties": {
+    "addr:full":"1142 Hodiamont Ave Saint Louis MO 63112",
+    "addr:housenumber":"1142",
+    "addr:postcode":"63112",
+    "addr:street":"Hodiamont Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.291702,38.666,-90.291702,38.666",
     "geom:latitude":38.666,
     "geom:longitude":-90.291702,
@@ -26,11 +31,13 @@
     "sg:website":"www.theleastofthesechildrensmini...",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688661,
+        85873621,
+        102191575,
+        404518053,
         85633793,
-        85972235,
-        102086173,
-        85873621
+        85971343,
+        102080791,
+        85688661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +47,18 @@
     "wof:geomhash":"faad51c4db01826f46b5b44f72156469",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102086173,
-            "locality_id":85972235,
+            "county_id":102080791,
+            "localadmin_id":404518053,
+            "locality_id":85971343,
             "neighbourhood_id":85873621,
             "region_id":85688661,
             "venue_id":186336749
         }
     ],
     "wof:id":186336749,
-    "wof:lastmodified":1466622322,
+    "wof:lastmodified":1491885214,
     "wof:name":"New City Fellowship",
     "wof:parent_id":85873621,
     "wof:placetype":"venue",

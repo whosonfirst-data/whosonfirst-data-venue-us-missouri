@@ -2,14 +2,20 @@
   "id": 773116733,
   "type": "Feature",
   "properties": {
+    "addr:full":"6 Paddock Hills Plaza Shoping Center Florissant MO 63033",
+    "addr:housenumber":"6",
+    "addr:postcode":"63033",
+    "addr:street":"Paddock Hills Plaza Shoping Center",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.312565,38.801233,-90.312565,38.801233",
     "geom:latitude":38.801233,
     "geom:longitude":-90.312565,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"6 Paddock Hills Plaza Shoping Center",
     "sg:city":"Florissant",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102086173,
         85688661
     ],
+    "wof:brand_id":1125150195,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4UKVFVuiPbJBlTCUCYBcSM_38.801233_-90.312565@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462583269,
-    "wof:geomhash":"72a408979bd665a1939efb14055d886d",
+    "wof:geomhash":"12f70d47c05de2d2798e83b5949e251c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":773116733,
-    "wof:lastmodified":1466623037,
+    "wof:lastmodified":1510694266,
     "wof:name":"American General Finance Corp",
     "wof:parent_id":85813019,
     "wof:placetype":"venue",

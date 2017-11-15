@@ -2,14 +2,20 @@
   "id": 790184831,
   "type": "Feature",
   "properties": {
+    "addr:full":"18240 Edison Ave Chesterfield MO 63005",
+    "addr:housenumber":"18240",
+    "addr:postcode":"63005",
+    "addr:street":"Edison Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.63617,38.664707,-90.63617,38.664707",
     "geom:latitude":38.664707,
     "geom:longitude":-90.63617,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"18240 Edison Ave",
     "sg:city":"Chesterfield",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102086173,
         85688661
     ],
+    "wof:brand_id":1125153727,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1EToEpdmdiWPZB3IcpZDh2_38.664707_-90.636170@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462593815,
-    "wof:geomhash":"1750cd4a808a1cc99eef8dbaefed973f",
+    "wof:geomhash":"71c3421a458f7827fa2ad593daee4cbd",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":790184831,
-    "wof:lastmodified":1466626100,
+    "wof:lastmodified":1510695747,
     "wof:name":"System Support Center",
     "wof:parent_id":85834749,
     "wof:placetype":"venue",

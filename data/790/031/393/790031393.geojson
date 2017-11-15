@@ -2,14 +2,20 @@
   "id": 790031393,
   "type": "Feature",
   "properties": {
+    "addr:full":"1503 E 10th St Rolla MO 65401",
+    "addr:housenumber":"1503",
+    "addr:postcode":"65401",
+    "addr:street":"E 10Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.745289,37.951543,-91.745289,37.951543",
     "geom:latitude":37.951543,
     "geom:longitude":-91.745289,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1503 E 10th St",
     "sg:city":"Rolla",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102086893,
         85814531
     ],
+    "wof:brand_id":1125155929,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1u3gMgq4giEQvtgmuDv36y_37.951543_-91.745289@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462592583,
-    "wof:geomhash":"a1f68d6010f9661924562488346fa88f",
+    "wof:geomhash":"36e70f9c43cae164e8f65de863f49e82",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":790031393,
-    "wof:lastmodified":1466622482,
+    "wof:lastmodified":1510697681,
     "wof:name":"Gambro Hlthcare Ptent Svcs Inc",
     "wof:parent_id":85814531,
     "wof:placetype":"venue",

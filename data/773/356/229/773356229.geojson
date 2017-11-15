@@ -2,14 +2,20 @@
   "id": 773356229,
   "type": "Feature",
   "properties": {
+    "addr:full":"2211 Barrett Station Rd Ballwin MO 63021",
+    "addr:housenumber":"2211",
+    "addr:postcode":"63021",
+    "addr:street":"Barrett Station Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.473713,38.59597,-90.473713,38.59597",
     "geom:latitude":38.59597,
     "geom:longitude":-90.473713,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2211 Barrett Station Rd",
     "sg:city":"Ballwin",
     "sg:classifiers":[
@@ -39,13 +45,14 @@
         102086173,
         85688661
     ],
+    "wof:brand_id":420574325,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0edT1JlmzRMkQUwpyBli4x_38.595970_-90.473713@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462585092,
-    "wof:geomhash":"1f21a595fa150f1126299b7ea9b170a4",
+    "wof:geomhash":"88d51370e36d7c02d2f420af1570f624",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,7 +66,7 @@
         }
     ],
     "wof:id":773356229,
-    "wof:lastmodified":1466628515,
+    "wof:lastmodified":1510604360,
     "wof:name":"Public Storage Inc",
     "wof:parent_id":85802943,
     "wof:placetype":"venue",

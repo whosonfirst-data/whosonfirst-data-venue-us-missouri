@@ -2,14 +2,20 @@
   "id": 806379101,
   "type": "Feature",
   "properties": {
+    "addr:full":"13411 Lake Front Dr Earth City MO 63044",
+    "addr:housenumber":"13411",
+    "addr:postcode":"63044",
+    "addr:street":"Lake Front Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.461632,38.765398,-90.461632,38.765398",
     "geom:latitude":38.765398,
     "geom:longitude":-90.461632,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"13411 Lake Front Dr",
     "sg:city":"Earth City",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102086173,
         85806637
     ],
+    "wof:brand_id":1125153323,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_28Bs8eZIUD0bm53RXW8Bmj_38.765398_-90.461632@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462597666,
-    "wof:geomhash":"48a58521f684c3b4e00e82a612cd9b20",
+    "wof:geomhash":"900175b8fc653a3759d75a9db2c7ceb9",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":806379101,
-    "wof:lastmodified":1466622940,
+    "wof:lastmodified":1510693791,
     "wof:name":"Nabisco",
     "wof:parent_id":85806637,
     "wof:placetype":"venue",

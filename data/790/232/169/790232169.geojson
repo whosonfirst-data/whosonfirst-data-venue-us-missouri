@@ -2,6 +2,10 @@
   "id": 790232169,
   "type": "Feature",
   "properties": {
+    "addr:full":"21699 Co Rd 3644 St James MO 65559",
+    "addr:housenumber":"21699",
+    "addr:postcode":"3644;65559",
+    "addr:street":"Co Rd;St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":790232169,
-    "wof:lastmodified":1466627350,
+    "wof:lastmodified":1472630525,
     "wof:name":"Classic Cars & Trucks Inc",
     "wof:parent_id":85847353,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 186239395,
   "type": "Feature",
   "properties": {
+    "addr:full":"801 N 2nd St Saint Louis MO 63102",
+    "addr:housenumber":"801",
+    "addr:postcode":"63102",
+    "addr:street":"N 2Nd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.184593,38.630883,-90.184593,38.630883",
     "geom:latitude":38.630883,
     "geom:longitude":-90.184593,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688661,
+        85873643,
+        102191575,
+        404518053,
         85633793,
         85971343,
         102080791,
-        85873643
+        85688661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +49,10 @@
     "wof:geomhash":"c4726cf0dac1c1410e20f043b5dc60a4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080791,
+            "localadmin_id":404518053,
             "locality_id":85971343,
             "neighbourhood_id":85873643,
             "region_id":85688661,
@@ -52,7 +60,7 @@
         }
     ],
     "wof:id":186239395,
-    "wof:lastmodified":1466622258,
+    "wof:lastmodified":1491933720,
     "wof:name":"Now Hotline",
     "wof:parent_id":85873643,
     "wof:placetype":"venue",

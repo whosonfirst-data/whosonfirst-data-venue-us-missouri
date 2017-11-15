@@ -2,14 +2,20 @@
   "id": 186133573,
   "type": "Feature",
   "properties": {
+    "addr:full":"798 Gravois Bluffs Blvd Fenton MO 63026",
+    "addr:housenumber":"798",
+    "addr:postcode":"63026",
+    "addr:street":"Gravois Bluffs Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.451927,38.504219,-90.451927,38.504219",
     "geom:latitude":38.504219,
     "geom:longitude":-90.451927,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"798 Gravois Bluffs Blvd",
     "sg:city":"Fenton",
     "sg:classifiers":[
@@ -84,12 +90,13 @@
         102086173,
         85858661
     ],
+    "wof:brand_id":1125151895,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5aTZyuzLRi5edufVOOa1rf_38.504219_-90.451927@1303262925"
     },
     "wof:country":"US",
-    "wof:geomhash":"2b879ca9c9a1eeb4ac13ca6a35089f66",
+    "wof:geomhash":"6fa8fa855cb2e5dc57290e4635aba422",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -102,7 +109,7 @@
         }
     ],
     "wof:id":186133573,
-    "wof:lastmodified":1466622163,
+    "wof:lastmodified":1510697711,
     "wof:name":"JCPenney Custom Decorating",
     "wof:parent_id":85858661,
     "wof:placetype":"venue",

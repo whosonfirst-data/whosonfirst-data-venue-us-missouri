@@ -2,14 +2,20 @@
   "id": 789654863,
   "type": "Feature",
   "properties": {
+    "addr:full":"1938 S Glenstone Ave Springfield MO 65804",
+    "addr:housenumber":"1938",
+    "addr:postcode":"65804",
+    "addr:street":"S Glenstone Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.262313,37.179649,-93.262313,37.179649",
     "geom:latitude":37.179649,
     "geom:longitude":-93.262313,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1938 S Glenstone Ave",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -39,13 +45,14 @@
         102087523,
         85688661
     ],
+    "wof:brand_id":1125153005,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2MIpxuhGCWOPSv4YdOLJZ4_37.179649_-93.262313@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462589492,
-    "wof:geomhash":"040fe2ebe304133843ede01fd124a7ac",
+    "wof:geomhash":"080f48177e3e4e2448c82445974c7050",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,7 +66,7 @@
         }
     ],
     "wof:id":789654863,
-    "wof:lastmodified":1466624153,
+    "wof:lastmodified":1510698726,
     "wof:name":"CD Warehouse",
     "wof:parent_id":85829759,
     "wof:placetype":"venue",

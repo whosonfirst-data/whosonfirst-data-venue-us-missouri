@@ -2,6 +2,10 @@
   "id": 789690265,
   "type": "Feature",
   "properties": {
+    "addr:full":"38 E 56 St Kansas City MO 64113",
+    "addr:housenumber":"38;56",
+    "addr:postcode":"64113",
+    "addr:street":"E;St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":789690265,
-    "wof:lastmodified":1466624654,
+    "wof:lastmodified":1472630308,
     "wof:name":"Francis Craftman",
     "wof:parent_id":85872031,
     "wof:placetype":"venue",

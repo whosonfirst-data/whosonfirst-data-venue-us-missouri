@@ -2,14 +2,20 @@
   "id": 789578953,
   "type": "Feature",
   "properties": {
+    "addr:full":"1554 Canterbury Ln Liberty MO 64068",
+    "addr:housenumber":"1554",
+    "addr:postcode":"64068",
+    "addr:street":"Canterbury Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.447293,39.224504,-94.447293,39.224504",
     "geom:latitude":39.224504,
     "geom:longitude":-94.447293,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1554 Canterbury Ln",
     "sg:city":"Liberty",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102081227,
         85688661
     ],
+    "wof:brand_id":1125152473,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5ZQi7rpT2IEtVQI0ZR0yd9_39.224504_-94.447293@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462588895,
-    "wof:geomhash":"afa8ff52d025f4d7c49d33b8a493fb4f",
+    "wof:geomhash":"48002d2a9e5652d17b200244ac8017d5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":789578953,
-    "wof:lastmodified":1466622166,
+    "wof:lastmodified":1510696664,
     "wof:name":"Finders Keepers",
     "wof:parent_id":85834529,
     "wof:placetype":"venue",

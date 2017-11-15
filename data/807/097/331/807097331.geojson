@@ -2,14 +2,20 @@
   "id": 807097331,
   "type": "Feature",
   "properties": {
+    "addr:full":"5806 Hampton Ave Saint Louis MO 63109",
+    "addr:housenumber":"5806",
+    "addr:postcode":"63109",
+    "addr:street":"Hampton Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.293577,38.579489,-90.293577,38.579489",
     "geom:latitude":38.579489,
     "geom:longitude":-90.293577,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5806 Hampton Ave",
     "sg:city":"Saint Louis",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102080791,
         85688661
     ],
+    "wof:brand_id":1125153969,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1ENbw3bmQI5Ihl1Vcxk0jI_38.579635_-90.293680@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462603690,
-    "wof:geomhash":"b375a937abd6394ac2a2c4ae630b9d52",
+    "wof:geomhash":"ff5530378d9fe7edfb615a102d1722e6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":807097331,
-    "wof:lastmodified":1466624535,
+    "wof:lastmodified":1510698944,
     "wof:name":"Imo's Pizza",
     "wof:parent_id":85873695,
     "wof:placetype":"venue",

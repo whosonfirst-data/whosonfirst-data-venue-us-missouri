@@ -2,14 +2,20 @@
   "id": 773317873,
   "type": "Feature",
   "properties": {
+    "addr:full":"104 Drew Ln Bonne Terre MO 63628",
+    "addr:housenumber":"104",
+    "addr:postcode":"63628",
+    "addr:street":"Drew Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.512603,37.886223,-90.512603,37.886223",
     "geom:latitude":37.886223,
     "geom:longitude":-90.512603,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"104 Drew Ln",
     "sg:city":"Bonne Terre",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102085297,
         85688661
     ],
+    "wof:brand_id":1125151419,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3OG1eIpIDlKxgWE1i7anBF_37.886223_-90.512603@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462584829,
-    "wof:geomhash":"b5abfac32326e3750154eef5040151eb",
+    "wof:geomhash":"ef058570c882ae84dbbe8285593ea893",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":773317873,
-    "wof:lastmodified":1466627650,
+    "wof:lastmodified":1510698996,
     "wof:name":"First Metropolitan Mortgage",
     "wof:parent_id":420525419,
     "wof:placetype":"venue",

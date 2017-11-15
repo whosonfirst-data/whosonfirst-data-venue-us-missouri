@@ -2,14 +2,20 @@
   "id": 807123191,
   "type": "Feature",
   "properties": {
+    "addr:full":"11951 Paul Mayer Ave Bridgeton MO 63044",
+    "addr:housenumber":"11951",
+    "addr:postcode":"63044",
+    "addr:street":"Paul Mayer Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.422447,38.746768,-90.422447,38.746768",
     "geom:latitude":38.746768,
     "geom:longitude":-90.422447,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"11951 Paul Mayer Ave",
     "sg:city":"Bridgeton",
     "sg:classifiers":[
@@ -55,13 +61,14 @@
         102086173,
         85688661
     ],
+    "wof:brand_id":1125151691,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2qiEN8Vl4QyoBItiLJPu7J_38.746768_-90.422447@1303262926"
     },
     "wof:country":"US",
     "wof:created":1462603978,
-    "wof:geomhash":"e2976332ef07f059baf0f479dc4318db",
+    "wof:geomhash":"3df8e61842659dd5be6b11dea5210110",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -75,7 +82,7 @@
         }
     ],
     "wof:id":807123191,
-    "wof:lastmodified":1466625286,
+    "wof:lastmodified":1510693900,
     "wof:name":"NTB - National Tire & Battery",
     "wof:parent_id":85836381,
     "wof:placetype":"venue",

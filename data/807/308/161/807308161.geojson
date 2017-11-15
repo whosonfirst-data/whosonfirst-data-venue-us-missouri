@@ -2,14 +2,20 @@
   "id": 807308161,
   "type": "Feature",
   "properties": {
+    "addr:full":"2555 E Livingston St Springfield MO 65803",
+    "addr:housenumber":"2555",
+    "addr:postcode":"65803",
+    "addr:street":"E Livingston St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.24363,37.245049,-93.24363,37.245049",
     "geom:latitude":37.245049,
     "geom:longitude":-93.24363,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2555 E Livingston St",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -52,13 +58,14 @@
         102087523,
         85881137
     ],
+    "wof:brand_id":1125150951,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0ZbCFg7yoeMojh4KS6kKrO_37.245049_-93.243630@1303262938"
     },
     "wof:country":"US",
     "wof:created":1462605939,
-    "wof:geomhash":"14cdd82a2f1d8b1787083009cd12b1b1",
+    "wof:geomhash":"d8e41736757b3a5eb4c6f3623fbbefbb",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -70,7 +77,7 @@
         }
     ],
     "wof:id":807308161,
-    "wof:lastmodified":1466631094,
+    "wof:lastmodified":1510696096,
     "wof:name":"Orkin Pest & Termite Control",
     "wof:parent_id":85881137,
     "wof:placetype":"venue",

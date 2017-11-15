@@ -2,14 +2,20 @@
   "id": 806518877,
   "type": "Feature",
   "properties": {
+    "addr:full":"235 Chesterfield Mall Chesterfield MO 63017",
+    "addr:housenumber":"235",
+    "addr:postcode":"63017",
+    "addr:street":"Chesterfield Mall",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.565084,38.654972,-90.565084,38.654972",
     "geom:latitude":38.654972,
     "geom:longitude":-90.565084,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"235 Chesterfield Mall",
     "sg:city":"Chesterfield",
     "sg:classifiers":[
@@ -43,13 +49,14 @@
         102086173,
         85688661
     ],
+    "wof:brand_id":1125150307,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_738EmCsrQCkqEBZmplQGEa_38.654972_-90.565084@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462598781,
-    "wof:geomhash":"7140e2a2b8cf8843438cee3e567e74e5",
+    "wof:geomhash":"de8f81dd59c8c8c816485d044f08e38b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -63,7 +70,7 @@
         }
     ],
     "wof:id":806518877,
-    "wof:lastmodified":1466626038,
+    "wof:lastmodified":1510698847,
     "wof:name":"Mrs Field's Original Cookies",
     "wof:parent_id":85805465,
     "wof:placetype":"venue",

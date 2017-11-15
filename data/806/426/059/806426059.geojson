@@ -2,14 +2,20 @@
   "id": 806426059,
   "type": "Feature",
   "properties": {
+    "addr:full":"10004 Halls Ferry Rd St Louis MO 63136",
+    "addr:housenumber":"10004",
+    "addr:postcode":"63136",
+    "addr:street":"Halls Ferry Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.254612,38.750682,-90.254612,38.750682",
     "geom:latitude":38.750682,
     "geom:longitude":-90.254612,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"10004 Halls Ferry Rd",
     "sg:city":"St Louis",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102086173,
         85688661
     ],
+    "wof:brand_id":1125156463,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_27A3mjudbbnvb47Vluk025_38.750682_-90.254612@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462598049,
-    "wof:geomhash":"cbdfa6e349e4ca7b5cdfb78ddb9ccca4",
+    "wof:geomhash":"54ae8ed663033b9b10b9499e2186bca2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":806426059,
-    "wof:lastmodified":1466623786,
+    "wof:lastmodified":1510699332,
     "wof:name":"Rally's Hamburgers Inc",
     "wof:parent_id":85859027,
     "wof:placetype":"venue",

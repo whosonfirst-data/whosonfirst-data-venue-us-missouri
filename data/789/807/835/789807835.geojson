@@ -2,6 +2,10 @@
   "id": 789807835,
   "type": "Feature",
   "properties": {
+    "addr:full":"350 S John Q Hammons Pkwy Springfield MO 65806",
+    "addr:housenumber":"350",
+    "addr:postcode":"65806",
+    "addr:street":"S John Q Hammons Pkwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":789807835,
-    "wof:lastmodified":1466627281,
+    "wof:lastmodified":1472630596,
     "wof:name":"Liebman Co Retail Consulting",
     "wof:parent_id":85881125,
     "wof:placetype":"venue",

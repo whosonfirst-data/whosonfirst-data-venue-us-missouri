@@ -2,14 +2,20 @@
   "id": 806664621,
   "type": "Feature",
   "properties": {
+    "addr:full":"5601 S Campbell Ave Springfield MO 65810",
+    "addr:housenumber":"5601",
+    "addr:postcode":"65810",
+    "addr:street":"S Campbell Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.297201,37.112933,-93.297201,37.112933",
     "geom:latitude":37.112933,
     "geom:longitude":-93.297201,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5601 S Campbell Ave",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         85881143,
         102087523
     ],
+    "wof:brand_id":1125156293,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Vtyj3iWq2GdQaNt7jevR6_37.112933_-93.297201@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462600037,
-    "wof:geomhash":"1ef666632ba9a51e6149975446dfc895",
+    "wof:geomhash":"2a31acf64e1be72519383e1ac5325d9e",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":806664621,
-    "wof:lastmodified":1466629829,
+    "wof:lastmodified":1510695377,
     "wof:name":"R J Reynolds Tobacco Company",
     "wof:parent_id":85881143,
     "wof:placetype":"venue",

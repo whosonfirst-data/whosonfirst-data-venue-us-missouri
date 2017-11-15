@@ -2,6 +2,10 @@
   "id": 789888675,
   "type": "Feature",
   "properties": {
+    "addr:full":"6079 Co Rd 425 Hannibal MO 63401",
+    "addr:housenumber":"6079;425",
+    "addr:postcode":"63401",
+    "addr:street":"Co Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":789888675,
-    "wof:lastmodified":1466629583,
+    "wof:lastmodified":1472630776,
     "wof:name":"Hannibal Air",
     "wof:parent_id":85867477,
     "wof:placetype":"venue",

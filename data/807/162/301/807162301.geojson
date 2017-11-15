@@ -2,14 +2,20 @@
   "id": 807162301,
   "type": "Feature",
   "properties": {
+    "addr:full":"6900 Gravois Ave Saint Louis MO 63116",
+    "addr:housenumber":"6900",
+    "addr:postcode":"63116",
+    "addr:street":"Gravois Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.2851,38.56991,-90.2851,38.56991",
     "geom:latitude":38.56991,
     "geom:longitude":-90.2851,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"6900 Gravois Ave",
     "sg:city":"Saint Louis",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102080791,
         85688661
     ],
+    "wof:brand_id":1125150809,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4VkIrb9WyFxhOdzUHQnd0h_38.569910_-90.285100@1303262929"
     },
     "wof:country":"US",
     "wof:created":1462604400,
-    "wof:geomhash":"7abf58541da0ae9b6ec987faec86d336",
+    "wof:geomhash":"f9ce688f5c03a3f7234c2e941d125ff9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":807162301,
-    "wof:lastmodified":1466626425,
+    "wof:lastmodified":1510697337,
     "wof:name":"Quiktrip",
     "wof:parent_id":85873695,
     "wof:placetype":"venue",

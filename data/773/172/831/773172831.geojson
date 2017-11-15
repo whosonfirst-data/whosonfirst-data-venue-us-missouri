@@ -2,14 +2,20 @@
   "id": 773172831,
   "type": "Feature",
   "properties": {
+    "addr:full":"300 E Broadway Columbia MO 65201",
+    "addr:housenumber":"300",
+    "addr:postcode":"65201",
+    "addr:street":"E Broadway",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.333599,38.95165,-92.333599,38.95165",
     "geom:latitude":38.95165,
     "geom:longitude":-92.333599,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"300 E Broadway",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102086187,
         85688661
     ],
+    "wof:brand_id":1125152299,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7c6Bf7fdXkVyEXEXxiRtbJ_38.951650_-92.333599@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462583687,
-    "wof:geomhash":"f37688576bddf7089bcad71e1c1bb5aa",
+    "wof:geomhash":"cdc820cc59f75237bb40fb83ecadc191",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":773172831,
-    "wof:lastmodified":1466624570,
+    "wof:lastmodified":1510695698,
     "wof:name":"Pella Window & Door Co",
     "wof:parent_id":85835171,
     "wof:placetype":"venue",

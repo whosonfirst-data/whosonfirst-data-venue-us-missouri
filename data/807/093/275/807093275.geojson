@@ -2,14 +2,20 @@
   "id": 807093275,
   "type": "Feature",
   "properties": {
+    "addr:full":"801 W Jackson St Ozark MO 65721",
+    "addr:housenumber":"801",
+    "addr:postcode":"65721",
+    "addr:street":"W Jackson St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.198007,37.022384,-93.198007,37.022384",
     "geom:latitude":37.022384,
     "geom:longitude":-93.198007,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"801 W Jackson St",
     "sg:city":"Ozark",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087497,
         85809751
     ],
+    "wof:brand_id":1125151217,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2ymZr66EP7Z5FtvpSt5PZN_37.022384_-93.198007@1299784598"
     },
     "wof:country":"US",
     "wof:created":1462603647,
-    "wof:geomhash":"4a2cc43a8a85f528627a84999d14c96f",
+    "wof:geomhash":"0aa3d3777dede9741ed34f8eba20e4f8",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":807093275,
-    "wof:lastmodified":1466624726,
+    "wof:lastmodified":1510697569,
     "wof:name":"Golden Dragon",
     "wof:parent_id":85809751,
     "wof:placetype":"venue",

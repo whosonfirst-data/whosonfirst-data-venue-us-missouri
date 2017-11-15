@@ -2,14 +2,20 @@
   "id": 773105799,
   "type": "Feature",
   "properties": {
+    "addr:full":"2223 W Sunset St Springfield MO 65807",
+    "addr:housenumber":"2223",
+    "addr:postcode":"65807",
+    "addr:street":"W Sunset St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.321869,37.166878,-93.321869,37.166878",
     "geom:latitude":37.166878,
     "geom:longitude":-93.321869,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2223 W Sunset St",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         85881151,
         102087523
     ],
+    "wof:brand_id":1125159369,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4Y0FpuvZ8aWeumlV2BHO6T_37.166878_-93.321869@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462583195,
-    "wof:geomhash":"70f5a3001ccf56848a791463d5938f31",
+    "wof:geomhash":"419a7a6c509a2c1d1ea3787bf16d51d4",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":773105799,
-    "wof:lastmodified":1466622491,
+    "wof:lastmodified":1510693227,
     "wof:name":"Simplexgrinnell LP",
     "wof:parent_id":85881151,
     "wof:placetype":"venue",

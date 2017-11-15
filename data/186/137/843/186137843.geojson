@@ -2,14 +2,20 @@
   "id": 186137843,
   "type": "Feature",
   "properties": {
+    "addr:full":"1573 Codorniz Ln Fenton MO 63026",
+    "addr:housenumber":"1573",
+    "addr:postcode":"63026",
+    "addr:street":"Codorniz Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.493766,38.509072,-90.493766,38.509072",
     "geom:latitude":38.509072,
     "geom:longitude":-90.493766,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1573 Codorniz Ln",
     "sg:city":"Fenton",
     "sg:classifiers":[
@@ -39,12 +45,13 @@
         102086173,
         85841473
     ],
+    "wof:brand_id":1125156175,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1m2TT57ZHVaOZdK1Cp42mv_38.509072_-90.493766@1303262925"
     },
     "wof:country":"US",
-    "wof:geomhash":"6ff9d242edce7270d0df9ef706cdcbe2",
+    "wof:geomhash":"adda41e81257e75a24903bcd51bfefb1",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":186137843,
-    "wof:lastmodified":1466622171,
+    "wof:lastmodified":1510697592,
     "wof:name":"World Inspection Network",
     "wof:parent_id":85841473,
     "wof:placetype":"venue",

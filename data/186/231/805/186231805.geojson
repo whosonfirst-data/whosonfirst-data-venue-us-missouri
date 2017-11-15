@@ -2,9 +2,14 @@
   "id": 186231805,
   "type": "Feature",
   "properties": {
+    "addr:full":"611 N 10th St Ste 550 Saint Louis MO 63101",
+    "addr:housenumber":"611",
+    "addr:postcode":"63101",
+    "addr:street":"N 10Th St Ste 550",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.193939,38.631291,-90.193939,38.631291",
     "geom:latitude":38.631291,
     "geom:longitude":-90.193939,
@@ -30,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688661,
+        85873643,
+        102191575,
+        404518053,
         85633793,
         85971343,
         102080791,
-        85873643
+        85688661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,9 +51,10 @@
     "wof:geomhash":"8a6a68e4df8c64a12c09e1d3e18bffe1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080791,
+            "localadmin_id":404518053,
             "locality_id":85971343,
             "neighbourhood_id":85873643,
             "region_id":85688661,
@@ -54,7 +62,7 @@
         }
     ],
     "wof:id":186231805,
-    "wof:lastmodified":1466622255,
+    "wof:lastmodified":1491933746,
     "wof:name":"St Louis Confluence",
     "wof:parent_id":85873643,
     "wof:placetype":"venue",

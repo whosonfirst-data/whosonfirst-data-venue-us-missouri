@@ -2,14 +2,20 @@
   "id": 789723841,
   "type": "Feature",
   "properties": {
+    "addr:full":"110 NW Barry Rd Kansas City MO 64155",
+    "addr:housenumber":"110",
+    "addr:postcode":"64155",
+    "addr:street":"Nw Barry Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.582244,39.246524,-94.582244,39.246524",
     "geom:latitude":39.246524,
     "geom:longitude":-94.582244,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"110 NW Barry Rd",
     "sg:city":"Kansas City",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102081227,
         85688661
     ],
+    "wof:brand_id":1125156543,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6Tra7X1To9UYw5v9c6VFN4_39.246524_-94.582244@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462590056,
-    "wof:geomhash":"ae1d172b0da7d0abdb601572f1988927",
+    "wof:geomhash":"d2111e10bf3fa05a110bce9876a8ae32",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":789723841,
-    "wof:lastmodified":1466625508,
+    "wof:lastmodified":1510700005,
     "wof:name":"Commerce Bank N A",
     "wof:parent_id":85821231,
     "wof:placetype":"venue",

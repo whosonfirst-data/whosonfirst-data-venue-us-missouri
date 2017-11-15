@@ -2,6 +2,10 @@
   "id": 789906955,
   "type": "Feature",
   "properties": {
+    "addr:full":"1 Union 70 Center Dr Saint Louis MO 63120",
+    "addr:housenumber":"1;70",
+    "addr:postcode":"63120",
+    "addr:street":"Union;Center Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":789906955,
-    "wof:lastmodified":1466629690,
+    "wof:lastmodified":1472630803,
     "wof:name":"Pepsi-Cola",
     "wof:parent_id":85873709,
     "wof:placetype":"venue",

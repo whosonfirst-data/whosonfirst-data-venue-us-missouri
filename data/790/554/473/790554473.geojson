@@ -2,14 +2,20 @@
   "id": 790554473,
   "type": "Feature",
   "properties": {
+    "addr:full":"1060 Bryan Rd O Fallon MO 63366",
+    "addr:housenumber":"1060",
+    "addr:postcode":"63366",
+    "addr:street":"Bryan Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.735961,38.794583,-90.735961,38.794583",
     "geom:latitude":38.794583,
     "geom:longitude":-90.735961,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1060 Bryan Rd",
     "sg:city":"O Fallon",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102086159,
         85821097
     ],
+    "wof:brand_id":1125154515,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0nvmBBg6zNPq60uOzlLEoB_38.794583_-90.735961@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462596833,
-    "wof:geomhash":"e148adc232ba67a6de7b46f0ed091853",
+    "wof:geomhash":"a23db029a2a253a307b449e43921e1c8",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":790554473,
-    "wof:lastmodified":1466633678,
+    "wof:lastmodified":1510693956,
     "wof:name":"Casey's Carry Out Pizza",
     "wof:parent_id":85821097,
     "wof:placetype":"venue",

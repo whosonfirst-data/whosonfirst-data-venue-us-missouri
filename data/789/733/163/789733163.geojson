@@ -2,14 +2,20 @@
   "id": 789733163,
   "type": "Feature",
   "properties": {
+    "addr:full":"12365 Saint Charles Rock Rd Bridgeton MO 63044",
+    "addr:housenumber":"12365",
+    "addr:postcode":"63044",
+    "addr:street":"Saint Charles Rock Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.428501,38.753258,-90.428501,38.753258",
     "geom:latitude":38.753258,
     "geom:longitude":-90.428501,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"12365 Saint Charles Rock Rd",
     "sg:city":"Bridgeton",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102086173,
         85688661
     ],
+    "wof:brand_id":1125157645,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5uC9v6pz0SH3KlfoLL4bX2_38.753258_-90.428501@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462590125,
-    "wof:geomhash":"67b5d1ed6266641f29fc1c11be0e0efd",
+    "wof:geomhash":"0efe628da57c5b42bc276e654319dc01",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":789733163,
-    "wof:lastmodified":1466626011,
+    "wof:lastmodified":1510613444,
     "wof:name":"International Association-Mach",
     "wof:parent_id":85836381,
     "wof:placetype":"venue",

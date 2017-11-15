@@ -2,14 +2,20 @@
   "id": 807088991,
   "type": "Feature",
   "properties": {
+    "addr:full":"706d Missouri Blvd Jefferson City MO 65109",
+    "addr:housenumber":"706d",
+    "addr:postcode":"65109",
+    "addr:street":"Missouri Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.185565,38.57779,-92.185565,38.57779",
     "geom:latitude":38.57779,
     "geom:longitude":-92.185565,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"706d Missouri Blvd",
     "sg:city":"Jefferson City",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087511,
         85837745
     ],
+    "wof:brand_id":1125153969,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4jpwiOLwKt9F6GU0yEcgdA_38.577790_-92.185565@1299784598"
     },
     "wof:country":"US",
     "wof:created":1462603608,
-    "wof:geomhash":"890e340595fcbdbf8cc411b323555e45",
+    "wof:geomhash":"042d467d186640890b945c859f7d8f07",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":807088991,
-    "wof:lastmodified":1466624535,
+    "wof:lastmodified":1510698944,
     "wof:name":"Imo's Pizza",
     "wof:parent_id":85837745,
     "wof:placetype":"venue",

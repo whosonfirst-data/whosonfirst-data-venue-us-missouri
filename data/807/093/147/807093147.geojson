@@ -2,14 +2,20 @@
   "id": 807093147,
   "type": "Feature",
   "properties": {
+    "addr:full":"703 Mccroskey St Nixa MO 65714",
+    "addr:housenumber":"703",
+    "addr:postcode":"65714",
+    "addr:street":"Mccroskey St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.301376,37.052572,-93.301376,37.052572",
     "geom:latitude":37.052572,
     "geom:longitude":-93.301376,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"703 Mccroskey St",
     "sg:city":"Nixa",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087497,
         85809751
     ],
+    "wof:brand_id":1125150283,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Xpz8kQqi1fSLWFCDa8WuX_37.052572_-93.301376@1299784598"
     },
     "wof:country":"US",
     "wof:created":1462603646,
-    "wof:geomhash":"a4f2ad9930b7fec6930d18527ed53248",
+    "wof:geomhash":"e023a4103d5e6bfaee842f8a1f306cb3",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":807093147,
-    "wof:lastmodified":1466624592,
+    "wof:lastmodified":1510695362,
     "wof:name":"Mcalister's Deli",
     "wof:parent_id":85809751,
     "wof:placetype":"venue",

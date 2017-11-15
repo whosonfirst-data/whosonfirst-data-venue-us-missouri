@@ -2,14 +2,20 @@
   "id": 773083657,
   "type": "Feature",
   "properties": {
+    "addr:full":"117 Main St Festus MO 63047",
+    "addr:housenumber":"117",
+    "addr:postcode":"63047",
+    "addr:street":"Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.48006,38.20327,-90.48006,38.20327",
     "geom:latitude":38.20327,
     "geom:longitude":-90.48006,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"117 Main St",
     "sg:city":"Festus",
     "sg:classifiers":[
@@ -30,13 +36,14 @@
         85848677,
         102080787
     ],
+    "wof:brand_id":1125152049,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2B7tOTGLSeqg2m2lpFCJ4r_38.203270_-90.480060@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462583036,
-    "wof:geomhash":"1c17643fd7461c9f048dd7fac34174db",
+    "wof:geomhash":"b8d962e5e7880ac8462bb84f3f5f368f",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -47,7 +54,7 @@
         }
     ],
     "wof:id":773083657,
-    "wof:lastmodified":1466622648,
+    "wof:lastmodified":1510694909,
     "wof:name":"Main Street Cafe",
     "wof:parent_id":85848677,
     "wof:placetype":"venue",

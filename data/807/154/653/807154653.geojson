@@ -2,14 +2,20 @@
   "id": 807154653,
   "type": "Feature",
   "properties": {
+    "addr:full":"5136 Southwest Ave Saint Louis MO 63110",
+    "addr:housenumber":"5136",
+    "addr:postcode":"63110",
+    "addr:street":"Southwest Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.275398,38.611099,-90.275398,38.611099",
     "geom:latitude":38.611099,
     "geom:longitude":-90.275398,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5136 Southwest Ave",
     "sg:city":"Saint Louis",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102080791,
         85688661
     ],
+    "wof:brand_id":1125156269,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4k6fp88ozmchq5hWF3gN3R_38.611099_-90.275398@1303262928"
     },
     "wof:country":"US",
     "wof:created":1462604317,
-    "wof:geomhash":"7ab0e66066a776d2fb66c2f41a9da388",
+    "wof:geomhash":"569f003daef0066906c359e915728225",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":807154653,
-    "wof:lastmodified":1466626344,
+    "wof:lastmodified":1510699970,
     "wof:name":"Maaco Auto Painting & Bodyworks",
     "wof:parent_id":85867039,
     "wof:placetype":"venue",

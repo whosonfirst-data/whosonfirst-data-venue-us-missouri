@@ -2,6 +2,10 @@
   "id": 773154149,
   "type": "Feature",
   "properties": {
+    "addr:full":"18790 Co Rd 3480 Saint James MO 65559",
+    "addr:housenumber":"18790",
+    "addr:postcode":"3480;65559",
+    "addr:street":"Co Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":773154149,
-    "wof:lastmodified":1466623990,
+    "wof:lastmodified":1472630563,
     "wof:name":"Wilsons Appraisal",
     "wof:parent_id":85847353,
     "wof:placetype":"venue",

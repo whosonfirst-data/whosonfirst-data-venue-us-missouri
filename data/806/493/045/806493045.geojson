@@ -2,14 +2,20 @@
   "id": 806493045,
   "type": "Feature",
   "properties": {
+    "addr:full":"201 W 39 St Kansas City MO 64111",
+    "addr:housenumber":"201",
+    "addr:postcode":"64111",
+    "addr:street":"W 39 St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.589458,39.056695,-94.589458,39.056695",
     "geom:latitude":39.056695,
     "geom:longitude":-94.589458,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"201 W 39 St",
     "sg:city":"Kansas City",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102081227,
         85688661
     ],
+    "wof:brand_id":420575761,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0KWHGAxhL7rZUp4Q7z9O1u_39.056695_-94.589458@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462598563,
-    "wof:geomhash":"50b34f57431bdc66c9ca612f9dcf840f",
+    "wof:geomhash":"280eb6a2daeab1f52c786215aaf712c4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":806493045,
-    "wof:lastmodified":1466625324,
+    "wof:lastmodified":1510602958,
     "wof:name":"Labor Ready",
     "wof:parent_id":85857131,
     "wof:placetype":"venue",

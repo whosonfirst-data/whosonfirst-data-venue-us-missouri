@@ -2,6 +2,10 @@
   "id": 773691087,
   "type": "Feature",
   "properties": {
+    "addr:full":"1301 E 31 St Kansas City MO 64109",
+    "addr:housenumber":"1301;31",
+    "addr:postcode":"64109",
+    "addr:street":"E;St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":773691087,
-    "wof:lastmodified":1466634271,
+    "wof:lastmodified":1472631095,
     "wof:name":"Pickens Delivery & Pallet Svcs",
     "wof:parent_id":85872029,
     "wof:placetype":"venue",

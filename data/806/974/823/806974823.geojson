@@ -2,6 +2,10 @@
   "id": 806974823,
   "type": "Feature",
   "properties": {
+    "addr:full":"344 E 72 St Kansas City MO 64114",
+    "addr:housenumber":"344;72",
+    "addr:postcode":"64114",
+    "addr:street":"E;St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":806974823,
-    "wof:lastmodified":1466635557,
+    "wof:lastmodified":1472630806,
     "wof:name":"Quik Trip",
     "wof:parent_id":85854229,
     "wof:placetype":"venue",

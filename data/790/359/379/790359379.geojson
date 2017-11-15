@@ -2,14 +2,20 @@
   "id": 790359379,
   "type": "Feature",
   "properties": {
+    "addr:full":"12 Gateswood Ct St Peters MO 63376",
+    "addr:housenumber":"12",
+    "addr:postcode":"63376",
+    "addr:street":"Gateswood Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.657444,38.793042,-90.657444,38.793042",
     "geom:latitude":38.793042,
     "geom:longitude":-90.657444,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"12 Gateswood Ct",
     "sg:city":"St Peters",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102086159,
         85821097
     ],
+    "wof:brand_id":1125157127,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3CVNEM54TLAj4rrT1ztygL_38.793042_-90.657444@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462595220,
-    "wof:geomhash":"c6740a86ac3aade40dec6dd75b871392",
+    "wof:geomhash":"1e968bec4ffd8b7501c5e6dd955714ab",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":790359379,
-    "wof:lastmodified":1466629826,
+    "wof:lastmodified":1510697055,
     "wof:name":"Chartwells",
     "wof:parent_id":85821097,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 806953749,
   "type": "Feature",
   "properties": {
+    "addr:full":"3537 W Mount Vernon St Springfield MO 65802",
+    "addr:housenumber":"3537",
+    "addr:postcode":"65802",
+    "addr:street":"W Mount Vernon St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.350276,37.205005,-93.350276,37.205005",
     "geom:latitude":37.205005,
     "geom:longitude":-93.350276,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3537 W Mount Vernon St",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102087523,
         85836941
     ],
+    "wof:brand_id":1125150351,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_025rzqS96YxaAgozwb5OrU_37.205005_-93.350276@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462602475,
-    "wof:geomhash":"f85556682b298e0f9ca00af47a13293c",
+    "wof:geomhash":"a0ed76f1406188539b0571908e0d7d72",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":806953749,
-    "wof:lastmodified":1466635321,
+    "wof:lastmodified":1510697027,
     "wof:name":"Christ United Methodist Church",
     "wof:parent_id":85836941,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 807097459,
   "type": "Feature",
   "properties": {
+    "addr:full":"4353 Natural Bridge Saint Louis MO 63115",
+    "addr:housenumber":"4353",
+    "addr:postcode":"63115",
+    "addr:street":"Natural Bridge",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.235735,38.669471,-90.235735,38.669471",
     "geom:latitude":38.669471,
     "geom:longitude":-90.235735,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4353 Natural Bridge",
     "sg:city":"Saint Louis",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102080791,
         85688661
     ],
+    "wof:brand_id":1125153969,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_12lxqTIRH02InErJs6Ob3r_38.669468_-90.235683@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462603691,
-    "wof:geomhash":"80407e7397c50f8ae910b6931cf99823",
+    "wof:geomhash":"aa8545adcb60c20a73972ddf6bf96dac",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":807097459,
-    "wof:lastmodified":1466624544,
+    "wof:lastmodified":1510698944,
     "wof:name":"Imo's Pizza",
     "wof:parent_id":85873611,
     "wof:placetype":"venue",

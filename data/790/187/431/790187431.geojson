@@ -2,14 +2,20 @@
   "id": 790187431,
   "type": "Feature",
   "properties": {
+    "addr:full":"3755 N Glenstone Ave Springfield MO 65803",
+    "addr:housenumber":"3755",
+    "addr:postcode":"65803",
+    "addr:street":"N Glenstone Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.264804,37.263946,-93.264804,37.263946",
     "geom:latitude":37.263946,
     "geom:longitude":-93.264804,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3755 N Glenstone Ave",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102087523,
         85881137
     ],
+    "wof:brand_id":1125153619,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1OojQwDYdG9yb5LliI94NE_37.263946_-93.264804@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462593835,
-    "wof:geomhash":"2e711fb054e441b6d80c824a0520e47a",
+    "wof:geomhash":"e8b031a48aeee5eef5ef465c1186f70e",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":790187431,
-    "wof:lastmodified":1466626338,
+    "wof:lastmodified":1510697974,
     "wof:name":"Kansas City Life Insurance Co",
     "wof:parent_id":85881137,
     "wof:placetype":"venue",

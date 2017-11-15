@@ -2,14 +2,20 @@
   "id": 790384889,
   "type": "Feature",
   "properties": {
+    "addr:full":"2540 N Glenstone Ave Springfield MO 65803",
+    "addr:housenumber":"2540",
+    "addr:postcode":"65803",
+    "addr:street":"N Glenstone Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.260818,37.242892,-93.260818,37.242892",
     "geom:latitude":37.242892,
     "geom:longitude":-93.260818,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2540 N Glenstone Ave",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087523,
         85881137
     ],
+    "wof:brand_id":1125151867,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_13fS4sqpHKuq6rOUE2RBZN_37.242892_-93.260818@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462595421,
-    "wof:geomhash":"92e1354a8a27227b163b7aece8f377be",
+    "wof:geomhash":"dc963499cfec95e1f4c5bd3d9d7b613e",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":790384889,
-    "wof:lastmodified":1466630640,
+    "wof:lastmodified":1510699637,
     "wof:name":"Valero Energy Corporation",
     "wof:parent_id":85881137,
     "wof:placetype":"venue",

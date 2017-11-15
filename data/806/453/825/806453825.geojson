@@ -2,14 +2,20 @@
   "id": 806453825,
   "type": "Feature",
   "properties": {
+    "addr:full":"112 W 23rd St S Independence MO 64055",
+    "addr:housenumber":"112",
+    "addr:postcode":"64055",
+    "addr:street":"W 23Rd St S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.417025,39.079274,-94.417025,39.079274",
     "geom:latitude":39.079274,
     "geom:longitude":-94.417025,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"112 W 23rd St S",
     "sg:city":"Independence",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102081227,
         85688661
     ],
+    "wof:brand_id":1125150025,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1FKMXgxIucOwNZoJF5HOut_39.079274_-94.417025@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462598270,
-    "wof:geomhash":"00ec45e2b4dc315e7410803db380e552",
+    "wof:geomhash":"9b398e741ab3ecedb4f5ab2e1da96cea",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":806453825,
-    "wof:lastmodified":1466624503,
+    "wof:lastmodified":1510695388,
     "wof:name":"Immanuel Baptist Church",
     "wof:parent_id":85833097,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 806682949,
   "type": "Feature",
   "properties": {
+    "addr:full":"1010 Market St St Louis MO 63101",
+    "addr:housenumber":"1010",
+    "addr:postcode":"63101",
+    "addr:street":"Market St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.195545,38.626774,-90.195545,38.626774",
     "geom:latitude":38.626774,
     "geom:longitude":-90.195545,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1010 Market St",
     "sg:city":"St Louis",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102080791,
         85688661
     ],
+    "wof:brand_id":1125154009,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7F27SQEwxcg6o8VNcGihDa_38.626774_-90.195545@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462600195,
-    "wof:geomhash":"af441a5a985cebe011c2030d81ad8c0c",
+    "wof:geomhash":"c4d81bd50b4f356c4429ad358f736f61",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":806682949,
-    "wof:lastmodified":1466630401,
+    "wof:lastmodified":1510695154,
     "wof:name":"Ticketmaster",
     "wof:parent_id":85867033,
     "wof:placetype":"venue",

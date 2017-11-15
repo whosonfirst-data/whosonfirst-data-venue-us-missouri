@@ -2,14 +2,20 @@
   "id": 789932729,
   "type": "Feature",
   "properties": {
+    "addr:full":"2305 Droste Rd St Charles MO 63301",
+    "addr:housenumber":"2305",
+    "addr:postcode":"63301",
+    "addr:street":"Droste Rd St Charles",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.513343,38.78924,-90.513343,38.78924",
     "geom:latitude":38.78924,
     "geom:longitude":-90.513343,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2305 Droste Rd",
     "sg:city":"St Charles",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102086159,
         85821097
     ],
+    "wof:brand_id":1125159311,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4G0LRWoG9C0gDBLbvYKnXN_38.789240_-90.513343@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462591731,
-    "wof:geomhash":"01061e76158806148e847f617229ae69",
+    "wof:geomhash":"8b99703649bd2605a6712d56f9b3257f",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":789932729,
-    "wof:lastmodified":1466630443,
+    "wof:lastmodified":1510695248,
     "wof:name":"Mobil Mart",
     "wof:parent_id":85821097,
     "wof:placetype":"venue",

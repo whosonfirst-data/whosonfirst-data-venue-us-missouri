@@ -2,14 +2,20 @@
   "id": 807072961,
   "type": "Feature",
   "properties": {
+    "addr:full":"1600 Mid Rivers Mall Saint Peters MO 63376",
+    "addr:housenumber":"1600",
+    "addr:postcode":"63376",
+    "addr:street":"Mid Rivers Mall",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.614859,38.798627,-90.614859,38.798627",
     "geom:latitude":38.798627,
     "geom:longitude":-90.614859,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1600 Mid Rivers Mall",
     "sg:city":"Saint Peters",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102086159,
         85821097
     ],
+    "wof:brand_id":1125155955,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_60Uy78syT1rbBuVGqZU9PF_38.798627_-90.614859@1299784598"
     },
     "wof:country":"US",
     "wof:created":1462603480,
-    "wof:geomhash":"1523031ad0ada166174a6804d5699c0a",
+    "wof:geomhash":"ab91b2faeea8d3f8f5401b46ef48fe0d",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":807072961,
-    "wof:lastmodified":1466624035,
+    "wof:lastmodified":1510698913,
     "wof:name":"Mrs. Fields",
     "wof:parent_id":85821097,
     "wof:placetype":"venue",

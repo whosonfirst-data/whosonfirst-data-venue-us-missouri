@@ -2,14 +2,20 @@
   "id": 807112841,
   "type": "Feature",
   "properties": {
+    "addr:full":"544 Goldwood Dr Ballwin MO 63021",
+    "addr:housenumber":"544",
+    "addr:postcode":"63021",
+    "addr:street":"Goldwood Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.552107,38.578693,-90.552107,38.578693",
     "geom:latitude":38.578693,
     "geom:longitude":-90.552107,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"544 Goldwood Dr",
     "sg:city":"Ballwin",
     "sg:classifiers":[
@@ -43,13 +49,14 @@
         102086173,
         85688661
     ],
+    "wof:brand_id":1125155265,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Mn8Z1OgEqKJpThuiJkTcv_38.578693_-90.552107@1303262925"
     },
     "wof:country":"US",
     "wof:created":1462603869,
-    "wof:geomhash":"62aaea81e998d819342df3a5ea601853",
+    "wof:geomhash":"343ad12f022af1d7650551a928515394",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -63,7 +70,7 @@
         }
     ],
     "wof:id":807112841,
-    "wof:lastmodified":1466624956,
+    "wof:lastmodified":1510699738,
     "wof:name":"Juice Plus",
     "wof:parent_id":85831197,
     "wof:placetype":"venue",

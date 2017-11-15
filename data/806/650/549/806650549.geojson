@@ -2,14 +2,20 @@
   "id": 806650549,
   "type": "Feature",
   "properties": {
+    "addr:full":"3150 Roger Pl St Louis MO 63116",
+    "addr:housenumber":"3150",
+    "addr:postcode":"63116",
+    "addr:street":"Roger Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.252573,38.601966,-90.252573,38.601966",
     "geom:latitude":38.601966,
     "geom:longitude":-90.252573,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3150 Roger Pl",
     "sg:city":"St Louis",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102080791,
         85688661
     ],
+    "wof:brand_id":420575745,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0dFUV7JWWhjw6hfOqoy5NM_38.601966_-90.252573@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462599910,
-    "wof:geomhash":"07ce742920cd428295523e4807124a7d",
+    "wof:geomhash":"ba4ea7a15ab0bb4e0d29948e846629fa",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":806650549,
-    "wof:lastmodified":1466629653,
+    "wof:lastmodified":1510602838,
     "wof:name":"Communications Workers-America",
     "wof:parent_id":85873681,
     "wof:placetype":"venue",

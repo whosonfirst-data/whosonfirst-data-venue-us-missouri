@@ -2,14 +2,20 @@
   "id": 773553531,
   "type": "Feature",
   "properties": {
+    "addr:full":"1350 Timberlake Manor Pkwy Chesterfield MO 63017",
+    "addr:housenumber":"1350",
+    "addr:postcode":"63017",
+    "addr:street":"Timberlake Manor Pkwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.530637,38.645084,-90.530637,38.645084",
     "geom:latitude":38.645084,
     "geom:longitude":-90.530637,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1350 Timberlake Manor Pkwy",
     "sg:city":"Chesterfield",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102086173,
         85688661
     ],
+    "wof:brand_id":1125153631,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_78nOuCdpvvY3KKBkGMrtas_38.645084_-90.530637@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462586595,
-    "wof:geomhash":"a2330d0a093fc2d0d506c870d34f22bf",
+    "wof:geomhash":"e0aa4cc0af10a05b629da130fdaa7e87",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":773553531,
-    "wof:lastmodified":1466632421,
+    "wof:lastmodified":1510695778,
     "wof:name":"Metropolitan Insurance",
     "wof:parent_id":85805465,
     "wof:placetype":"venue",

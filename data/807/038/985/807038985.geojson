@@ -2,14 +2,20 @@
   "id": 807038985,
   "type": "Feature",
   "properties": {
+    "addr:full":"1488 E Pearce Blvd Wentzville MO 63385",
+    "addr:housenumber":"1488",
+    "addr:postcode":"63385",
+    "addr:street":"E Pearce Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.831512,38.816566,-90.831512,38.816566",
     "geom:latitude":38.816566,
     "geom:longitude":-90.831512,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1488 E Pearce Blvd",
     "sg:city":"Wentzville",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102086159,
         85821097
     ],
+    "wof:brand_id":1125156439,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5i3IiSNaJENRJ8mnY7pR1Q_38.816474_-90.831802@1293134755"
     },
     "wof:country":"US",
     "wof:created":1462603195,
-    "wof:geomhash":"17d5243172787e5f4ea78c0d559828b5",
+    "wof:geomhash":"010b7df3cbe28ccc367f1601811ca6ef",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":807038985,
-    "wof:lastmodified":1466623160,
+    "wof:lastmodified":1510696866,
     "wof:name":"Norfolk Southern Corporation",
     "wof:parent_id":85821097,
     "wof:placetype":"venue",

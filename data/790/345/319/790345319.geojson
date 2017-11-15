@@ -2,14 +2,20 @@
   "id": 790345319,
   "type": "Feature",
   "properties": {
+    "addr:full":"10669 State Hwy 21 Hillsboro MO 63050",
+    "addr:housenumber":"10669",
+    "addr:postcode":"63050",
+    "addr:street":"State Hwy 21",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.563252,38.22859,-90.563252,38.22859",
     "geom:latitude":38.22859,
     "geom:longitude":-90.563252,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"10669 State Hwy 21",
     "sg:city":"Hillsboro",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         85848677,
         102080787
     ],
+    "wof:brand_id":1125151375,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7OU4yOpkshApT6Zz0ZUCjS_38.228590_-90.563252@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462595103,
-    "wof:geomhash":"b0d4c96cb9f69464a2d2a6f801f54dc4",
+    "wof:geomhash":"7dfea634e8830fa2a8bffd207b3f6e70",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":790345319,
-    "wof:lastmodified":1466629541,
+    "wof:lastmodified":1510695794,
     "wof:name":"Land America Commonwealth",
     "wof:parent_id":85848677,
     "wof:placetype":"venue",

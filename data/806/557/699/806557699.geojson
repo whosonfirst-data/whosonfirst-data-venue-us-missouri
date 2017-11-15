@@ -2,6 +2,10 @@
   "id": 806557699,
   "type": "Feature",
   "properties": {
+    "addr:full":"3110 W Farm Rd 102 Springfield MO 65803",
+    "addr:housenumber":"3110;102",
+    "addr:postcode":"65803",
+    "addr:street":"W Farm Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":806557699,
-    "wof:lastmodified":1466627166,
+    "wof:lastmodified":1472630402,
     "wof:name":"Bob Mc Croskey Real Estate",
     "wof:parent_id":85881139,
     "wof:placetype":"venue",

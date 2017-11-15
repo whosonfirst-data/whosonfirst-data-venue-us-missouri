@@ -2,14 +2,20 @@
   "id": 773709113,
   "type": "Feature",
   "properties": {
+    "addr:full":"1727 Belleau Creek Rd O Fallon MO 63366",
+    "addr:housenumber":"1727",
+    "addr:postcode":"63366",
+    "addr:street":"Belleau Creek Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.671814,38.7881,-90.671814,38.7881",
     "geom:latitude":38.7881,
     "geom:longitude":-90.671814,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1727 Belleau Creek Rd",
     "sg:city":"O Fallon",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102086159,
         85821097
     ],
+    "wof:brand_id":1125150427,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6xTurfuSWHWmvZ7qshrURe_38.788100_-90.671814@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462587797,
-    "wof:geomhash":"ac245aead8f4cf67e1b1a3a8692cfaf4",
+    "wof:geomhash":"37f27ee67ac6a43496fca5ce497e1dd8",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":773709113,
-    "wof:lastmodified":1466634570,
+    "wof:lastmodified":1510694663,
     "wof:name":"Vineyard Christian Fellowship",
     "wof:parent_id":85821097,
     "wof:placetype":"venue",

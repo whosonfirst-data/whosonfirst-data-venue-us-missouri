@@ -2,6 +2,10 @@
   "id": 789676887,
   "type": "Feature",
   "properties": {
+    "addr:full":"12851 Manchester Rd Saint Louis MO 63131",
+    "addr:housenumber":"12851",
+    "addr:postcode":"63131",
+    "addr:street":"Manchester Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":789676887,
-    "wof:lastmodified":1466624523,
+    "wof:lastmodified":1472630365,
     "wof:name":"SBC",
     "wof:parent_id":85867981,
     "wof:placetype":"venue",

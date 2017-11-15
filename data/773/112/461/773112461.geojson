@@ -2,14 +2,20 @@
   "id": 773112461,
   "type": "Feature",
   "properties": {
+    "addr:full":"350 US Hwy 54 Camdenton MO 65020",
+    "addr:housenumber":"350",
+    "addr:postcode":"65020",
+    "addr:street":"Us Hwy 54",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.749045,38.004873,-92.749045,38.004873",
     "geom:latitude":38.004873,
     "geom:longitude":-92.749045,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"350 US Hwy 54",
     "sg:city":"Camdenton",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102087517,
         85688661
     ],
+    "wof:brand_id":420575587,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4cdYcIytOPtVguyuAaF0eQ_38.004873_-92.749045@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462583237,
-    "wof:geomhash":"8e6208bb868fdd6220f8760092f0d5d3",
+    "wof:geomhash":"88880cd468ea5e46b154ad5d1d494847",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":773112461,
-    "wof:lastmodified":1466622806,
+    "wof:lastmodified":1510618835,
     "wof:name":"Revenue Dept",
     "wof:parent_id":85813457,
     "wof:placetype":"venue",

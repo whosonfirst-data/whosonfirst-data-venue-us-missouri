@@ -2,14 +2,20 @@
   "id": 806649537,
   "type": "Feature",
   "properties": {
+    "addr:full":"1651 Veterans Dr De Soto MO 63020",
+    "addr:housenumber":"1651",
+    "addr:postcode":"63020",
+    "addr:street":"Veterans Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.559701,38.121043,-90.559701,38.121043",
     "geom:latitude":38.121043,
     "geom:longitude":-90.559701,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1651 Veterans Dr",
     "sg:city":"De Soto",
     "sg:classifiers":[
@@ -30,13 +36,14 @@
         85848677,
         102080787
     ],
+    "wof:brand_id":420573927,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Y5EgdG6oL4Zb6JNtHCan1_38.121043_-90.559701@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462599899,
-    "wof:geomhash":"4932880607dcc59f932c0a066bb24481",
+    "wof:geomhash":"39676b74d213a7151185fad94944def1",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -47,7 +54,7 @@
         }
     ],
     "wof:id":806649537,
-    "wof:lastmodified":1466629474,
+    "wof:lastmodified":1510603014,
     "wof:name":"Veterans Of Foreign Wars",
     "wof:parent_id":85848677,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 790555477,
   "type": "Feature",
   "properties": {
+    "addr:full":"1651 W 7th St Joplin MO 64801",
+    "addr:housenumber":"1651",
+    "addr:postcode":"64801",
+    "addr:street":"W 7Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.534745,37.084714,-94.534745,37.084714",
     "geom:latitude":37.084714,
     "geom:longitude":-94.534745,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1651 W 7th St",
     "sg:city":"Joplin",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102087525,
         85810925
     ],
+    "wof:brand_id":1125151847,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1PcW6g98fiEet5zdqL0HbI_37.084714_-94.534745@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462596841,
-    "wof:geomhash":"a70b82f06ad2d0386617a7078677719b",
+    "wof:geomhash":"d439309bbe09973537f87d0ed1682ec5",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":790555477,
-    "wof:lastmodified":1466633503,
+    "wof:lastmodified":1510697630,
     "wof:name":"Le Nails",
     "wof:parent_id":85810925,
     "wof:placetype":"venue",

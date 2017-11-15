@@ -2,14 +2,20 @@
   "id": 773706719,
   "type": "Feature",
   "properties": {
+    "addr:full":"2436 S National Ave Springfield MO 65804",
+    "addr:housenumber":"2436",
+    "addr:postcode":"65804",
+    "addr:street":"S National Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.277044,37.168392,-93.277044,37.168392",
     "geom:latitude":37.168392,
     "geom:longitude":-93.277044,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2436 S National Ave",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102087523,
         85688661
     ],
+    "wof:brand_id":1125159019,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6oomlbjZIAZd5N6sUJsAfe_37.168392_-93.277044@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462587770,
-    "wof:geomhash":"b2edb669deec313768c760e90cdf4c14",
+    "wof:geomhash":"9b30c8012db0d401935d6933f549489f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":773706719,
-    "wof:lastmodified":1466634744,
+    "wof:lastmodified":1510696617,
     "wof:name":"International Order of Ra",
     "wof:parent_id":85881155,
     "wof:placetype":"venue",

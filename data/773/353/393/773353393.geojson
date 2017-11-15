@@ -2,14 +2,20 @@
   "id": 773353393,
   "type": "Feature",
   "properties": {
+    "addr:full":"9700 Zion Lutheran Church Rd Hillsboro MO 63050",
+    "addr:housenumber":"9700",
+    "addr:postcode":"63050",
+    "addr:street":"Zion;Church Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.49627,38.268319,-90.49627,38.268319",
     "geom:latitude":38.268319,
     "geom:longitude":-90.49627,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"9700 Zion Lutheran Church Rd",
     "sg:city":"Hillsboro",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         85848677,
         102080787
     ],
+    "wof:brand_id":420575599,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4NPECMPNi8Ne6Q6zKQ8RQe_38.268319_-90.496270@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462585074,
-    "wof:geomhash":"011d8455438ea8d4ae36b306184f1192",
+    "wof:geomhash":"34038afc791710e6079cf619d6991bab",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":773353393,
-    "wof:lastmodified":1466628304,
+    "wof:lastmodified":1510602073,
     "wof:name":"Zion Lutheran Church",
     "wof:parent_id":85848677,
     "wof:placetype":"venue",

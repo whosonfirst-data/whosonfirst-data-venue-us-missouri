@@ -2,6 +2,10 @@
   "id": 789629165,
   "type": "Feature",
   "properties": {
+    "addr:full":"1125 W Farm Rd 178 Springfield MO 65810",
+    "addr:housenumber":"1125;178",
+    "addr:postcode":"65810",
+    "addr:street":"W Farm Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":789629165,
-    "wof:lastmodified":1466623758,
+    "wof:lastmodified":1472630230,
     "wof:name":"Boyce Homes",
     "wof:parent_id":85881143,
     "wof:placetype":"venue",

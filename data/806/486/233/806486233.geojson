@@ -2,14 +2,20 @@
   "id": 806486233,
   "type": "Feature",
   "properties": {
+    "addr:full":"5911 Suemandy Rd St Peters MO 63376",
+    "addr:housenumber":"5911",
+    "addr:postcode":"63376",
+    "addr:street":"Suemandy Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.623045,38.796889,-90.623045,38.796889",
     "geom:latitude":38.796889,
     "geom:longitude":-90.623045,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5911 Suemandy Rd",
     "sg:city":"St Peters",
     "sg:classifiers":[
@@ -39,13 +45,14 @@
         102086159,
         85821097
     ],
+    "wof:brand_id":420575889,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2nbWZag1QyS7m90q5S7L8y_38.796889_-90.623045@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462598516,
-    "wof:geomhash":"3cb2c6f3ecdf13f149c99252911fb6dd",
+    "wof:geomhash":"2cd125b3f713a29249fe2f6373a20d14",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":806486233,
-    "wof:lastmodified":1466625073,
+    "wof:lastmodified":1510602990,
     "wof:name":"Labor Finders",
     "wof:parent_id":85821097,
     "wof:placetype":"venue",

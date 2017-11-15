@@ -2,14 +2,20 @@
   "id": 773454493,
   "type": "Feature",
   "properties": {
+    "addr:full":"400 SW Nichols St Lees Summit MO 64063",
+    "addr:housenumber":"400",
+    "addr:postcode":"64063",
+    "addr:street":"Sw Nichols St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.388861,38.910619,-94.388861,38.910619",
     "geom:latitude":38.910619,
     "geom:longitude":-94.388861,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"400 SW Nichols St",
     "sg:city":"Lees Summit",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102081227,
         85688661
     ],
+    "wof:brand_id":1125156723,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0UdQOwKU8ZbWNtscxTXqpc_38.910619_-94.388861@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462585873,
-    "wof:geomhash":"f7c5059b9b0af91e4408fa1191eb0f69",
+    "wof:geomhash":"ce1a4dd21865b068c23d4805442d4e89",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":773454493,
-    "wof:lastmodified":1466630543,
+    "wof:lastmodified":1510699519,
     "wof:name":"Cutting Corner",
     "wof:parent_id":85849825,
     "wof:placetype":"venue",

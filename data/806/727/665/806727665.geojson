@@ -2,9 +2,14 @@
   "id": 806727665,
   "type": "Feature",
   "properties": {
+    "addr:full":"4626 Broadway St Kansas City MO 64112",
+    "addr:housenumber":"4626",
+    "addr:postcode":"64112",
+    "addr:street":"Broadway St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.591455,39.044101,-94.591455,39.044101",
     "geom:latitude":39.044101,
     "geom:longitude":-94.591455,
@@ -25,13 +30,14 @@
     "sg:province":"MO",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871983,
+        85857131,
         102191575,
         404518075,
         85633793,
         85970739,
         102081227,
-        85688661
+        85688661,
+        85871983
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,15 +53,25 @@
             "county_id":102081227,
             "localadmin_id":404518075,
             "locality_id":85970739,
+            "neighbourhood_id":85857131,
+            "region_id":85688661,
+            "venue_id":806727665
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081227,
+            "localadmin_id":404518075,
+            "locality_id":85970739,
             "neighbourhood_id":85871983,
             "region_id":85688661,
             "venue_id":806727665
         }
     ],
     "wof:id":806727665,
-    "wof:lastmodified":1466631461,
+    "wof:lastmodified":1491893865,
     "wof:name":"Canyon Cafe LLC",
-    "wof:parent_id":85871983,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],

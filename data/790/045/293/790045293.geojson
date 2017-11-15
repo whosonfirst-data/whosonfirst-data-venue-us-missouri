@@ -2,14 +2,20 @@
   "id": 790045293,
   "type": "Feature",
   "properties": {
+    "addr:full":"219 NW Executive Way Lees Summit MO 64063",
+    "addr:housenumber":"219",
+    "addr:postcode":"64063",
+    "addr:street":"Nw Executive Way",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.398141,38.915902,-94.398141,38.915902",
     "geom:latitude":38.915902,
     "geom:longitude":-94.398141,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"219 NW Executive Way",
     "sg:city":"Lees Summit",
     "sg:classifiers":[
@@ -39,13 +45,14 @@
         102081227,
         85688661
     ],
+    "wof:brand_id":1125152779,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Ssf5k8C5FOpy9X8WkCC7M_38.915902_-94.398141@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462592680,
-    "wof:geomhash":"effab944c2751b8eac19fad1244a42bb",
+    "wof:geomhash":"d38d558c01a824e23808be669e7f9f4d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,7 +66,7 @@
         }
     ],
     "wof:id":790045293,
-    "wof:lastmodified":1466622970,
+    "wof:lastmodified":1510697073,
     "wof:name":"Dialysis Clinic Inc",
     "wof:parent_id":85849825,
     "wof:placetype":"venue",

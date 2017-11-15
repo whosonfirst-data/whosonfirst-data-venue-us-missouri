@@ -2,6 +2,10 @@
   "id": 790230743,
   "type": "Feature",
   "properties": {
+    "addr:full":"123 US Hwy 169 Smithville MO 64089",
+    "addr:housenumber":"123",
+    "addr:postcode":"64089",
+    "addr:street":"Us Hwy 169",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":790230743,
-    "wof:lastmodified":1466627336,
+    "wof:lastmodified":1472630525,
     "wof:name":"R & D Auto Service",
     "wof:parent_id":85836329,
     "wof:placetype":"venue",

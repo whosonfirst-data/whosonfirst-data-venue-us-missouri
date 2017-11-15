@@ -2,14 +2,20 @@
   "id": 806948375,
   "type": "Feature",
   "properties": {
+    "addr:full":"1422 State Hwy 72 Rolla MO 65401",
+    "addr:housenumber":"1422",
+    "addr:postcode":"65401",
+    "addr:street":"State Hwy 72",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.747328,37.935167,-91.747328,37.935167",
     "geom:latitude":37.935167,
     "geom:longitude":-91.747328,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1422 State Hwy 72",
     "sg:city":"Rolla",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102086893,
         85814531
     ],
+    "wof:brand_id":420574765,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6PCpf2GgMDjkKynTFNhWB6_37.935167_-91.747328@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462602425,
-    "wof:geomhash":"6a84de311dbc56d749ee2c2024b243b1",
+    "wof:geomhash":"376af2d091e3c0884666caa8161b8986",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":806948375,
-    "wof:lastmodified":1466635403,
+    "wof:lastmodified":1510604125,
     "wof:name":"Social Security Administration",
     "wof:parent_id":85814531,
     "wof:placetype":"venue",

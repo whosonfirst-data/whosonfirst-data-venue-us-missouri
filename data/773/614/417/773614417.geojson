@@ -2,14 +2,20 @@
   "id": 773614417,
   "type": "Feature",
   "properties": {
+    "addr:full":"12025 Manchester Rd St Louis MO 63131",
+    "addr:housenumber":"12025",
+    "addr:postcode":"63131",
+    "addr:street":"Manchester Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.43597,38.601878,-90.43597,38.601878",
     "geom:latitude":38.601878,
     "geom:longitude":-90.43597,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"12025 Manchester Rd",
     "sg:city":"St Louis",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102086173,
         85688661
     ],
+    "wof:brand_id":1125152347,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4CBxhxMgAsc6IyLBI1E4WL_38.601878_-90.435970@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462587047,
-    "wof:geomhash":"cdb892c211a142d87e404a0082dc1e96",
+    "wof:geomhash":"9f0fd2c959b37ab785d3d4d91cf43162",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":773614417,
-    "wof:lastmodified":1466633219,
+    "wof:lastmodified":1510613373,
     "wof:name":"Fish Window Cleaning",
     "wof:parent_id":85858661,
     "wof:placetype":"venue",

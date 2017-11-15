@@ -2,6 +2,10 @@
   "id": 789925461,
   "type": "Feature",
   "properties": {
+    "addr:full":"10771 Baur Blvd St Louis MO 63132",
+    "addr:housenumber":"10771",
+    "addr:postcode":"63132",
+    "addr:street":"Baur Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":789925461,
-    "wof:lastmodified":1466630097,
+    "wof:lastmodified":1472630763,
     "wof:name":"Huey's Collision Ctr",
     "wof:parent_id":85803699,
     "wof:placetype":"venue",

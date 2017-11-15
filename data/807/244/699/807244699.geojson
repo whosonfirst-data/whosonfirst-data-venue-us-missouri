@@ -2,14 +2,20 @@
   "id": 807244699,
   "type": "Feature",
   "properties": {
+    "addr:full":"1401 Ridgewood Rd Neosho MO 64850",
+    "addr:housenumber":"1401",
+    "addr:postcode":"64850",
+    "addr:street":"Ridgewood Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.400261,36.872952,-94.400261,36.872952",
     "geom:latitude":36.872952,
     "geom:longitude":-94.400261,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1401 Ridgewood Rd",
     "sg:city":"Neosho",
     "sg:classifiers":[
@@ -42,13 +48,14 @@
         102087471,
         85688661
     ],
+    "wof:brand_id":1125159955,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_36rosuVREmimBfVLvEVrE8_36.872952_-94.400261@1303262934"
     },
     "wof:country":"US",
     "wof:created":1462605271,
-    "wof:geomhash":"4a1d20e638d50d055ea1ecbed01c0740",
+    "wof:geomhash":"b0332412d859196ee8f9b308caaa25cc",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -62,7 +69,7 @@
         }
     ],
     "wof:id":807244699,
-    "wof:lastmodified":1466629200,
+    "wof:lastmodified":1510693740,
     "wof:name":"New Salem Baptist Church",
     "wof:parent_id":85821247,
     "wof:placetype":"venue",

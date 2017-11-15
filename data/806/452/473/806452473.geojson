@@ -2,14 +2,20 @@
   "id": 806452473,
   "type": "Feature",
   "properties": {
+    "addr:full":"455 N Highway Dr Fenton MO 63026",
+    "addr:housenumber":"455",
+    "addr:postcode":"63026",
+    "addr:street":"N Highway Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.447713,38.543224,-90.447713,38.543224",
     "geom:latitude":38.543224,
     "geom:longitude":-90.447713,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"455 N Highway Dr",
     "sg:city":"Fenton",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102086173,
         85688661
     ],
+    "wof:brand_id":1125150695,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_38HSdbCsoodQNi0oo5rB77_38.543224_-90.447713@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462598261,
-    "wof:geomhash":"f95c9c03718c0e62ce284fe879b5935c",
+    "wof:geomhash":"4dd103ee7bcd780f883a8e46e43ac2e3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":806452473,
-    "wof:lastmodified":1466624310,
+    "wof:lastmodified":1510697252,
     "wof:name":"Tru Green Chem Lawn",
     "wof:parent_id":85858661,
     "wof:placetype":"venue",

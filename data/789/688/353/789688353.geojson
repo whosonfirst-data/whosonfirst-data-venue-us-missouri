@@ -2,6 +2,10 @@
   "id": 789688353,
   "type": "Feature",
   "properties": {
+    "addr:full":"105 NE 72 St Kansas City MO 64118",
+    "addr:housenumber":"105;72",
+    "addr:postcode":"64118",
+    "addr:street":"Ne;St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":789688353,
-    "wof:lastmodified":1466624751,
+    "wof:lastmodified":1472630314,
     "wof:name":"Premier Investment Co LLC",
     "wof:parent_id":85830711,
     "wof:placetype":"venue",

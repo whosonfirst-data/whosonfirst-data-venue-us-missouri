@@ -2,14 +2,20 @@
   "id": 806677681,
   "type": "Feature",
   "properties": {
+    "addr:full":"2546 S Blackman Rd Springfield MO 65809",
+    "addr:housenumber":"2546",
+    "addr:postcode":"65809",
+    "addr:street":"S Blackman Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.216865,37.168179,-93.216865,37.168179",
     "geom:latitude":37.168179,
     "geom:longitude":-93.216865,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2546 S Blackman Rd",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         85881129,
         102087523
     ],
+    "wof:brand_id":1125150465,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1WzRLvdU3qT9brZv6QEUNu_37.168179_-93.216865@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462600153,
-    "wof:geomhash":"306874e8ea31418bb96bdebd0b3ac367",
+    "wof:geomhash":"925336d56dbbb66fe0fa1b8632284033",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":806677681,
-    "wof:lastmodified":1466630259,
+    "wof:lastmodified":1510694142,
     "wof:name":"Pre-Paid Legal Svc Inc",
     "wof:parent_id":85881129,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 789642097,
   "type": "Feature",
   "properties": {
+    "addr:full":"9419 E 16 St S Independence MO 64052",
+    "addr:housenumber":"9419;16",
+    "addr:postcode":"64052",
+    "addr:street":"E;St S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":789642097,
-    "wof:lastmodified":1466623760,
+    "wof:lastmodified":1472630272,
     "wof:name":"Durands Resale",
     "wof:parent_id":85835775,
     "wof:placetype":"venue",

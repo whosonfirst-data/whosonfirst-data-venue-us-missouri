@@ -2,14 +2,20 @@
   "id": 790363231,
   "type": "Feature",
   "properties": {
+    "addr:full":"611 E 13th Ave N Kansas City MO 64116",
+    "addr:housenumber":"611",
+    "addr:postcode":"64116",
+    "addr:street":"E 13Th Ave N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.573628,39.132226,-94.573628,39.132226",
     "geom:latitude":39.132226,
     "geom:longitude":-94.573628,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"611 E 13th Ave",
     "sg:city":"N Kansas City",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102086177,
         85688661
     ],
+    "wof:brand_id":1125150313,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_68bZV5q2vgDj30ph1PlmPF_39.132226_-94.573628@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462595251,
-    "wof:geomhash":"29054e5065394a45898813778132f125",
+    "wof:geomhash":"4e26e634e853818060bc331c02957c83",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":790363231,
-    "wof:lastmodified":1466630150,
+    "wof:lastmodified":1510697391,
     "wof:name":"Overhead Door Corp",
     "wof:parent_id":85823983,
     "wof:placetype":"venue",

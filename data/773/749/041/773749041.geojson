@@ -2,14 +2,20 @@
   "id": 773749041,
   "type": "Feature",
   "properties": {
+    "addr:full":"11601 N Lewis Ln Harrisburg MO 65256",
+    "addr:housenumber":"11601",
+    "addr:postcode":"65256",
+    "addr:street":"N Lewis Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.39983,39.09305,-92.39983,39.09305",
     "geom:latitude":39.09305,
     "geom:longitude":-92.39983,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"11601 N Lewis Ln",
     "sg:city":"Harrisburg",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102086187,
         85851713
     ],
+    "wof:brand_id":1125152473,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0HjFG9w2sTSoLebjPLav3E_39.093050_-92.399830@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462588091,
-    "wof:geomhash":"07928c161b565868396f29cfe5df192c",
+    "wof:geomhash":"8faf38c983ab49937829b4bd9e8c3412",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":773749041,
-    "wof:lastmodified":1466634874,
+    "wof:lastmodified":1510696663,
     "wof:name":"Finders Keepers",
     "wof:parent_id":85851713,
     "wof:placetype":"venue",

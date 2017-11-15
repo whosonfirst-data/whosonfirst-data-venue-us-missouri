@@ -2,14 +2,20 @@
   "id": 773373869,
   "type": "Feature",
   "properties": {
+    "addr:full":"1500 S Campbell Ave Springfield MO 65807",
+    "addr:housenumber":"1500",
+    "addr:postcode":"65807",
+    "addr:street":"S Campbell Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.294829,37.187819,-93.294829,37.187819",
     "geom:latitude":37.187819,
     "geom:longitude":-93.294829,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1500 S Campbell Ave",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102087523,
         85688661
     ],
+    "wof:brand_id":1125152997,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7fU0PUdhs9YkVQUe76xxrl_37.187819_-93.294829@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462585209,
-    "wof:geomhash":"e44b6047a3c795fdbb65c2f9b53eca6e",
+    "wof:geomhash":"ad03a539853b981ab737eabe9d7535c1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":773373869,
-    "wof:lastmodified":1466629007,
+    "wof:lastmodified":1510695007,
     "wof:name":"Asbury United Methodist Church",
     "wof:parent_id":85865461,
     "wof:placetype":"venue",

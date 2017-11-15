@@ -2,6 +2,10 @@
   "id": 806408475,
   "type": "Feature",
   "properties": {
+    "addr:full":"2123 NW 8 St Blue Springs MO 64015",
+    "addr:housenumber":"2123;8",
+    "addr:postcode":"64015",
+    "addr:street":"Nw;St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":806408475,
-    "wof:lastmodified":1466622881,
+    "wof:lastmodified":1472630267,
     "wof:name":"Mid America Reps",
     "wof:parent_id":85847737,
     "wof:placetype":"venue",

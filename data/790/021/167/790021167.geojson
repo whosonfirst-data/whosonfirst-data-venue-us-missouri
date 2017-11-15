@@ -2,14 +2,20 @@
   "id": 790021167,
   "type": "Feature",
   "properties": {
+    "addr:full":"493 Saint Francois St Florissant MO 63031",
+    "addr:housenumber":"493",
+    "addr:postcode":"63031",
+    "addr:street":"Saint Francois St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.328871,38.794505,-90.328871,38.794505",
     "geom:latitude":38.794505,
     "geom:longitude":-90.328871,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"493 Saint Francois St",
     "sg:city":"Florissant",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102086173,
         85688661
     ],
+    "wof:brand_id":420575201,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4vCi92Hz0OfgpKEITTrVso_38.794505_-90.328871@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462592499,
-    "wof:geomhash":"0e69884f73eca55d52bcf9ed21ed34e1",
+    "wof:geomhash":"f647da90581c0e6b98fa64511126947d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":790021167,
-    "wof:lastmodified":1466622787,
+    "wof:lastmodified":1510602698,
     "wof:name":"Consumer Credit Counseling Svc",
     "wof:parent_id":85813019,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 807191911,
   "type": "Feature",
   "properties": {
+    "addr:full":"1101 Maple Street Farmington MO 63640",
+    "addr:housenumber":"1101",
+    "addr:postcode":"63640",
+    "addr:street":"Maple Street",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.437119,37.787579,-90.437119,37.787579",
     "geom:latitude":37.787579,
     "geom:longitude":-90.437119,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1101 Maple Street",
     "sg:city":"Farmington",
     "sg:classifiers":[
@@ -43,13 +49,14 @@
         102085297,
         85816309
     ],
+    "wof:brand_id":1125155399,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1rIRRiitpp4PMhn9pXHFfg_37.787579_-90.437119@1303262931"
     },
     "wof:country":"US",
     "wof:created":1462604709,
-    "wof:geomhash":"ad2fc8a2507f1a601937e10514cc0a1b",
+    "wof:geomhash":"726544b7eea33e8bc74ab1d78fa03e24",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -61,7 +68,7 @@
         }
     ],
     "wof:id":807191911,
-    "wof:lastmodified":1466627604,
+    "wof:lastmodified":1510698647,
     "wof:name":"Money Concepts",
     "wof:parent_id":85816309,
     "wof:placetype":"venue",

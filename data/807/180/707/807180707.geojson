@@ -2,14 +2,20 @@
   "id": 807180707,
   "type": "Feature",
   "properties": {
+    "addr:full":"311 S Carolina St Louisiana MO 63353",
+    "addr:housenumber":"311",
+    "addr:postcode":"63353",
+    "addr:street":"S Carolina St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.047032,39.449224,-91.047032,39.449224",
     "geom:latitude":39.449224,
     "geom:longitude":-91.047032,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"311 S Carolina St",
     "sg:city":"Louisiana",
     "sg:classifiers":[
@@ -61,13 +67,14 @@
         102086151,
         85817909
     ],
+    "wof:brand_id":1125158421,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6iKjNsmTkR6MXxej0hPTdy_39.449224_-91.047032@1303262930"
     },
     "wof:country":"US",
     "wof:created":1462604592,
-    "wof:geomhash":"a8f989320f495ee35be9c1cba07ffd71",
+    "wof:geomhash":"39f94c1921a504da6364fe7fe5341fec",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -79,7 +86,7 @@
         }
     ],
     "wof:id":807180707,
-    "wof:lastmodified":1466626961,
+    "wof:lastmodified":1510694767,
     "wof:name":"Wells Fargo Advisors",
     "wof:parent_id":85817909,
     "wof:placetype":"venue",

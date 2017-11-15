@@ -2,6 +2,10 @@
   "id": 789775131,
   "type": "Feature",
   "properties": {
+    "addr:full":"412 E 18 St Kansas City MO 64108",
+    "addr:housenumber":"412;18",
+    "addr:postcode":"64108",
+    "addr:street":"E",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":789775131,
-    "wof:lastmodified":1466626592,
+    "wof:lastmodified":1472630490,
     "wof:name":"Acme Bicycle Co",
     "wof:parent_id":85872019,
     "wof:placetype":"venue",

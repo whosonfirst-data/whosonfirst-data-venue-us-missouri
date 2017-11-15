@@ -2,14 +2,20 @@
   "id": 806396131,
   "type": "Feature",
   "properties": {
+    "addr:full":"2545 W Kearney St Springfield MO 65803",
+    "addr:housenumber":"2545",
+    "addr:postcode":"65803",
+    "addr:street":"W Kearney St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.326614,37.241325,-93.326614,37.241325",
     "geom:latitude":37.241325,
     "geom:longitude":-93.326614,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2545 W Kearney St",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102087523,
         85881139
     ],
+    "wof:brand_id":1125152931,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7kmCTV3eUeL6ia3m2vznVf_37.241325_-93.326614@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462597801,
-    "wof:geomhash":"7bcd70e435892af51afce3124a9f572f",
+    "wof:geomhash":"13b43efba1b228f9c17c35d493f733b2",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":806396131,
-    "wof:lastmodified":1466623125,
+    "wof:lastmodified":1510697466,
     "wof:name":"Beneficial Finance",
     "wof:parent_id":85881139,
     "wof:placetype":"venue",

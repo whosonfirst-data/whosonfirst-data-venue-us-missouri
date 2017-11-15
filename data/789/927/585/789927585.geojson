@@ -2,6 +2,10 @@
   "id": 789927585,
   "type": "Feature",
   "properties": {
+    "addr:full":"1010 E 18 St Kansas City MO 64108",
+    "addr:housenumber":"1010;18",
+    "addr:postcode":"64108",
+    "addr:street":"E;St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":789927585,
-    "wof:lastmodified":1466630360,
+    "wof:lastmodified":1472630776,
     "wof:name":"Doctor Motorworx",
     "wof:parent_id":85872019,
     "wof:placetype":"venue",

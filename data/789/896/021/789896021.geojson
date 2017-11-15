@@ -2,6 +2,10 @@
   "id": 789896021,
   "type": "Feature",
   "properties": {
+    "addr:full":"4300 Goodfellow Blvd St Louis MO 63120",
+    "addr:housenumber":"4300",
+    "addr:postcode":"63120",
+    "addr:street":"Goodfellow Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":789896021,
-    "wof:lastmodified":1466629379,
+    "wof:lastmodified":1472630737,
     "wof:name":"US Defense Dept",
     "wof:parent_id":85873709,
     "wof:placetype":"venue",

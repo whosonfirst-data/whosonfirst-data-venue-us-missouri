@@ -2,14 +2,20 @@
   "id": 807084381,
   "type": "Feature",
   "properties": {
+    "addr:full":"7250 NW 86th Ter Kansas City MO 64153",
+    "addr:housenumber":"7250",
+    "addr:postcode":"64153",
+    "addr:street":"Nw 86Th Ter",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.663861,39.250734,-94.663861,39.250734",
     "geom:latitude":39.250734,
     "geom:longitude":-94.663861,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"7250 NW 86th Ter",
     "sg:city":"Kansas City",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102085271,
         85851839
     ],
+    "wof:brand_id":420575303,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_22BZTdHbsTFtEa8et7bAnR_39.250734_-94.663861@1299784598"
     },
     "wof:country":"US",
     "wof:created":1462603569,
-    "wof:geomhash":"bb22d6b7e1aeaa979ca13ed848a85d73",
+    "wof:geomhash":"8a1f7f3724a60371a86e7d2d05104aef",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":807084381,
-    "wof:lastmodified":1466624424,
+    "wof:lastmodified":1510601934,
     "wof:name":"Cold Stone Creamery",
     "wof:parent_id":85851839,
     "wof:placetype":"venue",

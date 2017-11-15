@@ -2,14 +2,20 @@
   "id": 790542331,
   "type": "Feature",
   "properties": {
+    "addr:full":"12312 Olive Blvd St Louis MO 63141",
+    "addr:housenumber":"12312",
+    "addr:postcode":"63141",
+    "addr:street":"Olive Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.458119,38.673712,-90.458119,38.673712",
     "geom:latitude":38.673712,
     "geom:longitude":-90.458119,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"12312 Olive Blvd",
     "sg:city":"St Louis",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102086173,
         85688661
     ],
+    "wof:brand_id":1125159559,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7dFHt5Rexqx1z6Pg2YMMSy_38.673712_-90.458119@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462596723,
-    "wof:geomhash":"711d7fb7ef34bb9fb796222c744f3244",
+    "wof:geomhash":"2f8c17c2aa5fda0061a6b2a219d92dfa",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":790542331,
-    "wof:lastmodified":1466633318,
+    "wof:lastmodified":1510696651,
     "wof:name":"Glaxosmithkline",
     "wof:parent_id":85805719,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 806838923,
   "type": "Feature",
   "properties": {
+    "addr:full":"26 E 39 St Kansas City MO 64111",
+    "addr:housenumber":"26;39",
+    "addr:postcode":"64111",
+    "addr:street":"E;St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":806838923,
-    "wof:lastmodified":1466633308,
+    "wof:lastmodified":1472630693,
     "wof:name":"Del-Mar Restaurant & Supper CL",
     "wof:parent_id":85871993,
     "wof:placetype":"venue",

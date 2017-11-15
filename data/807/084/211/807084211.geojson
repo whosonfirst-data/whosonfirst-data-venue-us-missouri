@@ -2,14 +2,20 @@
   "id": 807084211,
   "type": "Feature",
   "properties": {
+    "addr:full":"6209 NW 63rd Ter Kansas City MO 64151",
+    "addr:housenumber":"6209",
+    "addr:postcode":"64151",
+    "addr:street":"Nw 63Rd Ter",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.651955,39.209549,-94.651955,39.209549",
     "geom:latitude":39.209549,
     "geom:longitude":-94.651955,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"6209 NW 63rd Ter",
     "sg:city":"Kansas City",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102085271,
         85688661
     ],
+    "wof:brand_id":1125151181,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3NpVSzOoY9oajp9nHxUjSu_39.209549_-94.651955@1299784598"
     },
     "wof:country":"US",
     "wof:created":1462603568,
-    "wof:geomhash":"e7835c5969a5071d546485a6c5d2e35f",
+    "wof:geomhash":"bca75907e099be1d7c9691cf529871a5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":807084211,
-    "wof:lastmodified":1466624416,
+    "wof:lastmodified":1510697192,
     "wof:name":"Haagen Dazs",
     "wof:parent_id":85840629,
     "wof:placetype":"venue",

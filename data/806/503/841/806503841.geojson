@@ -2,14 +2,20 @@
   "id": 806503841,
   "type": "Feature",
   "properties": {
+    "addr:full":"225 N Kingshighway St Saint Charles MO 63301",
+    "addr:housenumber":"225",
+    "addr:postcode":"63301",
+    "addr:street":"N Kingshighway St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.494399,38.786862,-90.494399,38.786862",
     "geom:latitude":38.786862,
     "geom:longitude":-90.494399,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"225 N Kingshighway St",
     "sg:city":"Saint Charles",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102086159,
         85821097
     ],
+    "wof:brand_id":1125150809,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_67lpmBDPuT8fRqjaC0J9sk_38.786862_-90.494399@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462598664,
-    "wof:geomhash":"271cbcf54aa9caac210b66329a8a6986",
+    "wof:geomhash":"8582dbecd03b7b349d2253483ee9aa5f",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":806503841,
-    "wof:lastmodified":1466625439,
+    "wof:lastmodified":1510697337,
     "wof:name":"Quiktrip",
     "wof:parent_id":85821097,
     "wof:placetype":"venue",

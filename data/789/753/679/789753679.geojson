@@ -2,6 +2,10 @@
   "id": 789753679,
   "type": "Feature",
   "properties": {
+    "addr:full":"12814 Co Rd 5030 Rolla MO 65401",
+    "addr:housenumber":"12814",
+    "addr:postcode":"5030;65401",
+    "addr:street":"Co Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":789753679,
-    "wof:lastmodified":1466626266,
+    "wof:lastmodified":1472630436,
     "wof:name":"Recycling Works",
     "wof:parent_id":85814531,
     "wof:placetype":"venue",

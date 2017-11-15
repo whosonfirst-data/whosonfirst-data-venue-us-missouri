@@ -2,14 +2,20 @@
   "id": 773568753,
   "type": "Feature",
   "properties": {
+    "addr:full":"5969 US Hwy 54 Osage Beach MO 65065",
+    "addr:housenumber":"5969",
+    "addr:postcode":"65065",
+    "addr:street":"Us Hwy 54",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.684558,38.115518,-92.684558,38.115518",
     "geom:latitude":38.115518,
     "geom:longitude":-92.684558,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5969 US Hwy 54",
     "sg:city":"Osage Beach",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102087517,
         85688661
     ],
+    "wof:brand_id":1125156161,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4GcH289HrQz8h00Tlp8l3D_38.115518_-92.684558@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462586711,
-    "wof:geomhash":"b42e79108fc04a9dffd7e94074b81e2e",
+    "wof:geomhash":"6d7664a42180b7bf2a52d7a346443c0d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":773568753,
-    "wof:lastmodified":1466632680,
+    "wof:lastmodified":1510693030,
     "wof:name":"Van Heusen",
     "wof:parent_id":85813457,
     "wof:placetype":"venue",

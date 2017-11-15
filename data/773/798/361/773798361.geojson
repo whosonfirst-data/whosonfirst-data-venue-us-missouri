@@ -2,14 +2,20 @@
   "id": 773798361,
   "type": "Feature",
   "properties": {
+    "addr:full":"378 Luther Ave St Louis MO 63147",
+    "addr:housenumber":"378",
+    "addr:postcode":"63147",
+    "addr:street":"Luther Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.223068,38.694847,-90.223068,38.694847",
     "geom:latitude":38.694847,
     "geom:longitude":-90.223068,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"378 Luther Ave",
     "sg:city":"St Louis",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102080791,
         85688661
     ],
+    "wof:brand_id":1125151511,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2w4gjnPigswkJMvLGiR2KL_38.694847_-90.223068@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462588453,
-    "wof:geomhash":"7d4989c039befef4ac4716cd370851fb",
+    "wof:geomhash":"90f07fe94f9f56355c270fc17cb844e1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":773798361,
-    "wof:lastmodified":1466635271,
+    "wof:lastmodified":1510694725,
     "wof:name":"Norfolk Southern Railway Co",
     "wof:parent_id":85873603,
     "wof:placetype":"venue",

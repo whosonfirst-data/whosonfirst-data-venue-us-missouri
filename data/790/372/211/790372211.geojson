@@ -2,14 +2,20 @@
   "id": 790372211,
   "type": "Feature",
   "properties": {
+    "addr:full":"102 N Outer Rd St James MO 65559",
+    "addr:housenumber":"102",
+    "addr:postcode":"65559",
+    "addr:street":"N Outer Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.619695,38.005649,-91.619695,38.005649",
     "geom:latitude":38.005649,
     "geom:longitude":-91.619695,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"102 N Outer Rd",
     "sg:city":"St James",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102086893,
         85847353
     ],
+    "wof:brand_id":420575921,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0BAYskwwDNSmI9bE23FLHs_38.005649_-91.619695@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462595324,
-    "wof:geomhash":"211fbccce341aef082c03f07f2474b88",
+    "wof:geomhash":"0d89d6642546b7da65dcf9e0188d996d",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":790372211,
-    "wof:lastmodified":1466630326,
+    "wof:lastmodified":1510622662,
     "wof:name":"Economy Inn",
     "wof:parent_id":85847353,
     "wof:placetype":"venue",

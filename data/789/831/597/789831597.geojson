@@ -2,6 +2,10 @@
   "id": 789831597,
   "type": "Feature",
   "properties": {
+    "addr:full":"11230 E 14 St S Independence MO 64052",
+    "addr:housenumber":"11230;14",
+    "addr:postcode":"64052",
+    "addr:street":"E;St S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":789831597,
-    "wof:lastmodified":1466628051,
+    "wof:lastmodified":1472630665,
     "wof:name":"Glendale Gathering Assoc",
     "wof:parent_id":85833097,
     "wof:placetype":"venue",

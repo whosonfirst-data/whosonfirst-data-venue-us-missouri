@@ -2,14 +2,20 @@
   "id": 806842621,
   "type": "Feature",
   "properties": {
+    "addr:full":"903 Strobach St Rolla MO 65401",
+    "addr:housenumber":"903",
+    "addr:postcode":"65401",
+    "addr:street":"Strobach St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.77821,37.940427,-91.77821,37.940427",
     "geom:latitude":37.940427,
     "geom:longitude":-91.77821,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"903 Strobach St",
     "sg:city":"Rolla",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102086893,
         85814531
     ],
+    "wof:brand_id":420575313,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2IO6q9GKGIQyeyT4gEScfU_37.940427_-91.778210@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462601532,
-    "wof:geomhash":"9bcaf8801089d793f2c999abea415504",
+    "wof:geomhash":"63651928177b4a51040a82cbe07daaf9",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":806842621,
-    "wof:lastmodified":1466633424,
+    "wof:lastmodified":1510602734,
     "wof:name":"Hibbett Sporting Goods Inc",
     "wof:parent_id":85814531,
     "wof:placetype":"venue",

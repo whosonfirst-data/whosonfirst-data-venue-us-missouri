@@ -2,6 +2,10 @@
   "id": 773267991,
   "type": "Feature",
   "properties": {
+    "addr:full":"12040 E 86 St Kansas City MO 64138",
+    "addr:housenumber":"12040;86",
+    "addr:postcode":"64138",
+    "addr:street":"E;St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":773267991,
-    "wof:lastmodified":1466626304,
+    "wof:lastmodified":1472630976,
     "wof:name":"Teetering Rocks Exec Links",
     "wof:parent_id":85828679,
     "wof:placetype":"venue",

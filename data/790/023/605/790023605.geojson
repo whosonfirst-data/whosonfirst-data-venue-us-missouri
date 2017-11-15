@@ -2,6 +2,10 @@
   "id": 790023605,
   "type": "Feature",
   "properties": {
+    "addr:full":"22172 Pike 301 Bowling Green MO 63334",
+    "addr:housenumber":"22172;301",
+    "addr:postcode":"63334",
+    "addr:street":"Pike",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":790023605,
-    "wof:lastmodified":1466622833,
+    "wof:lastmodified":1472630216,
     "wof:name":"Glen Lovell",
     "wof:parent_id":85817909,
     "wof:placetype":"venue",

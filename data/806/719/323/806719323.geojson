@@ -2,14 +2,20 @@
   "id": 806719323,
   "type": "Feature",
   "properties": {
+    "addr:full":"320 Saint Francois St Florissant MO 63031",
+    "addr:housenumber":"320",
+    "addr:postcode":"63031",
+    "addr:street":"Saint Francois St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.32927,38.794518,-90.32927,38.794518",
     "geom:latitude":38.794518,
     "geom:longitude":-90.32927,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"320 Saint Francois St",
     "sg:city":"Florissant",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102086173,
         85688661
     ],
+    "wof:brand_id":1125152043,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5n8Ax37zbOVCyzqMf8nCCa_38.794518_-90.329270@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462600494,
-    "wof:geomhash":"e169225fd436ee95489d0f570e97c656",
+    "wof:geomhash":"f07699fc8dd25ab2bac6366f8d55d886",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":806719323,
-    "wof:lastmodified":1466631065,
+    "wof:lastmodified":1510694906,
     "wof:name":"Joe's Barber Shop",
     "wof:parent_id":85813019,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 789976191,
   "type": "Feature",
   "properties": {
+    "addr:full":"723 NE 76 St Kansas City MO 64118",
+    "addr:housenumber":"723;76",
+    "addr:postcode":"64118",
+    "addr:street":"Ne;St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":789976191,
-    "wof:lastmodified":1466631294,
+    "wof:lastmodified":1472630751,
     "wof:name":"Echostar",
     "wof:parent_id":85852163,
     "wof:placetype":"venue",

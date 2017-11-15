@@ -2,6 +2,10 @@
   "id": 102360373,
   "type": "Feature",
   "properties": {
+    "addr:full":"1601 Co Rd 7920 Caulfield AR 65626",
+    "addr:housenumber":"1601;7920",
+    "addr:postcode":"65626",
+    "addr:street":"Co Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":102360373,
-    "wof:lastmodified":1466622391,
+    "wof:lastmodified":1472630173,
     "wof:name":"Clinton Guffey",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

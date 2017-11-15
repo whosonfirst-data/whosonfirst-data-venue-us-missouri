@@ -2,14 +2,20 @@
   "id": 790182823,
   "type": "Feature",
   "properties": {
+    "addr:full":"85 Surrey Dr Camdenton MO 65020",
+    "addr:housenumber":"85",
+    "addr:postcode":"65020",
+    "addr:street":"Surrey Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.765583,38.065422,-92.765583,38.065422",
     "geom:latitude":38.065422,
     "geom:longitude":-92.765583,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"85 Surrey Dr",
     "sg:city":"Camdenton",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102087517,
         85688661
     ],
+    "wof:brand_id":420575915,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1m2gIIPB4YrFFzYZq143Wb_38.065422_-92.765583@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462593799,
-    "wof:geomhash":"1ff61cbd03c09851102261d4a6504e7b",
+    "wof:geomhash":"302d07369cb322e2327c38f7eed6a8fc",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":790182823,
-    "wof:lastmodified":1466626027,
+    "wof:lastmodified":1510602848,
     "wof:name":"Chicago Title Insurance Co",
     "wof:parent_id":85813457,
     "wof:placetype":"venue",

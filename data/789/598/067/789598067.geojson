@@ -2,6 +2,10 @@
   "id": 789598067,
   "type": "Feature",
   "properties": {
+    "addr:full":"12520 Carroll Dr Rolla MO 65401",
+    "addr:housenumber":"12520",
+    "addr:postcode":"65401",
+    "addr:street":"Carroll Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":789598067,
-    "wof:lastmodified":1466623287,
+    "wof:lastmodified":1472630227,
     "wof:name":"Rolla Snowplow",
     "wof:parent_id":85814531,
     "wof:placetype":"venue",

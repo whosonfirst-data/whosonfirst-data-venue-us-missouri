@@ -2,14 +2,20 @@
   "id": 806446659,
   "type": "Feature",
   "properties": {
+    "addr:full":"5212 Camelot Estates Dr St Louis MO 63129",
+    "addr:housenumber":"5212",
+    "addr:postcode":"63129",
+    "addr:street":"Camelot Estates Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.350382,38.481177,-90.350382,38.481177",
     "geom:latitude":38.481177,
     "geom:longitude":-90.350382,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5212 Camelot Estates Dr",
     "sg:city":"St Louis",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102080787,
         85832925
     ],
+    "wof:brand_id":1125157029,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3X5YpZdTXkzLtAKutc8mzP_38.481177_-90.350382@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462598222,
-    "wof:geomhash":"be4e84503c1b1487b1479f29e5b18bf2",
+    "wof:geomhash":"3092f6e43dbd23a8ee20a5e08d0b0585",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":806446659,
-    "wof:lastmodified":1466624329,
+    "wof:lastmodified":1510696716,
     "wof:name":"Novus Windshield Repair",
     "wof:parent_id":85832925,
     "wof:placetype":"venue",

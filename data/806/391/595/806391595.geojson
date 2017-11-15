@@ -2,6 +2,10 @@
   "id": 806391595,
   "type": "Feature",
   "properties": {
+    "addr:full":"5210 E 28 St Kansas City MO 64128",
+    "addr:housenumber":"5210;28",
+    "addr:postcode":"64128",
+    "addr:street":"E;St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":806391595,
-    "wof:lastmodified":1466623095,
+    "wof:lastmodified":1472630222,
     "wof:name":"Jones Remodeling",
     "wof:parent_id":85872027,
     "wof:placetype":"venue",

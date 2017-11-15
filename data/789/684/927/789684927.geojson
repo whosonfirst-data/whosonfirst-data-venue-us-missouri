@@ -2,6 +2,10 @@
   "id": 789684927,
   "type": "Feature",
   "properties": {
+    "addr:full":"1705 NE 75 St Kansas City MO 64118",
+    "addr:housenumber":"1705;75",
+    "addr:postcode":"64118",
+    "addr:street":"Ne;St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":789684927,
-    "wof:lastmodified":1466624550,
+    "wof:lastmodified":1472630367,
     "wof:name":"Brotherhood of Locomotive",
     "wof:parent_id":85852163,
     "wof:placetype":"venue",

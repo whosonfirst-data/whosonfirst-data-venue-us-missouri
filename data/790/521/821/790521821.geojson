@@ -2,14 +2,20 @@
   "id": 790521821,
   "type": "Feature",
   "properties": {
+    "addr:full":"219 S 16th St Bowling Green MO 63334",
+    "addr:housenumber":"219",
+    "addr:postcode":"63334",
+    "addr:street":"S 16Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.209675,39.340259,-91.209675,39.340259",
     "geom:latitude":39.340259,
     "geom:longitude":-91.209675,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"219 S 16th St",
     "sg:city":"Bowling Green",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102086151,
         85817909
     ],
+    "wof:brand_id":1125150025,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5yGZVzA6CE5VNYEVSzgEBy_39.340259_-91.209675@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462596556,
-    "wof:geomhash":"84de45a5f6c39da275a19b14ab5e4118",
+    "wof:geomhash":"be96d9747d0b39d36dfd2ec5571f36a8",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":790521821,
-    "wof:lastmodified":1466633114,
+    "wof:lastmodified":1510695387,
     "wof:name":"Immanuel Baptist Church",
     "wof:parent_id":85817909,
     "wof:placetype":"venue",

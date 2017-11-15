@@ -2,14 +2,20 @@
   "id": 806818349,
   "type": "Feature",
   "properties": {
+    "addr:full":"13800 US Hwy 71 Grandview MO 64030",
+    "addr:housenumber":"13800",
+    "addr:postcode":"64030",
+    "addr:street":"Us Hwy 71",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.5264,38.87402,-94.5264,38.87402",
     "geom:latitude":38.87402,
     "geom:longitude":-94.5264,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"13800 US Hwy 71",
     "sg:city":"Grandview",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102081227,
         85688661
     ],
+    "wof:brand_id":1125150357,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3K6Dx8nVPEXjQKwuKHjjU1_38.874020_-94.526400@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462601328,
-    "wof:geomhash":"31a6bd23eb041e99791d77107b39ad9c",
+    "wof:geomhash":"eba92d4e38ccf80aaa4782deb99c500d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":806818349,
-    "wof:lastmodified":1466633017,
+    "wof:lastmodified":1510697020,
     "wof:name":"Kmart Pharmacies Inc",
     "wof:parent_id":85805677,
     "wof:placetype":"venue",

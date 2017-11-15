@@ -2,14 +2,20 @@
   "id": 807169501,
   "type": "Feature",
   "properties": {
+    "addr:full":"1401 S Florissant Rd Saint Louis MO 63121",
+    "addr:housenumber":"1401",
+    "addr:postcode":"63121",
+    "addr:street":"S Florissant Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.303398,38.7258,-90.303398,38.7258",
     "geom:latitude":38.7258,
     "geom:longitude":-90.303398,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1401 S Florissant Rd",
     "sg:city":"Saint Louis",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102086173,
         85688661
     ],
+    "wof:brand_id":1125156269,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_432qZFtBO0H8MedrI7kLdE_38.725800_-90.303398@1303262929"
     },
     "wof:country":"US",
     "wof:created":1462604480,
-    "wof:geomhash":"b20ae354f1206e69b7f1b0f1f8d4ec51",
+    "wof:geomhash":"317fe63c9e5ee85d6c8b131cb9329a72",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":807169501,
-    "wof:lastmodified":1466626640,
+    "wof:lastmodified":1510699970,
     "wof:name":"Maaco Auto Painting & Bodyworks",
     "wof:parent_id":85859027,
     "wof:placetype":"venue",

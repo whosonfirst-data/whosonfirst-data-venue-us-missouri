@@ -2,14 +2,20 @@
   "id": 806517317,
   "type": "Feature",
   "properties": {
+    "addr:full":"16090 Swingley Ridge Rd Chesterfield MO 63017",
+    "addr:housenumber":"16090",
+    "addr:postcode":"63017",
+    "addr:street":"Swingley Ridge Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.561148,38.65454,-90.561148,38.65454",
     "geom:latitude":38.65454,
     "geom:longitude":-90.561148,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"16090 Swingley Ridge Rd",
     "sg:city":"Chesterfield",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102086173,
         85688661
     ],
+    "wof:brand_id":420574433,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3aaNrxBZbYrPQIOVRgnv7m_38.654540_-90.561148@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462598770,
-    "wof:geomhash":"fa38f66eb03eddd0cc03b5b2cd64bc08",
+    "wof:geomhash":"cad178cf4cf594bab0684ad699767cc9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":806517317,
-    "wof:lastmodified":1466625986,
+    "wof:lastmodified":1510603930,
     "wof:name":"Morgan Stanley",
     "wof:parent_id":85805465,
     "wof:placetype":"venue",

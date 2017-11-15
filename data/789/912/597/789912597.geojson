@@ -2,6 +2,10 @@
   "id": 789912597,
   "type": "Feature",
   "properties": {
+    "addr:full":"219 E 63 St Kansas City MO 64113",
+    "addr:housenumber":"219;63",
+    "addr:postcode":"64113",
+    "addr:street":"E;St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":789912597,
-    "wof:lastmodified":1466629785,
+    "wof:lastmodified":1472630771,
     "wof:name":"Competitive Mortgage LC",
     "wof:parent_id":85867027,
     "wof:placetype":"venue",

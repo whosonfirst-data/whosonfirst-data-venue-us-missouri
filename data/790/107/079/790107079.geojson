@@ -2,6 +2,10 @@
   "id": 790107079,
   "type": "Feature",
   "properties": {
+    "addr:full":"101 NE 72 St Kansas City MO 64118",
+    "addr:housenumber":"101;72",
+    "addr:postcode":"64118",
+    "addr:street":"Ne;St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":790107079,
-    "wof:lastmodified":1466624636,
+    "wof:lastmodified":1472630296,
     "wof:name":"New Home Consulting",
     "wof:parent_id":85830711,
     "wof:placetype":"venue",

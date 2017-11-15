@@ -2,14 +2,20 @@
   "id": 806716969,
   "type": "Feature",
   "properties": {
+    "addr:full":"106 Commercial St Granby MO 64844",
+    "addr:housenumber":"106",
+    "addr:postcode":"64844",
+    "addr:street":"Commercial St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.187551,36.944742,-94.187551,36.944742",
     "geom:latitude":36.944742,
     "geom:longitude":-94.187551,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"106 Commercial St",
     "sg:city":"Granby",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102087471,
         85688661
     ],
+    "wof:brand_id":1125153959,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2qEcCpcpAnrPx0BST3j402_36.944742_-94.187551@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462600476,
-    "wof:geomhash":"d15e206e968a1dea92ac93860baa4406",
+    "wof:geomhash":"4b7ffa53554114525561c931cc942224",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":806716969,
-    "wof:lastmodified":1466631254,
+    "wof:lastmodified":1510700012,
     "wof:name":"Hair Depot",
     "wof:parent_id":85821247,
     "wof:placetype":"venue",

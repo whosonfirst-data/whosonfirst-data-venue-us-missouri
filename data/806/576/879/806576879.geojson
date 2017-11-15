@@ -2,6 +2,10 @@
   "id": 806576879,
   "type": "Feature",
   "properties": {
+    "addr:full":"123 E Main St Neosho MO 64850",
+    "addr:housenumber":"123",
+    "addr:postcode":"64850",
+    "addr:street":"E Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":806576879,
-    "wof:lastmodified":1466627648,
+    "wof:lastmodified":1472630419,
     "wof:name":"Destination of Adventures",
     "wof:parent_id":85821247,
     "wof:placetype":"venue",

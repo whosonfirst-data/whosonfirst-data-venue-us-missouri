@@ -2,14 +2,20 @@
   "id": 806777647,
   "type": "Feature",
   "properties": {
+    "addr:full":"5757 Chapel Ln Osage Beach MO 65065",
+    "addr:housenumber":"5757",
+    "addr:postcode":"65065",
+    "addr:street":"Chapel Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.678373,38.124458,-92.678373,38.124458",
     "geom:latitude":38.124458,
     "geom:longitude":-92.678373,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5757 Chapel Ln",
     "sg:city":"Osage Beach",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102087517,
         85688661
     ],
+    "wof:brand_id":420575835,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2J2fVlr2dCyPi7YWFzc2yv_38.124458_-92.678373@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462600996,
-    "wof:geomhash":"199b43299b900c9bc8b11ee417abf8a5",
+    "wof:geomhash":"ea91d79471d1eaef7d04d1b6717b106e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":806777647,
-    "wof:lastmodified":1466632452,
+    "wof:lastmodified":1510602087,
     "wof:name":"Public Works Dept",
     "wof:parent_id":85813457,
     "wof:placetype":"venue",

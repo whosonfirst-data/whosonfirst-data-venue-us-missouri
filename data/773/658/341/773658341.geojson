@@ -2,6 +2,10 @@
   "id": 773658341,
   "type": "Feature",
   "properties": {
+    "addr:full":"217 E 69 St Kansas City MO 64113",
+    "addr:housenumber":"217;69",
+    "addr:postcode":"64113",
+    "addr:street":"E;St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":773658341,
-    "wof:lastmodified":1466633950,
+    "wof:lastmodified":1472631093,
     "wof:name":"Alternate Delivery",
     "wof:parent_id":85854229,
     "wof:placetype":"venue",

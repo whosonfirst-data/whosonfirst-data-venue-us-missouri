@@ -2,9 +2,14 @@
   "id": 186222683,
   "type": "Feature",
   "properties": {
+    "addr:full":"710 N Tucker Blvd Saint Louis MO 63101",
+    "addr:housenumber":"710",
+    "addr:postcode":"63101",
+    "addr:street":"N Tucker Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.196404,38.632401,-90.196404,38.632401",
     "geom:latitude":38.632401,
     "geom:longitude":-90.196404,
@@ -35,11 +40,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688661,
+        85873643,
+        102191575,
+        404518053,
         85633793,
         85971343,
         102080791,
-        85873643
+        85688661
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,9 +56,10 @@
     "wof:geomhash":"f983060c7b0c18be705b8f7b429dc5c8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080791,
+            "localadmin_id":404518053,
             "locality_id":85971343,
             "neighbourhood_id":85873643,
             "region_id":85688661,
@@ -59,7 +67,7 @@
         }
     ],
     "wof:id":186222683,
-    "wof:lastmodified":1466622251,
+    "wof:lastmodified":1491933726,
     "wof:name":"Mark Katzman Photographer",
     "wof:parent_id":85873643,
     "wof:placetype":"venue",

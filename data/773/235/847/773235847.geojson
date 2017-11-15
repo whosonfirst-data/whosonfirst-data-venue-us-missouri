@@ -2,14 +2,20 @@
   "id": 773235847,
   "type": "Feature",
   "properties": {
+    "addr:full":"1640 E Sunshine St Springfield MO 65804",
+    "addr:housenumber":"1640",
+    "addr:postcode":"65804",
+    "addr:street":"E Sunshine St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.264687,37.181586,-93.264687,37.181586",
     "geom:latitude":37.181586,
     "geom:longitude":-93.264687,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1640 E Sunshine St",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -43,13 +49,14 @@
         102087523,
         85688661
     ],
+    "wof:brand_id":1125152797,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_40KRYkbvgsGoHlpathZfI0_37.181586_-93.264687@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462584188,
-    "wof:geomhash":"196b705a5c37d03ca765453e944742c4",
+    "wof:geomhash":"289b452acfd313a95476500e51cf2160",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -63,7 +70,7 @@
         }
     ],
     "wof:id":773235847,
-    "wof:lastmodified":1466625959,
+    "wof:lastmodified":1510697598,
     "wof:name":"Molly Maids",
     "wof:parent_id":85829759,
     "wof:placetype":"venue",

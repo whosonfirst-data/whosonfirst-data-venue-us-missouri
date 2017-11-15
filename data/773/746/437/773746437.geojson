@@ -2,14 +2,20 @@
   "id": 773746437,
   "type": "Feature",
   "properties": {
+    "addr:full":"313 E Battlefield Rd Springfield MO 65807",
+    "addr:housenumber":"313",
+    "addr:postcode":"65807",
+    "addr:street":"E Battlefield Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.290288,37.160065,-93.290288,37.160065",
     "geom:latitude":37.160065,
     "geom:longitude":-93.290288,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"313 E Battlefield Rd",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087523,
         85688661
     ],
+    "wof:brand_id":1125150591,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5CgxnYsZ0KCreYll8Xkf3h_37.160065_-93.290288@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462588072,
-    "wof:geomhash":"ed4dae1f51546cb2ccc73053d38c9d2b",
+    "wof:geomhash":"85a5534a8dd649b07521d5ffbffbc860",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":773746437,
-    "wof:lastmodified":1466634678,
+    "wof:lastmodified":1510613422,
     "wof:name":"Food 4 Less",
     "wof:parent_id":85881149,
     "wof:placetype":"venue",

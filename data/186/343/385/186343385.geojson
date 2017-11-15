@@ -2,9 +2,14 @@
   "id": 186343385,
   "type": "Feature",
   "properties": {
+    "addr:full":"1225 Union Blvd St. Louis MO 63113",
+    "addr:housenumber":"1225",
+    "addr:postcode":"63113",
+    "addr:street":"Union Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.272511,38.660357,-90.272511,38.660357",
     "geom:latitude":38.660357,
     "geom:longitude":-90.272511,
@@ -36,11 +41,13 @@
     "sg:website":"www.walgreens.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688661,
+        85873621,
+        102191575,
+        404518053,
         85633793,
-        85972235,
-        102086173,
-        85873621
+        85971343,
+        102080791,
+        85688661
     ],
     "wof:brand_id":420573797,
     "wof:breaches":[],
@@ -51,17 +58,18 @@
     "wof:geomhash":"435efd72488f72cd3acd81b62cb4ea1b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102086173,
-            "locality_id":85972235,
+            "county_id":102080791,
+            "localadmin_id":404518053,
+            "locality_id":85971343,
             "neighbourhood_id":85873621,
             "region_id":85688661,
             "venue_id":186343385
         }
     ],
     "wof:id":186343385,
-    "wof:lastmodified":1466622325,
+    "wof:lastmodified":1491885214,
     "wof:name":"Walgreens",
     "wof:parent_id":85873621,
     "wof:placetype":"venue",

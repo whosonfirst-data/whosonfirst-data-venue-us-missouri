@@ -2,14 +2,20 @@
   "id": 790589773,
   "type": "Feature",
   "properties": {
+    "addr:full":"13907 US Hwy 40 Independence MO 64055",
+    "addr:housenumber":"13907",
+    "addr:postcode":"64055",
+    "addr:street":"Us Hwy 40",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.414711,39.035506,-94.414711,39.035506",
     "geom:latitude":39.035506,
     "geom:longitude":-94.414711,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"13907 US Hwy 40",
     "sg:city":"Independence",
     "sg:classifiers":[
@@ -40,13 +46,14 @@
         102081227,
         85688661
     ],
+    "wof:brand_id":1125158005,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6LLL2A6Nr8IPob0bfJPlFP_39.035506_-94.414711@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462597123,
-    "wof:geomhash":"0596da71861b0f867ceb8eb913361a77",
+    "wof:geomhash":"3fcabc3f47ad9c8cd384a929f8907055",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,7 +67,7 @@
         }
     ],
     "wof:id":790589773,
-    "wof:lastmodified":1466634031,
+    "wof:lastmodified":1510695207,
     "wof:name":"Wherehouse Music",
     "wof:parent_id":85871965,
     "wof:placetype":"venue",

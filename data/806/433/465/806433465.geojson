@@ -2,6 +2,10 @@
   "id": 806433465,
   "type": "Feature",
   "properties": {
+    "addr:full":"1807 Park 270 Dr St Louis MO 63146",
+    "addr:housenumber":"1807;270",
+    "addr:postcode":"63146",
+    "addr:street":"Park;Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":806433465,
-    "wof:lastmodified":1466623969,
+    "wof:lastmodified":1472630259,
     "wof:name":"Vermont Information Processing",
     "wof:parent_id":85803699,
     "wof:placetype":"venue",

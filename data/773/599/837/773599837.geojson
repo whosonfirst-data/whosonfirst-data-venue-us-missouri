@@ -2,6 +2,10 @@
   "id": 773599837,
   "type": "Feature",
   "properties": {
+    "addr:full":"3404 E 39 St Kansas City MO 64128",
+    "addr:housenumber":"3404;39",
+    "addr:postcode":"64128",
+    "addr:street":"E;St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":773599837,
-    "wof:lastmodified":1466633122,
+    "wof:lastmodified":1472631069,
     "wof:name":"Watkin's Christian Child Dev",
     "wof:parent_id":85872023,
     "wof:placetype":"venue",

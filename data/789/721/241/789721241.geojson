@@ -2,6 +2,10 @@
   "id": 789721241,
   "type": "Feature",
   "properties": {
+    "addr:full":"1206 Rogers St Columbia MO 65201",
+    "addr:housenumber":"1206",
+    "addr:postcode":"65201",
+    "addr:street":"Rogers St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":789721241,
-    "wof:lastmodified":1466625239,
+    "wof:lastmodified":1472630362,
     "wof:name":"Pro Street Audio",
     "wof:parent_id":85835171,
     "wof:placetype":"venue",

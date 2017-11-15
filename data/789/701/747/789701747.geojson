@@ -2,6 +2,10 @@
   "id": 789701747,
   "type": "Feature",
   "properties": {
+    "addr:full":"8601 Airport Rd St Louis MO 63134",
+    "addr:housenumber":"8601",
+    "addr:postcode":"63134",
+    "addr:street":"Airport Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":789701747,
-    "wof:lastmodified":1466624972,
+    "wof:lastmodified":1472630334,
     "wof:name":"Berkeley 66",
     "wof:parent_id":85859027,
     "wof:placetype":"venue",

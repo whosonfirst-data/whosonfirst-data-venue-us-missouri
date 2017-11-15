@@ -2,14 +2,20 @@
   "id": 789852713,
   "type": "Feature",
   "properties": {
+    "addr:full":"8910 North Ave Overland MO 63114",
+    "addr:housenumber":"8910",
+    "addr:postcode":"63114",
+    "addr:street":"North Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.350768,38.718812,-90.350768,38.718812",
     "geom:latitude":38.718812,
     "geom:longitude":-90.350768,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"8910 North Ave",
     "sg:city":"Overland",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102086173,
         85688661
     ],
+    "wof:brand_id":1125151871,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_33BAm7khLm8LQEGndxIUz3_38.718812_-90.350768@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462591047,
-    "wof:geomhash":"a7eaecd1cac9b0ca89528c69a5ae6f41",
+    "wof:geomhash":"6ce3f2a7b215920d10aecef992b6928a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":789852713,
-    "wof:lastmodified":1466628334,
+    "wof:lastmodified":1510698680,
     "wof:name":"Amsoil Synthetic Lubricants",
     "wof:parent_id":85847351,
     "wof:placetype":"venue",
