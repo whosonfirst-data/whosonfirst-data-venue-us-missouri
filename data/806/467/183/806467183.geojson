@@ -7,13 +7,16 @@
     "addr:postcode":"65806",
     "addr:street":"S John Q Hammons Pkwy",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.281305,37.208093,-93.281305,37.208093",
     "geom:latitude":37.208093,
     "geom:longitude":-93.281305,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"300 S John Q Hammons Pkwy",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -48,7 +51,7 @@
     },
     "wof:country":"US",
     "wof:created":1462598369,
-    "wof:geomhash":"0b3d9358887ac341b2cf970dd54176bc",
+    "wof:geomhash":"18579d39a7bb91287c6d8ae87bccc863",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -62,12 +65,14 @@
         }
     ],
     "wof:id":806467183,
-    "wof:lastmodified":1472630311,
+    "wof:lastmodified":1510942615,
     "wof:name":"W S I",
     "wof:parent_id":85881125,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mo",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        773556575
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "manufacture",

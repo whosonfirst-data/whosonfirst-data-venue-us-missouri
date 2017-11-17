@@ -7,13 +7,16 @@
     "addr:postcode":"63117",
     "addr:street":"Clayton Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.310402,38.634102,-90.310402,38.634102",
     "geom:latitude":38.634102,
     "geom:longitude":-90.310402,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"6420 Clayton Rd",
     "sg:city":"Saint Louis",
     "sg:classifiers":[
@@ -36,16 +39,22 @@
     },
     "wof:country":"US",
     "wof:created":1462604424,
-    "wof:geomhash":"4f8a016e1a840ccbad9d3f72ac970b4b",
+    "wof:geomhash":"7dc5dee7492caa7dc96b514e415ae67a",
     "wof:hierarchy":[],
     "wof:id":807164663,
-    "wof:lastmodified":1472630445,
+    "wof:lastmodified":1510943654,
     "wof:name":"Ssm Rehab",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mo",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        790606301,
+        773739217,
+        790461705
+    ],
+    "wof:supersedes":[
+        186371101
+    ],
     "wof:tags":[]
 },
   "bbox": [

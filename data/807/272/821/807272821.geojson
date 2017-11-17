@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.771566,37.951577,-91.771566,37.951577",
     "geom:latitude":37.951577,
     "geom:longitude":-91.771566,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1009 N Pine St",
     "sg:city":"Rolla",
     "sg:classifiers":[],
@@ -35,7 +37,7 @@
     },
     "wof:country":"US",
     "wof:created":1462605572,
-    "wof:geomhash":"d83275343971e9be7816508754e9a1e0",
+    "wof:geomhash":"f07ece2f8cd2c1b8d11d5f8e6b2bf380",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -47,13 +49,15 @@
         }
     ],
     "wof:id":807272821,
-    "wof:lastmodified":1472630687,
+    "wof:lastmodified":1510942453,
     "wof:name":"Rolla Craft-Hobby",
     "wof:parent_id":85814531,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        790100061
+    ],
     "wof:tags":[]
 },
   "bbox": [

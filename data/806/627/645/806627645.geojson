@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.287529,38.630064,-90.287529,38.630064",
     "geom:latitude":38.630064,
     "geom:longitude":-90.287529,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"6125 Clayton Ave",
     "sg:city":"St Louis",
     "sg:classifiers":[
@@ -55,7 +57,7 @@
     },
     "wof:country":"US",
     "wof:created":1462599717,
-    "wof:geomhash":"abab321494604f4f8762988de9961730",
+    "wof:geomhash":"c57d4ab749899064ba7956cac9d7ddec",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -69,13 +71,15 @@
         }
     ],
     "wof:id":806627645,
-    "wof:lastmodified":1472630468,
+    "wof:lastmodified":1510942586,
     "wof:name":"Family Medicine of St Louis",
     "wof:parent_id":85873705,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        807175241
+    ],
     "wof:tags":[
         "physician",
         "medical",

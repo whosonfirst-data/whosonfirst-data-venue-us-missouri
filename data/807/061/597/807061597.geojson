@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.312508,38.801048,-90.312508,38.801048",
     "geom:latitude":38.801048,
     "geom:longitude":-90.312508,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"10 Paddock Hills Plaza Shopping Ctr",
     "sg:city":"Florissant",
     "sg:classifiers":[
@@ -47,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1462603383,
-    "wof:geomhash":"df70474f0dc55d7cdc2f79c7933e5bb7",
+    "wof:geomhash":"c91cfa108c480af125a52ae0cec7783e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,13 +63,15 @@
         }
     ],
     "wof:id":807061597,
-    "wof:lastmodified":1472630261,
+    "wof:lastmodified":1510942505,
     "wof:name":"The Locker Room",
     "wof:parent_id":85813019,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        807118851
+    ],
     "wof:tags":[
         "american"
     ]

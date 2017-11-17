@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.585805,38.595555,-90.585805,38.595555",
     "geom:latitude":38.595555,
     "geom:longitude":-90.585805,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"33 Clarkson Rd",
     "sg:city":"Ellisville",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1462588645,
-    "wof:geomhash":"a34cc884824d5cc24af0adb738b3c056",
+    "wof:geomhash":"f9d985969fd8530e18a2d8ae0a3cf57e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,13 +62,15 @@
         }
     ],
     "wof:id":773821675,
-    "wof:lastmodified":1472631136,
+    "wof:lastmodified":1510943319,
     "wof:name":"Charter Dry Cleaning",
     "wof:parent_id":85831197,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        807107371
+    ],
     "wof:tags":[
         "cleaners"
     ]

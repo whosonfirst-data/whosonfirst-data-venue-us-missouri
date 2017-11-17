@@ -7,13 +7,16 @@
     "addr:postcode":"63385",
     "addr:street":"W Pearce Blvd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.864674,38.810312,-90.864674,38.810312",
     "geom:latitude":38.810312,
     "geom:longitude":-90.864674,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"766 W Pearce Blvd",
     "sg:city":"Wentzville",
     "sg:classifiers":[
@@ -45,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1462603483,
-    "wof:geomhash":"338e885870a38fc0d081becbf0ae5709",
+    "wof:geomhash":"47c1d94304b9576ad00e3b281f127616",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -57,12 +60,14 @@
         }
     ],
     "wof:id":807073399,
-    "wof:lastmodified":1472630250,
+    "wof:lastmodified":1510943700,
     "wof:name":"McDonald's",
     "wof:parent_id":85821097,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mo",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        790168629
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "burger",

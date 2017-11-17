@@ -7,13 +7,16 @@
     "addr:postcode":"63110",
     "addr:street":"Parkview Pl",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.260201,38.637299,-90.260201,38.637299",
     "geom:latitude":38.637299,
     "geom:longitude":-90.260201,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"4588 Parkview Pl",
     "sg:city":"Saint Louis",
     "sg:classifiers":[
@@ -44,7 +47,7 @@
         "sg:id":"SG_6Ju36X7o7z6Eubeqo18Iv9_38.637299_-90.260201@1303262928"
     },
     "wof:country":"US",
-    "wof:geomhash":"1c6c0d034f2337fcbbf9431ef85d150d",
+    "wof:geomhash":"7612d61a89b4101cf54d3059ec9757b0",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -57,13 +60,17 @@
         }
     ],
     "wof:id":186323155,
-    "wof:lastmodified":1472630734,
+    "wof:lastmodified":1510942488,
     "wof:name":"St Louis College of Pharmacy",
     "wof:parent_id":85867031,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mo",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        807020263
+    ],
+    "wof:supersedes":[
+        807020263
+    ],
     "wof:tags":[
         "college"
     ]

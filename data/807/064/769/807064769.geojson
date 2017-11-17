@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.188959,38.625174,-90.188959,38.625174",
     "geom:latitude":38.625174,
     "geom:longitude":-90.188959,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"410 Market St",
     "sg:city":"Saint Louis",
     "sg:classifiers":[
@@ -49,7 +51,7 @@
     },
     "wof:country":"US",
     "wof:created":1462603406,
-    "wof:geomhash":"bf183b0e7f572b2c28db613ea45e331c",
+    "wof:geomhash":"9d29b9e3f84e7a6fa4f9eeee7e587c16",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -63,13 +65,15 @@
         }
     ],
     "wof:id":807064769,
-    "wof:lastmodified":1472630273,
+    "wof:lastmodified":1510943148,
     "wof:name":"Tony's ",
     "wof:parent_id":85867033,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        789616083
+    ],
     "wof:tags":[
         "seafood",
         "american",

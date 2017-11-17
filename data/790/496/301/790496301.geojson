@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.295312,37.240633,-93.295312,37.240633",
     "geom:latitude":37.240633,
     "geom:longitude":-93.295312,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"504 W Kearney St",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -43,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1462596340,
-    "wof:geomhash":"18ce4f3f5f47c8ddc0887bd0dbb1351b",
+    "wof:geomhash":"8aec2d6aaf398eb4ff1d0ab0a1de4dfb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,13 +59,15 @@
         }
     ],
     "wof:id":790496301,
-    "wof:lastmodified":1472630838,
+    "wof:lastmodified":1510944134,
     "wof:name":"Flowers-A-Plenty",
     "wof:parent_id":85881167,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        807309083
+    ],
     "wof:tags":[]
 },
   "bbox": [

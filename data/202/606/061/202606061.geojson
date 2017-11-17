@@ -7,13 +7,16 @@
     "addr:postcode":"65203",
     "addr:street":"Forum Blvd Apt 3207",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.360962,38.933239,-92.360962,38.933239",
     "geom:latitude":38.933239,
     "geom:longitude":-92.360962,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1700 Forum Blvd Apt 3207",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -43,7 +46,7 @@
         "sg:id":"SG_48gzVoUfvqDN7jdC5MCidK_38.933239_-92.360962@1303262935"
     },
     "wof:country":"US",
-    "wof:geomhash":"b4929c4ceaaae7be601c718c80cebce7",
+    "wof:geomhash":"3a5a7a17bb7f75a502f03d621cd53d0b",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -56,12 +59,14 @@
         }
     ],
     "wof:id":202606061,
-    "wof:lastmodified":1472630560,
+    "wof:lastmodified":1510943433,
     "wof:name":"Katy Place",
     "wof:parent_id":85835171,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mo",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        790199855
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"

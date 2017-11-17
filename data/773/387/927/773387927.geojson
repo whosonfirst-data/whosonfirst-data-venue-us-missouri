@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.233753,38.574338,-90.233753,38.574338",
     "geom:latitude":38.574338,
     "geom:longitude":-90.233753,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4420 S Broadway",
     "sg:city":"Saint Louis",
     "sg:classifiers":[
@@ -43,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1462585309,
-    "wof:geomhash":"9d41053b187a918a1f9bccc6fc3c6302",
+    "wof:geomhash":"8852c9345c1acd1ec261a21a56c6c5ba",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,13 +59,15 @@
         }
     ],
     "wof:id":773387927,
-    "wof:lastmodified":1472631005,
+    "wof:lastmodified":1510943205,
     "wof:name":"McDonalds",
     "wof:parent_id":85873697,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        807065599
+    ],
     "wof:tags":[]
 },
   "bbox": [

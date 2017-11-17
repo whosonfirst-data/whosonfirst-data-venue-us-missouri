@@ -7,13 +7,16 @@
     "addr:postcode":"63111",
     "addr:street":"S Broadway",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.233491,38.575281,-90.233491,38.575281",
     "geom:latitude":38.575281,
     "geom:longitude":-90.233491,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"4420 S Broadway",
     "sg:city":"Saint Louis",
     "sg:classifiers":[
@@ -47,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1462603413,
-    "wof:geomhash":"a7a4e137c1fea70b7693af4ad8e90e85",
+    "wof:geomhash":"15155596e18b7acadaf2f5ba69c4601e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,12 +64,14 @@
         }
     ],
     "wof:id":807065599,
-    "wof:lastmodified":1472630266,
+    "wof:lastmodified":1510943205,
     "wof:name":"McDonald's",
     "wof:parent_id":85873697,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mo",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        773387927
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "burger",

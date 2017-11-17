@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.522568,38.783002,-90.522568,38.783002",
     "geom:latitude":38.783002,
     "geom:longitude":-90.522568,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2795 Veterans Memorial Pkwy",
     "sg:city":"Saint Charles",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1462603451,
-    "wof:geomhash":"4e7f4efda192cebebf62a95e759e284f",
+    "wof:geomhash":"5531e38ef02f911c9fce9dd7b917eb02",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -57,13 +59,15 @@
         }
     ],
     "wof:id":807070737,
-    "wof:lastmodified":1472630264,
+    "wof:lastmodified":1510941471,
     "wof:name":"Show-Me's",
     "wof:parent_id":85821097,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        807070659
+    ],
     "wof:tags":[
         "american"
     ]

@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.278216,37.138822,-93.278216,37.138822",
     "geom:latitude":37.138822,
     "geom:longitude":-93.278216,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4117 S National Ave",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1462587814,
-    "wof:geomhash":"9e85599d966fa8af2c2c1fa60a3d6f7d",
+    "wof:geomhash":"687334ab5c165f81718607f8f62b26ff",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,13 +62,15 @@
         }
     ],
     "wof:id":773711623,
-    "wof:lastmodified":1472631104,
+    "wof:lastmodified":1510942146,
     "wof:name":"Mister Yen's",
     "wof:parent_id":420525311,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        807095461
+    ],
     "wof:tags":[
         "eating"
     ]

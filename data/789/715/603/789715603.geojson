@@ -7,13 +7,16 @@
     "addr:postcode":"63124",
     "addr:street":"Clayton Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.394392,38.636593,-90.394392,38.636593",
     "geom:latitude":38.636593,
     "geom:longitude":-90.394392,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"9909 Clayton Rd",
     "sg:city":"Saint Louis",
     "sg:classifiers":[
@@ -50,7 +53,7 @@
     },
     "wof:country":"US",
     "wof:created":1462589979,
-    "wof:geomhash":"8335bd0a792b7213a5d03ca180fcdf05",
+    "wof:geomhash":"b15fc35681b9165d4294400507e44a2e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -64,12 +67,14 @@
         }
     ],
     "wof:id":789715603,
-    "wof:lastmodified":1472630390,
+    "wof:lastmodified":1510943437,
     "wof:name":"Storage Inns Incorporated",
     "wof:parent_id":85867981,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mo",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        806622861
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "operator",

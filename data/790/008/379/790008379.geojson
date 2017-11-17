@@ -7,6 +7,7 @@
     "addr:postcode":"64055",
     "addr:street":"S Noland Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-94.414893,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"3801 S Noland Rd",
     "sg:city":"Independence",
     "sg:classifiers":[
@@ -66,12 +67,14 @@
         }
     ],
     "wof:id":790008379,
-    "wof:lastmodified":1510602728,
+    "wof:lastmodified":1510941340,
     "wof:name":"Fastsigns",
     "wof:parent_id":85871965,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mo",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        807212699
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "body",

@@ -7,6 +7,7 @@
     "addr:postcode":"63101",
     "addr:street":"Olive St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-90.194702,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"720 Olive St Lbby",
     "sg:city":"Saint Louis",
     "sg:classifiers":[
@@ -43,7 +45,7 @@
         "sg:id":"SG_6hlgwYBp0ZfbCplnLjOvYT_38.630798_-90.194702@1303262926"
     },
     "wof:country":"US",
-    "wof:geomhash":"71b7bc151040f50a7eae0de36eeb3350",
+    "wof:geomhash":"07b5992b029ad5d845f5db5d136a1dce",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,12 +59,14 @@
         }
     ],
     "wof:id":186227825,
-    "wof:lastmodified":1491933705,
+    "wof:lastmodified":1510943937,
     "wof:name":"Godfrey Vandover & Burns Inc",
     "wof:parent_id":85873643,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mo",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        806413585
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

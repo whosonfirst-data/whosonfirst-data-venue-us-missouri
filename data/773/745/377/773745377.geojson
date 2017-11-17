@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.473107,38.540058,-90.473107,38.540058",
     "geom:latitude":38.540058,
     "geom:longitude":-90.473107,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1920 Bowles Ave",
     "sg:city":"Fenton",
     "sg:classifiers":[
@@ -43,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1462588065,
-    "wof:geomhash":"14bbac0cc664f85652c17ca0477f0d99",
+    "wof:geomhash":"c35506959dd67824c6ad5ecb1688b062",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,13 +59,15 @@
         }
     ],
     "wof:id":773745377,
-    "wof:lastmodified":1472631099,
+    "wof:lastmodified":1510941778,
     "wof:name":"Sonic Drive-In",
     "wof:parent_id":85841473,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        807116167
+    ],
     "wof:tags":[]
 },
   "bbox": [

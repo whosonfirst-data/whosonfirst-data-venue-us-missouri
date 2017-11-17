@@ -7,13 +7,16 @@
     "addr:postcode":"63011",
     "addr:street":"Sovereign Ct Ste 115",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.489831,38.598292,-90.489831,38.598292",
     "geom:latitude":38.598292,
     "geom:longitude":-90.489831,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"301 Sovereign Ct Ste 115",
     "sg:city":"Ballwin",
     "sg:classifiers":[
@@ -51,7 +54,7 @@
     },
     "wof:country":"US",
     "wof:created":1462603806,
-    "wof:geomhash":"a57f4eda0d543201108f791bacc669b6",
+    "wof:geomhash":"777ba4d4194556e5feea1505ef84f41e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -65,12 +68,14 @@
         }
     ],
     "wof:id":807107097,
-    "wof:lastmodified":1472630304,
+    "wof:lastmodified":1510941465,
     "wof:name":"Sharp Approach Inc",
     "wof:parent_id":85802943,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mo",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        773200775
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "consultant",

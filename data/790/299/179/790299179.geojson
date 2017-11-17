@@ -7,13 +7,16 @@
     "addr:postcode":"65804",
     "addr:street":"E Cherokee St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.26249,37.17823,-93.26249,37.17823",
     "geom:latitude":37.17823,
     "geom:longitude":-93.26249,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1700 E Cherokee St",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -46,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1462594763,
-    "wof:geomhash":"0276210a3bc0cc6d82202bc56a461a8f",
+    "wof:geomhash":"e8809c71ade6cb4f685f740d857fb5db",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,12 +63,14 @@
         }
     ],
     "wof:id":790299179,
-    "wof:lastmodified":1472630747,
+    "wof:lastmodified":1510943739,
     "wof:name":"Aunt Martha's Pancake House",
     "wof:parent_id":85829759,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mo",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        807311809
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"

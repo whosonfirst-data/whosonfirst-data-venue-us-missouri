@@ -7,13 +7,16 @@
     "addr:postcode":"63033",
     "addr:street":"Paddock Hills",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.312504,38.801049,-90.312504,38.801049",
     "geom:latitude":38.801049,
     "geom:longitude":-90.312504,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"10 Paddock Hills Plaza Shopping Ctr",
     "sg:city":"Florissant",
     "sg:classifiers":[],
@@ -37,7 +40,7 @@
     },
     "wof:country":"US",
     "wof:created":1462603926,
-    "wof:geomhash":"38c470a5dcd96a77df53f57240248390",
+    "wof:geomhash":"db967df909dbf022b8f9a733390d1634",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,12 +54,14 @@
         }
     ],
     "wof:id":807118851,
-    "wof:lastmodified":1472630347,
+    "wof:lastmodified":1510942504,
     "wof:name":"The Locker Room",
     "wof:parent_id":85813019,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mo",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        807061597
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

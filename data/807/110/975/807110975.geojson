@@ -7,13 +7,16 @@
     "addr:postcode":"63017",
     "addr:street":"Woodlake Dr Ste 214",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.514794,38.641262,-90.514794,38.641262",
     "geom:latitude":38.641262,
     "geom:longitude":-90.514794,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"14377 Woodlake Dr Ste 214",
     "sg:city":"Chesterfield",
     "sg:classifiers":[
@@ -46,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1462603843,
-    "wof:geomhash":"4bca3b55b859081404dbd8fe3e82826f",
+    "wof:geomhash":"b2310c8bddf4ea2ff9b93baf2e73a3ae",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,12 +63,14 @@
         }
     ],
     "wof:id":807110975,
-    "wof:lastmodified":1472630344,
+    "wof:lastmodified":1510942861,
     "wof:name":"Snitzer, Stephen C Dds Ms Pc",
     "wof:parent_id":85831197,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mo",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        806504303
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "dentists-periodontists"

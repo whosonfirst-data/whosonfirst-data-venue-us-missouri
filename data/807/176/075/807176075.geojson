@@ -7,13 +7,16 @@
     "addr:postcode":"63139",
     "addr:street":"Hampton Ave Fl",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.291011,38.62526,-90.291011,38.62526",
     "geom:latitude":38.62526,
     "geom:longitude":-90.291011,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1401 Hampton Ave Fl 3",
     "sg:city":"Saint Louis",
     "sg:classifiers":[
@@ -43,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1462604548,
-    "wof:geomhash":"7722316fd5fe9dd34611c1600b7d3ab2",
+    "wof:geomhash":"599ce011920306750070592ee3912e81",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,12 +60,14 @@
         }
     ],
     "wof:id":807176075,
-    "wof:lastmodified":1472630464,
+    "wof:lastmodified":1510941510,
     "wof:name":"Carpenters Credit Union",
     "wof:parent_id":85873705,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mo",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        773564541
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -7,13 +7,16 @@
     "addr:postcode":"63103",
     "addr:street":"Locust St Ste 310",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.197502,38.6306,-90.197502,38.6306",
     "geom:latitude":38.6306,
     "geom:longitude":-90.197502,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1221 Locust St Ste 310",
     "sg:city":"Saint Louis",
     "sg:classifiers":[
@@ -43,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1462604128,
-    "wof:geomhash":"77fb095fb93853f9a41a382ebff86ebc",
+    "wof:geomhash":"553ce0c5d4652c72e9c94d231bdf6594",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,12 +60,14 @@
         }
     ],
     "wof:id":807136661,
-    "wof:lastmodified":1472630414,
+    "wof:lastmodified":1510943526,
     "wof:name":"Hale Law Firm",
     "wof:parent_id":85873645,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mo",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        790556173
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

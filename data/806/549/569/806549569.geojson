@@ -7,13 +7,16 @@
     "addr:postcode":"63141",
     "addr:street":"S New Ballas Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.443529,38.642162,-90.443529,38.642162",
     "geom:latitude":38.642162,
     "geom:longitude":-90.443529,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"621 S New Ballas Rd",
     "sg:city":"Saint Louis",
     "sg:classifiers":[
@@ -46,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1462599031,
-    "wof:geomhash":"866c930ec3b3e7079ee982be09f8b08b",
+    "wof:geomhash":"d6fc03a29c961dc0245664937e835a2f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,12 +63,14 @@
         }
     ],
     "wof:id":806549569,
-    "wof:lastmodified":1472630431,
+    "wof:lastmodified":1510943926,
     "wof:name":"Mid West Special Surgery PC",
     "wof:parent_id":85867987,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mo",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        806599245
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"

@@ -7,13 +7,16 @@
     "addr:postcode":"65804",
     "addr:street":"S Glenstone Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.262649,37.160053,-93.262649,37.160053",
     "geom:latitude":37.160053,
     "geom:longitude":-93.262649,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2825 S Glenstone Ave",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -43,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1462592822,
-    "wof:geomhash":"103d4b4a008243ee1b0b6fb892ed51a2",
+    "wof:geomhash":"a1544e1afeb3f28f7c39b7c59c68b70f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,12 +60,14 @@
         }
     ],
     "wof:id":790060169,
-    "wof:lastmodified":1472630247,
+    "wof:lastmodified":1510941750,
     "wof:name":"Bombay Co",
     "wof:parent_id":85881149,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mo",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        807311109
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

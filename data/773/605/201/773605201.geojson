@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.853034,39.769031,-94.853034,39.769031",
     "geom:latitude":39.769031,
     "geom:longitude":-94.853034,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"501 Faraon St",
     "sg:city":"St Joseph",
     "sg:classifiers":[
@@ -38,16 +40,18 @@
     },
     "wof:country":"US",
     "wof:created":1462586976,
-    "wof:geomhash":"6a640761bb37123e5ef2da71bd4c250b",
+    "wof:geomhash":"5d9f2c01ab714b010fbee7ff235cab80",
     "wof:hierarchy":[],
     "wof:id":773605201,
-    "wof:lastmodified":1472631061,
+    "wof:lastmodified":1510942952,
     "wof:name":"St Joseph Police Dept-Records",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        806404211
+    ],
     "wof:tags":[
         "department"
     ]

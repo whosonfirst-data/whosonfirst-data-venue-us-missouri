@@ -7,13 +7,16 @@
     "addr:postcode":"63103",
     "addr:street":"Market Street Suite",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.206902,38.629299,-90.206902,38.629299",
     "geom:latitude":38.629299,
     "geom:longitude":-90.206902,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1820 Market Street Suite 98",
     "sg:city":"Saint Louis",
     "sg:classifiers":[
@@ -49,7 +52,7 @@
     },
     "wof:country":"US",
     "wof:created":1462604127,
-    "wof:geomhash":"78a5af9f8ebc588d57cab174250bcd8d",
+    "wof:geomhash":"ff9edb720e11cc8e0317e4b62d1cb17e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -63,13 +66,17 @@
         }
     ],
     "wof:id":807136529,
-    "wof:lastmodified":1472630407,
+    "wof:lastmodified":1510943765,
     "wof:name":"St. Louis Union Station",
     "wof:parent_id":85873645,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mo",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        790086961
+    ],
+    "wof:supersedes":[
+        790086961
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -7,13 +7,16 @@
     "addr:postcode":"63121",
     "addr:street":"Natural Bridge Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.311501,38.706902,-90.311501,38.706902",
     "geom:latitude":38.706902,
     "geom:longitude":-90.311501,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"8001 Natural Bridge Rd",
     "sg:city":"Saint Louis",
     "sg:classifiers":[
@@ -45,7 +48,7 @@
         "sg:id":"SG_2gjGzoj9GuNBRckZHk3f7H_38.706902_-90.311501@1303262929"
     },
     "wof:country":"US",
-    "wof:geomhash":"b511c16f75ec6f88392424c995761672",
+    "wof:geomhash":"76e28a6cd762c405d42abd7f33f59578",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -58,12 +61,14 @@
         }
     ],
     "wof:id":186391537,
-    "wof:lastmodified":1472630809,
+    "wof:lastmodified":1510943507,
     "wof:name":"Missouri Citizens For the Arts",
     "wof:parent_id":85803359,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mo",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        773586139
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "high",

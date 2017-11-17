@@ -7,13 +7,16 @@
     "addr:postcode":"63110",
     "addr:street":"S Kingshighway Blvd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.262972,38.638918,-90.262972,38.638918",
     "geom:latitude":38.638918,
     "geom:longitude":-90.262972,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"216 S Kingshighway Blvd",
     "sg:city":"Saint Louis",
     "sg:classifiers":[
@@ -44,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1462604321,
-    "wof:geomhash":"979b0b208cdb63fe1ef36608b3490ce2",
+    "wof:geomhash":"767387a04c456a1fe925dcb5b5f53df0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,12 +61,14 @@
         }
     ],
     "wof:id":807155029,
-    "wof:lastmodified":1472630372,
+    "wof:lastmodified":1510942307,
     "wof:name":"Barnes Jewish Hospital",
     "wof:parent_id":85867031,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mo",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        806630525
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

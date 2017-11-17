@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.586418,39.072869,-94.586418,39.072869",
     "geom:latitude":39.072869,
     "geom:longitude":-94.586418,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3011 Baltimore Ave",
     "sg:city":"Kansas City",
     "sg:classifiers":[
@@ -47,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1462583502,
-    "wof:geomhash":"ebbfc564945080a6f46cd675aea3f28a",
+    "wof:geomhash":"f0517d999fa84cf7e111b441e4e8dd5d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,13 +63,15 @@
         }
     ],
     "wof:id":773149721,
-    "wof:lastmodified":1472630604,
+    "wof:lastmodified":1510943134,
     "wof:name":"Rehabilitation Institute Inc",
     "wof:parent_id":85872013,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        840935285
+    ],
     "wof:tags":[
         "rehabilitation"
     ]

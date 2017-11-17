@@ -7,13 +7,16 @@
     "addr:postcode":"65201",
     "addr:street":"E Walnut St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.325082,38.952595,-92.325082,38.952595",
     "geom:latitude":38.952595,
     "geom:longitude":-92.325082,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1005 E Walnut St",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -46,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1462593111,
-    "wof:geomhash":"ea12cb87fe769aa6fc07ce8bf8aecb66",
+    "wof:geomhash":"4788a901d1dcd6b376d640154d214724",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,12 +63,14 @@
         }
     ],
     "wof:id":790098337,
-    "wof:lastmodified":1472630313,
+    "wof:lastmodified":1510944031,
     "wof:name":"Ernies Cafe & Steakhouse",
     "wof:parent_id":85835171,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mo",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        807253737
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"

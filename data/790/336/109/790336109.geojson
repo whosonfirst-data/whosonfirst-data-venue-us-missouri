@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.189127,38.627714,-90.189127,38.627714",
     "geom:latitude":38.627714,
     "geom:longitude":-90.189127,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"200 N Broadway",
     "sg:city":"St Louis",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1462595034,
-    "wof:geomhash":"8903c4539e55609c02c91a6c7b745a64",
+    "wof:geomhash":"1e1afa6b655efe95891ce19bf1b1471a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,13 +62,15 @@
         }
     ],
     "wof:id":790336109,
-    "wof:lastmodified":1472630808,
+    "wof:lastmodified":1510941432,
     "wof:name":"Gateway News Stand",
     "wof:parent_id":85867033,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        186243023
+    ],
     "wof:tags":[
         "magazine"
     ]

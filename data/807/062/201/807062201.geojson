@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.627405,38.581781,-90.627405,38.581781",
     "geom:latitude":38.581781,
     "geom:longitude":-90.627405,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2408 Taylor Rd",
     "sg:city":"Grover",
     "sg:classifiers":[
@@ -39,16 +41,18 @@
     },
     "wof:country":"US",
     "wof:created":1462603387,
-    "wof:geomhash":"930cf575bbd8a5f3c7570daaaeb37334",
+    "wof:geomhash":"8feae7bbf630ddea221c25070655f4e1",
     "wof:hierarchy":[],
     "wof:id":807062201,
-    "wof:lastmodified":1472630235,
+    "wof:lastmodified":1510942272,
     "wof:name":"El Maguey",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        807120651
+    ],
     "wof:tags":[
         "mexican"
     ]

@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.231201,38.6395,-90.231201,38.6395",
     "geom:latitude":38.6395,
     "geom:longitude":-90.231201,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"634 N Grand Blvd Ste 10F",
     "sg:city":"Saint Louis",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1462604109,
-    "wof:geomhash":"761e07a25dde580eab08fc2faf5c8145",
+    "wof:geomhash":"b089aa8920003fd9b255add3e425afe1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,13 +62,15 @@
         }
     ],
     "wof:id":807135155,
-    "wof:lastmodified":1472630379,
+    "wof:lastmodified":1510941849,
     "wof:name":"St Louis Black Repertory Company",
     "wof:parent_id":85873637,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        789606399
+    ],
     "wof:tags":[
         "performing"
     ]

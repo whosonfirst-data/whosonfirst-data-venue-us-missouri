@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.189499,38.6297,-90.189499,38.6297",
     "geom:latitude":38.6297,
     "geom:longitude":-90.189499,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"515 N 6th St",
     "sg:city":"Saint Louis",
     "sg:classifiers":[
@@ -47,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1462603001,
-    "wof:geomhash":"30851f03f1af15d721b408622a58fcd8",
+    "wof:geomhash":"7a15167503ac2872ae8c19b5ea900dca",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,13 +63,15 @@
         }
     ],
     "wof:id":807016827,
-    "wof:lastmodified":1472630186,
+    "wof:lastmodified":1510943468,
     "wof:name":"T-Mobile",
     "wof:parent_id":85867033,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        186225143
+    ],
     "wof:tags":[
         "telephone",
         "cellular"

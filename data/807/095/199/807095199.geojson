@@ -7,13 +7,16 @@
     "addr:postcode":"65806",
     "addr:street":"S Jefferson Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.289922,37.207998,-93.289922,37.207998",
     "geom:latitude":37.207998,
     "geom:longitude":-93.289922,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"313 S Jefferson Ave",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -47,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1462603666,
-    "wof:geomhash":"befaea7b41b1323fa15c2d46ab4aeeaf",
+    "wof:geomhash":"8c02dcf815667ca0ef5676b01d956379",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,12 +64,14 @@
         }
     ],
     "wof:id":807095199,
-    "wof:lastmodified":1472630228,
+    "wof:lastmodified":1510944111,
     "wof:name":"Milles Cafe",
     "wof:parent_id":85881119,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mo",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        807312809
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "american"

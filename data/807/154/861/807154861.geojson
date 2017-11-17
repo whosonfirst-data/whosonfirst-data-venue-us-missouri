@@ -7,13 +7,16 @@
     "addr:postcode":"63110",
     "addr:street":"S Kingshighway Blvd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.265999,38.6381,-90.265999,38.6381",
     "geom:latitude":38.6381,
     "geom:longitude":-90.265999,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"306 S Kingshighway Blvd",
     "sg:city":"Saint Louis",
     "sg:classifiers":[
@@ -46,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1462604319,
-    "wof:geomhash":"3060e3291b315f965692ec1ed4bde0dd",
+    "wof:geomhash":"5f4e1b18dd5be8e17d885b6f3fbef083",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,12 +63,14 @@
         }
     ],
     "wof:id":807154861,
-    "wof:lastmodified":1472630426,
+    "wof:lastmodified":1510942593,
     "wof:name":"Jewish Hospital College",
     "wof:parent_id":85867031,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mo",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        789798685
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "college"

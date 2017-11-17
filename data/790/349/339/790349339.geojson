@@ -7,13 +7,16 @@
     "addr:postcode":"65203",
     "addr:street":"W Nifong Blvd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.352154,38.908348,-92.352154,38.908348",
     "geom:latitude":38.908348,
     "geom:longitude":-92.352154,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1000 W Nifong Blvd",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -43,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1462595131,
-    "wof:geomhash":"5c66f55647b13e5b283be7c3899d11b7",
+    "wof:geomhash":"656cc5c297a339259a47f2c7e6e4120f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,12 +60,14 @@
         }
     ],
     "wof:id":790349339,
-    "wof:lastmodified":1472630833,
+    "wof:lastmodified":1510943223,
     "wof:name":"Ruether/C P M",
     "wof:parent_id":85835171,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mo",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        806933029
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

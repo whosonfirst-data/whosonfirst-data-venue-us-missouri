@@ -7,13 +7,16 @@
     "addr:postcode":"65583",
     "addr:street":"Ichord Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.223554,37.810664,-92.223554,37.810664",
     "geom:latitude":37.810664,
     "geom:longitude":-92.223554,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"310 Ichord Ave",
     "sg:city":"Waynesville",
     "sg:classifiers":[
@@ -47,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1462603631,
-    "wof:geomhash":"790b613cc44752013944627b88e8c9e8",
+    "wof:geomhash":"685ea98d4c24b770ba81cd74e953afbd",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,12 +64,14 @@
         }
     ],
     "wof:id":807091577,
-    "wof:lastmodified":1472630273,
+    "wof:lastmodified":1510943374,
     "wof:name":"McDonald's",
     "wof:parent_id":85822351,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mo",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        807279681
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "burger",

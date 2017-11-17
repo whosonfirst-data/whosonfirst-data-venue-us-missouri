@@ -7,13 +7,16 @@
     "addr:postcode":"63017",
     "addr:street":"Hilltown Village Ctr",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.551799,38.659546,-90.551799,38.659546",
     "geom:latitude":38.659546,
     "geom:longitude":-90.551799,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"133 Hilltown Village Ctr",
     "sg:city":"Chesterfield",
     "sg:classifiers":[],
@@ -37,7 +40,7 @@
     },
     "wof:country":"US",
     "wof:created":1462603828,
-    "wof:geomhash":"0d9f21e79ef0c440fc2343ee939c9549",
+    "wof:geomhash":"c2f10dbd70710d9e742043cb99828a3a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,12 +54,14 @@
         }
     ],
     "wof:id":807109357,
-    "wof:lastmodified":1472630317,
+    "wof:lastmodified":1510942027,
     "wof:name":"Hong's Trading Co",
     "wof:parent_id":85805465,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mo",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        806549559
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

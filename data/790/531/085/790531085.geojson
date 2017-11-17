@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.194265,38.62893,-90.194265,38.62893",
     "geom:latitude":38.62893,
     "geom:longitude":-90.194265,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"906 Olive St",
     "sg:city":"St Louis",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1462596632,
-    "wof:geomhash":"0b71f5cfe8e6db4eb9b1d51c1adf252f",
+    "wof:geomhash":"a3ba118c4e8a29e81152546552137425",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,13 +62,15 @@
         }
     ],
     "wof:id":790531085,
-    "wof:lastmodified":1472630859,
+    "wof:lastmodified":1510944040,
     "wof:name":"DCE Inc",
     "wof:parent_id":85867033,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        806776243
+    ],
     "wof:tags":[
         "engineer"
     ]

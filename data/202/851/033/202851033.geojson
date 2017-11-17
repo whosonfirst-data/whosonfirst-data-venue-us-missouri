@@ -7,13 +7,16 @@
     "addr:postcode":"65721",
     "addr:street":"W Marler Ln",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.225346,37.003699,-93.225346,37.003699",
     "geom:latitude":37.003699,
     "geom:longitude":-93.225346,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1915 W Marler Ln",
     "sg:city":"Ozark",
     "sg:classifiers":[],
@@ -35,7 +38,7 @@
         "sg:id":"SG_2eDA3wpSwCPJ9G9yfkS3AJ_37.003699_-93.225346@1303262938"
     },
     "wof:country":"US",
-    "wof:geomhash":"51fe325e76ec2c0c3590094763609b0b",
+    "wof:geomhash":"3a5711f053fa6164f274a549835ae1d1",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -48,12 +51,14 @@
         }
     ],
     "wof:id":202851033,
-    "wof:lastmodified":1472630740,
+    "wof:lastmodified":1510943338,
     "wof:name":"Backyard Burgers",
     "wof:parent_id":85809751,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mo",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        807093373
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

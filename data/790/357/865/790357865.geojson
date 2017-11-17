@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.311481,38.634006,-90.311481,38.634006",
     "geom:latitude":38.634006,
     "geom:longitude":-90.311481,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"6420 Clayton Rd",
     "sg:city":"St Louis",
     "sg:classifiers":[
@@ -36,16 +38,19 @@
     },
     "wof:country":"US",
     "wof:created":1462595206,
-    "wof:geomhash":"9c5d553c0c2d7bef86d6bbb53882d1de",
+    "wof:geomhash":"627b078610a8b053abf6c703bfd9ad20",
     "wof:hierarchy":[],
     "wof:id":790357865,
-    "wof:lastmodified":1472630868,
+    "wof:lastmodified":1510943303,
     "wof:name":"St Mary's Health Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        186361939,
+        806361493
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -7,13 +7,16 @@
     "addr:postcode":"63011",
     "addr:street":"Manchester Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.540103,38.592989,-90.540103,38.592989",
     "geom:latitude":38.592989,
     "geom:longitude":-90.540103,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"14820 Manchester Rd",
     "sg:city":"Ballwin",
     "sg:classifiers":[],
@@ -36,7 +39,7 @@
         "sg:id":"SG_7bK2Ef9DB39TY4uFihTO6e_38.592989_-90.540103@1303262925"
     },
     "wof:country":"US",
-    "wof:geomhash":"0aeb53fd170185987d29cc3465e7162e",
+    "wof:geomhash":"7b749231884275c1b81e01911dae2c4d",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -49,12 +52,14 @@
         }
     ],
     "wof:id":186105435,
-    "wof:lastmodified":1472630214,
+    "wof:lastmodified":1510942290,
     "wof:name":"Stein Mart",
     "wof:parent_id":85831197,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mo",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        790590893
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

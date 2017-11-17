@@ -7,13 +7,16 @@
     "addr:postcode":"63110",
     "addr:street":"Manchester Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.251125,38.62778,-90.251125,38.62778",
     "geom:latitude":38.62778,
     "geom:longitude":-90.251125,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"4120 Manchester AVE",
     "sg:city":"Saint Louis",
     "sg:classifiers":[
@@ -44,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1462604316,
-    "wof:geomhash":"8e6e9328a591fed2e6a60fea9a037ee8",
+    "wof:geomhash":"0c460e9d0248ed9acd080a5ea6d3477d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,12 +61,14 @@
         }
     ],
     "wof:id":807154531,
-    "wof:lastmodified":1472630404,
+    "wof:lastmodified":1510942738,
     "wof:name":"United States Post Office",
     "wof:parent_id":85873649,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mo",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        773618775
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

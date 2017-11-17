@@ -7,6 +7,7 @@
     "addr:postcode":"65804",
     "addr:street":"S Glenstone Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-93.263313,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"2825 S Glenstone Ave",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -65,12 +66,14 @@
         }
     ],
     "wof:id":807094695,
-    "wof:lastmodified":1510875275,
+    "wof:lastmodified":1510943820,
     "wof:name":"Auntie Anne's Pretzels",
     "wof:parent_id":85881149,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mo",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        790437995
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "american",

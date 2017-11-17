@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.207847,38.669674,-90.207847,38.669674",
     "geom:latitude":38.669674,
     "geom:longitude":-90.207847,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4300 N 20th St",
     "sg:city":"St Louis",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1462595825,
-    "wof:geomhash":"6569aa1aaa3d2aad3b9849164aec3b2b",
+    "wof:geomhash":"1259b075d873d92ac565e80121d47520",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,13 +62,15 @@
         }
     ],
     "wof:id":790437517,
-    "wof:lastmodified":1472630829,
+    "wof:lastmodified":1510943434,
     "wof:name":"M V Market",
     "wof:parent_id":85873613,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        807143351
+    ],
     "wof:tags":[
         "grocer"
     ]

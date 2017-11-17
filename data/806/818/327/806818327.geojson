@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.735049,39.006605,-93.735049,39.006605",
     "geom:latitude":39.006605,
     "geom:longitude":-93.735049,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"6676 S Hwy 13",
     "sg:city":"Higginsville",
     "sg:classifiers":[
@@ -38,16 +40,18 @@
     },
     "wof:country":"US",
     "wof:created":1462601328,
-    "wof:geomhash":"6c34ccca85ed0a8c284c4be7cf9d8533",
+    "wof:geomhash":"eba845938884252d6f0d8b33308b39ef",
     "wof:hierarchy":[],
     "wof:id":806818327,
-    "wof:lastmodified":1472630650,
+    "wof:lastmodified":1510942674,
     "wof:name":"McDonalds",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        807077235
+    ],
     "wof:tags":[
         "eating"
     ]

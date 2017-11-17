@@ -7,13 +7,16 @@
     "addr:postcode":"65804",
     "addr:street":"S National Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.276154,37.188937,-93.276154,37.188937",
     "geom:latitude":37.188937,
     "geom:longitude":-93.276154,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1408 S National Ave",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -47,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1462603661,
-    "wof:geomhash":"06fe5d5ea5d9e48f7d5cf1c9757e4914",
+    "wof:geomhash":"5eacbadf944ac173b2a146995e7ce2ed",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,12 +64,14 @@
         }
     ],
     "wof:id":807094801,
-    "wof:lastmodified":1472630284,
+    "wof:lastmodified":1510943878,
     "wof:name":"Mexican Villa",
     "wof:parent_id":85865461,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mo",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        807309847
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "mexican"

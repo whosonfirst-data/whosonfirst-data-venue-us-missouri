@@ -7,13 +7,16 @@
     "addr:postcode":"64120",
     "addr:street":"E Commerce Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.505268,39.131452,-94.505268,39.131452",
     "geom:latitude":39.131452,
     "geom:longitude":-94.505268,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"6501 E Commerce Ave",
     "sg:city":"Kansas City",
     "sg:classifiers":[
@@ -38,15 +41,17 @@
     },
     "wof:country":"US",
     "wof:created":1462589244,
-    "wof:geomhash":"3e334b3a82413d073a28b3a9d2e78734",
+    "wof:geomhash":"94c801d34ee0cb31be2dc30efbb3e969",
     "wof:hierarchy":[],
     "wof:id":789623233,
-    "wof:lastmodified":1472630243,
+    "wof:lastmodified":1510943467,
     "wof:name":"Occu-Tec Incorporated",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mo",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        806572803
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "business"

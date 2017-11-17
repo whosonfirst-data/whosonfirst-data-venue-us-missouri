@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.627199,38.507761,-90.627199,38.507761",
     "geom:latitude":38.507761,
     "geom:longitude":-90.627199,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"601 Stockell Dr",
     "sg:city":"Eureka",
     "sg:classifiers":[
@@ -40,16 +42,18 @@
     },
     "wof:country":"US",
     "wof:created":1462603374,
-    "wof:geomhash":"7459f042fe71481491a77425814a4c57",
+    "wof:geomhash":"7db4df20a78b25554c54ff12a293aae8",
     "wof:hierarchy":[],
     "wof:id":807060379,
-    "wof:lastmodified":1472630281,
+    "wof:lastmodified":1510941815,
     "wof:name":"Super Smokers Bbq",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        807113445
+    ],
     "wof:tags":[
         "barbecue",
         "american"

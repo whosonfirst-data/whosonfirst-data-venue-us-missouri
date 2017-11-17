@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.563398,39.088834,-94.563398,39.088834",
     "geom:latitude":39.088834,
     "geom:longitude":-94.563398,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1927 Vine St",
     "sg:city":"Kansas City",
     "sg:classifiers":[
@@ -49,7 +51,7 @@
     },
     "wof:country":"US",
     "wof:created":1462598024,
-    "wof:geomhash":"9f56b260a9b6905347daca367a9761d3",
+    "wof:geomhash":"b2f7d91ab835a2cf7843af87b4dba82a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -63,13 +65,15 @@
         }
     ],
     "wof:id":806422481,
-    "wof:lastmodified":1472630261,
+    "wof:lastmodified":1510942693,
     "wof:name":"Blankinship Buty & Barbr Sups",
     "wof:parent_id":85872021,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        840645199
+    ],
     "wof:tags":[
         "related",
         "cosmetic",

@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.964326,36.767462,-89.964326,36.767462",
     "geom:latitude":36.767462,
     "geom:longitude":-89.964326,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"10415 State Hwy 25",
     "sg:city":"Dexter",
     "sg:classifiers":[
@@ -39,16 +41,18 @@
     },
     "wof:country":"US",
     "wof:created":1462597232,
-    "wof:geomhash":"3ee18da9b8ec7fcd4e6f95d8df485e86",
+    "wof:geomhash":"536c329367b21cc9c5a294559fdf59d5",
     "wof:hierarchy":[],
     "wof:id":790600853,
-    "wof:lastmodified":1472630912,
+    "wof:lastmodified":1510941642,
     "wof:name":"AG Distributors",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        807198987
+    ],
     "wof:tags":[
         "farm",
         "supply"

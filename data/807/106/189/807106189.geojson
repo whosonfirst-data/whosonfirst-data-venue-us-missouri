@@ -7,13 +7,16 @@
     "addr:postcode":"63011",
     "addr:street":"Clarkson Rd Ste 101",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.585648,38.60289,-90.585648,38.60289",
     "geom:latitude":38.60289,
     "geom:longitude":-90.585648,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"317 Clarkson Rd Ste 101",
     "sg:city":"Ellisville",
     "sg:classifiers":[
@@ -65,7 +68,7 @@
     },
     "wof:country":"US",
     "wof:created":1462603796,
-    "wof:geomhash":"0278a4092ab89920dd415325c526dd1e",
+    "wof:geomhash":"ca28d3355294125724ca497575721d18",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -79,12 +82,14 @@
         }
     ],
     "wof:id":807106189,
-    "wof:lastmodified":1472630302,
+    "wof:lastmodified":1510944033,
     "wof:name":"H&R BLOCK",
     "wof:parent_id":85831197,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mo",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        806931679
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "return",

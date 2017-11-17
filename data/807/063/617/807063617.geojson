@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.576037,38.411303,-90.576037,38.411303",
     "geom:latitude":38.411303,
     "geom:longitude":-90.576037,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4641 Gravois Rd",
     "sg:city":"House Springs",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1462603398,
-    "wof:geomhash":"c8ae8eb8d2d565f4c4bb8bef9945f6ef",
+    "wof:geomhash":"5641f902df098edeb84a11efd319766c",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -58,13 +60,15 @@
         }
     ],
     "wof:id":807063617,
-    "wof:lastmodified":1472630284,
+    "wof:lastmodified":1510942846,
     "wof:name":"Sonic",
     "wof:parent_id":85817237,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        789600215
+    ],
     "wof:tags":[
         "burger",
         "american"

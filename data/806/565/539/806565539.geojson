@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.3283,38.93759,-92.3283,38.93759",
     "geom:latitude":38.93759,
     "geom:longitude":-92.3283,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1 Hospital Dr",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -54,7 +56,7 @@
     },
     "wof:country":"US",
     "wof:created":1462599171,
-    "wof:geomhash":"bbf31a2553024a61f48cc5393e4f95d1",
+    "wof:geomhash":"3e0a893fd11436d4b64b69a22341eb08",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,13 +70,15 @@
         }
     ],
     "wof:id":806565539,
-    "wof:lastmodified":1472630397,
+    "wof:lastmodified":1510942602,
     "wof:name":"University Hospital & Clinics",
     "wof:parent_id":85835171,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        202594569
+    ],
     "wof:tags":[
         "physician",
         "surgeon",

@@ -7,13 +7,16 @@
     "addr:postcode":"63102",
     "addr:street":"N 2Nd St Ste 220",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.184601,38.630501,-90.184601,38.630501",
     "geom:latitude":38.630501,
     "geom:longitude":-90.184601,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"707 N 2nd St Ste 220",
     "sg:city":"Saint Louis",
     "sg:classifiers":[
@@ -44,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1462604095,
-    "wof:geomhash":"616cf667c9d4da06942f389a124e9b41",
+    "wof:geomhash":"7dc6c814ba4620ee29ac9c7130770685",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,12 +61,14 @@
         }
     ],
     "wof:id":807134177,
-    "wof:lastmodified":1472630377,
+    "wof:lastmodified":1510942698,
     "wof:name":"Gared Sports Inc",
     "wof:parent_id":85873643,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mo",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        773180971
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

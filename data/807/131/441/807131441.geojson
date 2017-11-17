@@ -7,13 +7,16 @@
     "addr:postcode":"63101",
     "addr:street":"Locust St Ste 735",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.194387,38.630094,-90.194387,38.630094",
     "geom:latitude":38.630094,
     "geom:longitude":-90.194387,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1015 Locust St Ste 735",
     "sg:city":"Saint Louis",
     "sg:classifiers":[
@@ -43,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1462604065,
-    "wof:geomhash":"c49ec04b9c59ac0bc411cfe9628eaa13",
+    "wof:geomhash":"b94dffafcabbb5104d7d3c792a6364d5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,12 +60,14 @@
         }
     ],
     "wof:id":807131441,
-    "wof:lastmodified":1472630394,
+    "wof:lastmodified":1510942267,
     "wof:name":"Smuda Cynthia",
     "wof:parent_id":85873643,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mo",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        773355943
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

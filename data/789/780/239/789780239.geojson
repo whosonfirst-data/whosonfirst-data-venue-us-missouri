@@ -7,13 +7,16 @@
     "addr:postcode":"63141",
     "addr:street":"N New Ballas Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.443396,38.667803,-90.443396,38.667803",
     "geom:latitude":38.667803,
     "geom:longitude":-90.443396,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"677 N New Ballas Rd",
     "sg:city":"Saint Louis",
     "sg:classifiers":[
@@ -47,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1462590481,
-    "wof:geomhash":"bed60e2ab03204d96b0462554ab309dc",
+    "wof:geomhash":"484ae4b150279be7838f7561cccce222",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,12 +64,14 @@
         }
     ],
     "wof:id":789780239,
-    "wof:lastmodified":1472630525,
+    "wof:lastmodified":1510943901,
     "wof:name":"Sbh Inc",
     "wof:parent_id":85805719,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mo",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        773572049
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "nonphysical",

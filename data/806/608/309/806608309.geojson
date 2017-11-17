@@ -7,13 +7,16 @@
     "addr:postcode":"65803",
     "addr:street":"N State Hwy H",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.264758,37.261245,-93.264758,37.261245",
     "geom:latitude":37.261245,
     "geom:longitude":-93.264758,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3550 N State Hwy H",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -49,7 +52,7 @@
     },
     "wof:country":"US",
     "wof:created":1462599553,
-    "wof:geomhash":"dc38bf0792f7caa49a65afee687fd79f",
+    "wof:geomhash":"9f7e5fbed67643328c2609490b89ebda",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -61,12 +64,14 @@
         }
     ],
     "wof:id":806608309,
-    "wof:lastmodified":1472630441,
+    "wof:lastmodified":1510942553,
     "wof:name":"Dollar General",
     "wof:parent_id":85881137,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mo",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        807308681
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"

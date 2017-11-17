@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.530554,37.097473,-94.530554,37.097473",
     "geom:latitude":37.097473,
     "geom:longitude":-94.530554,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"720 N Maiden Ln",
     "sg:city":"Joplin",
     "sg:classifiers":[],
@@ -36,7 +38,7 @@
     },
     "wof:country":"US",
     "wof:created":1462605203,
-    "wof:geomhash":"44a83e8097c6cc5824a2d4fccbff84d6",
+    "wof:geomhash":"3a7ea8830b24f6e5c1e4f7c4d71b356c",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -48,13 +50,15 @@
         }
     ],
     "wof:id":807239279,
-    "wof:lastmodified":1472630525,
+    "wof:lastmodified":1510942339,
     "wof:name":"SONIC Drive-In",
     "wof:parent_id":85810925,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        807087209
+    ],
     "wof:tags":[]
 },
   "bbox": [

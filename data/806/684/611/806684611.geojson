@@ -7,13 +7,16 @@
     "addr:postcode":"64804",
     "addr:street":"E 20Th St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.495194,37.069207,-94.495194,37.069207",
     "geom:latitude":37.069207,
     "geom:longitude":-94.495194,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1820 E 20th St",
     "sg:city":"Joplin",
     "sg:classifiers":[
@@ -38,15 +41,17 @@
     },
     "wof:country":"US",
     "wof:created":1462600209,
-    "wof:geomhash":"bdc488af6db8cbe2aef4c55c4a967e10",
+    "wof:geomhash":"f6b249ba4c202fe0b85a51e33f41e9b5",
     "wof:hierarchy":[],
     "wof:id":806684611,
-    "wof:lastmodified":1472630570,
+    "wof:lastmodified":1510943421,
     "wof:name":"Sek Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mo",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        773822059
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"

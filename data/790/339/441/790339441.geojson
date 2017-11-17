@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.679015,39.187722,-94.679015,39.187722",
     "geom:latitude":39.187722,
     "geom:longitude":-94.679015,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"8500 NW River Park Dr",
     "sg:city":"Kansas City",
     "sg:classifiers":[
@@ -53,7 +55,7 @@
     },
     "wof:country":"US",
     "wof:created":1462595056,
-    "wof:geomhash":"056172cd0ee70cd68bc34e1f1129b12f",
+    "wof:geomhash":"6814195fae68ebf9b2d01007a44a1993",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -67,13 +69,15 @@
         }
     ],
     "wof:id":790339441,
-    "wof:lastmodified":1472630829,
+    "wof:lastmodified":1510943846,
     "wof:name":"Wattmaster Controls Inc",
     "wof:parent_id":85840629,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        807225229
+    ],
     "wof:tags":[
         "control",
         "environmental",

@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.297541,38.807516,-90.297541,38.807516",
     "geom:latitude":38.807516,
     "geom:longitude":-90.297541,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3209 Cross Keys Dr",
     "sg:city":"Florissant",
     "sg:classifiers":[
@@ -47,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1462595224,
-    "wof:geomhash":"587a59f817a5d3cf3bddb5777345c7bf",
+    "wof:geomhash":"825f4b6673f1829f427cb22aca8dc91e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,13 +63,15 @@
         }
     ],
     "wof:id":790360049,
-    "wof:lastmodified":1472630810,
+    "wof:lastmodified":1510941336,
     "wof:name":"Cross Keys Apartments",
     "wof:parent_id":85813019,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        807118931
+    ],
     "wof:tags":[
         "building",
         "apartment"

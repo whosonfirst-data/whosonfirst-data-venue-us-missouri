@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.183304,38.630497,-90.183304,38.630497",
     "geom:latitude":38.630497,
     "geom:longitude":-90.183304,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"727 N 1st St",
     "sg:city":"St Louis",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1462595052,
-    "wof:geomhash":"74077e2fc08de8dd67201f39f5cfc0cf",
+    "wof:geomhash":"d4d65058f600c32371d8cff7e06dc45e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,13 +62,15 @@
         }
     ],
     "wof:id":790338795,
-    "wof:lastmodified":1472630842,
+    "wof:lastmodified":1510942165,
     "wof:name":"STV Inc",
     "wof:parent_id":85873643,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        806496991
+    ],
     "wof:tags":[
         "architectural"
     ]

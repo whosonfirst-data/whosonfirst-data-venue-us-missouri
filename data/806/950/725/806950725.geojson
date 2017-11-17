@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.184517,38.630818,-90.184517,38.630818",
     "geom:latitude":38.630818,
     "geom:longitude":-90.184517,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"707 N 2nd St",
     "sg:city":"St Louis",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1462602445,
-    "wof:geomhash":"12a2517d3053f1117eebc6be263e857c",
+    "wof:geomhash":"0e51fa80bcebeb040d2c6a5c276d736d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,13 +62,15 @@
         }
     ],
     "wof:id":806950725,
-    "wof:lastmodified":1472630764,
+    "wof:lastmodified":1510943571,
     "wof:name":"Camco Inc",
     "wof:parent_id":85873643,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        807134935
+    ],
     "wof:tags":[
         "apartment"
     ]

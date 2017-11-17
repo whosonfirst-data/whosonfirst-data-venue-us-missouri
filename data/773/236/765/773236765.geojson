@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.413834,39.04463,-94.413834,39.04463",
     "geom:latitude":39.04463,
     "geom:longitude":-94.413834,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"14001 E 42 St S",
     "sg:city":"Independence",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1462584193,
-    "wof:geomhash":"5a0e7f865546b2538040af648cf3c154",
+    "wof:geomhash":"448c2e51e0584ddb74fad524811d0098",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,13 +62,15 @@
         }
     ],
     "wof:id":773236765,
-    "wof:lastmodified":1472630942,
+    "wof:lastmodified":1510942581,
     "wof:name":"Burger King",
     "wof:parent_id":85871965,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        807077707
+    ],
     "wof:tags":[
         "eating"
     ]

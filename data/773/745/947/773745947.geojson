@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.517066,38.642235,-90.517066,38.642235",
     "geom:latitude":38.642235,
     "geom:longitude":-90.517066,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1585 Woodlake Dr",
     "sg:city":"Chesterfield",
     "sg:classifiers":[
@@ -47,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1462588069,
-    "wof:geomhash":"2b5f4a2deef7eeeacb51515f43fc3c6d",
+    "wof:geomhash":"87a8760fcaab7e807438fdd791651b59",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,13 +63,15 @@
         }
     ],
     "wof:id":773745947,
-    "wof:lastmodified":1472631123,
+    "wof:lastmodified":1510942308,
     "wof:name":"Health Key Beacon",
     "wof:parent_id":85831197,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        186116195
+    ],
     "wof:tags":[
         "physician",
         "surgeon"

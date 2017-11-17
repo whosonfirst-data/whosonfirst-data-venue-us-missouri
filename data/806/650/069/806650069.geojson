@@ -7,13 +7,16 @@
     "addr:postcode":"63011",
     "addr:street":"Manchester Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.565614,38.59283,-90.565614,38.59283",
     "geom:latitude":38.59283,
     "geom:longitude":-90.565614,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"15425 Manchester Rd",
     "sg:city":"Ballwin",
     "sg:classifiers":[
@@ -43,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1462599906,
-    "wof:geomhash":"8b789328160279534ef08faf9d5b9633",
+    "wof:geomhash":"91f64970e9ac9dea48b52ce1ffeba5db",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,13 +60,17 @@
         }
     ],
     "wof:id":806650069,
-    "wof:lastmodified":1472630534,
+    "wof:lastmodified":1510943317,
     "wof:name":"AAA Insurance",
     "wof:parent_id":85831197,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mo",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        186103103
+    ],
+    "wof:supersedes":[
+        186103103
+    ],
     "wof:tags":[]
 },
   "bbox": [

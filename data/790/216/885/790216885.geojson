@@ -7,13 +7,16 @@
     "addr:postcode":"64012",
     "addr:street":"N Scott Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.534444,38.819286,-94.534444,38.819286",
     "geom:latitude":38.819286,
     "geom:longitude":-94.534444,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"347 N Scott Ave",
     "sg:city":"Belton",
     "sg:classifiers":[
@@ -38,15 +41,17 @@
     },
     "wof:country":"US",
     "wof:created":1462594082,
-    "wof:geomhash":"1460c3ea28bc5fb0d4a8dcb07ec02cb0",
+    "wof:geomhash":"6fafa69652c09ad0436f0ca71c661138",
     "wof:hierarchy":[],
     "wof:id":790216885,
-    "wof:lastmodified":1472630489,
+    "wof:lastmodified":1510943689,
     "wof:name":"Family Cabin Restaurant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mo",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        807206315
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"

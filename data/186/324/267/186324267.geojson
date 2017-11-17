@@ -7,13 +7,16 @@
     "addr:postcode":"63110",
     "addr:street":"Parkview Pl",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.2631,38.638,-90.2631,38.638",
     "geom:latitude":38.638,
     "geom:longitude":-90.2631,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"4921 Parkview Pl",
     "sg:city":"Saint Louis",
     "sg:classifiers":[
@@ -44,7 +47,7 @@
         "sg:id":"SG_4huA3OidPMP2JpYyttuL8d_38.638000_-90.263100@1303262928"
     },
     "wof:country":"US",
-    "wof:geomhash":"6514f1ce1284acb25d501526eb17f090",
+    "wof:geomhash":"05cce4535d91ca82c44a8f87794c7ad9",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -57,12 +60,14 @@
         }
     ],
     "wof:id":186324267,
-    "wof:lastmodified":1472630739,
+    "wof:lastmodified":1510941479,
     "wof:name":"Barnes Retina Institute",
     "wof:parent_id":85867031,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mo",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        806898023
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "ophthalmologist"

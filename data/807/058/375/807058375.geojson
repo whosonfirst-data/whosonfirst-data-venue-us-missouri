@@ -7,13 +7,16 @@
     "addr:postcode":"63010",
     "addr:street":"Richardson Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.382849,38.411075,-90.382849,38.411075",
     "geom:latitude":38.411075,
     "geom:longitude":-90.382849,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1907 Richardson Rd",
     "sg:city":"Arnold",
     "sg:classifiers":[
@@ -45,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1462603358,
-    "wof:geomhash":"02923e75d741320ce33f390d2af06855",
+    "wof:geomhash":"705bc30edb7070f23bfb50b6b6288028",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -56,12 +59,14 @@
         }
     ],
     "wof:id":807058375,
-    "wof:lastmodified":1472630281,
+    "wof:lastmodified":1510943033,
     "wof:name":"Sonic",
     "wof:parent_id":85805175,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mo",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        773390429
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "burger",

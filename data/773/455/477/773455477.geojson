@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.27794,37.1444,-93.27794,37.1444",
     "geom:latitude":37.1444,
     "geom:longitude":-93.27794,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3801 S National Ave",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -43,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1462585880,
-    "wof:geomhash":"16d7489310434944c3f88384099c716e",
+    "wof:geomhash":"91dd35f879cf0329cc9bd94c66197b77",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,13 +59,15 @@
         }
     ],
     "wof:id":773455477,
-    "wof:lastmodified":1472630992,
+    "wof:lastmodified":1510944017,
     "wof:name":"Cox Medical Center-South",
     "wof:parent_id":85881149,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        789822499
+    ],
     "wof:tags":[]
 },
   "bbox": [

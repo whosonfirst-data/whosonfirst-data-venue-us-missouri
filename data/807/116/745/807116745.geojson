@@ -7,13 +7,16 @@
     "addr:postcode":"63028",
     "addr:street":"S Truman Blvd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.393123,38.210447,-90.393123,38.210447",
     "geom:latitude":38.210447,
     "geom:longitude":-90.393123,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"700 S Truman Blvd",
     "sg:city":"Festus",
     "sg:classifiers":[],
@@ -37,7 +40,7 @@
     },
     "wof:country":"US",
     "wof:created":1462603906,
-    "wof:geomhash":"e9b5a8ab49e3b29fe18fa855158907bc",
+    "wof:geomhash":"57f941000697d93045b2e16c25c81038",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,12 +54,14 @@
         }
     ],
     "wof:id":807116745,
-    "wof:lastmodified":1472630343,
+    "wof:lastmodified":1510943390,
     "wof:name":"Aldi",
     "wof:parent_id":420525375,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mo",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        806820911
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
