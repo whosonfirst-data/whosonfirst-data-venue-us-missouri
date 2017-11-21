@@ -1,0 +1,79 @@
+{
+  "id": 186250683,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"200 N Broadway Ste 700 Saint Louis MO 63102",
+    "addr:housenumber":"200",
+    "addr:postcode":"63102",
+    "addr:street":"N Broadway Ste 700",
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-90.189127,38.627714,-90.189127,38.627714",
+    "geom:latitude":38.627714,
+    "geom:longitude":-90.189127,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "sg:address":"200 N Broadway Ste 700",
+    "sg:city":"Saint Louis",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 421 5364",
+    "sg:postcode":"63102",
+    "sg:province":"MO",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688697,
+        85633793,
+        85940677,
+        102084321,
+        85867033
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4qi9ycUVYf7C1aG4Ml4nZ0_38.626999_-90.189400@1303262927"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1e1afa6b655efe95891ce19bf1b1471a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084321,
+            "locality_id":85940677,
+            "neighbourhood_id":85867033,
+            "region_id":85688697,
+            "venue_id":186250683
+        }
+    ],
+    "wof:id":186250683,
+    "wof:lastmodified":1510814018,
+    "wof:name":"Moser & Marsalek",
+    "wof:parent_id":85867033,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
+    "wof:superseded_by":[
+        789948859
+    ],
+    "wof:supersedes":[
+        186250683
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.189127,
+    38.627714,
+    -90.189127,
+    38.627714
+],
+  "geometry": {"coordinates":[-90.189127,38.627714],"type":"Point"}
+}

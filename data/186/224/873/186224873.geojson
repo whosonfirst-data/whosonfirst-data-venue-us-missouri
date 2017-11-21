@@ -1,0 +1,79 @@
+{
+  "id": 186224873,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"1010 Market St Ste 1440 Saint Louis MO 63101",
+    "addr:housenumber":"1010",
+    "addr:postcode":"63101",
+    "addr:street":"Market St Ste 1440",
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-90.195545,38.626774,-90.195545,38.626774",
+    "geom:latitude":38.626774,
+    "geom:longitude":-90.195545,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "sg:address":"1010 Market St Ste 1440",
+    "sg:city":"Saint Louis",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 621 1775",
+    "sg:postcode":"63101",
+    "sg:province":"MO",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688697,
+        85633793,
+        85940677,
+        102084321,
+        85867033
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_25EIAnN6XFwXnjJVHw103t_38.626999_-90.196297@1303262926"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c4d81bd50b4f356c4429ad358f736f61",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084321,
+            "locality_id":85940677,
+            "neighbourhood_id":85867033,
+            "region_id":85688697,
+            "venue_id":186224873
+        }
+    ],
+    "wof:id":186224873,
+    "wof:lastmodified":1510813358,
+    "wof:name":"Holloran Wendt & McMath",
+    "wof:parent_id":85867033,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
+    "wof:superseded_by":[
+        773697667
+    ],
+    "wof:supersedes":[
+        186224873
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.195545,
+    38.626774,
+    -90.195545,
+    38.626774
+],
+  "geometry": {"coordinates":[-90.195545,38.626774],"type":"Point"}
+}

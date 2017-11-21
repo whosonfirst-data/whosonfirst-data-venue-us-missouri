@@ -1,0 +1,88 @@
+{
+  "id": 840592463,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"2300 Main St Kansas City KS 64108",
+    "addr:housenumber":"2300",
+    "addr:postcode":"64108",
+    "addr:street":"Main St",
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-94.583859,39.086985,-94.583859,39.086985",
+    "geom:latitude":39.086985,
+    "geom:longitude":-94.583859,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "sg:address":"2300 Main St",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 983 8148",
+    "sg:postcode":"64108",
+    "sg:province":"KS",
+    "sg:tags":[
+        "attorney"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872011,
+        102191575,
+        404518075,
+        85633793,
+        85970739,
+        102081227,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6btZOW4mFdyq8LpYAcbg4G_39.086985_-94.583859@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464043479,
+    "wof:geomhash":"267eeb2b0164a84bcb5bf891fd605983",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081227,
+            "localadmin_id":404518075,
+            "locality_id":85970739,
+            "neighbourhood_id":85872011,
+            "region_id":85688661,
+            "venue_id":840592463
+        }
+    ],
+    "wof:id":840592463,
+    "wof:lastmodified":1510813851,
+    "wof:name":"Mark D Welker",
+    "wof:parent_id":85872011,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
+    "wof:superseded_by":[
+        789823667
+    ],
+    "wof:supersedes":[
+        840592463
+    ],
+    "wof:tags":[
+        "attorney"
+    ]
+},
+  "bbox": [
+    -94.583859,
+    39.086985,
+    -94.583859,
+    39.086985
+],
+  "geometry": {"coordinates":[-94.583859,39.086985],"type":"Point"}
+}

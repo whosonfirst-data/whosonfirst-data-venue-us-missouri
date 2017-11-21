@@ -1,0 +1,79 @@
+{
+  "id": 186225143,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"515 N 6th St Saint Louis MO 63101",
+    "addr:housenumber":"515",
+    "addr:postcode":"63101",
+    "addr:street":"N 6Th St",
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-90.189499,38.6297,-90.189499,38.6297",
+    "geom:latitude":38.6297,
+    "geom:longitude":-90.189499,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "sg:address":"515 N 6th St",
+    "sg:city":"Saint Louis",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Mobile Phones",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 421 6600",
+    "sg:postcode":"63101",
+    "sg:province":"MO",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688697,
+        85633793,
+        85940677,
+        102084321,
+        85867033
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4GudLNT6lyF2QkQDhEuD0h_38.629700_-90.189499@1303262926"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7a15167503ac2872ae8c19b5ea900dca",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084321,
+            "locality_id":85940677,
+            "neighbourhood_id":85867033,
+            "region_id":85688697,
+            "venue_id":186225143
+        }
+    ],
+    "wof:id":186225143,
+    "wof:lastmodified":1510813749,
+    "wof:name":"T Mobile",
+    "wof:parent_id":85867033,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
+    "wof:superseded_by":[
+        807016827
+    ],
+    "wof:supersedes":[
+        186225143
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.189499,
+    38.6297,
+    -90.189499,
+    38.6297
+],
+  "geometry": {"coordinates":[-90.189499,38.6297],"type":"Point"}
+}

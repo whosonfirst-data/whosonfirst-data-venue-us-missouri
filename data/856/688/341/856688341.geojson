@@ -1,0 +1,88 @@
+{
+  "id": 856688341,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"930 Carondelet Dr W Kansas City KS 64114",
+    "addr:housenumber":"930",
+    "addr:postcode":"64114",
+    "addr:street":"Carondelet Dr W",
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-94.605036,38.935354,-94.605036,38.935354",
+    "geom:latitude":38.935354,
+    "geom:longitude":-94.605036,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "sg:address":"930 Carondelet Dr W",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 943 2229",
+    "sg:postcode":"64114",
+    "sg:province":"KS",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85813397,
+        102191575,
+        404518075,
+        85633793,
+        85970739,
+        102081227,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5LFS1jJpJ0su11x1r2xrLx_38.935354_-94.605036@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464051835,
+    "wof:geomhash":"5c1861a97a7eee023ab31c3826e48266",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081227,
+            "localadmin_id":404518075,
+            "locality_id":85970739,
+            "neighbourhood_id":85813397,
+            "region_id":85688661,
+            "venue_id":856688341
+        }
+    ],
+    "wof:id":856688341,
+    "wof:lastmodified":1510814128,
+    "wof:name":"Eaton Paula L",
+    "wof:parent_id":85813397,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
+    "wof:superseded_by":[
+        790375649
+    ],
+    "wof:supersedes":[
+        856688341
+    ],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -94.605036,
+    38.935354,
+    -94.605036,
+    38.935354
+],
+  "geometry": {"coordinates":[-94.605036,38.935354],"type":"Point"}
+}

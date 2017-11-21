@@ -1,0 +1,84 @@
+{
+  "id": 186216207,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"705 Olive St Saint Louis MO 63101",
+    "addr:housenumber":"705",
+    "addr:postcode":"63101",
+    "addr:street":"Olive St",
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-90.192226,38.628561,-90.192226,38.628561",
+    "geom:latitude":38.628561,
+    "geom:longitude":-90.192226,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "sg:address":"705 Olive St",
+    "sg:city":"Saint Louis",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Accounting & Tax Preparation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 314 655 5504",
+    "sg:postcode":"63101",
+    "sg:province":"MO",
+    "sg:tags":[
+        "accountant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688697,
+        85633793,
+        85940677,
+        102084321,
+        85867033
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7KJvzpqteOesVE8XqUnRKp_38.628300_-90.191299@1303262926"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d016926c86170576f2d57737095653cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084321,
+            "locality_id":85940677,
+            "neighbourhood_id":85867033,
+            "region_id":85688697,
+            "venue_id":186216207
+        }
+    ],
+    "wof:id":186216207,
+    "wof:lastmodified":1510813212,
+    "wof:name":"Amd Financial Services Llc",
+    "wof:parent_id":85867033,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-il",
+    "wof:superseded_by":[
+        806486667
+    ],
+    "wof:supersedes":[
+        186216207
+    ],
+    "wof:tags":[
+        "accountant"
+    ]
+},
+  "bbox": [
+    -90.192226,
+    38.628561,
+    -90.192226,
+    38.628561
+],
+  "geometry": {"coordinates":[-90.19222600000001,38.628561],"type":"Point"}
+}

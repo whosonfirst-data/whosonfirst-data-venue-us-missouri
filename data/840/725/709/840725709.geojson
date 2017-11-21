@@ -1,0 +1,83 @@
+{
+  "id": 840725709,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"650 E 25 St Kansas City KS 64108",
+    "addr:housenumber":"650;25",
+    "addr:postcode":"64108",
+    "addr:street":"E;St",
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-94.576444,39.08163,-94.576444,39.08163",
+    "geom:latitude":39.08163,
+    "geom:longitude":-94.576444,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "sg:address":"650 E 25 St",
+    "sg:city":"Kansas City",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"College",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 816 235 2100",
+    "sg:postcode":"64108",
+    "sg:province":"KS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872019,
+        102191575,
+        404518075,
+        85633793,
+        85970739,
+        102081227,
+        85688661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Dlkp8qtWw1VFNXuREaRuI_39.081630_-94.576444@1294126544"
+    },
+    "wof:country":"US",
+    "wof:created":1464046631,
+    "wof:geomhash":"de4e30f10689959f585ee8267aafc60e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081227,
+            "localadmin_id":404518075,
+            "locality_id":85970739,
+            "neighbourhood_id":85872019,
+            "region_id":85688661,
+            "venue_id":840725709
+        }
+    ],
+    "wof:id":840725709,
+    "wof:lastmodified":1510813356,
+    "wof:name":"Umkc School of Dentistry",
+    "wof:parent_id":85872019,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ks",
+    "wof:superseded_by":[
+        806494521
+    ],
+    "wof:supersedes":[
+        840725709
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    -94.576444,
+    39.08163,
+    -94.576444,
+    39.08163
+],
+  "geometry": {"coordinates":[-94.576444,39.08163],"type":"Point"}
+}
