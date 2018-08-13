@@ -14,6 +14,7 @@
     "geom:longitude":-94.505457,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"932 E 34th St",
     "sg:city":"Joplin",
     "sg:classifiers":[
@@ -46,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1462588359,
-    "wof:geomhash":"11b2e97c2705ea05c43e44636cb2c4da",
+    "wof:geomhash":"e3ad87a2890d39779ac6da0dfd4f601b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,13 +61,15 @@
         }
     ],
     "wof:id":773785857,
-    "wof:lastmodified":1472631124,
+    "wof:lastmodified":1534189364,
     "wof:name":"Freeman Nephrology & Dialysis",
     "wof:parent_id":420525385,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        806403187
+    ],
     "wof:tags":[
         "clinic"
     ]

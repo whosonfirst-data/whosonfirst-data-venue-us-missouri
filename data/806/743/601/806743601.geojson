@@ -7,6 +7,7 @@
     "addr:postcode":"65804",
     "addr:street":"E Woodhurst Dr",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.27626,37.15777,-93.27626,37.15777",
@@ -14,6 +15,7 @@
     "geom:longitude":-93.27626,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1200 E Woodhurst Dr",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -49,7 +51,7 @@
     },
     "wof:country":"US",
     "wof:created":1462600707,
-    "wof:geomhash":"0c45282a0919933e591c8928c48ef1d5",
+    "wof:geomhash":"5794dbb0fadbb03722a9e7e50777fa06",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -63,12 +65,14 @@
         }
     ],
     "wof:id":806743601,
-    "wof:lastmodified":1472630589,
+    "wof:lastmodified":1534189353,
     "wof:name":"Jim Crumpley & Assoc",
     "wof:parent_id":85881149,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mo",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        789743967
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "consultant",

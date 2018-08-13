@@ -14,6 +14,7 @@
     "geom:longitude":-90.375753,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"9378 Olive Blvd",
     "sg:city":"St Louis",
     "sg:classifiers":[
@@ -46,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1462583999,
-    "wof:geomhash":"17735200cd6071357ba951be031468cd",
+    "wof:geomhash":"26c30332fefd06bc9e4f81108e514112",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,13 +61,15 @@
         }
     ],
     "wof:id":773210345,
-    "wof:lastmodified":1472630923,
+    "wof:lastmodified":1534189352,
     "wof:name":"GBA Appraisals Svc",
     "wof:parent_id":85803699,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        790529987
+    ],
     "wof:tags":[
         "appraiser"
     ]

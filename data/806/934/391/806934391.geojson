@@ -14,6 +14,7 @@
     "geom:longitude":-90.50678,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"224 S Woods Mill Rd",
     "sg:city":"Chesterfield",
     "sg:classifiers":[
@@ -46,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1462602308,
-    "wof:geomhash":"ba1a21f02954a8ffeda176db1a946d40",
+    "wof:geomhash":"755df76b940e5a2690c6c1af221ce5b8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,13 +61,15 @@
         }
     ],
     "wof:id":806934391,
-    "wof:lastmodified":1472630795,
+    "wof:lastmodified":1534189363,
     "wof:name":"Jerry N Middleton",
     "wof:parent_id":85802943,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        186115665
+    ],
     "wof:tags":[
         "medical"
     ]

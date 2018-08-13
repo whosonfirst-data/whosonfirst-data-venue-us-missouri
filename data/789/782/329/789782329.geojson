@@ -14,6 +14,7 @@
     "geom:longitude":-90.278376,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"9191 W Florissant Ave",
     "sg:city":"St Louis",
     "sg:classifiers":[
@@ -46,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1462590508,
-    "wof:geomhash":"c307c29aa490837a50b047e67d34cc5f",
+    "wof:geomhash":"c928866ed82f29ab120aa167919ffd32",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,13 +61,15 @@
         }
     ],
     "wof:id":789782329,
-    "wof:lastmodified":1472630531,
+    "wof:lastmodified":1534189354,
     "wof:name":"Need-A-Nurse",
     "wof:parent_id":85859027,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        773690053
+    ],
     "wof:tags":[
         "home"
     ]

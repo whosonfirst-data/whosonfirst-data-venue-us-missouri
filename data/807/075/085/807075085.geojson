@@ -7,6 +7,7 @@
     "addr:postcode":"63703",
     "addr:street":"S Kingshighway St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-89.552614,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"215 S Kingshighway St",
     "sg:city":"Cape Girardeau",
     "sg:classifiers":[
@@ -46,12 +47,14 @@
     "wof:geomhash":"6bc4bbe1b0aad355a969e18139aa7720",
     "wof:hierarchy":[],
     "wof:id":807075085,
-    "wof:lastmodified":1511321185,
+    "wof:lastmodified":1534189355,
     "wof:name":"Pizza Hut",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mo",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        790245589
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "american",

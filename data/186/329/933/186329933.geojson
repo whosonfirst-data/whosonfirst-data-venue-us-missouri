@@ -7,6 +7,7 @@
     "addr:postcode":"63110",
     "addr:street":"Childrens Pl",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.264015,38.637166,-90.264015,38.637166",
@@ -14,6 +15,7 @@
     "geom:longitude":-90.264015,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"4960 Childrens Pl",
     "sg:city":"Saint Louis",
     "sg:classifiers":[
@@ -40,7 +42,7 @@
         "sg:id":"SG_0wvGf94Sp92aI1HTHkPlyo_38.637166_-90.264015@1303262928"
     },
     "wof:country":"US",
-    "wof:geomhash":"88a28b97467500db998af89f34d65ea6",
+    "wof:geomhash":"e328e3c4ae175b3b3decd0710fdd6269",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +55,14 @@
         }
     ],
     "wof:id":186329933,
-    "wof:lastmodified":1472630752,
+    "wof:lastmodified":1534189354,
     "wof:name":"Fracasso Paula MD",
     "wof:parent_id":85867031,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mo",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        773276117
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

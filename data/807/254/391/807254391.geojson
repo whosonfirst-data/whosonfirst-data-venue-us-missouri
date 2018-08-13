@@ -2,18 +2,24 @@
   "id": 807254391,
   "type": "Feature",
   "properties": {
-    "addr:full":"608 Cherry St Columbia MO 65201",
+    "addr:city":"Columbia",
+    "addr:full":"608 Cherry St Columbia, Mo 65201",
+    "addr:house_number":"608",
     "addr:housenumber":"608",
+    "addr:phone":"+1 573-886-2006",
     "addr:postcode":"65201",
+    "addr:road":"Cherry St",
+    "addr:state":"MO",
     "addr:street":"Cherry St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-92.330715,38.950537,-92.330715,38.950537",
-    "geom:latitude":38.950537,
-    "geom:longitude":-92.330715,
+    "geom:bbox":"-92.33069,38.95042,-92.33069,38.95042",
+    "geom:latitude":38.95042,
+    "geom:longitude":-92.33069,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"608 Cherry St",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -27,7 +33,10 @@
     "sg:phone":"+1 573 886 2006",
     "sg:postcode":"65201",
     "sg:province":"MO",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102526469
+    ],
     "wof:belongsto":[
         85835171,
         102191575,
@@ -39,11 +48,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8402900007,
         "sg:id":"SG_71PuebH4DSx1d6IgPdlbji_38.950537_-92.330715@1303262935"
     },
     "wof:country":"US",
     "wof:created":1462605373,
-    "wof:geomhash":"9ada3774139e01671ad3029e3e7c5b1e",
+    "wof:geomhash":"dc2bad7d5b87e1c82a83a5f77de62da7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +67,7 @@
         }
     ],
     "wof:id":807254391,
-    "wof:lastmodified":1472630706,
+    "wof:lastmodified":1534189366,
     "wof:name":"Youzeum",
     "wof:parent_id":85835171,
     "wof:placetype":"venue",
@@ -67,10 +77,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -92.330715,
-    38.950537,
-    -92.330715,
-    38.950537
+    -92.33069,
+    38.95042,
+    -92.33069,
+    38.95042
 ],
-  "geometry": {"coordinates":[-92.330715,38.950537],"type":"Point"}
+  "geometry": {"coordinates":[-92.33069,38.95042],"type":"Point"}
 }

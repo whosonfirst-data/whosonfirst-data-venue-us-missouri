@@ -2,18 +2,24 @@
   "id": 773128743,
   "type": "Feature",
   "properties": {
-    "addr:full":"914 Penn St St Joseph MO 64503",
+    "addr:city":"Saint Joseph",
+    "addr:full":"914 Penn St Saint Joseph, Mo 64053",
+    "addr:house_number":"914",
     "addr:housenumber":"914",
-    "addr:postcode":"64503",
+    "addr:phone":"+1 816-279-5059",
+    "addr:postcode":"64053",
+    "addr:road":"Penn St",
+    "addr:state":"MO",
     "addr:street":"Penn St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-94.848657,39.756219,-94.848657,39.756219",
-    "geom:latitude":39.756219,
-    "geom:longitude":-94.848657,
+    "geom:bbox":"-94.84912,39.7562,-94.84912,39.7562",
+    "geom:latitude":39.7562,
+    "geom:longitude":-94.84912,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"914 Penn St",
     "sg:city":"St Joseph",
     "sg:classifiers":[
@@ -31,18 +37,20 @@
         "gallery"
     ],
     "sg:website":"www.ponyexpress.org",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[],
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8402900133,
         "sg:id":"SG_2L4GL743B8aVHxGE4DkHWw_39.756219_-94.848657@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462583352,
-    "wof:geomhash":"b71d41c437f33747636ba23748917cc3",
+    "wof:geomhash":"a78e9aabf21a7e7b6eae753d588f9bc6",
     "wof:hierarchy":[],
     "wof:id":773128743,
-    "wof:lastmodified":1472630519,
+    "wof:lastmodified":1534189366,
     "wof:name":"Pony Express Museum",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -54,10 +62,10 @@
     ]
 },
   "bbox": [
-    -94.848657,
-    39.756219,
-    -94.848657,
-    39.756219
+    -94.84912,
+    39.7562,
+    -94.84912,
+    39.7562
 ],
-  "geometry": {"coordinates":[-94.848657,39.756219],"type":"Point"}
+  "geometry": {"coordinates":[-94.84912,39.7562],"type":"Point"}
 }

@@ -7,6 +7,7 @@
     "addr:postcode":"64106",
     "addr:street":"E;St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.578696,39.101031,-94.578696,39.101031",
@@ -14,6 +15,7 @@
     "geom:longitude":-94.578696,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"324 E 11 St",
     "sg:city":"Kansas City",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1462584404,
-    "wof:geomhash":"108f4a08a2ad7a7c6d467a99194994b8",
+    "wof:geomhash":"44105f9201ea27e70e9414fdbe33e8fc",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,12 +62,14 @@
         }
     ],
     "wof:id":773265899,
-    "wof:lastmodified":1472631008,
+    "wof:lastmodified":1534189356,
     "wof:name":"John R Meacham Law Office",
     "wof:parent_id":85867019,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mo",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        773346455
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"

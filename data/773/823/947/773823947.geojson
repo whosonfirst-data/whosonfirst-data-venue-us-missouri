@@ -2,18 +2,24 @@
   "id": 773823947,
   "type": "Feature",
   "properties": {
-    "addr:full":"421 N Main St Poplar Bluff MO 63901",
+    "addr:city":"Poplar Bluff",
+    "addr:full":"421 North Main Street Poplar Bluff, Mo 63901",
+    "addr:house_number":"421",
     "addr:housenumber":"421",
+    "addr:phone":"+1 573-686-8002",
     "addr:postcode":"63901",
+    "addr:road":"North Main Street",
+    "addr:state":"MO",
     "addr:street":"N Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-90.393779,36.759988,-90.393779,36.759988",
-    "geom:latitude":36.759988,
-    "geom:longitude":-90.393779,
+    "geom:bbox":"-90.39406,36.76024,-90.39406,36.76024",
+    "geom:latitude":36.76024,
+    "geom:longitude":-90.39406,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"421 N Main St",
     "sg:city":"Poplar Bluff",
     "sg:classifiers":[
@@ -30,18 +36,20 @@
     "sg:tags":[
         "gallery"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[],
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8402900040,
         "sg:id":"SG_2qKGnIJZLgI5EE6LzAUWSq_36.759988_-90.393779@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462588664,
-    "wof:geomhash":"8320b11659a9fb2d8f1224b479852cfc",
+    "wof:geomhash":"95c53daaf60c24b7549fb3f9f77342ce",
     "wof:hierarchy":[],
     "wof:id":773823947,
-    "wof:lastmodified":1472631138,
+    "wof:lastmodified":1534189367,
     "wof:name":"Margaret Harwell Art Museum",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -53,10 +61,10 @@
     ]
 },
   "bbox": [
-    -90.393779,
-    36.759988,
-    -90.393779,
-    36.759988
+    -90.39406,
+    36.76024,
+    -90.39406,
+    36.76024
 ],
-  "geometry": {"coordinates":[-90.39377899999999,36.759988],"type":"Point"}
+  "geometry": {"coordinates":[-90.39406,36.76024],"type":"Point"}
 }

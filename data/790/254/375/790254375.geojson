@@ -2,18 +2,24 @@
   "id": 790254375,
   "type": "Feature",
   "properties": {
-    "addr:full":"119 Pine St Lathrop MO 64465",
+    "addr:city":"Lathrop",
+    "addr:full":"119 Pine St Lathrop, Mo 64465-9751",
+    "addr:house_number":"119",
     "addr:housenumber":"119",
-    "addr:postcode":"64465",
+    "addr:phone":"+1 816-528-3020",
+    "addr:postcode":"64465-9751",
+    "addr:road":"Pine St",
+    "addr:state":"MO",
     "addr:street":"Pine St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-94.332074,39.556584,-94.332074,39.556584",
-    "geom:latitude":39.556584,
-    "geom:longitude":-94.332074,
+    "geom:bbox":"-94.3321,39.5547,-94.3321,39.5547",
+    "geom:latitude":39.5547,
+    "geom:longitude":-94.3321,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"119 Pine St",
     "sg:city":"Lathrop",
     "sg:classifiers":[
@@ -27,18 +33,20 @@
     "sg:phone":"+1 816 528 3020",
     "sg:postcode":"64465",
     "sg:province":"MO",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[],
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8402900521,
         "sg:id":"SG_5vb1TMHRz97t6EvSCn8SIQ_39.556584_-94.332074@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462594375,
-    "wof:geomhash":"261bee6848ceb3b2d487397a52c7a3b4",
+    "wof:geomhash":"354ddedf4e972e8952bf4cefd058ae85",
     "wof:hierarchy":[],
     "wof:id":790254375,
-    "wof:lastmodified":1472630530,
+    "wof:lastmodified":1534189355,
     "wof:name":"Library & Museum",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -48,10 +56,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -94.332074,
-    39.556584,
-    -94.332074,
-    39.556584
+    -94.3321,
+    39.5547,
+    -94.3321,
+    39.5547
 ],
-  "geometry": {"coordinates":[-94.33207400000001,39.556584],"type":"Point"}
+  "geometry": {"coordinates":[-94.3321,39.5547],"type":"Point"}
 }

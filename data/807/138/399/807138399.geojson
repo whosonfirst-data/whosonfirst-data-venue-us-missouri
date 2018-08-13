@@ -2,18 +2,24 @@
   "id": 807138399,
   "type": "Feature",
   "properties": {
-    "addr:full":"1854 Russell Blvd St Louis MO 63104",
+    "addr:city":"Saint Louis",
+    "addr:full":"1854 Russell Blvd Saint Louis, Mo 63104-3443",
+    "addr:house_number":"1854",
     "addr:housenumber":"1854",
-    "addr:postcode":"63104",
+    "addr:phone":"+1 314-441-2787",
+    "addr:postcode":"63104-3443",
+    "addr:road":"Russell Blvd",
+    "addr:state":"MO",
     "addr:street":"Russell Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-90.214127,38.608967,-90.214127,38.608967",
-    "geom:latitude":38.608967,
-    "geom:longitude":-90.214127,
+    "geom:bbox":"-90.2134,38.60867,-90.2134,38.60867",
+    "geom:latitude":38.60867,
+    "geom:longitude":-90.2134,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"1854 Russell Blvd",
     "sg:city":"St Louis",
     "sg:classifiers":[
@@ -28,7 +34,11 @@
     "sg:postcode":"63104",
     "sg:province":"MO",
     "sg:website":"www.belas-artes.net",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102525961,
+        102533437
+    ],
     "wof:belongsto":[
         85873675,
         102191575,
@@ -40,11 +50,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8402900169,
         "sg:id":"SG_4yGGGkf2HTEH02wMutkWDh_38.608967_-90.214127@1303262927"
     },
     "wof:country":"US",
     "wof:created":1462604144,
-    "wof:geomhash":"11b3b04864e6cf2d9458828307fa0d57",
+    "wof:geomhash":"756ade73c07a2a6f01773aa274fd0313",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,8 +69,8 @@
         }
     ],
     "wof:id":807138399,
-    "wof:lastmodified":1472630397,
-    "wof:name":"Belas Artes Multicultural Center",
+    "wof:lastmodified":1534189367,
+    "wof:name":"Belas Artes Multicultural Centerand Art Gallery",
     "wof:parent_id":85873675,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mo",
@@ -68,10 +79,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -90.214127,
-    38.608967,
-    -90.214127,
-    38.608967
+    -90.2134,
+    38.60867,
+    -90.2134,
+    38.60867
 ],
-  "geometry": {"coordinates":[-90.214127,38.608967],"type":"Point"}
+  "geometry": {"coordinates":[-90.21339999999999,38.60867],"type":"Point"}
 }

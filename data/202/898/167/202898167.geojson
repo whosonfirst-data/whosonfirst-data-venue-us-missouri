@@ -14,6 +14,7 @@
     "geom:longitude":-93.281934,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"901 E Saint Louis St",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -44,7 +45,7 @@
         "sg:id":"SG_6YN2pPWhA7JSKijhI2cptu_37.208874_-93.281934@1303262939"
     },
     "wof:country":"US",
-    "wof:geomhash":"8cc1989746896bb3f4d41116814546fc",
+    "wof:geomhash":"7ce3123ce4fac5a4b843311e710c95a4",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -57,13 +58,15 @@
         }
     ],
     "wof:id":202898167,
-    "wof:lastmodified":1472630745,
+    "wof:lastmodified":1534189365,
     "wof:name":"US Department of Labor",
     "wof:parent_id":85881125,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        773099069
+    ],
     "wof:tags":[
         "government-united",
         "state"

@@ -7,6 +7,7 @@
     "addr:postcode":"63330",
     "addr:street":"Hwy H Annada",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.852328,39.261323,-90.852328,39.261323",
@@ -14,6 +15,7 @@
     "geom:longitude":-90.852328,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"33024 Hwy H",
     "sg:city":"Annada",
     "sg:classifiers":[],
@@ -39,7 +41,7 @@
     },
     "wof:country":"US",
     "wof:created":1462603015,
-    "wof:geomhash":"20d0c7f23c73b632d36415ee97725eef",
+    "wof:geomhash":"bdfb2f33591f2df30d2964f29cd2a1ee",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -51,12 +53,14 @@
         }
     ],
     "wof:id":807018267,
-    "wof:lastmodified":1472630178,
+    "wof:lastmodified":1534189363,
     "wof:name":"Robert Burkemper",
     "wof:parent_id":85817909,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mo",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        807179195
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "farm",

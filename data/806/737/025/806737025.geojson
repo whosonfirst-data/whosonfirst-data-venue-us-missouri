@@ -14,6 +14,7 @@
     "geom:longitude":-94.550159,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2700 Clay Edwards Dr",
     "sg:city":"Kansas City",
     "sg:classifiers":[
@@ -46,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1462600655,
-    "wof:geomhash":"59d9b00ff4f9fe871702e2bd8b38f56c",
+    "wof:geomhash":"81e58eed704cde61c3c7828ac222a54f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,13 +61,15 @@
         }
     ],
     "wof:id":806737025,
-    "wof:lastmodified":1472630557,
+    "wof:lastmodified":1534189359,
     "wof:name":"John P Goodman DDS",
     "wof:parent_id":85867025,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        806665773
+    ],
     "wof:tags":[
         "dentist"
     ]

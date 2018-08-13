@@ -2,18 +2,24 @@
   "id": 790302613,
   "type": "Feature",
   "properties": {
-    "addr:full":"20755 Lamar Rd Weston MO 64098",
+    "addr:city":"Weston",
+    "addr:full":"20755 Lamar Rd Weston, Mo 64098",
+    "addr:house_number":"20755",
     "addr:housenumber":"20755",
+    "addr:phone":"+1 816-386-5587",
     "addr:postcode":"64098",
+    "addr:road":"Lamar Rd",
+    "addr:state":"MO",
     "addr:street":"Lamar Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-94.837557,39.468866,-94.837557,39.468866",
-    "geom:latitude":39.468866,
-    "geom:longitude":-94.837557,
+    "geom:bbox":"-94.84008,39.46875,-94.84008,39.46875",
+    "geom:latitude":39.46875,
+    "geom:longitude":-94.84008,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"20755 Lamar Rd",
     "sg:city":"Weston",
     "sg:classifiers":[
@@ -27,21 +33,26 @@
     "sg:phone":"+1 816 386 5587",
     "sg:postcode":"64098",
     "sg:province":"MO",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102526801,
+        102533051
+    ],
     "wof:belongsto":[
-        85688661,
+        85851839,
         85633793,
         85970739,
         102085271,
-        85851839
+        85688661
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8402900106,
         "sg:id":"SG_3Kzpagb1X64e1YwvhG23Jq_39.468866_-94.837557@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462594787,
-    "wof:geomhash":"5e4240a1d6600a4aa18a3e3e8bd9e95c",
+    "wof:geomhash":"b4116dea0a1861d1cbe8d88666d1007c",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +64,7 @@
         }
     ],
     "wof:id":790302613,
-    "wof:lastmodified":1472630771,
+    "wof:lastmodified":1534189356,
     "wof:name":"Bonnell Museum",
     "wof:parent_id":85851839,
     "wof:placetype":"venue",
@@ -63,10 +74,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -94.837557,
-    39.468866,
-    -94.837557,
-    39.468866
+    -94.84008,
+    39.46875,
+    -94.84008,
+    39.46875
 ],
-  "geometry": {"coordinates":[-94.837557,39.468866],"type":"Point"}
+  "geometry": {"coordinates":[-94.84008,39.46875],"type":"Point"}
 }

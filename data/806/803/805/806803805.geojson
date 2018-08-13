@@ -14,6 +14,7 @@
     "geom:longitude":-90.495984,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"831 Meramec Station Rd",
     "sg:city":"Valley Park",
     "sg:classifiers":[
@@ -47,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1462601219,
-    "wof:geomhash":"8b3965b2487d6911984e482c1e1e450d",
+    "wof:geomhash":"b8919de65c275237d3d7f29e9dc4f328",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,13 +62,15 @@
         }
     ],
     "wof:id":806803805,
-    "wof:lastmodified":1472630674,
+    "wof:lastmodified":1534189360,
     "wof:name":"PSMI Missouri",
     "wof:parent_id":85841473,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        773456115
+    ],
     "wof:tags":[
         "commercial",
         "storage"

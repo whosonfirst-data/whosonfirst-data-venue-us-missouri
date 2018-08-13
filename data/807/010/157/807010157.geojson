@@ -7,6 +7,7 @@
     "addr:postcode":"63139",
     "addr:street":"Oakland Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.287903,38.6311,-90.287903,38.6311",
@@ -14,6 +15,7 @@
     "geom:longitude":-90.287903,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"6150 Oakland Ave",
     "sg:city":"Saint Louis",
     "sg:classifiers":[
@@ -39,15 +41,17 @@
     },
     "wof:country":"US",
     "wof:created":1462602944,
-    "wof:geomhash":"3227704314b6996d8ce184c17b1f0a29",
+    "wof:geomhash":"a8e3922466e149e964e5554cea139e9e",
     "wof:hierarchy":[],
     "wof:id":807010157,
-    "wof:lastmodified":1472630175,
+    "wof:lastmodified":1534189361,
     "wof:name":"Medical Physics Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mo",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        773676617
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "ophthalmologist",

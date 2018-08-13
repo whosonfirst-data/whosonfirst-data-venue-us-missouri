@@ -7,6 +7,7 @@
     "addr:postcode":"64840",
     "addr:street":"E Market St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.306126,36.994811,-94.306126,36.994811",
@@ -14,6 +15,7 @@
     "geom:longitude":-94.306126,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"803 E Market St",
     "sg:city":"Diamond",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1462583389,
-    "wof:geomhash":"e51990899d921472147bbf446ec719d1",
+    "wof:geomhash":"61452811df17be50347124efc1fe0053",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,12 +62,14 @@
         }
     ],
     "wof:id":773133897,
-    "wof:lastmodified":1472630612,
+    "wof:lastmodified":1534189364,
     "wof:name":"Skunk River General Store",
     "wof:parent_id":85821247,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mo",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        807244431
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "merchandise"

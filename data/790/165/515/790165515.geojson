@@ -2,18 +2,24 @@
   "id": 790165515,
   "type": "Feature",
   "properties": {
-    "addr:full":"1050 S Riverside Dr Saint Charles MO 63301",
+    "addr:city":"Saint Charles",
+    "addr:full":"1050 S Riverside Dr Saint Charles, Mo 63301-3481",
+    "addr:house_number":"1050",
     "addr:housenumber":"1050",
-    "addr:postcode":"63301",
+    "addr:phone":"+1 636-947-3199",
+    "addr:postcode":"63301-3481",
+    "addr:road":"S Riverside Dr",
+    "addr:state":"MO",
     "addr:street":"S Riverside Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-90.484119,38.774077,-90.484119,38.774077",
-    "geom:latitude":38.774077,
-    "geom:longitude":-90.484119,
+    "geom:bbox":"-90.48413,38.77402,-90.48413,38.77402",
+    "geom:latitude":38.77402,
+    "geom:longitude":-90.48413,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"1050 S Riverside Dr",
     "sg:city":"Saint Charles",
     "sg:classifiers":[
@@ -31,21 +37,26 @@
         "club",
         "historical"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102525961,
+        102533513
+    ],
     "wof:belongsto":[
-        85688661,
+        85821097,
         85633793,
         85972039,
         102086159,
-        85821097
+        85688661
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8402900532,
         "sg:id":"SG_2dxCJifiTweSRNWtYj1z9Q_38.774077_-90.484119@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462593646,
-    "wof:geomhash":"6d805503b793f2bcbe463ec96721afba",
+    "wof:geomhash":"b1752a85e9ff3a917e346387981599a5",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -57,8 +68,8 @@
         }
     ],
     "wof:id":790165515,
-    "wof:lastmodified":1472630438,
-    "wof:name":"Discovery Expdtn of St Chrls M",
+    "wof:lastmodified":1534189353,
+    "wof:name":"Discovery Expedition Of St Charles Mo",
     "wof:parent_id":85821097,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mo",
@@ -70,10 +81,10 @@
     ]
 },
   "bbox": [
-    -90.484119,
-    38.774077,
-    -90.484119,
-    38.774077
+    -90.48413,
+    38.77402,
+    -90.48413,
+    38.77402
 ],
-  "geometry": {"coordinates":[-90.48411900000001,38.774077],"type":"Point"}
+  "geometry": {"coordinates":[-90.48412999999999,38.77402],"type":"Point"}
 }

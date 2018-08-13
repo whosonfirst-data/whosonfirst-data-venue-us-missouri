@@ -14,6 +14,7 @@
     "geom:longitude":-94.565682,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1734 E 63 St",
     "sg:city":"Kansas City",
     "sg:classifiers":[
@@ -46,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1462585428,
-    "wof:geomhash":"61e87dec9bf775c32753fbf89c2c2917",
+    "wof:geomhash":"11150ce2eaf69c2625036b7499c1748d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,13 +61,15 @@
         }
     ],
     "wof:id":773403839,
-    "wof:lastmodified":1472631003,
+    "wof:lastmodified":1534189358,
     "wof:name":"Roy King Jr Law Offices",
     "wof:parent_id":85867027,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        773439995
+    ],
     "wof:tags":[
         "attorney"
     ]

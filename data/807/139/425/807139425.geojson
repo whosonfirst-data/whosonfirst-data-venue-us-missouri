@@ -14,6 +14,7 @@
     "geom:longitude":-90.216599,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"716 Geyer Ave",
     "sg:city":"Saint Louis",
     "sg:classifiers":[
@@ -46,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1462604153,
-    "wof:geomhash":"2bc7054156b2392101a163269eab21ab",
+    "wof:geomhash":"4c5f78632c29b28504801d086494e31c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,13 +61,15 @@
         }
     ],
     "wof:id":807139425,
-    "wof:lastmodified":1472630393,
+    "wof:lastmodified":1534189361,
     "wof:name":"Fidelity Capital",
     "wof:parent_id":85873675,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        806679051
+    ],
     "wof:tags":[
         "investing"
     ]

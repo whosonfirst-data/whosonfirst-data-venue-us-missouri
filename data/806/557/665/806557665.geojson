@@ -7,6 +7,7 @@
     "addr:postcode":"63501",
     "addr:street":"W Jefferson St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.588484,40.192985,-92.588484,40.192985",
@@ -14,6 +15,7 @@
     "geom:longitude":-92.588484,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"800 W Jefferson St",
     "sg:city":"Kirksville",
     "sg:classifiers":[
@@ -35,15 +37,17 @@
     },
     "wof:country":"US",
     "wof:created":1462599097,
-    "wof:geomhash":"6891b95eadab0a37f6a16a900a4dc5d8",
+    "wof:geomhash":"7f28d3fe9a2350e721793752aa89b756",
     "wof:hierarchy":[],
     "wof:id":806557665,
-    "wof:lastmodified":1472630400,
+    "wof:lastmodified":1534189358,
     "wof:name":"Med Depot",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mo",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        806641903
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

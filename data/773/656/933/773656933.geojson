@@ -7,6 +7,7 @@
     "addr:postcode":"63105",
     "addr:street":"Bonhomme Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.335427,38.647405,-90.335427,38.647405",
@@ -14,6 +15,7 @@
     "geom:longitude":-90.335427,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"7777 Bonhomme Ave",
     "sg:city":"Saint Louis",
     "sg:classifiers":[
@@ -35,15 +37,17 @@
     },
     "wof:country":"US",
     "wof:created":1462587372,
-    "wof:geomhash":"7a7ac7dcf19ec18f57851f85114d1657",
+    "wof:geomhash":"9695dc61ce01814c40c788cfafcead10",
     "wof:hierarchy":[],
     "wof:id":773656933,
-    "wof:lastmodified":1472631087,
+    "wof:lastmodified":1534189364,
     "wof:name":"Belz & Hearns LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mo",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        806960047
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

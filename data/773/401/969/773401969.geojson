@@ -14,6 +14,7 @@
     "geom:longitude":-94.502515,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"705 Illinois Ave",
     "sg:city":"Joplin",
     "sg:classifiers":[
@@ -46,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1462585415,
-    "wof:geomhash":"391cbe683dd7d0cfa87b9ae1d5907ce5",
+    "wof:geomhash":"d72f1d67d027397e3afdda7767dbb95b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,13 +61,15 @@
         }
     ],
     "wof:id":773401969,
-    "wof:lastmodified":1472631005,
+    "wof:lastmodified":1534189358,
     "wof:name":"Conservation Dept",
     "wof:parent_id":85885363,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        773108941
+    ],
     "wof:tags":[
         "state"
     ]

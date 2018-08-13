@@ -7,6 +7,7 @@
     "addr:postcode":"64015",
     "addr:street":"Nw S Outer Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.288562,39.031465,-94.288562,39.031465",
@@ -14,6 +15,7 @@
     "geom:longitude":-94.288562,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3030 NW S Outer Rd",
     "sg:city":"Blue Springs",
     "sg:classifiers":[
@@ -48,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1462597413,
-    "wof:geomhash":"078e38606bbdcc1c0a60a14fb2575489",
+    "wof:geomhash":"cc370c7c855366d53033b63983b1ec44",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -62,12 +64,14 @@
         }
     ],
     "wof:id":790619959,
-    "wof:lastmodified":1472630907,
+    "wof:lastmodified":1534189364,
     "wof:name":"Mc Carthy Nissan",
     "wof:parent_id":85847737,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mo",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        773784177
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "car",

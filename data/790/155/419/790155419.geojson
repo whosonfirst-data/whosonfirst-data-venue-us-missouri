@@ -14,6 +14,7 @@
     "geom:longitude":-94.592087,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4400 Broadway St",
     "sg:city":"Kansas City",
     "sg:classifiers":[
@@ -46,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1462593554,
-    "wof:geomhash":"96b2a486aee411b720e92be849494b5b",
+    "wof:geomhash":"4ac0af95f5ddf65000bf06168ff12974",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,13 +61,15 @@
         }
     ],
     "wof:id":790155419,
-    "wof:lastmodified":1472630384,
+    "wof:lastmodified":1534189352,
     "wof:name":"Pediatrics Associates Inc",
     "wof:parent_id":85871985,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        790504953
+    ],
     "wof:tags":[
         "physician"
     ]

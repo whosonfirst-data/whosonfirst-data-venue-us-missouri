@@ -14,6 +14,7 @@
     "geom:longitude":-90.425348,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"533 Couch Ave",
     "sg:city":"Saint Louis",
     "sg:classifiers":[
@@ -46,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1462597668,
-    "wof:geomhash":"4660389e806258540b904f20e29a2b13",
+    "wof:geomhash":"3c65710d53a102a6b6d438022ce9d396",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,13 +61,15 @@
         }
     ],
     "wof:id":806379261,
-    "wof:lastmodified":1472630202,
+    "wof:lastmodified":1534189350,
     "wof:name":"Saha Dr Sdha R MD Gyncologist",
     "wof:parent_id":85858661,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        806696647
+    ],
     "wof:tags":[
         "medical"
     ]

@@ -14,6 +14,7 @@
     "geom:longitude":-90.45857,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"514 Earth City Plz",
     "sg:city":"Earth City",
     "sg:classifiers":[
@@ -44,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1462590862,
-    "wof:geomhash":"c67b82499c20304a0cb51ab60f82240f",
+    "wof:geomhash":"9b0e4cbabf17a0c2da74b2411a80de6a",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -56,13 +57,15 @@
         }
     ],
     "wof:id":789828653,
-    "wof:lastmodified":1472630671,
+    "wof:lastmodified":1534189355,
     "wof:name":"Datamark Inc",
     "wof:parent_id":85806637,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        806951255
+    ],
     "wof:tags":[
         "counselor"
     ]

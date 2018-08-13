@@ -14,6 +14,7 @@
     "geom:longitude":-93.289828,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"309 N Jefferson Ave",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -46,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1462598663,
-    "wof:geomhash":"d2980044c4c712cbf7f51eeeaf9f4df8",
+    "wof:geomhash":"32f296bb4e4b8f7ddab225bb78031692",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,13 +61,15 @@
         }
     ],
     "wof:id":806503685,
-    "wof:lastmodified":1472630346,
+    "wof:lastmodified":1534189353,
     "wof:name":"A-1 Resume Service",
     "wof:parent_id":85881119,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        790379097
+    ],
     "wof:tags":[
         "reporting"
     ]

@@ -14,6 +14,7 @@
     "geom:longitude":-90.302951,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"110 Church St",
     "sg:city":"Saint Louis",
     "sg:classifiers":[
@@ -46,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1462595045,
-    "wof:geomhash":"01f45c5c526633267a0d7007bd7e335e",
+    "wof:geomhash":"d3361f348c7a0dbd79d6b6854e3340b3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,13 +61,15 @@
         }
     ],
     "wof:id":790337773,
-    "wof:lastmodified":1472630846,
+    "wof:lastmodified":1534189358,
     "wof:name":"City of Ferguson",
     "wof:parent_id":85859027,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        773626539
+    ],
     "wof:tags":[
         "city"
     ]

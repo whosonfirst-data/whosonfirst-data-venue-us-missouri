@@ -7,6 +7,7 @@
     "addr:postcode":"65717",
     "addr:street":"Curtner Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.400729,37.193681,-92.400729,37.193681",
@@ -14,6 +15,7 @@
     "geom:longitude":-92.400729,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"6488 Curtner Rd",
     "sg:city":"Norwood",
     "sg:classifiers":[
@@ -45,15 +47,17 @@
     },
     "wof:country":"US",
     "wof:created":1462605843,
-    "wof:geomhash":"2af37c021eae19be5910267cc0acbaf3",
+    "wof:geomhash":"ace0a253246c245e6c945b0f3d55655f",
     "wof:hierarchy":[],
     "wof:id":807299327,
-    "wof:lastmodified":1472630653,
+    "wof:lastmodified":1534189357,
     "wof:name":"Sherly Neuroth",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mo",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        806606551
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "marketing",

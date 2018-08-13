@@ -2,18 +2,24 @@
   "id": 806714533,
   "type": "Feature",
   "properties": {
-    "addr:full":"201 N High St California MO 65018",
+    "addr:city":"California",
+    "addr:full":"201 N High Street California, Mo 65018-1781",
+    "addr:house_number":"201",
     "addr:housenumber":"201",
-    "addr:postcode":"65018",
+    "addr:phone":"+1 573-796-3563",
+    "addr:postcode":"65018-1781",
+    "addr:road":"N High Street",
+    "addr:state":"MO",
     "addr:street":"N High St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-92.565376,38.634685,-92.565376,38.634685",
-    "geom:latitude":38.634685,
-    "geom:longitude":-92.565376,
+    "geom:bbox":"-92.56548,38.63393,-92.56548,38.63393",
+    "geom:latitude":38.63393,
+    "geom:longitude":-92.56548,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"201 N High St",
     "sg:city":"California",
     "sg:classifiers":[
@@ -35,19 +41,21 @@
     "sg:tags":[
         "gallery"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[],
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8402900489,
         "sg:id":"SG_5jaTXKInN8vdA3qwug8UtU_38.634685_-92.565376@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462600453,
-    "wof:geomhash":"02a036a692c7e9538810ebb5af41cf65",
+    "wof:geomhash":"fd9c319ac9051fcdb72a1668b70da1d5",
     "wof:hierarchy":[],
     "wof:id":806714533,
-    "wof:lastmodified":1472630589,
-    "wof:name":"Moniteau County Historical Soc",
+    "wof:lastmodified":1534189366,
+    "wof:name":"Moniteau County Historical Society",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mo",
@@ -58,10 +66,10 @@
     ]
 },
   "bbox": [
-    -92.565376,
-    38.634685,
-    -92.565376,
-    38.634685
+    -92.56548,
+    38.63393,
+    -92.56548,
+    38.63393
 ],
-  "geometry": {"coordinates":[-92.565376,38.634685],"type":"Point"}
+  "geometry": {"coordinates":[-92.56547999999999,38.63393],"type":"Point"}
 }

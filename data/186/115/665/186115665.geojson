@@ -7,6 +7,7 @@
     "addr:postcode":"63017",
     "addr:street":"S Woods Mill Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.507159,38.650665,-90.507159,38.650665",
@@ -14,6 +15,7 @@
     "geom:longitude":-90.507159,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"224 S Woods Mill Rd",
     "sg:city":"Chesterfield",
     "sg:classifiers":[
@@ -47,7 +49,7 @@
         "sg:id":"SG_5Fn2Ge9nKEzIQpL6ryatUr_38.650665_-90.507159@1303262925"
     },
     "wof:country":"US",
-    "wof:geomhash":"c79608b7650fc14b6d9345fd80ffd373",
+    "wof:geomhash":"24e1034a00ad20c4691141c7c2d2e96e",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -60,12 +62,14 @@
         }
     ],
     "wof:id":186115665,
-    "wof:lastmodified":1472630229,
+    "wof:lastmodified":1534189363,
     "wof:name":"Middleton Jerry N MD",
     "wof:parent_id":85802943,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mo",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        806934391
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "gynecology",

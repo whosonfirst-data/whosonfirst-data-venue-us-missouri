@@ -14,6 +14,7 @@
     "geom:longitude":-90.202754,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"510 Pine St.",
     "sg:city":"Saint Louis",
     "sg:classifiers":[
@@ -46,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1462604080,
-    "wof:geomhash":"79cf998967e7848545dd95c26570d61d",
+    "wof:geomhash":"93b41f753b4313035934ad91b1d34325",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,13 +61,15 @@
         }
     ],
     "wof:id":807132515,
-    "wof:lastmodified":1472630403,
+    "wof:lastmodified":1534189361,
     "wof:name":"Chili Mac's Diner",
     "wof:parent_id":85873645,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        789950625
+    ],
     "wof:tags":[
         "diner"
     ]

@@ -7,6 +7,7 @@
     "addr:postcode":"63334",
     "addr:street":"W Main St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.194329,39.342047,-91.194329,39.342047",
@@ -14,6 +15,7 @@
     "geom:longitude":-91.194329,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"115 W Main St",
     "sg:city":"Bowling Green",
     "sg:classifiers":[
@@ -44,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1462588708,
-    "wof:geomhash":"ae6d231bbd0e0f1c339c023c4065ddfe",
+    "wof:geomhash":"8f2672a1bbaac2fc2c3c1afe53fb12b3",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -56,12 +58,14 @@
         }
     ],
     "wof:id":773828513,
-    "wof:lastmodified":1472631135,
+    "wof:lastmodified":1534189351,
     "wof:name":"Collectors Office",
     "wof:parent_id":85817909,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mo",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        790056123
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "policy"

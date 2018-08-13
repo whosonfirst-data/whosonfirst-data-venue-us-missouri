@@ -14,6 +14,7 @@
     "geom:longitude":-90.184517,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"707 N 2nd St",
     "sg:city":"Saint Louis",
     "sg:classifiers":[
@@ -46,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1462590422,
-    "wof:geomhash":"12a2517d3053f1117eebc6be263e857c",
+    "wof:geomhash":"0e51fa80bcebeb040d2c6a5c276d736d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,13 +61,15 @@
         }
     ],
     "wof:id":789772989,
-    "wof:lastmodified":1472630476,
+    "wof:lastmodified":1534189353,
     "wof:name":"ICC",
     "wof:parent_id":85873643,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        773462567
+    ],
     "wof:tags":[
         "engineer"
     ]

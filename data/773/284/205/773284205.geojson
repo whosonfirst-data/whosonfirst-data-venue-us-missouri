@@ -2,18 +2,24 @@
   "id": 773284205,
   "type": "Feature",
   "properties": {
-    "addr:full":"538 Independence St Cape Girardeau MO 63703",
+    "addr:city":"Cape Girardeau",
+    "addr:full":"538 Independence Cape Girardeau, Mo 63703-6227",
+    "addr:house_number":"538",
     "addr:housenumber":"538",
-    "addr:postcode":"63703",
+    "addr:phone":"+1 573-334-0405",
+    "addr:postcode":"63703-6227",
+    "addr:road":"Independence",
+    "addr:state":"MO",
     "addr:street":"Independence St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-89.524141,37.303992,-89.524141,37.303992",
-    "geom:latitude":37.303992,
-    "geom:longitude":-89.524141,
+    "geom:bbox":"-89.52466,37.30406,-89.52466,37.30406",
+    "geom:latitude":37.30406,
+    "geom:longitude":-89.52466,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"538 Independence St",
     "sg:city":"Cape Girardeau",
     "sg:classifiers":[
@@ -30,18 +36,22 @@
     "sg:tags":[
         "gallery"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102525349
+    ],
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8402900376,
         "sg:id":"SG_4xudTDIxIFK5yR8mdrQkqg_37.303992_-89.524141@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462584552,
-    "wof:geomhash":"ca840265283a1d3bc6b034c022a94af3",
+    "wof:geomhash":"609e75585427030bd291cd37660b9b87",
     "wof:hierarchy":[],
     "wof:id":773284205,
-    "wof:lastmodified":1472630946,
+    "wof:lastmodified":1534189354,
     "wof:name":"Cape River Heritage Museum",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -53,10 +63,10 @@
     ]
 },
   "bbox": [
-    -89.524141,
-    37.303992,
-    -89.524141,
-    37.303992
+    -89.52466,
+    37.30406,
+    -89.52466,
+    37.30406
 ],
-  "geometry": {"coordinates":[-89.524141,37.303992],"type":"Point"}
+  "geometry": {"coordinates":[-89.52466,37.30406],"type":"Point"}
 }

@@ -7,6 +7,7 @@
     "addr:postcode":"64116",
     "addr:street":"Swift Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.577375,39.140586,-94.577375,39.140586",
@@ -14,6 +15,7 @@
     "geom:longitude":-94.577375,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1828 Swift Ave",
     "sg:city":"Kansas City",
     "sg:classifiers":[
@@ -47,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1462592417,
-    "wof:geomhash":"ac6fd084420376cc276084d66c9e502a",
+    "wof:geomhash":"eed3ddbe35b50ef2c705db8fd8e245d3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,12 +63,14 @@
         }
     ],
     "wof:id":790011325,
-    "wof:lastmodified":1472630207,
+    "wof:lastmodified":1534189354,
     "wof:name":"Barr Home Care Services Inc",
     "wof:parent_id":85867025,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mo",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        806545317
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "home",

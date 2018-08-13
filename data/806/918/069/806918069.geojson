@@ -14,6 +14,7 @@
     "geom:longitude":-90.200599,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1222 Spruce St",
     "sg:city":"Saint Louis",
     "sg:classifiers":[
@@ -48,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1462602158,
-    "wof:geomhash":"bb9d2d08452832e2489e41e0d3bd0380",
+    "wof:geomhash":"14f687319f6489856cae376b7cf441a7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -62,13 +63,15 @@
         }
     ],
     "wof:id":806918069,
-    "wof:lastmodified":1472630713,
+    "wof:lastmodified":1534189362,
     "wof:name":"US Dept Housing and Dev",
     "wof:parent_id":85873645,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        806748515
+    ],
     "wof:tags":[
         "federal",
         "housing",

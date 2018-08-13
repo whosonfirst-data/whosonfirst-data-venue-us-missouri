@@ -7,6 +7,7 @@
     "addr:postcode":"63382",
     "addr:street":"Us Hwy 54",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.497618,39.306822,-91.497618,39.306822",
@@ -14,6 +15,7 @@
     "geom:longitude":-91.497618,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1101 US Hwy 54",
     "sg:city":"Vandalia",
     "sg:classifiers":[
@@ -38,15 +40,17 @@
     },
     "wof:country":"US",
     "wof:created":1462586347,
-    "wof:geomhash":"c7572f65f4d4c4c0b2c7853eb009ce2e",
+    "wof:geomhash":"366daa4fcc56428937e1e67a6db2698d",
     "wof:hierarchy":[],
     "wof:id":773520689,
-    "wof:lastmodified":1472631042,
+    "wof:lastmodified":1534189363,
     "wof:name":"Gateway Foundation Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mo",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        806941315
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "outpatient"

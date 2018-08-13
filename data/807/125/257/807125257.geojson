@@ -7,6 +7,7 @@
     "addr:postcode":"63069",
     "addr:street":"Old Manchester Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.721693,38.540575,-90.721693,38.540575",
@@ -14,6 +15,7 @@
     "geom:longitude":-90.721693,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"19027 Old Manchester Rd",
     "sg:city":"Pacific",
     "sg:classifiers":[
@@ -49,7 +51,7 @@
     },
     "wof:country":"US",
     "wof:created":1462604003,
-    "wof:geomhash":"b4fa71d964fa2677dc122f4480144945",
+    "wof:geomhash":"77401102dec1c66a03fd4da52ead85ad",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -63,12 +65,14 @@
         }
     ],
     "wof:id":807125257,
-    "wof:lastmodified":1472630390,
+    "wof:lastmodified":1534189355,
     "wof:name":"Flash Track Lighting",
     "wof:parent_id":85809151,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mo",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        789845615
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "decoration",

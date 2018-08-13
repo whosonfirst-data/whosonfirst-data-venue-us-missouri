@@ -14,6 +14,7 @@
     "geom:longitude":-93.262255,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1722 S Glenstone Ave",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -46,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1462589953,
-    "wof:geomhash":"3444782c7e310cea342245fedc4b61c3",
+    "wof:geomhash":"e73e9afa72cfece66e17fe6d69dc763b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,13 +61,15 @@
         }
     ],
     "wof:id":789712737,
-    "wof:lastmodified":1472630336,
+    "wof:lastmodified":1534189352,
     "wof:name":"J Thomas Auvil DDS",
     "wof:parent_id":85881147,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        773808457
+    ],
     "wof:tags":[
         "dentist"
     ]

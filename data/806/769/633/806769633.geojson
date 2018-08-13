@@ -7,6 +7,7 @@
     "addr:postcode":"63501",
     "addr:street":"S Franklin St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.583159,40.193865,-92.583159,40.193865",
@@ -14,6 +15,7 @@
     "geom:longitude":-92.583159,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"201 S Franklin St",
     "sg:city":"Kirksville",
     "sg:classifiers":[
@@ -35,15 +37,17 @@
     },
     "wof:country":"US",
     "wof:created":1462600926,
-    "wof:geomhash":"fd804c3f0b813af81a22c05de98adfff",
+    "wof:geomhash":"b81b88f6d89bfde8897ad6cc2c9ab6b4",
     "wof:hierarchy":[],
     "wof:id":806769633,
-    "wof:lastmodified":1472630602,
+    "wof:lastmodified":1534189352,
     "wof:name":"Inspections Building Insp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mo",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        773223079
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

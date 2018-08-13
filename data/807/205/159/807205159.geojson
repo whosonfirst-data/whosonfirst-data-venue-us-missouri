@@ -2,18 +2,24 @@
   "id": 807205159,
   "type": "Feature",
   "properties": {
-    "addr:full":"101 Washington St Doniphan MO 63935",
+    "addr:city":"Doniphan",
+    "addr:full":"101 Washington St Doniphan, Mo 63935",
+    "addr:house_number":"101",
     "addr:housenumber":"101",
+    "addr:phone":"+1 573-996-5298",
     "addr:postcode":"63935",
+    "addr:road":"Washington St",
+    "addr:state":"MO",
     "addr:street":"Washington St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-90.826413,36.61755,-90.826413,36.61755",
-    "geom:latitude":36.61755,
-    "geom:longitude":-90.826413,
+    "geom:bbox":"-90.82625,36.61745,-90.82625,36.61745",
+    "geom:latitude":36.61745,
+    "geom:longitude":-90.82625,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"101 Washington St",
     "sg:city":"Doniphan",
     "sg:classifiers":[
@@ -35,18 +41,20 @@
     "sg:tags":[
         "shop"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[],
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8402900438,
         "sg:id":"SG_0lpCrwCSTvaUMb5rvdMH1R_36.617550_-90.826413@1303262932"
     },
     "wof:country":"US",
     "wof:created":1462604847,
-    "wof:geomhash":"6de5b86678736efb0702ca8cb896d4b0",
+    "wof:geomhash":"5dcea59702ceea7ab026ec2d1336c763",
     "wof:hierarchy":[],
     "wof:id":807205159,
-    "wof:lastmodified":1472630503,
+    "wof:lastmodified":1534189367,
     "wof:name":"Current River Heritage Museum",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -58,10 +66,10 @@
     ]
 },
   "bbox": [
-    -90.826413,
-    36.61755,
-    -90.826413,
-    36.61755
+    -90.82625,
+    36.61745,
+    -90.82625,
+    36.61745
 ],
-  "geometry": {"coordinates":[-90.826413,36.61755],"type":"Point"}
+  "geometry": {"coordinates":[-90.82625,36.61745],"type":"Point"}
 }

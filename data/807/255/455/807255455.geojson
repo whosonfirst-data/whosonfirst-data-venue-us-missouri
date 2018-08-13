@@ -7,6 +7,7 @@
     "addr:postcode":"65201",
     "addr:street":"E Bonne;Church Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.263627,38.875898,-92.263627,38.875898",
@@ -14,6 +15,7 @@
     "geom:longitude":-92.263627,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"4925 E Bonne Femme Church Rd",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -52,7 +54,7 @@
     },
     "wof:country":"US",
     "wof:created":1462605383,
-    "wof:geomhash":"fdcab17e47f3d58cd34f6a83039996f6",
+    "wof:geomhash":"5ea2c499dbf92bc07d9c0a080e335a64",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -66,12 +68,14 @@
         }
     ],
     "wof:id":807255455,
-    "wof:lastmodified":1472630640,
+    "wof:lastmodified":1534189358,
     "wof:name":"Family Worship Center",
     "wof:parent_id":85835171,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mo",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        789908551
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "churches-non-denominational"

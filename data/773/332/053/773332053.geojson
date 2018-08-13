@@ -14,6 +14,7 @@
     "geom:longitude":-93.264209,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1675 E Seminole St",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -47,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1462584927,
-    "wof:geomhash":"0877190428e460da181e3b246e2680d5",
+    "wof:geomhash":"b21fd8122eb88196cf5e2785c57f09b4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,13 +62,15 @@
         }
     ],
     "wof:id":773332053,
-    "wof:lastmodified":1472630957,
+    "wof:lastmodified":1534189355,
     "wof:name":"First Financial Svc",
     "wof:parent_id":85829759,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        790220635
+    ],
     "wof:tags":[
         "loan",
         "real estate"

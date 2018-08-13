@@ -7,6 +7,7 @@
     "addr:postcode":"65806",
     "addr:street":"N Jefferson Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.289828,37.210721,-93.289828,37.210721",
@@ -14,6 +15,7 @@
     "geom:longitude":-93.289828,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"309 N Jefferson Ave",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -47,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1462588431,
-    "wof:geomhash":"d2980044c4c712cbf7f51eeeaf9f4df8",
+    "wof:geomhash":"32f296bb4e4b8f7ddab225bb78031692",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,12 +63,14 @@
         }
     ],
     "wof:id":773795091,
-    "wof:lastmodified":1472631080,
+    "wof:lastmodified":1534189358,
     "wof:name":"Net Focus",
     "wof:parent_id":85881119,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mo",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        806636717
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "design",

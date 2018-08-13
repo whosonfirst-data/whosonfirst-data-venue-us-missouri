@@ -2,18 +2,24 @@
   "id": 807019057,
   "type": "Feature",
   "properties": {
-    "addr:full":"11025 E Winner Rd Independence MO 64052",
+    "addr:city":"Independence",
+    "addr:full":"11025 E Winner Rd Independence, Mo 64052-3839",
+    "addr:house_number":"11025",
     "addr:housenumber":"11025",
-    "addr:postcode":"64052",
+    "addr:phone":"+1 816-833-9777",
+    "addr:postcode":"64052-3839",
+    "addr:road":"E Winner Rd",
+    "addr:state":"MO",
     "addr:street":"E Winner Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-94.448019,39.08764,-94.448019,39.08764",
-    "geom:latitude":39.08764,
-    "geom:longitude":-94.448019,
+    "geom:bbox":"-94.44799,39.08755,-94.44799,39.08755",
+    "geom:latitude":39.08755,
+    "geom:longitude":-94.44799,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"11025 E Winner Rd",
     "sg:city":"Independence",
     "sg:classifiers":[
@@ -34,7 +40,10 @@
         "gift"
     ],
     "sg:website":"http://www.hazelle.org",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102532927
+    ],
     "wof:belongsto":[
         85818127,
         102191575,
@@ -46,11 +55,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8402900618,
         "sg:id":"SG_36KCfuUFipCaKOxkpvZHrl_39.087561_-94.447627@1293134755"
     },
     "wof:country":"US",
     "wof:created":1462603027,
-    "wof:geomhash":"a7df2aff949126cea81d244dca104a88",
+    "wof:geomhash":"a2cdc1e7b2f5a4fcd4b6dfb92d95887c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -64,7 +74,7 @@
         }
     ],
     "wof:id":807019057,
-    "wof:lastmodified":1472630175,
+    "wof:lastmodified":1534189366,
     "wof:name":"Puppetry Arts Institute",
     "wof:parent_id":85818127,
     "wof:placetype":"venue",
@@ -79,10 +89,10 @@
     ]
 },
   "bbox": [
-    -94.448019,
-    39.08764,
-    -94.448019,
-    39.08764
+    -94.44799,
+    39.08755,
+    -94.44799,
+    39.08755
 ],
-  "geometry": {"coordinates":[-94.448019,39.08764],"type":"Point"}
+  "geometry": {"coordinates":[-94.44799,39.08755],"type":"Point"}
 }

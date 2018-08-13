@@ -7,6 +7,7 @@
     "addr:postcode":"63010",
     "addr:street":"Lonedell Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-90.386346,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"1308 Lonedell Rd",
     "sg:city":"Arnold",
     "sg:classifiers":[],
@@ -36,12 +37,14 @@
     "wof:geomhash":"472ceccca7fe1d2c575bfb944782199c",
     "wof:hierarchy":[],
     "wof:id":807105523,
-    "wof:lastmodified":1511319508,
+    "wof:lastmodified":1534189365,
     "wof:name":"Waste Management",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mo",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        773822913
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

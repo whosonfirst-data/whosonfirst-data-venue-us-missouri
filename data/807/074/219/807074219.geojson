@@ -7,6 +7,7 @@
     "addr:postcode":"63601",
     "addr:street":"N State St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-90.512366,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"411 N State St",
     "sg:city":"Park Hills",
     "sg:classifiers":[
@@ -64,12 +65,14 @@
         }
     ],
     "wof:id":807074219,
-    "wof:lastmodified":1512142826,
+    "wof:lastmodified":1534189362,
     "wof:name":"McDonald's",
     "wof:parent_id":420525419,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mo",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        807190151
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "burger",

@@ -7,6 +7,7 @@
     "addr:postcode":"65559",
     "addr:street":"N Outer Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-91.632136,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"108 N Outer Rd",
     "sg:city":"Saint James",
     "sg:classifiers":[
@@ -60,12 +61,14 @@
         }
     ],
     "wof:id":807091465,
-    "wof:lastmodified":1511321592,
+    "wof:lastmodified":1534189357,
     "wof:name":"McDonald's",
     "wof:parent_id":85847353,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mo",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        773385619
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "burger",

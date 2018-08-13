@@ -7,6 +7,7 @@
     "addr:postcode":"64055",
     "addr:street":"S Noland Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.414701,39.068218,-94.414701,39.068218",
@@ -14,6 +15,7 @@
     "geom:longitude":-94.414701,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1700 S Noland Rd",
     "sg:city":"Independence",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1462601954,
-    "wof:geomhash":"040ebfa5ce063c3fd508de2dc233c89c",
+    "wof:geomhash":"86c983a3fbe0251f6a03bbaa5a10a821",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,12 +62,14 @@
         }
     ],
     "wof:id":806892951,
-    "wof:lastmodified":1472630734,
+    "wof:lastmodified":1534189363,
     "wof:name":"Jay Wolfe Kia",
     "wof:parent_id":85833097,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mo",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        807212711
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "used"

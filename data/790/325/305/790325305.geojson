@@ -14,6 +14,7 @@
     "geom:longitude":-90.204734,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1709 Washington Ave",
     "sg:city":"St Louis",
     "sg:classifiers":[
@@ -46,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1462594958,
-    "wof:geomhash":"72b2639decba31e360532140279977ec",
+    "wof:geomhash":"fa91eb5b0a62df98fa7aa0ef3d067862",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,13 +61,15 @@
         }
     ],
     "wof:id":790325305,
-    "wof:lastmodified":1472630811,
+    "wof:lastmodified":1534189357,
     "wof:name":"Blue Inc",
     "wof:parent_id":85873645,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        789901041
+    ],
     "wof:tags":[
         "counselor"
     ]

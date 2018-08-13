@@ -7,6 +7,7 @@
     "addr:postcode":"63501",
     "addr:street":"N Baltimore St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.571953,40.18898,-92.571953,40.18898",
@@ -14,6 +15,7 @@
     "geom:longitude":-92.571953,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"801 N Baltimore St",
     "sg:city":"Kirksville",
     "sg:classifiers":[
@@ -38,15 +40,17 @@
     },
     "wof:country":"US",
     "wof:created":1462604670,
-    "wof:geomhash":"0a8f86a647c7e1d31df7d4f6a7d22cca",
+    "wof:geomhash":"17887924612ab0ef6a46a48a110aa549",
     "wof:hierarchy":[],
     "wof:id":807187973,
-    "wof:lastmodified":1472630488,
+    "wof:lastmodified":1534189362,
     "wof:name":"Schaefer Chiropractic Center P.C.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mo",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        806905853
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "chiropractic"

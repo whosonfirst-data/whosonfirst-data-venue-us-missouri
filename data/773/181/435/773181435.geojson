@@ -14,6 +14,7 @@
     "geom:longitude":-93.321043,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2101 W Chesterfield Blvd",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -44,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1462583758,
-    "wof:geomhash":"03065de4b4c435c06904e6a97d01126c",
+    "wof:geomhash":"e9cb3e25be49df5b7257c40ca411056a",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -55,13 +56,15 @@
         }
     ],
     "wof:id":773181435,
-    "wof:lastmodified":1472630926,
+    "wof:lastmodified":1534189351,
     "wof:name":"The Handyman Co",
     "wof:parent_id":85881151,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        806920791
+    ],
     "wof:tags":[
         "remodeling",
         "contractor"

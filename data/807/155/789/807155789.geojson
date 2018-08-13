@@ -7,6 +7,7 @@
     "addr:postcode":"63110",
     "addr:street":"Parkview Pl",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.2631,38.638,-90.2631,38.638",
@@ -14,6 +15,7 @@
     "geom:longitude":-90.2631,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"4921 Parkview Pl",
     "sg:city":"Saint Louis",
     "sg:classifiers":[
@@ -43,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1462604328,
-    "wof:geomhash":"6514f1ce1284acb25d501526eb17f090",
+    "wof:geomhash":"05cce4535d91ca82c44a8f87794c7ad9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,12 +59,14 @@
         }
     ],
     "wof:id":807155789,
-    "wof:lastmodified":1472630417,
+    "wof:lastmodified":1534189363,
     "wof:name":"Scor Donald A Mdfacp",
     "wof:parent_id":85867031,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mo",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        186323825
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

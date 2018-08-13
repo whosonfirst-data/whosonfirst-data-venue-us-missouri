@@ -14,6 +14,7 @@
     "geom:longitude":-94.583039,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"911 Main St",
     "sg:city":"Kansas City",
     "sg:classifiers":[
@@ -46,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1462591198,
-    "wof:geomhash":"2363abc0c57468503bb958b1f157b956",
+    "wof:geomhash":"77ff7bb04721e563637ea98ccba4ea90",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,13 +61,15 @@
         }
     ],
     "wof:id":789871413,
-    "wof:lastmodified":1472630702,
+    "wof:lastmodified":1534189356,
     "wof:name":"Burgess-Johnson Assoc",
     "wof:parent_id":85867019,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        789748819
+    ],
     "wof:tags":[
         "appraiser"
     ]

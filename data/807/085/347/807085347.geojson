@@ -7,6 +7,7 @@
     "addr:postcode":"64468",
     "addr:street":"S Main St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-94.873823,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"1106 S Main St",
     "sg:city":"Maryville",
     "sg:classifiers":[
@@ -45,12 +46,14 @@
     "wof:geomhash":"ab65b79a8126eafb8f1f709b6a33fe23",
     "wof:hierarchy":[],
     "wof:id":807085347,
-    "wof:lastmodified":1511321592,
+    "wof:lastmodified":1534189351,
     "wof:name":"McDonald's",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mo",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        790085251
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "burger",

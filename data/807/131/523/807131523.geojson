@@ -7,6 +7,7 @@
     "addr:postcode":"63101",
     "addr:street":"Washington Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.192902,38.631001,-90.192902,38.631001",
@@ -14,6 +15,7 @@
     "geom:longitude":-90.192902,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"911 Washington Ave",
     "sg:city":"Saint Louis",
     "sg:classifiers":[
@@ -43,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1462604066,
-    "wof:geomhash":"e4bb6dc862f022acd321a789bee6090e",
+    "wof:geomhash":"b63b24a9b86ce488b1ef65fae6af40ba",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,12 +59,14 @@
         }
     ],
     "wof:id":807131523,
-    "wof:lastmodified":1472630397,
+    "wof:lastmodified":1534189361,
     "wof:name":"Brown Michelle L Atty",
     "wof:parent_id":85873643,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mo",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        807131755
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

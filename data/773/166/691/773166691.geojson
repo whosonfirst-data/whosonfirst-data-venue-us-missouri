@@ -7,6 +7,7 @@
     "addr:postcode":"64735",
     "addr:street":"Nw Hwy M",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.797488,38.518356,-93.797488,38.518356",
@@ -14,6 +15,7 @@
     "geom:longitude":-93.797488,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"236 NW Hwy M",
     "sg:city":"Clinton",
     "sg:classifiers":[
@@ -44,15 +46,17 @@
     },
     "wof:country":"US",
     "wof:created":1462583640,
-    "wof:geomhash":"fb35c895168bb9df337468faaabf20d0",
+    "wof:geomhash":"ed3bf0c663dfdbf2f7741a670d754959",
     "wof:hierarchy":[],
     "wof:id":773166691,
-    "wof:lastmodified":1472630592,
+    "wof:lastmodified":1534189366,
     "wof:name":"Tortoise & The Hare",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mo",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        807235629
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "antique",

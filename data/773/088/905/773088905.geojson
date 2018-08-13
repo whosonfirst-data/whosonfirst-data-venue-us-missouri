@@ -14,6 +14,7 @@
     "geom:longitude":-94.385716,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1110 W Harmony St",
     "sg:city":"Neosho",
     "sg:classifiers":[
@@ -46,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1462583071,
-    "wof:geomhash":"9273f235bfe4e6de9e90536bf9b763a3",
+    "wof:geomhash":"a8f23e45a8ebefc23da452c0dfcbfde0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,13 +61,15 @@
         }
     ],
     "wof:id":773088905,
-    "wof:lastmodified":1472630473,
+    "wof:lastmodified":1534189365,
     "wof:name":"Neosho Printing Co",
     "wof:parent_id":85821247,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        807245139
+    ],
     "wof:tags":[
         "printer"
     ]

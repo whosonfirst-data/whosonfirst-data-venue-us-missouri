@@ -7,6 +7,7 @@
     "addr:postcode":"63011",
     "addr:street":"Manchester Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.515553,38.593052,-90.515553,38.593052",
@@ -14,6 +15,7 @@
     "geom:longitude":-90.515553,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"14385 Manchester Rd",
     "sg:city":"Ballwin",
     "sg:classifiers":[],
@@ -38,7 +40,7 @@
     },
     "wof:country":"US",
     "wof:created":1462603814,
-    "wof:geomhash":"d04cbd867f28d652a286cb26c6f73212",
+    "wof:geomhash":"f043d08fa9ab09d9048ec49082b0fc0b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -52,12 +54,14 @@
         }
     ],
     "wof:id":807107911,
-    "wof:lastmodified":1472630359,
+    "wof:lastmodified":1534189363,
     "wof:name":"Metropolitan Glass Co",
     "wof:parent_id":85802943,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mo",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        790619417
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

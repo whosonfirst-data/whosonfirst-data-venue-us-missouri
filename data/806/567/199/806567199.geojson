@@ -2,18 +2,24 @@
   "id": 806567199,
   "type": "Feature",
   "properties": {
-    "addr:full":"8332 Belleview Ave Kansas City MO 64114",
+    "addr:city":"Kansas City",
+    "addr:full":"8332 Belleview Ave Kansas City, Mo 64114-2148",
+    "addr:house_number":"8332",
     "addr:housenumber":"8332",
-    "addr:postcode":"64114",
+    "addr:phone":"+1 816-444-9031",
+    "addr:postcode":"64114-2148",
+    "addr:road":"Belleview Ave",
+    "addr:state":"MO",
     "addr:street":"Belleview Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-94.602036,38.976894,-94.602036,38.976894",
-    "geom:latitude":38.976894,
-    "geom:longitude":-94.602036,
+    "geom:bbox":"-94.60197,38.97781,-94.60197,38.97781",
+    "geom:latitude":38.97781,
+    "geom:longitude":-94.60197,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"8332 Belleview Ave",
     "sg:city":"Kansas City",
     "sg:classifiers":[
@@ -30,7 +36,10 @@
     "sg:tags":[
         "gallery"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102532927
+    ],
     "wof:belongsto":[
         85871973,
         102191575,
@@ -42,11 +51,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8402900527,
         "sg:id":"SG_5PWHf1lNlV5T6MNXRK0Wk5_38.976894_-94.602036@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462599184,
-    "wof:geomhash":"36a6ce6337c91a9b664ed87083b39dc4",
+    "wof:geomhash":"67957cc67e1504e0d0fe36b45bc47bf3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,7 +70,7 @@
         }
     ],
     "wof:id":806567199,
-    "wof:lastmodified":1472630369,
+    "wof:lastmodified":1534189356,
     "wof:name":"Athenagoras Society",
     "wof:parent_id":85871973,
     "wof:placetype":"venue",
@@ -72,10 +82,10 @@
     ]
 },
   "bbox": [
-    -94.602036,
-    38.976894,
-    -94.602036,
-    38.976894
+    -94.60197,
+    38.97781,
+    -94.60197,
+    38.97781
 ],
-  "geometry": {"coordinates":[-94.602036,38.976894],"type":"Point"}
+  "geometry": {"coordinates":[-94.60196999999999,38.97781],"type":"Point"}
 }

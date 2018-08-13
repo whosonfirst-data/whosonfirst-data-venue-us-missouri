@@ -7,6 +7,7 @@
     "addr:postcode":"63901",
     "addr:street":"N Westwood Blvd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-90.429605,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"2783 N Westwood Blvd",
     "sg:city":"Poplar Bluff",
     "sg:classifiers":[
@@ -45,12 +46,14 @@
     "wof:geomhash":"b45a47986b2f35adc0253a36d75aa998",
     "wof:hierarchy":[],
     "wof:id":807076181,
-    "wof:lastmodified":1512142981,
+    "wof:lastmodified":1534189356,
     "wof:name":"McDonald's",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mo",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        789866237
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "burger",

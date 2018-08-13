@@ -7,6 +7,7 @@
     "addr:postcode":"64601",
     "addr:street":"Hwy Jj",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.476592,39.688845,-93.476592,39.688845",
@@ -14,6 +15,7 @@
     "geom:longitude":-93.476592,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"16171 Hwy Jj",
     "sg:city":"Chillicothe",
     "sg:classifiers":[
@@ -40,15 +42,17 @@
     },
     "wof:country":"US",
     "wof:created":1462588155,
-    "wof:geomhash":"132d48ff6d0dc32a33ecfa53342bc1a8",
+    "wof:geomhash":"f45d1aa2af978955d8c427d3c243390b",
     "wof:hierarchy":[],
     "wof:id":773758213,
-    "wof:lastmodified":1472631084,
+    "wof:lastmodified":1534189363,
     "wof:name":"Lamb Maxene",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mo",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        807230593
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "beef",

@@ -7,6 +7,7 @@
     "addr:postcode":"63102",
     "addr:street":"N 4Th St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.187726,38.62808,-90.187726,38.62808",
@@ -14,6 +15,7 @@
     "geom:longitude":-90.187726,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"319 N 4th St",
     "sg:city":"St Louis",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1462587375,
-    "wof:geomhash":"b505019e2a9cf43822e6e66dd53294aa",
+    "wof:geomhash":"5979d348dc4927910b10e7db0937e7f7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,12 +62,14 @@
         }
     ],
     "wof:id":773657439,
-    "wof:lastmodified":1472631079,
+    "wof:lastmodified":1534189356,
     "wof:name":"Cofman & Townsley",
     "wof:parent_id":85867033,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mo",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        790287115
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"

@@ -7,6 +7,7 @@
     "addr:postcode":"63401",
     "addr:street":"Mcmasters Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.391993,39.721534,-91.391993,39.721534",
@@ -14,6 +15,7 @@
     "geom:longitude":-91.391993,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"4419 Mcmasters Ave",
     "sg:city":"Hannibal",
     "sg:classifiers":[],
@@ -37,7 +39,7 @@
     },
     "wof:country":"US",
     "wof:created":1462604649,
-    "wof:geomhash":"d7c96d9205a6a2750a6c1eb5df4a3745",
+    "wof:geomhash":"60c8d8bdd132c0cb0dd91d8ecf872233",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,12 +53,14 @@
         }
     ],
     "wof:id":807185877,
-    "wof:lastmodified":1472630487,
+    "wof:lastmodified":1534189352,
     "wof:name":"ALDI",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mo",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        806455481
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

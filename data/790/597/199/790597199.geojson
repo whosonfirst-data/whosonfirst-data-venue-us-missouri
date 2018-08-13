@@ -7,6 +7,7 @@
     "addr:postcode":"64155",
     "addr:street":"Nw Barry Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.589716,39.246488,-94.589716,39.246488",
@@ -14,6 +15,7 @@
     "geom:longitude":-94.589716,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"400 NW Barry Rd",
     "sg:city":"Kansas City",
     "sg:classifiers":[
@@ -43,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1462597186,
-    "wof:geomhash":"a1ba63791ba35fa6a9099fae4484df00",
+    "wof:geomhash":"7d07d2ebb373e4e66c16a396c378404e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,12 +59,14 @@
         }
     ],
     "wof:id":790597199,
-    "wof:lastmodified":1472630900,
+    "wof:lastmodified":1534189351,
     "wof:name":"Metro North Wigs",
     "wof:parent_id":85821231,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mo",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        789663419
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

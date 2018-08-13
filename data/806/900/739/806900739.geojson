@@ -14,6 +14,7 @@
     "geom:longitude":-94.550021,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2750 Clay Edwards Dr",
     "sg:city":"N Kansas City",
     "sg:classifiers":[
@@ -47,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1462602014,
-    "wof:geomhash":"17dd5c838ee1853b0634eaf37c282b57",
+    "wof:geomhash":"579343532af32f5aa9c3ea9463321bd5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,13 +62,15 @@
         }
     ],
     "wof:id":806900739,
-    "wof:lastmodified":1472630729,
+    "wof:lastmodified":1534189363,
     "wof:name":"Hellman & Rosen Endocrine",
     "wof:parent_id":85867025,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        790566341
+    ],
     "wof:tags":[
         "physician",
         "surgeon"

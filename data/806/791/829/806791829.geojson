@@ -7,6 +7,7 @@
     "addr:postcode":"64855",
     "addr:street":"Maverick Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.485847,37.232492,-94.485847,37.232492",
@@ -14,6 +15,7 @@
     "geom:longitude":-94.485847,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"23363 Maverick Rd",
     "sg:city":"Oronogo",
     "sg:classifiers":[
@@ -38,15 +40,17 @@
     },
     "wof:country":"US",
     "wof:created":1462601119,
-    "wof:geomhash":"713cdc24476e859c1e884f6f8190aeeb",
+    "wof:geomhash":"4db9376017538314ede7f3a0981287a7",
     "wof:hierarchy":[],
     "wof:id":806791829,
-    "wof:lastmodified":1472630677,
+    "wof:lastmodified":1534189364,
     "wof:name":"Kandis House",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mo",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        807246235
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"

@@ -7,6 +7,7 @@
     "addr:postcode":"65203",
     "addr:street":"W Nifong Blvd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.352154,38.908348,-92.352154,38.908348",
@@ -14,6 +15,7 @@
     "geom:longitude":-92.352154,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1000 W Nifong Blvd",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1462586856,
-    "wof:geomhash":"5c66f55647b13e5b283be7c3899d11b7",
+    "wof:geomhash":"656cc5c297a339259a47f2c7e6e4120f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,12 +62,14 @@
         }
     ],
     "wof:id":773587783,
-    "wof:lastmodified":1472631059,
+    "wof:lastmodified":1534189363,
     "wof:name":"Woodrail Dental Ctr",
     "wof:parent_id":85835171,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mo",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        806929079
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"

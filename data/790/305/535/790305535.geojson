@@ -14,6 +14,7 @@
     "geom:longitude":-90.304655,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"6700 Manchester Ave",
     "sg:city":"Saint Louis",
     "sg:classifiers":[
@@ -46,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1462594808,
-    "wof:geomhash":"0f0e936f9d273a72942eeb0eb6c220fb",
+    "wof:geomhash":"bb00ff9c3c313800db342c32a7fe682b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,13 +61,16 @@
         }
     ],
     "wof:id":790305535,
-    "wof:lastmodified":1472630776,
+    "wof:lastmodified":1534189357,
     "wof:name":"Kmart Little Ceasars Pizza Stn",
     "wof:parent_id":85805777,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        186416773,
+        773708187
+    ],
     "wof:tags":[
         "eating"
     ]

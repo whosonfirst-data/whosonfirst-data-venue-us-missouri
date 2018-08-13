@@ -14,6 +14,7 @@
     "geom:longitude":-93.77581,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1413 S 2nd St",
     "sg:city":"Clinton",
     "sg:classifiers":[
@@ -44,7 +45,7 @@
         "sg:id":"SG_7ZzzfF9jRyqSOYKkuUp2No_38.343571_-93.775810@1303262934"
     },
     "wof:country":"US",
-    "wof:geomhash":"ea7a811a01bcf3abe0bf5078b07282ce",
+    "wof:geomhash":"47e5b9811e2c6f50821b8503efabafdd",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -56,13 +57,15 @@
         }
     ],
     "wof:id":202503335,
-    "wof:lastmodified":1472630443,
+    "wof:lastmodified":1534189363,
     "wof:name":"Clinton Medical Clinic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        806371381
+    ],
     "wof:tags":[
         "physician",
         "family",

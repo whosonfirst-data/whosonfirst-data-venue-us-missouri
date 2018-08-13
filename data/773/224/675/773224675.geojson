@@ -7,6 +7,7 @@
     "addr:postcode":"63136",
     "addr:street":"Dunn Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.239058,38.775789,-90.239058,38.775789",
@@ -14,6 +15,7 @@
     "geom:longitude":-90.239058,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"11155 Dunn Rd",
     "sg:city":"Saint Louis",
     "sg:classifiers":[
@@ -35,15 +37,17 @@
     },
     "wof:country":"US",
     "wof:created":1462584106,
-    "wof:geomhash":"7e9bcc90f1fc710808d5f28ebd5ff20b",
+    "wof:geomhash":"c5c0314442fdab7d57e308ea63170a37",
     "wof:hierarchy":[],
     "wof:id":773224675,
-    "wof:lastmodified":1472630936,
+    "wof:lastmodified":1534189358,
     "wof:name":"Kaminsky Shari L DPM",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mo",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        773405221
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

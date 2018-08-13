@@ -14,6 +14,7 @@
     "geom:longitude":-90.339499,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"141 N Meramec Ave",
     "sg:city":"St Louis",
     "sg:classifiers":[
@@ -39,16 +40,18 @@
     },
     "wof:country":"US",
     "wof:created":1462594723,
-    "wof:geomhash":"07bfb374cc35603891281e4d5b1dd0bd",
+    "wof:geomhash":"c59282c38384c9e8ee5f2af4c6fed0da",
     "wof:hierarchy":[],
     "wof:id":790293937,
-    "wof:lastmodified":1472630690,
+    "wof:lastmodified":1534189356,
     "wof:name":"Jane Wolfe MD",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        790009431
+    ],
     "wof:tags":[
         "physician",
         "surgeon"

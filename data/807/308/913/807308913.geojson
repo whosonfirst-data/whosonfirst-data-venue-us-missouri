@@ -14,6 +14,7 @@
     "geom:longitude":-93.300753,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"917 E Kearney St",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -51,7 +52,7 @@
     },
     "wof:country":"US",
     "wof:created":1462605947,
-    "wof:geomhash":"2014f3fac5a4be17448f847150275f1d",
+    "wof:geomhash":"186e9e14f4147464ed7e025e89578d8d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -65,13 +66,15 @@
         }
     ],
     "wof:id":807308913,
-    "wof:lastmodified":1472630732,
+    "wof:lastmodified":1534189366,
     "wof:name":"K Street Alignment",
     "wof:parent_id":85881167,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        806974663
+    ],
     "wof:tags":[
         "wheel",
         "servicing-automotive",

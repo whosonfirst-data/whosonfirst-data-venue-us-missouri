@@ -2,18 +2,25 @@
   "id": 806774143,
   "type": "Feature",
   "properties": {
-    "addr:full":"101 E Broadway St Excelsior Spgs MO 64024",
+    "addr:city":"Spg",
+    "addr:full":"101 E Broadway St Excelsior Spg, Mo 64024",
+    "addr:house_number":"101",
     "addr:housenumber":"101",
+    "addr:phone":"+1 816-630-0101",
     "addr:postcode":"64024",
+    "addr:road":"E Broadway St",
+    "addr:state":"MO",
     "addr:street":"E Broadway St",
+    "addr:suburb":"Excelsior",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-94.22233,39.342326,-94.22233,39.342326",
-    "geom:latitude":39.342326,
-    "geom:longitude":-94.22233,
+    "geom:bbox":"-94.22312,39.34224,-94.22312,39.34224",
+    "geom:latitude":39.34224,
+    "geom:longitude":-94.22312,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"101 E Broadway St",
     "sg:city":"Excelsior Spgs",
     "sg:classifiers":[
@@ -27,21 +34,23 @@
     "sg:phone":"+1 816 630 3712",
     "sg:postcode":"64024",
     "sg:province":"MO",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[],
     "wof:belongsto":[
-        85688661,
+        85822189,
         85633793,
         85971507,
         102086177,
-        85822189
+        85688661
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8402900317,
         "sg:id":"SG_4aRrswvJ6xYfV6NW5sE2p0_39.342326_-94.222330@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462600968,
-    "wof:geomhash":"613118182a374a90a37ab77f79fcfb58",
+    "wof:geomhash":"a7a8cddd4284b2e3dfcc825c387407b7",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,8 +62,8 @@
         }
     ],
     "wof:id":806774143,
-    "wof:lastmodified":1472630609,
-    "wof:name":"Excelsior Springs Historical",
+    "wof:lastmodified":1534189366,
+    "wof:name":"Excelsior Springs Historical Museum",
     "wof:parent_id":85822189,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mo",
@@ -63,10 +72,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -94.22233,
-    39.342326,
-    -94.22233,
-    39.342326
+    -94.22312,
+    39.34224,
+    -94.22312,
+    39.34224
 ],
-  "geometry": {"coordinates":[-94.22233,39.342326],"type":"Point"}
+  "geometry": {"coordinates":[-94.22311999999999,39.34224],"type":"Point"}
 }

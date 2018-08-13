@@ -7,6 +7,7 @@
     "addr:postcode":"64110",
     "addr:street":"E;St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.565682,39.012979,-94.565682,39.012979",
@@ -14,6 +15,7 @@
     "geom:longitude":-94.565682,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1734 E 63 St",
     "sg:city":"Kansas City",
     "sg:classifiers":[
@@ -43,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1462585758,
-    "wof:geomhash":"61e87dec9bf775c32753fbf89c2c2917",
+    "wof:geomhash":"11150ce2eaf69c2625036b7499c1748d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,12 +59,14 @@
         }
     ],
     "wof:id":773439995,
-    "wof:lastmodified":1472631014,
+    "wof:lastmodified":1534189358,
     "wof:name":"Roy King Jr",
     "wof:parent_id":85867027,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mo",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        773403839
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -14,6 +14,7 @@
     "geom:longitude":-90.263203,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4921 Parkview Pl",
     "sg:city":"Saint Louis",
     "sg:classifiers":[
@@ -40,7 +41,7 @@
         "sg:id":"SG_0Ge5ZJ7xmG2Ke6hsOFpzZI_38.638279_-90.263203@1303262928"
     },
     "wof:country":"US",
-    "wof:geomhash":"e69c56c4a956298214277d762164d451",
+    "wof:geomhash":"11f7eda86f1076f1984b44b8988478d8",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,13 +54,15 @@
         }
     ],
     "wof:id":186329919,
-    "wof:lastmodified":1472630749,
+    "wof:lastmodified":1534189363,
     "wof:name":"Rybicki Kenneth Office",
     "wof:parent_id":85867031,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        186321625
+    ],
     "wof:tags":[]
 },
   "bbox": [

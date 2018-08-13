@@ -14,6 +14,7 @@
     "geom:longitude":-90.429041,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3445 Bridgeland Dr",
     "sg:city":"Hazelwood",
     "sg:classifiers":[
@@ -46,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1462583768,
-    "wof:geomhash":"b3a7391835e0da5c573de719492bb677",
+    "wof:geomhash":"8e93dfe63935084a2136c41b7c3816c6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,13 +61,15 @@
         }
     ],
     "wof:id":773182389,
-    "wof:lastmodified":1472630925,
+    "wof:lastmodified":1534189351,
     "wof:name":"VNA Private Duty",
     "wof:parent_id":85836381,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        790061647
+    ],
     "wof:tags":[
         "home"
     ]

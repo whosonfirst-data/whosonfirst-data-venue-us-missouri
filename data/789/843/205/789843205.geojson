@@ -14,6 +14,7 @@
     "geom:longitude":-93.25179,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2200 E Sunshine St",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -46,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1462590974,
-    "wof:geomhash":"16a32694ee409e4f1e1ab48efbfd7a69",
+    "wof:geomhash":"66c0aa552a4c7182c7dbc0aa911b5757",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,13 +61,15 @@
         }
     ],
     "wof:id":789843205,
-    "wof:lastmodified":1472630646,
+    "wof:lastmodified":1534189355,
     "wof:name":"McAuley Consulting Services",
     "wof:parent_id":85829759,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        806475359
+    ],
     "wof:tags":[
         "counseling"
     ]

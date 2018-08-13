@@ -14,6 +14,7 @@
     "geom:longitude":-94.578486,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"922 Oak St",
     "sg:city":"Kansas City",
     "sg:classifiers":[
@@ -46,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1462594718,
-    "wof:geomhash":"bd4ceae0422c6b73c332383904fdcc60",
+    "wof:geomhash":"72d622102770d5c88838bcdbc51fbd92",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,13 +61,15 @@
         }
     ],
     "wof:id":790293315,
-    "wof:lastmodified":1472630648,
+    "wof:lastmodified":1534189356,
     "wof:name":"Michael W Sagan",
     "wof:parent_id":85867019,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        790000347
+    ],
     "wof:tags":[
         "attorney"
     ]

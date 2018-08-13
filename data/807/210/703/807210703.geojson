@@ -2,18 +2,24 @@
   "id": 807210703,
   "type": "Feature",
   "properties": {
-    "addr:full":"318 W Pacific Ave Independence MO 64050",
+    "addr:city":"Independence",
+    "addr:full":"318 West Pacific Independence, Mo 64050",
+    "addr:house_number":"318",
     "addr:housenumber":"318",
+    "addr:phone":"+1 816-325-7575",
     "addr:postcode":"64050",
+    "addr:road":"West Pacific",
+    "addr:state":"MO",
     "addr:street":"W Pacific Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-94.418873,39.086557,-94.418873,39.086557",
-    "geom:latitude":39.086557,
-    "geom:longitude":-94.418873,
+    "geom:bbox":"-94.41899,39.08666,-94.41899,39.08666",
+    "geom:latitude":39.08666,
+    "geom:longitude":-94.41899,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"318 W Pacific Ave",
     "sg:city":"Independence",
     "sg:classifiers":[
@@ -35,7 +41,10 @@
     "sg:tags":[
         "attraction"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102532927
+    ],
     "wof:belongsto":[
         85833097,
         102191575,
@@ -47,11 +56,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8402900488,
         "sg:id":"SG_4tsAZBmVXe37lEkamS0NBx_39.086557_-94.418873@1303262932"
     },
     "wof:country":"US",
     "wof:created":1462604906,
-    "wof:geomhash":"80b86800390e6f5d09b09a41348a461e",
+    "wof:geomhash":"dc593a55c7a47a0892de813f4132887d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -65,8 +75,8 @@
         }
     ],
     "wof:id":807210703,
-    "wof:lastmodified":1472630516,
-    "wof:name":"National Frontier Trails Museu",
+    "wof:lastmodified":1534189366,
+    "wof:name":"National Frontier Trails Museum",
     "wof:parent_id":85833097,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mo",
@@ -77,10 +87,10 @@
     ]
 },
   "bbox": [
-    -94.418873,
-    39.086557,
-    -94.418873,
-    39.086557
+    -94.41899,
+    39.08666,
+    -94.41899,
+    39.08666
 ],
-  "geometry": {"coordinates":[-94.418873,39.086557],"type":"Point"}
+  "geometry": {"coordinates":[-94.41898999999999,39.08666],"type":"Point"}
 }

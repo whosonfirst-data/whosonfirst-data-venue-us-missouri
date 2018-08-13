@@ -7,6 +7,7 @@
     "addr:postcode":"65672",
     "addr:street":"Blue Ridge Dr",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.22727,36.541552,-93.22727,36.541552",
@@ -14,6 +15,7 @@
     "geom:longitude":-93.22727,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"226 Blue Ridge Dr",
     "sg:city":"Hollister",
     "sg:classifiers":[
@@ -41,15 +43,17 @@
     },
     "wof:country":"US",
     "wof:created":1462605774,
-    "wof:geomhash":"bd7fd74ce278fa1f7daf05173cd9d6ea",
+    "wof:geomhash":"e6a484d3d3348b794c99c04429ef53bf",
     "wof:hierarchy":[],
     "wof:id":807293095,
-    "wof:lastmodified":1472630634,
+    "wof:lastmodified":1534189357,
     "wof:name":"Bob Rainwater Painting Company",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mo",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        789896581
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "wallcoverings-installation",

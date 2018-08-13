@@ -2,18 +2,24 @@
   "id": 806955511,
   "type": "Feature",
   "properties": {
-    "addr:full":"6303 Michigan Ave St Louis MO 63111",
+    "addr:city":"St Louis",
+    "addr:full":"6303 Michigan Ave St Louis, Mo 63111-2504",
+    "addr:house_number":"6303",
     "addr:housenumber":"6303",
-    "addr:postcode":"63111",
+    "addr:phone":"+1 314-481-6303",
+    "addr:postcode":"63111-2504",
+    "addr:road":"Michigan Ave",
+    "addr:state":"MO",
     "addr:street":"Michigan Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-90.250027,38.558836,-90.250027,38.558836",
-    "geom:latitude":38.558836,
-    "geom:longitude":-90.250027,
+    "geom:bbox":"-90.24991,38.55894,-90.24991,38.55894",
+    "geom:latitude":38.55894,
+    "geom:longitude":-90.24991,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"6303 Michigan Ave",
     "sg:city":"St Louis",
     "sg:classifiers":[
@@ -36,7 +42,11 @@
         "gallery",
         "historical"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102525961,
+        102533437
+    ],
     "wof:belongsto":[
         85809597,
         102191575,
@@ -48,11 +58,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8402900674,
         "sg:id":"SG_4JimhkGGhklptDjZ3kPlNL_38.558836_-90.250027@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462602490,
-    "wof:geomhash":"73390796a67d5e146f79ce50861bbe29",
+    "wof:geomhash":"31ad385188c5ae912834ef9205f0228f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -66,7 +77,7 @@
         }
     ],
     "wof:id":806955511,
-    "wof:lastmodified":1472630776,
+    "wof:lastmodified":1534189366,
     "wof:name":"Carondelet Historical Society",
     "wof:parent_id":85809597,
     "wof:placetype":"venue",
@@ -79,10 +90,10 @@
     ]
 },
   "bbox": [
-    -90.250027,
-    38.558836,
-    -90.250027,
-    38.558836
+    -90.24991,
+    38.55894,
+    -90.24991,
+    38.55894
 ],
-  "geometry": {"coordinates":[-90.250027,38.558836],"type":"Point"}
+  "geometry": {"coordinates":[-90.24991,38.55894],"type":"Point"}
 }

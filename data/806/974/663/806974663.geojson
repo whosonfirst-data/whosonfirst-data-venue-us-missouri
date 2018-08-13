@@ -7,6 +7,7 @@
     "addr:postcode":"65803",
     "addr:street":"E Kearney St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.279494,37.240717,-93.279494,37.240717",
@@ -14,6 +15,7 @@
     "geom:longitude":-93.279494,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"917 E Kearney St",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1462602646,
-    "wof:geomhash":"5b9f8becfce59caeb111bc1242c570db",
+    "wof:geomhash":"0e17a639de2da0b43f1eabdc2dad9f64",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,12 +62,14 @@
         }
     ],
     "wof:id":806974663,
-    "wof:lastmodified":1472630793,
+    "wof:lastmodified":1534189366,
     "wof:name":"K Street Alignment",
     "wof:parent_id":85881167,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mo",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        807308913
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "automotive"

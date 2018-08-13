@@ -7,6 +7,7 @@
     "addr:postcode":"63501",
     "addr:street":"N Lincoln St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-92.572838,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"2302 N Lincoln St",
     "sg:city":"Kirksville",
     "sg:classifiers":[
@@ -44,12 +45,14 @@
     "wof:geomhash":"203573d569ac0290efbc83feb24dd52f",
     "wof:hierarchy":[],
     "wof:id":806404107,
-    "wof:lastmodified":1511323780,
+    "wof:lastmodified":1534189363,
     "wof:name":"Church Of The Nazarene",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mo",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        807188199
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "church"

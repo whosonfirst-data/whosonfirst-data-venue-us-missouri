@@ -14,6 +14,7 @@
     "geom:longitude":-90.191669,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"721 Olive St",
     "sg:city":"St Louis",
     "sg:classifiers":[
@@ -46,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1462589640,
-    "wof:geomhash":"1334576a12e9873d0b412f46f944d847",
+    "wof:geomhash":"5af189d37f51774ca41193347f0c175d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,13 +61,15 @@
         }
     ],
     "wof:id":789671833,
-    "wof:lastmodified":1472630341,
+    "wof:lastmodified":1534189351,
     "wof:name":"Dream Quest",
     "wof:parent_id":85867033,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        806915915
+    ],
     "wof:tags":[
         "bureau"
     ]

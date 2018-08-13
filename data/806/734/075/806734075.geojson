@@ -7,6 +7,7 @@
     "addr:postcode":"64865",
     "addr:street":"Cherokee",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-94.611338,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"1036 Cherokee",
     "sg:city":"Seneca",
     "sg:classifiers":[
@@ -56,12 +57,14 @@
         }
     ],
     "wof:id":806734075,
-    "wof:lastmodified":1510695391,
+    "wof:lastmodified":1534189363,
     "wof:name":"Simple Simon's Pizza",
     "wof:parent_id":85814333,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mo",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        202554205
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

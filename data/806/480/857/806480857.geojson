@@ -14,6 +14,7 @@
     "geom:longitude":-93.2644,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1736 E Sunshine St",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -47,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1462598475,
-    "wof:geomhash":"5e8a21865f66436be0bbf4a6c8b81de2",
+    "wof:geomhash":"8609dab1af569b8934dc7a223f400d01",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,13 +62,15 @@
         }
     ],
     "wof:id":806480857,
-    "wof:lastmodified":1472630353,
+    "wof:lastmodified":1534189353,
     "wof:name":"See Trust",
     "wof:parent_id":85829759,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        773555863
+    ],
     "wof:tags":[
         "trust",
         "management"

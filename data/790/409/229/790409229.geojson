@@ -7,6 +7,7 @@
     "addr:postcode":"64030",
     "addr:street":"Main St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.560208,38.892297,-94.560208,38.892297",
@@ -14,6 +15,7 @@
     "geom:longitude":-94.560208,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"4101 Main St",
     "sg:city":"Grandview",
     "sg:classifiers":[
@@ -44,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1462595607,
-    "wof:geomhash":"edb4559477d6737ab4b5b5d6780f1e47",
+    "wof:geomhash":"2e2967f61293985c0e17876cad305c19",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,12 +60,14 @@
         }
     ],
     "wof:id":790409229,
-    "wof:lastmodified":1472630824,
+    "wof:lastmodified":1534189362,
     "wof:name":"Drake-Scruggs Equipment Inc",
     "wof:parent_id":85871937,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mo",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        807208643
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

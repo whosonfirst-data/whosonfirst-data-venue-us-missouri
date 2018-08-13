@@ -7,6 +7,7 @@
     "addr:postcode":"65231",
     "addr:street":"S Main St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.897371,39.017486,-91.897371,39.017486",
@@ -14,6 +15,7 @@
     "geom:longitude":-91.897371,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"211 S Main St",
     "sg:city":"Auxvasse",
     "sg:classifiers":[
@@ -39,15 +41,17 @@
     },
     "wof:country":"US",
     "wof:created":1462587456,
-    "wof:geomhash":"0b5491d6090c7647196313328b96ab5b",
+    "wof:geomhash":"e5e03d2495d6f1aa92e1406bd9c2898e",
     "wof:hierarchy":[],
     "wof:id":773668495,
-    "wof:lastmodified":1472631100,
+    "wof:lastmodified":1534189364,
     "wof:name":"KINGDOM Telephone Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mo",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        807260837
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "company"

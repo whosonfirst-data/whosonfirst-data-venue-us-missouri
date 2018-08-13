@@ -2,18 +2,24 @@
   "id": 806575189,
   "type": "Feature",
   "properties": {
-    "addr:full":"115 E 2nd St Salisbury MO 65281",
+    "addr:city":"Salisbury",
+    "addr:full":"115 East Second St Salisbury, Mo 65281",
+    "addr:house_number":"115",
     "addr:housenumber":"115",
+    "addr:phone":"+1 660-388-5941",
     "addr:postcode":"65281",
+    "addr:road":"East Second St",
+    "addr:state":"MO",
     "addr:street":"E 2Nd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-92.801274,39.423756,-92.801274,39.423756",
-    "geom:latitude":39.423756,
-    "geom:longitude":-92.801274,
+    "geom:bbox":"-92.80003,39.42369,-92.80003,39.42369",
+    "geom:latitude":39.42369,
+    "geom:longitude":-92.80003,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"115 E 2nd St",
     "sg:city":"Salisbury",
     "sg:classifiers":[
@@ -27,19 +33,21 @@
     "sg:phone":"+1 660 388 5941",
     "sg:postcode":"65281",
     "sg:province":"MO",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[],
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8402900085,
         "sg:id":"SG_3m74KWgxpaR9MGFPF57NGe_39.423756_-92.801274@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462599273,
-    "wof:geomhash":"88f8470c68c1f43c747f536e02c7c77c",
+    "wof:geomhash":"6ea9b9afae3882240cb24d7728f284e1",
     "wof:hierarchy":[],
     "wof:id":806575189,
-    "wof:lastmodified":1472630371,
-    "wof:name":"Chariton County Historial",
+    "wof:lastmodified":1534189355,
+    "wof:name":"Chariton County Historical Society Museum",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mo",
@@ -48,10 +56,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -92.801274,
-    39.423756,
-    -92.801274,
-    39.423756
+    -92.80003,
+    39.42369,
+    -92.80003,
+    39.42369
 ],
-  "geometry": {"coordinates":[-92.80127400000001,39.423756],"type":"Point"}
+  "geometry": {"coordinates":[-92.80003000000001,39.42369],"type":"Point"}
 }

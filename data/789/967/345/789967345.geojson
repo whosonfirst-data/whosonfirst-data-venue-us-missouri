@@ -14,6 +14,7 @@
     "geom:longitude":-90.573557,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"15620 Manchester Rd",
     "sg:city":"Ellisville",
     "sg:classifiers":[
@@ -46,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1462592062,
-    "wof:geomhash":"9ae56814e40afbb87fa2cbd7122e5bd6",
+    "wof:geomhash":"ccc2f3e57bedfe33b9225f0513212552",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,13 +61,15 @@
         }
     ],
     "wof:id":789967345,
-    "wof:lastmodified":1472630760,
+    "wof:lastmodified":1534189359,
     "wof:name":"Physicians Recruiting Svc Inc",
     "wof:parent_id":85831197,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        790368559
+    ],
     "wof:tags":[
         "opportunity"
     ]

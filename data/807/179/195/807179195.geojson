@@ -14,6 +14,7 @@
     "geom:longitude":-90.836347,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"33024 Highway H",
     "sg:city":"Annada",
     "sg:classifiers":[
@@ -44,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1462604578,
-    "wof:geomhash":"411ac302f9cc3d6d11a7985a954dfbea",
+    "wof:geomhash":"25d4e93ceb6ceb7c48e60778d1aa6f86",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -56,13 +57,15 @@
         }
     ],
     "wof:id":807179195,
-    "wof:lastmodified":1472630465,
+    "wof:lastmodified":1534189363,
     "wof:name":"Robert Burkemper",
     "wof:parent_id":85817909,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        807018267
+    ],
     "wof:tags":[
         "product"
     ]

@@ -7,6 +7,7 @@
     "addr:postcode":"63052",
     "addr:street":"Main St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.377426,38.369007,-90.377426,38.369007",
@@ -14,6 +15,7 @@
     "geom:longitude":-90.377426,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1027 Main St",
     "sg:city":"Imperial",
     "sg:classifiers":[
@@ -44,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1462603398,
-    "wof:geomhash":"3607609a67eed132bf02882ea289606c",
+    "wof:geomhash":"21a3875cf76856ea9894a3567c6488a0",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -55,12 +57,14 @@
         }
     ],
     "wof:id":807063685,
-    "wof:lastmodified":1472630266,
+    "wof:lastmodified":1534189353,
     "wof:name":"Taylor's Fine Dining",
     "wof:parent_id":85805175,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mo",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        790181941
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "american"

@@ -7,6 +7,7 @@
     "addr:postcode":"65804",
     "addr:street":"E Seminole St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.263529,37.174342,-93.263529,37.174342",
@@ -14,6 +15,7 @@
     "geom:longitude":-93.263529,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1675 E Seminole St",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -64,7 +66,7 @@
     },
     "wof:country":"US",
     "wof:created":1462605975,
-    "wof:geomhash":"a2f255518e65989400f74f17d6fd396d",
+    "wof:geomhash":"93fb02a85caca35577249be2c17ea8e4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -78,12 +80,14 @@
         }
     ],
     "wof:id":807311701,
-    "wof:lastmodified":1472630728,
+    "wof:lastmodified":1534189357,
     "wof:name":"Shelter Insurance - Barbara Mitchell",
     "wof:parent_id":85829759,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mo",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        773397789
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "auto",

@@ -7,6 +7,7 @@
     "addr:postcode":"65804",
     "addr:street":"E Sunshine St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.263672,37.181648,-93.263672,37.181648",
@@ -14,6 +15,7 @@
     "geom:longitude":-93.263672,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1736 E Sunshine St",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -44,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1462603257,
-    "wof:geomhash":"a999012d2b4200b65f6b20b7ec36ae98",
+    "wof:geomhash":"118ccc42fccc6e74759c265ffd974ea0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,12 +60,14 @@
         }
     ],
     "wof:id":807045893,
-    "wof:lastmodified":1472630208,
+    "wof:lastmodified":1534189350,
     "wof:name":"Insurance Physicals Of Sw Mo",
     "wof:parent_id":85829759,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mo",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        773099951
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

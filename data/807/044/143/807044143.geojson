@@ -2,18 +2,24 @@
   "id": 807044143,
   "type": "Feature",
   "properties": {
-    "addr:full":"4746 Gravois Ave Saint Louis MO 63116",
+    "addr:city":"Saint Louis",
+    "addr:full":"4746 Gravois Ave Saint Louis, Mo 63116-2437",
+    "addr:house_number":"4746",
     "addr:housenumber":"4746",
-    "addr:postcode":"63116",
+    "addr:phone":"+1 314-832-7790",
+    "addr:postcode":"63116-2437",
+    "addr:road":"Gravois Ave",
+    "addr:state":"MO",
     "addr:street":"Gravois Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-90.266197,38.582199,-90.266197,38.582199",
-    "geom:latitude":38.582199,
-    "geom:longitude":-90.266197,
+    "geom:bbox":"-90.26563,38.58239,-90.26563,38.58239",
+    "geom:latitude":38.58239,
+    "geom:longitude":-90.26563,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"4746 Gravois Ave",
     "sg:city":"Saint Louis",
     "sg:classifiers":[
@@ -30,7 +36,11 @@
     "sg:tags":[
         "gallery"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102525961,
+        102533437
+    ],
     "wof:belongsto":[
         85873691,
         102191575,
@@ -42,11 +52,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8402900452,
         "sg:id":"SG_61zjbsTvTCTfBlThAGF8Qk_38.582480_-90.265592@1293134755"
     },
     "wof:country":"US",
     "wof:created":1462603244,
-    "wof:geomhash":"bf8079cb975aedc53b3fd3ff4cd85c87",
+    "wof:geomhash":"1873516b15e08cccd1f326bac093a7e1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,8 +71,8 @@
         }
     ],
     "wof:id":807044143,
-    "wof:lastmodified":1472630195,
-    "wof:name":"Miniature Museum of Greater St Louis",
+    "wof:lastmodified":1534189367,
+    "wof:name":"Miniature Museum Of Greater St Louis",
     "wof:parent_id":85873691,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mo",
@@ -72,10 +83,10 @@
     ]
 },
   "bbox": [
-    -90.266197,
-    38.582199,
-    -90.266197,
-    38.582199
+    -90.26563,
+    38.58239,
+    -90.26563,
+    38.58239
 ],
-  "geometry": {"coordinates":[-90.26619700000001,38.582199],"type":"Point"}
+  "geometry": {"coordinates":[-90.26563,38.58239],"type":"Point"}
 }

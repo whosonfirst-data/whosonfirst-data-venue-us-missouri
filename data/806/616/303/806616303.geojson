@@ -14,6 +14,7 @@
     "geom:longitude":-93.262083,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1949 E Sunshine St",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -49,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1462599623,
-    "wof:geomhash":"0f5e1a198a5ac2c571cb2dacd5f2c17f",
+    "wof:geomhash":"f9eb941a835f2728d8f63a36e3c5e148",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -63,13 +64,15 @@
         }
     ],
     "wof:id":806616303,
-    "wof:lastmodified":1472630470,
+    "wof:lastmodified":1534189357,
     "wof:name":"Woolsey & Assoc",
     "wof:parent_id":85829759,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        789721555
+    ],
     "wof:tags":[
         "consultant",
         "search",

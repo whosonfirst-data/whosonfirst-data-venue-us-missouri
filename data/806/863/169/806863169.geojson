@@ -7,6 +7,7 @@
     "addr:postcode":"65248",
     "addr:street":"N Cleveland St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-92.68955,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"515 N Cleveland St",
     "sg:city":"Fayette",
     "sg:classifiers":[
@@ -41,12 +42,14 @@
     "wof:geomhash":"5282632f09b4f742bc1a76868e31625a",
     "wof:hierarchy":[],
     "wof:id":806863169,
-    "wof:lastmodified":1512142787,
+    "wof:lastmodified":1534189365,
     "wof:name":"Mc Donald's",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mo",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        807262465
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

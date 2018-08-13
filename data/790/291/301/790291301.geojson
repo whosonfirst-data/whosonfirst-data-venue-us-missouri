@@ -14,6 +14,7 @@
     "geom:longitude":-93.27626,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1200 E Woodhurst Dr",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -46,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1462594702,
-    "wof:geomhash":"0c45282a0919933e591c8928c48ef1d5",
+    "wof:geomhash":"5794dbb0fadbb03722a9e7e50777fa06",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,13 +61,16 @@
         }
     ],
     "wof:id":790291301,
-    "wof:lastmodified":1472630706,
+    "wof:lastmodified":1534189357,
     "wof:name":"Allai W Wesley DDS Ms",
     "wof:parent_id":85881149,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        806738929,
+        807310051
+    ],
     "wof:tags":[
         "medical"
     ]

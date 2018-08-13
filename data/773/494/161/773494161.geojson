@@ -7,6 +7,7 @@
     "addr:postcode":"65804",
     "addr:street":"E Cherokee St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.274486,37.178246,-93.274486,37.178246",
@@ -14,6 +15,7 @@
     "geom:longitude":-93.274486,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1235 E Cherokee St",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1462586168,
-    "wof:geomhash":"a0930760e79941fe29af2f9ccc20f56a",
+    "wof:geomhash":"7141cf0edb004fcd6a5bbd0d976f1785",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,12 +62,14 @@
         }
     ],
     "wof:id":773494161,
-    "wof:lastmodified":1472631010,
+    "wof:lastmodified":1534189365,
     "wof:name":"SAINT JOHNS BEHAVIORAL HEALTH",
     "wof:parent_id":85881155,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mo",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        807310083
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "osteopathic"

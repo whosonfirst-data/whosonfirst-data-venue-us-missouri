@@ -7,6 +7,7 @@
     "addr:postcode":"63069",
     "addr:street":"Murphy Dr",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.795273,38.443901,-90.795273,38.443901",
@@ -14,6 +15,7 @@
     "geom:longitude":-90.795273,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"301 Murphy Dr",
     "sg:city":"Pacific",
     "sg:classifiers":[
@@ -38,15 +40,17 @@
     },
     "wof:country":"US",
     "wof:created":1462604009,
-    "wof:geomhash":"1de657be7a5aa8c001cf37c26cab72c1",
+    "wof:geomhash":"1768179a6723f7a68d871f970dc1cdb7",
     "wof:hierarchy":[],
     "wof:id":807125861,
-    "wof:lastmodified":1472630432,
+    "wof:lastmodified":1534189354,
     "wof:name":"Pacific Electrical Contractors, Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mo",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        806527459
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "electrician"

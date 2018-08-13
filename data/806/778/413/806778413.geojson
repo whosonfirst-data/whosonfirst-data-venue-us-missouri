@@ -2,18 +2,23 @@
   "id": 806778413,
   "type": "Feature",
   "properties": {
-    "addr:full":"1609 US Hwy 50 Kingsville MO 64061",
+    "addr:city":"Kingsville",
+    "addr:full":"1609 Nw Us Highway 50 Kingsville, Mo 64061-9130",
+    "addr:house_number":"1609",
     "addr:housenumber":"1609",
-    "addr:postcode":"64061",
+    "addr:postcode":"64061-9130",
+    "addr:road":"Nw Us Highway 50",
+    "addr:state":"MO",
     "addr:street":"Us Hwy 50",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-94.052486,38.864719,-94.052486,38.864719",
-    "geom:latitude":38.864719,
-    "geom:longitude":-94.052486,
+    "geom:bbox":"-94.04936,38.86283,-94.04936,38.86283",
+    "geom:latitude":38.86283,
+    "geom:longitude":-94.04936,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"1609 US Hwy 50",
     "sg:city":"Kingsville",
     "sg:classifiers":[
@@ -36,19 +41,21 @@
         "parks"
     ],
     "sg:website":"www.powellgardens.org",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[],
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8402900442,
         "sg:id":"SG_5lAJufVTT8i2Bsv2ZHWQf0_38.864719_-94.052486@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462601002,
-    "wof:geomhash":"b05c978bd9cc682063f1486710a2b9e9",
+    "wof:geomhash":"6d120562ab15f7e24809fc48a28657d2",
     "wof:hierarchy":[],
     "wof:id":806778413,
-    "wof:lastmodified":1472630583,
-    "wof:name":"Powell Gardens Inc",
+    "wof:lastmodified":1534189367,
+    "wof:name":"Powell Gardens",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mo",
@@ -59,10 +66,10 @@
     ]
 },
   "bbox": [
-    -94.052486,
-    38.864719,
-    -94.052486,
-    38.864719
+    -94.04936,
+    38.86283,
+    -94.04936,
+    38.86283
 ],
-  "geometry": {"coordinates":[-94.052486,38.864719],"type":"Point"}
+  "geometry": {"coordinates":[-94.04935999999999,38.86283],"type":"Point"}
 }

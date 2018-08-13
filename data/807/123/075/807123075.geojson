@@ -14,6 +14,7 @@
     "geom:longitude":-90.459549,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"13900 Saint Charles Rock Rd",
     "sg:city":"Bridgeton",
     "sg:classifiers":[
@@ -45,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1462603977,
-    "wof:geomhash":"09ce47e5566fca00658630c4c22b615e",
+    "wof:geomhash":"ed30339709c6738f6722d57431cccdd5",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -57,13 +58,15 @@
         }
     ],
     "wof:id":807123075,
-    "wof:lastmodified":1472630373,
+    "wof:lastmodified":1534189360,
     "wof:name":"Pattonville Fire Protection District",
     "wof:parent_id":85806637,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        806802005
+    ],
     "wof:tags":[
         "consultant",
         "protection"

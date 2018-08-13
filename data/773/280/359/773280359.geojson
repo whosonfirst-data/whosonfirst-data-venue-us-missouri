@@ -2,18 +2,24 @@
   "id": 773280359,
   "type": "Feature",
   "properties": {
-    "addr:full":"1205 Jones Ave Grandview MO 64030",
+    "addr:city":"Grandview",
+    "addr:full":"1205 Jones Ave Grandview, Mo 64030",
+    "addr:house_number":"1205",
     "addr:housenumber":"1205",
+    "addr:phone":"+1 816-761-0414",
     "addr:postcode":"64030",
+    "addr:road":"Jones Ave",
+    "addr:state":"MO",
     "addr:street":"Jones Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-94.530213,38.890841,-94.530213,38.890841",
-    "geom:latitude":38.890841,
-    "geom:longitude":-94.530213,
+    "geom:bbox":"-94.53183,38.8909,-94.53183,38.8909",
+    "geom:latitude":38.8909,
+    "geom:longitude":-94.53183,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"1205 Jones Ave",
     "sg:city":"Grandview",
     "sg:classifiers":[
@@ -27,7 +33,10 @@
     "sg:phone":"+1 816 761 0414",
     "sg:postcode":"64030",
     "sg:province":"MO",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102532927
+    ],
     "wof:belongsto":[
         85871945,
         102191575,
@@ -39,11 +48,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8402900075,
         "sg:id":"SG_6Br8VlnRnJiZoDad8YQp0c_38.890841_-94.530213@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462584517,
-    "wof:geomhash":"d76397f2d9e2704bbdf1615cbef84414",
+    "wof:geomhash":"262bff8e55faff309bcbe3e3af8c8a78",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +67,7 @@
         }
     ],
     "wof:id":773280359,
-    "wof:lastmodified":1472630950,
+    "wof:lastmodified":1534189354,
     "wof:name":"Grandview Depot Museum",
     "wof:parent_id":85871945,
     "wof:placetype":"venue",
@@ -67,10 +77,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -94.530213,
-    38.890841,
-    -94.530213,
-    38.890841
+    -94.53183,
+    38.8909,
+    -94.53183,
+    38.8909
 ],
-  "geometry": {"coordinates":[-94.530213,38.890841],"type":"Point"}
+  "geometry": {"coordinates":[-94.53183,38.8909],"type":"Point"}
 }

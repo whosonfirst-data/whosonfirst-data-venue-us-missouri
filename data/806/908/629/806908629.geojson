@@ -7,6 +7,7 @@
     "addr:postcode":"64106",
     "addr:street":"E;St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.575066,39.099647,-94.575066,39.099647",
@@ -14,6 +15,7 @@
     "geom:longitude":-94.575066,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"601 E 12 St",
     "sg:city":"Kansas City",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1462602082,
-    "wof:geomhash":"9716522ea6a311e47334c9c5159470d9",
+    "wof:geomhash":"a0d57ac2f8a96facf6bbfc5e8570d681",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,12 +62,14 @@
         }
     ],
     "wof:id":806908629,
-    "wof:lastmodified":1472630726,
+    "wof:lastmodified":1534189363,
     "wof:name":"Southern Foodservice Mngm Inc",
     "wof:parent_id":85867019,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mo",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        806948987
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"

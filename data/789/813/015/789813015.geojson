@@ -2,18 +2,24 @@
   "id": 789813015,
   "type": "Feature",
   "properties": {
-    "addr:full":"1401 Forest Dr Chillicothe MO 64601",
+    "addr:city":"Chillicothe",
+    "addr:full":"1401 Forest Dr Chillicothe, Mo 64601",
+    "addr:house_number":"1401",
     "addr:housenumber":"1401",
+    "addr:phone":"+1 660-646-1341",
     "addr:postcode":"64601",
+    "addr:road":"Forest Dr",
+    "addr:state":"MO",
     "addr:street":"Forest Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-93.558317,39.802186,-93.558317,39.802186",
-    "geom:latitude":39.802186,
-    "geom:longitude":-93.558317,
+    "geom:bbox":"-93.55607,39.79732,-93.55607,39.79732",
+    "geom:latitude":39.79732,
+    "geom:longitude":-93.55607,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"1401 Forest Dr",
     "sg:city":"Chillicothe",
     "sg:classifiers":[
@@ -27,18 +33,20 @@
     "sg:phone":"+1 660 646 1341",
     "sg:postcode":"64601",
     "sg:province":"MO",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[],
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8402900067,
         "sg:id":"SG_5b6ZcpApffS7PT2Mw9eCkm_39.802186_-93.558317@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462590738,
-    "wof:geomhash":"9dc231ee13dd08f8f9f8084ff984f689",
+    "wof:geomhash":"b2a892d041bc3e8de7f9b64315e815ed",
     "wof:hierarchy":[],
     "wof:id":789813015,
-    "wof:lastmodified":1472630579,
+    "wof:lastmodified":1534189354,
     "wof:name":"Grandriver Historical Society",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -48,10 +56,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -93.558317,
-    39.802186,
-    -93.558317,
-    39.802186
+    -93.55607,
+    39.79732,
+    -93.55607,
+    39.79732
 ],
-  "geometry": {"coordinates":[-93.558317,39.802186],"type":"Point"}
+  "geometry": {"coordinates":[-93.55607000000001,39.79732],"type":"Point"}
 }

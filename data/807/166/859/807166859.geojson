@@ -2,18 +2,25 @@
   "id": 807166859,
   "type": "Feature",
   "properties": {
-    "addr:full":"2307 Cherokee St St Louis MO 63118",
+    "addr:city":"Saint Louis",
+    "addr:full":"2307 Cherokee Street 3Rd Floor Saint Louis, Mo 63118-3250",
+    "addr:house_number":"2307",
     "addr:housenumber":"2307",
-    "addr:postcode":"63118",
+    "addr:level":"3Rd Floor",
+    "addr:phone":"+1 314-772-2668",
+    "addr:postcode":"63118-3250",
+    "addr:road":"Cherokee Street",
+    "addr:state":"MO",
     "addr:street":"Cherokee St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-90.224464,38.593399,-90.224464,38.593399",
-    "geom:latitude":38.593399,
-    "geom:longitude":-90.224464,
+    "geom:bbox":"-90.22425,38.59319,-90.22425,38.59319",
+    "geom:latitude":38.59319,
+    "geom:longitude":-90.22425,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"2307 Cherokee St",
     "sg:city":"St Louis",
     "sg:classifiers":[
@@ -28,7 +35,11 @@
     "sg:postcode":"63118",
     "sg:province":"MO",
     "sg:website":"bootscontemporaryartspace.org/bl...",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102525961,
+        102533437
+    ],
     "wof:belongsto":[
         85873679,
         102191575,
@@ -40,11 +51,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8402900222,
         "sg:id":"SG_3OVwRGHagGgqBktRYe0dxb_38.593399_-90.224464@1303262929"
     },
     "wof:country":"US",
     "wof:created":1462604446,
-    "wof:geomhash":"388ad4a3cae360179cc564d23054f956",
+    "wof:geomhash":"131d8428858a5cc781ee4575f2bf63af",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +70,7 @@
         }
     ],
     "wof:id":807166859,
-    "wof:lastmodified":1472630453,
+    "wof:lastmodified":1534189366,
     "wof:name":"Boots Contemporary Art Space",
     "wof:parent_id":85873679,
     "wof:placetype":"venue",
@@ -68,10 +80,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -90.224464,
-    38.593399,
-    -90.224464,
-    38.593399
+    -90.22425,
+    38.59319,
+    -90.22425,
+    38.59319
 ],
-  "geometry": {"coordinates":[-90.224464,38.593399],"type":"Point"}
+  "geometry": {"coordinates":[-90.22425,38.59319],"type":"Point"}
 }

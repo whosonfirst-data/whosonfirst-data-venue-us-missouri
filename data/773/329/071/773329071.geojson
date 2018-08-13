@@ -14,6 +14,7 @@
     "geom:longitude":-90.475688,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"12977 N 40 Dr",
     "sg:city":"Saint Louis",
     "sg:classifiers":[
@@ -46,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1462584902,
-    "wof:geomhash":"37529c229795a6d29dd385d672d3e0ca",
+    "wof:geomhash":"1b464d851e23deff510d29547b808fec",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,13 +61,15 @@
         }
     ],
     "wof:id":773329071,
-    "wof:lastmodified":1472631025,
+    "wof:lastmodified":1534189355,
     "wof:name":"C R Williams Inc",
     "wof:parent_id":85802943,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        789644243
+    ],
     "wof:tags":[
         "advisory"
     ]

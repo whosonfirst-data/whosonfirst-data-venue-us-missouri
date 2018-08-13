@@ -2,18 +2,24 @@
   "id": 773704199,
   "type": "Feature",
   "properties": {
-    "addr:full":"3210 E Meyer Blvd Kansas City MO 64132",
+    "addr:city":"Kansas City",
+    "addr:full":"3210 E Meyer Blvd Kansas City, Mo 64132-1218",
+    "addr:house_number":"3210",
     "addr:housenumber":"3210",
-    "addr:postcode":"64132",
+    "addr:phone":"+1 816-523-1057",
+    "addr:postcode":"64132-1218",
+    "addr:road":"E Meyer Blvd",
+    "addr:state":"MO",
     "addr:street":"E Meyer Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-94.548337,39.007916,-94.548337,39.007916",
-    "geom:latitude":39.007916,
-    "geom:longitude":-94.548337,
+    "geom:bbox":"-94.54928,39.00796,-94.54928,39.00796",
+    "geom:latitude":39.00796,
+    "geom:longitude":-94.54928,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"3210 E Meyer Blvd",
     "sg:city":"Kansas City",
     "sg:classifiers":[
@@ -30,7 +36,10 @@
     "sg:tags":[
         "gallery"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102532927
+    ],
     "wof:belongsto":[
         85833733,
         102191575,
@@ -42,11 +51,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8402900741,
         "sg:id":"SG_25IpXBKwxWcnR3eFd8d7JO_39.007916_-94.548337@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462587754,
-    "wof:geomhash":"6b368464c41f6e830457b2a9ca52e919",
+    "wof:geomhash":"144e319e79259d4cd9eef889e01631b3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,7 +70,7 @@
         }
     ],
     "wof:id":773704199,
-    "wof:lastmodified":1472631099,
+    "wof:lastmodified":1534189367,
     "wof:name":"Missouri Society For Histology",
     "wof:parent_id":85833733,
     "wof:placetype":"venue",
@@ -72,10 +82,10 @@
     ]
 },
   "bbox": [
-    -94.548337,
-    39.007916,
-    -94.548337,
-    39.007916
+    -94.54928,
+    39.00796,
+    -94.54928,
+    39.00796
 ],
-  "geometry": {"coordinates":[-94.548337,39.007916],"type":"Point"}
+  "geometry": {"coordinates":[-94.54928,39.00796],"type":"Point"}
 }

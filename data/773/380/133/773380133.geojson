@@ -14,6 +14,7 @@
     "geom:longitude":-93.292416,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"149 Park Central Sq",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -46,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1462585252,
-    "wof:geomhash":"9980dd1a811f88f773ce6e8c1b902fb9",
+    "wof:geomhash":"8844e75d5be43fc20baf1273cf670855",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,13 +61,15 @@
         }
     ],
     "wof:id":773380133,
-    "wof:lastmodified":1472630963,
+    "wof:lastmodified":1534189357,
     "wof:name":"Secretary Of State Ofc",
     "wof:parent_id":85881119,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        789659663
+    ],
     "wof:tags":[
         "state"
     ]

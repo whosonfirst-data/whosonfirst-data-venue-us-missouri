@@ -2,18 +2,24 @@
   "id": 789667661,
   "type": "Feature",
   "properties": {
-    "addr:full":"146 W 61 Ter Kansas City MO 64113",
+    "addr:city":"Kansas City",
+    "addr:full":"146 W 61St Terrace Kansas City, Mo 64113",
+    "addr:house_number":"146",
     "addr:housenumber":"146",
+    "addr:phone":"+1 816-444-1858",
     "addr:postcode":"64113",
+    "addr:road":"W 61St Terrace",
+    "addr:state":"MO",
     "addr:street":"W 61 Ter",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-94.59177,39.016742,-94.59177,39.016742",
-    "geom:latitude":39.016742,
-    "geom:longitude":-94.59177,
+    "geom:bbox":"-94.59299,39.01658,-94.59299,39.01658",
+    "geom:latitude":39.01658,
+    "geom:longitude":-94.59299,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"146 W 61 Ter",
     "sg:city":"Kansas City",
     "sg:classifiers":[
@@ -30,7 +36,10 @@
     "sg:tags":[
         "gallery"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102532927
+    ],
     "wof:belongsto":[
         85872031,
         102191575,
@@ -42,11 +51,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8402900008,
         "sg:id":"SG_6ML3q2kqCX6ZUHAvRFn8WZ_39.016742_-94.591770@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462589611,
-    "wof:geomhash":"d2fb313ada8c6fe0c93011898a037ed3",
+    "wof:geomhash":"5b34c3bf5bc96899d4734c47be74579a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,8 +70,8 @@
         }
     ],
     "wof:id":789667661,
-    "wof:lastmodified":1472630331,
-    "wof:name":"Wornall John House Museum",
+    "wof:lastmodified":1534189366,
+    "wof:name":"Wornall House Museum",
     "wof:parent_id":85872031,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mo",
@@ -72,10 +82,10 @@
     ]
 },
   "bbox": [
-    -94.59177,
-    39.016742,
-    -94.59177,
-    39.016742
+    -94.59299,
+    39.01658,
+    -94.59299,
+    39.01658
 ],
-  "geometry": {"coordinates":[-94.59177,39.016742],"type":"Point"}
+  "geometry": {"coordinates":[-94.59299,39.01658],"type":"Point"}
 }

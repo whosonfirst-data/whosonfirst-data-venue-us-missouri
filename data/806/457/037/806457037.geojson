@@ -7,6 +7,7 @@
     "addr:postcode":"63123",
     "addr:street":"Concord Village Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.353625,38.525707,-90.353625,38.525707",
@@ -14,6 +15,7 @@
     "geom:longitude":-90.353625,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"11400 Concord Village Ave",
     "sg:city":"Saint Louis",
     "sg:classifiers":[
@@ -35,15 +37,17 @@
     },
     "wof:country":"US",
     "wof:created":1462598292,
-    "wof:geomhash":"2dfd93e1770da8182bb66f06340dd74f",
+    "wof:geomhash":"a0d3677b5abb0f707fbe26dad67ce3c6",
     "wof:hierarchy":[],
     "wof:id":806457037,
-    "wof:lastmodified":1472630297,
+    "wof:lastmodified":1534189353,
     "wof:name":"R L Haney Insuranc Agency",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mo",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        773248261
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

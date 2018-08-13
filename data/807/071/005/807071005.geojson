@@ -7,6 +7,7 @@
     "addr:postcode":"63304",
     "addr:street":"S Old Highway 94",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.582188,38.744356,-90.582188,38.744356",
@@ -14,6 +15,7 @@
     "geom:longitude":-90.582188,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"4203 S Old Highway 94",
     "sg:city":"Saint Charles",
     "sg:classifiers":[
@@ -39,15 +41,17 @@
     },
     "wof:country":"US",
     "wof:created":1462603453,
-    "wof:geomhash":"2c6502618624cfda9cf76e3642931824",
+    "wof:geomhash":"b4fdc1f800805b44f9397681459e45c6",
     "wof:hierarchy":[],
     "wof:id":807071005,
-    "wof:lastmodified":1472630253,
+    "wof:lastmodified":1534189355,
     "wof:name":"La Carreta",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mo",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        789822807
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "mexican"

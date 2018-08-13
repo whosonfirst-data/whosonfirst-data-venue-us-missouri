@@ -7,6 +7,7 @@
     "addr:postcode":"65804",
     "addr:street":"S National Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.27667,37.17999,-93.27667,37.17999",
@@ -14,6 +15,7 @@
     "geom:longitude":-93.27667,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1900 S National Ave",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1462601747,
-    "wof:geomhash":"e7a8144774bda5090a07e76596eaf51e",
+    "wof:geomhash":"161d22898debb3a4756aecf72911a19c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,12 +62,14 @@
         }
     ],
     "wof:id":806866853,
-    "wof:lastmodified":1472630701,
+    "wof:lastmodified":1534189357,
     "wof:name":"S J C - Pulmonology - National",
     "wof:parent_id":85881155,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mo",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        806624481
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"

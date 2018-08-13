@@ -7,6 +7,7 @@
     "addr:postcode":"65806",
     "addr:street":"E Walnut St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.291353,37.207106,-93.291353,37.207106",
@@ -14,6 +15,7 @@
     "geom:longitude":-93.291353,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"305 E Walnut St",
     "sg:city":"Springfield",
     "sg:classifiers":[],
@@ -38,7 +40,7 @@
     },
     "wof:country":"US",
     "wof:created":1462605988,
-    "wof:geomhash":"c18a02914950b0924e47519ea7ca0083",
+    "wof:geomhash":"060c337bf76b29812cbc606fe8cc7705",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -52,12 +54,14 @@
         }
     ],
     "wof:id":807312763,
-    "wof:lastmodified":1472630696,
+    "wof:lastmodified":1534189356,
     "wof:name":"Vandivort Center Theatre",
     "wof:parent_id":85881119,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mo",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        790257837
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

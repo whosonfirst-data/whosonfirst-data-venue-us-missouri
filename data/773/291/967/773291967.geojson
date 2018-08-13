@@ -14,6 +14,7 @@
     "geom:longitude":-90.199728,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1200 Market St",
     "sg:city":"St Louis",
     "sg:classifiers":[
@@ -46,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1462584615,
-    "wof:geomhash":"12e8c9273ffff6e9d5a727f9d536d2fe",
+    "wof:geomhash":"0b8a0e51edcaaefd037923cb3be90133",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,13 +61,15 @@
         }
     ],
     "wof:id":773291967,
-    "wof:lastmodified":1472631052,
+    "wof:lastmodified":1534189354,
     "wof:name":"St Louis Registers Office",
     "wof:parent_id":85873645,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        806815355
+    ],
     "wof:tags":[
         "village"
     ]

@@ -2,18 +2,24 @@
   "id": 806482101,
   "type": "Feature",
   "properties": {
-    "addr:full":"15189 Olive Blvd Chesterfield MO 63017",
+    "addr:city":"Chesterfield",
+    "addr:full":"15189 Olive Blvd Chesterfield, Mo 63017-1805",
+    "addr:house_number":"15189",
     "addr:housenumber":"15189",
-    "addr:postcode":"63017",
+    "addr:phone":"+1 314-615-8328",
+    "addr:postcode":"63017-1805",
+    "addr:road":"Olive Blvd",
+    "addr:state":"MO",
     "addr:street":"Olive Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-90.542544,38.662907,-90.542544,38.662907",
-    "geom:latitude":38.662907,
-    "geom:longitude":-90.542544,
+    "geom:bbox":"-90.54326,38.66248,-90.54326,38.66248",
+    "geom:latitude":38.66248,
+    "geom:longitude":-90.54326,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"15189 Olive Blvd",
     "sg:city":"Chesterfield",
     "sg:classifiers":[
@@ -31,7 +37,11 @@
         "banquet",
         "rooms"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102525961,
+        102533513
+    ],
     "wof:belongsto":[
         85805465,
         102191575,
@@ -43,11 +53,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8402900384,
         "sg:id":"SG_5GCNXPOdRWbY1G9ftVEW1X_38.662907_-90.542544@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462598484,
-    "wof:geomhash":"9d827ae535875501b3d3d461ed0de5d0",
+    "wof:geomhash":"298cfaaf838d6e0e298779de94ed0714",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,8 +72,8 @@
         }
     ],
     "wof:id":806482101,
-    "wof:lastmodified":1472630303,
-    "wof:name":"Faust Cultural Heritage Found",
+    "wof:lastmodified":1534189353,
+    "wof:name":"Faust Park Foundation",
     "wof:parent_id":85805465,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mo",
@@ -74,10 +85,10 @@
     ]
 },
   "bbox": [
-    -90.542544,
-    38.662907,
-    -90.542544,
-    38.662907
+    -90.54326,
+    38.66248,
+    -90.54326,
+    38.66248
 ],
-  "geometry": {"coordinates":[-90.54254400000001,38.662907],"type":"Point"}
+  "geometry": {"coordinates":[-90.54326,38.66248],"type":"Point"}
 }

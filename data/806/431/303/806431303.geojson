@@ -14,6 +14,7 @@
     "geom:longitude":-94.449971,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"10900 E Truman Rd",
     "sg:city":"Independence",
     "sg:classifiers":[
@@ -47,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1462598097,
-    "wof:geomhash":"ef1c369d238e1d69da8a59c8e418dd76",
+    "wof:geomhash":"226d8bcf86de2fa980d855bd7e8d2765",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,13 +62,15 @@
         }
     ],
     "wof:id":806431303,
-    "wof:lastmodified":1472630248,
+    "wof:lastmodified":1534189351,
     "wof:name":"Ted's Trash Svc",
     "wof:parent_id":85833097,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        807211495
+    ],
     "wof:tags":[
         "garbage",
         "collection"

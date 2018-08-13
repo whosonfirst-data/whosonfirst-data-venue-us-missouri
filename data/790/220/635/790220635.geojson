@@ -7,6 +7,7 @@
     "addr:postcode":"65804",
     "addr:street":"E Seminole St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.264209,37.17442,-93.264209,37.17442",
@@ -14,6 +15,7 @@
     "geom:longitude":-93.264209,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1675 E Seminole St",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -47,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1462594107,
-    "wof:geomhash":"0877190428e460da181e3b246e2680d5",
+    "wof:geomhash":"b21fd8122eb88196cf5e2785c57f09b4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,12 +63,14 @@
         }
     ],
     "wof:id":790220635,
-    "wof:lastmodified":1472630506,
+    "wof:lastmodified":1534189355,
     "wof:name":"First Financial Services",
     "wof:parent_id":85829759,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mo",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        773332053
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "broker",

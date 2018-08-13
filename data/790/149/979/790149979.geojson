@@ -14,6 +14,7 @@
     "geom:longitude":-90.384531,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"11648 Gravois Rd",
     "sg:city":"Sappington",
     "sg:classifiers":[
@@ -46,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1462593505,
-    "wof:geomhash":"9d78faf59d055eec825363a94fe99c7d",
+    "wof:geomhash":"dcb89b180dcc79863071e4a3e32afdf9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,13 +61,15 @@
         }
     ],
     "wof:id":790149979,
-    "wof:lastmodified":1472630418,
+    "wof:lastmodified":1534189352,
     "wof:name":"Kip Mc Grath Education Ctr",
     "wof:parent_id":85858243,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        806898583
+    ],
     "wof:tags":[
         "tutoring"
     ]

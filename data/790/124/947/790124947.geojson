@@ -7,6 +7,7 @@
     "addr:postcode":"64119",
     "addr:street":"Ne 83Rd St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.539853,39.244079,-94.539853,39.244079",
@@ -14,6 +15,7 @@
     "geom:longitude":-94.539853,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3100 NE 83rd St",
     "sg:city":"Kansas City",
     "sg:classifiers":[
@@ -47,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1462593327,
-    "wof:geomhash":"54b6246bbc290bb636296461c027ebfb",
+    "wof:geomhash":"e053a47970a839c8d5234ced19a167c4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,12 +63,14 @@
         }
     ],
     "wof:id":790124947,
-    "wof:lastmodified":1472630417,
+    "wof:lastmodified":1534189352,
     "wof:name":"Tri Cnty Cmnty Mntal Hlth Svcs",
     "wof:parent_id":85821231,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mo",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        789717013
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "specialty",

@@ -7,6 +7,7 @@
     "addr:postcode":"63101",
     "addr:street":"Lucas Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.196505,38.632303,-90.196505,38.632303",
@@ -14,6 +15,7 @@
     "geom:longitude":-90.196505,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1101 Lucas Ave",
     "sg:city":"Saint Louis",
     "sg:classifiers":[
@@ -43,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1462587286,
-    "wof:geomhash":"4cb7f3f21381bfac996253e95207b42d",
+    "wof:geomhash":"254495f1ee8a62a62ea8c9053028005e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,12 +59,14 @@
         }
     ],
     "wof:id":773644377,
-    "wof:lastmodified":1472631074,
+    "wof:lastmodified":1534189357,
     "wof:name":"John E Tresslar PC",
     "wof:parent_id":85873643,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mo",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        789894489
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -7,6 +7,7 @@
     "addr:postcode":"65201",
     "addr:street":"Lemone Industrial Blvd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.291656,38.918652,-92.291656,38.918652",
@@ -14,6 +15,7 @@
     "geom:longitude":-92.291656,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3101 Lemone Industrial Blvd",
     "sg:city":"Columbia",
     "sg:classifiers":[],
@@ -35,7 +37,7 @@
         "sg:id":"SG_1U62Esw2orVIOIBavfUBkn_38.918652_-92.291656@1303262935"
     },
     "wof:country":"US",
-    "wof:geomhash":"6df9f13db541f3e360545f548904df78",
+    "wof:geomhash":"b8d57269ea52d34b04b14d0ec1ac8e92",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -48,12 +50,14 @@
         }
     ],
     "wof:id":202597049,
-    "wof:lastmodified":1472630554,
+    "wof:lastmodified":1534189354,
     "wof:name":"Perry Legend Collision Repair Center, Inc",
     "wof:parent_id":85835171,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mo",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        773305941
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -7,6 +7,7 @@
     "addr:postcode":"63122",
     "addr:street":"Couch Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.425348,38.571806,-90.425348,38.571806",
@@ -14,6 +15,7 @@
     "geom:longitude":-90.425348,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"533 Couch Ave",
     "sg:city":"Kirkwood",
     "sg:classifiers":[
@@ -47,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1462600309,
-    "wof:geomhash":"4660389e806258540b904f20e29a2b13",
+    "wof:geomhash":"3c65710d53a102a6b6d438022ce9d396",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,12 +63,14 @@
         }
     ],
     "wof:id":806696647,
-    "wof:lastmodified":1472630606,
+    "wof:lastmodified":1534189350,
     "wof:name":"Sudha R Saha MD",
     "wof:parent_id":85858661,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mo",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        806379261
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "physician",

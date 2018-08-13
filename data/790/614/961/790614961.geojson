@@ -2,18 +2,24 @@
   "id": 790614961,
   "type": "Feature",
   "properties": {
-    "addr:full":"600 Butler St Hannibal MO 63401",
+    "addr:city":"Hannibal",
+    "addr:full":"600 Butler St Hannibal, Mo 63401",
+    "addr:house_number":"600",
     "addr:housenumber":"600",
+    "addr:phone":"+1 573-221-2100",
     "addr:postcode":"63401",
+    "addr:road":"Butler St",
+    "addr:state":"MO",
     "addr:street":"Butler St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-91.363386,39.712586,-91.363386,39.712586",
-    "geom:latitude":39.712586,
-    "geom:longitude":-91.363386,
+    "geom:bbox":"-91.36444,39.71265,-91.36444,39.71265",
+    "geom:latitude":39.71265,
+    "geom:longitude":-91.36444,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"600 Butler St",
     "sg:city":"Hannibal",
     "sg:classifiers":[
@@ -30,7 +36,8 @@
     "sg:tags":[
         "gallery"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[],
     "wof:belongsto":[
         420525383,
         102191575,
@@ -42,11 +49,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8402900042,
         "sg:id":"SG_4W6gOlE48hVUjogdOn0wHU_39.712586_-91.363386@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462597359,
-    "wof:geomhash":"a2e3dba4b48e836efcdfe0c979216125",
+    "wof:geomhash":"41c9836896352535532a006045f5393a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,8 +68,8 @@
         }
     ],
     "wof:id":790614961,
-    "wof:lastmodified":1472630914,
-    "wof:name":"Molly Brown Birthplace Museum",
+    "wof:lastmodified":1534189367,
+    "wof:name":"Molly Brown Birthplace And Museum",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mo",
@@ -72,10 +80,10 @@
     ]
 },
   "bbox": [
-    -91.363386,
-    39.712586,
-    -91.363386,
-    39.712586
+    -91.36444,
+    39.71265,
+    -91.36444,
+    39.71265
 ],
-  "geometry": {"coordinates":[-91.36338600000001,39.712586],"type":"Point"}
+  "geometry": {"coordinates":[-91.36444,39.71265],"type":"Point"}
 }

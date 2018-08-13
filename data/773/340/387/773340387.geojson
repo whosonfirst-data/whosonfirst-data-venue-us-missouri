@@ -14,6 +14,7 @@
     "geom:longitude":-94.57659,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5400 N Oak Fwy",
     "sg:city":"Kansas City",
     "sg:classifiers":[
@@ -47,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1462584983,
-    "wof:geomhash":"de216a65d06450f7b06193fa1fa03cd6",
+    "wof:geomhash":"0d135c3b41c25f276c21e2cd32bf8ef7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,13 +62,15 @@
         }
     ],
     "wof:id":773340387,
-    "wof:lastmodified":1472630973,
+    "wof:lastmodified":1534189356,
     "wof:name":"Surgical Hartland Assoc PC",
     "wof:parent_id":420525307,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        773446273
+    ],
     "wof:tags":[
         "surgery",
         "general"

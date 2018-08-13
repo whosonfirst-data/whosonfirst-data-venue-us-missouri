@@ -7,6 +7,7 @@
     "addr:postcode":"63640",
     "addr:street":"Hillsboro Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.461909,37.903705,-90.461909,37.903705",
@@ -14,6 +15,7 @@
     "geom:longitude":-90.461909,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"4901 Hillsboro Rd",
     "sg:city":"Farmington",
     "sg:classifiers":[
@@ -44,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1462596381,
-    "wof:geomhash":"37c1bbc6a42fd0593735ef2547fd4011",
+    "wof:geomhash":"6363433ba11e1c7815c55fd4af6c992e",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -56,12 +58,14 @@
         }
     ],
     "wof:id":790501739,
-    "wof:lastmodified":1472630869,
+    "wof:lastmodified":1534189362,
     "wof:name":"St Francois Country Club",
     "wof:parent_id":85816309,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mo",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        807191657
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "course"

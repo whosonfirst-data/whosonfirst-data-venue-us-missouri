@@ -7,6 +7,7 @@
     "addr:postcode":"63139",
     "addr:street":"Manchester Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-90.304655,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"6700 Manchester Ave",
     "sg:city":"St Louis",
     "sg:classifiers":[
@@ -63,12 +64,15 @@
         }
     ],
     "wof:id":773708187,
-    "wof:lastmodified":1511990727,
+    "wof:lastmodified":1534189364,
     "wof:name":"Little Caesars Pizza",
     "wof:parent_id":85805777,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mo",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        790305535,
+        186416773
+    ],
     "wof:supersedes":[
         807069139
     ],

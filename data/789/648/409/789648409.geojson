@@ -2,18 +2,24 @@
   "id": 789648409,
   "type": "Feature",
   "properties": {
-    "addr:full":"712 S Peach Tree Ave Springfield MO 65802",
+    "addr:city":"Springfield",
+    "addr:full":"712 S Peach Tree Ave Springfield, Mo 65802-2783",
+    "addr:house_number":"712",
     "addr:housenumber":"712",
-    "addr:postcode":"65802",
+    "addr:phone":"+1 417-866-6908",
+    "addr:postcode":"65802-2783",
+    "addr:road":"S Peach Tree Ave",
+    "addr:state":"MO",
     "addr:street":"S Peach Tree Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-93.241847,37.201452,-93.241847,37.201452",
-    "geom:latitude":37.201452,
-    "geom:longitude":-93.241847,
+    "geom:bbox":"-93.24142,37.2005,-93.24142,37.2005",
+    "geom:latitude":37.2005,
+    "geom:longitude":-93.24142,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"712 S Peach Tree Ave",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -27,21 +33,25 @@
     "sg:phone":"+1 417 866 6908",
     "sg:postcode":"65802",
     "sg:province":"MO",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102533497
+    ],
     "wof:belongsto":[
-        85688661,
+        85881137,
         85633793,
         85971363,
         102087523,
-        85881137
+        85688661
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8402900406,
         "sg:id":"SG_6DEZh4giBhpVMDNrthEQ1D_37.201452_-93.241847@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462589438,
-    "wof:geomhash":"846cfe590203a0e1d11838154e363119",
+    "wof:geomhash":"22a74be4d51f32c66ed75330b3201611",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,8 +63,8 @@
         }
     ],
     "wof:id":789648409,
-    "wof:lastmodified":1472630276,
-    "wof:name":"Trogdon Historical Societ",
+    "wof:lastmodified":1534189367,
+    "wof:name":"Trogdon Historical Society",
     "wof:parent_id":85881137,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mo",
@@ -63,10 +73,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -93.241847,
-    37.201452,
-    -93.241847,
-    37.201452
+    -93.24142,
+    37.2005,
+    -93.24142,
+    37.2005
 ],
-  "geometry": {"coordinates":[-93.24184700000001,37.201452],"type":"Point"}
+  "geometry": {"coordinates":[-93.24142000000001,37.2005],"type":"Point"}
 }

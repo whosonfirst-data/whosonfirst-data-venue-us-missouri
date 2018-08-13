@@ -7,6 +7,7 @@
     "addr:postcode":"64116",
     "addr:street":"Clay Edwards Dr",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.550021,39.150011,-94.550021,39.150011",
@@ -14,6 +15,7 @@
     "geom:longitude":-94.550021,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2750 Clay Edwards Dr",
     "sg:city":"Kansas City",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1462600505,
-    "wof:geomhash":"17dd5c838ee1853b0634eaf37c282b57",
+    "wof:geomhash":"579343532af32f5aa9c3ea9463321bd5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,12 +62,14 @@
         }
     ],
     "wof:id":806720583,
-    "wof:lastmodified":1472630591,
+    "wof:lastmodified":1534189359,
     "wof:name":"Fernando Frnndez Pdiatric Care",
     "wof:parent_id":85867025,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mo",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        790493935
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"

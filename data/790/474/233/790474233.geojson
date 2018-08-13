@@ -2,18 +2,24 @@
   "id": 790474233,
   "type": "Feature",
   "properties": {
-    "addr:full":"1500 N Liberty St Independence MO 64050",
+    "addr:city":"Independence",
+    "addr:full":"1500 N Liberty St Independence, Mo 64050",
+    "addr:house_number":"1500",
     "addr:housenumber":"1500",
+    "addr:phone":"+1 816-325-7430",
     "addr:postcode":"64050",
+    "addr:road":"N Liberty St",
+    "addr:state":"MO",
     "addr:street":"N Liberty St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-94.416181,39.108703,-94.416181,39.108703",
-    "geom:latitude":39.108703,
-    "geom:longitude":-94.416181,
+    "geom:bbox":"-94.4165,39.10707,-94.4165,39.10707",
+    "geom:latitude":39.10707,
+    "geom:longitude":-94.4165,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"1500 N Liberty St",
     "sg:city":"Independence",
     "sg:classifiers":[
@@ -27,7 +33,10 @@
     "sg:phone":"+1 816 325 7430",
     "sg:postcode":"64050",
     "sg:province":"MO",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102532927
+    ],
     "wof:belongsto":[
         85833097,
         102191575,
@@ -39,11 +48,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8402900003,
         "sg:id":"SG_2rQVv7zcohAj7bsiAEd1oh_39.108703_-94.416181@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462596145,
-    "wof:geomhash":"567b2a3ccc3874be10b947a734b3bb19",
+    "wof:geomhash":"ad75d4029cad323b7f51fefbd3b7fde6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,8 +67,8 @@
         }
     ],
     "wof:id":790474233,
-    "wof:lastmodified":1472630828,
-    "wof:name":"Independence Vaile Mansion",
+    "wof:lastmodified":1534189366,
+    "wof:name":"Vaile Mansion",
     "wof:parent_id":85833097,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mo",
@@ -67,10 +77,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -94.416181,
-    39.108703,
-    -94.416181,
-    39.108703
+    -94.4165,
+    39.10707,
+    -94.4165,
+    39.10707
 ],
-  "geometry": {"coordinates":[-94.41618099999999,39.108703],"type":"Point"}
+  "geometry": {"coordinates":[-94.4165,39.10707],"type":"Point"}
 }

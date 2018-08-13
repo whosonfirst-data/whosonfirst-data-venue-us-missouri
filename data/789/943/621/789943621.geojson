@@ -7,6 +7,7 @@
     "addr:postcode":"65775",
     "addr:street":"Gibson St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-91.874208,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"1471 Gibson St",
     "sg:city":"West Plains",
     "sg:classifiers":[
@@ -44,12 +45,14 @@
     "wof:geomhash":"a41159ab49ef35cb5f8a225a13337eac",
     "wof:hierarchy":[],
     "wof:id":789943621,
-    "wof:lastmodified":1511323078,
+    "wof:lastmodified":1534189360,
     "wof:name":"Domino's Pizza",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mo",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        807093739
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"

@@ -14,6 +14,7 @@
     "geom:longitude":-90.263224,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4925 Childrens Pl",
     "sg:city":"Saint Louis",
     "sg:classifiers":[
@@ -46,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1462602738,
-    "wof:geomhash":"8e013960c2cea2d30bd1aae3cc4f4259",
+    "wof:geomhash":"acb79040711165b41e2ef0c19c1a604a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,13 +61,15 @@
         }
     ],
     "wof:id":806985089,
-    "wof:lastmodified":1472630766,
+    "wof:lastmodified":1534189365,
     "wof:name":"Washington Univ Schl Medicine",
     "wof:parent_id":85867031,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        807152621
+    ],
     "wof:tags":[
         "medicine"
     ]

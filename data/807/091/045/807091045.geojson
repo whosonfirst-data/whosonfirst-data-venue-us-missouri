@@ -7,6 +7,7 @@
     "addr:postcode":"65401",
     "addr:street":"Kingshighway St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-91.785071,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"1106 Kingshighway St",
     "sg:city":"Rolla",
     "sg:classifiers":[
@@ -60,13 +61,17 @@
         }
     ],
     "wof:id":807091045,
-    "wof:lastmodified":1512142981,
+    "wof:lastmodified":1534189365,
     "wof:name":"McDonald's",
     "wof:parent_id":85814531,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mo",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        790012025
+    ],
+    "wof:supersedes":[
+        790495459
+    ],
     "wof:tags":[
         "burger",
         "american"

@@ -7,6 +7,7 @@
     "addr:postcode":"63127",
     "addr:street":"Sunset Office Dr",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.409851,38.556957,-90.409851,38.556957",
@@ -14,6 +15,7 @@
     "geom:longitude":-90.409851,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"10733 Sunset Office Dr",
     "sg:city":"Saint Louis",
     "sg:classifiers":[
@@ -47,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1462586935,
-    "wof:geomhash":"9fdf6c0522b374c277c532bf0be0600a",
+    "wof:geomhash":"716bc87d2469b02796d37c80ff8108a8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,12 +63,14 @@
         }
     ],
     "wof:id":773598715,
-    "wof:lastmodified":1472631059,
+    "wof:lastmodified":1534189356,
     "wof:name":"Bituminous Casualty Corp",
     "wof:parent_id":85858243,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mo",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        806588725
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "company",

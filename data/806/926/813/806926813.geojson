@@ -2,18 +2,24 @@
   "id": 806926813,
   "type": "Feature",
   "properties": {
-    "addr:full":"7400 Grant Rd St Louis MO 63123",
+    "addr:city":"St Louis",
+    "addr:full":"7400 Grant Road St Louis, Mo 63123",
+    "addr:house_number":"7400",
     "addr:housenumber":"7400",
+    "addr:phone":"+1 314-842-1867",
     "addr:postcode":"63123",
+    "addr:road":"Grant Road",
+    "addr:state":"MO",
     "addr:street":"Grant Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-90.355235,38.551422,-90.355235,38.551422",
-    "geom:latitude":38.551422,
-    "geom:longitude":-90.355235,
+    "geom:bbox":"-90.35612,38.5515,-90.35612,38.5515",
+    "geom:latitude":38.5515,
+    "geom:longitude":-90.35612,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"7400 Grant Rd",
     "sg:city":"St Louis",
     "sg:classifiers":[
@@ -31,19 +37,24 @@
         "museum",
         "historical"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102525961,
+        102533437
+    ],
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8402900799,
         "sg:id":"SG_1sB7SvOhJ8MQxTQDEO22xc_38.551422_-90.355235@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462602247,
-    "wof:geomhash":"5453cfe48477022dd9fdb64e8740fcae",
+    "wof:geomhash":"3b8f9a0b9da3b29cc3099d34d58d01b5",
     "wof:hierarchy":[],
     "wof:id":806926813,
-    "wof:lastmodified":1472630735,
-    "wof:name":"Ulysses S Grant National Hist",
+    "wof:lastmodified":1534189366,
+    "wof:name":"Ulysses S. Grant National Historic Site",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mo",
@@ -55,10 +66,10 @@
     ]
 },
   "bbox": [
-    -90.355235,
-    38.551422,
-    -90.355235,
-    38.551422
+    -90.35612,
+    38.5515,
+    -90.35612,
+    38.5515
 ],
-  "geometry": {"coordinates":[-90.35523499999999,38.551422],"type":"Point"}
+  "geometry": {"coordinates":[-90.35612,38.5515],"type":"Point"}
 }

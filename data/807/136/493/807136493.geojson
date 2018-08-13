@@ -7,6 +7,7 @@
     "addr:postcode":"63103",
     "addr:street":"Market St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.218697,38.634102,-90.218697,38.634102",
@@ -14,6 +15,7 @@
     "geom:longitude":-90.218697,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1820 Market St",
     "sg:city":"Saint Louis",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1462604126,
-    "wof:geomhash":"f2303d8a00e27fdd5b4afa63983bf553",
+    "wof:geomhash":"714cb317a786fd983caacda19e958413",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,13 +62,17 @@
         }
     ],
     "wof:id":807136493,
-    "wof:lastmodified":1472630404,
+    "wof:lastmodified":1534189361,
     "wof:name":"Pita King",
     "wof:parent_id":85867035,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mo",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        773660503
+    ],
+    "wof:supersedes":[
+        773131825
+    ],
     "wof:tags":[
         "sandwich"
     ]

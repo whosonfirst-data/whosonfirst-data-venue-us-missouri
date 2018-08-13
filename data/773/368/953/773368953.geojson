@@ -14,6 +14,7 @@
     "geom:longitude":-90.192377,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"815 Olive St",
     "sg:city":"St Louis",
     "sg:classifiers":[
@@ -46,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1462585174,
-    "wof:geomhash":"571c18ce6fdc4fe1bdda4a69d55dd06b",
+    "wof:geomhash":"b38aaa6d9418f21563b5ae966b3e5c43",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,13 +61,15 @@
         }
     ],
     "wof:id":773368953,
-    "wof:lastmodified":1472631008,
+    "wof:lastmodified":1534189357,
     "wof:name":"Wilson 5 Svc Co",
     "wof:parent_id":85867033,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        790531811
+    ],
     "wof:tags":[
         "maintenance"
     ]

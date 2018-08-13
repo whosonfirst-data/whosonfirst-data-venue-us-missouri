@@ -14,6 +14,7 @@
     "geom:longitude":-92.349229,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"601 Bus Loop 70 W",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -46,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1462597523,
-    "wof:geomhash":"0ae2ea6b25420d52c1408c775a1ebf7a",
+    "wof:geomhash":"dd6927ca3f824b95cfbfa181ddd59ab1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,13 +61,15 @@
         }
     ],
     "wof:id":806362289,
-    "wof:lastmodified":1472630198,
+    "wof:lastmodified":1534189365,
     "wof:name":"A-Tlc Moving",
     "wof:parent_id":85835171,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        806869839
+    ],
     "wof:tags":[
         "mover"
     ]

@@ -2,18 +2,24 @@
   "id": 806687923,
   "type": "Feature",
   "properties": {
-    "addr:full":"1155 S Rock Hill Rd Saint Louis MO 63119",
+    "addr:city":"Webster Grvs",
+    "addr:full":"1155 S Rock Hill Rd Webster Grvs, Mo 63119-3974",
+    "addr:house_number":"1155",
     "addr:housenumber":"1155",
-    "addr:postcode":"63119",
+    "addr:phone":"+1 314-968-1857",
+    "addr:postcode":"63119-3974",
+    "addr:road":"S Rock Hill Rd",
+    "addr:state":"MO",
     "addr:street":"S Rock Hill Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-90.366648,38.573979,-90.366648,38.573979",
-    "geom:latitude":38.573979,
-    "geom:longitude":-90.366648,
+    "geom:bbox":"-90.36688,38.57403,-90.36688,38.57403",
+    "geom:latitude":38.57403,
+    "geom:longitude":-90.36688,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"1155 S Rock Hill Rd",
     "sg:city":"Saint Louis",
     "sg:classifiers":[
@@ -36,19 +42,24 @@
         "gallery",
         "historical"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102525961,
+        102533437
+    ],
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8402900671,
         "sg:id":"SG_6taaeczc3J2TttLPMjPrva_38.573979_-90.366648@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462600237,
-    "wof:geomhash":"116bdcb0367ca1add84cd847a9c887f3",
+    "wof:geomhash":"ffe696b200157338f3d1648d01c95e01",
     "wof:hierarchy":[],
     "wof:id":806687923,
-    "wof:lastmodified":1472630596,
-    "wof:name":"Webster Groves Historical Soc",
+    "wof:lastmodified":1534189367,
+    "wof:name":"Webster Groves Historical Society",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mo",
@@ -60,10 +71,10 @@
     ]
 },
   "bbox": [
-    -90.366648,
-    38.573979,
-    -90.366648,
-    38.573979
+    -90.36688,
+    38.57403,
+    -90.36688,
+    38.57403
 ],
-  "geometry": {"coordinates":[-90.366648,38.573979],"type":"Point"}
+  "geometry": {"coordinates":[-90.36687999999999,38.57403],"type":"Point"}
 }

@@ -7,6 +7,7 @@
     "addr:postcode":"63361",
     "addr:street":"E 3Rd St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.503885,38.979386,-91.503885,38.979386",
@@ -14,6 +15,7 @@
     "geom:longitude":-91.503885,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"211 E 3rd St",
     "sg:city":"Montgomery City",
     "sg:classifiers":[
@@ -38,15 +40,17 @@
     },
     "wof:country":"US",
     "wof:created":1462589811,
-    "wof:geomhash":"1fceb650cb576da19dbb8ca61446a7fe",
+    "wof:geomhash":"b23e1b1149b78504d21154f946ef4160",
     "wof:hierarchy":[],
     "wof:id":789694125,
-    "wof:lastmodified":1472630304,
+    "wof:lastmodified":1534189356,
     "wof:name":"Montgomery Circuit Court Clerk",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mo",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        773362435
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "county"

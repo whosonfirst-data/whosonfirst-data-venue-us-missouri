@@ -14,6 +14,7 @@
     "geom:longitude":-90.373468,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"9369 Olive Blvd",
     "sg:city":"St Louis",
     "sg:classifiers":[
@@ -47,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1462598231,
-    "wof:geomhash":"a75a8efe21baf22976cbd4f2e474f08c",
+    "wof:geomhash":"39665b9f303809065c3ca334c76e8f13",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,13 +62,15 @@
         }
     ],
     "wof:id":806447933,
-    "wof:lastmodified":1472630286,
+    "wof:lastmodified":1534189352,
     "wof:name":"Allied Mortgage Svc",
     "wof:parent_id":85803699,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        790393025
+    ],
     "wof:tags":[
         "loan",
         "real estate"

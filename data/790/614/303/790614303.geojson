@@ -14,6 +14,7 @@
     "geom:longitude":-90.375275,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2101 Jeffco Blvd",
     "sg:city":"Arnold",
     "sg:classifiers":[
@@ -43,7 +44,7 @@
     },
     "wof:country":"US",
     "wof:created":1462597348,
-    "wof:geomhash":"291ec373a336c74631f0bd8548ce4afe",
+    "wof:geomhash":"8045c3fe0cce0aa52e78f965b1ccff4b",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,13 +55,15 @@
         }
     ],
     "wof:id":790614303,
-    "wof:lastmodified":1472630902,
+    "wof:lastmodified":1534189362,
     "wof:name":"Arnold City Hall",
     "wof:parent_id":85805175,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        807105059
+    ],
     "wof:tags":[
         "city"
     ]

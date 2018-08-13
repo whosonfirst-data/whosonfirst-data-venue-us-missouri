@@ -7,6 +7,7 @@
     "addr:postcode":"64804",
     "addr:street":"E 34Th St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.505457,37.050889,-94.505457,37.050889",
@@ -14,6 +15,7 @@
     "geom:longitude":-94.505457,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"932 E 34th St",
     "sg:city":"Joplin",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1462597035,
-    "wof:geomhash":"11b2e97c2705ea05c43e44636cb2c4da",
+    "wof:geomhash":"e3ad87a2890d39779ac6da0dfd4f601b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,12 +62,14 @@
         }
     ],
     "wof:id":790579695,
-    "wof:lastmodified":1472630911,
+    "wof:lastmodified":1534189356,
     "wof:name":"Senior Serenity",
     "wof:parent_id":420525385,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mo",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        806586007
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"

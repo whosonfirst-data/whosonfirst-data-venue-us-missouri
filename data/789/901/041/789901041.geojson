@@ -7,6 +7,7 @@
     "addr:postcode":"63103",
     "addr:street":"Washington Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.204734,38.633512,-90.204734,38.633512",
@@ -14,6 +15,7 @@
     "geom:longitude":-90.204734,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1709 Washington Ave",
     "sg:city":"Saint Louis",
     "sg:classifiers":[
@@ -50,7 +52,7 @@
     },
     "wof:country":"US",
     "wof:created":1462591453,
-    "wof:geomhash":"72b2639decba31e360532140279977ec",
+    "wof:geomhash":"fa91eb5b0a62df98fa7aa0ef3d067862",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -64,12 +66,14 @@
         }
     ],
     "wof:id":789901041,
-    "wof:lastmodified":1472630737,
+    "wof:lastmodified":1534189357,
     "wof:name":"Blue Design",
     "wof:parent_id":85873645,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mo",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        790325305
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "ad",

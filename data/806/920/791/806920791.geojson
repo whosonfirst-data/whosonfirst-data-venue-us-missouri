@@ -7,6 +7,7 @@
     "addr:postcode":"65807",
     "addr:street":"W Chesterfield Blvd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.321043,37.14607,-93.321043,37.14607",
@@ -14,6 +15,7 @@
     "geom:longitude":-93.321043,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2101 W Chesterfield Blvd",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1462602195,
-    "wof:geomhash":"03065de4b4c435c06904e6a97d01126c",
+    "wof:geomhash":"e9cb3e25be49df5b7257c40ca411056a",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -56,12 +58,14 @@
         }
     ],
     "wof:id":806920791,
-    "wof:lastmodified":1472630735,
+    "wof:lastmodified":1534189351,
     "wof:name":"Handyman Co",
     "wof:parent_id":85881151,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mo",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        773181435
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "repairing",

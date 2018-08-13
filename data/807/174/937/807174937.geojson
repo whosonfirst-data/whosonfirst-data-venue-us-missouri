@@ -7,6 +7,7 @@
     "addr:postcode":"63139",
     "addr:street":"Clayton Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.287399,38.630001,-90.287399,38.630001",
@@ -14,6 +15,7 @@
     "geom:longitude":-90.287399,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"6125 Clayton Ave",
     "sg:city":"Saint Louis",
     "sg:classifiers":[
@@ -43,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1462604536,
-    "wof:geomhash":"ca318c11e7c4b5e423f2d3d171c0d275",
+    "wof:geomhash":"15bbb1d694f01542bf6584fa1b35804f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,12 +59,14 @@
         }
     ],
     "wof:id":807174937,
-    "wof:lastmodified":1472630466,
+    "wof:lastmodified":1534189364,
     "wof:name":"Thomas Jean A MD",
     "wof:parent_id":85873705,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mo",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        806972395
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

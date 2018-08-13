@@ -14,6 +14,7 @@
     "geom:longitude":-93.281305,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"300 S John Q Hammons Pkwy",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -47,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1462599526,
-    "wof:geomhash":"0b3d9358887ac341b2cf970dd54176bc",
+    "wof:geomhash":"18579d39a7bb91287c6d8ae87bccc863",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,13 +62,15 @@
         }
     ],
     "wof:id":806604553,
-    "wof:lastmodified":1472630445,
+    "wof:lastmodified":1534189356,
     "wof:name":"United B & W Inc",
     "wof:parent_id":85881125,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        790281887
+    ],
     "wof:tags":[
         "dealer",
         "rug"

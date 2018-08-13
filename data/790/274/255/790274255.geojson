@@ -14,6 +14,7 @@
     "geom:longitude":-90.425352,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"505 Couch Ave",
     "sg:city":"Saint Louis",
     "sg:classifiers":[
@@ -46,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1462594539,
-    "wof:geomhash":"9200c79e6f2e59c29a79546b4b786bcd",
+    "wof:geomhash":"0d1f5678b47bae1211b9c9692f8aa025",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,13 +61,15 @@
         }
     ],
     "wof:id":790274255,
-    "wof:lastmodified":1472630627,
+    "wof:lastmodified":1534189356,
     "wof:name":"County Obgyn",
     "wof:parent_id":85858661,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        790359461
+    ],
     "wof:tags":[
         "medical"
     ]

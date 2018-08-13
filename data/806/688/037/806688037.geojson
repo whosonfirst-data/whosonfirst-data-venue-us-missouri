@@ -7,6 +7,7 @@
     "addr:postcode":"63301",
     "addr:street":"S Duchesne Dr",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-90.515399,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"740 S Duchesne Dr",
     "sg:city":"St Charles",
     "sg:classifiers":[
@@ -56,12 +57,14 @@
         }
     ],
     "wof:id":806688037,
-    "wof:lastmodified":1512142753,
+    "wof:lastmodified":1534189359,
     "wof:name":"Mc Donald's",
     "wof:parent_id":85821097,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mo",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        807070091
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

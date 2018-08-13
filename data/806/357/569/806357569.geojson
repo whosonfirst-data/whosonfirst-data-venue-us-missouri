@@ -14,6 +14,7 @@
     "geom:longitude":-92.276615,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4038 E Broadway",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -46,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1462597489,
-    "wof:geomhash":"1d669a3ad452f31295ac8245da1a0206",
+    "wof:geomhash":"69bc6575f1a4d153309aa2e83dc509ef",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,13 +61,15 @@
         }
     ],
     "wof:id":806357569,
-    "wof:lastmodified":1472630210,
+    "wof:lastmodified":1534189365,
     "wof:name":"Friends Together Antiques",
     "wof:parent_id":85835171,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        807254329
+    ],
     "wof:tags":[
         "antique"
     ]

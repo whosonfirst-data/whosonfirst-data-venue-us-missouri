@@ -14,6 +14,7 @@
     "geom:longitude":-95.065976,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"26081 Trinity Rd",
     "sg:city":"Oregon",
     "sg:classifiers":[
@@ -51,7 +52,7 @@
         "sg:id":"SG_2jaFbOiwowqpT1Jl7SBRT3_40.013116_-95.065976@1303262933"
     },
     "wof:country":"US",
-    "wof:geomhash":"7bc808461642d6e91283b6f42d14391d",
+    "wof:geomhash":"6de809445052d8b144035eeb27eece4c",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -63,13 +64,15 @@
         }
     ],
     "wof:id":202446903,
-    "wof:lastmodified":1472630308,
+    "wof:lastmodified":1534189363,
     "wof:name":"Jerry Kneale",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mo",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        807023281
+    ],
     "wof:tags":[
         "hay",
         "ranch"

@@ -2,18 +2,23 @@
   "id": 789593961,
   "type": "Feature",
   "properties": {
-    "addr:full":"2818 Frederick Ave St Joseph MO 64506",
+    "addr:city":"Saint Joseph",
+    "addr:full":"2818 Frederick Ave Saint Joseph, Mo 64506-2903",
+    "addr:house_number":"2818",
     "addr:housenumber":"2818",
-    "addr:postcode":"64506",
+    "addr:postcode":"64506-2903",
+    "addr:road":"Frederick Ave",
+    "addr:state":"MO",
     "addr:street":"Frederick Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-94.821114,39.776855,-94.821114,39.776855",
-    "geom:latitude":39.776855,
-    "geom:longitude":-94.821114,
+    "geom:bbox":"-94.82322,39.77675,-94.82322,39.77675",
+    "geom:latitude":39.77675,
+    "geom:longitude":-94.82322,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"2818 Frederick Ave",
     "sg:city":"St Joseph",
     "sg:classifiers":[
@@ -30,19 +35,21 @@
     "sg:tags":[
         "art"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[],
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8409400025,
         "sg:id":"SG_5XGsOSP7QxlHKoxSaVWOBB_39.776855_-94.821114@1294163950"
     },
     "wof:country":"US",
     "wof:created":1462589013,
-    "wof:geomhash":"5cb26eaeec9a088fa2328fb45a3046dd",
+    "wof:geomhash":"811a28ce90b83a2c8b530b7b4d0329f0",
     "wof:hierarchy":[],
     "wof:id":789593961,
-    "wof:lastmodified":1472630222,
-    "wof:name":"Albrecht-Kemper Museum of Art",
+    "wof:lastmodified":1534189367,
+    "wof:name":"Albrecht-Kemper Museum Of Art",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mo",
@@ -53,10 +60,10 @@
     ]
 },
   "bbox": [
-    -94.821114,
-    39.776855,
-    -94.821114,
-    39.776855
+    -94.82322,
+    39.77675,
+    -94.82322,
+    39.77675
 ],
-  "geometry": {"coordinates":[-94.82111399999999,39.776855],"type":"Point"}
+  "geometry": {"coordinates":[-94.82322000000001,39.77675],"type":"Point"}
 }

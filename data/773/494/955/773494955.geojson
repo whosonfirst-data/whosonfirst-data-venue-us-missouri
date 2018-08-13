@@ -7,6 +7,7 @@
     "addr:postcode":"65203",
     "addr:street":"W Nifong Blvd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.345105,38.907579,-92.345105,38.907579",
@@ -14,6 +15,7 @@
     "geom:longitude":-92.345105,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"601 W Nifong Blvd",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1462586173,
-    "wof:geomhash":"dcf3b4625af882cfcc32386065b242d9",
+    "wof:geomhash":"acf5c5e90328e20c445685617268e05d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,12 +62,15 @@
         }
     ],
     "wof:id":773494955,
-    "wof:lastmodified":1472631051,
+    "wof:lastmodified":1534189364,
     "wof:name":"Clark Kent Arthur DDS",
     "wof:parent_id":85835171,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mo",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        806505785,
+        807260685
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
